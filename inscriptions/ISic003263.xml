@@ -196,32 +196,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc"><!-- text needs further editing, for inclusion of hedera, etc. -->
                 <ab>
-                    <lb n="1"/>
-                    <expan>
-                        <abbr>Θ</abbr>
-                        <ex>εοῖς</ex>
-                    </expan>
-                    <expan>
-                        <abbr>Κ</abbr>
-                        <ex>αταχθονίοις</ex>
-                    </expan>
-                    <lb n="2"/>
-                    <expan>
-                        <abbr>Μ</abbr>
-                        <ex>ᾶρκος</ex>
-                    </expan>
-                    Βειψάνιος
-                    <lb n="3"/>
-                    Φοῖβος
-                    <expan>
-                        <abbr>ἔζησ</abbr>
-                        <ex>εν</ex>
-                    </expan>
-                    ἔτη
-                    <lb n="4"/>
-                    κϛ πατὴρ καὶ μή
-                    <lb n="5" break="no"/>
-                    τηρ υἱῷ εὐσεβεῖ
+                    <lb n="1"/><expan><abbr>Θ</abbr><ex>εοῖς</ex></expan> <expan><abbr>Κ</abbr><ex>αταχθονίοις</ex></expan>
+                    <lb n="2"/><expan><abbr>Μ</abbr><ex>ᾶρκος</ex></expan> Βειψάνιος
+                    <lb n="3"/>Φοῖβος <expan><abbr>ἔζησ</abbr><ex>εν</ex></expan> ἔτη
+                    <lb n="4"/>κϛ πατὴρ καὶ μή
+                    <lb n="5" break="no"/>τηρ υἱῷ εὐσεβεῖ
                 </ab>
             </div>
             <div type="apparatus">
