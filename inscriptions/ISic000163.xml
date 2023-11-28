@@ -214,7 +214,7 @@
                 <ab>
                     <lb n="1"/><persName type="divine"><w>Dis</w> <g ref="#interpunct">·</g> <w>Manibus</w></persName> <g ref="#interpunct">·</g>
                     <lb n="2"/><persName type="attested"><name>Cornelia</name> <g ref="#interpunct">·</g> <name>Scepsis</name></persName> <g ref="#interpunct">·</g>
-                    <lb n="3"/><expan><abbr>vix</abbr><ex>it</ex></expan> <g ref="#interpunct">·</g> <expan><abbr>an</abbr><ex>nis</ex></expan> <g ref="#interpunct">·</g> <hi rend="reversed">Ↄ</hi> <g ref="#interpunct">·</g> <num value="38">XXXVIII</num> <g ref="#interpunct">·</g>
+                    <lb n="3"/><expan><abbr>vix</abbr><ex>it</ex></expan> <g ref="#interpunct">·</g> <expan><abbr>an</abbr><ex>nis</ex></expan> <g ref="#interpunct">·</g> <expan><abbr><hi rend="reversed"><am>Ↄ</am></hi></abbr><ex>circiter</ex></expan> <g ref="#interpunct">·</g> <num value="38">XXXVIII</num> <g ref="#interpunct">·</g>
                     <lb n="4"/><persName type="attested"><name>Auctus</name></persName> <g ref="#interpunct">·</g> coniugi <g ref="#interpunct">·</g>
                     <lb n="5"/><expan><abbr>piissim</abbr><ex>ae</ex></expan> <g ref="#interpunct">·</g> <expan><abbr>fec</abbr><ex>it</ex>
                     </expan>
