@@ -188,32 +188,13 @@
         <body>
             <div type="edition" xml:space="preserve" subtype="PHI" n="PHI334900">
                 <ab>
-                    <lb n="1"/>
-                    <supplied reason="lost">Greg</supplied>oriae ☩ <supplied reason="omitted">p</supplied>iae
-                    <lb n="2"/>
-                    <supplied reason="lost">
-                        <expan>
-                            <abbr>fem</abbr>
-                            <ex>inae</ex>
-                        </expan>
-                        i
-                    </supplied>
-                    nde coniu-
-                    <lb n="3"/>
-                    <supplied reason="lost">gi inc</supplied>ompara-
-                    <lb n="4"/>
-                    <supplied reason="lost">b</supplied>ili
-                    <expan>
-                        <abbr>qua</abbr>
-                        <ex>e</ex>
-                    </expan>
-                    morata
-                    <lb n="5"/>
-                    <supplied reason="lost">es</supplied>t in ∙ seculo an-
-                    <lb n="6"/>
-                    <supplied reason="lost">no</supplied>s XXXIII dies XXVIIII
-                    <lb n="7"/>
-                    <supplied reason="lost">— —</supplied>GVS merenti ∙ coniugi fecit.
+                    <lb n="1"/><supplied reason="lost">Greg</supplied>oriae <g>☩</g> <supplied reason="omitted">p</supplied>iae
+                    <lb n="2"/><supplied reason="lost"><expan><abbr>fem</abbr><ex>inae</ex></expan></supplied> <supplied>i</supplied>nde coniu
+                    <lb n="3" break="no"/><supplied reason="lost">gi</supplied> <supplied>inc</supplied>ompara
+                    <lb n="4" break="no"/><supplied reason="lost">b</supplied>ili<expan> <abbr>qua</abbr><ex>e</ex></expan> morata
+                    <lb n="5"/><supplied reason="lost">es</supplied>t in ∙ seculo an
+                    <lb n="6" break="no"/><supplied reason="lost">no</supplied>s XXXIII dies XXVIIII
+                    <lb n="7"/><supplied reason="lost">— —</supplied>GVS merenti ∙ coniugi fecit
                     <lb n="8"/>
                 </ab>
             </div>
