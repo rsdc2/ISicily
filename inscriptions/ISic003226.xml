@@ -198,7 +198,7 @@
                     <lb n="2"/>Domitius <g ref="#ivy-leaf"/> Suces
                     <lb n="3" break="no"/>sus <g ref="#ivy-leaf"/> vixit · <expan><abbr>an</abbr><ex>nis</ex></expan> <num value="30">XXX</num>
                     <lb n="4"/>Domitia <g ref="#ivy-leaf"/> Cosmi
-                    <lb n="5"/>ce <g ref="#ivy-leaf"/> uxor feci<supplied reason="undefined" evidence="previouseditor">t</supplied>
+                    <lb n="5" break="no"/>ce <g ref="#ivy-leaf"/> uxor feci<supplied reason="undefined" evidence="previouseditor">t</supplied>
                     <lb n="6"/>viro merenti
                 </ab>
             </div>
