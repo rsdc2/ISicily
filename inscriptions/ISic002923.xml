@@ -193,7 +193,7 @@
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#VM">
                 <ab>
                     <lb n="1"/><g ref="#cross_uninterpreted"/> <expan><abbr><hi rend="supraline">M</hi></abbr><ex>emoria</ex></expan> Anto
-                    <lb n="2"/>ni figuli e<supplied reason="omitted">t</supplied> Leonti<supplied reason="omitted">a</supplied>e <g ref="#cross_uninterpreted"/>
+                    <lb n="2" break="no"/>ni figuli e<supplied reason="omitted">t</supplied> Leonti<supplied reason="omitted">a</supplied>e <g ref="#cross_uninterpreted"/>
                 </ab>
             </div>
             <div type="apparatus">
