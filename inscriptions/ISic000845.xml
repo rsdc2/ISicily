@@ -189,7 +189,7 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
                     <lb n="1"/><expan><abbr>Θ</abbr><ex>εοῖς</ex></expan> <expan><abbr>Κ</abbr><ex>αταχθονίοις</ex></expan>
-                    .<lb n="2"/>ἐντάδε κεῖταε
+                    <lb n="2"/>ἐντάδε κεῖταε
                     <lb n="3"/><choice><orig>Εὐνώη</orig><reg>Εὐνόη</reg></choice> δούλη<surplus>ν</surplus>
                     <lb n="4"/><choice><orig>Κωρηννίδος</orig><reg>Κοριννίδος</reg></choice>
                 </ab>
