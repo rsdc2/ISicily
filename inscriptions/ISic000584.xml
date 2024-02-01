@@ -217,7 +217,7 @@
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
                     <lb n="1"/><persName type="attested"><name type="praenomen"><expan><abbr>M</abbr><ex>arcus</ex></expan></name> <g ref="#interpunct">·</g> <name type="nomen">Limbricius</name> <g ref="#interpunct">·</g> <persName type="attested"><name type="patronym"><expan><abbr>M</abbr><ex>arci</ex></expan></name></persName> <g ref="#interpunct">·</g> <expan><abbr>f</abbr><ex>ilius</ex></expan> <g ref="#interpunct">·</g>
-                    <lb n="2"/><orgName><expan><abbr>Fal</abbr><ex>erna tribu</ex></expan></orgName> <g ref="#interpunct">·</g> <name type="cognomen">Rufus</name></persName> <g ref="#interpunct">·</g>
+                    <lb n="2"/><orgName><expan><abbr>Fal</abbr><ex>erna</ex></expan> <supplied reason="subaudible">tribu</supplied></orgName> <g ref="#interpunct">·</g> <name type="cognomen">Rufus</name></persName> <g ref="#interpunct">·</g>
                     <lb n="3"/><expan><abbr>v</abbr><ex>ivens</ex></expan> <g ref="#interpunct">·</g> sibi <g ref="#interpunct">·</g> et <g ref="#interpunct">·</g> <persName type="attested"><name type="nomen">Helviae</name> <g ref="#interpunct">·</g> <name type="cognomen">Arurae</name></persName>
                     <lb n="4"/>uxori <g ref="#interpunct">·</g> suae <g ref="#interpunct">·</g>
                  </ab>

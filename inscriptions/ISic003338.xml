@@ -200,7 +200,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
-                    <lb n="1"/><expan><abbr>C</abbr><ex>ai</ex></expan> · Servili · <expan><abbr>C</abbr><ex>ai</ex></expan> · <expan><abbr>f</abbr><ex>ilius</ex></expan> · <expan><hi rend="ligature"><abbr>Quir</abbr></hi><ex>ina tribu</ex></expan>
+                    <lb n="1"/><expan><abbr>C</abbr><ex>ai</ex></expan> · Servili · <expan><abbr>C</abbr><ex>ai</ex></expan> · <expan><abbr>f</abbr><ex>ilius</ex></expan> · <expan><hi rend="ligature"><abbr>Quir</abbr></hi><ex>ina</ex></expan> <supplied reason="subaudible">tribu</supplied>
                     <lb n="2"/>Avite · pie · salve
                     <lb n="3"/>v<hi rend="tall">i</hi>xit · <expan><abbr>an</abbr><ex>nos</ex></expan> · <num value="17">XVII</num> ·
                     <lb n="4"/>diebus · <num value="11">XI</num> ·
