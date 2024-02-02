@@ -193,8 +193,8 @@
                 <ab>
                     <lb n="1"/><persName type="attested"><name>Ἐπαφρό<supplied reason="omitted">δ</supplied>ειτος</name></persName>
                     <lb n="2"/>ἐτελεύτησεν
-                    <lb n="3"/><expan><abbr>μην</abbr><ex>ὶ</ex></expan> Δεκεν
-                    <lb n="4" break="no"/>βρί<surplus>α</surplus>ῳ <g ref="#alpha">α</g> <expan><abbr>Ἰ</abbr><ex>ησοῦς</ex></expan> <expan><abbr><am><g ref="#christogram">☧</g></am></abbr><ex>Χριστὸ</ex><abbr>ς</abbr></expan> <g ref="#omega">ω</g>
+                    <lb n="3"/><expan><abbr>μην</abbr><ex>ὶ</ex></expan> <choice><orig>Δεκεν
+                    <lb n="4" break="no"/>βρί<surplus>α</surplus>ῳ</orig><reg>Δεκεμβρίῳ</reg></choice> <g ref="#alpha">α</g> <expan><abbr>Ἰ</abbr><ex>ησοῦς</ex></expan> <expan><abbr><am><g ref="#christogram">☧</g></am></abbr><ex>Χριστὸ</ex><abbr>ς</abbr></expan> <g ref="#omega">ω</g>
                 </ab>
             </div>
             <div type="apparatus" resp="#JP">
