@@ -197,7 +197,7 @@
                 <ab>
                     <lb n="1"/><expan><abbr>D</abbr><ex>is</ex></expan> <expan><abbr>M</abbr><ex>anibus</ex></expan>
                     <lb n="2"/><expan><abbr>Fl</abbr><ex>avius</ex></expan> · Melovius
-                    <lb n="3"/><expan><abbr>vix</abbr><ex>it</ex></expan> · <expan><abbr>nn</abbr><ex>is</ex></expan> · <num value="16">XVI</num>
+                    <lb n="3"/><expan><abbr>vix</abbr><ex>it</ex></expan> · <expan><abbr><choice><orig>nn</orig><reg>ann</reg></choice></abbr><ex>is</ex></expan> · <num value="16">XVI</num>
                     <lb n="4"/><expan><abbr>mens</abbr><ex>ibus</ex></expan> · <num value="3">III</num> · <expan><abbr>dieb</abbr><ex>us</ex></expan> · <num value="5">V</num>
                     <lb n="5"/><expan><abbr>nat</abbr><ex>ione</ex></expan> · Macedo
                 </ab>
