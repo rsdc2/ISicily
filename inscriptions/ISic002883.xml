@@ -189,10 +189,8 @@
         <body>
             <div type="edition" xml:space="preserve" subtype="PHI" n="PHI334882">
                 <ab>
-                    <lb n="1"/>
-
-
-                    Muril-<lb n="2"/> la.
+                    <lb n="1"/>Muril
+                    <lb n="2" break="no"/>la
                     <lb n="3"/>
                 </ab>
             </div>
