@@ -204,12 +204,12 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la">
                 <ab>
-                    <lb n="1"/>D(is) M(anibus) s(acrum)
+                    <lb n="1"/><expan><abbr>D</abbr><ex>is</ex></expan> <expan><abbr>M</abbr><ex>anibus</ex></expan> <expan><abbr>s</abbr><ex>acrum</ex></expan>
                     <lb n="2"/>Abdalas Domi
                     <lb n="3" break="no"/>tiae Domitiani
                     <lb n="4"/>magister magnus
-                    <lb n="5"/>ovium qui bene vix(it)
-                    <lb n="6"/>in officio ann(os) LXXX
+                    <lb n="5"/>ovium qui bene <expan><abbr>vix</abbr><ex>it</ex></expan>
+                    <lb n="6"/>in officio <expan><abbr>ann</abbr><ex>os</ex></expan> LXXX
                 </ab>
             </div>
             <div type="apparatus">
