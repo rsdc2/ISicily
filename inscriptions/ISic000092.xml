@@ -90,13 +90,13 @@
                                         <depth unit="cm">12-19</depth>
                                     </dimensions>
                                 </support>
-                                <condition/>
+                                <condition ana="#condition.damaged"/>
                             </supportDesc>
                             <layoutDesc>
                                 <layout>
                                     <p>Six lines of large Latin letters which reduce in height, with a vacat below.</p>
                                     <rs ana="#execution.chiselled" ref="http://www.eagle-network.eu/voc/writing/lod/1">chiselled</rs>
-                                    <damage/>
+                                    <damage ana="#text_condition.incomplete"/>
                                 </layout>
                             </layoutDesc>
                         </objectDesc>
@@ -105,47 +105,47 @@
                                 <p>Fine monumental letters with occasional serif flourishes, and some taller letters. Lightly incised hederae for interpuncts.</p>
                                 <locus from="line1" to="line1">Line 1</locus>
                                 <dimensions type="letterHeight">
-                                    <height unit="mm">83-92</height>
+                                    <height unit="mm" atLeast="83" atMost="92">83-92</height>
                                 </dimensions>
                                 <locus from="line2" to="line2">Line 2</locus>
                                 <dimensions type="letterHeight">
-                                    <height unit="mm">69-90</height>
+                                    <height unit="mm" atLeast="69" atMost="90">69-90</height>
                                 </dimensions>
                                 <locus from="line3" to="line3">Line 3</locus>
                                 <dimensions type="letterHeight">
-                                    <height unit="mm">44-52</height>
+                                    <height unit="mm" atLeast="44" atMost="52">44-52</height>
                                 </dimensions>
                                 <locus from="line4" to="line4">Line 4</locus>
                                 <dimensions type="letterHeight">
-                                    <height unit="mm">41-55</height>
+                                    <height unit="mm" atLeast="41" atMost="55">41-55</height>
                                 </dimensions>
                                 <locus from="line5" to="line5">Line 5</locus>
                                 <dimensions type="letterHeight">
-                                    <height unit="mm">37-55</height>
+                                    <height unit="mm" atLeast="37" atMost="55">37-55</height>
                                 </dimensions>
                                 <locus from="line6" to="line6">Line 6</locus>
                                 <dimensions type="letterHeight">
-                                    <height unit="mm">40-60</height>
+                                    <height unit="mm" atLeast="40" atMost="60">40-60</height>
                                 </dimensions>
                                 <locus from="line1" to="line2">Interlineation line 1 to 2</locus>
                                 <dimensions type="interlinear">
-                                    <height unit="mm">25-42</height>
+                                    <height unit="mm" atLeast="25" atMost="42">25-42</height>
                                 </dimensions>
                                 <locus from="line2" to="line3">Interlineation line 2 to 3</locus>
                                 <dimensions type="interlinear">
-                                    <height unit="mm">30-35</height>
+                                    <height unit="mm" atLeast="30" atMost="35">30-35</height>
                                 </dimensions>
                                 <locus from="line3" to="line4">Interlineation line 3 to 4</locus>
                                 <dimensions type="interlinear">
-                                    <height unit="mm">30-45</height>
+                                    <height unit="mm" atLeast="30" atMost="45">30-45</height>
                                 </dimensions>
                                 <locus from="line4" to="line5">Interlineation line 4 to 5</locus>
                                 <dimensions type="interlinear">
-                                    <height unit="mm">25-38</height>
+                                    <height unit="mm" atLeast="25" atMost="38">25-38</height>
                                 </dimensions>
                                 <locus from="line5" to="line6">Interlineation line 5 to 6</locus>
                                 <dimensions type="interlinear">
-                                    <height unit="mm">22-42</height>
+                                    <height unit="mm" atLeast="22" atMost="42">22-42</height>
                                 </dimensions>
                             </handNote>
                         </handDesc>
@@ -237,8 +237,8 @@
                     <lb n="2" xml:id="AJUBK"/><name xml:id="AJUBU"><w n="30">Fabio</w></name> <name xml:id="AJUBe"><w n="35"><hi rend="tall" xml:id="AJUBo">T</hi>i<hi rend="tall" xml:id="AJUBy">t</hi>iano</w></name></persName> <g ref="#interpunct" xml:id="AJUBΙ" n="40">·</g> <roleName type="supracivic" subtype="clarissimus" xml:id="AJUBΤ"><w xml:id="AJUBε" n="45"><expan xml:id="AJUBο"><abbr xml:id="AJUCA">c</abbr><ex xml:id="AJUCK">larissimo</ex></expan></w></roleName> <g ref="#interpunct" xml:id="AJUCU" n="50">·</g> <w xml:id="AJUCe" n="55"><expan xml:id="AJUCo"><abbr xml:id="AJUCy">v</abbr><ex xml:id="AJUCΙ">iro</ex></expan></w> <g ref="#interpunct" xml:id="AJUCΤ" n="60">·</g> <roleName type="supracivic" subtype="consul" xml:id="AJUCε"><w xml:id="AJUCο" n="65"><expan xml:id="AJUDA"><abbr xml:id="AJUDK">co</abbr><ex xml:id="AJUDU">n</ex><abbr xml:id="AJUDe"><hi rend="tall" xml:id="AJUDo">s</hi></abbr><ex xml:id="AJUDy">uli</ex></expan></w></roleName> <g ref="#ivy-leaf" xml:id="AJUDΙ" n="70">❦</g>
                     <lb n="3" xml:id="AJUDΤ"/><w xml:id="AJUDε" n="75">optimo</w> <roleName type="civic" subtype="civis" xml:id="AJUDο"><w xml:id="AJUEA" n="80">civi</w></roleName> <w xml:id="AJUEK" n="85">ac</w> <roleName type="paracivic" subtype="patronus" xml:id="AJUEU"><w xml:id="AJUEe" n="90">patrono</w></roleName> <w xml:id="AJUEo" n="95">bene</w> <w xml:id="AJUEy" n="100">me
                     <lb n="4" break="no" xml:id="AJUEΙ"/>renti</w> <g ref="#ivy-leaf" xml:id="AJUEΤ" n="105">❦</g> <space unit="character" quantity="3" xml:id="AJUEε"/><w xml:id="AJUEο" n="110">ordo</w> <w xml:id="AJUFA" n="115">et</w> <w xml:id="AJUFK" n="120">popu<hi rend="tall" xml:id="AJUFU">l</hi>us</w> <w xml:id="AJUFe" n="125">splen
-                    <lb n="5" break="no" xml:id="AJUFo"/><supplied reason="lost" xml:id="AJUFy">d</supplied>idis <hi rend="tall" xml:id="AJUFΙ">s</hi>imae</w> <placeName type="ancient" xml:id="AJUFΤ"><w xml:id="AJUFε" n="130"><expan xml:id="AJUFο"><abbr xml:id="AJUGA">col</abbr><ex xml:id="AJUGK">oniae</ex></expan></w> <w xml:id="AJUGU" n="135"><expan xml:id="AJUGe"><abbr xml:id="AJUGo">Aug</abbr><ex xml:id="AJUGy">ustae</ex></expan></w> <w xml:id="AJUGΙ" n="140">Himereorum</w>
-                    <lb n="6" xml:id="AJUGΤ"/><w xml:id="AJUGε" n="145"><expan xml:id="AJUGο"><abbr xml:id="AJUHA"><supplied reason="lost" xml:id="AJUHK">The</supplied>rmi <hi rend="tall" xml:id="AJUHU">t</hi></abbr><ex xml:id="AJUHe">anorum</ex></expan></w></placeName> <g ref="#ivy-leaf" xml:id="AJUHo" n="150">❦</g> <space unit="character" quantity="1" xml:id="AJUHy"/><w xml:id="AJUHΙ" n="155">pecunia</w> <w xml:id="AJUHΤ" n="160">sua</w> <w xml:id="AJUHε" n="165">posui<hi rend="tall" xml:id="AJUHο">t</hi></w>
+                    <lb n="5" break="no" xml:id="AJUFo"/><supplied reason="lost" xml:id="AJUFy">d</supplied>idis <hi rend="tall" xml:id="AJUFΙ">s</hi>imae</w> <placeName type="ancient" xml:id="AJUFΤ"><w xml:id="AJUFε" n="130"><expan xml:id="AJUFο"><abbr xml:id="AJUGA">col</abbr><ex xml:id="AJUGK">oniae</ex></expan></w> <name xml:id="AJUGU"><w n="135"><expan xml:id="AJUGe"><abbr xml:id="AJUGo">Aug</abbr><ex xml:id="AJUGy">ustae</ex></expan></w></name> <name xml:id="AJUGΙ"><w n="140">Himereorum</w></name>
+                    <lb n="6" xml:id="AJUGΤ"/><name xml:id="AJUGε"><w n="145"><expan xml:id="AJUGο"><abbr xml:id="AJUHA"><supplied reason="lost" xml:id="AJUHK">The</supplied>rmi <hi rend="tall" xml:id="AJUHU">t</hi></abbr><ex xml:id="AJUHe">anorum</ex></expan></w></name></placeName> <g ref="#ivy-leaf" xml:id="AJUHo" n="150">❦</g> <space unit="character" quantity="1" xml:id="AJUHy"/><w xml:id="AJUHΙ" n="155">pecunia</w> <w xml:id="AJUHΤ" n="160">sua</w> <w xml:id="AJUHε" n="165">posui<hi rend="tall" xml:id="AJUHο">t</hi></w>
                 </ab>
             </div>
             <div type="edition" subtype="simple-lemmatized">

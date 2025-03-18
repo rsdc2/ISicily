@@ -195,8 +195,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la">
                 <ab>
-                    <lb n="1"/><w n="5"><expan><abbr>L</abbr><ex>ucius</ex></expan></w> <g ref="#interpunct" n="10">·</g> <w n="15">Volumniu<unclear>s</unclear></w>
-                    <lb n="2"/><w n="20">Parsianus</w>
+                    <lb n="1"/><w n="5"><expan><abbr>L</abbr><ex>ucius</ex></expan></w> <g ref="#interpunct" n="10">·</g> <name><w n="15">Volumniu<unclear>s</unclear></w></name>
+                    <lb n="2"/><name><w n="20">Parsianus</w></name>
                     <lb n="3"/><w n="25"><expan><abbr>vix</abbr><ex>it</ex></expan></w> <g ref="#interpunct" n="30">·</g> <w n="35"><expan><abbr>an</abbr><ex>nis</ex></expan></w> <g ref="#interpunct" n="40">·</g> <num value="13"><w n="45">XIII</w></num> <w n="50"><expan><abbr>m</abbr><ex>ensibus</ex></expan></w> <num value="4"><w n="55">IV</w></num>
                 </ab>
             </div>
