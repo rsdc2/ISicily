@@ -199,7 +199,7 @@
                     <lb n="3"/><name><w n="20">Διονυσίου</w></name>
                     <lb n="4"/><w n="25">χαῖ<supplied reason="lost">ρε</supplied></w> <name><w n="30">Φιλίστ<supplied reason="lost">η</supplied></w></name>
                     <lb n="5"/><w n="35">μήτηρ</w> <w n="40"><supplied reason="lost">ἐποίησε</supplied></w>
-                    <lb n="6"/><w n="45">ζησ<supplied reason="omitted">ά</supplied>σ <supplied reason="lost">ῃ</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="6"/><w n="45">ζησ<supplied reason="omitted">ά</supplied>σ<supplied reason="lost">ῃ</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="7"/><gap reason="lost" extent="1" unit="line"/>
                 </ab>
             </div>

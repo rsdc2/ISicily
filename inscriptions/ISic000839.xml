@@ -197,7 +197,7 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
                     <lb n="1"/><w n="5">Ἀτηδία</w> <orig n="10">ΠΟ<unclear>Λ</unclear>Π</orig><gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="2"/><w n="15">ἄ<supplied reason="omitted">μ</supplied>εν <supplied reason="omitted">π</supplied>το <supplied reason="omitted">ς</supplied></w> <orig n="20">ΟΥ</orig><gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><w n="15">ἄ<supplied reason="omitted">μ</supplied>εν<supplied reason="omitted">π</supplied>το<supplied reason="omitted">ς</supplied></w> <orig n="20">ΟΥ</orig><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="2a"/><gap reason="lost" extent="1" unit="line"/>
                     <lb n="2b"/><gap reason="lost" extent="1" unit="line"/>
                 </ab>
