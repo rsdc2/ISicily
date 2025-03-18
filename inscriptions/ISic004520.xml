@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -9,7 +9,9 @@
                 <editor ref="#JP">Jonathan Prag</editor>
                 <principal ref="#JP">Jonathan Prag</principal>
                 <funder>John Fell OUP Research Fund</funder>
-                <funder><ref target="https://cordis.europa.eu/project/id/885040">ERC Advanced Grant no.885040</ref></funder>
+                <funder>
+                    <ref target="https://cordis.europa.eu/project/id/885040">ERC Advanced Grant no.885040</ref>
+                </funder>
                 <respStmt>
                     <name xml:id="JP" ref="http://orcid.org/0000-0003-3819-8537">Jonathan Prag</name>
                     <resp>original data collection and editing</resp>
@@ -73,7 +75,8 @@
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
-                                <support><p>Small fragment of brown, white stone. Top or bottom edges are possibly original, but definite breaks on all other sides. Modern red paint on edges. Rear is flat, but discoloured with rust.</p>
+                                <support>
+                                    <p>Small fragment of brown, white stone. Top or bottom edges are possibly original, but definite breaks on all other sides. Modern red paint on edges. Rear is flat, but discoloured with rust.</p>
                                     <material ana="#material.stone.marble" ref="http://www.eagle-network.eu/voc/material/lod/48.html">marble</material>
                                     <dimensions>
                                         <height unit="cm">8</height>
@@ -84,14 +87,16 @@
                                 <condition/>
                             </supportDesc>
                             <layoutDesc>
-                                <layout><p>Three lines of complete Latin text. Mixture of different shaped hederae and interpuncts. Most interpuncts are diamond or triangle shaped.</p>
+                                <layout>
+                                    <p>Three lines of complete Latin text. Mixture of different shaped hederae and interpuncts. Most interpuncts are diamond or triangle shaped.</p>
                                     <rs ana="#execution.chiselled" ref="http://www.eagle-network.eu/voc/writing/lod/1">chiselled</rs>
                                     <damage/>
                                 </layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote><p>Letters are small, but regularly spaced. Letters contain simple serifs.</p>
+                            <handNote>
+                                <p>Letters are small, but regularly spaced. Letters contain simple serifs.</p>
                                 <locus from="line1" to="line1">Line 1</locus>
                                 <dimensions type="letterHeight">
                                     <height unit="mm">24-26</height>
@@ -106,7 +111,7 @@
                     <history>
                         <origin>
                             <origPlace>
-                                <placeName type="ancient" ref="http://pleiades.stoa.org/places/462513">Thermae Himeraeae</placeName>		
+                                <placeName type="ancient" ref="http://pleiades.stoa.org/places/462513">Thermae Himeraeae</placeName>
                                 <placeName type="modern" ref="http://sws.geonames.org/6539140">Termini Imerese</placeName>
                                 <geo>37.98365, 13.69555</geo>
                             </origPlace>
@@ -177,8 +182,13 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
-                    <lb n="1"/><supplied reason="lost" extent="unknown" unit="character"/>ESIM<supplied reason="lost" extent="unknown" unit="character"/>
-                  </ab>
+                    <lb n="1"/><w n="5"><supplied reason="lost" extent="unknown" unit="character"/>ESIM<supplied reason="lost" extent="unknown" unit="character"/></w>
+                </ab>
+            </div>
+            <div type="edition" subtype="simple-lemmatized">
+                <ab>
+                    <w n="5" lemma="NOLEMMA">ESIM</w>
+                </ab>
             </div>
             <div type="apparatus">
                 <p><!--external apparatus criticus (if applicable)--></p>
@@ -190,7 +200,9 @@
                 <p>This text was not recorded by Bivona, and appears to have been previously unpublished. There are a number of possibilities for 'ESIM', either part of a number (e.g. vicesima) or part of a name – Onesimus and Chresimus are both attested in Sicily, the latter in Termini Imerese itself see <ref target="http://sicily.classics.ox.ac.uk/inscription/ISic000149">ISic000149</ref>.</p>
             </div>
             <div type="bibliography">
-                <listBibl type="discussion"><bibl/></listBibl>
+                <listBibl type="discussion">
+                    <bibl/>
+                </listBibl>
             </div>
         </body>
     </text>

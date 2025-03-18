@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -9,7 +9,9 @@
                 <editor ref="#JP">Jonathan Prag</editor>
                 <principal ref="#JP">Jonathan Prag</principal>
                 <funder>John Fell OUP Research Fund</funder>
-	   <funder><ref target="https://cordis.europa.eu/project/id/885040">ERC Advanced Grant no.885040</ref></funder>
+                <funder>
+                    <ref target="https://cordis.europa.eu/project/id/885040">ERC Advanced Grant no.885040</ref>
+                </funder>
                 <respStmt>
                     <name xml:id="JP" ref="http://orcid.org/0000-0003-3819-8537">Jonathan Prag</name>
                     <resp>original data collection and editing</resp>
@@ -38,11 +40,11 @@
                     <name xml:id="AA" ref="http://orcid.org/0000-0001-7077-0703">Alex Antoniou</name>
                     <resp>EpiDoc editing and English translation</resp>
                 </respStmt>
-	    <respStmt>
-     	       <name xml:id="SS" ref="https://orcid.org/0000-0003-3914-9569">Simona Stoyanova</name>
-     	       <resp>standardisation of template and tidying up encoding</resp>
- 	   </respStmt>
-	    <respStmt>
+                <respStmt>
+                    <name xml:id="SS" ref="https://orcid.org/0000-0003-3914-9569">Simona Stoyanova</name>
+                    <resp>standardisation of template and tidying up encoding</resp>
+                </respStmt>
+                <respStmt>
                     <name xml:id="system">system</name>
                     <resp>automated or batch processes</resp>
                 </respStmt>
@@ -83,7 +85,8 @@
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
-                                <support><p>Three joining fragments of marble plaque, set in plaster in modern times.</p>
+                                <support>
+                                    <p>Three joining fragments of marble plaque, set in plaster in modern times.</p>
                                     <material ana="#material.stone.marble" ref="http://www.eagle-network.eu/voc/material/lod/48.html">marble</material>
                                     <objectType ana="#object.plaque" ref="http://www.eagle-network.eu/voc/objtyp/lod/259.html">plaque</objectType>
                                     <dimensions><!--measurements from Korhonen-->
@@ -93,16 +96,17 @@
                                     </dimensions>
                                 </support>
                                 <condition ana="#condition.fragments.contiguous"/>
-		    </supportDesc>
+                            </supportDesc>
                             <layoutDesc>
                                 <layout>
                                     <rs ana="#execution.chiselled" ref="http://www.eagle-network.eu/voc/writing/lod/1">chiselled</rs>
-                                	<damage/>
-			</layout>
+                                    <damage/>
+                                </layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote><p>“Scrittura corsiveggiante alla latina” (Korhonen). Lunate Ε (at l. 5, but quadrate at l. 4) and Σ, cursive Ω. Α, Λ and Μ with serifs, Κ with short arms. Open triangle-shaped interpunct at l. 3.</p><!--measurements from Korhonen-->
+                            <handNote>
+                                <p>“Scrittura corsiveggiante alla latina” (Korhonen). Lunate Ε (at l. 5, but quadrate at l. 4) and Σ, cursive Ω. Α, Λ and Μ with serifs, Κ with short arms. Open triangle-shaped interpunct at l. 3.</p><!--measurements from Korhonen-->
                                 <locus from="line1" to="line5">Lines 1-5</locus>
                                 <dimensions type="letterHeight">
                                     <height unit="mm">15-30</height>
@@ -117,10 +121,10 @@
                     <history>
                         <origin>
                             <origPlace>
-                                <placeName type="ancient" ref="http://pleiades.stoa.org/places/462270">Catina</placeName>		
+                                <placeName type="ancient" ref="http://pleiades.stoa.org/places/462270">Catina</placeName>
                                 <placeName type="modern" ref="http://sws.geonames.org/2525068">Catania</placeName>
-                            	<geo>37.49223, 15.07041</geo>
-		</origPlace>
+                                <geo>37.49223, 15.07041</geo>
+                            </origPlace>
                             <origDate datingMethod="#julian" notBefore-custom="0001" notAfter-custom="0150" precision="low">1st century CE or first half of 2nd century CE</origDate>
                         </origin>
                         <provenance type="found">Original discovery not recorded. Registered in the anonymous codex Marucellianus A 77 f. 142v: the inscription was “fortasse non Catanensis tamen Siculus” according to Kaibel due to the Doric expression χρηστά. From a linguistic and palaeographic point of view, the inscription is considered from Catania by Korhonen (cf. CIL 10.7056).</provenance>
@@ -132,18 +136,18 @@
             </sourceDesc>
         </fileDesc>
         <encodingDesc>
-             <p>Encoded following the latest EpiDoc guidelines</p>
-             <xi:include href="../alists/ISicily-taxonomies.xml">
-                 <xi:fallback>
-                     <p>Taxonomies for ISicily controlled values</p>
-                 </xi:fallback>
-             </xi:include>
-	  <xi:include href="../alists/charDecl.xml">
-	     <xi:fallback>
-	       <p>ISicily glyphs authority list</p>
-	     </xi:fallback>
-	   </xi:include>
-         </encodingDesc>
+            <p>Encoded following the latest EpiDoc guidelines</p>
+            <xi:include href="../alists/ISicily-taxonomies.xml">
+                <xi:fallback>
+                    <p>Taxonomies for ISicily controlled values</p>
+                </xi:fallback>
+            </xi:include>
+            <xi:include href="../alists/charDecl.xml">
+                <xi:fallback>
+                    <p>ISicily glyphs authority list</p>
+                </xi:fallback>
+            </xi:include>
+        </encodingDesc>
         <profileDesc>
             <calendarDesc>
                 <calendar xml:id="julian">
@@ -173,14 +177,14 @@
             <listChange>
                 <change when="2016-12-03" who="#JCu">James Cummings autogenerated EpiDoc output from database</change>
                 <change when="2019-07-08" who="#AA">Alex Antoniou Epidoc editing and English translation</change>
-            	   <change when="2020-10-05" who="#SS">Simona Stoyanova normalised Unicode</change>
-            	   <change when="2020-10-08" who="#SS">Simona Stoyanova updated list of languages</change>
-            	<change when="2020-11-20" who="#SS">Simona Stoyanova added EDCS numbers</change>
-		<change when="2020-11-26" who="#SS">Simona Stoyanova restructured bibliography</change>
-	    <change when="2020-12-18" who="#system">Updated Zenodo DOI</change>
-            	<change when="2021-01-19" who="#SS">renumbered files, uris and references</change>
+                <change when="2020-10-05" who="#SS">Simona Stoyanova normalised Unicode</change>
+                <change when="2020-10-08" who="#SS">Simona Stoyanova updated list of languages</change>
+                <change when="2020-11-20" who="#SS">Simona Stoyanova added EDCS numbers</change>
+                <change when="2020-11-26" who="#SS">Simona Stoyanova restructured bibliography</change>
+                <change when="2020-12-18" who="#system">Updated Zenodo DOI</change>
+                <change when="2021-01-19" who="#SS">renumbered files, uris and references</change>
                 <change when="2022-09-22" who="#martaf">Marta Fogagnolo revised the text encoding, added dimensions, translations and commentary</change>
-	</listChange>
+            </listChange>
         </revisionDesc>
     </teiHeader>
     <facsimile>
@@ -191,23 +195,42 @@
             <graphic n="print" url="ISic001313.jpg" height="3680px" width="5520px">
                 <desc>I.Sicily with the permission of the Assessorato Regionale dei Beni Culturali e dell’Identità Siciliana - Dipartimento dei Beni Culturali e dell’Identità Siciliana</desc>
             </graphic>
-         </surface>
+        </surface>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#martaf">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name>Μαρκία</name>
-                    <lb n="2"/><name>Λουκιλία</name></persName>
-                    <lb n="3"/><w>χρηστὰ</w> <g ref="#interpunct">·</g> <w>καὶ</w> <choice><orig>ἄ<lb n="4" break="no"/>μεμτος</orig><reg>ἄμεμπτος</reg></choice> <g ref="#interpunct">·</g> <w><expan><abbr><choice><orig>αἴζωσ</orig><reg>ἔζωσ</reg></choice></abbr><ex>εν</ex></expan></w>
-                    <lb n="5"/><w><choice><orig>ἔτια</orig><reg>ἔτη</reg></choice></w> <num value="20">εἴκοσι</num>
+                    <lb n="1"/><persName type="attested"><name><w n="5">Μαρκία</w></name>
+                    <lb n="2"/><name><w n="10">Λουκιλία</w></name></persName>
+                    <lb n="3"/><w n="15">χρηστὰ</w> <g ref="#interpunct" n="20">·</g> <w n="25">καὶ</w> <w n="30"><choice><orig n="35">ἄ
+                    <lb n="4" break="no"/>μεμτος</orig><reg>ἄμεμπτος</reg></choice></w> <g ref="#interpunct" n="40">·</g> <w n="45"><expan><abbr><choice><orig n="50">αἴζωσ</orig><reg>ἔζωσ</reg></choice></abbr><ex>εν</ex></expan></w>
+                    <lb n="5"/><w n="55"><choice><orig n="60">ἔτια</orig><reg>ἔτη</reg></choice></w> <num value="20"><w n="65">εἴκοσι</w></num>
+                </ab>
+            </div>
+            <div type="edition" subtype="simple-lemmatized">
+                <ab>
+                    <w n="5" lemma="Μαρκία">Μαρκία</w>
+                    <w n="10" lemma="Λουκιλία">Λουκιλία</w>
+                    <w n="15" lemma="χρηστός">χρηστὰ</w>
+                    <w n="25" lemma="καὶ">καὶ</w>
+                    <w n="30" lemma="ἄμεμπτος">ἄμεμπτος</w>
+                    <w n="45" lemma="ζάω">ἔζωσεν</w>
+                    <w n="55" lemma="ἔτος">ἔτη</w>
+                    <w n="65" lemma="εἴκοσι">εἴκοσι</w>
                 </ab>
             </div>
             <div type="apparatus" resp="#martaf">
                 <listApp>
-                    <app><note>Text based on photographs</note></app>
-                    <app loc="line 4"><note>Torremuzza, Ferrara, Bertucci, Franz, Kaibel, Collitz-Bechtel: αἴζως (i.e. ἔζης); Korhonen: αἴζωσ(εν)</note></app>
-                    <app loc="line 5"><note>Torremuzza, Ferrara, Bertucci, Franz ἔτι α εἴκοσι; Kaibel, Collitz-Bechtel, Korhonen: ἔτια</note></app>
+                    <app>
+                        <note>Text based on photographs</note>
+                    </app>
+                    <app loc="line 4">
+                        <note>Torremuzza, Ferrara, Bertucci, Franz, Kaibel, Collitz-Bechtel: αἴζως (i.e. ἔζης); Korhonen: αἴζωσ(εν)</note>
+                    </app>
+                    <app loc="line 5">
+                        <note>Torremuzza, Ferrara, Bertucci, Franz ἔτι α εἴκοσι; Kaibel, Collitz-Bechtel, Korhonen: ἔτια</note>
+                    </app>
                 </listApp>
             </div>
             <div type="translation" xml:lang="en" resp="#martaf">
@@ -226,45 +249,55 @@
                         <date>1769</date>
                         <citedRange>175 n. 69</citedRange>
                         <ptr target="http://zotero.org/groups/382445/items/SPTB56H3"/>
-                    <ref target="https://biblio.inscriptiones.org/epig10002084">https://biblio.inscriptiones.org/epig10002084</ref></bibl>
+                        <ref target="https://biblio.inscriptiones.org/epig10002084">https://biblio.inscriptiones.org/epig10002084</ref>
+                    </bibl>
                     <bibl>
                         <author>Castelli</author>
                         <date>1784</date>
                         <citedRange>186 n. 81</citedRange>
                         <ptr target="http://zotero.org/groups/382445/items/7PSFHSUH"/>
-                    <ref target="https://biblio.inscriptiones.org/epig10002083">https://biblio.inscriptiones.org/epig10002083</ref></bibl>
+                        <ref target="https://biblio.inscriptiones.org/epig10002083">https://biblio.inscriptiones.org/epig10002083</ref>
+                    </bibl>
                     <bibl>
                         <author>Ferrara</author>
                         <date>1829</date>
                         <citedRange>352 n. 2</citedRange>
                         <ptr target="http://zotero.org/groups/382445/items/82T4IWDN"/>
-                    <ref target="https://biblio.inscriptiones.org/epig10002005">https://biblio.inscriptiones.org/epig10002005</ref></bibl>
+                        <ref target="https://biblio.inscriptiones.org/epig10002005">https://biblio.inscriptiones.org/epig10002005</ref>
+                    </bibl>
                     <bibl>
                         <author>Bertucci</author>
                         <date>1846</date>
                         <citedRange>31 n. 6</citedRange>
                         <ptr target="http://zotero.org/groups/382445/items/Z6A8UGMR"/>
-                    <ref target="https://biblio.inscriptiones.org/epig10002303">https://biblio.inscriptiones.org/epig10002303</ref></bibl>
+                        <ref target="https://biblio.inscriptiones.org/epig10002303">https://biblio.inscriptiones.org/epig10002303</ref>
+                    </bibl>
                     <bibl type="corpus" n="IG">
                         <citedRange>
                             <ref target="https://clio.columbia.edu/catalog/6873760">14.0490</ref>
                         </citedRange>
                         <ptr target="https://www.zotero.org/groups/382445/items/Q2SBPG9F"/>
-                    <ref target="https://biblio.inscriptiones.org/epig10001072">https://biblio.inscriptiones.org/epig10001072</ref></bibl>
+                        <ref target="https://biblio.inscriptiones.org/epig10001072">https://biblio.inscriptiones.org/epig10001072</ref>
+                    </bibl>
                     <bibl type="corpus" n="IMusCatania">
                         <citedRange>108</citedRange>
                         <ptr target="https://www.zotero.org/groups/382445/items/2EUC82DH"/>
-                    <ref target="https://biblio.inscriptiones.org/epig10000028">https://biblio.inscriptiones.org/epig10000028</ref></bibl>
+                        <ref target="https://biblio.inscriptiones.org/epig10000028">https://biblio.inscriptiones.org/epig10000028</ref>
+                    </bibl>
                     <bibl type="corpus" n="CIG">
                         <citedRange>3.5714</citedRange>
                         <ptr target="https://www.zotero.org/groups/382445/items/HTUDQBXS"/>
-                    <ref target="https://biblio.inscriptiones.org/epig10001252">https://biblio.inscriptiones.org/epig10001252</ref></bibl>
+                        <ref target="https://biblio.inscriptiones.org/epig10001252">https://biblio.inscriptiones.org/epig10001252</ref>
+                    </bibl>
                     <bibl type="corpus" n="SGDI">
                         <citedRange>5238</citedRange>
                         <ptr target="https://www.zotero.org/groups/382445/items/JB4GMPBH"/>
-                    <ref target="https://biblio.inscriptiones.org/epig10000817">https://biblio.inscriptiones.org/epig10000817</ref></bibl>
+                        <ref target="https://biblio.inscriptiones.org/epig10000817">https://biblio.inscriptiones.org/epig10000817</ref>
+                    </bibl>
                 </listBibl>
-	   <listBibl type="discussion"><bibl/></listBibl>
+                <listBibl type="discussion">
+                    <bibl/>
+                </listBibl>
             </div>
         </body>
     </text>

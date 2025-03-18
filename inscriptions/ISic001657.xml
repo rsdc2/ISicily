@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -9,7 +9,9 @@
                 <editor ref="#JP">Jonathan Prag</editor>
                 <principal ref="#JP">Jonathan Prag</principal>
                 <funder>John Fell OUP Research Fund</funder>
-	   <funder><ref target="https://cordis.europa.eu/project/id/885040">ERC Advanced Grant no.885040</ref></funder>
+                <funder>
+                    <ref target="https://cordis.europa.eu/project/id/885040">ERC Advanced Grant no.885040</ref>
+                </funder>
                 <respStmt>
                     <name xml:id="JP" ref="http://orcid.org/0000-0003-3819-8537">Jonathan Prag</name>
                     <resp>original data collection and editing</resp>
@@ -30,15 +32,15 @@
                     <name xml:id="MM">Michael Metcalfe</name>
                     <resp>museum data collection</resp>
                 </respStmt>
-	    <respStmt>
-     	       <name xml:id="SS" ref="https://orcid.org/0000-0003-3914-9569">Simona Stoyanova</name>
-     	       <resp>standardisation of template and tidying up encoding</resp>
- 	   </respStmt>
+                <respStmt>
+                    <name xml:id="SS" ref="https://orcid.org/0000-0003-3914-9569">Simona Stoyanova</name>
+                    <resp>standardisation of template and tidying up encoding</resp>
+                </respStmt>
                 <respStmt>
                     <name xml:id="VM" ref="https://orcid.org/0000-0002-7122-2511">Valentina Mignosa</name>
                     <resp>encoding text division and checking the edition</resp>
                 </respStmt>
-	    <respStmt>
+                <respStmt>
                     <name xml:id="system">system</name>
                     <resp>automated or batch processes</resp>
                 </respStmt>
@@ -92,12 +94,12 @@
                                     </dimensions>
                                 </support>
                                 <condition/>
-		    </supportDesc>
+                            </supportDesc>
                             <layoutDesc>
                                 <layout><!--Default value and requires checking-->
                                     <rs ana="#execution.chiselled" ref="http://www.eagle-network.eu/voc/writing/lod/1">chiselled</rs>
-                                	<damage/>
-			</layout>
+                                    <damage/>
+                                </layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
@@ -116,10 +118,10 @@
                     <history>
                         <origin>
                             <origPlace>
-                                <placeName type="ancient" ref="http://pleiades.stoa.org/places/462503">Syracusae</placeName>		
+                                <placeName type="ancient" ref="http://pleiades.stoa.org/places/462503">Syracusae</placeName>
                                 <placeName type="modern" ref="http://sws.geonames.org/2523083">Siracusa</placeName>
-                            	<geo>37.08415, 15.27628</geo>
-		</origPlace>
+                                <geo>37.08415, 15.27628</geo>
+                            </origPlace>
                             <origDate datingMethod="#julian" notBefore-custom="0423" notAfter-custom="0423" evidence="internal-date">423 CE (cos. date)</origDate>
                         </origin>
                         <provenance type="found" subtype="discovered">Crypt of S. Marziano</provenance>
@@ -130,18 +132,18 @@
             </sourceDesc>
         </fileDesc>
         <encodingDesc>
-             <p>Encoded following the latest EpiDoc guidelines</p>
-             <xi:include href="../alists/ISicily-taxonomies.xml">
-                 <xi:fallback>
-                     <p>Taxonomies for ISicily controlled values</p>
-                 </xi:fallback>
-             </xi:include>
-	  <xi:include href="../alists/charDecl.xml">
-	     <xi:fallback>
-	       <p>ISicily glyphs authority list</p>
-	     </xi:fallback>
-	   </xi:include>
-         </encodingDesc>
+            <p>Encoded following the latest EpiDoc guidelines</p>
+            <xi:include href="../alists/ISicily-taxonomies.xml">
+                <xi:fallback>
+                    <p>Taxonomies for ISicily controlled values</p>
+                </xi:fallback>
+            </xi:include>
+            <xi:include href="../alists/charDecl.xml">
+                <xi:fallback>
+                    <p>ISicily glyphs authority list</p>
+                </xi:fallback>
+            </xi:include>
+        </encodingDesc>
         <profileDesc>
             <calendarDesc>
                 <calendar xml:id="julian">
@@ -170,14 +172,14 @@
         <revisionDesc status="draft">
             <listChange>
                 <change when="2016-12-03" who="#JCu">James Cummings autogenerated EpiDoc output from database</change>
-            	   <change when="2020-10-05" who="#SS">Simona Stoyanova normalised Unicode</change>
-            	   <change when="2020-10-08" who="#SS">Simona Stoyanova updated list of languages</change>
-                            <change when="2020-11-19" who="#VM">Valentina Mignosa encoded text division, cleaned up the autogenerated text and checked the edition</change>
-            	<change when="2020-11-20" who="#SS">Simona Stoyanova added EDCS numbers</change>
-		<change when="2020-11-26" who="#SS">Simona Stoyanova restructured bibliography</change>
-	    <change when="2020-12-18" who="#system">Updated Zenodo DOI</change>
-            	<change when="2021-01-19" who="#SS">renumbered files, uris and references</change>
-	</listChange>
+                <change when="2020-10-05" who="#SS">Simona Stoyanova normalised Unicode</change>
+                <change when="2020-10-08" who="#SS">Simona Stoyanova updated list of languages</change>
+                <change when="2020-11-19" who="#VM">Valentina Mignosa encoded text division, cleaned up the autogenerated text and checked the edition</change>
+                <change when="2020-11-20" who="#SS">Simona Stoyanova added EDCS numbers</change>
+                <change when="2020-11-26" who="#SS">Simona Stoyanova restructured bibliography</change>
+                <change when="2020-12-18" who="#system">Updated Zenodo DOI</change>
+                <change when="2021-01-19" who="#SS">renumbered files, uris and references</change>
+            </listChange>
         </revisionDesc>
     </teiHeader>
     <facsimile>
@@ -188,19 +190,66 @@
             <graphic n="print" url="ISic001657.jpg" height="3680px" width="5520px">
                 <desc>I.Sicily with the permission of the Assessorato Regionale dei Beni Culturali e dell’Identità Siciliana - Dipartimento dei Beni Culturali e dell’Identità Siciliana</desc>
             </graphic>
-         </surface>
+        </surface>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#VM">
                 <ab>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost">u</supplied>is iam tricenos vitae
-                    <lb n="2"/><supplied reason="lost">complevera</supplied>t annos felix coniugium
-                    <lb n="3"/><supplied reason="lost">iam</supplied> <supplied reason="lost">fecit</supplied> <supplied reason="lost">illa</supplied> <supplied reason="lost">suu</supplied>m da deus omnipotens
-                    <lb n="4"/><supplied reason="lost">coelestis</supplied> <supplied reason="lost">glo</supplied>ria vitae digna cum
-                    <lb n="5"/>sanctis ut mereatur ibi
-                    <lb n="6"/>deposita est in pace <expan><abbr>d</abbr><ex>o</ex><abbr>m</abbr><ex>in</ex><abbr>i</abbr></expan> <num value="5">V</num> <num value="9">nonas</num> <expan><abbr>mart</abbr><ex>ias</ex></expan>
-                    <lb n="7"/>post <roleName type="supracivic" subtype="consul"><expan><abbr>cons</abbr><ex>ulatum</ex></expan></roleName> <roleName type="supracivic" subtype="dominus"><expan><abbr>d</abbr><ex>ominorum</ex></expan></roleName> <expan><abbr>n</abbr><ex>ostrorum</ex></expan> Honorio <num value="13">XIII</num> et Theodosio <num value="10">X</num> <expan><abbr>A</abbr><ex>u</ex><abbr>g</abbr><ex>ustis</ex></expan>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w n="5"><supplied reason="lost">u</supplied>is</w> <w n="10">iam</w> <w n="15">tricenos</w> <w n="20">vitae</w>
+                    <lb n="2"/><w n="25"><supplied reason="lost">complevera</supplied>t</w> <w n="30">annos</w> <w n="35">felix</w> <w n="40">coniugium</w>
+                    <lb n="3"/><w n="45"><supplied reason="lost">iam</supplied></w> <w n="50"><supplied reason="lost">fecit</supplied></w> <w n="55"><supplied reason="lost">illa</supplied></w> <w n="60"><supplied reason="lost">suu</supplied>m</w> <w n="65">da</w> <w n="70">deus</w> <w n="75">omnipotens</w>
+                    <lb n="4"/><w n="80"><supplied reason="lost">coelestis</supplied></w> <w n="85"><supplied reason="lost">glo</supplied>ria</w> <w n="90">vitae</w> <w n="95">digna</w> <w n="100">cum</w>
+                    <lb n="5"/><w n="105">sanctis</w> <w n="110">ut</w> <w n="115">mereatur</w> <w n="120">ibi</w>
+                    <lb n="6"/><w n="125">deposita</w> <w n="130">est</w> <w n="135">in</w> <w n="140">pace</w> <w n="145"><expan><abbr>d</abbr><ex>o</ex><abbr>m</abbr><ex>in</ex><abbr>i</abbr></expan></w> <num value="5"><w n="150">V</w></num> <num value="9"><w n="155">nonas</w></num> <w n="160"><expan><abbr>mart</abbr><ex>ias</ex></expan></w>
+                    <lb n="7"/><w n="165">post</w> <roleName type="supracivic" subtype="consul"><w n="170"><expan><abbr>cons</abbr><ex>ulatum</ex></expan></w></roleName> <roleName type="supracivic" subtype="dominus"><w n="175"><expan><abbr>d</abbr><ex>ominorum</ex></expan></w></roleName> <w n="180"><expan><abbr>n</abbr><ex>ostrorum</ex></expan></w> <name><w n="185">Honorio</w></name> <num value="13"><w n="190">XIII</w></num> <w n="195">et</w> <name><w n="200">Theodosio</w></name> <num value="10"><w n="205">X</w></num> <name><w n="210"><expan><abbr>A</abbr><ex>u</ex><abbr>g</abbr><ex>ustis</ex></expan></w></name>
+                </ab>
+            </div>
+            <div type="edition" subtype="simple-lemmatized">
+                <ab>
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    <w n="5" lemma="NOLEMMA">uis</w>
+                    <w n="10" lemma="iam">iam</w>
+                    <w n="15" lemma="triceni">tricenos</w>
+                    <w n="20" lemma="vita">vitae</w>
+                    <w n="25" lemma="compleo">compleverat</w>
+                    <w n="30" lemma="annus">annos</w>
+                    <w n="35" lemma="felix">felix</w>
+                    <w n="40" lemma="coniunx">coniugium</w>
+                    <w n="45" lemma="iam">iam</w>
+                    <w n="50" lemma="facio">fecit</w>
+                    <w n="55" lemma="ille">illa</w>
+                    <w n="60" lemma="suus">suum</w>
+                    <w n="65" lemma="do">da</w>
+                    <w n="70" lemma="deus">deus</w>
+                    <w n="75" lemma="omnipotens">omnipotens</w>
+                    <w n="80" lemma="caelestis">coelestis</w>
+                    <w n="85" lemma="gloria">gloria</w>
+                    <w n="90" lemma="vita">vitae</w>
+                    <w n="95" lemma="dignus">digna</w>
+                    <w n="100" lemma="cum">cum</w>
+                    <w n="105" lemma="sanctus">sanctis</w>
+                    <w n="110" lemma="ut">ut</w>
+                    <w n="115" lemma="mereor">mereatur</w>
+                    <w n="120" lemma="ibi">ibi</w>
+                    <w n="125" lemma="depono">deposita</w>
+                    <w n="130" lemma="sum">est</w>
+                    <w n="135" lemma="in">in</w>
+                    <w n="140" lemma="pax">pace</w>
+                    <w n="145" lemma="dominus">domini</w>
+                    <w n="150" lemma="V">V</w>
+                    <w n="155" lemma="nona">nonas</w>
+                    <w n="160" lemma="Martius">martias</w>
+                    <w n="165" lemma="post">post</w>
+                    <w n="170" lemma="consulatus">consulatum</w>
+                    <w n="175" lemma="dominus">dominorum</w>
+                    <w n="180" lemma="noster">nostrorum</w>
+                    <w n="185" lemma="Honorius">Honorio</w>
+                    <w n="190" lemma="XIII">XIII</w>
+                    <w n="195" lemma="et">et</w>
+                    <w n="200" lemma="Theodosius">Theodosio</w>
+                    <w n="205" lemma="X">X</w>
+                    <w n="210" lemma="Augustus">Augustis</w>
                 </ab>
             </div>
             <div type="apparatus">
@@ -222,34 +271,41 @@
                     <bibl type="bulletin" n="AE">
                         <citedRange>1906.0167</citedRange>
                         <ptr target="http://zotero.org/groups/382445/items/R46KDTZX"/>
-                    <ref target="https://biblio.inscriptiones.org/epig10001283">https://biblio.inscriptiones.org/epig10001283</ref></bibl>
+                        <ref target="https://biblio.inscriptiones.org/epig10001283">https://biblio.inscriptiones.org/epig10001283</ref>
+                    </bibl>
                     <bibl>
                         <author>Agnello</author>
                         <date>1953</date>
                         <citedRange>no.104</citedRange>
                         <ptr target="https://www.zotero.org/groups/382445/items/D9BZFDDR"/>
-                    <ref target="https://biblio.inscriptiones.org/epig10002211">https://biblio.inscriptiones.org/epig10002211</ref></bibl>
+                        <ref target="https://biblio.inscriptiones.org/epig10002211">https://biblio.inscriptiones.org/epig10002211</ref>
+                    </bibl>
                     <bibl type="bulletin" n="NSA">
                         <author>Orsi</author>
                         <title>NSA</title>
                         <date>1905</date>
                         <citedRange>396 no.1 fig.13</citedRange>
                         <ptr target="http://zotero.org/groups/382445/items/4MCP2PVV"/>
-                    <ref target="https://biblio.inscriptiones.org/epig10001392">https://biblio.inscriptiones.org/epig10001392</ref></bibl>
+                        <ref target="https://biblio.inscriptiones.org/epig10001392">https://biblio.inscriptiones.org/epig10001392</ref>
+                    </bibl>
                     <bibl>
                         <author>Ferrua</author>
                         <date>1982-1983</date>
                         <citedRange>17 no. 53</citedRange>
                         <ptr target="https://www.zotero.org/groups/382445/items/Q7DDNWD6"/>
-                        <ref target="https://biblio.inscriptiones.org/epig10001996">https://biblio.inscriptiones.org/epig10001996</ref></bibl>
+                        <ref target="https://biblio.inscriptiones.org/epig10001996">https://biblio.inscriptiones.org/epig10001996</ref>
+                    </bibl>
                     <bibl>
                         <author>Manganaro</author>
                         <date>1993</date>
                         <citedRange>588 fig.30</citedRange>
                         <ptr target="https://www.zotero.org/groups/382445/items/JBI7CI5R"/>
-                    <ref target="https://biblio.inscriptiones.org/epig10001827">https://biblio.inscriptiones.org/epig10001827</ref></bibl>
+                        <ref target="https://biblio.inscriptiones.org/epig10001827">https://biblio.inscriptiones.org/epig10001827</ref>
+                    </bibl>
                 </listBibl>
-	   <listBibl type="discussion"><bibl/></listBibl>
+                <listBibl type="discussion">
+                    <bibl/>
+                </listBibl>
             </div>
         </body>
     </text>

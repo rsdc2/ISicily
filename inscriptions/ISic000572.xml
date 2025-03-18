@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -9,7 +9,9 @@
                 <editor ref="#JP">Jonathan Prag</editor>
                 <principal ref="#JP">Jonathan Prag</principal>
                 <funder>John Fell OUP Research Fund</funder>
-	   <funder><ref target="https://cordis.europa.eu/project/id/885040">ERC Advanced Grant no.885040</ref></funder>
+                <funder>
+                    <ref target="https://cordis.europa.eu/project/id/885040">ERC Advanced Grant no.885040</ref>
+                </funder>
                 <respStmt>
                     <name xml:id="JP" ref="http://orcid.org/0000-0003-3819-8537">Jonathan Prag</name>
                     <resp>original data collection and editing</resp>
@@ -30,11 +32,11 @@
                     <name xml:id="MM">Michael Metcalfe</name>
                     <resp>museum data collection</resp>
                 </respStmt>
-        	    <respStmt>
-         	       <name xml:id="SS" ref="https://orcid.org/0000-0003-3914-9569">Simona Stoyanova</name>
-         	       <resp>standardisation of template and tidying up encoding</resp>
-         	   </respStmt>
-        	    <respStmt>
+                <respStmt>
+                    <name xml:id="SS" ref="https://orcid.org/0000-0003-3914-9569">Simona Stoyanova</name>
+                    <resp>standardisation of template and tidying up encoding</resp>
+                </respStmt>
+                <respStmt>
                     <name xml:id="system">system</name>
                     <resp>automated or batch processes</resp>
                 </respStmt>
@@ -90,12 +92,12 @@
                                     </dimensions>
                                 </support>
                                 <condition/>
-		    </supportDesc>
+                            </supportDesc>
                             <layoutDesc>
                                 <layout><!--Default value and requires checking-->
                                     <rs ana="#execution.chiselled" ref="http://www.eagle-network.eu/voc/writing/lod/1">chiselled</rs>
-                                	<damage/>
-			</layout>
+                                    <damage/>
+                                </layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
@@ -114,10 +116,10 @@
                     <history>
                         <origin>
                             <origPlace>
-                                <placeName type="ancient" ref="http://pleiades.stoa.org/places/462410">Panhormus</placeName>		
+                                <placeName type="ancient" ref="http://pleiades.stoa.org/places/462410">Panhormus</placeName>
                                 <placeName type="modern" ref="http://sws.geonames.org/2523920">Palermo</placeName>
-                            	<geo>38.13205, 13.33561</geo>
-		</origPlace>
+                                <geo>38.13205, 13.33561</geo>
+                            </origPlace>
                             <origDate datingMethod="#julian" notBefore-custom="0001" notAfter-custom="0300" cert="low">Imperial</origDate>
                         </origin>
                         <provenance type="found">Original discovery not recorded.</provenance>
@@ -128,18 +130,18 @@
             </sourceDesc>
         </fileDesc>
         <encodingDesc>
-             <p>Encoded following the latest EpiDoc guidelines</p>
-             <xi:include href="../alists/ISicily-taxonomies.xml">
-                 <xi:fallback>
-                     <p>Taxonomies for ISicily controlled values</p>
-                 </xi:fallback>
-             </xi:include>
-	  <xi:include href="../alists/charDecl.xml">
-	     <xi:fallback>
-	       <p>ISicily glyphs authority list</p>
-	     </xi:fallback>
-	   </xi:include>
-         </encodingDesc>
+            <p>Encoded following the latest EpiDoc guidelines</p>
+            <xi:include href="../alists/ISicily-taxonomies.xml">
+                <xi:fallback>
+                    <p>Taxonomies for ISicily controlled values</p>
+                </xi:fallback>
+            </xi:include>
+            <xi:include href="../alists/charDecl.xml">
+                <xi:fallback>
+                    <p>ISicily glyphs authority list</p>
+                </xi:fallback>
+            </xi:include>
+        </encodingDesc>
         <profileDesc>
             <calendarDesc>
                 <calendar xml:id="julian">
@@ -168,14 +170,14 @@
         <revisionDesc status="draft">
             <listChange>
                 <change when="2016-12-03" who="#JCu">James Cummings autogenerated EpiDoc output from database</change>
-            	<change when="2020-10-05" who="#SS">Simona Stoyanova normalised Unicode</change>
-            	<change when="2020-10-08" who="#SS">Simona Stoyanova updated list of languages</change>
-            	<change when="2020-11-20" who="#SS">Simona Stoyanova added EDCS numbers</change>
-    		    <change when="2020-11-26" who="#SS">Simona Stoyanova restructured bibliography</change>
-        	    <change when="2020-12-22" who="#system">Updated Zenodo DOI</change>
-            	<change when="2021-01-19" who="#SS">renumbered files, uris and references</change>
+                <change when="2020-10-05" who="#SS">Simona Stoyanova normalised Unicode</change>
+                <change when="2020-10-08" who="#SS">Simona Stoyanova updated list of languages</change>
+                <change when="2020-11-20" who="#SS">Simona Stoyanova added EDCS numbers</change>
+                <change when="2020-11-26" who="#SS">Simona Stoyanova restructured bibliography</change>
+                <change when="2020-12-22" who="#system">Updated Zenodo DOI</change>
+                <change when="2021-01-19" who="#SS">renumbered files, uris and references</change>
                 <change when="2021-03-12" who="#AA">Epidoc editing and English translation</change>
-	</listChange>
+            </listChange>
         </revisionDesc>
     </teiHeader>
     <facsimile>
@@ -186,26 +188,48 @@
             <graphic n="print" url="ISic000572.jpg" height="3680px" width="5520px">
                 <desc>I.Sicily with the permission of the Assessorato Regionale dei Beni Culturali e dell’Identità Siciliana - Dipartimento dei Beni Culturali e dell’Identità Siciliana</desc>
             </graphic>
-         </surface>
+        </surface>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
-                    <lb n="1"/><expan><abbr>D</abbr><ex>is</ex></expan> <g ref="#interpunct">·</g> <expan><abbr>M</abbr><ex>anibus</ex></expan>
-                    <lb n="2"/><name><expan><abbr>M</abbr><ex>arco</ex></expan></name> <g ref="#interpunct">·</g> <name>Virginio</name>
-                    <lb n="3"/><name>Pompeio</name> <g ref="#interpunct">·</g> <expan><abbr>fil</abbr><ex>io</ex></expan>
-                    <lb n="4"/>bene <g ref="#interpunct">·</g> merenti
-                    <lb n="5"/>vixit <g ref="#interpunct">·</g> annis <g ref="#interpunct">·</g> <num value="25">XXV</num>
-                    <lb n="6"/><name>Pompeia</name>
-                    <lb n="7"/><name>Atti<supplied reason="lost">cill</supplied>a</name> <g ref="#interpunct">·</g> mater
+                    <lb n="1"/><w n="5"><expan><abbr>D</abbr><ex>is</ex></expan></w> <g ref="#interpunct" n="10">·</g> <name><w n="15"><expan><abbr>M</abbr><ex>anibus</ex></expan></w></name>
+                    <lb n="2"/><name><w n="20"><expan><abbr>M</abbr><ex>arco</ex></expan></w></name> <g ref="#interpunct" n="25">·</g> <name><w n="30">Virginio</w></name>
+                    <lb n="3"/><name><w n="35">Pompeio</w></name> <g ref="#interpunct" n="40">·</g> <w n="45"><expan><abbr>fil</abbr><ex>io</ex></expan></w>
+                    <lb n="4"/><w n="50">bene</w> <g ref="#interpunct" n="55">·</g> <w n="60">merenti</w>
+                    <lb n="5"/><w n="65">vixit</w> <g ref="#interpunct" n="70">·</g> <w n="75">annis</w> <g ref="#interpunct" n="80">·</g> <num value="25"><w n="85">XXV</w></num>
+                    <lb n="6"/><name><w n="90">Pompeia</w></name>
+                    <lb n="7"/><name><w n="95">Atti<supplied reason="lost">cill</supplied>a</w></name> <g ref="#interpunct" n="100">·</g> <w n="105">mater</w>
+                </ab>
+            </div>
+            <div type="edition" subtype="simple-lemmatized">
+                <ab>
+                    <w n="5" lemma="deus">Dis</w>
+                    <w n="15" lemma="Manes">Manibus</w>
+                    <w n="20" lemma="Marcus">Marco</w>
+                    <w n="30" lemma="Virginius">Virginio</w>
+                    <w n="35" lemma="Pompeio">Pompeio</w>
+                    <w n="45" lemma="filius">filio</w>
+                    <w n="50" lemma="bene">bene</w>
+                    <w n="60" lemma="mereo">merenti</w>
+                    <w n="65" lemma="vivo">vixit</w>
+                    <w n="75" lemma="annus">annis</w>
+                    <w n="85" lemma="XXV">XXV</w>
+                    <w n="90" lemma="Pompejus">Pompeia</w>
+                    <w n="95" lemma="Atticilla">Atticilla</w>
+                    <w n="105" lemma="mater">mater</w>
                 </ab>
             </div>
             <div type="apparatus">
                 <listApp>
-			<app><note>Text: CIL</note></app>
-                	<app loc="line 7"><note>Gualtherus: ATTI[LICI]A</note></app>
-		</listApp>
+                    <app>
+                        <note>Text: CIL</note>
+                    </app>
+                    <app loc="line 7">
+                        <note>Gualtherus: ATTI[LICI]A</note>
+                    </app>
+                </listApp>
             </div>
             <div type="translation" xml:lang="en" resp="#AA">
                 <p>To the shades of the underworld. For Marcus Virginius Pompeius, who lived for 25 years. Pompeia Atti[cill]a his mother [built this] for her well deserving son</p>
@@ -220,10 +244,13 @@
                             <ref target="http://arachne.uni-koeln.de/books/CILv10pII1883">10.7322</ref>
                         </citedRange>
                         <ptr target="https://www.zotero.org/groups/382445/items/GQN8UZSI"/>
-                    <ref target="https://biblio.inscriptiones.org/epig10000589">https://biblio.inscriptiones.org/epig10000589</ref></bibl>
+                        <ref target="https://biblio.inscriptiones.org/epig10000589">https://biblio.inscriptiones.org/epig10000589</ref>
+                    </bibl>
                     <bibl/>
                 </listBibl>
-	   <listBibl type="discussion"><bibl/></listBibl>
+                <listBibl type="discussion">
+                    <bibl/>
+                </listBibl>
             </div>
         </body>
     </text>

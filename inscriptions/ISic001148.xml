@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -9,7 +9,9 @@
                 <editor ref="#JP">Jonathan Prag</editor>
                 <principal ref="#JP">Jonathan Prag</principal>
                 <funder>John Fell OUP Research Fund</funder>
-	   <funder><ref target="https://cordis.europa.eu/project/id/885040">ERC Advanced Grant no.885040</ref></funder>
+                <funder>
+                    <ref target="https://cordis.europa.eu/project/id/885040">ERC Advanced Grant no.885040</ref>
+                </funder>
                 <respStmt>
                     <name xml:id="JP" ref="http://orcid.org/0000-0003-3819-8537">Jonathan Prag</name>
                     <resp>original data collection and editing</resp>
@@ -30,15 +32,15 @@
                     <name xml:id="MM">Michael Metcalfe</name>
                     <resp>museum data collection</resp>
                 </respStmt>
-	    <respStmt>
-     	       <name xml:id="SS" ref="https://orcid.org/0000-0003-3914-9569">Simona Stoyanova</name>
-     	       <resp>standardisation of template and tidying up encoding</resp>
- 	   </respStmt>
+                <respStmt>
+                    <name xml:id="SS" ref="https://orcid.org/0000-0003-3914-9569">Simona Stoyanova</name>
+                    <resp>standardisation of template and tidying up encoding</resp>
+                </respStmt>
                 <respStmt>
                     <name xml:id="VM" ref="https://orcid.org/0000-0002-7122-2511">Valentina Mignosa</name>
                     <resp>encoding text division</resp>
                 </respStmt>
-	    <respStmt>
+                <respStmt>
                     <name xml:id="system">system</name>
                     <resp>automated or batch processes</resp>
                 </respStmt>
@@ -82,7 +84,8 @@
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
-                                <support><p>Rectangular plaque of grey-brown stone, well-squared, but cut down on left side. Rear appears relatively flat, although slightly curved.</p>
+                                <support>
+                                    <p>Rectangular plaque of grey-brown stone, well-squared, but cut down on left side. Rear appears relatively flat, although slightly curved.</p>
                                     <material ana="#material.stone" ref="http://www.eagle-network.eu/voc/material/lod/2.html">stone</material>
                                     <objectType ana="#object.plaque" ref="http://www.eagle-network.eu/voc/objtyp/lod/259.html">plaque</objectType>
                                     <dimensions>
@@ -92,16 +95,18 @@
                                     </dimensions>
                                 </support>
                                 <condition/>
-		    </supportDesc>
+                            </supportDesc>
                             <layoutDesc>
-                                <layout><p>Text is divided into two bands. The top band is separated into three columns, with a thin, serifed vertical line on a slight tilt between each column of text. Each column contains three lines of Greek. The bottom band contains three lines of continuous text, although with a vacat in the first line. Large empty vacat at the bottom of the stone.</p>
+                                <layout>
+                                    <p>Text is divided into two bands. The top band is separated into three columns, with a thin, serifed vertical line on a slight tilt between each column of text. Each column contains three lines of Greek. The bottom band contains three lines of continuous text, although with a vacat in the first line. Large empty vacat at the bottom of the stone.</p>
                                     <rs ana="#execution.chiselled" ref="http://www.eagle-network.eu/voc/writing/lod/1">chiselled</rs>
-                                	<damage/>
-			</layout>
+                                    <damage/>
+                                </layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote><p>Use of alphas with broken mid-bar in top band, but not in bottom. Use of epsilon with arrow crossbar in top band, but not bottom (except for one instance in line 4). Use of lunate epsilon in bottom band, but not in top. Use of lunate sigma in bottom text. Serifs more pronounced in top band. In the top text, Omegas are smaller consistently than the rest of the text. Text in bottom band is carved lightly and irregularly. As Brugnone notes, it seems likely that the lower section was cut by a different hand.</p>
+                            <handNote>
+                                <p>Use of alphas with broken mid-bar in top band, but not in bottom. Use of epsilon with arrow crossbar in top band, but not bottom (except for one instance in line 4). Use of lunate epsilon in bottom band, but not in top. Use of lunate sigma in bottom text. Serifs more pronounced in top band. In the top text, Omegas are smaller consistently than the rest of the text. Text in bottom band is carved lightly and irregularly. As Brugnone notes, it seems likely that the lower section was cut by a different hand.</p>
                                 <locus from="line1" to="line1">Line 1</locus>
                                 <dimensions type="letterHeight">
                                     <height unit="mm">16-23</height>
@@ -136,10 +141,10 @@
                     <history>
                         <origin>
                             <origPlace>
-                                <placeName type="ancient" ref="http://pleiades.stoa.org/places/462513">Thermae Himeraeae</placeName>		
+                                <placeName type="ancient" ref="http://pleiades.stoa.org/places/462513">Thermae Himeraeae</placeName>
                                 <placeName type="modern" ref="http://sws.geonames.org/6539140">Termini Imerese</placeName>
-                            	<geo>37.98365, 13.69555</geo>
-		</origPlace>
+                                <geo>37.98365, 13.69555</geo>
+                            </origPlace>
                             <origDate datingMethod="#julian" notBefore-custom="0101" notAfter-custom="0300" precision="low">2nd — 3rd century CE</origDate>
                         </origin>
                         <provenance type="found" subtype="discovered">The place, date, and circumstances of the discovery are unknown, but the piece is assumed to come from Termini Imerese</provenance>
@@ -151,18 +156,18 @@
             </sourceDesc>
         </fileDesc>
         <encodingDesc>
-             <p>Encoded following the latest EpiDoc guidelines</p>
-             <xi:include href="../alists/ISicily-taxonomies.xml">
-                 <xi:fallback>
-                     <p>Taxonomies for ISicily controlled values</p>
-                 </xi:fallback>
-             </xi:include>
-	  <xi:include href="../alists/charDecl.xml">
-	     <xi:fallback>
-	       <p>ISicily glyphs authority list</p>
-	     </xi:fallback>
-	   </xi:include>
-         </encodingDesc>
+            <p>Encoded following the latest EpiDoc guidelines</p>
+            <xi:include href="../alists/ISicily-taxonomies.xml">
+                <xi:fallback>
+                    <p>Taxonomies for ISicily controlled values</p>
+                </xi:fallback>
+            </xi:include>
+            <xi:include href="../alists/charDecl.xml">
+                <xi:fallback>
+                    <p>ISicily glyphs authority list</p>
+                </xi:fallback>
+            </xi:include>
+        </encodingDesc>
         <profileDesc>
             <calendarDesc>
                 <calendar xml:id="julian">
@@ -190,16 +195,16 @@
         </profileDesc>
         <revisionDesc status="edited">
             <listChange>
-                   <change when="2016-12-03" who="#JCu">James Cummings autogenerated EpiDoc output from database</change>
-                   <change when="2020-10-05" who="#VM">Valentina Mignosa encoded text division</change>
-            	   <change when="2020-10-05" who="#SS">Simona Stoyanova normalised Unicode</change>
-            	   <change when="2020-10-08" who="#SS">Simona Stoyanova updated list of languages</change>
-            	<change when="2020-11-20" who="#SS">Simona Stoyanova added EDCS numbers</change>
-		<change when="2020-11-26" who="#SS">Simona Stoyanova restructured bibliography</change>
-	    <change when="2020-12-18" who="#system">Updated Zenodo DOI</change>
-            	<change when="2021-01-19" who="#SS">renumbered files, uris and references</change>
+                <change when="2016-12-03" who="#JCu">James Cummings autogenerated EpiDoc output from database</change>
+                <change when="2020-10-05" who="#VM">Valentina Mignosa encoded text division</change>
+                <change when="2020-10-05" who="#SS">Simona Stoyanova normalised Unicode</change>
+                <change when="2020-10-08" who="#SS">Simona Stoyanova updated list of languages</change>
+                <change when="2020-11-20" who="#SS">Simona Stoyanova added EDCS numbers</change>
+                <change when="2020-11-26" who="#SS">Simona Stoyanova restructured bibliography</change>
+                <change when="2020-12-18" who="#system">Updated Zenodo DOI</change>
+                <change when="2021-01-19" who="#SS">renumbered files, uris and references</change>
                 <change when="2023-08-23" who="#AA">edition on basis of autopsy and photographs</change>
-	</listChange>
+            </listChange>
         </revisionDesc>
     </teiHeader>
     <facsimile>
@@ -210,7 +215,7 @@
             <graphic n="print" url="ISic001148.jpg" height="3680px" width="5520px">
                 <desc>I.Sicily with the permission of the Assessorato Regionale dei Beni Culturali e dell’Identità Siciliana - Dipartimento dei Beni Culturali e dell’Identità Siciliana</desc>
             </graphic>
-         </surface>
+        </surface>
     </facsimile>
     <text>
         <body>
@@ -218,40 +223,96 @@
                 <div type="textpart" subtype="section" n="a">
                     <ab>
                         <cb n="1"/>
-                        <lb n="1"/><persName><name><gap reason="lost" extent="unknown" unit="character"/><seg part="F"><unclear>μ</unclear>ε</seg></name></persName>
-                        <lb n="2"/><supplied reason="lost">χαῖ</supplied>ρε
-                        <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/><unclear>σ</unclear>τατε 
+                        <lb n="1"/><persName><name><w n="5"><gap reason="lost" extent="unknown" unit="character"/><seg part="F"><unclear>μ</unclear>ε</seg></w></name></persName>
+                        <lb n="2"/><w n="10"><supplied reason="lost">χαῖ</supplied>ρε</w>
+                        <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <w n="15"><unclear>σ</unclear>τατε</w>
                     </ab>
-                </div>   
+                </div>
                 <div type="textpart" subtype="section" n="b">
                     <ab>
                         <cb n="2"/>
-                        <lb n="1"/><persName type="attested"><name>Νεμηνίδα</name>  
-                        <lb n="2"/><persName type="attested"><name type="patronym">Ἀριστοδάμου</name></persName></persName>
-                        <lb n="3"/>χαῖρε 
+                        <lb n="1"/><persName type="attested"><name><w n="20">Νεμηνίδα</w></name>
+                        <lb n="2"/><persName type="attested"><name type="patronym"><w n="25">Ἀριστοδάμου</w></name></persName></persName>
+                        <lb n="3"/><w n="30">χαῖρε</w>
                     </ab>
                 </div>
                 <div type="textpart" subtype="section" n="c">
                     <ab>
                         <cb n="3"/>
-                        <lb n="1"/><persName type="attested"><name>Κλεοπάτρα</name>
-                        <lb n="2"/><persName type="attested"><name type="gamoynm">Νεμηνίδα</name></persName></persName>
-                        <lb n="3"/>χαῖρε 
+                        <lb n="1"/><persName type="attested"><name><w n="35">Κλεοπάτρα</w></name>
+                        <lb n="2"/><persName type="attested"><name type="gamoynm"><w n="40">Νεμηνίδα</w></name></persName></persName>
+                        <lb n="3"/><w n="45">χαῖρε</w>
                     </ab>
                 </div>
                 <div type="textpart" subtype="section" n="d">
-                <ab>
-                    <lb n="1"/><persName><name><gap reason="lost" extent="unknown" unit="character"/><seg part="F">ε</seg></name></persName> μεγαλόδοξε <space atLeast="6" atMost="8" unit="character"/> <persName type="attested"><name>Νεμηνίδα</name></persName> σύνευνε δῖα <persName type="attested"><name>Κλεοπάτρα</name></persName>
-                    <lb n="2"/>Κούφη σεῖο <persName type="attested"><name>Νεμηνίδα</name></persName> γαῖ’ ὄστεα κεύθοι
-                    <lb n="3"/>Κούφη σ<supplied reason="omitted">ε</supplied>ῖο κέκευθε <persName type="attested"><name>Νεμινίδα</name></persName> ὄστεα γαῖα
-                </ab>
+                    <ab>
+                        <lb n="1"/><persName><name><w n="50"><gap reason="lost" extent="unknown" unit="character"/><seg part="F">ε</seg></w></name></persName> <w n="55">μεγαλόδοξε</w> <space atLeast="6" atMost="8" unit="character"/><persName type="attested"><name><w n="60">Νεμηνίδα</w></name></persName> <w n="65">σύνευνε</w> <w n="70">δῖα</w> <persName type="attested"><name><w n="75">Κλεοπάτρα</w></name></persName>
+                        <lb n="2"/><name><w n="80">Κούφη</w></name> <w n="85">σεῖο</w> <persName type="attested"><name><w n="90">Νεμηνίδα</w></name></persName> <w n="95">γαῖ’</w> <w n="100">ὄστεα</w> <w n="105">κεύθοι</w>
+                        <lb n="3"/><name><w n="110">Κούφη</w></name> <w n="115">σ<supplied reason="omitted">ε</supplied>ῖο</w> <w n="120">κέκευθε</w> <persName type="attested"><name><w n="125">Νεμινίδα</w></name></persName> <w n="130">ὄστεα</w> <w n="135">γαῖα</w>
+                    </ab>
                 </div>    
+            </div>
+            <div type="edition" subtype="simple-lemmatized">
+                <div type="textpart" subtype="section" n="a">
+                    <ab>
+                        <w n="5" lemma="NOLEMMA">με</w>
+                        <gap reason="lost" extent="unknown" unit="character"/>
+                        <w n="10" lemma="χαίρω">χαῖρε</w>
+                        <gap reason="lost" extent="unknown" unit="character"/>
+                        <w n="15" lemma="NOLEMMA">στατε</w>
+                    </ab>
+                </div>
+                <div type="textpart" subtype="section" n="b">
+                    <ab>
+                        <w n="20" lemma="Νεμηνίς">Νεμηνίδα</w>
+                        <w n="25" lemma="Ἀριστοδάμος">Ἀριστοδάμου</w>
+                        <w n="30" lemma="χαίρω">χαῖρε</w>
+                    </ab>
+                </div>
+                <div type="textpart" subtype="section" n="c">
+                    <ab>
+                        <w n="35" lemma="Κλεοπάτρα">Κλεοπάτρα</w>
+                        <w n="40" lemma="Νεμηνίς">Νεμηνίδα</w>
+                        <w n="45" lemma="χαίρω">χαῖρε</w>
+                    </ab>
+                </div>
+                <div type="textpart" subtype="section" n="d">
+                    <ab>
+                        <w n="50" lemma="ε">ε</w>
+                        <gap reason="lost" extent="unknown" unit="character"/>
+                        <w n="55" lemma="μεγαλόδοξος">μεγαλόδοξε</w>
+                        <w n="60" lemma="Νεμηνίς">Νεμηνίδα</w>
+                        <w n="65" lemma="συνευνάω">σύνευνε</w>
+                        <w n="70" lemma="δῖος">δῖα</w>
+                        <w n="75" lemma="Κλεοπάτρα">Κλεοπάτρα</w>
+                        <w n="80" lemma="Κούφη">Κούφη</w>
+                        <w n="85" lemma="σύ">σεῖο</w>
+                        <w n="90" lemma="Νεμηνίς">Νεμηνίδα</w>
+                        <w n="95" lemma="γάιος">γαῖ’</w>
+                        <w n="100" lemma="ὀστέον">ὄστεα</w>
+                        <w n="105" lemma="κεύθω">κεύθοι</w>
+                        <w n="110" lemma="Κούφη">Κούφη</w>
+                        <w n="115" lemma="σύ">σεῖο</w>
+                        <w n="120" lemma="κεύθω">κέκευθε</w>
+                        <w n="125" lemma="Νεμηνίς">Νεμινίδα</w>
+                        <w n="130" lemma="ὀστέον">ὄστεα</w>
+                        <w n="135" lemma="γάιος">γαῖα</w>
+                    </ab>
+                </div>
             </div>
             <div type="apparatus" resp="#AA">
                 <listApp>
-                    <app><note>Text from autopsy</note></app>
-                    <app loc="d.3"><note>Brugnone reads σεῖο to match text in line 2, autopsy reveals the epsilon is missing in line three (σῖο).</note></app>
-                    <app loc="d.3"><note>Brugnone reads Νεμηνί<supplied reason="omitted">δ</supplied>α, autopsy reveals Νεμινίδα</note></app>
+                    <app>
+                        <note>Text from autopsy</note>
+                    </app>
+                    <app loc="d.3">
+                        <note>Brugnone reads σεῖο to match text in line 2, autopsy reveals the epsilon is missing in line three (σῖο).</note>
+                    </app>
+                    <app loc="d.3">
+                        <note>
+                            Brugnone reads Νεμηνί<supplied reason="omitted">δ</supplied>α, autopsy reveals Νεμινίδα
+                        </note>
+                    </app>
                 </listApp>
             </div>
             <div type="translation" xml:lang="en" resp="#AA">
@@ -267,14 +328,18 @@
                             <ref target="https://clio.columbia.edu/catalog/6873760">14.0329</ref>
                         </citedRange>
                         <ptr target="https://www.zotero.org/groups/382445/items/Q2SBPG9F"/>
-                    <ref target="https://biblio.inscriptiones.org/epig10001072">https://biblio.inscriptiones.org/epig10001072</ref></bibl>
+                        <ref target="https://biblio.inscriptiones.org/epig10001072">https://biblio.inscriptiones.org/epig10001072</ref>
+                    </bibl>
                     <bibl type="corpus" n="IGMusTermini">
                         <citedRange>14</citedRange>
                         <ptr target="https://www.zotero.org/groups/382445/items/9WZ7KU5C"/>
-                    <ref target="https://biblio.inscriptiones.org/epig10001397">https://biblio.inscriptiones.org/epig10001397</ref></bibl>
+                        <ref target="https://biblio.inscriptiones.org/epig10001397">https://biblio.inscriptiones.org/epig10001397</ref>
+                    </bibl>
                     <bibl/>
                 </listBibl>
-	   <listBibl type="discussion"><bibl/></listBibl>
+                <listBibl type="discussion">
+                    <bibl/>
+                </listBibl>
             </div>
         </body>
     </text>

@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -9,7 +9,9 @@
                 <editor ref="#JP">Jonathan Prag</editor>
                 <principal ref="#JP">Jonathan Prag</principal>
                 <funder>John Fell OUP Research Fund</funder>
-	   <funder><ref target="https://cordis.europa.eu/project/id/885040">ERC Advanced Grant no.885040</ref></funder>
+                <funder>
+                    <ref target="https://cordis.europa.eu/project/id/885040">ERC Advanced Grant no.885040</ref>
+                </funder>
                 <respStmt>
                     <name xml:id="JP" ref="http://orcid.org/0000-0003-3819-8537">Jonathan Prag</name>
                     <resp>original data collection and editing</resp>
@@ -30,15 +32,15 @@
                     <name xml:id="MM">Michael Metcalfe</name>
                     <resp>museum data collection</resp>
                 </respStmt>
-	    <respStmt>
-     	       <name xml:id="SS" ref="https://orcid.org/0000-0003-3914-9569">Simona Stoyanova</name>
-     	       <resp>standardisation of template and tidying up encoding</resp>
- 	   </respStmt>
+                <respStmt>
+                    <name xml:id="SS" ref="https://orcid.org/0000-0003-3914-9569">Simona Stoyanova</name>
+                    <resp>standardisation of template and tidying up encoding</resp>
+                </respStmt>
                 <respStmt>
                     <name xml:id="DEE" ref="http://orcid.org/0000-0002-2337-9047">David Espinosa Espinosa</name>
                     <resp>editing, EpiDoc encoding, and full name and word tagging</resp>
                 </respStmt>
-	    <respStmt>
+                <respStmt>
                     <name xml:id="system">system</name>
                     <resp>automated or batch processes</resp>
                 </respStmt>
@@ -81,7 +83,8 @@
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
-                                <support><p>A slab of marble with the text fully preserved.</p>
+                                <support>
+                                    <p>A slab of marble with the text fully preserved.</p>
                                     <material ana="#material.stone.marble" ref="http://www.eagle-network.eu/voc/material/lod/48.html">marble
                                     </material>
                                     <objectType ana="#object.plaque" ref="http://www.eagle-network.eu/voc/objtyp/lod/259">plaque</objectType>
@@ -92,12 +95,12 @@
                                     </dimensions>
                                 </support>
                                 <condition/>
-		    </supportDesc>
+                            </supportDesc>
                             <layoutDesc>
                                 <layout><!--Default value and requires checking-->
                                     <rs ana="#execution.chiselled" ref="http://www.eagle-network.eu/voc/writing/lod/1">chiselled</rs>
-                                	<damage/>
-			</layout>
+                                    <damage/>
+                                </layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
@@ -116,10 +119,10 @@
                     <history>
                         <origin>
                             <origPlace>
-                                <placeName type="ancient" ref="http://pleiades.stoa.org/places/462270">Catina</placeName>		
+                                <placeName type="ancient" ref="http://pleiades.stoa.org/places/462270">Catina</placeName>
                                 <placeName type="modern" ref="http://sws.geonames.org/2525068">Catania</placeName>
-                            	<geo>37.49223, 15.07041</geo>
-		</origPlace>
+                                <geo>37.49223, 15.07041</geo>
+                            </origPlace>
                             <origDate datingMethod="#julian" notBefore-custom="0050" notAfter-custom="0100">Post-68 CE (W), b/c legion raised under
                                 Galba</origDate>
                         </origin>
@@ -131,18 +134,18 @@
             </sourceDesc>
         </fileDesc>
         <encodingDesc>
-             <p>Encoded following the latest EpiDoc guidelines</p>
-             <xi:include href="../alists/ISicily-taxonomies.xml">
-                 <xi:fallback>
-                     <p>Taxonomies for ISicily controlled values</p>
-                 </xi:fallback>
-             </xi:include>
-	  <xi:include href="../alists/charDecl.xml">
-	     <xi:fallback>
-	       <p>ISicily glyphs authority list</p>
-	     </xi:fallback>
-	   </xi:include>
-         </encodingDesc>
+            <p>Encoded following the latest EpiDoc guidelines</p>
+            <xi:include href="../alists/ISicily-taxonomies.xml">
+                <xi:fallback>
+                    <p>Taxonomies for ISicily controlled values</p>
+                </xi:fallback>
+            </xi:include>
+            <xi:include href="../alists/charDecl.xml">
+                <xi:fallback>
+                    <p>ISicily glyphs authority list</p>
+                </xi:fallback>
+            </xi:include>
+        </encodingDesc>
         <profileDesc>
             <calendarDesc>
                 <calendar xml:id="julian">
@@ -150,17 +153,17 @@
                 </calendar>
             </calendarDesc>
             <langUsage>
-                <language ident="en">English</language> 
-                <language ident="it">Italian</language> 
-                <language ident="grc">Ancient Greek</language> 
-                <language ident="la">Latin</language> 
-                <language ident="he">Hebrew</language> 
+                <language ident="en">English</language>
+                <language ident="it">Italian</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="la">Latin</language>
+                <language ident="he">Hebrew</language>
                 <language ident="phn">Phoenician</language>
                 <language ident="xpu">Punic</language>
-                <language ident="osc">Oscan</language> 
-                <language ident="xly">Elymian</language> 
-                <language ident="scx">Sikel</language>  
-                <language ident="sxc">Sikan</language>  
+                <language ident="osc">Oscan</language>
+                <language ident="xly">Elymian</language>
+                <language ident="scx">Sikel</language>
+                <language ident="sxc">Sikan</language>
             </langUsage>
             <textClass>
                 <keywords scheme="http://www.eagle-network.eu/voc/typeins.html">
@@ -174,14 +177,14 @@
                     database
                 </change>
                 <change when="2017-11-16" who="#JP">Jonathan Prag added a bibl element</change>
-            	   <change when="2020-10-05" who="#SS">Simona Stoyanova normalised Unicode</change>
-            	   <change when="2020-10-08" who="#SS">Simona Stoyanova updated list of languages</change>
-            	<change when="2020-11-20" who="#SS">Simona Stoyanova added EDCS numbers</change>
-		<change when="2020-11-26" who="#SS">Simona Stoyanova restructured bibliography</change>
-	    <change when="2020-12-22" who="#system">Updated Zenodo DOI</change>
-            	<change when="2021-01-19" who="#SS">renumbered files, uris and references</change>
+                <change when="2020-10-05" who="#SS">Simona Stoyanova normalised Unicode</change>
+                <change when="2020-10-08" who="#SS">Simona Stoyanova updated list of languages</change>
+                <change when="2020-11-20" who="#SS">Simona Stoyanova added EDCS numbers</change>
+                <change when="2020-11-26" who="#SS">Simona Stoyanova restructured bibliography</change>
+                <change when="2020-12-22" who="#system">Updated Zenodo DOI</change>
+                <change when="2021-01-19" who="#SS">renumbered files, uris and references</change>
                 <change when="2021-07-23" who="#DEE">David Espinosa Espinosa edited, encoded the text division, and tagged full name and word</change>
-	</listChange>
+            </listChange>
         </revisionDesc>
     </teiHeader>
     <facsimile>
@@ -192,21 +195,51 @@
             <graphic n="print" url="ISic000619.jpg" height="3680px" width="5520px">
                 <desc>I.Sicily with the permission of the Assessorato Regionale dei Beni Culturali e dell’Identità Siciliana - Dipartimento dei Beni Culturali e dell’Identità Siciliana</desc>
             </graphic>
-         </surface>
+        </surface>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#DEE">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name type="praenomen"><expan><abbr>M</abbr><ex>arcus</ex></expan></name> <name type="nomen">Iulius</name> <name type="patronym"><expan><abbr>M</abbr><ex>arci</ex></expan></name> <w><expan><abbr>f</abbr><ex>ilius</ex></expan></w> <orgName type="tribus" nymRef="#Papiria"><expan><abbr>Pap</abbr><ex>iria</ex></expan></orgName> <name type="cognomen">Seda
-                    <lb n="2" break="no"/>tus</name> <placeName type="city"><expan><abbr>Narb</abbr><ex>one</ex></expan></placeName></persName> <roleName type="military" subtype="miles"><w><expan><abbr>mil</abbr><ex>es</ex></expan></w></roleName> <orgName type="military" subtype="legionary" nymRef="#legio_VII_Gemina_Felix"><w lemma="legio"><expan><abbr>leg</abbr><ex>ionis</ex></expan></w>
-                    <lb n="3"/><num value="7"><hi rend="supraline">VII</hi></num> <orgName><expan><abbr>Gem</abbr><ex>inae</ex></expan></orgName> <orgName><expan><ex>F</ex><abbr>e</abbr><ex>licis</ex></expan></orgName></orgName> <orgName type="military"><w lemma="centuria"><g ref="#centuria">centuria</g></w> <orgName>Iuvenis</orgName></orgName>
-                    <lb n="4"/><w><expan><abbr>mil</abbr><ex>itavit</ex></expan></w> <w><expan><abbr>an</abbr><ex>nos</ex></expan></w> <num value="14">XIIII</num> <w>vixit</w> <w><expan><abbr>an</abbr><ex>nos</ex></expan></w> <num value="14">XXXII</num>
-                    <lb n="5"/><w><expan><ex>H</ex><abbr>i</abbr><ex>c</ex></expan></w> <w><expan><abbr>p</abbr><ex>ositus</ex></expan></w>
+                    <lb n="1"/><persName type="attested"><name type="praenomen"><w n="5"><expan><abbr>M</abbr><ex>arcus</ex></expan></w></name> <name type="nomen"><w n="10">Iulius</w></name> <name type="patronym"><w n="15"><expan><abbr>M</abbr><ex>arci</ex></expan></w></name> <w n="20"><expan><abbr>f</abbr><ex>ilius</ex></expan></w> <orgName type="tribus" nymRef="#Papiria"><w n="25"><expan><abbr>Pap</abbr><ex>iria</ex></expan></w></orgName> <name type="cognomen"><w n="30">Seda
+                    <lb n="2" break="no"/>tus</w></name> <placeName type="city"><w n="35"><expan><abbr>Narb</abbr><ex>one</ex></expan></w></placeName></persName> <roleName type="military" subtype="miles"><w n="40"><expan><abbr>mil</abbr><ex>es</ex></expan></w></roleName> <orgName type="military" subtype="legionary" nymRef="#legio_VII_Gemina_Felix"><w lemma="legio" n="45"><expan><abbr>leg</abbr><ex>ionis</ex></expan></w>
+                    <lb n="3"/><num value="7"><w n="50"><hi rend="supraline">VII</hi></w></num> <orgName><w n="55"><expan><abbr>Gem</abbr><ex>inae</ex></expan></w></orgName> <orgName><w n="60"><expan><ex>F</ex><abbr>e</abbr><ex>licis</ex></expan></w></orgName></orgName> <orgName type="military"><w lemma="centuria" n="65"><g ref="#centuria" n="70">centuria</g></w> <orgName><w n="75">Iuvenis</w></orgName></orgName>
+                    <lb n="4"/><w n="80"><expan><abbr>mil</abbr><ex>itavit</ex></expan></w> <w n="85"><expan><abbr>an</abbr><ex>nos</ex></expan></w> <num value="14"><w n="90">XIIII</w></num> <w n="95">vixit</w> <w n="100"><expan><abbr>an</abbr><ex>nos</ex></expan></w> <num value="14"><w n="105">XXXII</w></num>
+                    <lb n="5"/><w n="110"><expan><ex>H</ex><abbr>i</abbr><ex>c</ex></expan></w> <w n="115"><expan><abbr>p</abbr><ex>ositus</ex></expan></w>
+                </ab>
+            </div>
+            <div type="edition" subtype="simple-lemmatized">
+                <ab>
+                    <w n="5" lemma="Marcus">Marcus</w>
+                    <w n="10" lemma="Iulius">Iulius</w>
+                    <w n="15" lemma="Marcius">Marci</w>
+                    <w n="20" lemma="filius">filius</w>
+                    <w n="25" lemma="Papirius">Papiria</w>
+                    <w n="30" lemma="Sedatus">Sedatus</w>
+                    <w n="35" lemma="Narbo">Narbone</w>
+                    <w n="40" lemma="miles">miles</w>
+                    <w lemma="legio" n="45">legionis</w>
+                    <w n="50" lemma="VII">VII</w>
+                    <w n="55" lemma="Geminae">Geminae</w>
+                    <w n="60" lemma="Felicis">Felicis</w>
+                    <w lemma="centurio" n="65">centuria</w>
+                    <w n="75" lemma="Iuvenis">Iuvenis</w>
+                    <w n="80" lemma="milito">militavit</w>
+                    <w n="85" lemma="annus">annos</w>
+                    <w n="90" lemma="XIIII">XIIII</w>
+                    <w n="95" lemma="vivo">vixit</w>
+                    <w n="100" lemma="annus">annos</w>
+                    <w n="105" lemma="XXXII">XXXII</w>
+                    <w n="110" lemma="hic">Hic</w>
+                    <w n="115" lemma="pono">positus</w>
                 </ab>
             </div>
             <div type="apparatus">
-                <listApp><app><note>Text according to EDR071677</note></app></listApp>
+                <listApp>
+                    <app>
+                        <note>Text according to EDR071677</note>
+                    </app>
+                </listApp>
             </div>
             <div type="translation" xml:lang="en" resp="#DEE">
                 <p>Marcus Iulius Sedatus, son of Marcus, of the Papirian voting-tribe, from the city of Narbo, soldier of the Seventh Legion Gemina Felix, in the century of Iuvenis, (he) served 14 years (and) lived 32 years. (He) has been laid here.</p>
@@ -223,29 +256,35 @@
                     <bibl type="bulletin" n="AE">
                         <citedRange>1897.0132</citedRange>
                         <ptr target="http://zotero.org/groups/382445/items/R46KDTZX"/>
-                    <ref target="https://biblio.inscriptiones.org/epig10001283">https://biblio.inscriptiones.org/epig10001283</ref></bibl>
+                        <ref target="https://biblio.inscriptiones.org/epig10001283">https://biblio.inscriptiones.org/epig10001283</ref>
+                    </bibl>
                     <bibl>
                         <author>Wilson</author>
                         <date>1990</date>
                         <citedRange>359 n.60</citedRange>
                         <ptr target="https://www.zotero.org/groups/382445/items/VF9MMBI9"/>
-                    <ref target="https://biblio.inscriptiones.org/epig10001509">https://biblio.inscriptiones.org/epig10001509</ref></bibl>
+                        <ref target="https://biblio.inscriptiones.org/epig10001509">https://biblio.inscriptiones.org/epig10001509</ref>
+                    </bibl>
                     <bibl type="bulletin" n="NSA">
                         <author>Orsi</author>
                         <title>NSA</title>
                         <date>1897</date>
                         <citedRange>240-241</citedRange>
                         <ptr target="http://zotero.org/groups/382445/items/4MCP2PVV"/>
-                    <ref target="https://biblio.inscriptiones.org/epig10001392">https://biblio.inscriptiones.org/epig10001392</ref></bibl>
+                        <ref target="https://biblio.inscriptiones.org/epig10001392">https://biblio.inscriptiones.org/epig10001392</ref>
+                    </bibl>
                     <bibl/>
                     <bibl>
                         <author>Manganaro</author>
                         <date>1988</date>
                         <citedRange>40</citedRange>
                         <ptr target="https://www.zotero.org/groups/isicily/items/RZSFKACR"/>
-                    <ref target="https://biblio.inscriptiones.org/epig10001427">https://biblio.inscriptiones.org/epig10001427</ref></bibl>
+                        <ref target="https://biblio.inscriptiones.org/epig10001427">https://biblio.inscriptiones.org/epig10001427</ref>
+                    </bibl>
                 </listBibl>
-	   <listBibl type="discussion"><bibl/></listBibl>
+                <listBibl type="discussion">
+                    <bibl/>
+                </listBibl>
             </div>
         </body>
     </text>

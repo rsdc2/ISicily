@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -9,7 +9,9 @@
                 <editor ref="#JP">Jonathan Prag</editor>
                 <principal ref="#JP">Jonathan Prag</principal>
                 <funder>John Fell OUP Research Fund</funder>
-	   <funder><ref target="https://cordis.europa.eu/project/id/885040">ERC Advanced Grant no.885040</ref></funder>
+                <funder>
+                    <ref target="https://cordis.europa.eu/project/id/885040">ERC Advanced Grant no.885040</ref>
+                </funder>
                 <respStmt>
                     <name xml:id="JP" ref="http://orcid.org/0000-0003-3819-8537">Jonathan Prag</name>
                     <resp>original data collection and editing</resp>
@@ -30,11 +32,11 @@
                     <name xml:id="MM">Michael Metcalfe</name>
                     <resp>museum data collection</resp>
                 </respStmt>
-	    <respStmt>
-     	       <name xml:id="SS" ref="https://orcid.org/0000-0003-3914-9569">Simona Stoyanova</name>
-     	       <resp>standardisation of template and tidying up encoding</resp>
- 	   </respStmt>
-	    <respStmt>
+                <respStmt>
+                    <name xml:id="SS" ref="https://orcid.org/0000-0003-3914-9569">Simona Stoyanova</name>
+                    <resp>standardisation of template and tidying up encoding</resp>
+                </respStmt>
+                <respStmt>
                     <name xml:id="system">system</name>
                     <resp>automated or batch processes</resp>
                 </respStmt>
@@ -88,12 +90,12 @@
                                     </dimensions>
                                 </support>
                                 <condition/>
-		    </supportDesc>
+                            </supportDesc>
                             <layoutDesc>
                                 <layout><!--Default value and requires checking-->
                                     <rs ana="#execution.chiselled" ref="http://www.eagle-network.eu/voc/writing/lod/1">chiselled</rs>
-                                	<damage/>
-			</layout>
+                                    <damage/>
+                                </layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
@@ -112,35 +114,34 @@
                     <history>
                         <origin>
                             <origPlace>
-                                <placeName type="ancient" ref="http://pleiades.stoa.org/places/462283">Lipara</placeName>		
+                                <placeName type="ancient" ref="http://pleiades.stoa.org/places/462283">Lipara</placeName>
                                 <placeName type="modern" ref="http://sws.geonames.org/2524378">Lipari</placeName>
-                            	<geo>38.48333, 14.93333</geo>
-		</origPlace>
+                                <geo>38.48333, 14.93333</geo>
+                            </origPlace>
                             <origDate datingMethod="#julian" notBefore-custom="-0100" notAfter-custom="-0001" precision="low">1st century BCE</origDate>
                         </origin>
-                        <provenance type="found">Original discovery not recorded.</provenance> 
+                        <provenance type="found">Original discovery not recorded.</provenance>
                         <provenance type="found" subtype="first-recorded">First noted in the Palermo Archaeological Museum</provenance>
                         <provenance type="transfered">transferred from Palermo museum in 1965</provenance>
                         <provenance type="observed" subtype="autopsied">None</provenance>
                         <acquisition/>
                     </history>
-                    
                 </msDesc>
             </sourceDesc>
         </fileDesc>
         <encodingDesc>
-             <p>Encoded following the latest EpiDoc guidelines</p>
-             <xi:include href="../alists/ISicily-taxonomies.xml">
-                 <xi:fallback>
-                     <p>Taxonomies for ISicily controlled values</p>
-                 </xi:fallback>
-             </xi:include>
-	  <xi:include href="../alists/charDecl.xml">
-	     <xi:fallback>
-	       <p>ISicily glyphs authority list</p>
-	     </xi:fallback>
-	   </xi:include>
-         </encodingDesc>
+            <p>Encoded following the latest EpiDoc guidelines</p>
+            <xi:include href="../alists/ISicily-taxonomies.xml">
+                <xi:fallback>
+                    <p>Taxonomies for ISicily controlled values</p>
+                </xi:fallback>
+            </xi:include>
+            <xi:include href="../alists/charDecl.xml">
+                <xi:fallback>
+                    <p>ISicily glyphs authority list</p>
+                </xi:fallback>
+            </xi:include>
+        </encodingDesc>
         <profileDesc>
             <calendarDesc>
                 <calendar xml:id="julian">
@@ -170,12 +171,12 @@
             <listChange>
                 <change when="2016-12-03" who="#JCu">James Cummings autogenerated EpiDoc output from database</change>
                 <change when="2020-05-22" who="#JP">Jonathan Prag made initial revisions based upon I.Lipara</change>
-            	   <change when="2020-10-05" who="#SS">Simona Stoyanova normalised Unicode</change>
-            	   <change when="2020-10-08" who="#SS">Simona Stoyanova updated list of languages</change>
-            		<change when="2020-11-26" who="#SS">Simona Stoyanova restructured bibliography</change>
-	    <change when="2020-12-17" who="#system">Updated Zenodo DOI</change>
-            	<change when="2021-01-19" who="#SS">renumbered files, uris and references</change>
-	</listChange>
+                <change when="2020-10-05" who="#SS">Simona Stoyanova normalised Unicode</change>
+                <change when="2020-10-08" who="#SS">Simona Stoyanova updated list of languages</change>
+                <change when="2020-11-26" who="#SS">Simona Stoyanova restructured bibliography</change>
+                <change when="2020-12-17" who="#system">Updated Zenodo DOI</change>
+                <change when="2021-01-19" who="#SS">renumbered files, uris and references</change>
+            </listChange>
         </revisionDesc>
     </teiHeader>
     <facsimile>
@@ -186,22 +187,32 @@
             <graphic n="print" url="ISic000806.jpg" height="3680px" width="5520px">
                 <desc>I.Sicily with the permission of the Assessorato Regionale dei Beni Culturali e dell’Identità Siciliana - Dipartimento dei Beni Culturali e dell’Identità Siciliana</desc>
             </graphic>
-         </surface>
+        </surface>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1"/>Ἀλλιήν
-                    <lb n="2" break="no"/>ας
-                    <lb n="3"/>Δωροθέ
-                    <lb n="4" break="no"/>ας
-                 </ab>
+                    <lb n="1"/><w n="5">Ἀλλιήν
+                    <lb n="2" break="no"/>ας</w>
+                    <lb n="3"/><name><w n="10">Δωροθέ
+                    <lb n="4" break="no"/>ας</w></name>
+                </ab>
+            </div>
+            <div type="edition" subtype="simple-lemmatized">
+                <ab>
+                    <w n="5" lemma="Ἀλλιήνα">Ἀλλιήνας</w>
+                    <w n="10" lemma="Δωροθέα">Δωροθέας</w>
+                </ab>
             </div>
             <div type="apparatus">
                 <listApp>
-                    <app><note>Text of I.Lipara</note></app>
-                    <app loc="line 1-2"><note>Libertini: Ἀδαίηνας</note></app>
+                    <app>
+                        <note>Text of I.Lipara</note>
+                    </app>
+                    <app loc="line 1-2">
+                        <note>Libertini: Ἀδαίηνας</note>
+                    </app>
                 </listApp>
             </div>
             <div type="translation" xml:lang="en" resp="#JP">
@@ -215,29 +226,36 @@
                     <bibl type="bulletin" n="AE">
                         <citedRange>1968.0201</citedRange>
                         <ptr target="http://zotero.org/groups/382445/items/R46KDTZX"/>
-                    <ref target="https://biblio.inscriptiones.org/epig10001283">https://biblio.inscriptiones.org/epig10001283</ref></bibl>
+                        <ref target="https://biblio.inscriptiones.org/epig10001283">https://biblio.inscriptiones.org/epig10001283</ref>
+                    </bibl>
                     <bibl type="bulletin" n="BE">
                         <citedRange>1968.0610</citedRange>
                         <ptr target="http://zotero.org/groups/382445/items/77P5MNIR"/>
-                    <ref target="https://biblio.inscriptiones.org/epig10001282">https://biblio.inscriptiones.org/epig10001282</ref></bibl>
+                        <ref target="https://biblio.inscriptiones.org/epig10001282">https://biblio.inscriptiones.org/epig10001282</ref>
+                    </bibl>
                     <bibl type="corpus" n="ILipara">
                         <citedRange>659</citedRange>
                         <ptr target="https://www.zotero.org/groups/382445/items/VDAQH5D2"/>
-                    <ref target="https://biblio.inscriptiones.org/epig10000541">https://biblio.inscriptiones.org/epig10000541</ref></bibl>
+                        <ref target="https://biblio.inscriptiones.org/epig10000541">https://biblio.inscriptiones.org/epig10000541</ref>
+                    </bibl>
                     <bibl>
                         <author>Libertini</author>
                         <date>1921</date>
                         <citedRange>222 no.32</citedRange>
                         <ptr target="https://www.zotero.org/groups/382445/items/QECEVGHN"/>
-                    <ref target="https://biblio.inscriptiones.org/epig10001875">https://biblio.inscriptiones.org/epig10001875</ref></bibl>
+                        <ref target="https://biblio.inscriptiones.org/epig10001875">https://biblio.inscriptiones.org/epig10001875</ref>
+                    </bibl>
                     <bibl>
                         <author>Manni Piraino</author>
                         <date>1967</date>
                         <citedRange>199 no.4</citedRange>
                         <ptr target="https://www.zotero.org/groups/382445/items/3AN52RNG"/>
-                    <ref target="https://biblio.inscriptiones.org/epig10001778">https://biblio.inscriptiones.org/epig10001778</ref></bibl>
+                        <ref target="https://biblio.inscriptiones.org/epig10001778">https://biblio.inscriptiones.org/epig10001778</ref>
+                    </bibl>
                 </listBibl>
-	   <listBibl type="discussion"><bibl/></listBibl>
+                <listBibl type="discussion">
+                    <bibl/>
+                </listBibl>
             </div>
         </body>
     </text>

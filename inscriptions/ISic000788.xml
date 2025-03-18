@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -9,7 +9,9 @@
                 <editor ref="#JP">Jonathan Prag</editor>
                 <principal ref="#JP">Jonathan Prag</principal>
                 <funder>John Fell OUP Research Fund</funder>
-	   <funder><ref target="https://cordis.europa.eu/project/id/885040">ERC Advanced Grant no.885040</ref></funder>
+                <funder>
+                    <ref target="https://cordis.europa.eu/project/id/885040">ERC Advanced Grant no.885040</ref>
+                </funder>
                 <respStmt>
                     <name xml:id="JP" ref="http://orcid.org/0000-0003-3819-8537">Jonathan Prag</name>
                     <resp>original data collection and editing</resp>
@@ -34,11 +36,11 @@
                     <name xml:id="VB">Vittorio Bottini</name>
                     <resp>EpiDoc encoding</resp>
                 </respStmt>
-	    <respStmt>
-     	       <name xml:id="SS" ref="https://orcid.org/0000-0003-3914-9569">Simona Stoyanova</name>
-     	       <resp>standardisation of template and tidying up encoding</resp>
- 	   </respStmt>
-	    <respStmt>
+                <respStmt>
+                    <name xml:id="SS" ref="https://orcid.org/0000-0003-3914-9569">Simona Stoyanova</name>
+                    <resp>standardisation of template and tidying up encoding</resp>
+                </respStmt>
+                <respStmt>
                     <name xml:id="system">system</name>
                     <resp>automated or batch processes</resp>
                 </respStmt>
@@ -80,7 +82,8 @@
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
-                                <support><p>A slab of marble, missing the upper left corner and upper left margin, but otherwise intact (and the full text is preserved).</p>
+                                <support>
+                                    <p>A slab of marble, missing the upper left corner and upper left margin, but otherwise intact (and the full text is preserved).</p>
                                     <material ana="#material.stone.marble" ref="http://www.eagle-network.eu/voc/material/lod/48.html">marble
                                     </material>
                                     <objectType ana="#object.plaque" ref="http://www.eagle-network.eu/voc/objtyp/lod/259">plaque</objectType>
@@ -91,12 +94,13 @@
                                     </dimensions>
                                 </support>
                                 <condition/>
-		    </supportDesc>
+                            </supportDesc>
                             <layoutDesc>
-                                <layout><p>The text is approximately centered on the stone, with the left and right margins more or less regular except in the final two lines.</p>
+                                <layout>
+                                    <p>The text is approximately centered on the stone, with the left and right margins more or less regular except in the final two lines.</p>
                                     <rs ana="#execution.chiselled" ref="http://www.eagle-network.eu/voc/writing/lod/1">chiselled</rs>
-                                	<damage/>
-			</layout>
+                                    <damage/>
+                                </layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
@@ -115,10 +119,10 @@
                     <history>
                         <origin>
                             <origPlace>
-                                <placeName type="ancient" ref="http://pleiades.stoa.org/places/462538">Messana</placeName>		
+                                <placeName type="ancient" ref="http://pleiades.stoa.org/places/462538">Messana</placeName>
                                 <placeName type="modern" ref="http://sws.geonames.org/2524170">Messina</placeName>
-                            	<geo>38.19394, 15.55256</geo>
-		</origPlace>
+                                <geo>38.19394, 15.55256</geo>
+                            </origPlace>
                             <origDate datingMethod="#julian" notBefore-custom="0001" notAfter-custom="0200" precision="low">Ferrua suggested early 3rd century CE, Griffo the  1st century CE; a date in the first two centuries CE seems likely (so also Bitto 2001: 71).</origDate>
                         </origin>
                         <provenance type="found" subtype="discovered">Found in excavations by Griffo in the 1940s in the area of the Necropolis of the Orti della Maddalena<geo>38.183786, 15.549119</geo></provenance>
@@ -129,18 +133,18 @@
             </sourceDesc>
         </fileDesc>
         <encodingDesc>
-             <p>Encoded following the latest EpiDoc guidelines</p>
-             <xi:include href="../alists/ISicily-taxonomies.xml">
-                 <xi:fallback>
-                     <p>Taxonomies for ISicily controlled values</p>
-                 </xi:fallback>
-             </xi:include>
-	  <xi:include href="../alists/charDecl.xml">
-	     <xi:fallback>
-	       <p>ISicily glyphs authority list</p>
-	     </xi:fallback>
-	   </xi:include>
-         </encodingDesc>
+            <p>Encoded following the latest EpiDoc guidelines</p>
+            <xi:include href="../alists/ISicily-taxonomies.xml">
+                <xi:fallback>
+                    <p>Taxonomies for ISicily controlled values</p>
+                </xi:fallback>
+            </xi:include>
+            <xi:include href="../alists/charDecl.xml">
+                <xi:fallback>
+                    <p>ISicily glyphs authority list</p>
+                </xi:fallback>
+            </xi:include>
+        </encodingDesc>
         <profileDesc>
             <calendarDesc>
                 <calendar xml:id="julian">
@@ -171,13 +175,13 @@
                 <change when="2016-12-03" who="#JCu">James Cummings autogenerated EpiDoc output from database</change>
                 <change when="2019-01-18" who="#VB">Vittorio Bottino encoded the text division and added some metadata</change>
                 <change when="2019-01-24" who="#JP">Jonathan Prag checked and revised the file with additional metadata</change>
-            	   <change when="2020-10-05" who="#SS">Simona Stoyanova normalised Unicode</change>
-            	   <change when="2020-10-08" who="#SS">Simona Stoyanova updated list of languages</change>
-            	<change when="2020-11-20" who="#SS">Simona Stoyanova added EDCS numbers</change>
-		<change when="2020-11-26" who="#SS">Simona Stoyanova restructured bibliography</change>
-	    <change when="2020-12-17" who="#system">Updated Zenodo DOI</change>
-            	<change when="2021-01-19" who="#SS">renumbered files, uris and references</change>
-	</listChange>
+                <change when="2020-10-05" who="#SS">Simona Stoyanova normalised Unicode</change>
+                <change when="2020-10-08" who="#SS">Simona Stoyanova updated list of languages</change>
+                <change when="2020-11-20" who="#SS">Simona Stoyanova added EDCS numbers</change>
+                <change when="2020-11-26" who="#SS">Simona Stoyanova restructured bibliography</change>
+                <change when="2020-12-17" who="#system">Updated Zenodo DOI</change>
+                <change when="2021-01-19" who="#SS">renumbered files, uris and references</change>
+            </listChange>
         </revisionDesc>
     </teiHeader>
     <facsimile>
@@ -188,21 +192,41 @@
             <graphic n="print" url="ISic000788.jpg" height="3680px" width="5520px">
                 <desc>I.Sicily with the permission of the Assessorato Regionale dei Beni Culturali e dell’Identità Siciliana - Dipartimento dei Beni Culturali e dell’Identità Siciliana</desc>
             </graphic>
-         </surface></facsimile>
+        </surface>
+    </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#VB">
                 <ab>
-                    <lb n="1"/><expan><abbr>D</abbr><ex>is</ex></expan> ❦ <expan><abbr>M</abbr><ex>anibus</ex></expan> ❦
-                    <lb n="2"/>Cartilia ❦ Ire
-                    <lb n="3" break="no"/>ne ❦ <expan><abbr>vix</abbr><ex>it</ex></expan> ❦ <expan><abbr>ann</abbr><ex>is</ex></expan> ❦
-                    <lb n="4"/><num value="38">XXXVIII</num> ❦ <expan><abbr>Cl</abbr><ex>audius</ex></expan> ❦ The
-                    <lb n="5" break="no"/>seus ❦ uxori ❦
-                    <lb n="6"/>sanctissimae
+                    <lb n="1"/><w n="5"><expan><abbr>D</abbr><ex>is</ex></expan></w> <g ref="#interpunct" n="10">❦</g> <name><w n="15"><expan><abbr>M</abbr><ex>anibus</ex></expan></w></name> <g ref="#interpunct" n="20">❦</g>
+                    <lb n="2"/><name><w n="25">Cartilia</w></name> <g ref="#interpunct" n="30">❦</g> <name><w n="35">Ire
+                    <lb n="3" break="no"/>ne</w></name> <g ref="#interpunct" n="40">❦</g> <w n="45"><expan><abbr>vix</abbr><ex>it</ex></expan></w> <g ref="#interpunct" n="50">❦</g> <w n="55"><expan><abbr>ann</abbr><ex>is</ex></expan></w> <g ref="#interpunct" n="60">❦</g>
+                    <lb n="4"/><num value="38"><w n="65">XXXVIII</w></num> <g ref="#interpunct" n="70">❦</g> <name><w n="75"><expan><abbr>Cl</abbr><ex>audius</ex></expan></w></name> <g ref="#interpunct" n="80">❦</g> <name><w n="85">The
+                    <lb n="5" break="no"/>seus</w></name> <g ref="#interpunct" n="90">❦</g> <w n="95">uxori</w> <g ref="#interpunct" n="100">❦</g>
+                    <lb n="6"/><w n="105">sanctissimae</w>
+                </ab>
+            </div>
+            <div type="edition" subtype="simple-lemmatized">
+                <ab>
+                    <w n="5" lemma="Deus">Dis</w>
+                    <w n="15" lemma="Manes">Manibus</w>
+                    <w n="25" lemma="Cartilia">Cartilia</w>
+                    <w n="35" lemma="Irus">Irene</w>
+                    <w n="45" lemma="vivo">vixit</w>
+                    <w n="55" lemma="annus">annis</w>
+                    <w n="65" lemma="XXXVIII">XXXVIII</w>
+                    <w n="75" lemma="Claudius">Claudius</w>
+                    <w n="85" lemma="Theseus">Theseus</w>
+                    <w n="95" lemma="uxor">uxori</w>
+                    <w n="105" lemma="sancio">sanctissimae</w>
                 </ab>
             </div>
             <div type="apparatus">
-                <listApp><app><note>Text of Bitto 2001</note></app></listApp>
+                <listApp>
+                    <app>
+                        <note>Text of Bitto 2001</note>
+                    </app>
+                </listApp>
             </div>
             <div type="translation" xml:lang="en" resp="#VB">
                 <p> To the Shades of the Underworld. Cartilia Irene lived 38 years. Claudius Theseus to (his) most pure wife</p>
@@ -218,30 +242,37 @@
                     <bibl type="bulletin" n="AE">
                         <citedRange>1981.0466</citedRange>
                         <ptr target="http://zotero.org/groups/382445/items/R46KDTZX"/>
-                    <ref target="https://biblio.inscriptiones.org/epig10001283">https://biblio.inscriptiones.org/epig10001283</ref></bibl>
+                        <ref target="https://biblio.inscriptiones.org/epig10001283">https://biblio.inscriptiones.org/epig10001283</ref>
+                    </bibl>
                     <bibl type="bulletin" n="AE">
                         <citedRange>1977.0333</citedRange>
                         <ptr target="http://zotero.org/groups/382445/items/R46KDTZX"/>
-                    <ref target="https://biblio.inscriptiones.org/epig10001283">https://biblio.inscriptiones.org/epig10001283</ref></bibl>
+                        <ref target="https://biblio.inscriptiones.org/epig10001283">https://biblio.inscriptiones.org/epig10001283</ref>
+                    </bibl>
                     <bibl type="corpus" n="IMusMessina">
                         <citedRange>22</citedRange>
                         <ptr target="https://www.zotero.org/groups/382445/items/M9HMEP2R"/>
-                    <ref target="https://biblio.inscriptiones.org/epig10000029">https://biblio.inscriptiones.org/epig10000029</ref></bibl>
+                        <ref target="https://biblio.inscriptiones.org/epig10000029">https://biblio.inscriptiones.org/epig10000029</ref>
+                    </bibl>
                     <bibl type="bulletin" n="NSA">
                         <author>Griffo</author>
                         <title>NSA</title>
                         <date>1942</date>
                         <citedRange>84-85 no.7 fig.25</citedRange>
                         <ptr target="http://zotero.org/groups/382445/items/4MCP2PVV"/>
-                    <ref target="https://biblio.inscriptiones.org/epig10001392">https://biblio.inscriptiones.org/epig10001392</ref></bibl>
+                        <ref target="https://biblio.inscriptiones.org/epig10001392">https://biblio.inscriptiones.org/epig10001392</ref>
+                    </bibl>
                     <bibl>
                         <author>Ferrua</author>
                         <date>1941</date>
                         <citedRange>256 no.9</citedRange>
                         <ptr target="https://www.zotero.org/groups/382445/items/P7QQ9SB6"/>
-                    <ref target="https://biblio.inscriptiones.org/epig10002655">https://biblio.inscriptiones.org/epig10002655</ref></bibl>
+                        <ref target="https://biblio.inscriptiones.org/epig10002655">https://biblio.inscriptiones.org/epig10002655</ref>
+                    </bibl>
                 </listBibl>
-	   <listBibl type="discussion"><bibl/></listBibl>
+                <listBibl type="discussion">
+                    <bibl/>
+                </listBibl>
             </div>
         </body>
     </text>

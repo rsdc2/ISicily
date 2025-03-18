@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -9,7 +9,9 @@
                 <editor ref="#JP">Jonathan Prag</editor>
                 <principal ref="#JP">Jonathan Prag</principal>
                 <funder>John Fell OUP Research Fund</funder>
-	   <funder><ref target="https://cordis.europa.eu/project/id/885040">ERC Advanced Grant no.885040</ref></funder>
+                <funder>
+                    <ref target="https://cordis.europa.eu/project/id/885040">ERC Advanced Grant no.885040</ref>
+                </funder>
                 <respStmt>
                     <name xml:id="JP" ref="http://orcid.org/0000-0003-3819-8537">Jonathan Prag</name>
                     <resp>original data collection and editing</resp>
@@ -30,15 +32,15 @@
                     <name xml:id="MM">Michael Metcalfe</name>
                     <resp>museum data collection</resp>
                 </respStmt>
-	    <respStmt>
-     	       <name xml:id="SS" ref="https://orcid.org/0000-0003-3914-9569">Simona Stoyanova</name>
-     	       <resp>standardisation of template and tidying up encoding</resp>
- 	   </respStmt>
+                <respStmt>
+                    <name xml:id="SS" ref="https://orcid.org/0000-0003-3914-9569">Simona Stoyanova</name>
+                    <resp>standardisation of template and tidying up encoding</resp>
+                </respStmt>
                 <respStmt>
                     <name xml:id="FP" ref="https://orcid.org/0000-0003-3326-3475">Francesca Prado</name>
                     <resp>editing of EpiDoc</resp>
                 </respStmt>
-	    <respStmt>
+                <respStmt>
                     <name xml:id="system">system</name>
                     <resp>automated or batch processes</resp>
                 </respStmt>
@@ -47,7 +49,7 @@
                 <authority>I.Sicily</authority>
                 <idno type="filename">ISic000639</idno>
                 <idno type="TM">644881</idno>
-                <idno type="EDR">141109</idno> 
+                <idno type="EDR">141109</idno>
                 <idno type="EDH"/>
                 <idno type="EDCS">64800566</idno>
                 <idno type="PHI">332877</idno>
@@ -79,7 +81,8 @@
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
-                                <support><p>A rectangular brick employed as an funerary plaque</p>
+                                <support>
+                                    <p>A rectangular brick employed as an funerary plaque</p>
                                     <material ana="#material.clay.unfired" ref="http://www.eagle-network.eu/voc/material/lod/642.html">clay</material>
                                     <objectType ana="#object.brick" ref="https://www.eagle-network.eu/voc/objtyp/lod/147.html">brick</objectType>
                                     <dimensions><!--from Manganaro 1994-->
@@ -89,16 +92,18 @@
                                     </dimensions>
                                 </support>
                                 <condition/>
-		    </supportDesc>
+                            </supportDesc>
                             <layoutDesc>
-                                <layout><p>Text is centred on the brick, neatly incised (prior to firing ?)</p>
+                                <layout>
+                                    <p>Text is centred on the brick, neatly incised (prior to firing ?)</p>
                                     <rs ana="#execution.incised" ref="https://www.eagle-network.eu/voc/writing/lod/14.html">incised</rs>
-                                	<damage/>
-			</layout>
+                                    <damage/>
+                                </layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote><p>lunate epsilon and sigma</p>
+                            <handNote>
+                                <p>lunate epsilon and sigma</p>
                                 <locus from="line1" to="line3">Line 1-3</locus>
                                 <dimensions type="letterHeight">
                                     <height unit="mm">25-30</height>
@@ -113,10 +118,10 @@
                     <history>
                         <origin>
                             <origPlace>
-                                <placeName type="ancient" ref="http://pleiades.stoa.org/places/462153">Centuripae</placeName>		
+                                <placeName type="ancient" ref="http://pleiades.stoa.org/places/462153">Centuripae</placeName>
                                 <placeName type="modern" ref="http://sws.geonames.org/2525032">Centuripe</placeName>
-                            	<geo>37.62336, 14.74049</geo>
-		</origPlace>
+                                <geo>37.62336, 14.74049</geo>
+                            </origPlace>
                             <origDate datingMethod="#julian" notBefore-custom="0001" notAfter-custom="0100" precision="low">1st century CE</origDate>
                         </origin>
                         <provenance type="found">Original discovery not recorded.</provenance>
@@ -128,18 +133,18 @@
             </sourceDesc>
         </fileDesc>
         <encodingDesc>
-             <p>Encoded following the latest EpiDoc guidelines</p>
-             <xi:include href="../alists/ISicily-taxonomies.xml">
-                 <xi:fallback>
-                     <p>Taxonomies for ISicily controlled values</p>
-                 </xi:fallback>
-             </xi:include>
-	  <xi:include href="../alists/charDecl.xml">
-	     <xi:fallback>
-	       <p>ISicily glyphs authority list</p>
-	     </xi:fallback>
-	   </xi:include>
-         </encodingDesc>
+            <p>Encoded following the latest EpiDoc guidelines</p>
+            <xi:include href="../alists/ISicily-taxonomies.xml">
+                <xi:fallback>
+                    <p>Taxonomies for ISicily controlled values</p>
+                </xi:fallback>
+            </xi:include>
+            <xi:include href="../alists/charDecl.xml">
+                <xi:fallback>
+                    <p>ISicily glyphs authority list</p>
+                </xi:fallback>
+            </xi:include>
+        </encodingDesc>
         <profileDesc>
             <calendarDesc>
                 <calendar xml:id="julian">
@@ -168,15 +173,15 @@
         <revisionDesc status="draft">
             <listChange>
                 <change when="2016-12-03" who="#JCu">James Cummings autogenerated EpiDoc output from database</change>
-            	   <change when="2020-10-05" who="#SS">Simona Stoyanova normalised Unicode</change>
-            	   <change when="2020-10-08" who="#SS">Simona Stoyanova updated list of languages</change>
-            	<change when="2020-11-20" who="#SS">Simona Stoyanova added EDCS numbers</change>
-		<change when="2020-11-26" who="#SS">Simona Stoyanova restructured bibliography</change>
-	    <change when="2020-12-22" who="#system">Updated Zenodo DOI</change>
-            	<change when="2021-01-19" who="#SS">renumbered files, uris and references</change>
+                <change when="2020-10-05" who="#SS">Simona Stoyanova normalised Unicode</change>
+                <change when="2020-10-08" who="#SS">Simona Stoyanova updated list of languages</change>
+                <change when="2020-11-20" who="#SS">Simona Stoyanova added EDCS numbers</change>
+                <change when="2020-11-26" who="#SS">Simona Stoyanova restructured bibliography</change>
+                <change when="2020-12-22" who="#system">Updated Zenodo DOI</change>
+                <change when="2021-01-19" who="#SS">renumbered files, uris and references</change>
                 <change when="2021-06-25" who="#FP">Francesca Prado edited the text</change>
                 <change when="2021-07-02" who="#FP">Francesca Prado tagged named entities and added English and Italian translation</change>
-	    <change when="2021-07-14" who="#system">Updated Zenodo DOI</change>
+                <change when="2021-07-14" who="#system">Updated Zenodo DOI</change>
             </listChange>
         </revisionDesc>
     </teiHeader>
@@ -188,26 +193,37 @@
             <graphic n="print" url="ISic000639.jpg" height="3680px" width="5520px">
                 <desc>I.Sicily with the permission of the Assessorato Regionale dei Beni Culturali e dell’Identità Siciliana - Dipartimento dei Beni Culturali e dell’Identità Siciliana</desc>
             </graphic>
-         </surface>
+        </surface>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#FP">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name>Λείβερτε</name></persName> 
-                    <lb n="2"/><w>χρηστέ</w>
-                    <lb n="3"/><w>χαῖρε</w>
+                    <lb n="1"/><persName type="attested"><name><w n="5">Λείβερτε</w></name></persName>
+                    <lb n="2"/><w n="10">χρηστέ</w>
+                    <lb n="3"/><w n="15">χαῖρε</w>
                 </ab>  
              </div>
+            <div type="edition" subtype="simple-lemmatized">
+                <ab>
+                    <w n="5" lemma="Λείβερτος">Λείβερτε</w>
+                    <w n="10" lemma="χρηστός">χρηστέ</w>
+                    <w n="15" lemma="χαίρω">χαῖρε</w>
+                </ab>
+            </div>
             <div type="apparatus">
-                <listApp><app><note>Text after Manganaro 1994</note></app></listApp>
+                <listApp>
+                    <app>
+                        <note>Text after Manganaro 1994</note>
+                    </app>
+                </listApp>
             </div>
             <div type="translation" xml:lang="en" resp="#FP">
                 <p>Farewell worthy Libertus!</p>
             </div>
-                <div type="translation" xml:lang="it" resp="#FP">
-                    <p>Addio, degno Libertus!</p>
-                </div>
+            <div type="translation" xml:lang="it" resp="#FP">
+                <p>Addio, degno Libertus!</p>
+            </div>
             <div type="commentary">
                 <p><!--commented out pending revision-->
                     <!--Leibertus - AE notes that the term 'libertus' here serves as a name - or poss. the inscr. incomplete (although the latter notion not entertained by Mang (the former observation is). Lunate letters.--></p>
@@ -217,19 +233,24 @@
                     <bibl type="bulletin" n="AE">
                         <citedRange>1994.0762</citedRange>
                         <ptr target="http://zotero.org/groups/382445/items/R46KDTZX"/>
-                    <ref target="https://biblio.inscriptiones.org/epig10001283">https://biblio.inscriptiones.org/epig10001283</ref></bibl>
+                        <ref target="https://biblio.inscriptiones.org/epig10001283">https://biblio.inscriptiones.org/epig10001283</ref>
+                    </bibl>
                     <bibl type="bulletin" n="SEG">
                         <citedRange>44.0745</citedRange>
                         <ptr target="http://zotero.org/groups/382445/items/F2GG87EQ"/>
-                    <ref target="https://biblio.inscriptiones.org/epig10000796">https://biblio.inscriptiones.org/epig10000796</ref></bibl>
+                        <ref target="https://biblio.inscriptiones.org/epig10000796">https://biblio.inscriptiones.org/epig10000796</ref>
+                    </bibl>
                     <bibl>
                         <author>Manganaro</author>
                         <date>1994</date>
                         <citedRange>85 no.3a fig.5</citedRange>
                         <ptr target="https://www.zotero.org/groups/382445/items/532NF7SV"/>
-                    <ref target="https://biblio.inscriptiones.org/epig10001825">https://biblio.inscriptiones.org/epig10001825</ref></bibl>
+                        <ref target="https://biblio.inscriptiones.org/epig10001825">https://biblio.inscriptiones.org/epig10001825</ref>
+                    </bibl>
                 </listBibl>
-	   <listBibl type="discussion"><bibl/></listBibl>
+                <listBibl type="discussion">
+                    <bibl/>
+                </listBibl>
             </div>
         </body>
     </text>

@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -9,7 +9,9 @@
                 <editor ref="#JP">Jonathan Prag</editor>
                 <principal ref="#JP">Jonathan Prag</principal>
                 <funder>John Fell OUP Research Fund</funder>
-	   <funder><ref target="https://cordis.europa.eu/project/id/885040">ERC Advanced Grant no.885040</ref></funder>
+                <funder>
+                    <ref target="https://cordis.europa.eu/project/id/885040">ERC Advanced Grant no.885040</ref>
+                </funder>
                 <respStmt>
                     <name xml:id="JP" ref="http://orcid.org/0000-0003-3819-8537">Jonathan Prag</name>
                     <resp>original data collection and editing</resp>
@@ -30,11 +32,11 @@
                     <name xml:id="MM">Michael Metcalfe</name>
                     <resp>museum data collection</resp>
                 </respStmt>
-	    <respStmt>
-     	       <name xml:id="SS" ref="https://orcid.org/0000-0003-3914-9569">Simona Stoyanova</name>
-     	       <resp>standardisation of template and tidying up encoding</resp>
- 	   </respStmt>
-	    <respStmt>
+                <respStmt>
+                    <name xml:id="SS" ref="https://orcid.org/0000-0003-3914-9569">Simona Stoyanova</name>
+                    <resp>standardisation of template and tidying up encoding</resp>
+                </respStmt>
+                <respStmt>
                     <name xml:id="system">system</name>
                     <resp>automated or batch processes</resp>
                 </respStmt>
@@ -73,7 +75,8 @@
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
-                                <support><p>Fragment of the lower left corner of a thick tablet of off-white marble, intact left and below, broken right and above. The rear is smooth, with traces of mortar. Light chipping/damage to the left edge.</p>
+                                <support>
+                                    <p>Fragment of the lower left corner of a thick tablet of off-white marble, intact left and below, broken right and above. The rear is smooth, with traces of mortar. Light chipping/damage to the left edge.</p>
                                     <material ana="#material.stone.marble" ref="http://www.eagle-network.eu/voc/material/lod/48.html">marble</material>
                                     <objectType ana="#object.plaque" ref="http://www.eagle-network.eu/voc/objtyp/lod/259">plaque</objectType>
                                     <dimensions>
@@ -83,16 +86,18 @@
                                     </dimensions>
                                 </support>
                                 <condition ana="#condition.fragment"/>
-		    </supportDesc>
+                            </supportDesc>
                             <layoutDesc>
-                                <layout><p>Four lines of Latin letters, with an uneven left margin, and of varying heights, the final line much smaller and with space mid-line.</p>
+                                <layout>
+                                    <p>Four lines of Latin letters, with an uneven left margin, and of varying heights, the final line much smaller and with space mid-line.</p>
                                     <rs ana="#execution.chiselled" ref="http://www.eagle-network.eu/voc/writing/lod/1">chiselled</rs>
-                                	<damage ana="#text_condition.incomplete #text_condition.legible"/>
-			</layout>
+                                    <damage ana="#text_condition.incomplete #text_condition.legible"/>
+                                </layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote><p>Neat v-cut letters of rather square/blockish style, with simple straight serifs to ends of the strokes. T in line 2 is enlarged (50mm) and as is final I in line 4. Interpuncts of triangular form. C is large and asymmetrical; E has equal length horizontals.</p>
+                            <handNote>
+                                <p>Neat v-cut letters of rather square/blockish style, with simple straight serifs to ends of the strokes. T in line 2 is enlarged (50mm) and as is final I in line 4. Interpuncts of triangular form. C is large and asymmetrical; E has equal length horizontals.</p>
                                 <locus from="line1" to="line1">Line 1</locus>
                                 <dimensions type="letterHeight">
                                     <height unit="mm">incomplete</height>
@@ -127,10 +132,10 @@
                     <history>
                         <origin>
                             <origPlace>
-                                <placeName type="ancient" ref="http://pleiades.stoa.org/places/462503">Syracusae</placeName>		
+                                <placeName type="ancient" ref="http://pleiades.stoa.org/places/462503">Syracusae</placeName>
                                 <placeName type="modern" ref="http://sws.geonames.org/2523083">Siracusa</placeName>
-                            	<geo>37.08415, 15.27628</geo>
-		</origPlace>
+                                <geo>37.08415, 15.27628</geo>
+                            </origPlace>
                             <origDate datingMethod="#julian" notBefore-custom="0050" notAfter-custom="0200" evidence="lettering textual-context" precision="low">later 1st or 2nd century CE</origDate>
                         </origin>
                         <provenance type="found" subtype="discovered" notAfter="1888-12-17">Found in the vicinity of the <placeName ref="https://pleiades.stoa.org/places/473876126">amphitheatre at Siracusa</placeName>, entered into the museum on 17.12.1888<geo cert="medium">37.074981, 15.278856</geo></provenance>
@@ -141,18 +146,18 @@
             </sourceDesc>
         </fileDesc>
         <encodingDesc>
-             <p>Encoded following the latest EpiDoc guidelines</p>
-             <xi:include href="../alists/ISicily-taxonomies.xml">
-                 <xi:fallback>
-                     <p>Taxonomies for ISicily controlled values</p>
-                 </xi:fallback>
-             </xi:include>
-	  <xi:include href="../alists/charDecl.xml">
-	     <xi:fallback>
-	       <p>ISicily glyphs authority list</p>
-	     </xi:fallback>
-	   </xi:include>
-         </encodingDesc>
+            <p>Encoded following the latest EpiDoc guidelines</p>
+            <xi:include href="../alists/ISicily-taxonomies.xml">
+                <xi:fallback>
+                    <p>Taxonomies for ISicily controlled values</p>
+                </xi:fallback>
+            </xi:include>
+            <xi:include href="../alists/charDecl.xml">
+                <xi:fallback>
+                    <p>ISicily glyphs authority list</p>
+                </xi:fallback>
+            </xi:include>
+        </encodingDesc>
         <profileDesc>
             <calendarDesc>
                 <calendar xml:id="julian">
@@ -181,17 +186,17 @@
         <revisionDesc status="edited">
             <listChange>
                 <change when="2021-05-08" who="#JP">Jonathan Prag created file from template and autopsy</change>
-	</listChange>
+            </listChange>
         </revisionDesc>
     </teiHeader>
     <facsimile>
-          <surface type="front">
+        <surface type="front">
             <graphic n="screen" url="ISic001676_tiled.tif" height="3680px" width="5520px">
                 <desc>Photo J. Prag, Aut. Assessorato Beni Culturali Regione Siciliana n.10681 del 06/05/2014</desc>
             </graphic>
             <graphic n="print" url="ISic001676.jpg" height="3680px" width="5520px">
                 <desc>Photo J. Prag, Aut. Assessorato Beni Culturali Regione Siciliana n.10681 del 06/05/2014</desc>
-             </graphic>
+            </graphic>
         </surface>
         <surface type="rear">
             <graphic n="screen" url="ISic001676_rear_tiled.tif" height="3680px" width="5520px">
@@ -206,16 +211,33 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
-                    <lb n="1"/><unclear>Buro</unclear><gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="2"/><name><expan><abbr>T</abbr><ex>itus</ex></expan></name> <g ref="#interpunct">·</g> <name><seg part="I">Flav</seg></name><gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="3"/><name>Caelia</name> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="4"/>sib<hi rend="tall">i</hi> <g ref="#interpunct">·</g> <space extent="unknown" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><w n="5"><unclear>Buro</unclear></w> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><name><w n="10"><expan><abbr>T</abbr><ex>itus</ex></expan></w></name> <g ref="#interpunct" n="15">·</g> <name><w n="20"><seg part="I">Flav</seg></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="3"/><name><w n="25">Caelia</w></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="4"/><w n="30">sib<hi rend="tall">i</hi></w> <g ref="#interpunct" n="35">·</g> <space extent="unknown" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
+                </ab>
+            </div>
+            <div type="edition" subtype="simple-lemmatized">
+                <ab>
+                    <w n="5" lemma="NOLEMMA">Buro</w>
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    <w n="10" lemma="Titus">Titus</w>
+                    <w n="20" lemma="NOLEMMA">Flav</w>
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    <w n="25" lemma="Caelia">Caelia</w>
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    <w n="30" lemma="se">sibi</w>
+                    <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>
             <div type="apparatus" resp="#JP">
                 <listApp>
-                    <app><note>Text from autopsy</note></app>
-                    <app loc="line 1"><note>the first letter could possibly be D; the fourth letter could possibly be C</note></app>
+                    <app>
+                        <note>Text from autopsy</note>
+                    </app>
+                    <app loc="line 1">
+                        <note>the first letter could possibly be D; the fourth letter could possibly be C</note>
+                    </app>
                 </listApp>
             </div>
             <div type="translation">
@@ -229,16 +251,20 @@
                     <bibl type="bulletin" n="EphEp">
                         <citedRange>VIII 690</citedRange>
                         <ptr target="https://www.zotero.org/groups/382445/items/PU8UDAF3"/>
-                    <ref target="https://biblio.inscriptiones.org/epig10002649">https://biblio.inscriptiones.org/epig10002649</ref></bibl>
+                        <ref target="https://biblio.inscriptiones.org/epig10002649">https://biblio.inscriptiones.org/epig10002649</ref>
+                    </bibl>
                     <bibl type="bulletin" n="NSA">
                         <author>Orsi</author>
                         <title>NSA</title>
                         <date>1889</date>
                         <citedRange>385</citedRange>
                         <ptr target="http://zotero.org/groups/382445/items/4MCP2PVV"/>
-                    <ref target="https://biblio.inscriptiones.org/epig10001392">https://biblio.inscriptiones.org/epig10001392</ref></bibl>
-                 </listBibl>
-	   <listBibl type="discussion"><bibl/></listBibl>
+                        <ref target="https://biblio.inscriptiones.org/epig10001392">https://biblio.inscriptiones.org/epig10001392</ref>
+                    </bibl>
+                </listBibl>
+                <listBibl type="discussion">
+                    <bibl/>
+                </listBibl>
             </div>
         </body>
     </text>

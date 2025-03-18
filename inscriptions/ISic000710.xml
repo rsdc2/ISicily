@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -9,7 +9,9 @@
                 <editor ref="#JP">Jonathan Prag</editor>
                 <principal ref="#JP">Jonathan Prag</principal>
                 <funder>John Fell OUP Research Fund</funder>
-	   <funder><ref target="https://cordis.europa.eu/project/id/885040">ERC Advanced Grant no.885040</ref></funder>
+                <funder>
+                    <ref target="https://cordis.europa.eu/project/id/885040">ERC Advanced Grant no.885040</ref>
+                </funder>
                 <respStmt>
                     <name xml:id="JP" ref="http://orcid.org/0000-0003-3819-8537">Jonathan Prag</name>
                     <resp>original data collection and editing</resp>
@@ -30,11 +32,11 @@
                     <name xml:id="MM">Michael Metcalfe</name>
                     <resp>museum data collection</resp>
                 </respStmt>
-	    <respStmt>
-     	       <name xml:id="SS" ref="https://orcid.org/0000-0003-3914-9569">Simona Stoyanova</name>
-     	       <resp>standardisation of template and tidying up encoding</resp>
- 	   </respStmt>
-	    <respStmt>
+                <respStmt>
+                    <name xml:id="SS" ref="https://orcid.org/0000-0003-3914-9569">Simona Stoyanova</name>
+                    <resp>standardisation of template and tidying up encoding</resp>
+                </respStmt>
+                <respStmt>
                     <name xml:id="system">system</name>
                     <resp>automated or batch processes</resp>
                 </respStmt>
@@ -78,9 +80,11 @@
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
-                                <support><p>Described as 'calcare' by Manganaro, a fine plaque  missing the upper right and lower right corners, and with the surviving upper right portion broken but still connecting.</p>
+                                <support>
+                                    <p>Described as 'calcare' by Manganaro, a fine plaque  missing the upper right and lower right corners, and with the surviving upper right portion broken but still connecting.</p>
                                     <material ana="#material.stone.limestone" ref="http://www.eagle-network.eu/voc/material/lod/66.html">limestone</material>
-                                    <objectType ana="#object.plaque" ref="http://www.eagle-network.eu/voc/objtyp/lod/259">plaque</objectType><dimensions>
+                                    <objectType ana="#object.plaque" ref="http://www.eagle-network.eu/voc/objtyp/lod/259">plaque</objectType>
+                                    <dimensions>
                                         <!--Manganaro-->
                                         <height unit="cm">46</height>
                                         <width unit="cm">55</width>
@@ -88,16 +92,18 @@
                                     </dimensions>
                                 </support>
                                 <condition ana="#condition.damaged"/>
-		    </supportDesc>
+                            </supportDesc>
                             <layoutDesc>
-                                <layout><p>seven lines of large fine Latin letters, lines 1-2 larger and central (all lines centred), with the final line reduced and less regular (due to lack of space).</p>
+                                <layout>
+                                    <p>seven lines of large fine Latin letters, lines 1-2 larger and central (all lines centred), with the final line reduced and less regular (due to lack of space).</p>
                                     <rs ana="#execution.chiselled" ref="http://www.eagle-network.eu/voc/writing/lod/1">chiselled</rs>
-                                	<damage ana="#text_condition.incomplete"/>
-			</layout>
+                                    <damage ana="#text_condition.incomplete"/>
+                                </layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote><p>Several of the letter T are taller than other letters; use of apices and interpuncts.</p><!-- measurements from Manganaro -->
+                            <handNote>
+                                <p>Several of the letter T are taller than other letters; use of apices and interpuncts.</p><!-- measurements from Manganaro -->
                                 <locus from="line1" to="line2">Line 1-2</locus>
                                 <dimensions type="letterHeight">
                                     <height unit="mm">65</height>
@@ -124,10 +130,10 @@
                     <history>
                         <origin>
                             <origPlace>
-                                <placeName type="ancient" ref="http://pleiades.stoa.org/places/462270">Catina</placeName>		
+                                <placeName type="ancient" ref="http://pleiades.stoa.org/places/462270">Catina</placeName>
                                 <placeName type="modern" ref="http://sws.geonames.org/2525068">Catania</placeName>
-                            	<geo>37.49223, 15.07041</geo>
-		</origPlace>
+                                <geo>37.49223, 15.07041</geo>
+                            </origPlace>
                             <origDate datingMethod="#julian" notBefore-custom="0001" notAfter-custom="0100" precision="low">1st century CE</origDate>
                         </origin>
                         <provenance type="found" subtype="discovered" when="1960">Recovered c.1960 in course of construction of S. Bambino hospital (so Manganaro)<geo>37.5060446,15.0809441</geo></provenance><!-- hospital location -->
@@ -139,18 +145,18 @@
             </sourceDesc>
         </fileDesc>
         <encodingDesc>
-             <p>Encoded following the latest EpiDoc guidelines</p>
-             <xi:include href="../alists/ISicily-taxonomies.xml">
-                 <xi:fallback>
-                     <p>Taxonomies for ISicily controlled values</p>
-                 </xi:fallback>
-             </xi:include>
-	  <xi:include href="../alists/charDecl.xml">
-	     <xi:fallback>
-	       <p>ISicily glyphs authority list</p>
-	     </xi:fallback>
-	   </xi:include>
-         </encodingDesc>
+            <p>Encoded following the latest EpiDoc guidelines</p>
+            <xi:include href="../alists/ISicily-taxonomies.xml">
+                <xi:fallback>
+                    <p>Taxonomies for ISicily controlled values</p>
+                </xi:fallback>
+            </xi:include>
+            <xi:include href="../alists/charDecl.xml">
+                <xi:fallback>
+                    <p>ISicily glyphs authority list</p>
+                </xi:fallback>
+            </xi:include>
+        </encodingDesc>
         <profileDesc>
             <calendarDesc>
                 <calendar xml:id="julian">
@@ -158,17 +164,17 @@
                 </calendar>
             </calendarDesc>
             <langUsage>
-                <language ident="en">English</language> 
-                <language ident="it">Italian</language> 
-                <language ident="grc">Ancient Greek</language> 
-                <language ident="la">Latin</language> 
-                <language ident="he">Hebrew</language> 
+                <language ident="en">English</language>
+                <language ident="it">Italian</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="la">Latin</language>
+                <language ident="he">Hebrew</language>
                 <language ident="phn">Phoenician</language>
                 <language ident="xpu">Punic</language>
-                <language ident="osc">Oscan</language> 
-                <language ident="xly">Elymian</language> 
-                <language ident="scx">Sikel</language>  
-                <language ident="sxc">Sikan</language>  
+                <language ident="osc">Oscan</language>
+                <language ident="xly">Elymian</language>
+                <language ident="scx">Sikel</language>
+                <language ident="sxc">Sikan</language>
             </langUsage>
             <textClass>
                 <keywords scheme="http://www.eagle-network.eu/voc/typeins.html">
@@ -180,15 +186,15 @@
             <listChange>
                 <change when="2016-12-03" who="#JCu">James Cummings autogenerated EpiDoc output from database</change>
                 <change when="2017-11-16" who="#JP">Jonathan Prag add bibl elements</change>
-            	   <change when="2020-10-05" who="#SS">Simona Stoyanova normalised Unicode</change>
-            	   <change when="2020-10-08" who="#SS">Simona Stoyanova updated list of languages</change>
-            	<change when="2020-11-20" who="#SS">Simona Stoyanova added EDCS numbers</change>
-		<change when="2020-11-26" who="#SS">Simona Stoyanova restructured bibliography</change>
-	    <change when="2020-12-22" who="#system">Updated Zenodo DOI</change>
-            	<change when="2021-01-19" who="#SS">renumbered files, uris and references</change>
+                <change when="2020-10-05" who="#SS">Simona Stoyanova normalised Unicode</change>
+                <change when="2020-10-08" who="#SS">Simona Stoyanova updated list of languages</change>
+                <change when="2020-11-20" who="#SS">Simona Stoyanova added EDCS numbers</change>
+                <change when="2020-11-26" who="#SS">Simona Stoyanova restructured bibliography</change>
+                <change when="2020-12-22" who="#system">Updated Zenodo DOI</change>
+                <change when="2021-01-19" who="#SS">renumbered files, uris and references</change>
                 <change when="2021-06-04" who="#TNS">Epidoc editing</change>
                 <change when="2025-01-23" who="#JP">Jonathan Prag revised from published edition and photograph</change>
-	</listChange>
+            </listChange>
         </revisionDesc>
     </teiHeader>
     <facsimile>
@@ -206,45 +212,84 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#TNS #JP">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name>Grattia</name> <g ref="#interpunct">·</g> <name><expan><abbr>C</abbr><ex>ai</ex></expan></name> <g ref="#interpunct">·</g> <expan><abbr>f</abbr><ex>ilia</ex></expan><g ref="#interpunct">·</g>
-                    <lb n="2"/><name>Paulla</name></persName>
-                    <lb n="3"/>uxor <g ref="#interpunct">·</g> <persName type="attested"><name><expan><abbr>C</abbr><ex>ai</ex></expan></name> <g ref="#interpunct">·</g> <name>Ofill<hi rend="apex">i</hi></name></persName> <g ref="#interpunct">·</g> ma<hi rend="tall">t</hi>er <g ref="#interpunct">·</g> <persName type="attested"><name><expan><abbr>C</abbr><ex>ai</ex></expan></name> <g ref="#interpunct">·</g> <name>Ofill<supplied reason="lost"><hi rend="apex">i</hi></supplied></name>
-                    <lb n="4"/><name>V<hi rend="apex">e</hi>ri</name></persName> <g ref="#interpunct">·</g> <roleName type="civic" subtype="duumvir">d<hi rend="apex">u</hi>mviralium</roleName>
-                    <lb n="5"/><hi rend="tall">f</hi>unere <g ref="#interpunct">·</g> publico <g ref="#interpunct">·</g> elata <g ref="#interpunct">·</g> e<hi rend="tall">t</hi> <g ref="#interpunct">·</g> l<unclear>o</unclear><supplied reason="lost">co</supplied>
-                    <lb n="6"/>publico <g ref="#interpunct">·</g> sepulta <g ref="#interpunct">·</g> e<hi rend="tall">t</hi> <g ref="#interpunct">·</g> st<unclear>a</unclear><supplied reason="lost">tua</supplied>
-                    <lb n="7"/>data <g ref="#interpunct">·</g> in <g ref="#interpunct">·</g> foro <space unit="character" quantity="2"/> <roleName type="civic" subtype="decurio"><expan><abbr>d</abbr><ex>ecurionum</ex></expan></roleName> <g ref="#interpunct">·</g> <expan><abbr><unclear>d</unclear></abbr><ex>ecreto</ex></expan>
+                    <lb n="1"/><persName type="attested"><name><w n="5">Grattia</w></name> <g ref="#interpunct" n="10">·</g> <name><w n="15"><expan><abbr>C</abbr><ex>ai</ex></expan></w></name> <g ref="#interpunct" n="20">·</g> <w n="25"><expan><abbr>f</abbr><ex>ilia</ex></expan></w> <g ref="#interpunct" n="30">·</g>
+                    <lb n="2"/><name><w n="35">Paulla</w></name></persName>
+                    <lb n="3"/><w n="40">uxor</w> <g ref="#interpunct" n="45">·</g> <persName type="attested"><name><w n="50"><expan><abbr>C</abbr><ex>ai</ex></expan></w></name> <g ref="#interpunct" n="55">·</g> <name><w n="60">Ofill<hi rend="apex">i</hi></w></name></persName> <g ref="#interpunct" n="65">·</g> <w n="70">ma<hi rend="tall">t</hi>er</w> <g ref="#interpunct" n="75">·</g> <persName type="attested"><name><w n="80"><expan><abbr>C</abbr><ex>ai</ex></expan></w></name> <g ref="#interpunct" n="85">·</g> <name><w n="90">Ofill<supplied reason="lost"><hi rend="apex">i</hi></supplied></w></name>
+                    <lb n="4"/><name><w n="95">V<hi rend="apex">e</hi>ri</w></name></persName> <g ref="#interpunct" n="100">·</g> <roleName type="civic" subtype="duumvir"><w n="105">d<hi rend="apex">u</hi>mviralium</w></roleName>
+                    <lb n="5"/><w n="110"><hi rend="tall">f</hi>unere</w> <g ref="#interpunct" n="115">·</g> <w n="120">publico</w> <g ref="#interpunct" n="125">·</g> <w n="130">elata</w> <g ref="#interpunct" n="135">·</g> <w n="140">e<hi rend="tall">t</hi></w> <g ref="#interpunct" n="145">·</g> <w n="150">l<unclear>o</unclear><supplied reason="lost">co</supplied></w>
+                    <lb n="6"/><w n="155">publico</w> <g ref="#interpunct" n="160">·</g> <w n="165">sepulta</w> <g ref="#interpunct" n="170">·</g> <w n="175">e<hi rend="tall">t</hi></w> <g ref="#interpunct" n="180">·</g> <w n="185">st<unclear>a</unclear><supplied reason="lost">tua</supplied></w>
+                    <lb n="7"/><w n="190">data</w> <g ref="#interpunct" n="195">·</g> <w n="200">in</w> <g ref="#interpunct" n="205">·</g> <w n="210">foro</w> <space unit="character" quantity="2"/><roleName type="civic" subtype="decurio"><w n="215"><expan><abbr>d</abbr><ex>ecurionum</ex></expan></w></roleName> <g ref="#interpunct" n="220">·</g> <w n="225"><expan><abbr><unclear>d</unclear></abbr><ex>ecreto</ex></expan></w>
+                </ab>
+            </div>
+            <div type="edition" subtype="simple-lemmatized">
+                <ab>
+                    <w n="5" lemma="Grattia">Grattia</w>
+                    <w n="15" lemma="Caius">Cai</w>
+                    <w n="25" lemma="filia">filia</w>
+                    <w n="35" lemma="Paulla">Paulla</w>
+                    <w n="40" lemma="uxor">uxor</w>
+                    <w n="50" lemma="Caius">Cai</w>
+                    <w n="60" lemma="Ofillus">Ofilli</w>
+                    <w n="70" lemma="mater">mater</w>
+                    <w n="80" lemma="Caius">Cai</w>
+                    <w n="90" lemma="Ofillus">Ofilli</w>
+                    <w n="95" lemma="verus">Veri</w>
+                    <w n="105" lemma="duumviralis">dumviralium</w>
+                    <w n="110" lemma="funus">funere</w>
+                    <w n="120" lemma="publicus">publico</w>
+                    <w n="130" lemma="fero">elata</w>
+                    <w n="140" lemma="et">et</w>
+                    <w n="150" lemma="locus">loco</w>
+                    <w n="155" lemma="publicus">publico</w>
+                    <w n="165" lemma="sepelio">sepulta</w>
+                    <w n="175" lemma="et">et</w>
+                    <w n="185" lemma="statua">statua</w>
+                    <w n="190" lemma="do">data</w>
+                    <w n="200" lemma="in">in</w>
+                    <w n="210" lemma="forum">foro</w>
+                    <w n="215" lemma="decurio">decurionum</w>
+                    <w n="225" lemma="decretum">decreto</w>
                 </ab>
             </div>
             <div type="apparatus">
-                <listApp><app><note>Text of Manganaro 1989 controlled against photograph</note></app></listApp>
+                <listApp>
+                    <app>
+                        <note>Text of Manganaro 1989 controlled against photograph</note>
+                    </app>
+                </listApp>
             </div>
             <div type="translation" xml:lang="en" resp="#JP">
                 <p>Grattia Paulla, daughter of Caius, wife of Caius Ofillius, mother of Caius Ofillius Verus, both holders of the duumvirate, laid out in a public funeral and buried in a public lot, and granted a statue in the forum - by decree of the decurions.</p>
             </div>
             <div type="commentary">
-                <p></p>
+                <p/>
             </div>
             <div type="bibliography">
                 <listBibl type="edition">
                     <bibl type="bulletin" n="AE">
                         <citedRange>1989.0341m</citedRange>
                         <ptr target="http://zotero.org/groups/382445/items/R46KDTZX"/>
-                    <ref target="https://biblio.inscriptiones.org/epig10001283">https://biblio.inscriptiones.org/epig10001283</ref></bibl>
+                        <ref target="https://biblio.inscriptiones.org/epig10001283">https://biblio.inscriptiones.org/epig10001283</ref>
+                    </bibl>
                     <bibl/>
                     <bibl>
                         <author>Manganaro</author>
                         <date>1988</date>
                         <citedRange>44</citedRange>
                         <ptr target="https://www.zotero.org/groups/382445/items/RZSFKACR"/>
-                    <ref target="https://biblio.inscriptiones.org/epig10001427">https://biblio.inscriptiones.org/epig10001427</ref></bibl>
+                        <ref target="https://biblio.inscriptiones.org/epig10001427">https://biblio.inscriptiones.org/epig10001427</ref>
+                    </bibl>
                     <bibl>
                         <author>Manganaro</author>
                         <date>1989</date>
                         <citedRange>172 no.43 fig.47</citedRange>
                         <ptr target="https://www.zotero.org/groups/382445/items/EZMBJ6GN"/>
-                    <ref target="https://biblio.inscriptiones.org/epig10001831">https://biblio.inscriptiones.org/epig10001831</ref></bibl>
+                        <ref target="https://biblio.inscriptiones.org/epig10001831">https://biblio.inscriptiones.org/epig10001831</ref>
+                    </bibl>
                 </listBibl>
-	   <listBibl type="discussion"><bibl/></listBibl>
+                <listBibl type="discussion">
+                    <bibl/>
+                </listBibl>
             </div>
         </body>
     </text>

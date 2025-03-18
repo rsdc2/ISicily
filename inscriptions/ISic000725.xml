@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -9,7 +9,9 @@
                 <editor ref="#JP">Jonathan Prag</editor>
                 <principal ref="#JP">Jonathan Prag</principal>
                 <funder>John Fell OUP Research Fund</funder>
-	   <funder><ref target="https://cordis.europa.eu/project/id/885040">ERC Advanced Grant no.885040</ref></funder>
+                <funder>
+                    <ref target="https://cordis.europa.eu/project/id/885040">ERC Advanced Grant no.885040</ref>
+                </funder>
                 <respStmt>
                     <name xml:id="JP" ref="http://orcid.org/0000-0003-3819-8537">Jonathan Prag</name>
                     <resp>original data collection and editing</resp>
@@ -34,11 +36,11 @@
                     <name xml:id="TA" ref="https://orcid.org/0000-0001-8417-7089">Tuuli Ahlholm</name>
                     <resp>EpiDoc editing</resp>
                 </respStmt>
-	    <respStmt>
-     	       <name xml:id="SS" ref="https://orcid.org/0000-0003-3914-9569">Simona Stoyanova</name>
-     	       <resp>standardisation of template and tidying up encoding</resp>
- 	   </respStmt>
-	    <respStmt>
+                <respStmt>
+                    <name xml:id="SS" ref="https://orcid.org/0000-0003-3914-9569">Simona Stoyanova</name>
+                    <resp>standardisation of template and tidying up encoding</resp>
+                </respStmt>
+                <respStmt>
                     <name xml:id="system">system</name>
                     <resp>automated or batch processes</resp>
                 </respStmt>
@@ -78,7 +80,8 @@
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
-                                <support><p>A large block of off-white marble. The top, bottom and left margins are preserved, with a moulding preserved across the top front. The lower part of the front face is only roughly finished (the vacat below the text is 11cm, with then a further c.15cm more roughly finished; the front face as a whole, within the moulding, is 43 cm high, and preserved to a maximum width of 47.5 cm). There are indications that a border or moulding along the left side of the front face has been chiselled off in the past. On the top, behind the moulding, a channel c.12 cm wide has been roughly cut down into the upper surface. Behind that what appears to be the original upper suface is preserved, but the rear part of the upper surface is lost. The left side of the block appears to be preserved, but roughly finished to a depth of c.10cm from the front, after which the stone projects roughly / irregularly. The base where preserved has a smooth finished border on the left, but is then slightly recessed and roughly chisel finished across the rest of the preserved part of the underside. The right side of the stone is completely lost. The rear where preserved (the rear upper left is lost) is finished straight. It is difficult to see on what grounds Gentili argued that the original block must have been c.70cm wide, as there is no obvious basis on which to judge how much is lost on the right.</p>
+                                <support>
+                                    <p>A large block of off-white marble. The top, bottom and left margins are preserved, with a moulding preserved across the top front. The lower part of the front face is only roughly finished (the vacat below the text is 11cm, with then a further c.15cm more roughly finished; the front face as a whole, within the moulding, is 43 cm high, and preserved to a maximum width of 47.5 cm). There are indications that a border or moulding along the left side of the front face has been chiselled off in the past. On the top, behind the moulding, a channel c.12 cm wide has been roughly cut down into the upper surface. Behind that what appears to be the original upper suface is preserved, but the rear part of the upper surface is lost. The left side of the block appears to be preserved, but roughly finished to a depth of c.10cm from the front, after which the stone projects roughly / irregularly. The base where preserved has a smooth finished border on the left, but is then slightly recessed and roughly chisel finished across the rest of the preserved part of the underside. The right side of the stone is completely lost. The rear where preserved (the rear upper left is lost) is finished straight. It is difficult to see on what grounds Gentili argued that the original block must have been c.70cm wide, as there is no obvious basis on which to judge how much is lost on the right.</p>
                                     <material ana="#material.stone.marble" ref="http://www.eagle-network.eu/voc/material/lod/48.html">marble</material>
                                     <objectType ana="#object.base" ref="http://www.eagle-network.eu/voc/objtyp/lod/57.html" cert="low">base</objectType>
                                     <dimensions>
@@ -88,16 +91,18 @@
                                     </dimensions>
                                 </support>
                                 <condition ana="#condition.damaged"/>
-		    </supportDesc>
+                            </supportDesc>
                             <layoutDesc>
-                                <layout><p>Four lines of Latin letters, steadily decreasing in height, with lines 1 and 3 set to the left margin, and lines 2 and 4 indented by one letter.</p>
+                                <layout>
+                                    <p>Four lines of Latin letters, steadily decreasing in height, with lines 1 and 3 set to the left margin, and lines 2 and 4 indented by one letter.</p>
                                     <rs ana="#execution.chiselled" ref="http://www.eagle-network.eu/voc/writing/lod/1">chiselled</rs>
-                                	<damage ana="#text_condition.incomplete"/>
-			</layout>
+                                    <damage ana="#text_condition.incomplete"/>
+                                </layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote><p>Elegantly carved letters in a fine v-cut, simple serifs, and a broad / square module (O, C, M all very wide), R with an elegant extended tail, P open, M with four full length strokes all off vertical.</p>
+                            <handNote>
+                                <p>Elegantly carved letters in a fine v-cut, simple serifs, and a broad / square module (O, C, M all very wide), R with an elegant extended tail, P open, M with four full length strokes all off vertical.</p>
                                 <locus from="line1" to="line1">Line 1</locus>
                                 <dimensions type="letterHeight">
                                     <height unit="mm">63-66</height>
@@ -132,32 +137,33 @@
                     <history>
                         <origin>
                             <origPlace>
-                                <placeName type="ancient" ref="http://pleiades.stoa.org/places/462503">Syracusae</placeName>		
+                                <placeName type="ancient" ref="http://pleiades.stoa.org/places/462503">Syracusae</placeName>
                                 <placeName type="modern" ref="http://sws.geonames.org/2523083">Siracusa</placeName>
-                            	<geo>37.08415, 15.27628</geo>
-		</origPlace>
+                                <geo>37.08415, 15.27628</geo>
+                            </origPlace>
                             <origDate datingMethod="#julian" notBefore-custom="0001" notAfter-custom="0050" evidence="lettering">First half of 1st century CE</origDate>
                         </origin>
-                        <provenance type="found" subtype="discovered" notAfter="1961">Found during excavations in the 1950s in the eastern part of the new school building erected in the block between via Eumelo, via Archia, and via Carabelli. Also found in the area (but no explicit association) were marble columns and capitals, and various remains of the Roman imperial period, including a refined nymphaeum ('un leggiadro nifneo quandrifoliato') in situ in a polygonal space, remains of a rich domus with mosaics of the C3 CE, and older cocciopesto pavements and walls.<geo>37.0712571,15.2840343</geo></provenance><!-- geo for the eastern part of the school on via Eumelo, adjoining Archia and Carabelli -->                        <provenance type="observed">basement corridor</provenance>
-                        <provenance type="observed" subtype="autopsied"  when="2018-03-15" resp="#JP">Prag, 2018-03-15, in the lower basement corridor of the Museum.</provenance>
+                        <provenance type="found" subtype="discovered" notAfter="1961">Found during excavations in the 1950s in the eastern part of the new school building erected in the block between via Eumelo, via Archia, and via Carabelli. Also found in the area (but no explicit association) were marble columns and capitals, and various remains of the Roman imperial period, including a refined nymphaeum ('un leggiadro nifneo quandrifoliato') in situ in a polygonal space, remains of a rich domus with mosaics of the C3 CE, and older cocciopesto pavements and walls.<geo>37.0712571,15.2840343</geo></provenance><!-- geo for the eastern part of the school on via Eumelo, adjoining Archia and Carabelli -->
+                        <provenance type="observed">basement corridor</provenance>
+                        <provenance type="observed" subtype="autopsied" when="2018-03-15" resp="#JP">Prag, 2018-03-15, in the lower basement corridor of the Museum.</provenance>
                         <acquisition/>
                     </history>
-                    </msDesc>
+                </msDesc>
             </sourceDesc>
         </fileDesc>
         <encodingDesc>
-             <p>Encoded following the latest EpiDoc guidelines</p>
-             <xi:include href="../alists/ISicily-taxonomies.xml">
-                 <xi:fallback>
-                     <p>Taxonomies for ISicily controlled values</p>
-                 </xi:fallback>
-             </xi:include>
-	  <xi:include href="../alists/charDecl.xml">
-	     <xi:fallback>
-	       <p>ISicily glyphs authority list</p>
-	     </xi:fallback>
-	   </xi:include>
-         </encodingDesc>
+            <p>Encoded following the latest EpiDoc guidelines</p>
+            <xi:include href="../alists/ISicily-taxonomies.xml">
+                <xi:fallback>
+                    <p>Taxonomies for ISicily controlled values</p>
+                </xi:fallback>
+            </xi:include>
+            <xi:include href="../alists/charDecl.xml">
+                <xi:fallback>
+                    <p>ISicily glyphs authority list</p>
+                </xi:fallback>
+            </xi:include>
+        </encodingDesc>
         <profileDesc>
             <calendarDesc>
                 <calendar xml:id="julian">
@@ -188,14 +194,14 @@
                 <change when="2016-12-03" who="#JCu">James Cummings autogenerated EpiDoc output from database </change>
                 <change when="2017-11-17" who="#JP">Jonathan Prag added a bibl element</change>
                 <change when="2018-02-23" who="#TA">Tuuli Ahlholm revised the Epidoc, encoded the text and added an apparatus</change>
-            	   <change when="2020-10-05" who="#SS">Simona Stoyanova normalised Unicode</change>
-            	   <change when="2020-10-08" who="#SS">Simona Stoyanova updated list of languages</change>
-            	<change when="2020-11-20" who="#SS">Simona Stoyanova added EDCS numbers</change>
-		<change when="2020-11-26" who="#SS">Simona Stoyanova restructured bibliography</change>
-	    <change when="2020-12-17" who="#system">Updated Zenodo DOI</change>
-            	<change when="2021-01-19" who="#SS">renumbered files, uris and references</change>
+                <change when="2020-10-05" who="#SS">Simona Stoyanova normalised Unicode</change>
+                <change when="2020-10-08" who="#SS">Simona Stoyanova updated list of languages</change>
+                <change when="2020-11-20" who="#SS">Simona Stoyanova added EDCS numbers</change>
+                <change when="2020-11-26" who="#SS">Simona Stoyanova restructured bibliography</change>
+                <change when="2020-12-17" who="#system">Updated Zenodo DOI</change>
+                <change when="2021-01-19" who="#SS">renumbered files, uris and references</change>
                 <change when="2024-06-29" who="#JP">Jonathan Prag revised from autopsy</change>
-	</listChange>
+            </listChange>
         </revisionDesc>
     </teiHeader>
     <facsimile>
@@ -218,7 +224,7 @@
             <graphic n="print" url="ISic000725_detail2.jpg" height="3680px" width="5520px">
                 <desc>I.Sicily with the permission of the Assessorato Regionale dei Beni Culturali e dell’Identità Siciliana - Dipartimento dei Beni Culturali e dell’Identità Siciliana; photo J. Prag 2018-03-15</desc>
             </graphic>
-         </surface>
+        </surface>
         <surface type="left">
             <graphic n="screen" url="ISic000725_left_tiled.tif" height="3680px" width="5520px">
                 <desc>I.Sicily with the permission of the Assessorato Regionale dei Beni Culturali e dell’Identità Siciliana - Dipartimento dei Beni Culturali e dell’Identità Siciliana; photo J. Prag 2018-03-15</desc>
@@ -254,18 +260,38 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name><expan><abbr>C</abbr><ex>aius</ex></expan></name> <g ref="#interpunct">·</g> <name>Roscius</name></persName> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="2"/><roleName type="supracivic" subtype="proconsul"><w><expan><abbr>proco</abbr><ex>n</ex><abbr><unclear>s</unclear></abbr><ex>ul</ex></expan></w></roleName> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="3"/><persName type="attested"><name>Sextia</name> <g ref="#interpunct">·</g> <name><w part="I">M</w></name></persName><gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="4"/><w>fecerun<supplied reason="lost">t</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><persName type="attested"><name><w n="5"><expan><abbr>C</abbr><ex>aius</ex></expan></w></name> <g ref="#interpunct" n="10">·</g> <name><w n="15">Roscius</w></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><roleName type="supracivic" subtype="proconsul"><w n="20"><expan><abbr>proco</abbr><ex>n</ex><abbr><unclear>s</unclear></abbr><ex>ul</ex></expan></w></roleName> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="3"/><persName type="attested"><name><w n="25">Sextia</w></name> <g ref="#interpunct" n="30">·</g> <name><w part="I" n="35">M</w></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="4"/><w n="40">fecerun<supplied reason="lost">t</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
+                </ab>
+            </div>
+            <div type="edition" subtype="simple-lemmatized">
+                <ab>
+                    <w n="5" lemma="Caius">Caius</w>
+                    <w n="15" lemma="Roscius">Roscius</w>
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    <w n="20" lemma="proconsul">proconsul</w>
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    <w n="25" lemma="Sextius">Sextia</w>
+                    <w part="I" n="35" lemma="NOLEMMA">M</w>
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    <w n="40" lemma="facio">fecerunt</w>
+                    <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>
             <div type="apparatus" resp="#JP">
-           <listApp>
-               <app><note>Text from autopsy</note></app>
-               <app loc="3"><note>Gentili, Manganaro: Mu[cia]; Mayer: Mâ[gia] (i.e. MA in ligature); Eck: M.f.[---] (per errorem?)</note></app>
-               <app loc="4"><note>Manganaro: fecer[unt] (per errorem?)</note></app>
-               </listApp>
+                <listApp>
+                    <app>
+                        <note>Text from autopsy</note>
+                    </app>
+                    <app loc="3">
+                        <note>Gentili, Manganaro: Mu[cia]; Mayer: Mâ[gia] (i.e. MA in ligature); Eck: M.f.[---] (per errorem?)</note>
+                    </app>
+                    <app loc="4">
+                        <note>Manganaro: fecer[unt] (per errorem?)</note>
+                    </app>
+                </listApp>
             </div>
             <div type="translation">
                 <p>Caius Roscius, proconsul [---], Sextia M[---], made [...]</p>
@@ -280,33 +306,39 @@
                     <bibl type="bulletin" n="AE">
                         <citedRange>2014.0532</citedRange>
                         <ptr target="http://zotero.org/groups/382445/items/R46KDTZX"/>
-                        <ref target="https://biblio.inscriptiones.org/epig10001283">https://biblio.inscriptiones.org/epig10001283</ref></bibl>
+                        <ref target="https://biblio.inscriptiones.org/epig10001283">https://biblio.inscriptiones.org/epig10001283</ref>
+                    </bibl>
                     <bibl type="bulletin" n="AE">
                         <citedRange>1996.0797</citedRange>
                         <ptr target="http://zotero.org/groups/382445/items/R46KDTZX"/>
-                    <ref target="https://biblio.inscriptiones.org/epig10001283">https://biblio.inscriptiones.org/epig10001283</ref></bibl>
+                        <ref target="https://biblio.inscriptiones.org/epig10001283">https://biblio.inscriptiones.org/epig10001283</ref>
+                    </bibl>
                     <bibl type="bulletin" n="AE">
                         <citedRange>1989.0342c</citedRange>
                         <ptr target="http://zotero.org/groups/382445/items/R46KDTZX"/>
-                    <ref target="https://biblio.inscriptiones.org/epig10001283">https://biblio.inscriptiones.org/epig10001283</ref></bibl>
+                        <ref target="https://biblio.inscriptiones.org/epig10001283">https://biblio.inscriptiones.org/epig10001283</ref>
+                    </bibl>
                     <bibl>
                         <author>Gentili</author>
                         <date>1961</date>
                         <citedRange>22-23 no.1 dr</citedRange>
                         <ptr target="https://www.zotero.org/groups/382445/items/CBDGFVEG"/>
-                    <ref target="https://biblio.inscriptiones.org/epig10001955">https://biblio.inscriptiones.org/epig10001955</ref></bibl>
+                        <ref target="https://biblio.inscriptiones.org/epig10001955">https://biblio.inscriptiones.org/epig10001955</ref>
+                    </bibl>
                     <bibl>
                         <author>Manganaro</author>
                         <date>1988</date>
                         <citedRange>51 n.256 and fig.30; 86 n.485</citedRange>
                         <ptr target="https://www.zotero.org/groups/382445/items/RZSFKACR"/>
-                    <ref target="https://biblio.inscriptiones.org/epig10001427">https://biblio.inscriptiones.org/epig10001427</ref></bibl>
+                        <ref target="https://biblio.inscriptiones.org/epig10001427">https://biblio.inscriptiones.org/epig10001427</ref>
+                    </bibl>
                     <bibl>
                         <author>Manganaro</author>
                         <date>1989</date>
                         <citedRange>181 no.58 fig.62</citedRange>
                         <ptr target="https://www.zotero.org/groups/382445/items/EZMBJ6GN"/>
-                    <ref target="https://biblio.inscriptiones.org/epig10001831">https://biblio.inscriptiones.org/epig10001831</ref></bibl>
+                        <ref target="https://biblio.inscriptiones.org/epig10001831">https://biblio.inscriptiones.org/epig10001831</ref>
+                    </bibl>
                     <bibl>
                         <author>Wilson</author>
                         <date>1990</date>
@@ -319,15 +351,19 @@
                         <date>1996</date>
                         <citedRange>252</citedRange>
                         <ptr target="https://www.zotero.org/groups/382445/items/7T8K8ATA"/>
-                    <ref target="https://biblio.inscriptiones.org/epig10002014">https://biblio.inscriptiones.org/epig10002014</ref></bibl>
+                        <ref target="https://biblio.inscriptiones.org/epig10002014">https://biblio.inscriptiones.org/epig10002014</ref>
+                    </bibl>
                     <bibl>
                         <author>Eck</author>
                         <date>1996</date>
                         <citedRange>123-125</citedRange>
                         <ptr target="https://www.zotero.org/groups/382445/items/4HE5CIGJ"/>
-                    <ref target="https://biblio.inscriptiones.org/epig10001475">https://biblio.inscriptiones.org/epig10001475</ref></bibl>
+                        <ref target="https://biblio.inscriptiones.org/epig10001475">https://biblio.inscriptiones.org/epig10001475</ref>
+                    </bibl>
                 </listBibl>
-	   <listBibl type="discussion"><bibl/></listBibl>
+                <listBibl type="discussion">
+                    <bibl/>
+                </listBibl>
             </div>
         </body>
     </text>

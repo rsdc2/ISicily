@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -9,7 +9,9 @@
                 <editor ref="#JP">Jonathan Prag</editor>
                 <principal ref="#JP">Jonathan Prag</principal>
                 <funder>John Fell OUP Research Fund</funder>
-	   <funder><ref target="https://cordis.europa.eu/project/id/885040">ERC Advanced Grant no.885040</ref></funder>
+                <funder>
+                    <ref target="https://cordis.europa.eu/project/id/885040">ERC Advanced Grant no.885040</ref>
+                </funder>
                 <respStmt>
                     <name xml:id="JP" ref="http://orcid.org/0000-0003-3819-8537">Jonathan Prag</name>
                     <resp>original data collection and editing</resp>
@@ -30,15 +32,15 @@
                     <name xml:id="MM">Michael Metcalfe</name>
                     <resp>museum data collection</resp>
                 </respStmt>
-	    <respStmt>
-     	       <name xml:id="SS" ref="https://orcid.org/0000-0003-3914-9569">Simona Stoyanova</name>
-     	       <resp>standardisation of template and tidying up encoding</resp>
- 	   </respStmt>
+                <respStmt>
+                    <name xml:id="SS" ref="https://orcid.org/0000-0003-3914-9569">Simona Stoyanova</name>
+                    <resp>standardisation of template and tidying up encoding</resp>
+                </respStmt>
                 <respStmt>
                     <name xml:id="AL" ref="https://orcid.org/0000-0002-0000-7611">Andoni Llamazares</name>
                     <resp>text edition</resp>
                 </respStmt>
-	    <respStmt>
+                <respStmt>
                     <name xml:id="system">system</name>
                     <resp>automated or batch processes</resp>
                 </respStmt>
@@ -78,7 +80,8 @@
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
-                                <support><p>A large, thick plaque of fine white crystalline marble. Broken into 14 pieces, which can be joined together, leaving lacunae int he upper right corner and at two points in the interior, upper and lower left. The stone appears to re-use an earlier monument, from the traces of large Hellenistic Greek letters visible along the face of the lower edge, and due to the fact that each edge is differently finished reflecting a mixture of earlier surfaces and subsequent cutting down for the Latin inscription. The Greek letters are very slightly truncated along the lower edge. The top edge is roughly finished and cut back behind; the right edge has a smooth finish to half its depth and then becomes rough; the lower edge is finished, but with a distinct patina from the other finished faces, and the left edge has the same finish, albeit with what appear to be deliberate cut-aways from the surface. The face is square and finished smooth, bordered by a double moulding. The rear is cut straight and finished smooth.</p>
+                                <support>
+                                    <p>A large, thick plaque of fine white crystalline marble. Broken into 14 pieces, which can be joined together, leaving lacunae int he upper right corner and at two points in the interior, upper and lower left. The stone appears to re-use an earlier monument, from the traces of large Hellenistic Greek letters visible along the face of the lower edge, and due to the fact that each edge is differently finished reflecting a mixture of earlier surfaces and subsequent cutting down for the Latin inscription. The Greek letters are very slightly truncated along the lower edge. The top edge is roughly finished and cut back behind; the right edge has a smooth finish to half its depth and then becomes rough; the lower edge is finished, but with a distinct patina from the other finished faces, and the left edge has the same finish, albeit with what appear to be deliberate cut-aways from the surface. The face is square and finished smooth, bordered by a double moulding. The rear is cut straight and finished smooth.</p>
                                     <material ana="#material.stone.marble" ref="http://www.eagle-network.eu/voc/material/lod/48.html">marble</material>
                                     <objectType ana="#object.plaque" ref="http://www.eagle-network.eu/voc/objtyp/lod/259">plaque</objectType>
                                     <dimensions>
@@ -88,16 +91,18 @@
                                     </dimensions>
                                 </support>
                                 <condition ana="#condition.fragments.contiguous"/>
-		    </supportDesc>
+                            </supportDesc>
                             <layoutDesc>
-                                <layout><p>Multiple sets of guidelines are visible on the upper 2/3 of the face, which do not obviously correlate wiht the inscription, and which include a trace at the start of line 2 which belongs either to a false start or possibly an earlier text.</p>
+                                <layout>
+                                    <p>Multiple sets of guidelines are visible on the upper 2/3 of the face, which do not obviously correlate wiht the inscription, and which include a trace at the start of line 2 which belongs either to a false start or possibly an earlier text.</p>
                                     <rs ana="#execution.chiselled" ref="http://www.eagle-network.eu/voc/writing/lod/1">chiselled</rs>
-                                	<damage ana="#text_condition.deteriorated"/>
-			</layout>
+                                    <damage ana="#text_condition.deteriorated"/>
+                                </layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote><p>Fine v-cut monumental letters, with a medium width module, tending to curved and narrow. Pronounced serifs. Triangular interpunct end of line 3 after the name, but plain interpuncts in line 4.</p>
+                            <handNote>
+                                <p>Fine v-cut monumental letters, with a medium width module, tending to curved and narrow. Pronounced serifs. Triangular interpunct end of line 3 after the name, but plain interpuncts in line 4.</p>
                                 <locus from="line1" to="line1">Line 1</locus>
                                 <dimensions type="letterHeight">
                                     <height unit="mm">80</height>
@@ -132,10 +137,10 @@
                     <history>
                         <origin>
                             <origPlace>
-                                <placeName type="ancient" ref="http://pleiades.stoa.org/places/462270">Catina</placeName>		
+                                <placeName type="ancient" ref="http://pleiades.stoa.org/places/462270">Catina</placeName>
                                 <placeName type="modern" ref="http://sws.geonames.org/2525068">Catania</placeName>
-                            	<geo>37.49223, 15.07041</geo>
-		</origPlace>
+                                <geo>37.49223, 15.07041</geo>
+                            </origPlace>
                             <origDate datingMethod="#julian" notBefore-custom="0001" notAfter-custom="0099" evidence="lettering">1st century CE</origDate>
                         </origin>
                         <provenance type="found" subtype="discovered" when="1957">Recovered from the foundations of the palazzo Rinascente during construction, 1957-1959, on the site of the Palazzo Spitaleri (so Manganaro, reporting one sig. Noe <geo>37.5087111,15.0856723</geo></provenance><!--location of palazzo-->
@@ -146,18 +151,18 @@
             </sourceDesc>
         </fileDesc>
         <encodingDesc>
-             <p>Encoded following the latest EpiDoc guidelines</p>
-             <xi:include href="../alists/ISicily-taxonomies.xml">
-                 <xi:fallback>
-                     <p>Taxonomies for ISicily controlled values</p>
-                 </xi:fallback>
-             </xi:include>
-	  <xi:include href="../alists/charDecl.xml">
-	     <xi:fallback>
-	       <p>ISicily glyphs authority list</p>
-	     </xi:fallback>
-	   </xi:include>
-         </encodingDesc>
+            <p>Encoded following the latest EpiDoc guidelines</p>
+            <xi:include href="../alists/ISicily-taxonomies.xml">
+                <xi:fallback>
+                    <p>Taxonomies for ISicily controlled values</p>
+                </xi:fallback>
+            </xi:include>
+            <xi:include href="../alists/charDecl.xml">
+                <xi:fallback>
+                    <p>ISicily glyphs authority list</p>
+                </xi:fallback>
+            </xi:include>
+        </encodingDesc>
         <profileDesc>
             <calendarDesc>
                 <calendar xml:id="julian">
@@ -186,15 +191,15 @@
         <revisionDesc status="draft">
             <listChange>
                 <change when="2016-12-03" who="#JCu">James Cummings autogenerated EpiDoc output from database</change>
-            	   <change when="2020-10-05" who="#SS">Simona Stoyanova normalised Unicode</change>
-            	   <change when="2020-10-08" who="#SS">Simona Stoyanova updated list of languages</change>
-            	<change when="2020-11-20" who="#SS">Simona Stoyanova added EDCS numbers</change>
-	<change when="2020-11-26" who="#SS">Simona Stoyanova restructured bibliography</change>
-	    <change when="2020-12-22" who="#system">Updated Zenodo DOI</change>
-            	<change when="2021-01-19" who="#SS">renumbered files, uris and references</change>
+                <change when="2020-10-05" who="#SS">Simona Stoyanova normalised Unicode</change>
+                <change when="2020-10-08" who="#SS">Simona Stoyanova updated list of languages</change>
+                <change when="2020-11-20" who="#SS">Simona Stoyanova added EDCS numbers</change>
+                <change when="2020-11-26" who="#SS">Simona Stoyanova restructured bibliography</change>
+                <change when="2020-12-22" who="#system">Updated Zenodo DOI</change>
+                <change when="2021-01-19" who="#SS">renumbered files, uris and references</change>
                 <change when="2021-06-08" who="#AL">Andoni Llamazares encoded the text edition</change>
                 <change when="2025-01-23" who="#JP">Jonathan Prag revised text and metadata from autopsy</change>
-	</listChange>
+            </listChange>
         </revisionDesc>
     </teiHeader>
     <facsimile>
@@ -205,36 +210,53 @@
             <graphic n="print" url="ISic000709.jpg" height="3680px" width="5520px">
                 <desc>I.Sicily with the permission of the Assessorato Regionale dei Beni Culturali e dell’Identità Siciliana - Dipartimento dei Beni Culturali e dell’Identità Siciliana; photo J. Prag 2015-10-20</desc>
             </graphic>
-         </surface>
+        </surface>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AL #JP">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name type="praenomen"><expan><abbr>P</abbr><ex>ublius</ex></expan></name> <g ref="#interpunct">·</g> <name type="nomen">Scri<unclear>b</unclear><unclear>o</unclear>
-                    <lb n="2" break="no"/><space unit="character" quantity="2"/>nius</name> <space unit="character" quantity="3"/>
-                    <lb n="3"/><name type="cognomen">So<unclear>lle</unclear>mnis</name></persName> <g ref="#interpunct">·</g>
-                    <lb n="4"/>sib<unclear>i</unclear> <supplied reason="lost">e</supplied><unclear>t</unclear> <g ref="#interpunct">·</g> suis <g ref="#interpunct">·</g> <expan><abbr>v</abbr><ex>ivus</ex></expan> <g ref="#interpunct">·</g> <expan><abbr>f</abbr><ex>ecit</ex></expan> <g ref="#interpunct">·</g>
+                    <lb n="1"/><persName type="attested"><name type="praenomen"><w n="5"><expan><abbr>P</abbr><ex>ublius</ex></expan></w></name> <g ref="#interpunct" n="10">·</g> <name type="nomen"><w n="15">Scri<unclear>b</unclear><unclear>o</unclear>
+                    <lb n="2" break="no"/><space unit="character" quantity="2"/>nius</w></name> <space unit="character" quantity="3"/>
+                    <lb n="3"/><name type="cognomen"><w n="20">So<unclear>lle</unclear>mnis</w></name></persName> <g ref="#interpunct" n="25">·</g>
+                    <lb n="4"/><w n="30">sib<unclear>i</unclear></w> <w n="35"><supplied reason="lost">e</supplied><unclear>t</unclear></w> <g ref="#interpunct" n="40">·</g> <w n="45">suis</w> <g ref="#interpunct" n="50">·</g> <w n="55"><expan><abbr>v</abbr><ex>ivus</ex></expan></w> <g ref="#interpunct" n="60">·</g> <w n="65"><expan><abbr>f</abbr><ex>ecit</ex></expan></w> <g ref="#interpunct" n="70">·</g>
+                </ab>
+            </div>
+            <div type="edition" subtype="simple-lemmatized">
+                <ab>
+                    <w n="5" lemma="Publius">Publius</w>
+                    <w n="15" lemma="Scribonius">Scribonius</w>
+                    <w n="20" lemma="Sollemnis">Sollemnis</w>
+                    <w n="30" lemma="se">sibi</w>
+                    <w n="35" lemma="et">et</w>
+                    <w n="45" lemma="suus">suis</w>
+                    <w n="55" lemma="vivus">vivus</w>
+                    <w n="65" lemma="facio">fecit</w>
                 </ab>
             </div>
             <div type="apparatus" resp="#JP">
                 <listApp>
-                    <app><note>text from autopsy (Prag)</note></app>
-                    <app loc="4"><note>Manganaro: sib[i e]t</note></app>
+                    <app>
+                        <note>text from autopsy (Prag)</note>
+                    </app>
+                    <app loc="4">
+                        <note>Manganaro: sib[i e]t</note>
+                    </app>
                 </listApp>
             </div>
             <div type="translation" xml:lang="en" resp="#JP">
                 <p>Publius Scribonius Sollemnis made this while alive for himself and his family</p>
             </div>
             <div type="commentary">
-                <p></p>
+                <p/>
             </div>
             <div type="bibliography">
                 <listBibl type="edition">
                     <bibl type="bulletin" n="AE">
                         <citedRange>1989.0341l</citedRange>
                         <ptr target="http://zotero.org/groups/382445/items/R46KDTZX"/>
-                    <ref target="https://biblio.inscriptiones.org/epig10001283">https://biblio.inscriptiones.org/epig10001283</ref></bibl>
+                        <ref target="https://biblio.inscriptiones.org/epig10001283">https://biblio.inscriptiones.org/epig10001283</ref>
+                    </bibl>
                     <bibl/>
                     <bibl>
                         <author>Manganaro</author>
@@ -244,7 +266,9 @@
                         <ref target="https://biblio.inscriptiones.org/epig10001831">https://biblio.inscriptiones.org/epig10001831</ref>
                     </bibl>
                 </listBibl>
-	   <listBibl type="discussion"><bibl/></listBibl>
+                <listBibl type="discussion">
+                    <bibl/>
+                </listBibl>
             </div>
         </body>
     </text>

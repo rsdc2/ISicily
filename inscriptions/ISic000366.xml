@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -9,7 +9,9 @@
                 <editor ref="#JP">Jonathan Prag</editor>
                 <principal ref="#JP">Jonathan Prag</principal>
                 <funder>John Fell OUP Research Fund</funder>
-	   <funder><ref target="https://cordis.europa.eu/project/id/885040">ERC Advanced Grant no.885040</ref></funder>
+                <funder>
+                    <ref target="https://cordis.europa.eu/project/id/885040">ERC Advanced Grant no.885040</ref>
+                </funder>
                 <respStmt>
                     <name xml:id="JP" ref="http://orcid.org/0000-0003-3819-8537">Jonathan Prag</name>
                     <resp>original data collection and editing</resp>
@@ -34,11 +36,11 @@
                     <name xml:id="AA" ref="http://orcid.org/0000-0001-7077-0703">Alex Antoniou</name>
                     <resp>EpiDoc editing</resp>
                 </respStmt>
-	    <respStmt>
-     	       <name xml:id="SS" ref="https://orcid.org/0000-0003-3914-9569">Simona Stoyanova</name>
-     	       <resp>standardisation of template and tidying up encoding</resp>
- 	   </respStmt>
-	    <respStmt>
+                <respStmt>
+                    <name xml:id="SS" ref="https://orcid.org/0000-0003-3914-9569">Simona Stoyanova</name>
+                    <resp>standardisation of template and tidying up encoding</resp>
+                </respStmt>
+                <respStmt>
                     <name xml:id="system">system</name>
                     <resp>automated or batch processes</resp>
                 </respStmt>
@@ -78,7 +80,8 @@
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
-                                <support><p>Two non-joining fragments of a marble plaque. Fragment (a) from the left half of the plaque is intact along the upper edge, but broken on the other three sides (H 11cm, W 11cm, D 2.3cm); fragment (b) preserves the right half of the plaque, intact top, right and below, but broken on the left side (H 14cm, W 22cm, D 2.3cm). A simple relief moulding is preserved across the top of the plaque. The rear of the plaque is rough and uneven. Fragment (b) has been heavily repainted with a brown paint. The surface of fragment (a) is less well preserved, but the letters retain traces of a bright red paint.</p>
+                                <support>
+                                    <p>Two non-joining fragments of a marble plaque. Fragment (a) from the left half of the plaque is intact along the upper edge, but broken on the other three sides (H 11cm, W 11cm, D 2.3cm); fragment (b) preserves the right half of the plaque, intact top, right and below, but broken on the left side (H 14cm, W 22cm, D 2.3cm). A simple relief moulding is preserved across the top of the plaque. The rear of the plaque is rough and uneven. Fragment (b) has been heavily repainted with a brown paint. The surface of fragment (a) is less well preserved, but the letters retain traces of a bright red paint.</p>
                                     <material ana="#material.stone.marble" ref="http://www.eagle-network.eu/voc/material/lod/48.html">marble</material>
                                     <objectType ana="#object.plaque" ref="http://www.eagle-network.eu/voc/objtyp/lod/259">plaque</objectType>
                                     <dimensions><!--IMusCatania-->
@@ -88,16 +91,18 @@
                                     </dimensions>
                                 </support>
                                 <condition/>
-		    </supportDesc>
+                            </supportDesc>
                             <layoutDesc>
-                                <layout><p>Three lines of Latin letters, decreasing in height, and seemingly centred on the plaque.</p>
+                                <layout>
+                                    <p>Three lines of Latin letters, decreasing in height, and seemingly centred on the plaque.</p>
                                     <rs ana="#execution.chiselled" ref="http://www.eagle-network.eu/voc/writing/lod/1">chiselled</rs>
-                                	<damage/>
-			</layout>
+                                    <damage/>
+                                </layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote><p>Broad, square letter modules, in a wide V-cut with basic serifs, and triangular interpuncts.</p>
+                            <handNote>
+                                <p>Broad, square letter modules, in a wide V-cut with basic serifs, and triangular interpuncts.</p>
                                 <locus from="line1" to="line1">Line 1</locus>
                                 <dimensions type="letterHeight">
                                     <height unit="mm">18-29</height>
@@ -112,10 +117,10 @@
                     <history>
                         <origin>
                             <origPlace>
-                                <placeName type="ancient" ref="http://pleiades.stoa.org/places/462270">Catina</placeName>		
+                                <placeName type="ancient" ref="http://pleiades.stoa.org/places/462270">Catina</placeName>
                                 <placeName type="modern" ref="http://sws.geonames.org/2525068">Catania</placeName>
-                            	<geo>37.49223, 15.07041</geo>
-		</origPlace>
+                                <geo>37.49223, 15.07041</geo>
+                            </origPlace>
                             <origDate datingMethod="#julian" notBefore-custom="0001" notAfter-custom="0100" precision="low" evidence="lettering textual-context">1st century CE (Korhonen, by lettering and (lack of) formula)</origDate>
                         </origin>
                         <provenance type="found" subtype="discovered">Found in the property of Vincenzo Paterno, relative of the Prince of Biscari, from where it entered his collection, prior to 1740.</provenance>
@@ -127,18 +132,18 @@
             </sourceDesc>
         </fileDesc>
         <encodingDesc>
-             <p>Encoded following the latest EpiDoc guidelines</p>
-             <xi:include href="../alists/ISicily-taxonomies.xml">
-                 <xi:fallback>
-                     <p>Taxonomies for ISicily controlled values</p>
-                 </xi:fallback>
-             </xi:include>
-	  <xi:include href="../alists/charDecl.xml">
-	     <xi:fallback>
-	       <p>ISicily glyphs authority list</p>
-	     </xi:fallback>
-	   </xi:include>
-         </encodingDesc>
+            <p>Encoded following the latest EpiDoc guidelines</p>
+            <xi:include href="../alists/ISicily-taxonomies.xml">
+                <xi:fallback>
+                    <p>Taxonomies for ISicily controlled values</p>
+                </xi:fallback>
+            </xi:include>
+            <xi:include href="../alists/charDecl.xml">
+                <xi:fallback>
+                    <p>ISicily glyphs authority list</p>
+                </xi:fallback>
+            </xi:include>
+        </encodingDesc>
         <profileDesc>
             <calendarDesc>
                 <calendar xml:id="julian">
@@ -168,14 +173,14 @@
             <listChange>
                 <change when="2016-12-03" who="#JCu">James Cummings autogenerated EpiDoc output from database</change>
                 <change when="2019-05-17" who="#AA">Alex Antoniou Epidoc editing</change>
-            	   <change when="2020-10-05" who="#SS">Simona Stoyanova normalised Unicode</change>
-            	   <change when="2020-10-08" who="#SS">Simona Stoyanova updated list of languages</change>
-            	<change when="2020-11-20" who="#SS">Simona Stoyanova added EDCS numbers</change>
-		<change when="2020-11-26" who="#SS">Simona Stoyanova restructured bibliography</change>
-	    <change when="2020-12-17" who="#system">Updated Zenodo DOI</change>
-            	<change when="2021-01-19" who="#SS">renumbered files, uris and references</change>
+                <change when="2020-10-05" who="#SS">Simona Stoyanova normalised Unicode</change>
+                <change when="2020-10-08" who="#SS">Simona Stoyanova updated list of languages</change>
+                <change when="2020-11-20" who="#SS">Simona Stoyanova added EDCS numbers</change>
+                <change when="2020-11-26" who="#SS">Simona Stoyanova restructured bibliography</change>
+                <change when="2020-12-17" who="#system">Updated Zenodo DOI</change>
+                <change when="2021-01-19" who="#SS">renumbered files, uris and references</change>
                 <change when="2024-01-17" who="#JP">Jonathan Prag edited file and added images</change>
-	</listChange>
+            </listChange>
         </revisionDesc>
     </teiHeader>
     <facsimile>
@@ -192,7 +197,7 @@
             <graphic n="print" url="ISic000366_fr2.jpg" height="3680px" width="5520px">
                 <desc>I.Sicily with the permission of the Assessorato Regionale dei Beni Culturali e dell’Identità Siciliana - Dipartimento dei Beni Culturali e dell’Identità Siciliana; photo J. Prag 14.10.2016</desc>
             </graphic>
-         </surface>
+        </surface>
         <surface type="rear">
             <graphic n="screen" url="ISic000366_fr1_rear_tiled.tif" height="3680px" width="5520px">
                 <desc>I.Sicily with the permission of the Assessorato Regionale dei Beni Culturali e dell’Identità Siciliana - Dipartimento dei Beni Culturali e dell’Identità Siciliana; photo J. Prag 13.05.2016</desc>
@@ -212,13 +217,27 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
-                    <lb n="1"/><expan><abbr>C</abbr><ex>ai</ex></expan> <g ref="#interpunct">·</g> Po<unclear>m</unclear>pei Felic<hi rend="small">i</hi>s
-                    <lb n="2"/>et Sc<unclear>r</unclear><supplied reason="lost">ib</supplied>oniae <g ref="#interpunct">·</g> Resti
-                    <lb n="3" break="no"/><unclear>t</unclear>utae <g ref="#interpunct">·</g>
+                    <lb n="1"/><w n="5"><expan><abbr>C</abbr><ex>ai</ex></expan></w> <g ref="#interpunct" n="10">·</g> <name><w n="15">Po<unclear>m</unclear>pei</w></name> <name><w n="20">Felic<hi rend="small">i</hi>s</w></name>
+                    <lb n="2"/><w n="25">et</w> <name><w n="30">Sc<unclear>r</unclear><supplied reason="lost">ib</supplied>oniae</w></name> <g ref="#interpunct" n="35">·</g> <name><w n="40">Resti
+                    <lb n="3" break="no"/><unclear>t</unclear>utae</w></name> <g ref="#interpunct" n="45">·</g>
+                </ab>
+            </div>
+            <div type="edition" subtype="simple-lemmatized">
+                <ab>
+                    <w n="5" lemma="Caius">Cai</w>
+                    <w n="15" lemma="Pompeius">Pompei</w>
+                    <w n="20" lemma="Felix">Felicis</w>
+                    <w n="25" lemma="et">et</w>
+                    <w n="30" lemma="Scribonia">Scriboniae</w>
+                    <w n="40" lemma="Restituta">Restitutae</w>
                 </ab>
             </div>
             <div type="apparatus">
-                <listApp><app><note>Text based upon photograph, after Korhonen</note></app></listApp>
+                <listApp>
+                    <app>
+                        <note>Text based upon photograph, after Korhonen</note>
+                    </app>
+                </listApp>
             </div>
             <div type="translation" xml:lang="en" resp="#JP">
                 <p>(tomb) of Gaius Pompeius Felix and Scribonia Restituta</p>
@@ -233,7 +252,7 @@
                             <ref target="http://arachne.uni-koeln.de/books/CILv10pII1883">10.7084</ref>
                         </citedRange>
                         <ptr target="https://www.zotero.org/groups/382445/items/GQN8UZSI"/>
-                    <ref target="https://biblio.inscriptiones.org/epig10000589">https://biblio.inscriptiones.org/epig10000589</ref>
+                        <ref target="https://biblio.inscriptiones.org/epig10000589">https://biblio.inscriptiones.org/epig10000589</ref>
                     </bibl>
                     <bibl>
                         <author>Amico</author>
@@ -258,18 +277,21 @@
                     </bibl>
                     <bibl>
                         <author>Ferrara</author>
-                        <date>1829</date> 
+                        <date>1829</date>
                         <citedRange>358 no. 4 (380 no.3)</citedRange>
                         <ptr target="http://zotero.org/groups/382445/items/82T4IWDN"/>
                         <ref target="https://biblio.inscriptiones.org/epig10002005">https://biblio.inscriptiones.org/epig10002005</ref>
                     </bibl>
-                   <bibl type="corpus" n="IMusCatania">
+                    <bibl type="corpus" n="IMusCatania">
                         <citedRange>119</citedRange>
                         <ptr target="https://www.zotero.org/groups/382445/items/2EUC82DH"/>
-                    <ref target="https://biblio.inscriptiones.org/epig10000028">https://biblio.inscriptiones.org/epig10000028</ref></bibl>
+                        <ref target="https://biblio.inscriptiones.org/epig10000028">https://biblio.inscriptiones.org/epig10000028</ref>
+                    </bibl>
                     <bibl/>
                 </listBibl>
-	   <listBibl type="discussion"><bibl/></listBibl>
+                <listBibl type="discussion">
+                    <bibl/>
+                </listBibl>
             </div>
         </body>
     </text>

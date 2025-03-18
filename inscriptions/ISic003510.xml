@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -9,7 +9,9 @@
                 <editor ref="#JP">Jonathan Prag</editor>
                 <principal ref="#JP">Jonathan Prag</principal>
                 <funder>John Fell OUP Research Fund</funder>
-	   <funder><ref target="https://cordis.europa.eu/project/id/885040">ERC Advanced Grant no.885040</ref></funder>
+                <funder>
+                    <ref target="https://cordis.europa.eu/project/id/885040">ERC Advanced Grant no.885040</ref>
+                </funder>
                 <respStmt>
                     <name xml:id="JP" ref="http://orcid.org/0000-0003-3819-8537">Jonathan Prag</name>
                     <resp>original data collection and editing</resp>
@@ -34,11 +36,11 @@
                     <name xml:id="AA" ref="http://orcid.org/0000-0001-7077-0703">Alex Antoniou</name>
                     <resp>EpiDoc editing and English translation</resp>
                 </respStmt>
-	    <respStmt>
-     	       <name xml:id="SS" ref="https://orcid.org/0000-0003-3914-9569">Simona Stoyanova</name>
-     	       <resp>standardisation of template and tidying up encoding</resp>
- 	   </respStmt>
-	    <respStmt>
+                <respStmt>
+                    <name xml:id="SS" ref="https://orcid.org/0000-0003-3914-9569">Simona Stoyanova</name>
+                    <resp>standardisation of template and tidying up encoding</resp>
+                </respStmt>
+                <respStmt>
                     <name xml:id="system">system</name>
                     <resp>automated or batch processes</resp>
                 </respStmt>
@@ -79,7 +81,8 @@
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
-                                <support><p>A slightly irregular small tablet of marble</p>
+                                <support>
+                                    <p>A slightly irregular small tablet of marble</p>
                                     <material ana="#material.stone.marble" ref="http://www.eagle-network.eu/voc/material/lod/48.html">marble
                                     </material>
                                     <objectType ana="#object.plaque" ref="http://www.eagle-network.eu/voc/objtyp/lod/259">plaque</objectType>
@@ -90,16 +93,18 @@
                                     </dimensions>
                                 </support>
                                 <condition/>
-		    </supportDesc>
+                            </supportDesc>
                             <layoutDesc>
-                                <layout><p>Four lines of Latin letters approximately centred on the stone</p>
+                                <layout>
+                                    <p>Four lines of Latin letters approximately centred on the stone</p>
                                     <rs ana="#execution.chiselled" ref="http://www.eagle-network.eu/voc/writing/lod/1">chiselled</rs>
-                                	<damage/>
-			</layout>
+                                    <damage/>
+                                </layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote><!--measurements from Bitto 2001--><p>Thinly but deeply incised regular letters with minimal serifs and of slightly uneven size. R has a small open eye, with a long straight tail; E is fully perpendicular with equal length strokes; M is made up four equal oblique strokes reaching to top and bottom of the line.</p>
+                            <handNote><!--measurements from Bitto 2001-->
+                                <p>Thinly but deeply incised regular letters with minimal serifs and of slightly uneven size. R has a small open eye, with a long straight tail; E is fully perpendicular with equal length strokes; M is made up four equal oblique strokes reaching to top and bottom of the line.</p>
                                 <locus from="line1" to="line1">Line 1</locus>
                                 <dimensions type="letterHeight">
                                     <height unit="mm">25</height>
@@ -122,10 +127,10 @@
                     <history>
                         <origin>
                             <origPlace>
-                                <placeName type="ancient" ref="http://pleiades.stoa.org/places/462538">Messana</placeName>		
+                                <placeName type="ancient" ref="http://pleiades.stoa.org/places/462538">Messana</placeName>
                                 <placeName type="modern" ref="http://sws.geonames.org/2524170">Messina</placeName>
-                            	<geo>38.19394, 15.55256</geo>
-		</origPlace>
+                                <geo>38.19394, 15.55256</geo>
+                            </origPlace>
                             <origDate datingMethod="#julian" notBefore-custom="0001" notAfter-custom="0300" precision="low">1st — 3rd century CE</origDate>
                         </origin>
                         <provenance type="found" subtype="discovered" when="1914">Found within a funerary building within the area designated 'recinto B' by Paolo Orsi during excavation in 1914 of the <placeName type="ancient" ref="https://pleiades.stoa.org/places/888447551">Necropolis of San Placido</placeName><geo>38.1992517, 15.5566385</geo></provenance>
@@ -133,23 +138,22 @@
                         <provenance type="observed" subtype="autopsied">2017.07.20 (Prag)</provenance>
                         <acquisition/>
                     </history>
-                    
                 </msDesc>
             </sourceDesc>
         </fileDesc>
         <encodingDesc>
-             <p>Encoded following the latest EpiDoc guidelines</p>
-             <xi:include href="../alists/ISicily-taxonomies.xml">
-                 <xi:fallback>
-                     <p>Taxonomies for ISicily controlled values</p>
-                 </xi:fallback>
-             </xi:include>
-	  <xi:include href="../alists/charDecl.xml">
-	     <xi:fallback>
-	       <p>ISicily glyphs authority list</p>
-	     </xi:fallback>
-	   </xi:include>
-         </encodingDesc>
+            <p>Encoded following the latest EpiDoc guidelines</p>
+            <xi:include href="../alists/ISicily-taxonomies.xml">
+                <xi:fallback>
+                    <p>Taxonomies for ISicily controlled values</p>
+                </xi:fallback>
+            </xi:include>
+            <xi:include href="../alists/charDecl.xml">
+                <xi:fallback>
+                    <p>ISicily glyphs authority list</p>
+                </xi:fallback>
+            </xi:include>
+        </encodingDesc>
         <profileDesc>
             <calendarDesc>
                 <calendar xml:id="julian">
@@ -180,13 +184,13 @@
                 <change when="2016-12-03" who="#JCu">James Cummings autogenerated EpiDoc output from database</change>
                 <change when="2018-11-30" who="#AA">Alex Antoniou undertook Epidoc editing of the text and English translation</change>
                 <change when="2018-12-01" who="#JP">Jonathan Prag further revised the EpiDoc after Bitto 2001</change>
-            	   <change when="2020-10-05" who="#SS">Simona Stoyanova normalised Unicode</change>
-            	   <change when="2020-10-08" who="#SS">Simona Stoyanova updated list of languages</change>
-            	<change when="2020-11-20" who="#SS">Simona Stoyanova added EDCS numbers</change>
-		<change when="2020-11-26" who="#SS">Simona Stoyanova restructured bibliography</change>
-	    <change when="2020-12-18" who="#system">Updated Zenodo DOI</change>
-            	<change when="2021-01-19" who="#SS">renumbered files, uris and references</change>
-	</listChange>
+                <change when="2020-10-05" who="#SS">Simona Stoyanova normalised Unicode</change>
+                <change when="2020-10-08" who="#SS">Simona Stoyanova updated list of languages</change>
+                <change when="2020-11-20" who="#SS">Simona Stoyanova added EDCS numbers</change>
+                <change when="2020-11-26" who="#SS">Simona Stoyanova restructured bibliography</change>
+                <change when="2020-12-18" who="#system">Updated Zenodo DOI</change>
+                <change when="2021-01-19" who="#SS">renumbered files, uris and references</change>
+            </listChange>
         </revisionDesc>
     </teiHeader>
     <facsimile>
@@ -197,20 +201,36 @@
             <graphic n="print" url="ISic003510.jpg" height="3680px" width="5520px">
                 <desc>I.Sicily with the permission of the Assessorato Regionale dei Beni Culturali e dell’Identità Siciliana - Dipartimento dei Beni Culturali e dell’Identità Siciliana</desc>
             </graphic>
-         </surface>
+        </surface>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
-                    <lb n="1"/> · <expan><abbr>D</abbr><ex>is</ex></expan> · <expan><abbr>M</abbr><ex>anibus</ex></expan> ·
-                    <lb n="2"/><expan><abbr>L</abbr><ex>ucius</ex></expan> · Ostrius Cres
-                    <lb n="3" break="no"/>cens
-                    <lb n="4"/><expan><abbr>vix</abbr><ex>it</ex></expan> <expan><abbr>ann</abbr><ex>is</ex></expan> · <num value="76">LXXV<hi rend="small">I</hi></num>
+                    <lb n="1"/><g ref="#interpunct" n="5">·</g> <w n="10"><expan><abbr>D</abbr><ex>is</ex></expan></w> <g ref="#interpunct" n="15">·</g> <name><w n="20"><expan><abbr>M</abbr><ex>anibus</ex></expan></w></name> <g ref="#interpunct" n="25">·</g>
+                    <lb n="2"/><name><w n="30"><expan><abbr>L</abbr><ex>ucius</ex></expan></w></name> <g ref="#interpunct" n="35">·</g> <name><w n="40">Ostrius</w></name> <name><w n="45">Cres
+                    <lb n="3" break="no"/>cens</w></name>
+                    <lb n="4"/><w n="50"><expan><abbr>vix</abbr><ex>it</ex></expan></w> <w n="55"><expan><abbr>ann</abbr><ex>is</ex></expan></w> <g ref="#interpunct" n="60">·</g> <num value="76"><w n="65">LXXV<hi rend="small">I</hi></w></num>
+                </ab>
+            </div>
+            <div type="edition" subtype="simple-lemmatized">
+                <ab>
+                    <w n="10" lemma="Deus">Dis</w>
+                    <w n="20" lemma="Manes">Manibus</w>
+                    <w n="30" lemma="Lucius">Lucius</w>
+                    <w n="40" lemma="Ostrius">Ostrius</w>
+                    <w n="45" lemma="Crescens">Crescens</w>
+                    <w n="50" lemma="vivo">vixit</w>
+                    <w n="55" lemma="annus">annis</w>
+                    <w n="65" lemma="LXXVI">LXXVI</w>
                 </ab>
             </div>
             <div type="apparatus">
-                <listApp><app><note>Text based upon Bitto 2001 Photograph</note></app></listApp>
+                <listApp>
+                    <app>
+                        <note>Text based upon Bitto 2001 Photograph</note>
+                    </app>
+                </listApp>
             </div>
             <div type="translation" xml:lang="en" resp="#AA">
                 <p>To the shades of the underworld. Lucius Ostrius Crescens died at 76 years of age</p>
@@ -223,15 +243,19 @@
                     <bibl type="corpus" n="IMusMessina">
                         <citedRange>3</citedRange>
                         <ptr target="https://www.zotero.org/groups/382445/items/M9HMEP2R"/>
-                    <ref target="https://biblio.inscriptiones.org/epig10000029">https://biblio.inscriptiones.org/epig10000029</ref></bibl>
+                        <ref target="https://biblio.inscriptiones.org/epig10000029">https://biblio.inscriptiones.org/epig10000029</ref>
+                    </bibl>
                     <bibl>
                         <author>Orsi</author>
                         <date>1916</date>
                         <citedRange>134</citedRange>
                         <ptr target="https://www.zotero.org/groups/382445/items/P49V3TMD"/>
-                    <ref target="https://biblio.inscriptiones.org/epig10001701">https://biblio.inscriptiones.org/epig10001701</ref></bibl>
+                        <ref target="https://biblio.inscriptiones.org/epig10001701">https://biblio.inscriptiones.org/epig10001701</ref>
+                    </bibl>
                 </listBibl>
-	   <listBibl type="discussion"><bibl/></listBibl>
+                <listBibl type="discussion">
+                    <bibl/>
+                </listBibl>
             </div>
         </body>
     </text>

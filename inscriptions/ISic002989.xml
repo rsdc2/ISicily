@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -9,7 +9,9 @@
                 <editor ref="#JP">Jonathan Prag</editor>
                 <principal ref="#JP">Jonathan Prag</principal>
                 <funder>John Fell OUP Research Fund</funder>
-	   <funder><ref target="https://cordis.europa.eu/project/id/885040">ERC Advanced Grant no.885040</ref></funder>
+                <funder>
+                    <ref target="https://cordis.europa.eu/project/id/885040">ERC Advanced Grant no.885040</ref>
+                </funder>
                 <respStmt>
                     <name xml:id="JP" ref="http://orcid.org/0000-0003-3819-8537">Jonathan Prag</name>
                     <resp>original data collection and editing</resp>
@@ -34,11 +36,11 @@
                     <name xml:id="KJ" ref="https://orcid.org/0000-0002-2287-7247">Kate Jeremy</name>
                     <resp>EpiDoc editing</resp>
                 </respStmt>
-	    <respStmt>
-     	       <name xml:id="SS" ref="https://orcid.org/0000-0003-3914-9569">Simona Stoyanova</name>
-     	       <resp>standardisation of template and tidying up encoding</resp>
- 	   </respStmt>
-	    <respStmt>
+                <respStmt>
+                    <name xml:id="SS" ref="https://orcid.org/0000-0003-3914-9569">Simona Stoyanova</name>
+                    <resp>standardisation of template and tidying up encoding</resp>
+                </respStmt>
+                <respStmt>
                     <name xml:id="system">system</name>
                     <resp>automated or batch processes</resp>
                 </respStmt>
@@ -90,12 +92,12 @@
                                     </dimensions>
                                 </support>
                                 <condition/>
-		    </supportDesc>
+                            </supportDesc>
                             <layoutDesc>
                                 <layout><!--Default value and requires checking-->
                                     <rs ana="#execution.chiselled" ref="http://www.eagle-network.eu/voc/writing/lod/1">chiselled</rs>
-                                	<damage/>
-			</layout>
+                                    <damage/>
+                                </layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
@@ -114,10 +116,10 @@
                     <history>
                         <origin>
                             <origPlace>
-                                <placeName type="ancient" ref="http://pleiades.stoa.org/places/462270">Catina</placeName>		
+                                <placeName type="ancient" ref="http://pleiades.stoa.org/places/462270">Catina</placeName>
                                 <placeName type="modern" ref="http://sws.geonames.org/2525068">Catania</placeName>
-                            	<geo>37.49223, 15.07041</geo>
-		</origPlace>
+                                <geo>37.49223, 15.07041</geo>
+                            </origPlace>
                             <origDate datingMethod="#julian" notBefore-custom="0101" notAfter-custom="0250" precision="low">2nd century CE or beginning 3rd century CE
                                 (Korhonen)</origDate>
                         </origin>
@@ -126,23 +128,22 @@
                         <provenance type="observed" subtype="autopsied">None</provenance>
                         <acquisition/>
                     </history>
-                    
                 </msDesc>
             </sourceDesc>
         </fileDesc>
         <encodingDesc>
-             <p>Encoded following the latest EpiDoc guidelines</p>
-             <xi:include href="../alists/ISicily-taxonomies.xml">
-                 <xi:fallback>
-                     <p>Taxonomies for ISicily controlled values</p>
-                 </xi:fallback>
-             </xi:include>
-	  <xi:include href="../alists/charDecl.xml">
-	     <xi:fallback>
-	       <p>ISicily glyphs authority list</p>
-	     </xi:fallback>
-	   </xi:include>
-         </encodingDesc>
+            <p>Encoded following the latest EpiDoc guidelines</p>
+            <xi:include href="../alists/ISicily-taxonomies.xml">
+                <xi:fallback>
+                    <p>Taxonomies for ISicily controlled values</p>
+                </xi:fallback>
+            </xi:include>
+            <xi:include href="../alists/charDecl.xml">
+                <xi:fallback>
+                    <p>ISicily glyphs authority list</p>
+                </xi:fallback>
+            </xi:include>
+        </encodingDesc>
         <profileDesc>
             <calendarDesc>
                 <calendar xml:id="julian">
@@ -172,13 +173,13 @@
             <listChange>
                 <change when="2016-12-03" who="#JCu">James Cummings autogenerated EpiDoc output from database</change>
                 <change when="2018-06-01" who="#KJ">Kate Jeremy encoded the text</change>
-            	   <change when="2020-10-05" who="#SS">Simona Stoyanova normalised Unicode</change>
-            	   <change when="2020-10-08" who="#SS">Simona Stoyanova updated list of languages</change>
-            	<change when="2020-11-20" who="#SS">Simona Stoyanova added EDCS numbers</change>
-		<change when="2020-11-26" who="#SS">Simona Stoyanova restructured bibliography</change>
-	    <change when="2020-12-18" who="#system">Updated Zenodo DOI</change>
-            	<change when="2021-01-19" who="#SS">renumbered files, uris and references</change>
-	</listChange>
+                <change when="2020-10-05" who="#SS">Simona Stoyanova normalised Unicode</change>
+                <change when="2020-10-08" who="#SS">Simona Stoyanova updated list of languages</change>
+                <change when="2020-11-20" who="#SS">Simona Stoyanova added EDCS numbers</change>
+                <change when="2020-11-26" who="#SS">Simona Stoyanova restructured bibliography</change>
+                <change when="2020-12-18" who="#system">Updated Zenodo DOI</change>
+                <change when="2021-01-19" who="#SS">renumbered files, uris and references</change>
+            </listChange>
         </revisionDesc>
     </teiHeader>
     <facsimile>
@@ -189,19 +190,44 @@
             <graphic n="print" url="ISic002989.jpg" height="3680px" width="5520px">
                 <desc>I.Sicily with the permission of the Assessorato Regionale dei Beni Culturali e dell’Identità Siciliana - Dipartimento dei Beni Culturali e dell’Identità Siciliana</desc>
             </graphic>
-         </surface>
+        </surface>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la">
                 <ab>
-                   <lb n="1"/><supplied reason="lost" cert="low"><expan><abbr>d</abbr><ex>is</ex></expan></supplied> <supplied reason="lost" cert="low"><expan><abbr>m</abbr><ex>anibus</ex></expan></supplied> <supplied reason="lost" cert="low"><expan><abbr>s</abbr><ex>acrum</ex></expan></supplied>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/>ianus <expan><abbr>Aug</abbr><ex>usti</ex></expan>
-                    <lb n="3"/><supplied reason="lost"><expan><abbr>lib</abbr><ex>ertus</ex></expan></supplied> <expan><abbr><unclear>t</unclear>abul</abbr><ex>arius</ex></expan> vixit an
-                    <lb n="4" break="no"/><supplied reason="lost">n</supplied>is <num value="22">XXII</num> <expan><abbr>mensib</abbr><ex>us</ex></expan> <num value="2">II</num>
-                    <lb n="5"/><expan><abbr>dieb</abbr><ex>us</ex></expan> <num value="11">XI</num> uxor et
-                    <lb n="6"/><supplied reason="lost">fr</supplied><unclear>atr</unclear>es <supplied reason="lost">pii</supplied>ssimo
-                    <lb n="7"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>
+                    <lb n="1"/><w n="5"><supplied reason="lost" cert="low"><expan><abbr>d</abbr><ex>is</ex></expan></supplied></w> <w n="10"><supplied reason="lost" cert="low"><expan><abbr>m</abbr><ex>anibus</ex></expan></supplied></w> <w n="15"><supplied reason="lost" cert="low"><expan><abbr>s</abbr><ex>acrum</ex></expan></supplied></w>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w n="20">ianus</w> <name><w n="25"><expan><abbr>Aug</abbr><ex>usti</ex></expan></w></name>
+                    <lb n="3"/><w n="30"><supplied reason="lost"><expan><abbr>lib</abbr><ex>ertus</ex></expan></supplied></w> <w n="35"><expan><abbr><unclear>t</unclear>abul</abbr><ex>arius</ex></expan></w> <w n="40">vixit</w> <w n="45">an
+                    <lb n="4" break="no"/><supplied reason="lost">n</supplied>is</w> <num value="22"><w n="50">XXII</w></num> <w n="55"><expan><abbr>mensib</abbr><ex>us</ex></expan></w> <num value="2"><w n="60">II</w></num>
+                    <lb n="5"/><w n="65"><expan><abbr>dieb</abbr><ex>us</ex></expan></w> <num value="11"><w n="70">XI</w></num> <w n="75">uxor</w> <w n="80">et</w>
+                    <lb n="6"/><w n="85"><supplied reason="lost">fr</supplied><unclear>atr</unclear>es</w> <w n="90"><supplied reason="lost">pii</supplied>ssimo</w>
+                    <lb n="7"/><gap reason="lost" extent="unknown" unit="character"/> <gap reason="illegible" quantity="1" unit="character"/>
+                </ab>
+            </div>
+            <div type="edition" subtype="simple-lemmatized">
+                <ab>
+                    <w n="5" lemma="dis">dis</w>
+                    <w n="10" lemma="manes">manibus</w>
+                    <w n="15" lemma="sacrum">sacrum</w>
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    <w n="20" lemma="Ianus">ianus</w>
+                    <w n="25" lemma="Augustus">Augusti</w>
+                    <w n="30" lemma="libertus">libertus</w>
+                    <w n="35" lemma="tabularius">tabularius</w>
+                    <w n="40" lemma="vivo">vixit</w>
+                    <w n="45" lemma="annus">annis</w>
+                    <w n="50" lemma="XXII">XXII</w>
+                    <w n="55" lemma="mensis">mensibus</w>
+                    <w n="60" lemma="II">II</w>
+                    <w n="65" lemma="dies">diebus</w>
+                    <w n="70" lemma="XI">XI</w>
+                    <w n="75" lemma="uxor">uxor</w>
+                    <w n="80" lemma="et">et</w>
+                    <w n="85" lemma="frater">fratres</w>
+                    <w n="90" lemma="pius">piissimo</w>
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    <gap reason="illegible" quantity="1" unit="character"/>
                 </ab>
             </div>
             <div type="apparatus">
@@ -212,7 +238,7 @@
                 </listApp>
             </div>
             <div type="translation" xml:lang="en" resp="#KJ">
-                    <p>To the spirits of the departed, Julianus, freedman of the Emperor and archivist, lived for twenty-two years, two months and eleven days. His wife and brothers (set this up) to the most dutiful man.</p>
+                <p>To the spirits of the departed, Julianus, freedman of the Emperor and archivist, lived for twenty-two years, two months and eleven days. His wife and brothers (set this up) to the most dutiful man.</p>
             </div>
             <div type="commentary">
                 <p><!--commented out pending revision-->
@@ -223,25 +249,31 @@
                     <bibl type="bulletin" n="AE">
                         <citedRange>1933.0028</citedRange>
                         <ptr target="http://zotero.org/groups/382445/items/R46KDTZX"/>
-                    <ref target="https://biblio.inscriptiones.org/epig10001283">https://biblio.inscriptiones.org/epig10001283</ref></bibl>
+                        <ref target="https://biblio.inscriptiones.org/epig10001283">https://biblio.inscriptiones.org/epig10001283</ref>
+                    </bibl>
                     <bibl type="corpus" n="IMusCatania">
                         <citedRange>38</citedRange>
                         <ptr target="https://www.zotero.org/groups/382445/items/2EUC82DH"/>
-                    <ref target="https://biblio.inscriptiones.org/epig10000028">https://biblio.inscriptiones.org/epig10000028</ref></bibl>
+                        <ref target="https://biblio.inscriptiones.org/epig10000028">https://biblio.inscriptiones.org/epig10000028</ref>
+                    </bibl>
                     <bibl>
                         <author>Libertini</author>
                         <date>1931</date>
                         <citedRange>47 = Libertini (1981) 97</citedRange>
                         <ptr target="https://www.zotero.org/groups/382445/items/T67M4XMU"/>
-                    <ref target="https://biblio.inscriptiones.org/epig10001870">https://biblio.inscriptiones.org/epig10001870</ref></bibl>
+                        <ref target="https://biblio.inscriptiones.org/epig10001870">https://biblio.inscriptiones.org/epig10001870</ref>
+                    </bibl>
                     <bibl>
                         <author>Manganaro</author>
                         <date>1988</date>
                         <citedRange>38 n.180</citedRange>
                         <ptr target="https://www.zotero.org/groups/382445/items/RZSFKACR"/>
-                    <ref target="https://biblio.inscriptiones.org/epig10001427">https://biblio.inscriptiones.org/epig10001427</ref></bibl>
+                        <ref target="https://biblio.inscriptiones.org/epig10001427">https://biblio.inscriptiones.org/epig10001427</ref>
+                    </bibl>
                 </listBibl>
-	   <listBibl type="discussion"><bibl/></listBibl>
+                <listBibl type="discussion">
+                    <bibl/>
+                </listBibl>
             </div>
         </body>
     </text>

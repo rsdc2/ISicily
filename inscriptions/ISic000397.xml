@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -9,7 +9,9 @@
                 <editor ref="#JP">Jonathan Prag</editor>
                 <principal ref="#JP">Jonathan Prag</principal>
                 <funder>John Fell OUP Research Fund</funder>
-                <funder><ref target="https://cordis.europa.eu/project/id/885040">ERC Advanced Grant no.885040</ref></funder>
+                <funder>
+                    <ref target="https://cordis.europa.eu/project/id/885040">ERC Advanced Grant no.885040</ref>
+                </funder>
                 <respStmt>
                     <name xml:id="JP" ref="http://orcid.org/0000-0003-3819-8537">Jonathan Prag</name>
                     <resp>original data collection and editing</resp>
@@ -75,7 +77,8 @@
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
-                                <support><p>A plaque of marble (Orsi describes as Parian marble, but Manganaro highly sceptical), convex on the front, concave at the rear, and recut in antiquity from a larger piece.</p>
+                                <support>
+                                    <p>A plaque of marble (Orsi describes as Parian marble, but Manganaro highly sceptical), convex on the front, concave at the rear, and recut in antiquity from a larger piece.</p>
                                     <material ana="#material.stone.marble" ref="http://www.eagle-network.eu/voc/material/lod/48.html">marble</material>
                                     <objectType ana="#object.plaque" ref="http://www.eagle-network.eu/voc/objtyp/lod/259">plaque</objectType>
                                     <dimensions><!-- from Ferrua -->
@@ -87,7 +90,8 @@
                                 <condition ana="#condition.complete"/>
                             </supportDesc>
                             <layoutDesc>
-                                <layout><p>Three even and equal lines of text, carefully set out, with vacats above and below.</p>
+                                <layout>
+                                    <p>Three even and equal lines of text, carefully set out, with vacats above and below.</p>
                                     <rs ana="#execution.chiselled" ref="http://www.eagle-network.eu/voc/writing/lod/1">chiselled</rs>
                                     <damage ana="#text_condition.complete"/>
                                 </layout>
@@ -112,7 +116,7 @@
                                 <placeName type="ancient" ref="http://pleiades.stoa.org/places/462270">Catina</placeName>
                                 <placeName type="modern" ref="http://sws.geonames.org/2525068">Catania</placeName>
                                 <geo>37.49223, 15.07041</geo>
-		</origPlace>
+                            </origPlace>
                             <origDate datingMethod="#julian" notBefore-custom="0550" notAfter-custom="0650" precision="low">Orsi attributed it to the Norman period, Ferrua (1989) suggested the Saracen period due to the name Taric, and Manganaro suggests Gothic, each lowering the date therefore, which seems to belong in late antiquity, perhaps later 6th century CE, or earlier 7th century CE, dated by indiction (14th).</origDate>
                         </origin>
                         <provenance type="found" subtype="discovered" notAfter="1829">Orsi records that it was found in an unspecified location in the vicinity of Acireale, which Manganaro suggests to indicate ancient Acium/Akis, located in the vicinity of Capo Mulini south of Acrieale. However, the piece was already recorded by Ferrara in 1829, as being in the collection of barone Recupero, having been found some years before during the construction of the 'chiesa dei minoriti', in Catania<geo>37.506083, 15.086167</geo>.</provenance>
@@ -123,18 +127,18 @@
             </sourceDesc>
         </fileDesc>
         <encodingDesc>
-             <p>Encoded following the latest EpiDoc guidelines</p>
-             <xi:include href="../alists/ISicily-taxonomies.xml">
-                 <xi:fallback>
-                     <p>Taxonomies for ISicily controlled values</p>
-                 </xi:fallback>
-             </xi:include>
-	  <xi:include href="../alists/charDecl.xml">
-	     <xi:fallback>
-	       <p>ISicily glyphs authority list</p>
-	     </xi:fallback>
-	   </xi:include>
-         </encodingDesc>
+            <p>Encoded following the latest EpiDoc guidelines</p>
+            <xi:include href="../alists/ISicily-taxonomies.xml">
+                <xi:fallback>
+                    <p>Taxonomies for ISicily controlled values</p>
+                </xi:fallback>
+            </xi:include>
+            <xi:include href="../alists/charDecl.xml">
+                <xi:fallback>
+                    <p>ISicily glyphs authority list</p>
+                </xi:fallback>
+            </xi:include>
+        </encodingDesc>
         <profileDesc>
             <calendarDesc>
                 <calendar xml:id="julian">
@@ -181,19 +185,48 @@
             <graphic n="print" url="ISic000397.jpg" height="3680px" width="5520px">
                 <desc>I.Sicily with the permission of the Assessorato Regionale dei Beni Culturali e dell’Identità Siciliana - Dipartimento dei Beni Culturali e dell’Identità Siciliana</desc>
             </graphic>
-         </surface>
+        </surface>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
-                    <lb n="1"/><g ref="#cross_greek">🞣</g> Hic requiescit <persName type="attested"><persName type="attested"><name type="patronym">Iohannis</name></persName> filius <name>Tar
-                    <lb n="2" break="no"/>ric</name></persName> qui vixit <g ref="#interpunct">·</g> <expan><abbr><hi rend="supraline">an</hi></abbr><ex>nos</ex></expan> <g ref="#interpunct">·</g> <num value="3"><choice><orig>tris</orig><reg>tres</reg></choice></num> <expan><abbr><hi rend="supraline">men</hi></abbr><ex>ses</ex></expan> <num value="2">duo</num> dies <num value="16">XVI</num>
-                    <lb n="3"/><expan><abbr><hi rend="supraline">dep</hi></abbr><ex>ositus</ex></expan> in pace <num value="17">XVII</num> <expan><abbr><hi rend="supraline">Kal</hi></abbr><ex>endas</ex></expan> Ianuarias <expan><abbr><hi rend="supraline">ind</hi></abbr><ex>ictione</ex></expan> <num value="14">XIIII</num>
+                    <lb n="1"/><g ref="#cross_greek" n="5">🞣</g> <w n="10">Hic</w> <w n="15">requiescit</w> <persName type="attested"><persName type="attested"><name type="patronym"><w n="20">Iohannis</w></name></persName> <w n="25">filius</w> <name><w n="30">Tar
+                    <lb n="2" break="no"/>ric</w></name></persName> <w n="35">qui</w> <w n="40">vixit</w> <g ref="#interpunct" n="45">·</g> <w n="50"><expan><abbr><hi rend="supraline">an</hi></abbr><ex>nos</ex></expan></w> <g ref="#interpunct" n="55">·</g> <num value="3"><w n="60"><choice><orig n="65">tris</orig><reg>tres</reg></choice></w></num> <w n="70"><expan><abbr><hi rend="supraline">men</hi></abbr><ex>ses</ex></expan></w> <num value="2"><w n="75">duo</w></num> <w n="80">dies</w> <num value="16"><w n="85">XVI</w></num>
+                    <lb n="3"/><w n="90"><expan><abbr><hi rend="supraline">dep</hi></abbr><ex>ositus</ex></expan></w> <w n="95">in</w> <w n="100">pace</w> <num value="17"><w n="105">XVII</w></num> <name><w n="110"><expan><abbr><hi rend="supraline">Kal</hi></abbr><ex>endas</ex></expan></w></name> <name><w n="115">Ianuarias</w></name> <w n="120"><expan><abbr><hi rend="supraline">ind</hi></abbr><ex>ictione</ex></expan></w> <num value="14"><w n="125">XIIII</w></num>
                 </ab>
                 </div>
+            <div type="edition" subtype="simple-lemmatized">
+                <ab>
+                    <w n="10" lemma="hic">Hic</w>
+                    <w n="15" lemma="requiesco">requiescit</w>
+                    <w n="20" lemma="Iohannis">Iohannis</w>
+                    <w n="25" lemma="filius">filius</w>
+                    <w n="30" lemma="Tarric">Tarric</w>
+                    <w n="35" lemma="qui">qui</w>
+                    <w n="40" lemma="vivo">vixit</w>
+                    <w n="50" lemma="annus">annos</w>
+                    <w n="60" lemma="tres">tres</w>
+                    <w n="70" lemma="mensis">menses</w>
+                    <w n="75" lemma="duo">duo</w>
+                    <w n="80" lemma="dies">dies</w>
+                    <w n="85" lemma="XVI">XVI</w>
+                    <w n="90" lemma="depono">depositus</w>
+                    <w n="95" lemma="in">in</w>
+                    <w n="100" lemma="pax">pace</w>
+                    <w n="105" lemma="XVII">XVII</w>
+                    <w n="110" lemma="Kalendae">Kalendas</w>
+                    <w n="115" lemma="Ianuarius">Ianuarias</w>
+                    <w n="120" lemma="indictio">indictione</w>
+                    <w n="125" lemma="XIIII">XIIII</w>
+                </ab>
+            </div>
             <div type="apparatus" resp="#JP">
-                <listApp><app><note>Text after Manganaro, controlled against photograph</note></app></listApp>
+                <listApp>
+                    <app>
+                        <note>Text after Manganaro, controlled against photograph</note>
+                    </app>
+                </listApp>
             </div>
             <div type="translation" xml:lang="en" resp="#JP">
                 <p>Here lies Tarric son of Iohannis, who lived for 3 years, 2 months, 16 days. Laid to rest in peace, the 17th day before the Kalends of January, in the 14th indiction.</p>
@@ -208,44 +241,53 @@
                         <date>1829</date>
                         <citedRange>376 no.4, 378</citedRange>
                         <ptr target="https://www.zotero.org/groups/382445/items/82T4IWDN"/>
-                    <ref target="https://biblio.inscriptiones.org/epig10002005">https://biblio.inscriptiones.org/epig10002005</ref></bibl>
+                        <ref target="https://biblio.inscriptiones.org/epig10002005">https://biblio.inscriptiones.org/epig10002005</ref>
+                    </bibl>
                     <bibl type="corpus" n="CIL">
                         <citedRange>
                             <ref target="http://arachne.uni-koeln.de/books/CILv10pII1883">10.7116</ref>
                         </citedRange>
                         <ptr target="https://www.zotero.org/groups/382445/items/GQN8UZSI"/>
-                    <ref target="https://biblio.inscriptiones.org/epig10000589">https://biblio.inscriptiones.org/epig10000589</ref></bibl>
+                        <ref target="https://biblio.inscriptiones.org/epig10000589">https://biblio.inscriptiones.org/epig10000589</ref>
+                    </bibl>
                     <bibl>
                         <author>Manganaro</author>
                         <date>1993</date>
                         <citedRange>583 fig. 18</citedRange>
                         <ptr target="https://www.zotero.org/groups/382445/items/JBI7CI5R"/>
-                    <ref target="https://biblio.inscriptiones.org/epig10001827">https://biblio.inscriptiones.org/epig10001827</ref></bibl>
+                        <ref target="https://biblio.inscriptiones.org/epig10001827">https://biblio.inscriptiones.org/epig10001827</ref>
+                    </bibl>
                     <bibl type="bulletin" n="NSA">
                         <author>Orsi</author>
                         <title>NSA</title>
                         <date>1907</date>
                         <citedRange>495-496 ph</citedRange>
                         <ptr target="http://zotero.org/groups/382445/items/4MCP2PVV"/>
-                    <ref target="https://biblio.inscriptiones.org/epig10001392">https://biblio.inscriptiones.org/epig10001392</ref></bibl>
+                        <ref target="https://biblio.inscriptiones.org/epig10001392">https://biblio.inscriptiones.org/epig10001392</ref>
+                    </bibl>
                     <bibl type="corpus" n="ILCV">
                         <citedRange>3120</citedRange>
                         <ptr target="https://www.zotero.org/groups/382445/items/IPPB7CUI"/>
-                    <ref target="https://biblio.inscriptiones.org/epig10000357">https://biblio.inscriptiones.org/epig10000357</ref></bibl>
+                        <ref target="https://biblio.inscriptiones.org/epig10000357">https://biblio.inscriptiones.org/epig10000357</ref>
+                    </bibl>
                     <bibl>
                         <author>Ferrua</author>
                         <date>1982-1983</date>
                         <citedRange>28 no. 99</citedRange>
                         <ptr target="https://www.zotero.org/groups/382445/items/Q7DDNWD6"/>
-                    <ref target="https://biblio.inscriptiones.org/epig10001996">https://biblio.inscriptiones.org/epig10001996</ref></bibl>
+                        <ref target="https://biblio.inscriptiones.org/epig10001996">https://biblio.inscriptiones.org/epig10001996</ref>
+                    </bibl>
                     <bibl>
                         <author>Ferrua</author>
                         <date>1989</date>
                         <citedRange>no. 452</citedRange>
                         <ptr target="https://www.zotero.org/groups/382445/items/759ZXHKQ"/>
-                    <ref target="https://biblio.inscriptiones.org/epig10001995">https://biblio.inscriptiones.org/epig10001995</ref></bibl>
+                        <ref target="https://biblio.inscriptiones.org/epig10001995">https://biblio.inscriptiones.org/epig10001995</ref>
+                    </bibl>
                 </listBibl>
-                <listBibl type="discussion"><bibl/></listBibl>
+                <listBibl type="discussion">
+                    <bibl/>
+                </listBibl>
             </div>
         </body>
     </text>
