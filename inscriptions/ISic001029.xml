@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -192,29 +192,25 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
-                    <ab>
-                        <lb n="1"/><unclear>ἐ</unclear><supplied reason="lost">π</supplied>ὶ Ἡρακλ<supplied reason="lost">είου</supplied> <supplied reason="lost">τ</supplied><unclear>ο</unclear>ῦ Ποσεί<unclear>δ</unclear>ιος Ἀφρο<supplied reason="lost">δίται</supplied>
-                        
-                        <cb n="1"/>
-                        <lb n="2"/><roleName type="civic" subtype="agoranomos">ἀγορανόμοι</roleName>
-                        <lb n="3"/>Ἡρακλείδας Ἀπολλοδώρου
-                        <lb n="4"/>Ἡράκλειος Ἀγάθωνος
-                        <lb n="5"/><roleName type="civic" subtype="triakodarkos">τριακάδαρχοι</roleName>
-                        <lb n="6"/>Ἀριστόμαχος Διονυσοδώρου
-                        <lb n="7"/>Δαμαίνετος Λύκωνος
-                        <lb n="8"/>Ξένων Ἀριστέα
-                        <lb n="9"/>Νικασίων Φιλίστου
-                    
-                        <cb n="2"/>
-                        <lb n="10"/>Δαικράτης Ἀριστοξένου
-                        <lb n="11"/>Νικασίων Ἀρτέμωνος
-                        <lb n="12"/>Ε<unclear>ὔ</unclear><supplied reason="lost">φ</supplied>α<supplied reason="lost">μ</supplied>ος Θεο<unclear>φ</unclear>ίλου
-                        <lb n="13"/><roleName type="civic" subtype="grammateus">γραμματεὺς</roleName>
-                        <lb n="14"/>Παυσανίας Σώσι<unclear>ο</unclear><supplied reason="lost">ς</supplied>
-                        <lb n="15"/><roleName type="civic" subtype="hypographeus">ὑπογραφέες</roleName>
-                        <lb n="16"/>Ὕβριμος Σώσιος
-                        <lb n="17"/>Φιλιστίων Σώσιος
-                     </ab>
+                <ab>
+                    <lb n="1"/><w><unclear>ἐ</unclear><supplied reason="lost">π</supplied>ὶ</w> <name>Ἡρακλ<supplied reason="lost">είου</supplied></name> <w><supplied reason="lost">τ</supplied><unclear>ο</unclear>ῦ</w> <name>Ποσεί<unclear>δ</unclear>ιος</name> <name>Ἀφρο<supplied reason="lost">δίται</supplied></name> <cb n="1"/>
+                    <lb n="2"/><roleName type="civic" subtype="agoranomos"><w>ἀγορανόμοι</w></roleName>
+                    <lb n="3"/><name>Ἡρακλείδας</name> <name>Ἀπολλοδώρου</name>
+                    <lb n="4"/><name>Ἡράκλειος</name> <name>Ἀγάθωνος</name>
+                    <lb n="5"/><roleName type="civic" subtype="triakodarkos"><w>τριακάδαρχοι</w></roleName>
+                    <lb n="6"/><name>Ἀριστόμαχος</name> <name>Διονυσοδώρου</name>
+                    <lb n="7"/><name>Δαμαίνετος</name> <name>Λύκωνος</name>
+                    <lb n="8"/><name>Ξένων</name> <name>Ἀριστέα</name>
+                    <lb n="9"/><name>Νικασίων</name> <name>Φιλίστου</name> <cb n="2"/>
+                    <lb n="10"/><name>Δαικράτης</name> <name>Ἀριστοξένου</name>
+                    <lb n="11"/><name>Νικασίων</name> <name>Ἀρτέμωνος</name>
+                    <lb n="12"/><name>Ε<unclear>ὔ</unclear><supplied reason="lost">φ</supplied>α<supplied reason="lost">μ</supplied>ος</name> <name>Θεο<unclear>φ</unclear>ίλου</name>
+                    <lb n="13"/><roleName type="civic" subtype="grammateus"><w>γραμματεὺς</w></roleName>
+                    <lb n="14"/><name>Παυσανίας</name> <name>Σώσι<unclear>ο</unclear><supplied reason="lost">ς</supplied></name>
+                    <lb n="15"/><roleName type="civic" subtype="hypographeus"><w>ὑπογραφέες</w></roleName>
+                    <lb n="16"/><name>Ὕβριμος</name> <name>Σώσιος</name>
+                    <lb n="17"/><name>Φιλιστίων</name> <name>Σώσιος</name>
+                </ab>
             </div>
             <div type="apparatus">
                 <listApp>

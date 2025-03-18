@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -73,7 +73,7 @@
                                     <material ana="#material.stone.marble" ref="http://www.eagle-network.eu/voc/material/lod/48.html">marble</material>
                                     <objectType ana="#object.basin" ref="https://www.eagle-network.eu/voc/objtyp/lod/144.html">basin</objectType>
                                     <dimensions><!--Orsi 1899-->
-                                        <height unit="cm"></height>
+                                        <height unit="cm"/>
                                         <width unit="cm">7</width>
                                         <depth unit="cm">8</depth>
                                     </dimensions>
@@ -91,7 +91,7 @@
                             <handNote><p>Presented as clearly incised archaic letters</p>
                                 <locus from="line1" to="line1">Line 1</locus>
                                 <dimensions type="letterHeight">
-                                    <height unit="mm"></height>
+                                    <height unit="mm"/>
                                 </dimensions>
                                 <locus from="line1" to="line2">Interlineation line 1 to 2</locus>
                                 <dimensions type="interlinear">
@@ -174,8 +174,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><orig>ΘΟΝΙ</orig><gap reason="lost" extent="unknown" unit="character"/>
-                 </ab>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <orig>ΘΟΝΙ</orig><gap reason="lost" extent="unknown" unit="character"/>
+                </ab>
             </div>
             <div type="apparatus" resp="#JP">
                 <listApp>
@@ -183,7 +183,7 @@
                     </listApp>
             </div>
             <div type="translation">
-                <p></p>
+                <p/>
             </div>
             <div type="commentary" resp="#JP">
                 <p>The stone does not seem to have been seen or restudied since Orsi's 1899 publication (Pace simply reprints from Orsi).</p>

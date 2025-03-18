@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -199,12 +199,12 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
-                <ab>                    
-                    <lb n="1"/>Χαῖρε μάκαρ χθονός ἡμετέρης βλάστημα σεβαστόν
-                    <lb n="2"/>Ζάγκλης εὐλιμένου μεδέων ἄκρης τε Πελώρου
-                    <lb n="3"/>εἰσορόων στεινόν τε πόρον καὶ ῥεύματα πορθμοῦ
-                    <lb n="4"/>ἔνθα πάλιν φοίτοιο διωκομένοιο κλυδῶνος
-                    <lb n="5"/>ἀντικορύσσεται Ἀδριακῷ Τυρρηνικόν ὕδωρ
+                <ab>
+                    <lb n="1"/><w>Χαῖρε</w> <w>μάκαρ</w> <w>χθονός</w> <w>ἡμετέρης</w> <w>βλάστημα</w> <w>σεβαστόν</w>
+                    <lb n="2"/><name>Ζάγκλης</name> <w>εὐλιμένου</w> <w>μεδέων</w> <w>ἄκρης</w> <w>τε</w> <name>Πελώρου</name>
+                    <lb n="3"/><w>εἰσορόων</w> <w>στεινόν</w> <w>τε</w> <w>πόρον</w> <w>καὶ</w> <w>ῥεύματα</w> <w>πορθμοῦ</w>
+                    <lb n="4"/><w>ἔνθα</w> <w>πάλιν</w> <w>φοίτοιο</w> <w>διωκομένοιο</w> <w>κλυδῶνος</w>
+                    <lb n="5"/><w>ἀντικορύσσεται</w> <name>Ἀδριακῷ</name> <name>Τυρρηνικόν</name> <w>ὕδωρ</w>
                 </ab>
             </div>
             <div type="apparatus">
@@ -218,7 +218,7 @@
                 <p>Salve, beato, germoglio venerabile della nostra terra, signore di Zancle dal bel porto e del capo Peloro, tu che guardi lo stretto passaggio e le correnti dello Stretto, dove, essendo l'onda sospinta avanti e indietro, il mar Tirreno si solleva contro l'Adriatico.</p>
             </div>
             <div type="commentary">
-                <p></p>
+                <p/>
             </div>
             <div type="bibliography">
                 <listBibl type="edition">

@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -184,10 +184,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1"/>Λικίνις Ἰσαυ
-                   <lb n="2" break="no"/>ρος ζῶν ὢν
-                    <lb n="3"/>ἐποίει ἑαυτῷ
-                    <lb n="4"/>καὶ τοῖς ἰδίοις
+                    <lb n="1"/><w>Λικίνις</w> <name>Ἰσαυ
+                    <lb n="2" break="no"/>ρος</name> <w>ζῶν</w> <w>ὢν</w>
+                    <lb n="3"/><w>ἐποίει</w> <w>ἑαυτῷ</w>
+                    <lb n="4"/><w>καὶ</w> <w>τοῖς</w> <w>ἰδίοις</w>
                 </ab>
             </div>
             <div type="apparatus">

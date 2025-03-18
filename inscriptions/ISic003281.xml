@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -200,7 +200,7 @@
                     <lb n="3"/><w>ἔζησεν</w> <w>ἔτη</w>
                     <lb n="4"/><num value="50">ν</num> <g ref="#christogram">☧</g>
                     <lb n="5"/><w>ἐτελεύτησεν</w>
-                    <lb n="6"/><w>τῇ</w> <w>πρὸ</w> <num value="15">ιε</num> <g ref="#dipunct">:</g> <w><expan><abbr>Κα</abbr><ex>λανδῶν</ex></expan></w> <w><expan><abbr>Μαρ</abbr><ex>τίων</ex></expan></w>
+                    <lb n="6"/><w>τῇ</w> <w>πρὸ</w> <num value="15">ιε</num> <g ref="#dipunct">:</g> <name><expan><abbr>Κα</abbr><ex>λανδῶν</ex></expan></name> <name><expan><abbr>Μαρ</abbr><ex>τίων</ex></expan></name>
                 </ab>
             </div>
             <div type="apparatus" resp="#martaf">

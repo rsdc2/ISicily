@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -199,19 +199,20 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la"><!-- text needs checking against photo and editing into epidoc -->
-                <ab><lb n="1"/>Iuliae Florentinae infan(t)i dulcissimae atq(ue) in-
-                    <lb n="2" break="no"/>nocentissimae fideli factae parens conlocavit
-                    <lb n="3"/>quae pridie Nonas Martias ante lucem pagana
-                    <lb n="4"/>nata Zoilo <roleName type="supracivic" subtype="corrector">corr(ectore)</roleName> p(rovinciae) mense octavo decimo et vices(i)-
-                    <lb n="5" break="no"/>ma secunda die completis fidelis facta hora no-
-                    <lb n="6" break="no"/>ctis octava ultimum spiritum agens supervixit
-                    <lb n="7"/>horis quattuor ita ut consueta repeteret ac de-
-                    <lb n="8" break="no"/>functa Hyble hora die(i) prima septimum Kal(endas)
-                    <lb n="9"/>Octobres cuius occasum cum uterq(ue) parens om-
-                    <lb n="10" break="no"/>ni momento fleret per noctem maiestatis
-                    <lb n="11"/>vox extitit quae defunctam lamen(t)ari prohi-
-                    <lb n="12" break="no"/>beret cuius corpus pro foribus mart(yrorum) Chr(istian)orum cum
-                    <lb n="13"/>loculo suo per <roleName type="paracivic.religious" subtype="presbyter">prosbiterum</roleName> humatu(m) e(st) IIII Non(as) Oct(o)br(es)
+                <ab>
+                    <lb n="1"/><w>Iuliae</w> <name>Florentinae</name> <w>infan(t)i</w> <w>dulcissimae</w> <w>atq(ue)</w> <w>in-
+                    <lb n="2" break="no"/>nocentissimae</w> <w>fideli</w> <w>factae</w> <w>parens</w> <w>conlocavit</w>
+                    <lb n="3"/><w>quae</w> <w>pridie</w> <name>Nonas</name> <name>Martias</name> <w>ante</w> <w>lucem</w> <w>pagana</w>
+                    <lb n="4"/><w>nata</w> <name>Zoilo</name> <roleName type="supracivic" subtype="corrector"><w>corr(ectore)</w></roleName> <w>p(rovinciae)</w> <w>mense</w> <w>octavo</w> <w>decimo</w> <w>et</w> <w>vices(i)-
+                    <lb n="5" break="no"/>ma</w> <w>secunda</w> <w>die</w> <w>completis</w> <w>fidelis</w> <w>facta</w> <w>hora</w> <w>no-
+                    <lb n="6" break="no"/>ctis</w> <w>octava</w> <w>ultimum</w> <w>spiritum</w> <w>agens</w> <w>supervixit</w>
+                    <lb n="7"/><w>horis</w> <w>quattuor</w> <w>ita</w> <w>ut</w> <w>consueta</w> <w>repeteret</w> <w>ac</w> <w>de-
+                    <lb n="8" break="no"/>functa</w> <name>Hyble</name> <w>hora</w> <w>die(i)</w> <w>prima</w> <w>septimum</w> <name>Kal(endas)</name>
+                    <lb n="9"/><name>Octobres</name> <w>cuius</w> <w>occasum</w> <w>cum</w> <w>uterq(ue)</w> <w>parens</w> <w>om-
+                    <lb n="10" break="no"/>ni</w> <w>momento</w> <w>fleret</w> <w>per</w> <w>noctem</w> <w>maiestatis</w>
+                    <lb n="11"/><w>vox</w> <w>extitit</w> <w>quae</w> <w>defunctam</w> <w>lamen(t)ari</w> <w>prohi-
+                    <lb n="12" break="no"/>beret</w> <w>cuius</w> <w>corpus</w> <w>pro</w> <w>foribus</w> <w>mart(yrorum)</w> <name>Chr(istian)orum</name> <w>cum</w>
+                    <lb n="13"/><w>loculo</w> <w>suo</w> <w>per</w> <roleName type="paracivic.religious" subtype="presbyter"><w>prosbiterum</w></roleName> <w>humatu(m)</w> <w>e(st)</w> <w>IIII</w> <name>Non(as)</name> <name>Oct(o)br(es)</name>
                 </ab>
             </div>
             <div type="apparatus">

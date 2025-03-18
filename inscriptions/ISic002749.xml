@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -186,25 +186,11 @@
         <body>
             <div type="edition" xml:space="preserve" subtype="PHI" n="PHI330706">
                 <ab>
-                    <lb n="1"/>
-                    <supplied reason="lost">— — — ἐγένο</supplied>ντο
-                    <supplied reason="lost">— — — — — — — — —</supplied>
-                    <lb n="2"/>
-                    <supplied reason="lost">— — — — μ</supplied>ογεῖν δα
-                    <supplied reason="lost">ίμονος(?) — — — —</supplied>
-                    <lb n="3"/>
-                    <supplied reason="lost">— — θάνα</supplied>
-                    <expan>
-                        <abbr>τον</abbr>
-                        <ex>?</ex>
-                    </expan>
-                    καμάτ
-                    <supplied reason="lost">ων τέλος(?) — —</supplied>
-                    <lb n="4"/>
-                    <supplied reason="lost">— — — — — — μ</supplied>οι δῶ[μα <surplus>²⁷δῶ[ρον]</surplus>²⁷ — —]
-                    <lb n="5"/>
-                    <supplied reason="lost">— — — — — — — —</supplied>λω
-                    <supplied reason="lost">— — — — — — —</supplied>
+                    <lb n="1"/><w><supplied reason="lost">— — — ἐγένο</supplied>ντο</w> <name><supplied reason="lost">— — — — — — — — —</supplied></name>
+                    <lb n="2"/><name><supplied reason="lost">— — — — μ</supplied>ογεῖν</name> <w>δα</w> <w><supplied reason="lost">ίμονος(?) — — — —</supplied></w>
+                    <lb n="3"/><name><supplied reason="lost">— — θάνα</supplied></name> <w><expan><abbr>τον</abbr><ex>?</ex></expan></w> <w>καμάτ</w> <w><supplied reason="lost">ων τέλος(?) — —</supplied></w>
+                    <lb n="4"/><name><supplied reason="lost">— — — — — — μ</supplied>οι</name> <w>δῶ[μα</w> <name><surplus>²⁷δῶ[ρον]</surplus>²⁷</name> <name>—</name> <name>—]</name>
+                    <lb n="5"/><name><supplied reason="lost">— — — — — — — —</supplied>λω</name> <name><supplied reason="lost">— — — — — — —</supplied></name>
                     <lb n="6"/>
                 </ab>
             </div>
@@ -212,26 +198,26 @@
                 <ab>
                     <lb n="1"/>
                     <supplied reason="lost">— — — — — — — — — — — — — — — — — — —</supplied>
-                    <lb n="2"/>
-                    <supplied reason="lost">— — — — — — — — ἐγένο</supplied>ν<unclear>τ</unclear>ο
-                    <supplied reason="lost">— — — — — —</supplied>
-                    <lb n="3"/>
+                     <lb n="2"/>
+                    <supplied reason="lost">— — — — — — — — ἐγένο</supplied>ν <unclear>τ</unclear>ο
+                     <supplied reason="lost">— — — — — —</supplied>
+                     <lb n="3"/>
                     <supplied reason="lost">— — κακὰ δὲ πολλὰ</supplied>
-                    <unclear>μ</unclear>ογεῖν δα
-                    <supplied reason="lost">ίμονος αἶσα</supplied>
-                    <lb n="4"/>
+                     <unclear>μ</unclear>ογεῖν δα
+                     <supplied reason="lost">ίμονος αἶσα</supplied>
+                     <lb n="4"/>
                     <supplied reason="lost">κακὴ — — καὶ θάνα</supplied>τον καμάτ
-                    <supplied reason="lost">ων τέλος — —</supplied>
-                    <lb n="5"/>
+                     <supplied reason="lost">ων τέλος — —</supplied>
+                     <lb n="5"/>
                     <supplied reason="lost">— — — — — — — — — — μ</supplied>οι δῶ
-                    <supplied reason="lost">κε — — — —</supplied>
-                    <lb n="6"/>
+                     <supplied reason="lost">κε — — — —</supplied>
+                     <lb n="6"/>
                     <supplied reason="lost">— — — — — — — — — — —</supplied>
-                    <unclear>ΛΩ</unclear>
-                    <supplied reason="lost">— — — — — —</supplied>
-                    <lb n="7"/>
+                     <unclear>ΛΩ</unclear>
+                     <supplied reason="lost">— — — — — —</supplied>
+                     <lb n="7"/>
                     <supplied reason="lost">— — — — — — — — — — — — — — — — — —</supplied>
-                    <lb n="8"/>
+                     <lb n="8"/>
                 </ab>
             </div>
             <div type="apparatus">

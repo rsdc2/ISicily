@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -186,14 +186,14 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1"/><expan><abbr>Θ</abbr><ex>εοῖς</ex></expan> <expan><abbr>Κ</abbr><ex>αταχθονίοις</ex></expan> <expan><abbr>Δ</abbr><ex>αίμοσιν</ex></expan>
-                    <lb n="2"/>Πεσκν<gap reason="lost" quantity="3" unit="character"/> Σικέλη Δρεπαν<supplied reason="lost">ὶς</supplied>
-                    <lb n="3"/>χριστὴ ἀμέμπτως
-                    <lb n="4"/>ἔζησ<supplied reason="lost">εν</supplied> ἔτη <gap reason="lost" unit="character" quantity="2"/>
-                    <lb n="5"/>Αὐρέλιος σίμβιος
-                    <lb n="6"/>σινβίῳ εἰδίᾳ
-                    <lb n="7"/>εὐσεβεστάτῃ
-                    <lb n="8"/>ἐποίησε
+                    <lb n="1"/><w><expan><abbr>Θ</abbr><ex>εοῖς</ex></expan></w> <name><expan><abbr>Κ</abbr><ex>αταχθονίοις</ex></expan></name> <name><expan><abbr>Δ</abbr><ex>αίμοσιν</ex></expan></name>
+                    <lb n="2"/><name>Πεσκν</name> <gap reason="lost" quantity="3" unit="character"/> <name>Σικέλη</name> <name>Δρεπαν<supplied reason="lost">ὶς</supplied></name>
+                    <lb n="3"/><w>χριστὴ</w> <w>ἀμέμπτως</w>
+                    <lb n="4"/><w>ἔζησ<supplied reason="lost">εν</supplied></w> <w>ἔτη</w> <gap reason="lost" unit="character" quantity="2"/>
+                    <lb n="5"/><name>Αὐρέλιος</name> <w>σίμβιος</w>
+                    <lb n="6"/><w>σινβίῳ</w> <w>εἰδίᾳ</w>
+                    <lb n="7"/><w>εὐσεβεστάτῃ</w>
+                    <lb n="8"/><w>ἐποίησε</w>
                 </ab>
             </div>
             <div type="apparatus">

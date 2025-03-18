@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -184,20 +184,20 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#AR">
                 <ab>
-                    <lb n="1"/><unclear>Ε</unclear>ὐχά <persName type="attested"><name>Ἀπέλλις</name></persName> ἐπὶ φιλότατι τᾶι <persName type="attested"><name>Εὐνίϙοˉ</name></persName> <gap reason="lost" extent="unknown" unit="character"/> μεˉδέν’ <persName type="attested"><name><supplied reason="lost">Ε</supplied>ὐνίϙοˉ</name></persName> σπευ
-                    <lb n="2" break="no"/>δ<supplied reason="lost">αι</supplied>ότερον ε῏μεν μεˉδὲ <persName type="attested"><name>Φίντίοˉνα</name></persName> ἀλλ’ἐπαινε῀<supplied reason="omitted">ν</supplied> καὶ ἑϙόντα κἀέϙ
-                    <lb n="3" break="no"/>όντα καὶ φιλετἄν ἐπὶ φιλότατι τᾶι <persName type="attested"><name>Εὐνίϙοˉ</name></persName> ἀπογ<surplus>α</surplus>ράφοˉ τὸˉ
-                    <lb n="4" break="no"/>ς χορᾱγὸˉς πάντας ἐπ’ ἀτελεία<supplied reason="omitted">ι</supplied> κἐˉπέοˉν καὶ ἔργοˉν καὶ τ
-                    <lb n="5" break="no"/>ὸˉς παι῀δ<surplus>ι</surplus>ας ἀπὸ τένον καὶ τὸˉς πατέρας κἀπρακτίαι κἐˉν ἀγο῀                  
-                    <lb n="6" break="no"/>νι κἐχθὸς ἀγόˉνοˉν οἵτινες μὲ παρ’ ἐμ’ ἀπολείποιεν <persName type="attested"><name>Καλεδίαν</name></persName>
-                    <lb n="7" break="no"/><supplied reason="lost">ἀπογ</supplied><surplus>α</surplus>ράφοˉ ἀπ’ <persName type="attested"><name>Ἀπελλίος</name></persName> καὶ τὸˉς<surplus>ς</surplus> τεˉνε῀ι πάντας ἐπὶ μεσοτερ
-                    <lb n="8" break="no"/><supplied reason="lost">ο</supplied> <gap reason="lost" quantity="3" unit="character" precision="low"/> ἐντάδα <persName type="attested"><name>Σοˉσίαν</name></persName> ἀπογράφοˉ ἀπὸ το῀ καπεˉλείοˉ <persName type="attested"><name>Ἀλκιδᾶν</name></persName> ἐπὶ τᾶ
-                    <lb n="9" break="no"/><supplied reason="lost" cert="low">ι</supplied> <persName type="attested"><name><supplied reason="lost" cert="low">Μελ</supplied>ανθίοˉ</name></persName> φιλότᾱτι <persName type="attested"><name>Πυρία<supplied reason="omitted">μ</supplied></name></persName> <persName type="attested"><name>Μύσσκελον</name></persName> <persName type="attested"><name>Δᾱμόφαντον</name></persName> καὶ τὸν
-                    <lb n="10"/><supplied reason="omitted">χοραγ</supplied>ὸν ἀπογράφοˉ ἀπὸ το῀μ παίδοˉν καὶ το῀μ πατέροˉν καὶ τὸˉς ἄλλ
-                    <lb n="11" break="no"/><supplied reason="lost">ος</supplied> <supplied reason="lost">πά</supplied>ντας οἵτινες ἐντάδε ἀφικνοίατο μεˉδέν’ <persName type="attested"><name>Εὐνίκοˉ</name></persName> σπευδαιό
-                    <lb n="12" break="no"/><supplied reason="lost">τερο</supplied>ν γενέσθαι, μέˉτ’ ἄνδρεσι μέˉτε γυναικέσσι ὁς οὗτος <supplied reason="omitted">ὁ</supplied> βόλιμοˉς τὸˉς τε<gap reason="illegible" quantity="1" unit="character"/>
-                    <lb n="13" break="no"/><supplied reason="lost" cert="low">νον</supplied> <supplied reason="lost">επ</supplied><unclear>ο</unclear><supplied reason="omitted">ι</supplied>δ<surplus>ι</surplus><unclear>α</unclear><unclear>ὶ</unclear> τιμὰν ἐρύσαιντο <persName type="attested"><name>Εὐνίκοˉι</name></persName> ἀὲ νίκᾶν παντε῀ ἐμ βολύμο<unclear>ι</unclear> ἐ<unclear>π</unclear>
-                    <lb n="14" break="no"/><supplied reason="lost">ὶ</supplied> <supplied reason="lost">φιλ</supplied>ότατι τᾶι <persName type="attested"><name>Εὐνίκοˉ</name></persName> γ<choice><reg>ρά</reg><orig>άρ</orig></choice>φοˉ
+                    <lb n="1"/><w><unclear>Ε</unclear>ὐχά</w> <persName type="attested"><name>Ἀπέλλις</name></persName> <w>ἐπὶ</w> <w>φιλότατι</w> <w>τᾶι</w> <persName type="attested"><name>Εὐνίϙοˉ</name></persName> <gap reason="lost" extent="unknown" unit="character"/> <w>μεˉδέν’</w> <persName type="attested"><name><supplied reason="lost">Ε</supplied>ὐνίϙοˉ</name></persName> <w>σπευ
+                    <lb n="2" break="no"/>δ<supplied reason="lost">αι</supplied>ότερον</w> <w>ε῏μεν</w> <w>μεˉδὲ</w> <persName type="attested"><name>Φίντίοˉνα</name></persName> <w>ἀλλ’ἐπαινε῀<supplied reason="omitted">ν</supplied></w> <w>καὶ</w> <w>ἑϙόντα</w> <w>κἀέϙ
+                    <lb n="3" break="no"/>όντα</w> <w>καὶ</w> <w>φιλετἄν</w> <w>ἐπὶ</w> <w>φιλότατι</w> <w>τᾶι</w> <persName type="attested"><name>Εὐνίϙοˉ</name></persName> <w>ἀπογ<surplus>α</surplus>ράφοˉ</w> <w>τὸˉ
+                    <lb n="4" break="no"/>ς</w> <w>χορᾱγὸˉς</w> <w>πάντας</w> <w>ἐπ’</w> <w>ἀτελεία<supplied reason="omitted">ι</supplied></w> <w>κἐˉπέοˉν</w> <w>καὶ</w> <w>ἔργοˉν</w> <w>καὶ</w> <w>τ
+                    <lb n="5" break="no"/>ὸˉς</w> <w>παι῀δ<surplus>ι</surplus>ας</w> <w>ἀπὸ</w> <w>τένον</w> <w>καὶ</w> <w>τὸˉς</w> <w>πατέρας</w> <w>κἀπρακτίαι</w> <w>κἐˉν</w> <w>ἀγο῀
+                    <lb n="6" break="no"/>νι</w> <w>κἐχθὸς</w> <w>ἀγόˉνοˉν</w> <w>οἵτινες</w> <w>μὲ</w> <w>παρ’</w> <w>ἐμ’</w> <w>ἀπολείποιεν</w> <persName type="attested"><name>Καλεδίαν</name></persName> <w>
+                    <lb n="7" break="no"/><supplied reason="lost">ἀπογ</supplied><surplus>α</surplus>ράφοˉ</w> <w>ἀπ’</w> <persName type="attested"><name>Ἀπελλίος</name></persName> <w>καὶ</w> <w>τὸˉς<surplus>ς</surplus></w> <w>τεˉνε῀ι</w> <w>πάντας</w> <w>ἐπὶ</w> <w>μεσοτερ
+                    <lb n="8" break="no"/><supplied reason="lost">ο</supplied></w> <gap reason="lost" quantity="3" unit="character" precision="low"/> <w>ἐντάδα</w> <persName type="attested"><name>Σοˉσίαν</name></persName> <w>ἀπογράφοˉ</w> <w>ἀπὸ</w> <w>το῀</w> <w>καπεˉλείοˉ</w> <persName type="attested"><name>Ἀλκιδᾶν</name></persName> <w>ἐπὶ</w> <w>τᾶ
+                    <lb n="9" break="no"/><supplied reason="lost" cert="low">ι</supplied></w> <persName type="attested"><name><supplied reason="lost" cert="low">Μελ</supplied>ανθίοˉ</name></persName> <w>φιλότᾱτι</w> <persName type="attested"><name>Πυρία<supplied reason="omitted">μ</supplied></name></persName> <persName type="attested"><name>Μύσσκελον</name></persName> <persName type="attested"><name>Δᾱμόφαντον</name></persName> <w>καὶ</w> <w>τὸν</w>
+                    <lb n="10"/><w><supplied reason="omitted">χοραγ</supplied>ὸν</w> <w>ἀπογράφοˉ</w> <w>ἀπὸ</w> <w>το῀μ</w> <w>παίδοˉν</w> <w>καὶ</w> <w>το῀μ</w> <w>πατέροˉν</w> <w>καὶ</w> <w>τὸˉς</w> <w>ἄλλ
+                    <lb n="11" break="no"/><supplied reason="lost">ος</supplied></w> <w><supplied reason="lost">πά</supplied>ντας</w> <w>οἵτινες</w> <w>ἐντάδε</w> <w>ἀφικνοίατο</w> <w>μεˉδέν’</w> <persName type="attested"><name>Εὐνίκοˉ</name></persName> <w>σπευδαιό
+                    <lb n="12" break="no"/><supplied reason="lost">τερο</supplied>ν</w> <w>γενέσθαι,</w> <w>μέˉτ’</w> <w>ἄνδρεσι</w> <w>μέˉτε</w> <w>γυναικέσσι</w> <w>ὁς</w> <w>οὗτος</w> <w><supplied reason="omitted">ὁ</supplied></w> <w>βόλιμοˉς</w> <w>τὸˉς</w> <w>τε</w> <gap reason="illegible" quantity="1" unit="character"/> <w>
+                    <lb n="13" break="no"/><supplied reason="lost" cert="low">νον</supplied></w> <w><supplied reason="lost">επ</supplied><unclear>ο</unclear><supplied reason="omitted">ι</supplied>δ<surplus>ι</surplus><unclear>α</unclear><unclear>ὶ</unclear></w> <w>τιμὰν</w> <w>ἐρύσαιντο</w> <persName type="attested"><name>Εὐνίκοˉι</name></persName> <w>ἀὲ</w> <w>νίκᾶν</w> <w>παντε῀</w> <w>ἐμ</w> <w>βολύμο<unclear>ι</unclear></w> <w>ἐ<unclear>π</unclear>
+                    <lb n="14" break="no"/><supplied reason="lost">ὶ</supplied></w> <w><supplied reason="lost">φιλ</supplied>ότατι</w> <w>τᾶι</w> <persName type="attested"><name>Εὐνίκοˉ</name></persName> <w>γ<choice><reg>ρά</reg><orig>άρ</orig></choice>φοˉ</w>
                 </ab>
             </div>
             <div type="apparatus">

@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -185,11 +185,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#IG">
                 <ab>
-                    <lb n="1"/>Gaudiosus
-                    <lb n="2"/>in pace vixit
-                    <lb n="3"/>annos <num value="16"><foreign xml:lang="grc">χϛ</foreign></num> et me
-                    <lb n="4" break="no"/>ses <num value="3">tres</num> 
-               </ab>
+                    <lb n="1"/><w>Gaudiosus</w>
+                    <lb n="2"/><w>in</w> <w>pace</w> <w>vixit</w>
+                    <lb n="3"/><w>annos</w> <num value="16"><foreign xml:lang="grc">χϛ</foreign></num> <w>et</w> <w>me
+                    <lb n="4" break="no"/>ses</w> <num value="3">tres</num>
+                </ab>
                </div>
             <div type="apparatus">
                 <listApp><app><note>Text checked against photograph</note></app></listApp>

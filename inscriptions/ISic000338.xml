@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -196,12 +196,12 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#TNS #MH">
                 <ab>
-                    <lb n="1"/><expan><abbr>D</abbr><ex>is</ex></expan> <g ref="#interpunct">·</g> <expan><abbr>M</abbr><ex>anibus</ex></expan> <g ref="#interpunct">·</g> <expan><abbr>s</abbr><ex>acrum</ex></expan>
+                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <name><expan><abbr>M</abbr><ex>anibus</ex></expan></name> <g ref="#interpunct">·</g> <w><expan><abbr>s</abbr><ex>acrum</ex></expan></w>
                     <lb n="2"/><name><expan><abbr>M</abbr><ex>arco</ex></expan></name> <g ref="#interpunct">·</g> <name>Caepario</name>
-                    <lb n="3"/><name>Sotericho</name> <g ref="#interpunct">·</g> et
-                    <lb n="4"/>filiae <g ref="#interpunct">·</g> eius
+                    <lb n="3"/><name>Sotericho</name> <g ref="#interpunct">·</g> <w>et</w>
+                    <lb n="4"/><w>filiae</w> <g ref="#interpunct">·</g> <w>eius</w>
                     <lb n="5"/><name><expan><abbr>M</abbr><ex>arcus</ex></expan></name> <g ref="#interpunct">·</g> <name>Capillianus</name>
-                    <lb n="6"/>fecit
+                    <lb n="6"/><w>fecit</w>
                 </ab>
             </div>
             <div type="apparatus">

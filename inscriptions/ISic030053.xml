@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -172,18 +172,18 @@
    <text>
       <body>
          <div type="edition" xml:space="preserve" xml:lang="grc" resp="#RDS">
-         <ab>
-         <lb n="1"/><supplied reason="lost">Ἐπὶ</supplied> <supplied reason="lost"><desc>eponym in genitive case</desc></supplied> Ἡραίου ἕκ<supplied reason="lost">ται ἱστα</supplied>μένου συ<supplied reason="lost">ν</supplied>αλλακτήρων π<supplied reason="lost">ρ</supplied>οστάτας
-         <lb n="2"/>Δίνα<supplied reason="lost">ρχος</supplied> Κλεάνδρου Σω<supplied reason="lost">σί</supplied>στρατ<supplied reason="lost">ο</supplied>ς Θέωον<supplied reason="lost">ο</supplied>ς <expan><abbr>νή</abbr><ex>τα</ex></expan> <expan><abbr>πρ</abbr><ex>ῶτα</ex></expan> ἐπρίατο οἴκησιν καὶ
-         <lb n="3"/>τὰ<supplied reason="omitted">ν</supplied> καπη<supplied reason="lost">λ</supplied>είαν τὰν Δίων<supplied reason="lost">ος</supplied> πᾶσαν καὶ τὰ θυρώματα τοίχους κοινοὺς
-         <lb n="4"/>ποτὶ Φιλόξενον καὶ Θράσυλλ<supplied reason="omitted">ο</supplied>ν λαύρα<supplied reason="lost">ι</supplied> Περγάου καὶ Φ<supplied reason="lost">ε</supplied>ρσ<surplus>σσ</surplus>οφάσας
-         <lb n="5"/>πὰρ Δίωνος τοῦ Ἡρακλεί<add place="above"><unclear>δ</unclear></add>α <expan><abbr>τέ</abbr><ex>τρατα</ex></expan> <expan><abbr>πρ</abbr><ex>ῶτα</ex></expan> τετρώκοντα ταλάντων Ἄμποχοι 
-         <lb n="6"/>Ἀρίστων Ἐμμενίδα <expan><abbr>νή</abbr><ex>τα</ex></expan> <expan><abbr>πρ</abbr><ex>ῶτα</ex></expan> Φίλιππος Παυσανία <expan><abbr>νήτ</abbr><ex>α</ex></expan> πρῶτα
-         <lb n="7"/>Ἀρταμίδωρος Ἡρακλεί<supplied reason="lost">δ</supplied>α <expan><abbr>τέ</abbr><ex>ταρτα</ex></expan> <expan><abbr>πρ</abbr><ex>ῶτα</ex></expan> Παυσανίας Σωσικτράτεος <expan><abbr>νή</abbr><ex>τα</ex></expan> <expan><abbr>πρ</abbr><ex>ῶτα</ex></expan>
-            <lb n="8"/>Ἡράκλειος Νίκωνος <expan><abbr>τρ</abbr><ex>ίτα</ex></expan> <expan><abbr><supplied reason="lost">π</supplied>ρῶ</abbr><ex>τα</ex></expan> Σάννω<supplied reason="lost">ν</supplied> Ζωπύρου <expan><abbr>τέτρα</abbr><ex>τα</ex></expan> <expan><abbr>πρῶ</abbr><ex>τα</ex></expan>
-         <lb n="9"/>Σῖμος Γ<supplied reason="lost">ε</supplied>λώιου <expan><abbr>νή</abbr><ex>τα</ex></expan> <expan><abbr>πρ</abbr><ex>ῶτα</ex></expan> Μύων Εὐθυ<unclear>μ</unclear>ένεος <expan><abbr>ἑκτ</abbr><ex>α</ex></expan> <expan><abbr>πρῶτ</abbr><ex>α</ex></expan>
-         <lb n="10"/>Θεύδω<supplied reason="lost">ρ</supplied>ος Δάμονος <expan><abbr>ἑκ</abbr><ex>τα</ex></expan> <expan><abbr>πρ</abbr><ex>ῶτα</ex></expan> <add place="above">ΔΦ</add> Γέλων Καλλιστράτου <expan><abbr>ἑκτ</abbr><ex>α</ex></expan> <expan><abbr>πρῶ</abbr><ex>τα</ex></expan>
-         </ab>
+                <ab>
+                    <lb n="1"/><w><supplied reason="lost">Ἐπὶ</supplied></w> <w><supplied reason="lost"><desc>eponym in genitive case</desc></supplied></w> <name>Ἡραίου</name> <w>ἕκ<supplied reason="lost">ται ἱστα</supplied>μένου</w> <w>συ<supplied reason="lost">ν</supplied>αλλακτήρων</w> <w>π<supplied reason="lost">ρ</supplied>οστάτας</w>
+                    <lb n="2"/><name>Δίνα<supplied reason="lost">ρχος</supplied></name> <name>Κλεάνδρου</name> <name>Σω<supplied reason="lost">σί</supplied>στρατ<supplied reason="lost">ο</supplied>ς</name> <name>Θέωον<supplied reason="lost">ο</supplied>ς</name> <w><expan><abbr>νή</abbr><ex>τα</ex></expan></w> <w><expan><abbr>πρ</abbr><ex>ῶτα</ex></expan></w> <w>ἐπρίατο</w> <w>οἴκησιν</w> <w>καὶ</w>
+                    <lb n="3"/><w>τὰ<supplied reason="omitted">ν</supplied></w> <w>καπη<supplied reason="lost">λ</supplied>είαν</w> <w>τὰν</w> <name>Δίων<supplied reason="lost">ος</supplied></name> <w>πᾶσαν</w> <w>καὶ</w> <w>τὰ</w> <w>θυρώματα</w> <w>τοίχους</w> <w>κοινοὺς</w>
+                    <lb n="4"/><w>ποτὶ</w> <name>Φιλόξενον</name> <w>καὶ</w> <name>Θράσυλλ<supplied reason="omitted">ο</supplied>ν</name> <w>λαύρα<supplied reason="lost">ι</supplied></w> <name>Περγάου</name> <w>καὶ</w> <name>Φ<supplied reason="lost">ε</supplied>ρσ<surplus>σσ</surplus>οφάσας</name>
+                    <lb n="5"/><w>πὰρ</w> <name>Δίωνος</name> <w>τοῦ</w> <name>Ἡρακλεί</name> <add place="above"><w><unclear>δ</unclear></w></add>α<w><expan><abbr>τέ</abbr><ex>τρατα</ex></expan></w> <w><expan><abbr>πρ</abbr><ex>ῶτα</ex></expan></w> <w>τετρώκοντα</w> <w>ταλάντων</w> <name>Ἄμποχοι</name>
+                    <lb n="6"/><name>Ἀρίστων</name> <name>Ἐμμενίδα</name> <w><expan><abbr>νή</abbr><ex>τα</ex></expan></w> <w><expan><abbr>πρ</abbr><ex>ῶτα</ex></expan></w> <name>Φίλιππος</name> <name>Παυσανία</name> <w><expan><abbr>νήτ</abbr><ex>α</ex></expan></w> <w>πρῶτα</w>
+                    <lb n="7"/><name>Ἀρταμίδωρος</name> <name>Ἡρακλεί<supplied reason="lost">δ</supplied>α</name> <w><expan><abbr>τέ</abbr><ex>ταρτα</ex></expan></w> <w><expan><abbr>πρ</abbr><ex>ῶτα</ex></expan></w> <name>Παυσανίας</name> <name>Σωσικτράτεος</name> <w><expan><abbr>νή</abbr><ex>τα</ex></expan></w> <w><expan><abbr>πρ</abbr><ex>ῶτα</ex></expan></w>
+                    <lb n="8"/><name>Ἡράκλειος</name> <name>Νίκωνος</name> <w><expan><abbr>τρ</abbr><ex>ίτα</ex></expan></w> <w><expan><abbr><supplied reason="lost">π</supplied>ρῶ</abbr><ex>τα</ex></expan></w> <name>Σάννω<supplied reason="lost">ν</supplied></name> <name>Ζωπύρου</name> <w><expan><abbr>τέτρα</abbr><ex>τα</ex></expan></w> <w><expan><abbr>πρῶ</abbr><ex>τα</ex></expan></w>
+                    <lb n="9"/><name>Σῖμος</name> <name>Γ<supplied reason="lost">ε</supplied>λώιου</name> <w><expan><abbr>νή</abbr><ex>τα</ex></expan></w> <w><expan><abbr>πρ</abbr><ex>ῶτα</ex></expan></w> <name>Μύων</name> <name>Εὐθυ<unclear>μ</unclear>ένεος</name> <w><expan><abbr>ἑκτ</abbr><ex>α</ex></expan></w> <w><expan><abbr>πρῶτ</abbr><ex>α</ex></expan></w>
+                    <lb n="10"/><name>Θεύδω<supplied reason="lost">ρ</supplied>ος</name> <name>Δάμονος</name> <w><expan><abbr>ἑκ</abbr><ex>τα</ex></expan></w> <w><expan><abbr>πρ</abbr><ex>ῶτα</ex></expan></w> <add place="above"><w>ΔΦ</w></add><name>Γέλων</name> <name>Καλλιστράτου</name> <w><expan><abbr>ἑκτ</abbr><ex>α</ex></expan></w> <w><expan><abbr>πρῶ</abbr><ex>τα</ex></expan></w>
+                </ab>
          </div>
          <div type="apparatus" resp="#RDS">
            <listApp>

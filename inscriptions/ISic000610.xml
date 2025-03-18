@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -223,9 +223,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
-                    <lb n="1"/><supplied reason="lost"><expan><abbr>C</abbr><ex>aius</ex></expan></supplied> <supplied reason="lost">A</supplied>urelius
-                    <lb n="2"/><supplied reason="lost"><expan><abbr>L</abbr><ex>uci</ex></expan></supplied> <supplied reason="lost"><expan><abbr>f</abbr><ex>ilius</ex></expan></supplied> Cottas
-                    <lb n="3"/><roleName type="supracivic" subtype="consul"><supplied reason="lost">c</supplied>onsol</roleName> <g ref="#interpunct">·</g>
+                    <lb n="1"/><w><supplied reason="lost"><expan><abbr>C</abbr><ex>aius</ex></expan></supplied></w> <name><supplied reason="lost">A</supplied>urelius</name>
+                    <lb n="2"/><name><supplied reason="lost"><expan><abbr>L</abbr><ex>uci</ex></expan></supplied></name> <w><supplied reason="lost"><expan><abbr>f</abbr><ex>ilius</ex></expan></supplied></w> <name>Cottas</name>
+                    <lb n="3"/><roleName type="supracivic" subtype="consul"><w><supplied reason="lost">c</supplied></w> <w>onsol</w></roleName> <g ref="#interpunct">·</g>
                     <lb n="4"/><num value="57">ↆVII</num>
                 </ab>
             </div>

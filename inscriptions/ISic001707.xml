@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -176,12 +176,12 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#AP">
                 <ab>
                     <lb n="1"/><persName type="attested"><name>Γέμελλα</name>
-                    <lb n="2"/><name>Κορνηλία</name></persName> 
-                    <lb n="3"/>χρηστὰ καὶ ἄ
-                    <lb n="4" break="no"/>μ<hi rend="ligature">εν</hi>πτε
-                    <lb n="5"/><persName type="attested"><name>Ἐνκαρπί<choice><sic>ν</sic><corr>α</corr></choice></name></persName> χρη
-                    <lb n="6" break="no"/>στὰ καὶ <hi rend="ligature">ἄμ</hi>ενπ
-                    <lb n="7" break="no"/>τε χαῖρε
+                    <lb n="2"/><name>Κορνηλία</name></persName>
+                    <lb n="3"/><w>χρηστὰ</w> <w>καὶ</w> <w>ἄ
+                    <lb n="4" break="no"/>μ<hi rend="ligature">εν</hi>πτε</w>
+                    <lb n="5"/><persName type="attested"><name>Ἐνκαρπί<choice><sic>ν</sic><corr>α</corr></choice></name></persName> <w>χρη
+                    <lb n="6" break="no"/>στὰ</w> <w>καὶ</w> <w><hi rend="ligature">ἄμ</hi>ενπ
+                    <lb n="7" break="no"/>τε</w> <w>χαῖρε</w>
                 </ab>
             </div>
             <div type="apparatus">

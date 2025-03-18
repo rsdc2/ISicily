@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -192,12 +192,12 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM #JP">
                 <ab>
-                    <lb n="1"/>ἐνθάδε κεῖ
-                    <lb n="2" break="no"/>τε <persName type="attested"><name>Ἀγάθη</name></persName> τε
-                    <lb n="3" break="no"/>λετᾷ τ<choice><reg>ῇ</reg><orig>ι</orig></choice> <hi rend="ligature">πρὸ</hi> <g ref="#interpunct">·</g> δέ
-                    <lb n="4" break="no"/>κα <hi rend="ligature">με</hi>ιᾶς <choice><orig>κα
-                    <lb n="5" break="no"/>λαδῶν</orig><reg>καλανδῶν</reg></choice> <hi rend="diaeresis">Ἰ</hi>ε
-                    <lb n="6" break="no"/>ναρίων
+                    <lb n="1"/><w>ἐνθάδε</w> <w>κεῖ
+                    <lb n="2" break="no"/>τε</w> <persName type="attested"><name>Ἀγάθη</name></persName> <w>τε
+                    <lb n="3" break="no"/>λετᾷ</w> <w>τ<choice><reg>ῇ</reg><orig>ι</orig></choice></w> <w><hi rend="ligature">πρὸ</hi></w> <g ref="#interpunct">·</g> <w>δέ
+                    <lb n="4" break="no"/>κα</w> <w><hi rend="ligature">με</hi>ιᾶς</w> <w><choice><orig>κα
+                    <lb n="5" break="no"/>λαδῶν</orig><reg>καλανδῶν</reg></choice></w> <name><hi rend="diaeresis">Ἰ</hi>ε
+                    <lb n="6" break="no"/>ναρίων</name>
                     <lb n="7"/><g ref="#staurogram">𐆠</g>
                 </ab>
             </div>

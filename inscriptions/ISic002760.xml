@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -192,55 +192,55 @@
                 <ab>
                     <lb n="1"/>
                     <supplied reason="lost">᾿Εν</supplied>
-                    <supplied reason="undefined" evidence="previouseditor">ὀ</supplied>νό<supplied reason="undefined" evidence="previouseditor">
+                     <supplied reason="undefined" evidence="previouseditor">ὀ</supplied>νό <supplied reason="undefined" evidence="previouseditor">
                     ματ</supplied>̲
-                    <supplied reason="undefined" evidence="previouseditor">ι</supplied>
-                    <supplied reason="undefined" evidence="previouseditor">Κ</supplied>(υρίο)
-                    <supplied reason="undefined" evidence="previouseditor">υ</supplied>
-                    <supplied reason="undefined" evidence="previouseditor">πρὸς</supplied>
-                    <supplied reason="undefined" evidence="previouseditor">ἀ</supplied>μπελ
-                    <supplied reason="lost">ναν</supplied>
-                    <expan>
+                     <supplied reason="undefined" evidence="previouseditor">ι</supplied>
+                     <supplied reason="undefined" evidence="previouseditor">Κ</supplied>(υρίο)
+                     <supplied reason="undefined" evidence="previouseditor">υ</supplied>
+                     <supplied reason="undefined" evidence="previouseditor">πρὸς</supplied>
+                     <supplied reason="undefined" evidence="previouseditor">ἀ</supplied>μπελ
+                     <supplied reason="lost">ναν</supplied>
+                     <expan>
                         <ex>ἀμπελῶνα</ex>
                     </expan>
-                    ΟΤΡΙΑΑΡΕ Ἀβιμ<supplied reason="undefined" evidence="previouseditor">ήλ</supplied>, <supplied reason="undefined" evidence="previouseditor">Λασ</supplied>φ<supplied reason="undefined" evidence="previouseditor">
-                    έν</supplied>, <supplied reason="undefined" evidence="previouseditor">Ἀμιήλ</supplied>, <supplied reason="undefined" evidence="previouseditor">Ἐλοέλ</supplied>, ᾿
-                    <supplied reason="undefined" evidence="previouseditor">Ε</supplied>
-                    <lb n="2" break="no"/>
+                    ΟΤΡΙΑΑΡΕ Ἀβιμ<supplied reason="undefined" evidence="previouseditor">ήλ</supplied>,  <supplied reason="undefined" evidence="previouseditor">Λασ</supplied>φ <supplied reason="undefined" evidence="previouseditor">
+                    έν</supplied>,  <supplied reason="undefined" evidence="previouseditor">Ἀμιήλ</supplied>,  <supplied reason="undefined" evidence="previouseditor">Ἐλοέλ</supplied>, ᾿
+                     <supplied reason="undefined" evidence="previouseditor">Ε</supplied>
+                     <lb n="2" break="no"/>
                     <supplied reason="undefined" evidence="previouseditor">άο</supplied>
-                    <gap reason="illegible" quantity="1" unit="character"/>
-                    <supplied reason="undefined" evidence="previouseditor">Ἀζαήρ</supplied>,
-                    <supplied reason="undefined" evidence="previouseditor">Κορφφλιή</supplied>
-                    <hi rend="ligature">̲̂λ</hi>̲, Φαχθοβάρ,<gap reason="illegible" quantity="2" unit="character"/>ΑΧ
-                    Ἀδο<hi rend="ligature">ν̂α̂ή</hi>λ Ε
+                     <gap reason="illegible" quantity="1" unit="character"/>
+                     <supplied reason="undefined" evidence="previouseditor">Ἀζαήρ</supplied>,
+                     <supplied reason="undefined" evidence="previouseditor">Κορφφλιή</supplied>
+                     <hi rend="ligature">̲̂λ</hi>̲, Φαχθοβάρ,<gap reason="illegible" quantity="2" unit="character"/>ΑΧ
+                    Ἀδο <hi rend="ligature">ν̂α̂ή</hi>λ Ε
                     <unclear>Ο</unclear>
-                    <supplied reason="undefined" evidence="previouseditor">ΕΧΕΡΜΑΡΘ</supplied>
-                    <supplied reason="undefined" evidence="previouseditor">Ἀβράξ</supplied>
-                    <supplied reason="undefined" evidence="previouseditor">ΙΑΦΕΝ</supplied>
-                    <lb n="3"/>
+                     <supplied reason="undefined" evidence="previouseditor">ΕΧΕΡΜΑΡΘ</supplied>
+                     <supplied reason="undefined" evidence="previouseditor">Ἀβράξ</supplied>
+                     <supplied reason="undefined" evidence="previouseditor">ΙΑΦΕΝ</supplied>
+                     <lb n="3"/>
                     <gap reason="lost" extent="unknown" unit="character"/>
-                    <supplied reason="undefined" evidence="previouseditor">ΑΧΑΕΛ</supplied>Μ<hi rend="ligature">̲̂Ε</hi>̲<supplied reason="undefined" evidence="previouseditor">ΡΜΟΡ</supplied>Μ<supplied reason="undefined" evidence="previouseditor">
+                     <supplied reason="undefined" evidence="previouseditor">ΑΧΑΕΛ</supplied>Μ <hi rend="ligature">̲̂Ε</hi>̲<supplied reason="undefined" evidence="previouseditor">ΡΜΟΡ</supplied>Μ <supplied reason="undefined" evidence="previouseditor">
                     Ο</supplied>ΡΚΑΘΑΛΟΚ
-                    <supplied reason="undefined" evidence="previouseditor">ΘΑ</supplied>
-                    <gap reason="illegible" quantity="3" unit="character"/>ΟΔ
-                    <gap reason="illegible" quantity="2" unit="character"/>
-                    <supplied reason="undefined" evidence="previouseditor">Α</supplied>Μ<hi rend="ligature">
-                    ̲̂Ε</hi>̲<supplied reason="undefined" evidence="previouseditor">ΛΜΟΥΚΗΠΡΟΣ</supplied>Α<hi rend="ligature">̲̂Η</hi>̲
+                     <supplied reason="undefined" evidence="previouseditor">ΘΑ</supplied>
+                     <gap reason="illegible" quantity="3" unit="character"/>ΟΔ
+                     <gap reason="illegible" quantity="2" unit="character"/>
+                     <supplied reason="undefined" evidence="previouseditor">Α</supplied>Μ <hi rend="ligature">
+                    ̲̂Ε</hi>̲<supplied reason="undefined" evidence="previouseditor">ΛΜΟΥΚΗΠΡΟΣ</supplied>Α <hi rend="ligature">̲̂Η</hi>̲
                     <supplied reason="undefined" evidence="previouseditor">ΝΟΣ</supplied>
-                    <lb n="4"/>
+                     <lb n="4"/>
                     <gap reason="lost" extent="unknown" unit="character"/>
-                    <supplied reason="undefined" evidence="previouseditor">Ἐραή</supplied>λ,̲ <supplied reason="undefined" evidence="previouseditor">ἀμήν</supplied>, Β Ἐρ<hi rend="ligature">α̂ὴ</hi>λ
+                     <supplied reason="undefined" evidence="previouseditor">Ἐραή</supplied>λ,̲  <supplied reason="undefined" evidence="previouseditor">ἀμήν</supplied>, Β Ἐρ <hi rend="ligature">α̂ὴ</hi>λ
                     ΘΥΛΑΤ<unclear>ΑΑΣ</unclear>Ε
-                    <gap reason="illegible" quantity="2" unit="character"/>
-                    <supplied reason="undefined" evidence="previouseditor">ΤΗΤΟ</supplied>
-                    <gap reason="illegible" quantity="1" unit="character"/>
-                    <supplied reason="undefined" evidence="previouseditor">Φ</supplied>
-                    <supplied reason="undefined" evidence="previouseditor">Ἰ</supplied>(ησο)
-                    <supplied reason="undefined" evidence="previouseditor">ῦ</supplied>
-                    <supplied reason="undefined" evidence="previouseditor">Χρ</supplied>(ιστ)<supplied reason="undefined" evidence="previouseditor">έ</supplied>,
-                    <supplied reason="undefined" evidence="previouseditor">ὁ</supplied>
-                    <supplied reason="undefined" evidence="previouseditor">πλοι</supplied>
-                    <lb n="5" break="no"/>
+                     <gap reason="illegible" quantity="2" unit="character"/>
+                     <supplied reason="undefined" evidence="previouseditor">ΤΗΤΟ</supplied>
+                     <gap reason="illegible" quantity="1" unit="character"/>
+                     <supplied reason="undefined" evidence="previouseditor">Φ</supplied>
+                     <supplied reason="undefined" evidence="previouseditor">Ἰ</supplied>(ησο)
+                     <supplied reason="undefined" evidence="previouseditor">ῦ</supplied>
+                     <supplied reason="undefined" evidence="previouseditor">Χρ</supplied>(ιστ) <supplied reason="undefined" evidence="previouseditor">έ</supplied>,
+                     <supplied reason="undefined" evidence="previouseditor">ὁ</supplied>
+                     <supplied reason="undefined" evidence="previouseditor">πλοι</supplied>
+                     <lb n="5" break="no"/>
                     <supplied reason="lost">
                         <choice>
                             <sic>θύνας</sic>
@@ -252,33 +252,33 @@
                             <corr>εἰς</corr>
                         </choice>
                     </supplied>
-                    <choice>
+                     <choice>
                         <sic>
                             <supplied reason="undefined" evidence="previouseditor">τὶν</supplied>
                         </sic>
                         <corr>τὴν</corr>
                     </choice>
                     <supplied reason="undefined" evidence="previouseditor">θαλάσση</supplied>
-                    <supplied reason="lost">ν</supplied>,
-                    <choice>
+                     <supplied reason="lost">ν</supplied>,
+                     <choice>
                         <sic>πλοίθυνον</sic>
                         <corr>πλήθυνον</corr>
                     </choice>
                     καὶ <supplied reason="undefined" evidence="previouseditor">τὸν</supplied> ἄ
-                    <supplied reason="undefined" evidence="previouseditor">μπ</supplied>
-                    <supplied reason="lost">ελον</supplied>
-                    <choice>
+                     <supplied reason="undefined" evidence="previouseditor">μπ</supplied>
+                     <supplied reason="lost">ελον</supplied>
+                     <choice>
                         <sic>
                             <supplied reason="undefined" evidence="previouseditor">ἰς</supplied>
                         </sic>
                         <corr>εἰς</corr>
                     </choice>
                     <supplied reason="undefined" evidence="previouseditor">τ</supplied>
-                    <supplied reason="lost">ὸν ἀμπε</supplied>
-                    <supplied reason="undefined" evidence="previouseditor">λ</supplied>̲
-                    <supplied reason="undefined" evidence="previouseditor">ν</supplied>
-                    <supplied reason="lost">α</supplied>
-                    <choice>
+                     <supplied reason="lost">ὸν ἀμπε</supplied>
+                     <supplied reason="undefined" evidence="previouseditor">λ</supplied>̲
+                     <supplied reason="undefined" evidence="previouseditor">ν</supplied>
+                     <supplied reason="lost">α</supplied>
+                     <choice>
                         <sic>
                             <supplied reason="undefined" evidence="previouseditor">ν</supplied>
                         </sic>
@@ -286,51 +286,25 @@
                     </choice>
                     <lb n="6"/>
                     <supplied reason="undefined" evidence="previouseditor">ΟΛΜΕΤΡ</supplied>
-                    <lb n="7"/>
+                     <lb n="7"/>
                     <g ref="#sign_uninterpreted"/> 
-                    <lb n="8"/>
+                     <lb n="8"/>
                     <g ref="#sign_uninterpreted"/>
                 </ab>
                 <!--This EDR text 112490 originally came via the Europeana EAGLE project, http://www.eagle-network.eu/-->
             </div>
             <div type="edition" xml:space="preserve" subtype="PHI" n="PHI316301">
                 <ab>
-                    <lb n="1"/>
-                    <supplied reason="lost">ἐν</supplied>
-                    ὀνόματι
-                    <expan>
-                        <abbr>Κ</abbr>
-                        <ex>ρίο</ex>
-                        <abbr>υ</abbr>
-                    </expan>
-                    πρὸς ἀμπελο͂ν<supplied reason="lost">αν</supplied> ΟΤΡΙΑΑΡΕ Ἀβιμήλ, Λασφέν, Ἀμιήλ, Ἐλοέλ, Ἐ-<lb n="2"/>άο, Ἀζαήρ, Κορφλιήλ, Φαχθοβάρ, <supplied reason="lost">— — —</supplied>ΑΧ, Ἀδοναήλ,
-                    Ε<unclear>Ο</unclear>ΕΧΕΡΜΑΡΘ Ἀβράξ ΙΑΦΕΝ
-                    <lb n="3"/>
-                    <supplied reason="lost">— — —</supplied>ΑΧΑΕΛΜΕΡΜΟΡΜΟΡΚΑΘΑΛΟΚ ΘΑ<supplied reason="lost">— —
-                    —</supplied>ΟΔ ΑΜΕΛΜΟΥΚΗΠΡΟϹΑΗΝΟϹ
-                    <lb n="4"/>
-                    <supplied reason="lost">— — —</supplied>
-                    Ἐραήλ, ἀμήν, Β Ἐραήλ ΘΥΛΑΤ<unclear>ΑΑϹ</unclear>Ε<supplied reason="lost">— —</supplied>ΤΗΤΟ Φ
-                    <expan>
-                        <abbr>Ἰ</abbr>
-                        <ex>ησο</ex>
-                        <abbr>ῦ</abbr>
-                    </expan>
-                    <expan>
-                        <abbr>Χρ</abbr>
-                        <ex>ιστ</ex>
-                        <abbr>έ</abbr>
-                    </expan>
-                    , ὁ πλοι-
-                    <lb n="5"/>
-                    <supplied reason="lost">θύνας — — — ἰς</supplied>
-                    τὶν θαλάσση<supplied reason="lost">ν</supplied>, πλοίθυνον καὶ τὸν ἄμπ<supplied reason="lost">ελον
-                </supplied> ἰς τ<supplied reason="lost">ὸν ἀμπε</supplied>λο͂ν<supplied reason="lost">α</supplied>ν<lb n="6"/>
-                    
-                    ΟΛΜΕΤΡ<lb n="7"/>
-                    <surplus>²signa magica</surplus>² <surplus>²duae palmae</surplus>² <surplus>²signa
-                    magica</surplus>²<lb n="8"/>
-                    <surplus>²signa magica</surplus>² 𐆠 𐆠 𐆠 𐆠 α𐆠ω 𐆠 𐆠 𐆠
+                    <lb n="1"/><w><supplied reason="lost">ἐν</supplied></w> <w>ὀνόματι</w> <name><expan><abbr>Κ</abbr><ex>ρίο</ex><abbr>υ</abbr></expan></name> <w>πρὸς</w> <w>ἀμπελο͂ν<supplied reason="lost">αν</supplied></w> <w>ΟΤΡΙΑΑΡΕ</w> <name>Ἀβιμήλ,</name> <name>Λασφέν,</name> <name>Ἀμιήλ,</name> <name>Ἐλοέλ,</name> <name>Ἐ-</name>
+                    <lb n="2"/><w>άο,</w> <name>Ἀζαήρ,</name> <name>Κορφλιήλ,</name> <name>Φαχθοβάρ,</name> <w><supplied reason="lost">— — —</supplied>ΑΧ,</w> <name>Ἀδοναήλ,</name> <w>Ε<unclear>Ο</unclear>ΕΧΕΡΜΑΡΘ</w> <name>Ἀβράξ</name> <w>ΙΑΦΕΝ</w>
+                    <lb n="3"/><w><supplied reason="lost">— — —</supplied>ΑΧΑΕΛΜΕΡΜΟΡΜΟΡΚΑΘΑΛΟΚ</w> <w>ΘΑ<supplied reason="lost">— —
+                    —</supplied>ΟΔ</w> <w>ΑΜΕΛΜΟΥΚΗΠΡΟϹΑΗΝΟϹ</w>
+                    <lb n="4"/><name><supplied reason="lost">— — —</supplied></name> <name>Ἐραήλ,</name> <w>ἀμήν,</w> <name>Β</name> <name>Ἐραήλ</name> <w>ΘΥΛΑΤ<unclear>ΑΑϹ</unclear>Ε<supplied reason="lost">— —</supplied>ΤΗΤΟ</w> <name>Φ</name> <name><expan><abbr>Ἰ</abbr><ex>ησο</ex><abbr>ῦ</abbr></expan></name> <name><expan><abbr>Χρ</abbr><ex>ιστ</ex><abbr>έ</abbr></expan></name> <name>,</name> <w>ὁ</w> <w>πλοι-</w>
+                    <lb n="5"/><w><supplied reason="lost">θύνας — — — ἰς</supplied></w> <w>τὶν</w> <w>θαλάσση<supplied reason="lost">ν</supplied>,</w> <w>πλοίθυνον</w> <w>καὶ</w> <w>τὸν</w> <w>ἄμπ<supplied reason="lost">ελον</supplied></w> <w>ἰς</w> <w>τ<supplied reason="lost">ὸν ἀμπε</supplied>λο͂ν<supplied reason="lost">α</supplied>ν</w>
+                    <lb n="6"/><w>ΟΛΜΕΤΡ</w>
+                    <lb n="7"/><name><surplus>²signa magica</surplus>²</name> <name><surplus>²duae palmae</surplus>²</name> <name><surplus>²signa
+                    magica</surplus>²</name>
+                    <lb n="8"/><name><surplus>²signa magica</surplus>²</name> <name>𐆠</name> <name>𐆠</name> <name>𐆠</name> <name>𐆠</name> <w>α𐆠ω</w> <name>𐆠</name> <name>𐆠</name> <name>𐆠</name>
                     <lb n="9"/>
                 </ab>
             </div>
@@ -338,32 +312,32 @@
                 <ab>
                     <lb n="1"/>
                     <supplied reason="lost">ἐ</supplied>
-                    <unclear>ν</unclear>
+                     <unclear>ν</unclear>
                     ὀν
-                    <unclear>όματ</unclear>
-                    <supplied reason="lost">ι Κ(υρίο)υ πρὸς</supplied>
-                    <unclear>ἄμπε</unclear>λο<supplied reason="lost">ν</supplied> #⁷ΤΟΙΑΑΡΕΑΒΙ#⁷
+                     <unclear>όματ</unclear>
+                     <supplied reason="lost">ι Κ(υρίο)υ πρὸς</supplied>
+                     <unclear>ἄμπε</unclear>λο <supplied reason="lost">ν</supplied> #⁷ΤΟΙΑΑΡΕΑΒΙ#⁷
+                     <supplied reason="lost">— — —</supplied>
+                     <lb n="2"/>
                     <supplied reason="lost">— — —</supplied>
-                    <lb n="2"/>
+                     <unclear>Φ</unclear>ΑΧΘΟΒΑΡΚ․ΧΑΔΟ <unclear>Ρ</unclear>ΑΙΛΕ
+                     <supplied reason="lost">— — — — — — — — —</supplied>
+                     <lb n="3"/>
+                    <supplied reason="lost">— — —</supplied>Ι․ <unclear>Ο</unclear>Ρ#⁷ΑΘΑΛ
+                     <unclear>Ο</unclear>
+                     <unclear>Α</unclear>․#⁷ <unclear>Ο</unclear>Δ
+                     <supplied reason="lost">— — — — — — — —</supplied>
+                     <lb n="4"/>
                     <supplied reason="lost">— — —</supplied>
-                    <unclear>Φ</unclear>ΑΧΘΟΒΑΡΚ․ΧΑΔΟ<unclear>Ρ</unclear>ΑΙΛΕ
-                    <supplied reason="lost">— — — — — — — — —</supplied>
-                    <lb n="3"/>
-                    <supplied reason="lost">— — —</supplied>Ι․<unclear>Ο</unclear>Ρ#⁷ΑΘΑΛ
-                    <unclear>Ο</unclear>
-                    <unclear>Α</unclear>․#⁷<unclear>Ο</unclear>Δ
-                    <supplied reason="lost">— — — — — — — —</supplied>
-                    <lb n="4"/>
-                    <supplied reason="lost">— — —</supplied>
-                    <unclear>Ο</unclear>ΕΡΑΙΛΘΥΝϹ․․․
-                    <unclear>Ε</unclear>
+                     <unclear>Ο</unclear>ΕΡΑΙΛΘΥΝϹ․․․
+                     <unclear>Ε</unclear>
                     
-                    <supplied reason="lost">— — — — — — — —</supplied>
-                    <lb n="5"/>
+                     <supplied reason="lost">— — — — — — — —</supplied>
+                     <lb n="5"/>
                     <supplied reason="lost">— — —</supplied>
-                    <unclear>Η</unclear>․ΤΛΟΙΘΥΝΟΝ#⁷Α<unclear>ΝΟ</unclear>․ΑΙ
-                    <supplied reason="lost">— — — — — —</supplied>
-                    <lb n="6"/>
+                     <unclear>Η</unclear>․ΤΛΟΙΘΥΝΟΝ#⁷Α <unclear>ΝΟ</unclear>․ΑΙ
+                     <supplied reason="lost">— — — — — —</supplied>
+                     <lb n="6"/>
                     <surplus>²rhombus</surplus>² <surplus>²palmae</surplus>²<lb n="7"/>
                     <surplus>²rhombus</surplus>² 𐆠 𐆠 𐆠 𐆠
                     

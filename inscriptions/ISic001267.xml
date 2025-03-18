@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -195,7 +195,7 @@
                     <lb n="3"/><w>δούλη</w> <persName type="divine"><name><expan><abbr><hi rend="supraline">Χ</hi></abbr><ex>ριστοῦ</ex></expan></name></persName> <supplied reason="lost"><w>ἀγαθή</w></supplied>
                     <lb n="4"/><w>ζήσασα</w> <supplied reason="lost"><w>ἔτη</w></supplied> <gap reason="lost" extent="unknown" unit="character"><desc>numeral</desc></gap> <supplied reason="lost"><w>τὸν</w></supplied>
                     <lb n="5"/><w>βίον</w> <w>ἀνε<supplied reason="lost">παύσατο</supplied></w> <w><supplied reason="lost">νώ</supplied>
-                    <lb n="6" break="no"/>ναις</w> <rs type="month"><w>Σεπ<supplied reason="lost">τεμβρίαις</supplied></w></rs>
+                    <lb n="6" break="no"/>ναις</w> <rs type="month"><name>Σεπ<supplied reason="lost">τεμβρίαις</supplied></name></rs>
                 </ab>
             </div>
             <div type="apparatus">

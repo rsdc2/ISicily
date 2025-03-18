@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -211,8 +211,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#TA #JP">
                 <ab>
-                    <lb n="1" xml:id="AOKAK"/><persName xml:id="AOKAP"><name xml:id="AOKAU">Caninia</name> 
-                    <lb n="2" xml:id="AOKAe"/><name xml:id="AOKAo">Epit<hi rend="tall" xml:id="AOKAy">y</hi><hi rend="ligature" xml:id="AOKAΙ">ch</hi>ia</name></persName> 
+                    <lb n="1" xml:id="AOKAK"/><persName xml:id="AOKAP"><name xml:id="AOKAU">Caninia</name>
+                    <lb n="2" xml:id="AOKAe"/><name xml:id="AOKAo">Epit<hi rend="tall" xml:id="AOKAy">y</hi><hi rend="ligature" xml:id="AOKAΙ">ch</hi>ia</name></persName>
                     <lb n="3" xml:id="AOKAΤ"/><w xml:id="AOKAε"><expan xml:id="AOKAο"><abbr xml:id="AOKBA">v</abbr><ex xml:id="AOKBK">ixit</ex></expan></w> <g ref="#interpunct" xml:id="AOKBU">·</g> <w xml:id="AOKBe"><expan xml:id="AOKBo"><abbr xml:id="AOKBy">a</abbr><ex xml:id="AOKBΙ">nnis</ex></expan></w> <g ref="#interpunct" xml:id="AOKBΤ">·</g> <num value="18" xml:id="AOKBε">XVIII</num> <g ref="#interpunct" xml:id="AOKBο">·</g> <w xml:id="AOKCA"><expan xml:id="AOKCK"><abbr xml:id="AOKCU">d</abbr><ex xml:id="AOKCe">iebus</ex></expan></w> <g ref="#interpunct" xml:id="AOKCo">·</g> <num value="13" xml:id="AOKCy">XIII</num> <g ref="#interpunct" xml:id="AOKCΙ">·</g>
                 </ab>
             </div>

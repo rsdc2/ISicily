@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -191,14 +191,14 @@
     <text>
         <body>
                 <div type="edition" xml:space="preserve" xml:lang="la">
-                    <ab>
-                        <lb n="1"/><supplied reason="undefined" evidence="previouseditor"><expan><abbr>D</abbr><ex>is</ex></expan></supplied> <g ref="#interpunct">·</g><expan><abbr>M</abbr><ex>anibus</ex></expan>
-                        <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/>aeli <g ref="#interpunct">·</g> Eutychionis 
-                        <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/>ius <g ref="#interpunct">·</g> Aelius <g ref="#interpunct">·</g> Eutychio  <g ref="#interpunct">·</g> et 
-                        <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/>Aelia Gemella <g ref="#interpunct">·</g> parentes 
-                        <lb n="5"/><supplied reason="lost">filio</supplied> <supplied reason="lost">d</supplied>ulcissimo <g ref="#interpunct">·</g> fecerunt <g ref="#interpunct">·</g> qui 
-                        <lb n="6"/><supplied reason="lost"><expan><abbr>vix</abbr><ex>it</ex></expan></supplied> <expan><abbr><supplied reason="lost">an</supplied>n</abbr><ex>is</ex></expan> <g ref="#interpunct">·</g> VIII <g ref="#interpunct">·</g> <expan><abbr>mens</abbr><ex>ibus</ex></expan> <g ref="#interpunct">·</g>  IIII <g ref="#interpunct">·</g> <expan><abbr>dieb</abbr><ex>us</ex></expan>  <g ref="#interpunct">·</g> XXVII
-                    </ab>
+                <ab>
+                    <lb n="1"/><w><supplied reason="undefined" evidence="previouseditor"><expan><abbr>D</abbr><ex>is</ex></expan></supplied></w> <w><g ref="#interpunct">·</g><expan><abbr>M</abbr><ex>anibus</ex></expan></w>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w>aeli</w> <g ref="#interpunct">·</g> <name>Eutychionis</name>
+                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <w>ius</w> <g ref="#interpunct">·</g> <name>Aelius</name> <g ref="#interpunct">·</g> <name>Eutychio</name> <g ref="#interpunct">·</g> <w>et</w>
+                    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <name>Aelia</name> <name>Gemella</name> <g ref="#interpunct">·</g> <w>parentes</w>
+                    <lb n="5"/><w><supplied reason="lost">filio</supplied></w> <w><supplied reason="lost">d</supplied>ulcissimo</w> <g ref="#interpunct">·</g> <w>fecerunt</w> <g ref="#interpunct">·</g> <w>qui</w>
+                    <lb n="6"/><w><supplied reason="lost"><expan><abbr>vix</abbr><ex>it</ex></expan></supplied></w> <w><expan><abbr><supplied reason="lost">an</supplied>n</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <w>VIII</w> <g ref="#interpunct">·</g> <w><expan><abbr>mens</abbr><ex>ibus</ex></expan></w> <g ref="#interpunct">·</g> <w>IIII</w> <g ref="#interpunct">·</g> <w><expan><abbr>dieb</abbr><ex>us</ex></expan></w> <g ref="#interpunct">·</g> <w>XXVII</w>
+                </ab>
                 </div>
                 <div type="apparatus">
                     <listApp>

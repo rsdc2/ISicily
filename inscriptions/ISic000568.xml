@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -194,11 +194,11 @@
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
                     <lb n="1"/><name><expan><abbr>M</abbr><ex>arcus</ex></expan></name> <g ref="#interpunct">·</g> <name><choice><orig>Siciribonius</orig><reg>Scribonius</reg></choice></name>
-                    <lb n="2"/><name><expan><abbr>M</abbr><ex>arci</ex></expan></name> <g ref="#interpunct">·</g> <expan><abbr>l</abbr><ex>ibertus</ex></expan>
+                    <lb n="2"/><name><expan><abbr>M</abbr><ex>arci</ex></expan></name> <g ref="#interpunct">·</g> <w><expan><abbr>l</abbr><ex>ibertus</ex></expan></w>
                     <lb n="3"/><name>Stymphalus</name>
                     <lb n="3a"/><space quantity="1" unit="line"/>
                     <lb n="5"/><name>Caecilia</name>
-                    <lb n="6"/><name>Attica</name> <expan><abbr>f</abbr><ex>ecerunt</ex></expan> <!-- the F appears to be across two lines (both 5 and 6). Can we encode? -->
+                    <lb n="6"/><name>Attica</name> <w><expan><abbr>f</abbr><ex>ecerunt</ex></expan></w> <!-- the F appears to be across two lines (both 5 and 6). Can we encode? -->
                 </ab>
             </div>
             <div type="apparatus">

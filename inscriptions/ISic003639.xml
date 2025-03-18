@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -192,13 +192,13 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
-                    <lb n="1"/> <g type="#moon_crescent"/>
-                    <lb n="2"/> <g ref="#ivy_leaf">❦</g> <expan><abbr>D</abbr><ex>is</ex></expan> <expan><abbr>M</abbr><ex>anibus</ex></expan> <g ref="#ivy-leaf">❦</g>
+                    <lb n="1"/><g type="#moon_crescent"/>
+                    <lb n="2"/><g ref="#ivy_leaf">❦</g> <w><expan><abbr>D</abbr><ex>is</ex></expan></w> <name><expan><abbr>M</abbr><ex>anibus</ex></expan></name> <g ref="#ivy-leaf">❦</g>
                     <lb n="3"/><name>Elvius Titus</name> <g ref="#interpunct">·</g>
-                    <lb n="4"/>vixit annos <g ref="#interpunct">·</g>
-                    <lb n="5"/><num value="55">LV</num> <g ref="#interpunct">·</g> <roleName type="civic" subtype="civis">cives</roleName> be
-                    <lb n="6" break="no"/>ne merenti
-                    <lb n="7"/>fecerunt <g ref="#ivy_leaf">❦</g>
+                    <lb n="4"/><w>vixit</w> <w>annos</w> <g ref="#interpunct">·</g>
+                    <lb n="5"/><num value="55">LV</num> <g ref="#interpunct">·</g> <roleName type="civic" subtype="civis"><w>cives</w></roleName> <w>be
+                    <lb n="6" break="no"/>ne</w> <w>merenti</w>
+                    <lb n="7"/><w>fecerunt</w> <g ref="#ivy_leaf">❦</g>
                 </ab>
             </div>
             <div type="apparatus">

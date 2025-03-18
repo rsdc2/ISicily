@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -172,20 +172,20 @@
    <text>
       <body>
          <div type="edition" xml:space="preserve" xml:lang="grc" resp="#RDS">
-         <ab>
-         <lb n="1"/>Ἐπὶ Ἀρκα<unclear>γ</unclear>άθ<supplied reason="omitted">ο</supplied>υ Γελωίου ἕκται ἐπ<supplied reason="lost">ὶ</supplied> δέκα <gap reason="lost" quantity="1" unit="character"/>ων<gap reason="lost" atLeast="1" atMost="5" unit="character"/>
-         <lb n="2"/>νος <expan><abbr>πέμ</abbr><ex>πτα</ex></expan> <expan><abbr>πρῶ</abbr><ex>τα</ex></expan> ἐπρίατο τὸγ γύαν τὸν ἐμ<gap reason="lost" atLeast="1" atMost="5" unit="character"/>
-         <lb n="3"/>τύαις δίσχοινον τὸ εὖρος τὸ δὲ μᾶκος ἀπ<supplied reason="lost">ὸ</supplied> το<supplied reason="lost">ῦ</supplied>
-         <lb n="4"/>ῥόου τοῦ Κογχοκραναίου ἕστε πὸτ τὰς ῥάπα<supplied reason="lost">ς</supplied>
-         <lb n="5"/>κυλλὰς πὰρ Ἀθάνιος τοῦ Βασία ἑνὸς ἴκατι
-         <lb n="6"/>ταλάντων Ἄμποχοι Θευδόσιος Θευδώρου ἕκτα
-         <lb n="7"/>Θεότιμος Λαμίσκου Ἀμείνων Δαματρίου
-         <lb n="8"/>Νυμφόδωρος Δάμωνος Θεόδωρος Ἀριστο
-         <lb n="9" break="no"/>γένεος Ἀρταμίδωρος Θεοδοσίου
-         <lb n="10"/>Μύσκων Ἄνδρωνος Πρόδοξος Σωσ<supplied reason="lost">ία</supplied>
-         <lb n="11"/><space quantity="5" unit="character"/><unclear>Ἀ</unclear>ἴνησι<supplied reason="lost">ς Θ</supplied>άλλου Ὄρθων
-         <lb n="12"/><space unit="character" extent="unknown"/>λλου
-         </ab>
+                <ab>
+                    <lb n="1"/><w>Ἐπὶ</w> <name>Ἀρκα<unclear>γ</unclear>άθ<supplied reason="omitted">ο</supplied>υ</name> <name>Γελωίου</name> <w>ἕκται</w> <w>ἐπ<supplied reason="lost">ὶ</supplied></w> <w>δέκα</w> <gap reason="lost" quantity="1" unit="character"/> <w>ων</w> <gap reason="lost" atLeast="1" atMost="5" unit="character"/>
+                    <lb n="2"/><w>νος</w> <w><expan><abbr>πέμ</abbr><ex>πτα</ex></expan></w> <w><expan><abbr>πρῶ</abbr><ex>τα</ex></expan></w> <w>ἐπρίατο</w> <w>τὸγ</w> <w>γύαν</w> <w>τὸν</w> <w>ἐμ</w> <gap reason="lost" atLeast="1" atMost="5" unit="character"/>
+                    <lb n="3"/><w>τύαις</w> <w>δίσχοινον</w> <w>τὸ</w> <w>εὖρος</w> <w>τὸ</w> <w>δὲ</w> <w>μᾶκος</w> <w>ἀπ<supplied reason="lost">ὸ</supplied></w> <w>το<supplied reason="lost">ῦ</supplied></w>
+                    <lb n="4"/><w>ῥόου</w> <w>τοῦ</w> <name>Κογχοκραναίου</name> <w>ἕστε</w> <w>πὸτ</w> <w>τὰς</w> <w>ῥάπα<supplied reason="lost">ς</supplied></w>
+                    <lb n="5"/><w>κυλλὰς</w> <w>πὰρ</w> <name>Ἀθάνιος</name> <w>τοῦ</w> <name>Βασία</name> <w>ἑνὸς</w> <w>ἴκατι</w>
+                    <lb n="6"/><w>ταλάντων</w> <name>Ἄμποχοι</name> <name>Θευδόσιος</name> <name>Θευδώρου</name> <w>ἕκτα</w>
+                    <lb n="7"/><name>Θεότιμος</name> <name>Λαμίσκου</name> <name>Ἀμείνων</name> <name>Δαματρίου</name>
+                    <lb n="8"/><name>Νυμφόδωρος</name> <name>Δάμωνος</name> <name>Θεόδωρος</name> <name>Ἀριστο
+                    <lb n="9" break="no"/>γένεος</name> <name>Ἀρταμίδωρος</name> <name>Θεοδοσίου</name>
+                    <lb n="10"/><name>Μύσκων</name> <name>Ἄνδρωνος</name> <name>Πρόδοξος</name> <name>Σωσ<supplied reason="lost">ία</supplied></name>
+                    <lb n="11"/><w><space quantity="5" unit="character"/><unclear>Ἀ</unclear>ἴνησι<supplied reason="lost">ς Θ</supplied>άλλου</w> <name>Ὄρθων</name>
+                    <lb n="12"/><w><space unit="character" extent="unknown"/>λλου</w>
+                </ab>
          </div>
          <div type="apparatus" resp="#RDS">
            <listApp>

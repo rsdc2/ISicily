@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -198,11 +198,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#VB">
                 <ab>
-                    <lb n="1"/><expan><abbr>D</abbr><ex>is</ex></expan> ❦ <expan><abbr>M</abbr><ex>anibus</ex></expan> ❦
-                    <lb n="2"/><expan><abbr>P</abbr><ex>ublio</ex></expan> ∙ Licinio ∙ Liciniano
-                    <lb n="3"/>vixit ∙ annis ∙ <num value="35">XXXV</num>
-                    <lb n="4"/>Didia ∙ Pistis ∙ 
-                    <lb n="5"/>coniugi ∙ benemere<hi rend="ligature">nt<hi rend="tall">t</hi></hi>i
+                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <g ref="#interpunct">❦</g> <name><expan><abbr>M</abbr><ex>anibus</ex></expan></name> <g ref="#interpunct">❦</g>
+                    <lb n="2"/><name><expan><abbr>P</abbr><ex>ublio</ex></expan></name> <g ref="#interpunct">∙</g> <name>Licinio</name> <g ref="#interpunct">∙</g> <name>Liciniano</name>
+                    <lb n="3"/><w>vixit</w> <g ref="#interpunct">∙</g> <w>annis</w> <g ref="#interpunct">∙</g> <num value="35">XXXV</num>
+                    <lb n="4"/><name>Didia</name> <g ref="#interpunct">∙</g> <name>Pistis</name> <g ref="#interpunct">∙</g>
+                    <lb n="5"/><w>coniugi</w> <g ref="#interpunct">∙</g> <w>benemere<hi rend="ligature">nt<hi rend="tall">t</hi></hi>i</w>
                 </ab>
                 <!-- source text in the original generation of the file was EDR078346, via the EAGLE project -->
             </div>

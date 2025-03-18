@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -192,20 +192,20 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/>Λυσίμα
-                    <lb n="2" break="no"/>χος Με
-                    <lb n="3" break="no"/>λίσσας πα
-                    <lb n="4" break="no"/>ρὰ Παίδε
-                    <lb n="5" break="no"/>σσι καὶ τῇ
-                    <lb n="6"/>Ἄννᾳ <roleName type="civic.religious" subtype="hiereus">ἱερε
-                    <lb n="7" break="no"/>ίας</roleName> <choice><reg>γεγέ<unclear>ν</unclear>νηται</reg><orig>γεγέ<unclear>ν</unclear>ηται</orig></choice>
-                    <lb n="8"/><unclear>μ</unclear><supplied reason="lost">ετὰ</supplied> <gap reason="lost" quantity="3" unit="character"/>ό
-                    <lb n="9" break="no"/>που κα<supplied reason="lost">ὶ</supplied> <unclear>Γ</unclear>ο
-                    <lb n="10" break="no"/>νατ<unclear>ί</unclear>ας καὶ
-                    <lb n="11"/>τῶν <unclear>ἐκ</unclear><supplied reason="lost">ε</supplied>ίνου
-                    <lb n="12"/>συμβιωτῶν
-                    <lb n="13"/>καὶ Ἔρωτος
-                    <lb n="14"/>νάβλα <space extent="unknown" unit="character"/>
+                    <lb n="1"/><w>Λυσίμα
+                    <lb n="2" break="no"/>χος</w> <name>Με
+                    <lb n="3" break="no"/>λίσσας</name> <w>πα
+                    <lb n="4" break="no"/>ρὰ</w> <name>Παίδε
+                    <lb n="5" break="no"/>σσι</name> <w>καὶ</w> <w>τῇ</w>
+                    <lb n="6"/><name>Ἄννᾳ</name> <roleName type="civic.religious" subtype="hiereus"><w>ἱερε
+                    <lb n="7" break="no"/>ίας</w></roleName> <w><choice><reg>γεγέ<unclear>ν</unclear>νηται</reg><orig>γεγέ<unclear>ν</unclear>ηται</orig></choice></w>
+                    <lb n="8"/><w><unclear>μ</unclear><supplied reason="lost">ετὰ</supplied></w> <gap reason="lost" quantity="3" unit="character"/> <w>ό
+                    <lb n="9" break="no"/>που</w> <w>κα<supplied reason="lost">ὶ</supplied></w> <name><unclear>Γ</unclear>ο
+                    <lb n="10" break="no"/>νατ<unclear>ί</unclear>ας</name> <w>καὶ</w>
+                    <lb n="11"/><w>τῶν</w> <w><unclear>ἐκ</unclear><supplied reason="lost">ε</supplied>ίνου</w>
+                    <lb n="12"/><w>συμβιωτῶν</w>
+                    <lb n="13"/><w>καὶ</w> <name>Ἔρωτος</name>
+                    <lb n="14"/><w>νάβλα</w> <space extent="unknown" unit="character"/>
                     <lb n="15"/><g ref="#star"/>
                 </ab>
             </div>

@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -191,9 +191,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/>ἡμέρᾳ <g ref="#interpunct">·</g> κυριακῇ δεσμευθεῖσα <g ref="#interpunct">·</g> ἀλύτοις <g ref="#interpunct">·</g> καμάτοις <g ref="#interpunct">·</g> ἐπὶ <g ref="#interpunct">·</g> κοίτης
-                    <lb n="2"/>ἧς καὶ τοὔνομα <g ref="#interpunct">·</g> Κυριακή <g ref="#interpunct">·</g> ἡμέρᾳ <g ref="#interpunct">·</g> κυριακῇ <g ref="#interpunct">·</g> παντὸς <g ref="#interpunct">·</g> βίου <g ref="#interpunct">·</g> λύσιν
-                    <lb n="3"/>ἔσχε τὴν ᾔτησε πρὸ <g ref="#interpunct">·</g> πρώτης <g ref="#interpunct">·</g> καλανδῶν <g ref="#interpunct">·</g> Μαίων <g ref="#interpunct">·</g> <g ref="#christogram">☧</g>
+                    <lb n="1"/><w>ἡμέρᾳ</w> <g ref="#interpunct">·</g> <w>κυριακῇ</w> <w>δεσμευθεῖσα</w> <g ref="#interpunct">·</g> <w>ἀλύτοις</w> <g ref="#interpunct">·</g> <w>καμάτοις</w> <g ref="#interpunct">·</g> <w>ἐπὶ</w> <g ref="#interpunct">·</g> <w>κοίτης</w>
+                    <lb n="2"/><w>ἧς</w> <w>καὶ</w> <w>τοὔνομα</w> <g ref="#interpunct">·</g> <name>Κυριακή</name> <g ref="#interpunct">·</g> <w>ἡμέρᾳ</w> <g ref="#interpunct">·</g> <w>κυριακῇ</w> <g ref="#interpunct">·</g> <w>παντὸς</w> <g ref="#interpunct">·</g> <w>βίου</w> <g ref="#interpunct">·</g> <w>λύσιν</w>
+                    <lb n="3"/><w>ἔσχε</w> <w>τὴν</w> <w>ᾔτησε</w> <w>πρὸ</w> <g ref="#interpunct">·</g> <w>πρώτης</w> <g ref="#interpunct">·</g> <w>καλανδῶν</w> <g ref="#interpunct">·</g> <name>Μαίων</name> <g ref="#interpunct">·</g> <g ref="#christogram">☧</g>
                 </ab>
             </div>
             <div type="apparatus">

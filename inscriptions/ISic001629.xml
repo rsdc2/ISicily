@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -192,27 +192,13 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-                <ab><lb n="1"/>Ἐνθ<supplied reason="omitted">ά</supplied>δε κεῖτε Ἰε
-                    <lb n="2" break="no"/>ναρὶς υἱὸς Πρίμου
-                    <lb n="3"/>τελευτᾆ τᾖ πρὸ θ'
-                    <expan>
-                        <abbr>καλ</abbr>
-                        <ex>ανδῶν</ex>
-                    </expan>
-                    <lb n="4"/>Άπριλίων
-                    <expan>
-                        <abbr>ζήσ</abbr>
-                        <ex>ας</ex>
-                    </expan>
-                    ἔτη η'
-                    <lb n="5"/>
-                    <expan>
-                        <abbr>μήν</abbr>
-                        <ex>ης</ex>
-                    </expan>
-                    ς' κεῖτε μετὰ
-                    <lb n="6"/>τῆς μάμη
-                    <supplied reason="omitted">ς</supplied>
+                <ab>
+                    <lb n="1"/><w>Ἐνθ<supplied reason="omitted">ά</supplied>δε</w> <w>κεῖτε</w> <name>Ἰε
+                    <lb n="2" break="no"/>ναρὶς</name> <w>υἱὸς</w> <name>Πρίμου</name>
+                    <lb n="3"/><w>τελευτᾆ</w> <w>τᾖ</w> <w>πρὸ</w> <w>θ'</w> <w><expan><abbr>καλ</abbr><ex>ανδῶν</ex></expan></w>
+                    <lb n="4"/><name>Άπριλίων</name> <w><expan><abbr>ζήσ</abbr><ex>ας</ex></expan></w> <w>ἔτη</w> <w>η'</w>
+                    <lb n="5"/><w><expan><abbr>μήν</abbr><ex>ης</ex></expan></w> <w>ς'</w> <w>κεῖτε</w> <w>μετὰ</w>
+                    <lb n="6"/><w>τῆς</w> <w>μάμη</w> <w><supplied reason="omitted">ς</supplied></w>
                 </ab>
             </div>
             <div type="apparatus">

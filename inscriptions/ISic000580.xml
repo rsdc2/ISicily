@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -189,9 +189,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
-                    <lb n="1"/><name>Oppius</name> <g ref="#interpunct">·</g> <name><abbr>Valen</abbr></name> <g ref="#interpunct">·</g> <roleName type="civic.religious" subtype="augustalis"><expan><abbr>Aug</abbr><ex cert="medium">ustalis</ex></expan></roleName> <g ref="#interpunct">·</g> <num value="3">III</num>
-                    <lb n="2"/>et Indie Optata
-                    <lb n="3"/>Panio Atimeto
+                    <lb n="1"/><name>Oppius</name> <g ref="#interpunct">·</g> <name><abbr>Valen</abbr></name> <g ref="#interpunct">·</g> <roleName type="civic.religious" subtype="augustalis"><name><expan><abbr>Aug</abbr><ex cert="medium">ustalis</ex></expan></name></roleName> <g ref="#interpunct">·</g> <num value="3">III</num>
+                    <lb n="2"/><w>et</w> <name>Indie</name> <name>Optata</name>
+                    <lb n="3"/><name>Panio</name> <name>Atimeto</name>
                 </ab>
             </div>
             <div type="apparatus">

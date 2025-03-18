@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -181,20 +181,20 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <div type="textpart" subtype="section" n="a">
                     <ab>
-                    <milestone unit="face" n="1"/>
-                        <lb n="1"/>Βαλερίαν Ἀρσινόην τὴν σκύ
-                        <lb n="2" break="no"/>ζαιν σκ<unclear>ύ</unclear>λιμηκες τὴν ἁμαρ
-                        <lb n="3" break="no"/>τωλὸν Ἀρ<space unit="character" quantity="2"/>σινόην <expan><abbr>κ</abbr><ex>αὶ</ex></expan> μελέαν
-                     </ab>
+                        <milestone unit="face" n="1"/>
+                        <lb n="1"/><w>Βαλερίαν</w> <name>Ἀρσινόην</name> <w>τὴν</w> <w>σκύ
+                        <lb n="2" break="no"/>ζαιν</w> <w>σκ<unclear>ύ</unclear>λιμηκες</w> <w>τὴν</w> <w>ἁμαρ
+                        <lb n="3" break="no"/>τωλὸν</w> <name>Ἀρ<space unit="character" quantity="2"/>σινόην</name> <w><expan><abbr>κ</abbr><ex>αὶ</ex></expan></w> <w>μελέαν</w>
+                    </ab>
                 </div>
                 <div type="textpart" subtype="section" n="b">
-                <ab>
-                    <milestone unit="face" n="2"/>
-                    <lb n="1"/>Βαλερίαν Ἀρσινόην τὴν ἁμαρ
-                    <lb n="2" break="no"/>τωλὸν νόσος τὴν σκύζαν <surplus>αν</surplus> σῆ
-                    <lb n="3" break="no"/>ψις
-                </ab>
-                    </div>
+                    <ab>
+                        <milestone unit="face" n="2"/>
+                        <lb n="1"/><w>Βαλερίαν</w> <name>Ἀρσινόην</name> <w>τὴν</w> <w>ἁμαρ
+                        <lb n="2" break="no"/>τωλὸν</w> <w>νόσος</w> <w>τὴν</w> <w>σκύζαν</w> <w><surplus>αν</surplus></w> <w>σῆ
+                        <lb n="3" break="no"/>ψις</w>
+                    </ab>
+                </div>
             </div>
             <div type="apparatus">
                 <listApp>

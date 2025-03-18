@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -206,8 +206,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
-                    <lb n="1"/>ex <g ref="#interpunct">·</g> <expan><abbr>d</abbr><ex>ecreto</ex></expan>  <roleName type="civic" subtype="decurio"><expan><abbr>d</abbr><ex>ecurionum</ex></expan></roleName> <g ref="#interpunct">·</g>
-                    <lb n="2"/>locus <persName type="attested"><name><expan><abbr>M</abbr><ex>arci</ex></expan></name> <name>Iuli</name>
+                    <lb n="1"/><w>ex</w> <g ref="#interpunct">·</g> <w><expan><abbr>d</abbr><ex>ecreto</ex></expan></w> <roleName type="civic" subtype="decurio"><w><expan><abbr>d</abbr><ex>ecurionum</ex></expan></w></roleName> <g ref="#interpunct">·</g>
+                    <lb n="2"/><w>locus</w> <persName type="attested"><name><expan><abbr>M</abbr><ex>arci</ex></expan></name> <name>Iuli</name>
                     <lb n="3"/><name>Dionysi</name></persName>
                 </ab>
             </div>
@@ -218,7 +218,7 @@
                 <p>By decree of the town council, burial plot of Marcus Iulius Dionysus</p>
             </div>
             <div type="commentary">
-                <p></p>
+                <p/>
             </div>
             <div type="bibliography">
                 <listBibl type="edition">

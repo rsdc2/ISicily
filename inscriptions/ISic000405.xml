@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -190,8 +190,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la">
                 <ab>
-                    <lb n="1"/>Neratius Palmatus <expan><abbr>v</abbr><ex>ir</ex></expan> <supplied reason="lost"><roleName type="supracivic" subtype="clarissimus"><expan><abbr>c</abbr><ex>larissimus</ex></expan></roleName></supplied> <supplied reason="lost"><roleName type="supracivic" subtype="consularis"><expan><abbr>cons</abbr><ex>ularis</ex></expan></roleName></supplied>
-                    <lb n="2"/>etiam frontem scaenae <orig>O</orig><gap reason="lost" unit="character" extent="unknown"/>
+                    <lb n="1"/><w>Neratius</w> <name>Palmatus</name> <w><expan><abbr>v</abbr><ex>ir</ex></expan></w> <w><supplied reason="lost"><roleName type="supracivic" subtype="clarissimus"><expan><abbr>c</abbr><ex>larissimus</ex></expan></roleName></supplied></w> <w><supplied reason="lost"><roleName type="supracivic" subtype="consularis"><expan><abbr>cons</abbr><ex>ularis</ex></expan></roleName></supplied></w>
+                    <lb n="2"/><w>etiam</w> <w>frontem</w> <w>scaenae</w> <orig>O</orig><gap reason="lost" unit="character" extent="unknown"/>
                 </ab>
             </div>
             <div type="apparatus">

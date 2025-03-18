@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -191,13 +191,13 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JH #JP">
                 <ab>
-                    <lb n="1"/><name>Avitianus</name> <g ref="#interpunct">·</g> fide
-                    <lb n="2" break="no"/>lis hic in pace <foreign xml:lang="grc"><expan><abbr><hi rend="supraline">Χρί</hi></abbr><ex>στι</ex></expan></foreign>
-                    <lb n="3"/>quiescit qui vixit
-                    <lb n="4"/><expan><abbr>an</abbr><ex>nis</ex></expan> <num value="12">XII</num> requievit
-                    <lb n="5"/><expan><abbr>d</abbr><ex>ie</ex></expan> <num value="16">XVI</num> <expan><abbr><hi rend="supraline">K</hi></abbr><ex>a</ex><abbr><hi rend="supraline">l</hi></abbr><ex>endas</ex></expan> <expan><abbr>Aprili</abbr><ex>es</ex></expan>
-                    <lb n="6"/><roleName type="supracivic" subtype="consul"><expan><abbr><hi rend="supraline">cons</hi></abbr><ex>ulatu</ex></expan></roleName> <name>Theodosi</name> <num value="15">XV</num>
-                    <lb n="7"/>et <name><expan><abbr><hi rend="supraline">Fl</hi></abbr><ex>avi</ex></expan></name> <name>Valentiniani</name> <num value="4">IIII</num>
+                    <lb n="1"/><name>Avitianus</name> <g ref="#interpunct">·</g> <w>fide
+                    <lb n="2" break="no"/>lis</w> <w>hic</w> <w>in</w> <w>pace</w> <foreign xml:lang="grc"><name><expan><abbr><hi rend="supraline">Χρί</hi></abbr><ex>στι</ex></expan></name></foreign>
+                    <lb n="3"/><w>quiescit</w> <w>qui</w> <w>vixit</w>
+                    <lb n="4"/><w><expan><abbr>an</abbr><ex>nis</ex></expan></w> <num value="12">XII</num> <w>requievit</w>
+                    <lb n="5"/><w><expan><abbr>d</abbr><ex>ie</ex></expan></w> <num value="16">XVI</num> <name><expan><abbr><hi rend="supraline">K</hi></abbr><ex>a</ex><abbr><hi rend="supraline">l</hi></abbr><ex>endas</ex></expan></name> <name><expan><abbr>Aprili</abbr><ex>es</ex></expan></name>
+                    <lb n="6"/><roleName type="supracivic" subtype="consul"><w><expan><abbr><hi rend="supraline">cons</hi></abbr><ex>ulatu</ex></expan></w></roleName> <name>Theodosi</name> <num value="15">XV</num>
+                    <lb n="7"/><w>et</w> <name><expan><abbr><hi rend="supraline">Fl</hi></abbr><ex>avi</ex></expan></name> <name>Valentiniani</name> <num value="4">IIII</num>
                 </ab>
                </div>
             <div type="apparatus" resp="#JP">

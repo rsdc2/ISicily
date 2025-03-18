@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -197,14 +197,14 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#AC">
                 <ab>
-                    <lb n="1"/>Αἰθάλης χρησ
-                    <lb n="2" break="no"/>τὸς καὶ ἄμεμπτος ἔζησε
-                    <lb n="3" break="no"/>ν ἔτη <num value="75">οε</num> οὖτος ἐποίησεν
-                    <lb n="4"/>τὴν ἁγίαν ἐκλησίαν ἐν Ὁρτη
-                    <lb n="5" break="no"/>σιανοῖς κὲ τοῦτο τὸ κοι
-                    <lb n="6" break="no"/>μητήριον ἐτελεύτησεν
-                    <lb n="7"/>μηνὶ μαίωι τῆι <roleName type="supracivic" subtype="consul">ὑπατίαι</roleName>
-                    <lb n="8"/>Ἀρκαδίωι <supplied reason="lost">τὸ</supplied> <supplied reason="lost"><num value="4">δ</num></supplied> ἀπὸ <expan><abbr>καλ</abbr><ex>ανδῶν</ex></expan> <supplied reason="lost"><expan><abbr>κ</abbr><ex>αὶ</ex></expan></supplied> Ὁνω<supplied reason="lost">ρίωι</supplied> <supplied reason="lost">τὸ</supplied> <supplied reason="lost"><num value="3">γ</num></supplied>
+                    <lb n="1"/><w>Αἰθάλης</w> <w>χρησ
+                    <lb n="2" break="no"/>τὸς</w> <w>καὶ</w> <w>ἄμεμπτος</w> <w>ἔζησε
+                    <lb n="3" break="no"/>ν</w> <w>ἔτη</w> <num value="75">οε</num> <w>οὖτος</w> <w>ἐποίησεν</w>
+                    <lb n="4"/><w>τὴν</w> <w>ἁγίαν</w> <w>ἐκλησίαν</w> <w>ἐν</w> <name>Ὁρτη
+                    <lb n="5" break="no"/>σιανοῖς</name> <w>κὲ</w> <w>τοῦτο</w> <w>τὸ</w> <w>κοι
+                    <lb n="6" break="no"/>μητήριον</w> <w>ἐτελεύτησεν</w>
+                    <lb n="7"/><w>μηνὶ</w> <w>μαίωι</w> <w>τῆι</w> <roleName type="supracivic" subtype="consul"><w>ὑπατίαι</w></roleName>
+                    <lb n="8"/><name>Ἀρκαδίωι</name> <w><supplied reason="lost">τὸ</supplied></w> <supplied reason="lost"><num value="4">δ</num></supplied> <w>ἀπὸ</w> <w><expan><abbr>καλ</abbr><ex>ανδῶν</ex></expan></w> <w><supplied reason="lost"><expan><abbr>κ</abbr><ex>αὶ</ex></expan></supplied></w> <name>Ὁνω<supplied reason="lost">ρίωι</supplied></name> <w><supplied reason="lost">τὸ</supplied></w> <supplied reason="lost"><num value="3">γ</num></supplied>
                 </ab>
             </div>
             <div type="apparatus">

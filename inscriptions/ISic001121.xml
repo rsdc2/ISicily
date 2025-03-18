@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -194,10 +194,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/>Τίτ<hi rend="ligature">ος</hi> Να <g ref="#ivy-leaf">❦</g>
-                    <lb n="2" break="no"/>σίδις Βασι
-                    <lb n="3" break="no"/>λείδης ἔζ<supplied reason="lost">η</supplied>
-                    <lb n="4" break="no"/>σε ἔτη <num atLeast="30" atMost="39"><unclear>λ</unclear><gap reason="lost" quantity="1" unit="character"/></num>
+                    <lb n="1"/><w>Τίτ<hi rend="ligature">ος</hi></w> <name>Να</name> <name><g ref="#ivy-leaf">❦</g>
+                    <lb n="2" break="no"/>σίδις</name> <name>Βασι
+                    <lb n="3" break="no"/>λείδης</name> <w>ἔζ<supplied reason="lost">η</supplied>
+                    <lb n="4" break="no"/>σε</w> <w>ἔτη</w> <num atLeast="30" atMost="39"><unclear>λ</unclear><gap reason="lost" quantity="1" unit="character"/></num>
                 </ab>
             </div>
             <div type="apparatus">

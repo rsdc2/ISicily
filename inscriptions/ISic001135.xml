@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -194,10 +194,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/>Ἀριστόδαμος Νεμηνίδα Πέρσιος ποιητὰς
-                    <lb n="2"/>τοὺς γονέας καὶ τὸν <roleName type="paracivic" subtype="euergetes">εὐεργέταν</roleName> αὐτῶντα
-                    <lb n="3"/>Ἀριστόδαμον Σιμία καὶ τὰν γυναῖκα αὐτοῦ
-                    <lb n="4"/>καὶ τὰν ἰδίαν ἀνέστασε
+                    <lb n="1"/><w>Ἀριστόδαμος</w> <name>Νεμηνίδα</name> <name>Πέρσιος</name> <w>ποιητὰς</w>
+                    <lb n="2"/><w>τοὺς</w> <w>γονέας</w> <w>καὶ</w> <w>τὸν</w> <roleName type="paracivic" subtype="euergetes"><w>εὐεργέταν</w></roleName> <w>αὐτῶντα</w>
+                    <lb n="3"/><name>Ἀριστόδαμον</name> <name>Σιμία</name> <w>καὶ</w> <w>τὰν</w> <w>γυναῖκα</w> <w>αὐτοῦ</w>
+                    <lb n="4"/><w>καὶ</w> <w>τὰν</w> <w>ἰδίαν</w> <w>ἀνέστασε</w>
                 </ab>
             </div>
             <div type="apparatus">

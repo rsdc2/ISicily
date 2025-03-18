@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -191,9 +191,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
-                    <lb n="1"/><supplied reason="lost">Ven</supplied>erei <g ref="#interpunct">·</g> <expan><abbr>Erucin</abbr><ex>ae</ex></expan>
-                    <lb n="2"/><supplied reason="lost">s</supplied>acrom
-                    <lb n="3"/><name><gap reason="lost" extent="unknown" unit="character"/>ltinius</name> <g ref="#interpunct">·</g> <name><expan><abbr>P</abbr><ex>ubli</ex></expan></name> <g ref="#interpunct">·</g> <expan><abbr>f</abbr><ex>ilius</ex></expan>
+                    <lb n="1"/><w><supplied reason="lost">Ven</supplied>erei</w> <g ref="#interpunct">·</g> <name><expan><abbr>Erucin</abbr><ex>ae</ex></expan></name>
+                    <lb n="2"/><w><supplied reason="lost">s</supplied>acrom</w>
+                    <lb n="3"/><name><gap reason="lost" extent="unknown" unit="character"/>ltinius</name> <g ref="#interpunct">·</g> <name><expan><abbr>P</abbr><ex>ubli</ex></expan></name> <g ref="#interpunct">·</g> <w><expan><abbr>f</abbr><ex>ilius</ex></expan></w>
                 </ab>
             </div>
             <div type="apparatus">

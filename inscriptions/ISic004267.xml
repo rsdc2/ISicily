@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -186,7 +186,7 @@
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#DEE">
                 <ab>
                     <lb n="1"/><w><expan><abbr><unclear>D</unclear></abbr><ex cert="low">ivo</ex></expan></w> <persName type="attested" subtype="imperial"><name type="cognomen">August<hi rend="small">o</hi></name></persName>
-                    </ab>
+                </ab>
             </div>
             <div type="apparatus">
                 <listApp><app><note>Text according to ILipara 751</note></app></listApp>

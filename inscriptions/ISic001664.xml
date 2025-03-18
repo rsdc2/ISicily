@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -200,8 +200,8 @@
             <div type="edition" xml:space="preserve" subtype="EDR" n="081506" xml:lang="la">
                 <!-- an automated conversion/import from EDR, including both fragments in single text and requiring extensive revision -->
                 <ab>
-                 <gap reason="lost" extent="unknown" unit="line"/>
-                    <lb n="1"/><g ref="#sestertius">sestertios</g> C̅ m̅(ilia) quae <supplied reason="lost">rerem ? - - -</supplied>
+                    <gap reason="lost" extent="unknown" unit="line"/>
+                    <lb n="1"/><g ref="#sestertius">sestertios</g> <w>C̅</w> <w>m̅(ilia)</w> <w>quae</w> <w><supplied reason="lost">rerem ? - - -</supplied></w>
                 </ab>
                 <!--This EDR text 081506 originally came via the Europeana EAGLE project, http://www.eagle-network.eu/-->
             </div>

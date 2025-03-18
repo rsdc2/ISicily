@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -190,19 +190,19 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">οἱ μισθωσάμενοι</supplied>
-                    <lb n="2"/><supplied reason="lost">εἰ καὶ τοῦ κλάρου μ</supplied><unclear>η</unclear>δὲ τὸ ἥμισσον σ<unclear>π</unclear><supplied reason="lost">είρωντι, ἀποδίδοντον τῷ</supplied>
-                    <lb n="3"/><supplied reason="lost">ἐνια</supplied><unclear>υ</unclear>τῷ τὰς δεκάτας· τούτων οἱ ἀντιπ<supplied reason="lost">οιησάμενοι ἀτελείας κα</supplied>
-                    <lb n="4" break="no"/><supplied reason="lost">ταβ</supplied>άλλοντον παρὰ τοὺς <roleName type="civic" subtype="tamias">ταμίας</roleName> ἐπιδ<supplied reason="lost">έκατον καὶ ὀμνύντον οἱ</supplied>
-                    <lb n="5"/><supplied reason="lost">κατα</supplied>βάλλοντες ὡς ὑπεράνω γέγραπτα<supplied reason="lost">ι</supplied> <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">ἐπικλαρών</supplied>
-                    <lb n="6" break="no"/><supplied reason="lost">τον</supplied> <unclear>ο</unclear>ἱ <roleName type="civic" subtype="proboulos">πρόβουλοι</roleName> κριτὰς τοῖς ἀντιποιησ<supplied reason="lost">αμένοις τρεῖς <roleName type="civic" subtype="polites">πολίτας</roleName></supplied>
-                    <lb n="7"/><supplied reason="lost">ἐκ βουλ</supplied>ᾶς καὶ συγκλήτου, τὰν μὲν ὑπὲρ δέ<supplied reason="lost">κα μὴ νεωτέρους ἐτῶν</supplied>
-                    <lb n="8"/><supplied reason="lost">τριάκον</supplied>τα καὶ ἀφαιρέοντον ἕνα παρ’ ἕνα <supplied reason="lost">ὡς αὐτοῖς δοκεῖ καλῶς</supplied>
-                    <lb n="9"/><supplied reason="lost" cert="low">ἔχειν</supplied> <supplied reason="lost">ἕως</supplied> κα καταλειφθέωντι τρεῖς, τὰν δὲ ὑ<supplied reason="lost">πὲρ</supplied> <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">μὴ</supplied>
-                     <lb n="10"/><supplied reason="lost">νεωτέρους ἐτῶν ἴκ</supplied>οσι καὶ ἀφαιρέοντον ὡσαύ<supplied reason="lost">τως ἅπαντας ἕως κα</supplied>
-                    <lb n="11"/><supplied reason="lost">καταλειφθέωντι ἑπ</supplied>τά· ἁ δὲ κλάρωσις γινέσ<supplied reason="lost">θω</supplied> <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">μετα</supplied>
-                    <lb n="12" break="no"/><supplied reason="lost">ξὺ τᾶν δέκα ἀφαιρεθέν</supplied>ταν ἕνα παρ’ ἕνα καὶ δ<gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="13"/><gap reason="lost" unit="character" extent="unknown"/> <supplied reason="lost">κρι</supplied>τᾶν τὰν <unclear>ζ</unclear><supplied reason="lost" cert="low">αμίαν</supplied> <gap reason="lost" unit="character" extent="unknown"/>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">οἱ μισθωσάμενοι</supplied></w>
+                    <lb n="2"/><w><supplied reason="lost">εἰ καὶ τοῦ κλάρου μ</supplied><unclear>η</unclear>δὲ</w> <w>τὸ</w> <w>ἥμισσον</w> <w>σ<unclear>π</unclear><supplied reason="lost">είρωντι, ἀποδίδοντον τῷ</supplied></w>
+                    <lb n="3"/><w><supplied reason="lost">ἐνια</supplied><unclear>υ</unclear>τῷ</w> <w>τὰς</w> <w>δεκάτας·</w> <w>τούτων</w> <w>οἱ</w> <w>ἀντιπ<supplied reason="lost">οιησάμενοι ἀτελείας κα</supplied>
+                    <lb n="4" break="no"/><supplied reason="lost">ταβ</supplied>άλλοντον</w> <w>παρὰ</w> <w>τοὺς</w> <roleName type="civic" subtype="tamias"><w>ταμίας</w></roleName> <w>ἐπιδ<supplied reason="lost">έκατον καὶ ὀμνύντον οἱ</supplied></w>
+                    <lb n="5"/><w><supplied reason="lost">κατα</supplied>βάλλοντες</w> <w>ὡς</w> <w>ὑπεράνω</w> <w>γέγραπτα<supplied reason="lost">ι</supplied></w> <gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">ἐπικλαρών</supplied>
+                    <lb n="6" break="no"/><supplied reason="lost">τον</supplied></w> <w><unclear>ο</unclear>ἱ</w> <roleName type="civic" subtype="proboulos"><w>πρόβουλοι</w></roleName> <w>κριτὰς</w> <w>τοῖς</w> <w>ἀντιποιησ<supplied reason="lost">αμένοις τρεῖς<roleName type="civic" subtype="polites">πολίτας</roleName></supplied></w>
+                    <lb n="7"/><w><supplied reason="lost">ἐκ βουλ</supplied>ᾶς</w> <w>καὶ</w> <w>συγκλήτου,</w> <w>τὰν</w> <w>μὲν</w> <w>ὑπὲρ</w> <w>δέ<supplied reason="lost">κα μὴ νεωτέρους ἐτῶν</supplied></w>
+                    <lb n="8"/><w><supplied reason="lost">τριάκον</supplied>τα</w> <w>καὶ</w> <w>ἀφαιρέοντον</w> <w>ἕνα</w> <w>παρ’</w> <w>ἕνα</w> <w><supplied reason="lost">ὡς αὐτοῖς δοκεῖ καλῶς</supplied></w>
+                    <lb n="9"/><w><supplied reason="lost" cert="low">ἔχειν</supplied></w> <w><supplied reason="lost">ἕως</supplied></w> <w>κα</w> <w>καταλειφθέωντι</w> <w>τρεῖς,</w> <w>τὰν</w> <w>δὲ</w> <w>ὑ<supplied reason="lost">πὲρ</supplied></w> <gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">μὴ</supplied></w>
+                    <lb n="10"/><w><supplied reason="lost">νεωτέρους ἐτῶν ἴκ</supplied>οσι</w> <w>καὶ</w> <w>ἀφαιρέοντον</w> <w>ὡσαύ<supplied reason="lost">τως ἅπαντας ἕως κα</supplied></w>
+                    <lb n="11"/><w><supplied reason="lost">καταλειφθέωντι ἑπ</supplied>τά·</w> <w>ἁ</w> <w>δὲ</w> <w>κλάρωσις</w> <w>γινέσ<supplied reason="lost">θω</supplied></w> <gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">μετα</supplied>
+                    <lb n="12" break="no"/><supplied reason="lost">ξὺ τᾶν δέκα ἀφαιρεθέν</supplied>ταν</w> <w>ἕνα</w> <w>παρ’</w> <w>ἕνα</w> <w>καὶ</w> <w>δ</w> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="13"/><gap reason="lost" unit="character" extent="unknown"/> <w><supplied reason="lost">κρι</supplied>τᾶν</w> <w>τὰν</w> <w><unclear>ζ</unclear><supplied reason="lost" cert="low">αμίαν</supplied></w> <gap reason="lost" unit="character" extent="unknown"/>
                     <lb n="14"/><gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>

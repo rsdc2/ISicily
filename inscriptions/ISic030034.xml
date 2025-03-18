@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -185,9 +185,9 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#SN">
                 <ab>
                     <lb n="1"/><persName type="attested"><name type="idionym">Ναιρογένε̄ς</name></persName> <orig>ΦΥ</orig>
-                    <lb n="2"/><orig>ET</orig> <persName type="attested"><name type="patronym">Εύκλείδα</name></persName>
+                    <lb n="2"/><orig>ET</orig><persName type="attested"><name type="patronym">Εύκλείδα</name></persName>
                     <lb n="3"/><persName type="attested"><name type="idionym"><supplied reason="lost" cert="low">Φ</supplied><seg part="F">άυλλος</seg></name></persName> <persName type="attested"><name type="idionym"><seg part="I">Γέλ</seg><supplied reason="lost">ων</supplied></name></persName>
-                    <lb n="4"/><orig>ΣΟΝ<g ref="#dash">‒</g>Ο</orig> <persName type="attested"><name type="idionym">Φάνονος</name>
+                    <lb n="4"/><orig>ΣΟΝ<g ref="#dash">‒</g>Ο</orig><persName type="attested"><name type="idionym">Φάνονος</name>
                     <lb n="5"/><persName type="attested"><name type="patronym">Άρατίο</name></persName></persName>
                     <lb n="6"/><persName type="attested"><name type="idionym"><supplied reason="lost">hε̄</supplied><seg part="F">ρακλείδας</seg></name> <persName type="attested"><name type="patronym">Νικία</name></persName></persName>
                     <lb n="7"/><persName type="attested"><name type="idionym"><supplied reason="lost">Σ</supplied><seg part="F">κύθας</seg></name></persName>

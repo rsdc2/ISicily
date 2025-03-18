@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -175,9 +175,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#MLH">
                 <ab>
-                    <lb n="1"/><supplied reason="lost">τύμ</supplied>βος <persName type="attested"><name>Κάσι<hi rend="small">α</hi></name></persName>
-                    <lb n="2"/><supplied reason="lost">ἐν</supplied>θάδε κεῖ
-                    <lb n="3" break="no"/><choice><reg>ται</reg><orig>τε</orig></choice> <g ref="#christogram">☧</g>
+                    <lb n="1"/><w><supplied reason="lost">τύμ</supplied>βος</w> <persName type="attested"><name>Κάσι<hi rend="small">α</hi></name></persName>
+                    <lb n="2"/><w><supplied reason="lost">ἐν</supplied>θάδε</w> <w>κεῖ
+                    <lb n="3" break="no"/><choice><reg>ται</reg><orig>τε</orig></choice></w> <g ref="#christogram">☧</g>
                 </ab>
             </div>
             <div type="apparatus">

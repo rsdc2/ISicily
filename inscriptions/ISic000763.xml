@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -185,18 +185,18 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
-            <ab>
-                <lb n="1"/><g ref="#cross_latin">†</g> hic requies
-                <lb n="2" break="no"/>cit in pace <persName type="attested"><name>Libe
-                <lb n="3" break="no"/>rata</name></persName> <expan><abbr>q</abbr><ex>uae</ex></expan> vixit <expan><abbr>a<hi rend="supraline">n</hi></abbr><ex>nis</ex></expan>
-                <lb n="4"/><num value="17">XVII</num> <expan><abbr>dep</abbr><ex>osita</ex></expan> sub <expan><abbr>d</abbr><ex>ie</ex></expan> <num value="10">X</num> <expan><abbr>kal</abbr><ex>endas</ex></expan>
-                <lb n="5"/>Iunias <expan><abbr>in<hi rend="supraline">dic</hi></abbr><ex>tione</ex></expan> <num value="10">X</num>
-                <lb n="6"/><g ref="#cross_latin">†</g> requievit in
-                <lb n="7"/>pace <persName type="attested"><name>Victori
-                <lb n="8" break="no"/>a</name></persName> <expan><abbr>q</abbr><ex>uae</ex></expan> vixit <expan><abbr><hi rend="supraline">an</hi></abbr><ex>nis</ex></expan>
-                <lb n="9"/><num value="19">XVIIII</num> <expan><abbr>d</abbr><ex>e</ex><abbr>p</abbr><ex>osita</ex></expan> <num value="4">IIII</num> <expan><abbr>id</abbr><ex>as</ex></expan> 
-                <lb n="10"/>Maias <expan><abbr><hi rend="supraline">ind</hi></abbr><ex>ictione</ex></expan> <num value="10">X</num>
-            </ab>
+                <ab>
+                    <lb n="1"/><g ref="#cross_latin">†</g> <w>hic</w> <w>requies
+                    <lb n="2" break="no"/>cit</w> <w>in</w> <w>pace</w> <persName type="attested"><name>Libe
+                    <lb n="3" break="no"/>rata</name></persName> <w><expan><abbr>q</abbr><ex>uae</ex></expan></w> <w>vixit</w> <w><expan><abbr>a<hi rend="supraline">n</hi></abbr><ex>nis</ex></expan></w>
+                    <lb n="4"/><num value="17">XVII</num> <w><expan><abbr>dep</abbr><ex>osita</ex></expan></w> <w>sub</w> <w><expan><abbr>d</abbr><ex>ie</ex></expan></w> <num value="10">X</num> <w><expan><abbr>kal</abbr><ex>endas</ex></expan></w>
+                    <lb n="5"/><name>Iunias</name> <w><expan><abbr>in<hi rend="supraline">dic</hi></abbr><ex>tione</ex></expan></w> <num value="10">X</num>
+                    <lb n="6"/><g ref="#cross_latin">†</g> <w>requievit</w> <w>in</w>
+                    <lb n="7"/><w>pace</w> <persName type="attested"><name>Victori
+                    <lb n="8" break="no"/>a</name></persName> <w><expan><abbr>q</abbr><ex>uae</ex></expan></w> <w>vixit</w> <w><expan><abbr><hi rend="supraline">an</hi></abbr><ex>nis</ex></expan></w>
+                    <lb n="9"/><num value="19">XVIIII</num> <w><expan><abbr>d</abbr><ex>e</ex><abbr>p</abbr><ex>osita</ex></expan></w> <num value="4">IIII</num> <w><expan><abbr>id</abbr><ex>as</ex></expan></w>
+                    <lb n="10"/><name>Maias</name> <w><expan><abbr><hi rend="supraline">ind</hi></abbr><ex>ictione</ex></expan></w> <num value="10">X</num>
+                </ab>
             </div>
             <div type="apparatus">
                 <listApp>

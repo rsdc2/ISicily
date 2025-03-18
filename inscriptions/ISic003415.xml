@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -188,10 +188,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1"/><g ref="#cross_latin">†</g> <expan><abbr>ἐ<hi rend="supraline">τ</hi></abbr><ex>ε</ex><abbr><hi rend="supraline">λ</hi></abbr><ex>εὺτησ</ex><abbr><hi rend="supraline">εν</hi></abbr></expan> ὡ <expan><abbr>μακαριώ<hi rend="stacked">τ</hi></abbr><ex>ατος</ex></expan>
-                    <lb n="2"/>Ἀ<hi rend="ligature">νατῶ</hi>λ<hi rend="ligature">ης</hi> <roleName type="paracivic.religious" subtype="presbyteros"><expan><abbr>π<hi rend="supraline">ρ</hi></abbr><ex>εσ</ex><abbr><hi rend="supraline">β</hi></abbr><ex>ύτερο</ex><abbr>ς</abbr></expan></roleName>
-                    <lb n="3"/><expan><abbr><hi rend="supraline">μ</hi></abbr><ex>ηνὶ</ex></expan> φεβρ<hi rend="ligature">ου</hi>αρί<hi rend="ligature">ου</hi> <expan><abbr><hi rend="ligature">πρ</hi></abbr><ex>ό</ex></expan>
-                    <lb n="4"/><num value="14">ιδ</num> <expan><abbr>κ</abbr><ex>αλανδῶν</ex></expan> <supplied reason="subaudible">μαρτίου</supplied> <space unit="character" quantity="2"/> <expan><abbr><hi rend="supraline">Ἰ</hi></abbr><ex>ησοῦς</ex></expan> <expan><abbr>Χ</abbr><ex>ριστός</ex></expan> <space unit="character" quantity="3"/>
+                    <lb n="1"/><g ref="#cross_latin">†</g> <w><expan><abbr>ἐ<hi rend="supraline">τ</hi></abbr><ex>ε</ex><abbr><hi rend="supraline">λ</hi></abbr><ex>εὺτησ</ex><abbr><hi rend="supraline">εν</hi></abbr></expan></w> <w>ὡ</w> <w><expan><abbr>μακαριώ<hi rend="stacked">τ</hi></abbr><ex>ατος</ex></expan></w>
+                    <lb n="2"/><name>Ἀ<hi rend="ligature">νατῶ</hi>λ<hi rend="ligature">ης</hi></name> <roleName type="paracivic.religious" subtype="presbyteros"><w><expan><abbr>π<hi rend="supraline">ρ</hi></abbr><ex>εσ</ex><abbr><hi rend="supraline">β</hi></abbr><ex>ύτερο</ex><abbr>ς</abbr></expan></w></roleName>
+                    <lb n="3"/><w><expan><abbr><hi rend="supraline">μ</hi></abbr><ex>ηνὶ</ex></expan></w> <w>φεβρ<hi rend="ligature">ου</hi>αρί<hi rend="ligature">ου</hi></w> <w><expan><abbr><hi rend="ligature">πρ</hi></abbr><ex>ό</ex></expan></w>
+                    <lb n="4"/><num value="14">ιδ</num> <w><expan><abbr>κ</abbr><ex>αλανδῶν</ex></expan></w> <w><supplied reason="subaudible">μαρτίου</supplied></w> <space unit="character" quantity="2"/><name><expan><abbr><hi rend="supraline">Ἰ</hi></abbr><ex>ησοῦς</ex></expan></name> <name><expan><abbr>Χ</abbr><ex>ριστός</ex></expan></name> <space unit="character" quantity="3"/>
                 </ab>
             </div>
             <div type="apparatus" resp="#JP">

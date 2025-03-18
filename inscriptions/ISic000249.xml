@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -194,12 +194,12 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#VM">
                 <ab>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost">hic</supplied> <supplied reason="lost">requi</supplied>esc<supplied reason="lost">it</supplied> <supplied reason="lost">in</supplied> <supplied reason="lost">pace</supplied>
-                    <lb n="2"/><supplied reason="lost">bone</supplied> <supplied reason="lost">memo</supplied>riae A<gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">anno
-                    <lb n="3" break="no"/>rum</supplied> <supplied reason="lost">plus</supplied> minus <num value="45">XLV</num> <supplied reason="lost">die</supplied> <supplied reason="lost">tali</supplied>
-                    <lb n="4"/><supplied reason="lost">mens</supplied> <expan><abbr>A</abbr><ex>u</ex><abbr>g</abbr><ex>usti</ex></expan> <expan><abbr>ind</abbr><ex>ictione</ex></expan> <num value="15">XV</num> <roleName type="supracivic" subtype="imperator"><expan><abbr>im<supplied reason="lost">p</supplied></abbr><ex>eratore</ex></expan></roleName> <roleName type="supracivic" subtype="dominus"><supplied reason="lost"><expan><abbr>d</abbr><ex>omino</ex></expan></supplied></roleName> <supplied reason="lost"><expan><abbr>n</abbr><ex>ostro</ex></expan></supplied>
-                    <lb n="5"/><supplied reason="lost">H</supplied>eraclio <choice><orig>piisimo</orig><reg>piissimo</reg></choice>
-                    <lb n="6"/><expan><abbr>s</abbr><ex>emper</ex></expan> <expan><abbr>A</abbr><ex>ugusto</ex></expan>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">hic</supplied></w> <w><supplied reason="lost">requi</supplied>esc<supplied reason="lost">it</supplied></w> <w><supplied reason="lost">in</supplied></w> <w><supplied reason="lost">pace</supplied></w>
+                    <lb n="2"/><w><supplied reason="lost">bone</supplied></w> <w><supplied reason="lost">memo</supplied>riae</w> <name>A</name> <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">anno
+                    <lb n="3" break="no"/>rum</supplied> <w><supplied reason="lost">plus</supplied></w> <w>minus</w> <num value="45">XLV</num> <w><supplied reason="lost">die</supplied></w> <w><supplied reason="lost">tali</supplied></w>
+                    <lb n="4"/><w><supplied reason="lost">mens</supplied></w> <name><expan><abbr>A</abbr><ex>u</ex><abbr>g</abbr><ex>usti</ex></expan></name> <w><expan><abbr>ind</abbr><ex>ictione</ex></expan></w> <num value="15">XV</num> <roleName type="supracivic" subtype="imperator"><w><expan><abbr>im<supplied reason="lost">p</supplied></abbr><ex>eratore</ex></expan></w></roleName> <roleName type="supracivic" subtype="dominus"><w><supplied reason="lost"><expan><abbr>d</abbr><ex>omino</ex></expan></supplied></w></roleName> <w><supplied reason="lost"><expan><abbr>n</abbr><ex>ostro</ex></expan></supplied></w>
+                    <lb n="5"/><name><supplied reason="lost">H</supplied>eraclio</name> <w><choice><orig>piisimo</orig><reg>piissimo</reg></choice></w>
+                    <lb n="6"/><w><expan><abbr>s</abbr><ex>emper</ex></expan></w> <name><expan><abbr>A</abbr><ex>ugusto</ex></expan></name>
                 </ab>
             </div>
             <div type="apparatus">

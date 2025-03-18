@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -191,13 +191,13 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JH">
                 <ab>
-                    <lb n="1"/><supplied reason="lost"><expan><abbr>D</abbr><ex>is</ex></expan> </supplied><expan><abbr>M</abbr><ex>anibus</ex></expan> <expan><abbr>s</abbr><ex>acrum</ex></expan>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><name><seg part="F">ntelus</seg></name> <name>Seleucus</name>
-                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/><expan><abbr>ann</abbr><ex>is</ex></expan> <g ref="#interpunct">·</g> <num value="13"><hi rend="supraline">XIII</hi></num> <g ref="#interpunct">·</g> <expan><abbr><hi rend="supraline">m</hi></abbr><ex>ensibus</ex></expan> <num value="8"><hi rend="supraline">VIII</hi></num> <g ref="#interpunct">·</g> <expan><abbr>P</abbr><ex>ublius</ex></expan>
-                    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/><name><seg part="F">ntelus</seg></name> <name>Seleucus</name> <expan><abbr>pat</abbr><ex>er</ex></expan>
-                    <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/><orig>pio</orig> et Simbolico
-                    <lb n="6"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost">ne</supplied>poti eius <g ref="#interpunct">·</g> <expan><abbr>vix</abbr><ex>it</ex></expan> <g ref="#interpunct">·</g> <expan><abbr><hi rend="supraline">an</hi></abbr><ex>nis</ex></expan> <g ref="#interpunct">·</g> <num value="16"><hi rend="supraline">XVI</hi></num>
-                    <lb n="7"/><gap reason="lost" extent="unknown" unit="character"/><expan><abbr><hi rend="supraline">m</hi></abbr><ex>ensibus</ex></expan> <num value="7">VII</num>
+                    <lb n="1"/><w><supplied reason="lost"><expan><abbr>D</abbr><ex>is</ex></expan></supplied><expan><abbr>M</abbr><ex>anibus</ex></expan></w> <w><expan><abbr>s</abbr><ex>acrum</ex></expan></w>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <name><seg part="F">ntelus</seg></name> <name>Seleucus</name>
+                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <w><expan><abbr>ann</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <num value="13"><hi rend="supraline">XIII</hi></num> <g ref="#interpunct">·</g> <w><expan><abbr><hi rend="supraline">m</hi></abbr><ex>ensibus</ex></expan></w> <num value="8"><hi rend="supraline">VIII</hi></num> <g ref="#interpunct">·</g> <name><expan><abbr>P</abbr><ex>ublius</ex></expan></name>
+                    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <name><seg part="F">ntelus</seg></name> <name>Seleucus</name> <w><expan><abbr>pat</abbr><ex>er</ex></expan></w>
+                    <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/> <orig>pio</orig><w>et</w> <name>Simbolico</name>
+                    <lb n="6"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">ne</supplied>poti</w> <w>eius</w> <g ref="#interpunct">·</g> <w><expan><abbr>vix</abbr><ex>it</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr><hi rend="supraline">an</hi></abbr><ex>nis</ex></expan></w> <g ref="#interpunct">·</g> <num value="16"><hi rend="supraline">XVI</hi></num>
+                    <lb n="7"/><gap reason="lost" extent="unknown" unit="character"/> <w><expan><abbr><hi rend="supraline">m</hi></abbr><ex>ensibus</ex></expan></w> <num value="7">VII</num>
                 </ab>
             </div>
             <div type="apparatus" resp="#JH">

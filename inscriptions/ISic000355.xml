@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -191,10 +191,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#MH">
                 <ab>
-                    <lb n="1"/><expan><abbr>D</abbr><ex>is</ex></expan> <expan><abbr>M</abbr><ex>anibus</ex></expan> <expan><abbr>S</abbr><ex>acrum</ex></expan>
-                    <lb n="2"/><expan><abbr>C</abbr><ex>aio</ex></expan> <g ref="#interpunct">·</g> Iulio <g ref="#interpunct">·</g> <choice><sic>Hep</sic><corr>Her</corr></choice>                    
-                    <lb n="3" break="no"/>meti
-                    <lb n="4"/> <expan><abbr>C</abbr><ex>aius</ex></expan> Iulius C<gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <name><expan><abbr>M</abbr><ex>anibus</ex></expan></name> <name><expan><abbr>S</abbr><ex>acrum</ex></expan></name>
+                    <lb n="2"/><name><expan><abbr>C</abbr><ex>aio</ex></expan></name> <g ref="#interpunct">·</g> <name>Iulio</name> <g ref="#interpunct">·</g> <w><choice><sic>Hep</sic><corr>Her</corr></choice>
+                    <lb n="3" break="no"/>meti</w>
+                    <lb n="4"/><name><expan><abbr>C</abbr><ex>aius</ex></expan></name> <name>Iulius</name> <name>C</name> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="0"/><gap reason="lost" extent="unknown" unit="line"/>
                 </ab>                
             </div>

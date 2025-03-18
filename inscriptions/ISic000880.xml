@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -190,14 +190,14 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/>αἶψα θανὼν μετὰ κῆρα Νικοστράτου
-                    <lb n="2"/>ἐνθάδε κεῖμαι
-                    <lb n="3"/>αἰαῖ ἀπολλύμενος δεσπότου ἀμφ’ ὀδύνῃ·
-                    <lb n="4"/>αὐτοῦ γὰρ γενόμην καὶ ἐπίτροπος οὔνομα δ’ ἦν μοι
-                    <lb n="5"/>δείλαιος Ἀγάθων δακρυόεις ὁ βίος
-                    <lb n="6"/>τῇ πρὸ <num value="1">α</num> νωνῶν Φεβρουαρίων
-                    <lb n="7"/>μετὰ τὴν <roleName type="supracivic" subtype="consul">ὑπατίαν</roleName> Ὁνορίου τὸ <num value="8">η</num> καὶ
-                    <lb n="8"/>Θεοδοσίου τὸ <num value="3">γ</num> <expan><abbr>Σεβ<am>β</am></abbr><ex>αστῶν</ex></expan>
+                    <lb n="1"/><w>αἶψα</w> <w>θανὼν</w> <w>μετὰ</w> <w>κῆρα</w> <name>Νικοστράτου</name>
+                    <lb n="2"/><w>ἐνθάδε</w> <w>κεῖμαι</w>
+                    <lb n="3"/><w>αἰαῖ</w> <w>ἀπολλύμενος</w> <w>δεσπότου</w> <w>ἀμφ’</w> <w>ὀδύνῃ·</w>
+                    <lb n="4"/><w>αὐτοῦ</w> <w>γὰρ</w> <w>γενόμην</w> <w>καὶ</w> <w>ἐπίτροπος</w> <w>οὔνομα</w> <w>δ’</w> <w>ἦν</w> <w>μοι</w>
+                    <lb n="5"/><w>δείλαιος</w> <name>Ἀγάθων</name> <w>δακρυόεις</w> <w>ὁ</w> <w>βίος</w>
+                    <lb n="6"/><w>τῇ</w> <w>πρὸ</w> <num value="1">α</num> <w>νωνῶν</w> <name>Φεβρουαρίων</name>
+                    <lb n="7"/><w>μετὰ</w> <w>τὴν</w> <roleName type="supracivic" subtype="consul"><w>ὑπατίαν</w></roleName> <name>Ὁνορίου</name> <w>τὸ</w> <num value="8">η</num> <w>καὶ</w>
+                    <lb n="8"/><name>Θεοδοσίου</name> <w>τὸ</w> <num value="3">γ</num> <name><expan><abbr>Σεβ<am>β</am></abbr><ex>αστῶν</ex></expan></name>
                 </ab>
             </div>
             <div type="apparatus">

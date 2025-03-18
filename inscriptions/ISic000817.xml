@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -192,14 +192,14 @@
             <div type="edition" xml:space="preserve" xml:lang="la">
                 <ab>
                     <lb n="0"/><gap reason="lost" extent="unknown" unit="line"/>
-                    <lb n="1"/>opere <choice><sic>plataeam</sic><corr>plateam</corr></choice> vici Se<unclear>p</unclear><supplied reason="lost">tizodi</supplied>
-                    <lb n="2"/>lapide Drepanitano sua <expan><abbr>p</abbr><ex>ecunia</ex></expan> <expan><abbr>strav</abbr><ex>it</ex></expan>
-                    <lb n="3"/><expan><abbr>Q</abbr><ex>uintus</ex></expan> Fabius <expan><abbr>Q</abbr><ex>uinti</ex></expan> <expan><abbr>f</abbr><ex>ilius</ex></expan> <expan><abbr>Maec</abbr><ex>ia</ex></expan> Caesilius
-                    <lb n="4"/>Modius Titianus <roleName type="supracivic" subtype="quaestor.pro.praetore"><expan><abbr>q</abbr><ex>uaestor</ex></expan> pro <expan><abbr>pr</abbr><ex>aetore</ex></expan></roleName>
-                    <lb n="5"/><expan><abbr>prov</abbr><ex>inciae</ex></expan> <expan><abbr>Sici</abbr><ex>liae</ex></expan> <choice><sic>plataeam</sic><corr>plateam</corr></choice> vici
-                    <lb n="6"/>Septizodi sternendam et
-                    <lb n="7"/>perficiendam curavit ded<supplied reason="lost">i</supplied>
-                    <lb n="8" break="no"/>cavitque
+                    <lb n="1"/><w>opere</w> <w><choice><sic>plataeam</sic><corr>plateam</corr></choice></w> <w>vici</w> <name>Se<unclear>p</unclear><supplied reason="lost">tizodi</supplied></name>
+                    <lb n="2"/><w>lapide</w> <name>Drepanitano</name> <w>sua</w> <w><expan><abbr>p</abbr><ex>ecunia</ex></expan></w> <w><expan><abbr>strav</abbr><ex>it</ex></expan></w>
+                    <lb n="3"/><name><expan><abbr>Q</abbr><ex>uintus</ex></expan></name> <name>Fabius</name> <name><expan><abbr>Q</abbr><ex>uinti</ex></expan></name> <w><expan><abbr>f</abbr><ex>ilius</ex></expan></w> <name><expan><abbr>Maec</abbr><ex>ia</ex></expan></name> <name>Caesilius</name>
+                    <lb n="4"/><name>Modius</name> <name>Titianus</name> <roleName type="supracivic" subtype="quaestor.pro.praetore"><w><expan><abbr>q</abbr><ex>uaestor</ex></expan></w> <w>pro</w> <w><expan><abbr>pr</abbr><ex>aetore</ex></expan></w></roleName>
+                    <lb n="5"/><w><expan><abbr>prov</abbr><ex>inciae</ex></expan></w> <name><expan><abbr>Sici</abbr><ex>liae</ex></expan></name> <w><choice><sic>plataeam</sic><corr>plateam</corr></choice></w> <w>vici</w>
+                    <lb n="6"/><name>Septizodi</name> <w>sternendam</w> <w>et</w>
+                    <lb n="7"/><w>perficiendam</w> <w>curavit</w> <w>ded<supplied reason="lost">i</supplied>
+                    <lb n="8" break="no"/>cavitque</w>
                 </ab>
             </div>
             <div type="apparatus">

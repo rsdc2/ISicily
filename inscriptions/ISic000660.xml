@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -186,10 +186,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP" source="https://www.zotero.org/groups/382445/items/KNA4DGCC">
                 <ab>
-                    <lb n="1"/><supplied reason="lost"><g ref="#cross_uninterpreted">&#x2B;</g></supplied> <supplied reason="lost">Hic</supplied> <supplied reason="lost">requiesc</supplied>it in pace <expan><abbr><hi rend="supraline">bo</hi></abbr><ex>nae</ex></expan> <expan><abbr><hi rend="supraline">m</hi></abbr><ex>emoriae</ex></expan> <persName type="attested"><name>Entolius</name></persName>
-                    <lb n="2"/><supplied reason="lost" cert="low"><expan><abbr>famul</abbr><ex>us</ex></expan></supplied> <supplied reason="lost" cert="low">sanctae</supplied> <expan><abbr><supplied reason="lost">Ro</supplied>m</abbr><ex>anae</ex></expan> <expan><abbr>eccl</abbr><ex>esiae</ex></expan> qui vixit <expan><abbr><hi rend="supraline">pl</hi></abbr><ex>us</ex></expan> <expan><abbr><hi rend="supraline">m</hi></abbr><ex>inus</ex></expan> <expan><abbr><hi rend="supraline">ann</hi></abbr><ex>is</ex></expan> <num value="50">L</num>
-                    <lb n="3"/><supplied reason="lost">depositus</supplied> <supplied reason="lost">mense</supplied> <supplied reason="lost">I</supplied>unio <expan><abbr>d</abbr><ex>ie</ex></expan> secunda <expan><abbr>ind</abbr><ex>ictione</ex></expan> se
-                    <lb n="4" break="no"/><supplied reason="lost" cert="low">cunda</supplied> <space unit="character" extent="unknown"/>
+                    <lb n="1"/><supplied reason="lost"><g ref="#cross_uninterpreted">+</g></supplied> <w><supplied reason="lost">Hic</supplied></w> <w><supplied reason="lost">requiesc</supplied>it</w> <w>in</w> <w>pace</w> <w><expan><abbr><hi rend="supraline">bo</hi></abbr><ex>nae</ex></expan></w> <w><expan><abbr><hi rend="supraline">m</hi></abbr><ex>emoriae</ex></expan></w> <persName type="attested"><name>Entolius</name></persName>
+                    <lb n="2"/><w><supplied reason="lost" cert="low"><expan><abbr>famul</abbr><ex>us</ex></expan></supplied></w> <w><supplied reason="lost" cert="low">sanctae</supplied></w> <name><expan><abbr><supplied reason="lost">Ro</supplied>m</abbr><ex>anae</ex></expan></name> <w><expan><abbr>eccl</abbr><ex>esiae</ex></expan></w> <w>qui</w> <w>vixit</w> <w><expan><abbr><hi rend="supraline">pl</hi></abbr><ex>us</ex></expan></w> <w><expan><abbr><hi rend="supraline">m</hi></abbr><ex>inus</ex></expan></w> <w><expan><abbr><hi rend="supraline">ann</hi></abbr><ex>is</ex></expan></w> <num value="50">L</num>
+                    <lb n="3"/><w><supplied reason="lost">depositus</supplied></w> <w><supplied reason="lost">mense</supplied></w> <name><supplied reason="lost">I</supplied>unio</name> <w><expan><abbr>d</abbr><ex>ie</ex></expan></w> <w>secunda</w> <w><expan><abbr>ind</abbr><ex>ictione</ex></expan></w> <w>se
+                    <lb n="4" break="no"/><supplied reason="lost" cert="low">cunda</supplied></w> <space unit="character" extent="unknown"/>
                 </ab>
             </div>
             <div type="apparatus" resp="#JP">

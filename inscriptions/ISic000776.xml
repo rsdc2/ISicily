@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -195,11 +195,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
-                    <lb n="1"/><expan><abbr>D</abbr><ex>is</ex></expan>
-                                        <expan><abbr>M</abbr><ex>anibus</ex></expan>
-                    <lb n="2"/><expan><abbr>A</abbr><ex>uli</ex></expan> Hirti Liberalis <space unit="character" quantity="4"/> vixit <expan><abbr>ann</abbr><ex>is</ex></expan>
-                    <lb n="3"/><num value="28">XXVIII</num> <expan><abbr>me</abbr><ex>n</ex><abbr>s</abbr><ex>ibus</ex></expan> <num value="11">XI</num> Claudia Sozo
-                    <lb n="4" break="no"/>mene mater <expan><abbr>fil</abbr><ex>io</ex></expan> pientissimo
+                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <name><expan><abbr>M</abbr><ex>anibus</ex></expan></name>
+                    <lb n="2"/><name><expan><abbr>A</abbr><ex>uli</ex></expan></name> <name>Hirti</name> <name>Liberalis</name> <space unit="character" quantity="4"/><w>vixit</w> <w><expan><abbr>ann</abbr><ex>is</ex></expan></w>
+                    <lb n="3"/><num value="28">XXVIII</num> <w><expan><abbr>me</abbr><ex>n</ex><abbr>s</abbr><ex>ibus</ex></expan></w> <num value="11">XI</num> <name>Claudia</name> <name>Sozo
+                    <lb n="4" break="no"/>mene</name> <w>mater</w> <w><expan><abbr>fil</abbr><ex>io</ex></expan></w> <w>pientissimo</w>
                 </ab>
             </div>
             <div type="apparatus">

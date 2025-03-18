@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -217,21 +217,21 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
-                    <lb n="1"/><foreign xml:lang="heb">Š<supplied reason="lost">LW</supplied>M ῾L YŚR᾿L ᾿MN ᾿MN ŠLWM ŠMW᾿L</foreign>
-                    <lb n="2"/>ego <persName type="attested"><name>Aurelius</name> <space unit="character" quantity="1"/> <name>Samohil</name></persName> conparabi
-                    <lb n="3"/>memoriam <choice><orig>mi</orig><reg>mihi</reg></choice> et <choice><orig>oxsoris</orig><reg>uxoris</reg></choice> <choice><orig>maee</orig><reg>meae</reg></choice> <persName type="attested"><name>Lasie</name> <name>Eri
-                    <lb n="4" break="no"/>ne</name></persName> que fatum conplebit <num value="12">XII</num> <space unit="character" quantity="1"/> <expan><abbr>kal</abbr><ex>endas</ex></expan> <g ref="#interpunct">·</g> Novebr
-                    <lb n="5" break="no"/>es <choice><orig>diae</orig><reg>die</reg></choice> Veneris luna octaba Mero
-                    <lb n="6" break="no"/>baudes iterum et Satornino <roleName type="supracivic" subtype="consul">con
-                    <lb n="7" break="no"/>sulibus</roleName> quae vixit annos <num value="23">XXIII</num> <space unit="character" quantity="1"/> cum
-                    <lb n="8"/>pace. <space unit="character" quantity="1"/> adiuro vos per victorias qui in
-                    <lb n="9" break="no"/>perant, item adiuro vos per honor
-                    <lb n="10" break="no"/>es patriarcarum, item adiuro vos
-                    <lb n="11"/>per <choice><orig>ligem</orig><reg>legem</reg></choice> quem Dominus dedit Iu
-                    <lb n="12" break="no"/>deis ni quis aperiat memoriam et mi
-                    <lb n="13" break="no"/>ttat corpus alienum supra ossa nostra.
-                    <lb n="14"/>si quis autem ape<choice><sic>r</sic><corr>p</corr></choice>iverit, dit fisco argendi pondo
-                    <lb n="15"/><g ref="#menorah"/> <space unit="character" quantity="23"/> <num value="10"><expan><abbr>dece</abbr><ex>m</ex></expan></num> <space unit="character" quantity="4"/> <g ref="#menorah"/>
+                    <lb n="1"/><foreign xml:lang="heb"><w>Š</w> <w><supplied reason="lost">LW</supplied></w> <name>M</name> <w>῾L</w> <w>YŚR᾿L</w> <w>᾿MN</w> <w>᾿MN</w> <w>ŠLWM</w> <w>ŠMW᾿L</w></foreign>
+                    <lb n="2"/><w>ego</w> <persName type="attested"><name>Aurelius</name> <space unit="character" quantity="1"/><name>Samohil</name></persName> <w>conparabi</w>
+                    <lb n="3"/><w>memoriam</w> <w><choice><orig>mi</orig><reg>mihi</reg></choice></w> <w>et</w> <w><choice><orig>oxsoris</orig><reg>uxoris</reg></choice></w> <w><choice><orig>maee</orig><reg>meae</reg></choice></w> <persName type="attested"><name>Lasie</name> <name>Eri
+                    <lb n="4" break="no"/>ne</name></persName> <w>que</w> <w>fatum</w> <w>conplebit</w> <num value="12">XII</num> <space unit="character" quantity="1"/><w><expan><abbr>kal</abbr><ex>endas</ex></expan></w> <g ref="#interpunct">·</g> <name>Novebr
+                    <lb n="5" break="no"/>es</name> <w><choice><orig>diae</orig><reg>die</reg></choice></w> <name>Veneris</name> <w>luna</w> <w>octaba</w> <name>Mero
+                    <lb n="6" break="no"/>baudes</name> <w>iterum</w> <w>et</w> <name>Satornino</name> <roleName type="supracivic" subtype="consul"><w>con
+                    <lb n="7" break="no"/>sulibus</w></roleName> <w>quae</w> <w>vixit</w> <w>annos</w> <num value="23">XXIII</num> <space unit="character" quantity="1"/><w>cum</w>
+                    <lb n="8"/><w>pace.</w> <space unit="character" quantity="1"/><w>adiuro</w> <w>vos</w> <w>per</w> <w>victorias</w> <w>qui</w> <w>in
+                    <lb n="9" break="no"/>perant,</w> <w>item</w> <w>adiuro</w> <w>vos</w> <w>per</w> <w>honor
+                    <lb n="10" break="no"/>es</w> <w>patriarcarum,</w> <w>item</w> <w>adiuro</w> <w>vos</w>
+                    <lb n="11"/><w>per</w> <w><choice><orig>ligem</orig><reg>legem</reg></choice></w> <w>quem</w> <name>Dominus</name> <w>dedit</w> <name>Iu
+                    <lb n="12" break="no"/>deis</name> <w>ni</w> <w>quis</w> <w>aperiat</w> <w>memoriam</w> <w>et</w> <w>mi
+                    <lb n="13" break="no"/>ttat</w> <w>corpus</w> <w>alienum</w> <w>supra</w> <w>ossa</w> <w>nostra.</w>
+                    <lb n="14"/><w>si</w> <w>quis</w> <w>autem</w> <w>ape<choice><sic>r</sic><corr>p</corr></choice>iverit,</w> <w>dit</w> <w>fisco</w> <w>argendi</w> <w>pondo</w>
+                    <lb n="15"/><g ref="#menorah"/> <space unit="character" quantity="23"/><num value="10"><expan><abbr>dece</abbr><ex>m</ex></expan></num> <space unit="character" quantity="4"/><g ref="#menorah"/>
                 </ab>
             </div>
             <div type="apparatus">

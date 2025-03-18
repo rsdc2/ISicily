@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -186,12 +186,12 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
-                    <lb n="1"/><supplied reason="lost">Hic requiescit</supplied>
-                    <lb n="2"/><supplied reason="lost">i</supplied>n so<unclear>m</unclear><supplied reason="lost">n</supplied>
-                    <lb n="3" break="no"/>o pacis B<supplied reason="lost">o</supplied>
-                    <lb n="4" break="no"/>nosus <expan><abbr>q</abbr><ex>ui</ex></expan> v<supplied reason="lost">i</supplied>
-                    <lb n="5" break="no"/><unclear>x</unclear>it <expan><abbr>pl</abbr><ex>us minus</ex></expan> <expan><abbr>a<supplied reason="lost">n</supplied></abbr><supplied reason="lost"><ex>nis</ex></supplied></expan> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="6"/>et <expan><abbr>d</abbr><ex>e</ex><abbr>p</abbr><ex>ositus</ex></expan> s<supplied reason="lost">ub</supplied> <supplied reason="lost"><expan><abbr>d</abbr><ex>ie</ex></expan></supplied>
+                    <lb n="1"/><w><supplied reason="lost">Hic requiescit</supplied></w>
+                    <lb n="2"/><w><supplied reason="lost">i</supplied>n</w> <w>so<unclear>m</unclear><supplied reason="lost">n</supplied>
+                    <lb n="3" break="no"/>o</w> <w>pacis</w> <name>B<supplied reason="lost">o</supplied>
+                    <lb n="4" break="no"/>nosus</name> <w><expan><abbr>q</abbr><ex>ui</ex></expan></w> <w>v<supplied reason="lost">i</supplied>
+                    <lb n="5" break="no"/><unclear>x</unclear>it</w> <w><expan><abbr>pl</abbr><ex>us minus</ex></expan></w> <w><expan><abbr>a<supplied reason="lost">n</supplied></abbr><supplied reason="lost"><ex>nis</ex></supplied></expan></w> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="6"/><w>et</w> <w><expan><abbr>d</abbr><ex>e</ex><abbr>p</abbr><ex>ositus</ex></expan></w> <w>s<supplied reason="lost">ub</supplied></w> <w><supplied reason="lost"><expan><abbr>d</abbr><ex>ie</ex></expan></supplied></w>
                     <lb n="7"/><num value="4">IIII</num> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>

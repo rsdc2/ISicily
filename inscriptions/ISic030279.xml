@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -177,34 +177,34 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1"/>Ἐπί <roleName type="civic.religious" subtype="hierothutes">ἱεροθύτᾶ</roleName>
-                    <lb n="2"/><persName type="attested"><name>Νυμφοδώρου</name> τοῦ <persName type="attested"><name type="patronym">Φίλωνος</name></persName></persName>
-                    <lb n="3"/><roleName type="civic" subtype="paraprostates"><expan><abbr>παραπροστά</abbr><ex>τα</ex></expan></roleName> τᾶς βουλᾶς,
-                    <lb n="4"/>προεδρευούσας τᾶς φυλᾶς
-                    <lb n="5"/>τῶν <orgName type="tribe">Ὑλλέων</orgName>, <roleName type="civic" subtype="proagoros">προαγοροῦντος</roleName>
-                    <lb n="6"/><persName type="attested"><name>Διοκλέος</name> τοῦ <persName type="attested"><name type="patronym">Διοκλέος</name></persName></persName>,
-                    <lb n="7"/><roleName type="civic" subtype="grammateus">γραμματεύοντος</roleName> <persName type="attested"><name>Ἀδρανίωνος</name> <persName type="attested"><name type="patronym">Ἀλεξάνδρου</name></persName></persName>,
-                    <lb n="8"/>ἁλίασμα ἕκτας διμήνου, <rs type="month">Καρνείου</rs> ἐξήκο<supplied reason="lost">ντ</supplied>ος παντᾶι,
-                    <lb n="9"/>ὑπὲρ <roleName type="paracivic" subtype="proxenos">προξενίας</roleName> <persName type="attested"><name>Δημητρίωι</name> <persName type="attested"><name type="patronym">Διοδότου</name></persName> <placeName type="ethnic">Συρακοσίωι</placeName></persName>.
-                    <lb n="10"/>Ἔδοξε τᾶι ἁλίαι καθὰ καὶ τᾶι συγκλήτωι <num value="110">ρι</num>  ἐπειδὴ ἀνάγ
-                    <lb n="11" break="no"/>γελλον ὁι <roleName type="civic" subtype="presbys">πρέσβεες</roleName> οἱ ἐς <placeName>Ῥώμαν</placeName> πορευθέντες, <persName type="attested"><name>Πασίων</name>
-                    <lb n="12"/><persName type="attested"><name type="patronym">Πασίωνος</name></persName> <persName type="attested"><name type="papponym">Κότητος</name></persName></persName> καὶ <persName type="attested"><name>Θεόδωρος</name> <persName type="attested"><name type="patronym">Θεοδώρου</name></persName> <persName type="attested"><name type="papponym">Ξηνιάδα</name></persName></persName>,
-                    <lb n="13"/><persName type="attested"><name>Δημήτριον</name> <persName type="attested"><name type="patronym">Διοδότου</name></persName> <placeName type="ethnic">Συρακόσιον</placeName></persName> πολλὰς καὶ μεγάλας χρείας
-                    <lb n="14"/>παρεισχῆσθαι τῶι ἁμῶι δάμωι καὶ μεγάλων ἀγαθῶν παραίτιο<supplied reason="omitted">ν</supplied>
-                    <lb n="15"/>γεγόνειν, τοῖς δὲ <placeName type="ethnic">Ἀκραγαντίνοις</placeName> πάτριόν ἐστι καὶ ἐκ προγόνων
-                    <lb n="16"/>παραδεδομένον τιμεῖν τοὺς ἀγαθοὺς ἄνδρας καὶ προισταμέ
-                    <lb n="17" break="no"/>νους τοῦ ἁμοῦ δάμου ταῖς καταξίοις τιμαῖς,
-                    <lb n="18"/>δεδόχθαι ἐπί ἀγαθᾶι τύχαι καὶ σωτηρίαι τοῦ δάμου τῶν <placeName type="ethnic">Ἀκραγαντίνων</placeName>
-                    <lb n="19"/>εἴμειν πρόξενον καὶ εὐεργέταν <persName type="attested"><name>Δημήτριον</name> <persName type="attested"><name type="patronym">Διοδότου</name></persName> <placeName type="ethnic">Συρακόσι
-                    <lb n="20" break="no"/>ον</placeName></persName>, ὅπως πᾶσι φανερὸν ἦ ὅτι ὁ δᾶμος τῶν <placeName type="ethnic">Ἀκραγαντίνων</placeName> ἐπί
-                    <lb n="21" break="no"/>σταται χάριτας ἀπονέμειν καταξίας τοῖς εὐεργετεῖν προαι
-                    <lb n="22" break="no"/>ρουμένοις αὐτόν · τὸ δὲ δόγμα τόδε κολάψαντας ἐς χαλκώ
-                    <lb n="23" break="no"/>ματα δύο, τὸ μὲν ἓν ἀναθέμειν εἰς τὸ βουλευτήριον, τὸ δὲ
-                    <lb n="24"/>ἄλλο ἀποδόμειν <persName type="attested"><name>Δημητρίωι</name> <persName type="attested"><name type="patronym">Διοδότου</name></persName> <placeName type="ethnic">Συρακοσίωι</placeName></persName> ὑπό
-                    <lb n="25" break="no"/>μναμα τᾶς ποτὶ τὸν δᾶμον εὐνοίας · τοὺς δὲ <roleName type="civic" subtype="tamias">ταμίας</roleName>
-                    <lb n="26"/>ἐξοδιάξαι ἐς τὰ προγεγραμμένα ὅσον κα χρεία ἦ καὶ φέ
-                    <lb n="27" break="no"/>ρειν τᾶν ἔξοδον διὰ τῶν ἀπολόγων.
-                    <lb n="28"/>Ὁμογνώμονες τοῦ συνεδρίου πάντες.
+                    <lb n="1"/><w>Ἐπί</w> <roleName type="civic.religious" subtype="hierothutes"><w>ἱεροθύτᾶ</w></roleName>
+                    <lb n="2"/><persName type="attested"><name>Νυμφοδώρου</name> <w>τοῦ</w> <persName type="attested"><name type="patronym">Φίλωνος</name></persName></persName>
+                    <lb n="3"/><roleName type="civic" subtype="paraprostates"><w><expan><abbr>παραπροστά</abbr><ex>τα</ex></expan></w></roleName> <w>τᾶς</w> <w>βουλᾶς,</w>
+                    <lb n="4"/><w>προεδρευούσας</w> <w>τᾶς</w> <w>φυλᾶς</w>
+                    <lb n="5"/><w>τῶν</w> <orgName type="tribe"><name>Ὑλλέων</name></orgName>, <roleName type="civic" subtype="proagoros"><w>προαγοροῦντος</w></roleName>
+                    <lb n="6"/><persName type="attested"><name>Διοκλέος</name> <w>τοῦ</w> <persName type="attested"><name type="patronym">Διοκλέος</name></persName></persName>,
+                    <lb n="7"/><roleName type="civic" subtype="grammateus"><w>γραμματεύοντος</w></roleName> <persName type="attested"><name>Ἀδρανίωνος</name> <persName type="attested"><name type="patronym">Ἀλεξάνδρου</name></persName></persName>,
+                    <lb n="8"/><w>ἁλίασμα</w> <w>ἕκτας</w> <w>διμήνου,</w> <rs type="month"><name>Καρνείου</name></rs><w>ἐξήκο<supplied reason="lost">ντ</supplied>ος</w> <w>παντᾶι,</w>
+                    <lb n="9"/><w>ὑπὲρ</w> <roleName type="paracivic" subtype="proxenos"><w>προξενίας</w></roleName> <persName type="attested"><name>Δημητρίωι</name> <persName type="attested"><name type="patronym">Διοδότου</name></persName> <placeName type="ethnic"><name>Συρακοσίωι</name></placeName></persName>.
+                    <lb n="10"/><name>Ἔδοξε</name> <w>τᾶι</w> <w>ἁλίαι</w> <w>καθὰ</w> <w>καὶ</w> <w>τᾶι</w> <w>συγκλήτωι</w> <num value="110">ρι</num> <w>ἐπειδὴ</w> <w>ἀνάγ
+                    <lb n="11" break="no"/>γελλον</w> <w>ὁι</w> <roleName type="civic" subtype="presbys"><w>πρέσβεες</w></roleName> <w>οἱ</w> <w>ἐς</w> <placeName><name>Ῥώμαν</name></placeName> <w>πορευθέντες,</w> <persName type="attested"><name>Πασίων</name>
+                    <lb n="12"/><persName type="attested"><name type="patronym">Πασίωνος</name></persName> <persName type="attested"><name type="papponym">Κότητος</name></persName></persName> <w>καὶ</w> <persName type="attested"><name>Θεόδωρος</name> <persName type="attested"><name type="patronym">Θεοδώρου</name></persName> <persName type="attested"><name type="papponym">Ξηνιάδα</name></persName></persName>,
+                    <lb n="13"/><persName type="attested"><name>Δημήτριον</name> <persName type="attested"><name type="patronym">Διοδότου</name></persName> <placeName type="ethnic"><name>Συρακόσιον</name></placeName></persName> <w>πολλὰς</w> <w>καὶ</w> <w>μεγάλας</w> <w>χρείας</w>
+                    <lb n="14"/><w>παρεισχῆσθαι</w> <w>τῶι</w> <w>ἁμῶι</w> <w>δάμωι</w> <w>καὶ</w> <w>μεγάλων</w> <w>ἀγαθῶν</w> <w>παραίτιο<supplied reason="omitted">ν</supplied></w>
+                    <lb n="15"/><w>γεγόνειν,</w> <w>τοῖς</w> <w>δὲ</w> <placeName type="ethnic"><name>Ἀκραγαντίνοις</name></placeName> <w>πάτριόν</w> <w>ἐστι</w> <w>καὶ</w> <w>ἐκ</w> <w>προγόνων</w>
+                    <lb n="16"/><w>παραδεδομένον</w> <w>τιμεῖν</w> <w>τοὺς</w> <w>ἀγαθοὺς</w> <w>ἄνδρας</w> <w>καὶ</w> <w>προισταμέ
+                    <lb n="17" break="no"/>νους</w> <w>τοῦ</w> <w>ἁμοῦ</w> <w>δάμου</w> <w>ταῖς</w> <w>καταξίοις</w> <w>τιμαῖς,</w>
+                    <lb n="18"/><w>δεδόχθαι</w> <w>ἐπί</w> <w>ἀγαθᾶι</w> <w>τύχαι</w> <w>καὶ</w> <w>σωτηρίαι</w> <w>τοῦ</w> <w>δάμου</w> <w>τῶν</w> <placeName type="ethnic"><name>Ἀκραγαντίνων</name></placeName>
+                    <lb n="19"/><w>εἴμειν</w> <w>πρόξενον</w> <w>καὶ</w> <w>εὐεργέταν</w> <persName type="attested"><name>Δημήτριον</name> <persName type="attested"><name type="patronym">Διοδότου</name></persName> <placeName type="ethnic"><name>Συρακόσι
+                    <lb n="20" break="no"/>ον</name></placeName></persName>, <w>ὅπως</w> <w>πᾶσι</w> <w>φανερὸν</w> <w>ἦ</w> <w>ὅτι</w> <w>ὁ</w> <w>δᾶμος</w> <w>τῶν</w> <placeName type="ethnic"><name>Ἀκραγαντίνων</name></placeName> <w>ἐπί
+                    <lb n="21" break="no"/>σταται</w> <w>χάριτας</w> <w>ἀπονέμειν</w> <w>καταξίας</w> <w>τοῖς</w> <w>εὐεργετεῖν</w> <w>προαι
+                    <lb n="22" break="no"/>ρουμένοις</w> <w>αὐτόν</w> <g ref="#interpunct">·</g> <w>τὸ</w> <w>δὲ</w> <w>δόγμα</w> <w>τόδε</w> <w>κολάψαντας</w> <w>ἐς</w> <w>χαλκώ
+                    <lb n="23" break="no"/>ματα</w> <w>δύο,</w> <w>τὸ</w> <w>μὲν</w> <w>ἓν</w> <w>ἀναθέμειν</w> <w>εἰς</w> <w>τὸ</w> <w>βουλευτήριον,</w> <w>τὸ</w> <w>δὲ</w>
+                    <lb n="24"/><w>ἄλλο</w> <w>ἀποδόμειν</w> <persName type="attested"><name>Δημητρίωι</name> <persName type="attested"><name type="patronym">Διοδότου</name></persName> <placeName type="ethnic"><name>Συρακοσίωι</name></placeName></persName> <w>ὑπό
+                    <lb n="25" break="no"/>μναμα</w> <w>τᾶς</w> <w>ποτὶ</w> <w>τὸν</w> <w>δᾶμον</w> <w>εὐνοίας</w> <g ref="#interpunct">·</g> <w>τοὺς</w> <w>δὲ</w> <roleName type="civic" subtype="tamias"><w>ταμίας</w></roleName>
+                    <lb n="26"/><w>ἐξοδιάξαι</w> <w>ἐς</w> <w>τὰ</w> <w>προγεγραμμένα</w> <w>ὅσον</w> <w>κα</w> <w>χρεία</w> <w>ἦ</w> <w>καὶ</w> <w>φέ
+                    <lb n="27" break="no"/>ρειν</w> <w>τᾶν</w> <w>ἔξοδον</w> <w>διὰ</w> <w>τῶν</w> <w>ἀπολόγων.</w>
+                    <lb n="28"/><name>Ὁμογνώμονες</name> <w>τοῦ</w> <w>συνεδρίου</w> <w>πάντες.</w>
                 </ab>
             </div>
             <div type="apparatus" resp="#JP">

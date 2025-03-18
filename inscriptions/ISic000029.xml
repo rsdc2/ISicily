@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -193,12 +193,12 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la">
                 <ab>
-                    <lb n="1"/><supplied reason="lost">Cl</supplied>odiae <g ref="#interpunct">·</g> <expan><abbr>Sex</abbr><ex>ti</ex></expan> <g ref="#interpunct">·</g> <expan><abbr>f</abbr><ex>iliae</ex></expan>
-                    <lb n="2"/>Granillae
-                    <lb n="3"/><supplied reason="lost">Cl</supplied>odi <g ref="#interpunct">·</g> Casti
-                    <lb n="4"/><supplied reason="lost"><expan><abbr>Sex</abbr><ex>tus</ex></expan></supplied> <expan><abbr>Clod</abbr><ex>ius</ex></expan> Hermad<unclear>on</unclear>
-                    <lb n="5"/>filiae <g ref="#interpunct">·</g> dulcissimae
-                    <lb n="6"/><expan><abbr>d</abbr><ex>ono</ex></expan> <g ref="#interpunct">·</g> <expan><abbr>d</abbr><ex>edit</ex></expan>
+                    <lb n="1"/><w><supplied reason="lost">Cl</supplied>odiae</w> <g ref="#interpunct">·</g> <name><expan><abbr>Sex</abbr><ex>ti</ex></expan></name> <g ref="#interpunct">·</g> <w><expan><abbr>f</abbr><ex>iliae</ex></expan></w>
+                    <lb n="2"/><name>Granillae</name>
+                    <lb n="3"/><name><supplied reason="lost">Cl</supplied>odi</name> <g ref="#interpunct">·</g> <name>Casti</name>
+                    <lb n="4"/><name><supplied reason="lost"><expan><abbr>Sex</abbr><ex>tus</ex></expan></supplied></name> <name><expan><abbr>Clod</abbr><ex>ius</ex></expan></name> <name>Hermad<unclear>on</unclear></name>
+                    <lb n="5"/><w>filiae</w> <g ref="#interpunct">·</g> <w>dulcissimae</w>
+                    <lb n="6"/><w><expan><abbr>d</abbr><ex>ono</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>d</abbr><ex>edit</ex></expan></w>
                 </ab>
             </div>
             <div type="apparatus">

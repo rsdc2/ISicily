@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -193,13 +193,13 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/>Κλώδι<hi rend="ligature">ος</hi> Ῥω
-                    <lb n="2" break="no"/>μαν<hi rend="ligature">ὸς</hi> ἔζη
-                    <lb n="3" break="no"/>σεν ἔτη <g ref="#interpunct">·</g> <num value="19"><hi rend="supraline">ι<g ref="#interpunct">·</g>θ</hi></num> <g ref="#interpunct">·</g>
-                    <lb n="4"/>ἡμέρας <g ref="#interpunct">·</g> <num value="4">δ</num> <g ref="#interpunct">·</g>
-                    <lb n="5"/>ἀμέμπτως <expan><abbr>τ<hi rend="supraline">ὸ</hi></abbr><ex>ν</ex></expan>
-                    <lb n="6"/>βίον ψυχὴ χαί
-                    <lb n="7" break="no"/>ρει <g ref="#interpunct">·</g> α<supplied reason="omitted">ἰ</supplied><g ref="#interpunct">·</g>ώνι<hi rend="ligature">ος</hi>
+                    <lb n="1"/><w>Κλώδι<hi rend="ligature">ος</hi></w> <name>Ῥω
+                    <lb n="2" break="no"/>μαν<hi rend="ligature">ὸς</hi></name> <w>ἔζη
+                    <lb n="3" break="no"/>σεν</w> <w>ἔτη</w> <g ref="#interpunct">·</g> <num value="19"><hi rend="supraline">ι<g ref="#interpunct">·</g>θ</hi></num> <g ref="#interpunct">·</g>
+                    <lb n="4"/><w>ἡμέρας</w> <g ref="#interpunct">·</g> <num value="4">δ</num> <g ref="#interpunct">·</g>
+                    <lb n="5"/><w>ἀμέμπτως</w> <w><expan><abbr>τ<hi rend="supraline">ὸ</hi></abbr><ex>ν</ex></expan></w>
+                    <lb n="6"/><w>βίον</w> <w>ψυχὴ</w> <w>χαί
+                    <lb n="7" break="no"/>ρει</w> <g ref="#interpunct">·</g> <w>α<supplied reason="omitted">ἰ</supplied><g ref="#interpunct">·</g>ώνι<hi rend="ligature">ος</hi></w>
                 </ab>
             </div>
             <div type="apparatus">

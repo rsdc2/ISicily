@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -189,10 +189,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
-                    <lb n="1"/><expan><abbr>M</abbr><ex>arco</ex></expan> <g ref="#interpunct">·</g> Cestio <g ref="#interpunct">·</g> <expan><abbr>P</abbr><ex>ubli</ex></expan> <g ref="#interpunct">·</g> <expan><abbr>f</abbr><ex>ilio</ex></expan> <g ref="#interpunct">·</g> <expan><abbr>Cla</abbr><ex>udia</ex></expan> <supplied reason="subaudible">tribu</supplied>
-                    <lb n="2"/><roleName type="military" subtype="primipilus">primo <g ref="#interpunct">·</g> p<hi rend="tall">i</hi>lo</roleName> <g ref="#interpunct">·</g> <roleName type="military" subtype="praefectus.fabrum"><expan><abbr>praef</abbr><ex>ecto</ex></expan>
-                    <lb n="3"/>fabrum</roleName> <g ref="#interpunct">·</g> <roleName type="military" subtype="tribunus.militum"><expan><abbr>trib</abbr><ex>uno</ex></expan> <expan><abbr>mil</abbr><ex>itum</ex></expan></roleName>
-                    <lb n="4"/><roleName type="civic" subtype="duumvir"><expan><abbr><num value="2"><hi rend="supraline">II</hi></num>vir</abbr><ex>o</ex></expan></roleName> <g ref="#interpunct">·</g> ex <g ref="#interpunct">·</g> <expan><abbr>d</abbr><ex>ecreto</ex></expan> <g ref="#interpunct">·</g> <roleName type="civic" subtype="decurio"><expan><abbr>d</abbr><ex>ecurionum</ex></expan></roleName>
+                    <lb n="1"/><w><expan><abbr>M</abbr><ex>arco</ex></expan></w> <g ref="#interpunct">·</g> <name>Cestio</name> <g ref="#interpunct">·</g> <name><expan><abbr>P</abbr><ex>ubli</ex></expan></name> <g ref="#interpunct">·</g> <w><expan><abbr>f</abbr><ex>ilio</ex></expan></w> <g ref="#interpunct">·</g> <name><expan><abbr>Cla</abbr><ex>udia</ex></expan></name> <w><supplied reason="subaudible">tribu</supplied></w>
+                    <lb n="2"/><roleName type="military" subtype="primipilus"><w>primo<hi rend="tall">i</hi>lo</w> <g ref="#interpunct">·</g> <w>p</w></roleName> <g ref="#interpunct">·</g> <roleName type="military" subtype="praefectus.fabrum"><w><expan><abbr>praef</abbr><ex>ecto</ex></expan></w>
+                    <lb n="3"/><w>fabrum</w></roleName> <g ref="#interpunct">·</g> <roleName type="military" subtype="tribunus.militum"><w><expan><abbr>trib</abbr><ex>uno</ex></expan></w> <w><expan><abbr>mil</abbr><ex>itum</ex></expan></w></roleName>
+                    <lb n="4"/><roleName type="civic" subtype="duumvir"><w><expan><abbr><num value="2"><hi rend="supraline">II</hi></num>vir</abbr><ex>o</ex></expan></w></roleName> <g ref="#interpunct">·</g> <w>ex</w> <g ref="#interpunct">·</g> <w><expan><abbr>d</abbr><ex>ecreto</ex></expan></w> <g ref="#interpunct">·</g> <roleName type="civic" subtype="decurio"><w><expan><abbr>d</abbr><ex>ecurionum</ex></expan></w></roleName>
                 </ab>
             </div>
                 <div type="apparatus">

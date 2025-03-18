@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -175,12 +175,12 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><orig>A</orig> <g ref="#interpunct">·</g> Valeriu<supplied reason="lost" cert="low">s</supplied> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><orig><unclear>A</unclear></orig> <g ref="#interpunct">·</g> Fabio <g ref="#interpunct">·</g> <orig>CE</orig><gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/><orig>D</orig> <g ref="#interpunct">·</g> <space unit="character" quantity="4"/> <orig>E</orig><gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/><w part="F">us</w> <g ref="#interpunct">·</g> esse <g ref="#interpunct">·</g> <w part="I">splend</w><gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/> <unclear>praesid</unclear> <orig><unclear>V</unclear></orig><orig><unclear>C</unclear></orig> in<gap reason="lost" extent="unknown" unit="character"/>
-                 </ab>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <orig>A</orig><g ref="#interpunct">·</g> <w>Valeriu<supplied reason="lost" cert="low">s</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <orig><unclear>A</unclear></orig><g ref="#interpunct">·</g> <name>Fabio</name> <g ref="#interpunct">·</g> <orig>CE</orig><gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <orig>D</orig><g ref="#interpunct">·</g> <space unit="character" quantity="4"/><orig>E</orig><gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <w part="F">us</w> <g ref="#interpunct">·</g> <w>esse</w> <g ref="#interpunct">·</g> <w part="I">splend</w> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/> <w><unclear>praesid</unclear></w> <orig><unclear>V</unclear></orig><orig><unclear>C</unclear></orig><w>in</w> <gap reason="lost" extent="unknown" unit="character"/>
+                </ab>
             </div>
             <div type="apparatus" resp="#JP">
                 <listApp><app><note>Text based on Orsi's drawing</note></app>

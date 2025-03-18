@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -193,10 +193,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
-                    <lb n="1"/> Messiae · Prisci · <expan><abbr>fil</abbr><ex>iae</ex></expan> · Crispinae
-                    <lb n="2"/><roleName type="civic.religious" subtype="flaminica">flaminicae</roleName> · divae · <expan><abbr>Aug</abbr><ex>ustae</ex></expan>
-                    <lb n="3"/>ex · testamento · Messi · Modiani · patris
-                    <lb n="4"/>Modianus · frater
+                    <lb n="1"/><w>Messiae</w> <g ref="#interpunct">·</g> <name>Prisci</name> <g ref="#interpunct">·</g> <w><expan><abbr>fil</abbr><ex>iae</ex></expan></w> <g ref="#interpunct">·</g> <name>Crispinae</name>
+                    <lb n="2"/><roleName type="civic.religious" subtype="flaminica"><w>flaminicae</w></roleName> <g ref="#interpunct">·</g> <w>divae</w> <g ref="#interpunct">·</g> <name><expan><abbr>Aug</abbr><ex>ustae</ex></expan></name>
+                    <lb n="3"/><w>ex</w> <g ref="#interpunct">·</g> <w>testamento</w> <g ref="#interpunct">·</g> <name>Messi</name> <g ref="#interpunct">·</g> <name>Modiani</name> <g ref="#interpunct">·</g> <w>patris</w>
+                    <lb n="4"/><name>Modianus</name> <g ref="#interpunct">·</g> <w>frater</w>
                 </ab>
             </div>
             <div type="apparatus">

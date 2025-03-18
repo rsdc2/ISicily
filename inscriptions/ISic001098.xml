@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -188,28 +188,28 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <div type="textpart" subtype="section" n="a">
-                <ab>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character" cert="low"/> <name>Φλάουιον</name> Ι<gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character" cert="low"/> φιλόσο<supplied reason="lost">φον</supplied> <gap reason="lost" extent="unknown" unit="character" cert="low"/> <supplied reason="lost">ἀ</supplied>
-                    <lb n="3" break="no"/><supplied reason="lost">π</supplied>ὸ κολωνείας <gap reason="lost" extent="unknown" unit="character" cert="low"/>
-                    <lb n="4"/><gap reason="lost" extent="unknown" unit="character" cert="low"/> <supplied reason="lost">Φλ</supplied>αουίας <orig>ΑΙΤ</orig><gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="5"/><gap reason="lost" extent="unknown" unit="character" cert="low"/><orig>Σ</orig> Κωνστα<supplied reason="lost">ντ</supplied><gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="6"/><gap reason="lost" extent="unknown" unit="character" cert="low"/><orig>ΦΙΛΗΜΣ</orig><gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown" unit="character" cert="low"/>
-                    <lb n="7"/><gap reason="lost" extent="unknown" unit="character" cert="low"/> οἱ Λιλυ<supplied reason="lost">βαῖοι</supplied> <gap reason="lost" extent="unknown" unit="character" cert="low"/>
-                    <lb n="8"/><gap reason="lost" extent="unknown" unit="character"/><orig>ΠΟ</orig><gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="9"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" unit="character" quantity="1"/><orig>Ο</orig><gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="10"/><gap reason="lost" extent="unknown" unit="character"/><orig>Η</orig><gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="11"/><supplied reason="lost">π</supplied>ᾶσι μόνος<gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="12"/><gap reason="lost" extent="unknown" unit="character"/> <orig>Π</orig> Λιλυβαίων
-                    <lb n="13"/><supplied reason="lost">ἄνδ</supplied>ρα σοφὸν <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="14"/><gap reason="lost" extent="unknown" unit="character"/> κλέος ἀν<supplied reason="lost" cert="low">δρῶν</supplied>
-                </ab>
+                    <ab>
+                        <lb n="1"/><gap reason="lost" extent="unknown" unit="character" cert="low"/> <name>Φλάουιον</name> <name>Ι</name> <gap reason="lost" extent="unknown" unit="character"/>
+                        <lb n="2"/><gap reason="lost" extent="unknown" unit="character" cert="low"/> <w>φιλόσο<supplied reason="lost">φον</supplied></w> <gap reason="lost" extent="unknown" unit="character" cert="low"/> <w><supplied reason="lost">ἀ</supplied>
+                        <lb n="3" break="no"/><supplied reason="lost">π</supplied>ὸ</w> <w>κολωνείας</w> <gap reason="lost" extent="unknown" unit="character" cert="low"/>
+                        <lb n="4"/><gap reason="lost" extent="unknown" unit="character" cert="low"/> <name><supplied reason="lost">Φλ</supplied>αουίας</name> <orig>ΑΙΤ</orig><gap reason="lost" extent="unknown" unit="character"/>
+                        <lb n="5"/><gap reason="lost" extent="unknown" unit="character" cert="low"/> <orig>Σ</orig><name>Κωνστα<supplied reason="lost">ντ</supplied></name> <gap reason="lost" extent="unknown" unit="character"/>
+                        <lb n="6"/><gap reason="lost" extent="unknown" unit="character" cert="low"/> <orig>ΦΙΛΗΜΣ</orig><gap reason="illegible" unit="character" quantity="1"/> <gap reason="lost" extent="unknown" unit="character" cert="low"/>
+                        <lb n="7"/><gap reason="lost" extent="unknown" unit="character" cert="low"/> <w>οἱ</w> <name>Λιλυ<supplied reason="lost">βαῖοι</supplied></name> <gap reason="lost" extent="unknown" unit="character" cert="low"/>
+                        <lb n="8"/><gap reason="lost" extent="unknown" unit="character"/> <orig>ΠΟ</orig><gap reason="lost" extent="unknown" unit="character"/>
+                        <lb n="9"/><gap reason="lost" extent="unknown" unit="character"/> <gap reason="illegible" unit="character" quantity="1"/> <orig>Ο</orig><gap reason="lost" extent="unknown" unit="character"/>
+                        <lb n="10"/><gap reason="lost" extent="unknown" unit="character"/> <orig>Η</orig><gap reason="lost" extent="unknown" unit="character"/>
+                        <lb n="11"/><w><supplied reason="lost">π</supplied>ᾶσι</w> <w>μόνος</w> <gap reason="lost" extent="unknown" unit="character"/>
+                        <lb n="12"/><gap reason="lost" extent="unknown" unit="character"/> <orig>Π</orig><name>Λιλυβαίων</name>
+                        <lb n="13"/><w><supplied reason="lost">ἄνδ</supplied>ρα</w> <w>σοφὸν</w> <gap reason="lost" extent="unknown" unit="character"/>
+                        <lb n="14"/><gap reason="lost" extent="unknown" unit="character"/> <w>κλέος</w> <w>ἀν<supplied reason="lost" cert="low">δρῶν</supplied></w>
+                    </ab>
                 </div>
                 <div type="textpart" subtype="section" n="b">
                     <ab>
-                     <lb n="1"/><orig>ΚΑΛΛΤΝ</orig>
-                    <lb n="2"/><orig>ΦΙΛΟϹΟ</orig>
-                    <lb n="3"/><orig>ΗΠΟΛ</orig>
+                        <lb n="1"/><orig>ΚΑΛΛΤΝ</orig>
+                        <lb n="2"/><orig>ΦΙΛΟϹΟ</orig>
+                        <lb n="3"/><orig>ΗΠΟΛ</orig>
                     </ab>
                 </div>
             </div>

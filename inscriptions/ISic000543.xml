@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -190,9 +190,9 @@
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#NCash">
                 <ab>
                     <lb n="1"/><persName type="attested"><name>Aeliae</name> <g ref="#interpunct">·</g> <name>Aug<supplied reason="lost">e</supplied></name></persName>
-                    <lb n="2"/>coniugi
-                    <lb n="3"/>sanctissimae
-                    <lb n="4"/><persName type="attested"><name type="praenomen"><expan><abbr>P</abbr><ex>ublius</ex></expan></name> <g ref="#interpunct">·</g> <name type="nomen">Aelius</name> <g ref="#interpunct">·</g> <persName type="attested"><name type="libertinatio"><expan><abbr>Aug</abbr><ex>usti</ex></expan></name></persName> <g ref="#interpunct">·</g> <expan><abbr>lib</abbr><ex>ertus</ex></expan>
+                    <lb n="2"/><w>coniugi</w>
+                    <lb n="3"/><w>sanctissimae</w>
+                    <lb n="4"/><persName type="attested"><name type="praenomen"><expan><abbr>P</abbr><ex>ublius</ex></expan></name> <g ref="#interpunct">·</g> <name type="nomen">Aelius</name> <g ref="#interpunct">·</g> <persName type="attested"><name type="libertinatio"><expan><abbr>Aug</abbr><ex>usti</ex></expan></name></persName> <g ref="#interpunct">·</g> <w><expan><abbr>lib</abbr><ex>ertus</ex></expan></w>
                     <lb n="5"/><name type="cognomen"><supplied reason="lost">N</supplied>igr<supplied reason="lost">i</supplied>nus</name></persName>
                 </ab>
             </div>

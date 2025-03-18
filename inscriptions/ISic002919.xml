@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -193,10 +193,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#VM">
                 <ab>
-                    <lb n="1"/><supplied reason="lost">Iulia</supplied>nus <unclear>g</unclear>ub<supplied reason="lost">ernator</supplied>
-                    <lb n="2"/><supplied reason="lost">prosu</supplied>miarum <supplied reason="lost">hic</supplied> <supplied reason="lost">iacet</supplied>
-                    <lb n="3"/><supplied reason="lost">pater</supplied> contra b<supplied reason="lost">otum</supplied> <supplied reason="lost">fecit</supplied>
-                    <lb n="4"/><supplied reason="lost">toties</supplied> <expan><abbr><hi rend="supraline">p</hi></abbr><ex>ost</ex></expan> <roleName type="supracivic" subtype="consul"><expan><abbr><hi rend="supraline">c</hi></abbr><ex>onsuli</ex></expan></roleName> Basili <expan><abbr>v</abbr><ex>iri</ex></expan> <roleName type="supracivic" subtype="clarissimus"><expan><abbr>c</abbr><ex>larissimi</ex></expan></roleName> <expan><abbr>ind</abbr><ex>ictione</ex></expan> tali
+                    <lb n="1"/><w><supplied reason="lost">Iulia</supplied>nus</w> <w><unclear>g</unclear>ub<supplied reason="lost">ernator</supplied></w>
+                    <lb n="2"/><w><supplied reason="lost">prosu</supplied>miarum</w> <w><supplied reason="lost">hic</supplied></w> <w><supplied reason="lost">iacet</supplied></w>
+                    <lb n="3"/><w><supplied reason="lost">pater</supplied></w> <w>contra</w> <w>b<supplied reason="lost">otum</supplied></w> <w><supplied reason="lost">fecit</supplied></w>
+                    <lb n="4"/><w><supplied reason="lost">toties</supplied></w> <w><expan><abbr><hi rend="supraline">p</hi></abbr><ex>ost</ex></expan></w> <roleName type="supracivic" subtype="consul"><w><expan><abbr><hi rend="supraline">c</hi></abbr><ex>onsuli</ex></expan></w></roleName> <name>Basili</name> <w><expan><abbr>v</abbr><ex>iri</ex></expan></w> <roleName type="supracivic" subtype="clarissimus"><w><expan><abbr>c</abbr><ex>larissimi</ex></expan></w></roleName> <w><expan><abbr>ind</abbr><ex>ictione</ex></expan></w> <w>tali</w>
                 </ab>
             </div>
             <div type="apparatus">

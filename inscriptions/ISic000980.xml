@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -204,13 +204,13 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM #JP">
                 <ab>
-                    <lb n="1"/>ἐνθάδε κῖτε
-                    <lb n="2"/><persName type="attested"><name>Παῦλα</name></persName> ζήσασ<supplied reason="omitted">α</supplied>
-                    <lb n="3"/>ἔτη <num value="25">κε</num> ἀνέλυσε
-                    <lb n="4"/>δὲ τὸν βίον πρὸ <num value="8">η</num> καλα<supplied reason="lost">ν</supplied>
-                    <lb n="5" break="no"/>δῶν Δεκενβρίων <roleName type="supracivic" subtype="consul">ὑπατίᾳ</roleName>
-                    <lb n="6"/><persName type="attested"><name>Ἱερίου</name></persName> καὶ <persName type="attested"><name>Ἀρταβουρίου</name></persName> τῶ<unclear>ν</unclear>
-                    <lb n="7"/><roleName type="supracivic" subtype="clarissimus">λανπροτάτων</roleName>
+                    <lb n="1"/><w>ἐνθάδε</w> <w>κῖτε</w>
+                    <lb n="2"/><persName type="attested"><name>Παῦλα</name></persName> <w>ζήσασ<supplied reason="omitted">α</supplied></w>
+                    <lb n="3"/><w>ἔτη</w> <num value="25">κε</num> <w>ἀνέλυσε</w>
+                    <lb n="4"/><w>δὲ</w> <w>τὸν</w> <w>βίον</w> <w>πρὸ</w> <num value="8">η</num> <w>καλα<supplied reason="lost">ν</supplied>
+                    <lb n="5" break="no"/>δῶν</w> <name>Δεκενβρίων</name> <roleName type="supracivic" subtype="consul"><w>ὑπατίᾳ</w></roleName>
+                    <lb n="6"/><persName type="attested"><name>Ἱερίου</name></persName> <w>καὶ</w> <persName type="attested"><name>Ἀρταβουρίου</name></persName> <w>τῶ<unclear>ν</unclear></w>
+                    <lb n="7"/><roleName type="supracivic" subtype="clarissimus"><w>λανπροτάτων</w></roleName>
                 </ab>
             </div>
             <div type="apparatus">

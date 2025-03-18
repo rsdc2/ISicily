@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -189,24 +189,14 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    <lb n="1"/>
-                    <gap reason="lost" extent="unknown" unit="line"/>
-                    <lb n="2"/>
-                    <gap reason="lost" extent="unknown" unit="character"/>ορίων
-                    <lb n="3"/>
-                    <gap reason="lost" extent="unknown" unit="character"/>νίσσα ζῶν
-                    <lb n="4" break="no"/>
-                    <supplied reason="lost">τες</supplied> <supplied reason="lost">ἐπο</supplied>ίησαν ἑα
-                    <lb n="5" break="no"/>
-                    <supplied reason="lost">υτοῖς</supplied> <supplied reason="lost">καὶ</supplied>
-                    μητήρι ν
-                    <lb n="6" break="no"/>
-                    <gap reason="lost" extent="unknown" unit="character"/>
-                    <supplied reason="lost">ἐνθά</supplied>δε Νείκη
-                    <lb n="7"/>
-                    <gap reason="lost" extent="unknown" unit="character"/>καὶ ηγυ
-                    <lb n="8" break="no"/>
-                    <gap reason="lost" extent="unknown" unit="character"/>ηρκη
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="line"/>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w>ορίων</w>
+                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <w>νίσσα</w> <w>ζῶν
+                    <lb n="4" break="no"/><supplied reason="lost">τες</supplied></w> <w><supplied reason="lost">ἐπο</supplied>ίησαν</w> <w>ἑα
+                    <lb n="5" break="no"/><supplied reason="lost">υτοῖς</supplied></w> <w><supplied reason="lost">καὶ</supplied></w> <w>μητήρι</w> <w>ν
+                    <lb n="6" break="no"/></w> <gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">ἐνθά</supplied>δε</w> <name>Νείκη</name>
+                    <lb n="7"/><gap reason="lost" extent="unknown" unit="character"/> <w>καὶ</w> <w>ηγυ
+                    <lb n="8" break="no"/></w> <gap reason="lost" extent="unknown" unit="character"/> <w>ηρκη</w>
                 </ab>
             </div>
             <div type="apparatus">

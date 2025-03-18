@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -201,10 +201,10 @@
                 <ab>
                     <lb n="1"/><name>Ulpio</name> <g ref="#interpunct">·</g> <name>Severo</name>
                     <lb n="2"/><name>Nar<supplied reason="lost">is</supplied>tus</name>
-                    <lb n="3"/><roleName type="military" subtype="eques.singularis"><expan><abbr>eq</abbr><ex>ues</ex></expan> <g ref="#interpunct">·</g> <expan><abbr>sing</abbr><ex>ularis</ex></expan></roleName> <g ref="#interpunct">·</g> <expan><abbr>Aug</abbr><ex>usti</ex></expan> <g ref="#interpunct">·</g> <expan><abbr>tur</abbr><ex>ma</ex></expan>
-                    <lb n="4"/>Busturonis <g ref="#interpunct">·</g> <expan><abbr>vix</abbr><ex>it</ex></expan> <g ref="#interpunct">·</g> <expan><abbr>an</abbr><ex>nos</ex></expan> <g ref="#interpunct">·</g> <num value="38">XXXVIII</num> <g ref="#interpunct">·</g> D<gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="5"/><name>Mansuetus</name> <g ref="#interpunct">·</g> et <g ref="#interpunct">·</g> <name>Titus</name>
-                    <lb n="6"/><expan><abbr>h</abbr><ex>eredes</ex></expan> <g ref="#interpunct">·</g> <expan><abbr>b</abbr><ex>ene</ex></expan> <g ref="#interpunct">·</g> <expan><abbr>m</abbr><ex>erenti</ex></expan> <g ref="#interpunct">·</g> <expan><abbr>f</abbr><ex>ecerunt</ex></expan>
+                    <lb n="3"/><roleName type="military" subtype="eques.singularis"><w><expan><abbr>eq</abbr><ex>ues</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>sing</abbr><ex>ularis</ex></expan></w></roleName> <g ref="#interpunct">·</g> <name><expan><abbr>Aug</abbr><ex>usti</ex></expan></name> <g ref="#interpunct">·</g> <w><expan><abbr>tur</abbr><ex>ma</ex></expan></w>
+                    <lb n="4"/><name>Busturonis</name> <g ref="#interpunct">·</g> <w><expan><abbr>vix</abbr><ex>it</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>an</abbr><ex>nos</ex></expan></w> <g ref="#interpunct">·</g> <num value="38">XXXVIII</num> <g ref="#interpunct">·</g> <name>D</name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="5"/><name>Mansuetus</name> <g ref="#interpunct">·</g> <w>et</w> <g ref="#interpunct">·</g> <name>Titus</name>
+                    <lb n="6"/><w><expan><abbr>h</abbr><ex>eredes</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>b</abbr><ex>ene</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>m</abbr><ex>erenti</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>f</abbr><ex>ecerunt</ex></expan></w>
                 </ab>
             </div>
             <div type="apparatus">

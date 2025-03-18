@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -189,26 +189,15 @@
         <body>
             <div type="edition" xml:space="preserve" subtype="PHI" n="PHI331213">
                 <ab>
-                    <lb n="1"/>
-                    <supplied reason="lost">— — — — — — — — — — —</supplied>
-                    <lb n="2"/>Αμηλ. <unclear>Γ</unclear>α<supplied reason="lost">βριηλ(?) ․․․․c.12․․․․</supplied>.
-                    <lb n="3"/>
-                    <expan>
-                        <abbr>Χρ</abbr>
-                        <ex>ιστ</ex>
-                        <abbr>ὲ</abbr>
-                    </expan>
-                    ὁ πλοιθύνα
-                    <unclear>ς</unclear>
-                    <surplus>²⁶πληθύνας</surplus>²⁶ ἀ
-                    <unclear>σ</unclear>
-                    <supplied reason="lost">τέρας ἰς τ</supplied>-<lb n="4"/>ὸν οὐρανὸν κα<supplied reason="omitted">ὶ
-                </supplied> τὸ ὕδορ ε<unclear>ἰ</unclear>ς τὴν<lb n="5"/>θαλάσσην, πλοίθυνον κὲ<lb n="6"/>τὺς καρπὺς ἰς
-                    τὸν ἀμπελ-<lb n="7"/>ο͂ναν Παύλου.
-                    <lb n="8"/>
-                    <surplus>²signa magica</surplus>²
-                    <lb n="9"/>
-                    <surplus>²signa magica</surplus>²
+                    <lb n="1"/><w><supplied reason="lost">— — — — — — — — — — —</supplied></w>
+                    <lb n="2"/><name>Αμηλ.</name> <name><unclear>Γ</unclear>α<supplied reason="lost">βριηλ(?) ․․․․c.12․․․․</supplied>.</name>
+                    <lb n="3"/><name><expan><abbr>Χρ</abbr><ex>ιστ</ex><abbr>ὲ</abbr></expan></name> <w>ὁ</w> <w>πλοιθύνα</w> <w><unclear>ς</unclear></w> <name><surplus>²⁶πληθύνας</surplus>²⁶</name> <w>ἀ</w> <w><unclear>σ</unclear></w> <w><supplied reason="lost">τέρας ἰς τ</supplied>-</w>
+                    <lb n="4"/><w>ὸν</w> <w>οὐρανὸν</w> <w>κα<supplied reason="omitted">ὶ</supplied></w> <w>τὸ</w> <w>ὕδορ</w> <w>ε<unclear>ἰ</unclear>ς</w> <w>τὴν</w>
+                    <lb n="5"/><w>θαλάσσην,</w> <w>πλοίθυνον</w> <w>κὲ</w>
+                    <lb n="6"/><w>τὺς</w> <w>καρπὺς</w> <w>ἰς</w> <w>τὸν</w> <w>ἀμπελ-</w>
+                    <lb n="7"/><w>ο͂ναν</w> <name>Παύλου.</name>
+                    <lb n="8"/><name><surplus>²signa magica</surplus>²</name>
+                    <lb n="9"/><name><surplus>²signa magica</surplus>²</name>
                     <lb n="10"/>
                 </ab>
             </div>
@@ -217,9 +206,9 @@
                     <lb n="1"/>
 
 
-                    Ἀμ<unclear>ή</unclear>λ· <unclear>γι</unclear>ά
-                    <supplied reason="lost">μεν σε(?), Ἰεσοῦ</supplied>
-                    <lb n="2"/>
+                    Ἀμ<unclear>ή</unclear>λ·  <unclear>γι</unclear>ά
+                     <supplied reason="lost">μεν σε(?), Ἰεσοῦ</supplied>
+                     <lb n="2"/>
                     <expan>
                         <abbr>Χρ</abbr>
                         <ex>ιστ</ex>
@@ -227,7 +216,7 @@
                     </expan>
                     , ὁ πλοιθύνα
                     <unclear>ς</unclear>
-                    <surplus>²⁶πληθύνας</surplus>²⁶ ἀσ<supplied reason="lost">τέρας ἰς τ</supplied>-<lb n="3"/>ὸν
+                     <surplus>²⁶πληθύνας</surplus>²⁶ ἀσ<supplied reason="lost">τέρας ἰς τ</supplied>- <lb n="3"/>ὸν
                     οὐρανὸν κ’ ἄρτου δορεάς, τὴν
                     <lb n="4"/>
                 </ab>

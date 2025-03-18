@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -186,11 +186,11 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
                     <lb n="1"/><g ref="#alpha">Α</g>
-                    <lb n="2"/>Ἰησοῦς Χριστὸς θεοῦ
-                    <lb n="3"/>υἱὸς Σωτὴρ καὶ
-                    <lb n="4"/>σταυρωθε<supplied reason="lost">ίς</supplied>
-                    <lb n="5"/> <g ref="#omega">Ω</g>
-                    </ab>
+                    <lb n="2"/><w>Ἰησοῦς</w> <name>Χριστὸς</name> <w>θεοῦ</w>
+                    <lb n="3"/><w>υἱὸς</w> <name>Σωτὴρ</name> <w>καὶ</w>
+                    <lb n="4"/><w>σταυρωθε<supplied reason="lost">ίς</supplied></w>
+                    <lb n="5"/><g ref="#omega">Ω</g>
+                </ab>
             </div>
             <div type="apparatus">
                 <listApp><app><note>Text after Filippi and SEG, following Filippi's transcription of the manuscript tradition</note></app></listApp>

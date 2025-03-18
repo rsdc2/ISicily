@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -188,15 +188,12 @@
         <body>
             <div type="edition" xml:space="preserve" subtype="PHI" n="PHI331833">
                 <ab>
-                    <lb n="1"/>
-                    <surplus>²columna (pagina) a sinistra parte plane detrita est</surplus>²<lb n="2"/>
-                    <lb n="3"/>
-                    <surplus>²10 versus non leguntur</surplus>²
-                    <lb n="4"/>
-                    <supplied reason="lost">— — — — —</supplied>κόσια τρισχίλια τάλαντα vacat<lb n="5"/>
-                    Καρνείου· <supplied reason="lost"><roleName type="civic" subtype="proboulos">πρ(όβουλος)</roleName> — —</supplied>ου Οιτ. <roleName type="civic.religious" subtype="hieromnamon">ἱερομναμόνοις</roleName><lb n="6"/>
-                    ἔσοδος
-                    <supplied reason="lost">— — — — — — — — — — — — — — — — —</supplied>
+                    <lb n="1"/><w><surplus>²columna (pagina) a sinistra parte plane detrita est</surplus>²</w>
+                    <lb n="2"/>
+                    <lb n="3"/><name><surplus>²10 versus non leguntur</surplus>²</name>
+                    <lb n="4"/><name><supplied reason="lost">— — — — —</supplied>κόσια</name> <w>τρισχίλια</w> <w>τάλαντα</w> <w>vacat</w>
+                    <lb n="5"/><name>Καρνείου·</name> <w><supplied reason="lost"><roleName type="civic" subtype="proboulos">πρ(όβουλος)</roleName>— —</supplied>ου</w> <name>Οιτ.</name> <roleName type="civic.religious" subtype="hieromnamon"><w>ἱερομναμόνοις</w></roleName>
+                    <lb n="6"/><w>ἔσοδος</w> <name><supplied reason="lost">— — — — — — — — — — — — — — — — —</supplied></name>
                     <lb n="7"/>
                 </ab>
             </div>

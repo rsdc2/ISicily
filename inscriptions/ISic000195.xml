@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -199,9 +199,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#VM #JP">
                 <ab>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><w part="F"><unclear>M</unclear></w> <g ref="#interpunct">·</g> <persName type="attested"><name><hi rend="ligature">Ma</hi>rgar</name></persName>
-                    <lb n="2"/><supplied reason="lost"><expan><abbr>v</abbr><ex>ixit</ex></expan></supplied> <expan><abbr><unclear>a</unclear></abbr><ex>nnis</ex></expan> <g ref="#interpunct">·</g> <num value="4">IIII</num> <g ref="#interpunct">·</g> <expan><abbr>m</abbr><ex>ensibus</ex></expan> <g ref="#interpunct">·</g> <num value="11">XI</num>
-                    <lb n="3"/><expan><abbr>d</abbr><ex>iebus</ex></expan> <g ref="#interpunct">·</g> <num value="7">VII</num>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w part="F"><unclear>M</unclear></w> <g ref="#interpunct">·</g> <persName type="attested"><name><hi rend="ligature">Ma</hi>rgar</name></persName>
+                    <lb n="2"/><w><supplied reason="lost"><expan><abbr>v</abbr><ex>ixit</ex></expan></supplied></w> <w><expan><abbr><unclear>a</unclear></abbr><ex>nnis</ex></expan></w> <g ref="#interpunct">·</g> <num value="4">IIII</num> <g ref="#interpunct">·</g> <w><expan><abbr>m</abbr><ex>ensibus</ex></expan></w> <g ref="#interpunct">·</g> <num value="11">XI</num>
+                    <lb n="3"/><w><expan><abbr>d</abbr><ex>iebus</ex></expan></w> <g ref="#interpunct">·</g> <num value="7">VII</num>
                 </ab>
             </div>
             <div type="apparatus">

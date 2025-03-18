@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -187,13 +187,13 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1"/><supplied reason="lost">ἐ</supplied>νθάδε κεῖτε
-                    <lb n="2"/><persName type="attested"><name>Κυριακὸς</name></persName> ζήσας
-                    <lb n="3"/><supplied reason="lost">ε</supplied>̓́τη <num value="23">εἴκοσει τρ<supplied reason="lost">ία</supplied></num>
-                    <lb n="4"/><supplied reason="lost">ἀ</supplied>μέμπτως ζ<supplied reason="lost">ή</supplied>
-                    <lb n="5" break="no"/><supplied reason="lost">σα</supplied>ς τὸν βίον ἐπ<supplied reason="lost">λ</supplied>
-                    <lb n="6" break="no"/><supplied reason="lost">ή</supplied>ρωσεν τῇ π<supplied reason="lost">ρὸ</supplied>
-                    <lb n="7"/><num value="5">ε</num> καλανδ<supplied reason="lost">ῶν</supplied> <gap reason="illegible" unit="character" extent="unknown"><desc>name of month</desc></gap>
+                    <lb n="1"/><w><supplied reason="lost">ἐ</supplied>νθάδε</w> <w>κεῖτε</w>
+                    <lb n="2"/><persName type="attested"><name>Κυριακὸς</name></persName> <w>ζήσας</w>
+                    <lb n="3"/><w><supplied reason="lost">ε</supplied>̓́τη</w> <num value="23">εἴκοσει τρ<supplied reason="lost">ία</supplied></num>
+                    <lb n="4"/><w><supplied reason="lost">ἀ</supplied>μέμπτως</w> <w>ζ<supplied reason="lost">ή</supplied>
+                    <lb n="5" break="no"/><supplied reason="lost">σα</supplied>ς</w> <w>τὸν</w> <w>βίον</w> <w>ἐπ<supplied reason="lost">λ</supplied>
+                    <lb n="6" break="no"/><supplied reason="lost">ή</supplied>ρωσεν</w> <w>τῇ</w> <w>π<supplied reason="lost">ρὸ</supplied></w>
+                    <lb n="7"/><num value="5">ε</num> <w>καλανδ<supplied reason="lost">ῶν</supplied></w> <gap reason="illegible" unit="character" extent="unknown"><desc>name of month</desc></gap>
                 </ab>
             </div>
             <div type="apparatus" resp="#JP">
@@ -209,7 +209,7 @@
                 <p>Here lies Kyriakos, having lived 23 years. Having lived blamelessly, he fulfilled his life on the 5th day before the Kalends of [---]</p>
             </div>
             <div type="commentary">
-                <p></p>
+                <p/>
             </div>
             <div type="bibliography">
                 <listBibl type="edition">

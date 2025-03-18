@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -190,11 +190,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#GC">
                 <ab>
-                    <lb n="1"/><expan><abbr>Δ</abbr><ex>αίμοσι</ex></expan> <expan><abbr>Χ</abbr><ex>θονίοις</ex></expan>
-                    .<lb n="2"/><name>Δόμνα</name> <choice><orig>ἔζεσεν</orig><reg>ἔζησεν</reg></choice> <supplied reason="lost">ἔτη</supplied> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="3"/><expan><abbr>μ<unclear>ῆ</unclear>ν</abbr><ex>ας</ex></expan> <num value="8">η</num> <name>Βόττος</name> <supplied reason="lost">καὶ</supplied> <name><supplied reason="lost">Με</supplied>
-                    <lb n="4"/>λιτίν<unclear>η</unclear></name> τέκνῳ γλ<supplied reason="lost">υκυτάτῳ</supplied>
-                    <lb n="5"/>ἐπ<supplied reason="lost">οίησαν</supplied>
+                    <lb n="1"/><w><expan><abbr>Δ</abbr><ex>αίμοσι</ex></expan></w> <name><expan><abbr>Χ</abbr><ex>θονίοις</ex></expan></name> <name>.</name>
+                    <lb n="2"/><name>Δόμνα</name> <w><choice><orig>ἔζεσεν</orig><reg>ἔζησεν</reg></choice></w> <w><supplied reason="lost">ἔτη</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="3"/><w><expan><abbr>μ<unclear>ῆ</unclear>ν</abbr><ex>ας</ex></expan></w> <num value="8">η</num> <name>Βόττος</name> <w><supplied reason="lost">καὶ</supplied></w> <name><supplied reason="lost">Με</supplied>
+                    <lb n="4"/>λιτίν<unclear>η</unclear></name> <w>τέκνῳ</w> <w>γλ<supplied reason="lost">υκυτάτῳ</supplied></w>
+                    <lb n="5"/><w>ἐπ<supplied reason="lost">οίησαν</supplied></w>
                 </ab>
             </div>
             <div type="apparatus">

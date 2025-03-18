@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -201,12 +201,12 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
-                    <lb n="1"/><gap reason="lost" unit="character" quantity="1"/><supplied reason="lost">Α</supplied><unclear>ἴ</unclear>λιον · Ἀσί
-                    <lb n="2" break="no"/>νιον · Πέτει
-                    <lb n="3" break="no"/>τον · ῥήτορα
-                    <lb n="4"/>ἐγ συνεισ
-                    <lb n="5" break="no"/>φορᾶς · ἡ π<supplied reason="lost">όλις</supplied>
-                    <lb n="6"/><supplied reason="lost" cert="low">τῶν Ἁλαισίνων</supplied>
+                    <lb n="1"/><gap reason="lost" unit="character" quantity="1"/> <w><supplied reason="lost">Α</supplied><unclear>ἴ</unclear>λιον</w> <g ref="#interpunct">·</g> <name>Ἀσί
+                    <lb n="2" break="no"/>νιον</name> <g ref="#interpunct">·</g> <name>Πέτει
+                    <lb n="3" break="no"/>τον</name> <g ref="#interpunct">·</g> <w>ῥήτορα</w>
+                    <lb n="4"/><w>ἐγ</w> <w>συνεισ
+                    <lb n="5" break="no"/>φορᾶς</w> <g ref="#interpunct">·</g> <w>ἡ</w> <w>π<supplied reason="lost">όλις</supplied></w>
+                    <lb n="6"/><w><supplied reason="lost" cert="low">τῶν Ἁλαισίνων</supplied></w>
                 </ab>
             </div>
             <div type="apparatus">

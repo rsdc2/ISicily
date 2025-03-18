@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -187,10 +187,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name><expan><abbr>L</abbr><ex>ucius</ex></expan></name> <g ref="#interpunct">·</g> <name>Iulius</name> <g ref="#interpunct">·</g> <persName type="attested"><name type="patronym"><expan><abbr>L</abbr><ex>uci</ex></expan></name></persName> <g ref="#interpunct">·</g> <expan><abbr>f</abbr><ex>ilius</ex></expan> <g ref="#interpunct">·</g> <orgName><expan><abbr>Quir</abbr><ex>ina</ex></expan></orgName> <supplied reason="subaudible">tribu</supplied>
+                    <lb n="1"/><persName type="attested"><name><expan><abbr>L</abbr><ex>ucius</ex></expan></name> <g ref="#interpunct">·</g> <name>Iulius</name> <g ref="#interpunct">·</g> <persName type="attested"><name type="patronym"><expan><abbr>L</abbr><ex>uci</ex></expan></name></persName> <g ref="#interpunct">·</g> <w><expan><abbr>f</abbr><ex>ilius</ex></expan></w> <g ref="#interpunct">·</g> <orgName><name><expan><abbr>Quir</abbr><ex>ina</ex></expan></name></orgName> <w><supplied reason="subaudible">tribu</supplied></w>
                     <lb n="2"/><name>Attilianus</name></persName>
-                    <lb n="3"/><expan><abbr>vix</abbr><ex>it</ex></expan> <g ref="#interpunct">·</g> <expan><abbr>an</abbr><ex>nis</ex></expan> <g ref="#interpunct">·</g> <num value="19">XIX</num>
-                    <lb n="4"/><expan><abbr>mens</abbr><ex>ibus</ex></expan> <g ref="#interpunct">·</g> <num value="7">VII</num> <g ref="#interpunct">·</g> <expan><abbr>d</abbr><ex>iebus</ex></expan> <g ref="#interpunct">·</g> <num value="14">XIIII</num>
+                    <lb n="3"/><w><expan><abbr>vix</abbr><ex>it</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>an</abbr><ex>nis</ex></expan></w> <g ref="#interpunct">·</g> <num value="19">XIX</num>
+                    <lb n="4"/><w><expan><abbr>mens</abbr><ex>ibus</ex></expan></w> <g ref="#interpunct">·</g> <num value="7">VII</num> <g ref="#interpunct">·</g> <w><expan><abbr>d</abbr><ex>iebus</ex></expan></w> <g ref="#interpunct">·</g> <num value="14">XIIII</num>
                 </ab>
             </div>
             <div type="apparatus">
@@ -200,7 +200,7 @@
                 <p>Lucius Iulius Attilianus, son of Lucius, of the Quirina tribe, lived for 19 years, 7 months, 14 days.</p>
             </div>
             <div type="commentary">
-                <p></p>
+                <p/>
             </div>
             <div type="bibliography">
                 <listBibl type="edition">

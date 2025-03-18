@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -174,22 +174,18 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <div type="textpart" subtype="fragment-physical" n="1">
-                        <ab>
-                            <milestone unit="face" n="a"/>
-                            <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><orig>Ν</orig><gap reason="lost" extent="unknown" unit="character"/>
-                        
-                            <milestone unit="face" n="b"/>
-                            <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/>άτας
-                        </ab>
+                    <ab>
+                        <milestone unit="face" n="a"/>
+                        <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <orig>Ν</orig><gap reason="lost" extent="unknown" unit="character"/> <milestone unit="face" n="b"/>
+                        <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w>άτας</w>
+                    </ab>
                 </div>
                 <div type="textpart" subtype="fragment-physical" n="2">
-                        <ab>
-                            <milestone unit="face" corresp="a"/>
-                            <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><orig>ΘΟ</orig><gap reason="lost" extent="unknown" unit="character"/>
-                        
-                            <milestone unit="face" corresp="b"/>
-                            <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><orig>Η</orig><gap reason="lost" extent="unknown" unit="character"/>
-                        </ab>
+                    <ab>
+                        <milestone unit="face" corresp="a"/>
+                        <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <orig>ΘΟ</orig><gap reason="lost" extent="unknown" unit="character"/> <milestone unit="face" corresp="b"/>
+                        <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <orig>Η</orig><gap reason="lost" extent="unknown" unit="character"/>
+                    </ab>
                 </div>
             </div>
             <div type="apparatus">

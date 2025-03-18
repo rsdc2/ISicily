@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -108,7 +108,7 @@
                             <origPlace>
                                 <placeName type="ancient" ref="https://pleiades.stoa.org/places/465958">Nakone</placeName>
                                 <placeName type="modern"/>
-                                <geo></geo>
+                                <geo/>
 		</origPlace>
                             <origDate datingMethod="#julian" notBefore-custom="-0264" notAfter-custom="-0241" evidence="lettering textual-context">First Punic War (264-241 BCE), and commonly attributed to the second half of the war.</origDate>
                         </origin>
@@ -183,42 +183,42 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
-                <ab>  
-                    <lb n="1"/>ἐπὶ Λευκίου τοῦ Καισίου καὶ Φιλωνίδα Φι<unclear>λ</unclear><gap reason="lost" unit="character" atLeast="3" atMost="5"/>
-                    <lb n="2"/>Ἀδωνίου τετάρται ἱσταμένου ἔδοξε
-                    <lb n="3"/>τᾶι ἁλίαι καθὰ καὶ τᾶι βουλᾶι ἐπειδὴ τᾶς
-                    <lb n="4"/>τύχας καλῶς προαγημένας διώρθωται τὰ <unclear>κ</unclear>ο<supplied reason="lost">ιν</supplied><unclear>ὰ</unclear>
-                    <lb n="5"/>τῶν Νακων<unclear>α</unclear>ίω<unclear>ν</unclear> συμφέρει δὲ καὶ ἐς τὸν λοιπὸν χρόνον ὁ<unclear>μ</unclear>ο<unclear>ν</unclear><supplied reason="lost">ο</supplied>
-                    <lb n="6" break="no"/>οῦντας πολιτεύεσθαι πρέσβεις τε Ἐγεσταίων παργενα<unclear>θέν</unclear>
-                    <lb n="7" break="no"/>τες Ἀπέλλ<unclear>ι</unclear>χος Ἀλείδα Ἀττικὸς Πίστωνος Διονύσιος Δ<unclear>ε</unclear>κ<supplied reason="lost">ί</supplied>
-                    <lb n="8" break="no"/>ου ὑπὲρ τῶν κοινᾶι συμφερόντω<hi rend="stacked">ν</hi> <hi rend="stacked">π</hi>ᾶσι τοῖς πολίταις συ<unclear>ν</unclear>εβ<unclear>ο</unclear><supplied reason="lost">ύ</supplied>
-                    <lb n="9" break="no"/>λευσαν δεδόχθαι τοῦ Ἀδωνίου τᾶι τετάρται ἱσταμένου <unclear>ἁλίαν</unclear>
-                    <lb n="10"/>τῶμ πολιτᾶν συναγαγεῖν καὶ ὅσσοις ἁ διαφορὰ τῶμ πολιτ<supplied reason="lost">ᾶν</supplied>
-                    <lb n="11"/>γέγονε ὑπὲρ τῶν κοινῶν ἀγωνιζομένοις ἀνακληθέντας ἐς
-                    <lb n="12"/>τὰν ἁλίαν διάλυσιν ποιήσασθαι αὐτοὺς ποτ᾿ αὐτοὺς προγρα
-                    <lb n="13" break="no"/>φέντας ἑκατέρων τριάκοντα οἱ δὲ <hi rend="stacked">ὑπ</hi>εναντίοι γεγονότες <unclear>ἐ</unclear>ν
-                    <lb n="14"/>τοῖς ἔμπροσθεν χρόνοις ἑκάτεροι ἑκατέρων προγ<unclear>ρ</unclear>αψάντω οἱ δ<unclear>ὲ</unclear>
-                    <lb n="15"/>ἄρχοντες τὰ ὀνόματα <unclear>κλ</unclear>αρογραφήσαντες χω<unclear>ρὶς</unclear> <unclear>ἑκα</unclear>τέ
-                    <lb n="16" break="no"/>ρων ἐμβαλόντες ἐς ὑ<unclear>δρί</unclear>ας δυόω κλαρώντων ἕνα ἐξ ἑκα
-                    <lb n="17" break="no"/>τέρων καὶ ἐκ τῶν λο<unclear>ι</unclear><supplied reason="lost">π</supplied>ῶν πολ<unclear>ι</unclear>τᾶν ποτικλαρώντω τρεῖς
-                    <lb n="18"/>πὸτ τοὺς δύο ἔξω τᾶν ἀγχιστ<unclear>ει</unclear>ᾶν ἇν ὁ νόμος ἐκ τῶν <unclear>δ</unclear>ικασ
-                    <lb n="19" break="no"/>τηρίων μεθίστασθαι κέλεται καὶ ἐς τὸν αὐτῶντα οἱ συν
-                    <lb n="20" break="no"/>λαχόντες ἀδελφοὶ αἱρετοὶ ὁμονοοῦντες ἀλ<hi rend="stacked"><unclear>λ</unclear></hi>ά<unclear>λ</unclear>οις με
-                    <lb n="21" break="no"/>τὰ <unclear>π</unclear>άσας δικαιότατος καὶ φιλίας ἐπεὶ δέ κα οἱ
-                    <lb n="22"/>ἑξήκομτα πάντες κλᾶροι ἀερθέωντι κα<unclear>ὶ</unclear> <unclear>οἱ</unclear> <unclear>π</unclear>οτὶ
-                    <lb n="23"/>τούτους συλ<unclear>λ</unclear>αχόντες τοὺς λοιποὺς πολίτας
-                    <lb n="24"/>πάντας κατὰ πέντε συγκλαρώντω μὴ συγκλα
-                    <lb n="25" break="no"/><unclear>ρ</unclear>ῶντες τὰς ἀγχιστείας καθὰ <unclear>γ</unclear>έγραπται καὶ ἐς
-                    <lb n="26"/>τὸν αὐτῶντα ἀδελφοὶ καὶ οὗτοι καθὰ <supplied reason="lost">κ</supplied>αὶ τοῖ<unclear>ς</unclear> ἔμπροσ
-                    <lb n="27" break="no"/>θεν αὐτοῖστα συνλελογχότες οἱ <unclear>δ</unclear>ὲ ἱ<unclear>ε</unclear>ρομνάμ<unclear>ο</unclear>νες τᾶι <supplied reason="lost">θυ</supplied><unclear>σ</unclear><supplied reason="lost">ίαι</supplied>
-                    <lb n="28"/>θυόντ<unclear>ω</unclear> α<unclear>ἶγ</unclear>α λευκάν καὶ τὰ ποτὶ τ<unclear>ὰ</unclear>ν θυσί<unclear>α</unclear>ν ὅσων χρεία ἑστὶ
-                    <lb n="29"/>ὁ ταμίας παρεχέτω ὁμοίως δὲ καὶ αἱ κατὰ πόδας ἀρχαὶ
-                    <lb n="30"/>πᾶσαι θυόντω καθ᾿ ἕκαστον ἐνιαυτὸν ταύται τᾶι ἁμέ<unclear>ρ</unclear>α<unclear>ι</unclear> τοῖ<unclear>ς</unclear>
-                    <lb n="31"/>γενετόρεσσι καὶ τᾶ<unclear>ι</unclear> Ὁμ<unclear>ο</unclear>νο<unclear>ί</unclear>α<unclear>ι</unclear> ἱερεῖον ἑκατέροις ὅ κα δοκιμάζ<unclear>ων</unclear>
-                    <lb n="32" break="no"/>τι καὶ οἱ πολῖται πάντες ἑορταζόντω παρ’ ἀλλάλοις
-                    <lb n="33"/>κατὰ τὰ<hi rend="stacked">ς</hi> <hi rend="stacked">ἀ</hi>δελφοθετίας τὸ δὲ ἁλίασμα τόδε κολαψάμε
-                    <lb n="34" break="no"/>νοι οἱ ἄρχοντ<choice><corr>ε</corr><sic>ο</sic></choice>ς ές χάλκωμα ές τὸ πρόναον του Διὸς <unclear>τοῦ</unclear> <unclear>Ὀλ</unclear>υμπί<supplied reason="lost">ου</supplied>
-                    <lb n="35"/>ἀναθέντω <space unit="character" extent="unknown"/>
+                <ab>
+                    <lb n="1"/><w>ἐπὶ</w> <name>Λευκίου</name> <w>τοῦ</w> <name>Καισίου</name> <w>καὶ</w> <name>Φιλωνίδα</name> <name>Φι<unclear>λ</unclear></name> <gap reason="lost" unit="character" atLeast="3" atMost="5"/>
+                    <lb n="2"/><name>Ἀδωνίου</name> <w>τετάρται</w> <w>ἱσταμένου</w> <w>ἔδοξε</w>
+                    <lb n="3"/><w>τᾶι</w> <w>ἁλίαι</w> <w>καθὰ</w> <w>καὶ</w> <w>τᾶι</w> <w>βουλᾶι</w> <w>ἐπειδὴ</w> <w>τᾶς</w>
+                    <lb n="4"/><w>τύχας</w> <w>καλῶς</w> <w>προαγημένας</w> <w>διώρθωται</w> <w>τὰ</w> <w><unclear>κ</unclear>ο<supplied reason="lost">ιν</supplied><unclear>ὰ</unclear></w>
+                    <lb n="5"/><w>τῶν</w> <name>Νακων<unclear>α</unclear>ίω<unclear>ν</unclear></name> <w>συμφέρει</w> <w>δὲ</w> <w>καὶ</w> <w>ἐς</w> <w>τὸν</w> <w>λοιπὸν</w> <w>χρόνον</w> <w>ὁ<unclear>μ</unclear>ο<unclear>ν</unclear><supplied reason="lost">ο</supplied>
+                    <lb n="6" break="no"/>οῦντας</w> <w>πολιτεύεσθαι</w> <w>πρέσβεις</w> <w>τε</w> <name>Ἐγεσταίων</name> <w>παργενα<unclear>θέν</unclear>
+                    <lb n="7" break="no"/>τες</w> <name>Ἀπέλλ<unclear>ι</unclear>χος</name> <name>Ἀλείδα</name> <name>Ἀττικὸς</name> <name>Πίστωνος</name> <name>Διονύσιος</name> <name>Δ<unclear>ε</unclear>κ<supplied reason="lost">ί</supplied>
+                    <lb n="8" break="no"/>ου</name> <w>ὑπὲρ</w> <w>τῶν</w> <w>κοινᾶι</w> <w>συμφερόντω<hi rend="stacked">ν</hi></w> <w><hi rend="stacked">π</hi>ᾶσι</w> <w>τοῖς</w> <w>πολίταις</w> <w>συ<unclear>ν</unclear>εβ<unclear>ο</unclear><supplied reason="lost">ύ</supplied>
+                    <lb n="9" break="no"/>λευσαν</w> <w>δεδόχθαι</w> <w>τοῦ</w> <name>Ἀδωνίου</name> <w>τᾶι</w> <w>τετάρται</w> <w>ἱσταμένου</w> <w><unclear>ἁλίαν</unclear></w>
+                    <lb n="10"/><w>τῶμ</w> <w>πολιτᾶν</w> <w>συναγαγεῖν</w> <w>καὶ</w> <w>ὅσσοις</w> <w>ἁ</w> <w>διαφορὰ</w> <w>τῶμ</w> <w>πολιτ<supplied reason="lost">ᾶν</supplied></w>
+                    <lb n="11"/><w>γέγονε</w> <w>ὑπὲρ</w> <w>τῶν</w> <w>κοινῶν</w> <w>ἀγωνιζομένοις</w> <w>ἀνακληθέντας</w> <w>ἐς</w>
+                    <lb n="12"/><w>τὰν</w> <w>ἁλίαν</w> <w>διάλυσιν</w> <w>ποιήσασθαι</w> <w>αὐτοὺς</w> <w>ποτ᾿</w> <w>αὐτοὺς</w> <w>προγρα
+                    <lb n="13" break="no"/>φέντας</w> <w>ἑκατέρων</w> <w>τριάκοντα</w> <w>οἱ</w> <w>δὲ</w> <w><hi rend="stacked">ὑπ</hi>εναντίοι</w> <w>γεγονότες</w> <w><unclear>ἐ</unclear>ν</w>
+                    <lb n="14"/><w>τοῖς</w> <w>ἔμπροσθεν</w> <w>χρόνοις</w> <w>ἑκάτεροι</w> <w>ἑκατέρων</w> <w>προγ<unclear>ρ</unclear>αψάντω</w> <w>οἱ</w> <w>δ<unclear>ὲ</unclear></w>
+                    <lb n="15"/><w>ἄρχοντες</w> <w>τὰ</w> <w>ὀνόματα</w> <w><unclear>κλ</unclear>αρογραφήσαντες</w> <w>χω<unclear>ρὶς</unclear></w> <w><unclear>ἑκα</unclear>τέ
+                    <lb n="16" break="no"/>ρων</w> <w>ἐμβαλόντες</w> <w>ἐς</w> <w>ὑ<unclear>δρί</unclear>ας</w> <w>δυόω</w> <w>κλαρώντων</w> <w>ἕνα</w> <w>ἐξ</w> <w>ἑκα
+                    <lb n="17" break="no"/>τέρων</w> <w>καὶ</w> <w>ἐκ</w> <w>τῶν</w> <w>λο<unclear>ι</unclear><supplied reason="lost">π</supplied>ῶν</w> <w>πολ<unclear>ι</unclear>τᾶν</w> <w>ποτικλαρώντω</w> <w>τρεῖς</w>
+                    <lb n="18"/><w>πὸτ</w> <w>τοὺς</w> <w>δύο</w> <w>ἔξω</w> <w>τᾶν</w> <w>ἀγχιστ<unclear>ει</unclear>ᾶν</w> <w>ἇν</w> <w>ὁ</w> <w>νόμος</w> <w>ἐκ</w> <w>τῶν</w> <w><unclear>δ</unclear>ικασ
+                    <lb n="19" break="no"/>τηρίων</w> <w>μεθίστασθαι</w> <w>κέλεται</w> <w>καὶ</w> <w>ἐς</w> <w>τὸν</w> <w>αὐτῶντα</w> <w>οἱ</w> <w>συν
+                    <lb n="20" break="no"/>λαχόντες</w> <w>ἀδελφοὶ</w> <w>αἱρετοὶ</w> <w>ὁμονοοῦντες</w> <w>ἀλ<hi rend="stacked"><unclear>λ</unclear></hi>ά<unclear>λ</unclear>οις</w> <w>με
+                    <lb n="21" break="no"/>τὰ</w> <w><unclear>π</unclear>άσας</w> <w>δικαιότατος</w> <w>καὶ</w> <w>φιλίας</w> <w>ἐπεὶ</w> <w>δέ</w> <w>κα</w> <w>οἱ</w>
+                    <lb n="22"/><w>ἑξήκομτα</w> <w>πάντες</w> <w>κλᾶροι</w> <w>ἀερθέωντι</w> <w>κα<unclear>ὶ</unclear></w> <w><unclear>οἱ</unclear></w> <w><unclear>π</unclear>οτὶ</w>
+                    <lb n="23"/><w>τούτους</w> <w>συλ<unclear>λ</unclear>αχόντες</w> <w>τοὺς</w> <w>λοιποὺς</w> <w>πολίτας</w>
+                    <lb n="24"/><w>πάντας</w> <w>κατὰ</w> <w>πέντε</w> <w>συγκλαρώντω</w> <w>μὴ</w> <w>συγκλα
+                    <lb n="25" break="no"/><unclear>ρ</unclear>ῶντες</w> <w>τὰς</w> <w>ἀγχιστείας</w> <w>καθὰ</w> <w><unclear>γ</unclear>έγραπται</w> <w>καὶ</w> <w>ἐς</w>
+                    <lb n="26"/><w>τὸν</w> <w>αὐτῶντα</w> <w>ἀδελφοὶ</w> <w>καὶ</w> <w>οὗτοι</w> <w>καθὰ</w> <w><supplied reason="lost">κ</supplied>αὶ</w> <w>τοῖ<unclear>ς</unclear></w> <w>ἔμπροσ
+                    <lb n="27" break="no"/>θεν</w> <w>αὐτοῖστα</w> <w>συνλελογχότες</w> <w>οἱ</w> <w><unclear>δ</unclear>ὲ</w> <w>ἱ<unclear>ε</unclear>ρομνάμ<unclear>ο</unclear>νες</w> <w>τᾶι</w> <w><supplied reason="lost">θυ</supplied><unclear>σ</unclear><supplied reason="lost">ίαι</supplied></w>
+                    <lb n="28"/><w>θυόντ<unclear>ω</unclear></w> <w>α<unclear>ἶγ</unclear>α</w> <w>λευκάν</w> <w>καὶ</w> <w>τὰ</w> <w>ποτὶ</w> <w>τ<unclear>ὰ</unclear>ν</w> <w>θυσί<unclear>α</unclear>ν</w> <w>ὅσων</w> <w>χρεία</w> <w>ἑστὶ</w>
+                    <lb n="29"/><w>ὁ</w> <w>ταμίας</w> <w>παρεχέτω</w> <w>ὁμοίως</w> <w>δὲ</w> <w>καὶ</w> <w>αἱ</w> <w>κατὰ</w> <w>πόδας</w> <w>ἀρχαὶ</w>
+                    <lb n="30"/><w>πᾶσαι</w> <w>θυόντω</w> <w>καθ᾿</w> <w>ἕκαστον</w> <w>ἐνιαυτὸν</w> <w>ταύται</w> <w>τᾶι</w> <w>ἁμέ<unclear>ρ</unclear>α<unclear>ι</unclear></w> <w>τοῖ<unclear>ς</unclear></w>
+                    <lb n="31"/><w>γενετόρεσσι</w> <w>καὶ</w> <w>τᾶ<unclear>ι</unclear></w> <name>Ὁμ<unclear>ο</unclear>νο<unclear>ί</unclear>α<unclear>ι</unclear></name> <w>ἱερεῖον</w> <w>ἑκατέροις</w> <w>ὅ</w> <w>κα</w> <w>δοκιμάζ<unclear>ων</unclear>
+                    <lb n="32" break="no"/>τι</w> <w>καὶ</w> <w>οἱ</w> <w>πολῖται</w> <w>πάντες</w> <w>ἑορταζόντω</w> <w>παρ’</w> <w>ἀλλάλοις</w>
+                    <lb n="33"/><w>κατὰ</w> <w>τὰ<hi rend="stacked">ς</hi></w> <w><hi rend="stacked">ἀ</hi>δελφοθετίας</w> <w>τὸ</w> <w>δὲ</w> <w>ἁλίασμα</w> <w>τόδε</w> <w>κολαψάμε
+                    <lb n="34" break="no"/>νοι</w> <w>οἱ</w> <w>ἄρχοντ<choice><corr>ε</corr><sic>ο</sic></choice>ς</w> <w>ές</w> <w>χάλκωμα</w> <w>ές</w> <w>τὸ</w> <w>πρόναον</w> <w>του</w> <name>Διὸς</name> <w><unclear>τοῦ</unclear></w> <name><unclear>Ὀλ</unclear>υμπί<supplied reason="lost">ου</supplied></name>
+                    <lb n="35"/><w>ἀναθέντω</w> <space unit="character" extent="unknown"/>
                 </ab>
             </div>
             <div type="apparatus" resp="#JP">
@@ -284,7 +284,7 @@
                     <bibl>
                         <author>Lewis</author>
                         <date>1978</date>
-                        <citedRange></citedRange>
+                        <citedRange/>
                         <ptr target="http://zotero.org/groups/382445/items/5YKWVBMR"/>
                         <ref target="https://biblio.inscriptiones.org/epig10002758">https://biblio.inscriptiones.org/epig10002758</ref>
                     </bibl>

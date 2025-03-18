@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -196,13 +196,13 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#IG #VM">
                 <ab>
-                    <lb n="1"/><g ref="#staurogram">𐆠</g> Ἐνθάδε κῖτε <choice><reg>Ἀριάδνη</reg><orig>Ἀριάγνη</orig></choice> <g ref="#staurogram">𐆠</g>
-                    <lb n="2"/>μόνανδρος τελευτᾷ
-                    <lb n="3"/>ἐτῶν <num value="75">ἑβδομήκοντα πέντε</num>. Ὁ δὲ
-                    <lb n="4"/>Θεὸς <choice><reg>καὶ</reg><orig>κὲ</orig></choice> ὁ Χριστὸς αὐτ<unclear>ο</unclear>ῦ <supplied reason="lost"><choice><reg>καὶ</reg><orig>κὲ</orig></choice> τὸ</supplied>
-                    <lb n="5"/>Ἅγιον Πνεῦμα ἀν<unclear>α</unclear><supplied reason="lost" cert="low">ψύξαιεν</supplied>
-                    <lb n="6"/>αὐτῆς τὸ ψυχάρι<supplied reason="omitted">ο</supplied>ν. <supplied reason="lost" cert="low">Ἐκοιμήθη</supplied>
-                    <lb n="7"/><expan><abbr><hi rend="ligature">πρ</hi></abbr><ex>ὸ</ex></expan> <num value="15">ιε</num> <g type="interpunct">·</g> <expan><abbr>καλ</abbr><ex>ανδῶν</ex></expan> <g type="interpunct">·</g> Ὀ<supplied reason="lost">κ</supplied>τωβ<supplied reason="lost">ρίων</supplied>
+                    <lb n="1"/><g ref="#staurogram">𐆠</g> <w>Ἐνθάδε</w> <w>κῖτε</w> <w><choice><reg>Ἀριάδνη</reg><orig>Ἀριάγνη</orig></choice></w> <g ref="#staurogram">𐆠</g>
+                    <lb n="2"/><w>μόνανδρος</w> <w>τελευτᾷ</w>
+                    <lb n="3"/><w>ἐτῶν</w> <num value="75">ἑβδομήκοντα πέντε</num>. <name>Ὁ</name> <w>δὲ</w>
+                    <lb n="4"/><name>Θεὸς</name> <w><choice><reg>καὶ</reg><orig>κὲ</orig></choice></w> <w>ὁ</w> <name>Χριστὸς</name> <w>αὐτ<unclear>ο</unclear>ῦ</w> <w><supplied reason="lost"><choice><reg>καὶ</reg><orig>κὲ</orig></choice>τὸ</supplied></w>
+                    <lb n="5"/><name>Ἅγιον</name> <name>Πνεῦμα</name> <w>ἀν<unclear>α</unclear><supplied reason="lost" cert="low">ψύξαιεν</supplied></w>
+                    <lb n="6"/><w>αὐτῆς</w> <w>τὸ</w> <w>ψυχάρι<supplied reason="omitted">ο</supplied>ν.</w> <name><supplied reason="lost" cert="low">Ἐκοιμήθη</supplied></name>
+                    <lb n="7"/><w><expan><abbr><hi rend="ligature">πρ</hi></abbr><ex>ὸ</ex></expan></w> <num value="15">ιε</num> <g type="interpunct">·</g> <w><expan><abbr>καλ</abbr><ex>ανδῶν</ex></expan></w> <g type="interpunct">·</g> <name>Ὀ<supplied reason="lost">κ</supplied>τωβ<supplied reason="lost">ρίων</supplied></name>
                 </ab>
             </div>
             <div type="apparatus">

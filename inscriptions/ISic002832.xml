@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -233,13 +233,13 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" unit="character" quantity="2"/><gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/>καὶ <g ref="#interpunct">·</g> Ἀ<unclear>γ</unclear><supplied reason="lost">άθη</supplied>
-                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/>α <g ref="#interpunct">·</g> μνη<supplied reason="lost">σθῇ</supplied><gap reason="lost" unit="character" extent="unknown"/>
-                    <lb n="4"/><gap reason="lost" unit="character" extent="unknown"/><supplied reason="lost" cert="low">ἐγὼ</supplied> <unclear>ἐ</unclear>πικαλοῦμ<supplied reason="lost">αι</supplied> <supplied reason="lost">τὸν</supplied> <supplied reason="lost">λαὸν</supplied> <gap reason="lost" unit="character" extent="unknown"/>
-                    <lb n="5"/><gap reason="lost" unit="character" extent="unknown"/> <supplied reason="lost">ἐκ</supplied> <supplied reason="lost">τ</supplied><unclear>ῆ</unclear>ς ἐμῆς π<supplied reason="lost">ροικὸς</supplied> <supplied reason="lost">βοηθεῖν</supplied> <gap reason="lost" unit="character" extent="unknown"/>
-                    <lb n="6"/><gap reason="lost" unit="character" extent="unknown"/> <supplied reason="lost">τοῖς</supplied> <unclear>π</unclear>ένησι <g ref="#interpunct">·</g> κ<unclear>α</unclear><supplied reason="lost">ὶ</supplied> <supplied reason="lost" cert="low">ὀρφανοῖς</supplied> <supplied reason="lost">τῶν</supplied> <gap reason="lost" unit="character" extent="unknown"/>
-                    <lb n="7"/><space unit="character" extent="unknown"/> Ἰουδ<supplied reason="lost">αίων</supplied> <gap reason="lost" unit="character" extent="unknown"/>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <gap reason="illegible" unit="character" quantity="2"/> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w>καὶ</w> <g ref="#interpunct">·</g> <name>Ἀ<unclear>γ</unclear><supplied reason="lost">άθη</supplied></name>
+                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <w>α</w> <g ref="#interpunct">·</g> <w>μνη<supplied reason="lost">σθῇ</supplied></w> <gap reason="lost" unit="character" extent="unknown"/>
+                    <lb n="4"/><gap reason="lost" unit="character" extent="unknown"/> <w><supplied reason="lost" cert="low">ἐγὼ</supplied></w> <w><unclear>ἐ</unclear>πικαλοῦμ<supplied reason="lost">αι</supplied></w> <w><supplied reason="lost">τὸν</supplied></w> <w><supplied reason="lost">λαὸν</supplied></w> <gap reason="lost" unit="character" extent="unknown"/>
+                    <lb n="5"/><gap reason="lost" unit="character" extent="unknown"/> <w><supplied reason="lost">ἐκ</supplied></w> <w><supplied reason="lost">τ</supplied><unclear>ῆ</unclear>ς</w> <w>ἐμῆς</w> <w>π<supplied reason="lost">ροικὸς</supplied></w> <w><supplied reason="lost">βοηθεῖν</supplied></w> <gap reason="lost" unit="character" extent="unknown"/>
+                    <lb n="6"/><gap reason="lost" unit="character" extent="unknown"/> <w><supplied reason="lost">τοῖς</supplied></w> <w><unclear>π</unclear>ένησι</w> <g ref="#interpunct">·</g> <w>κ<unclear>α</unclear><supplied reason="lost">ὶ</supplied></w> <w><supplied reason="lost" cert="low">ὀρφανοῖς</supplied></w> <w><supplied reason="lost">τῶν</supplied></w> <gap reason="lost" unit="character" extent="unknown"/>
+                    <lb n="7"/><space unit="character" extent="unknown"/><name>Ἰουδ<supplied reason="lost">αίων</supplied></name> <gap reason="lost" unit="character" extent="unknown"/>
                 </ab>
                 </div>
             <div type="apparatus">

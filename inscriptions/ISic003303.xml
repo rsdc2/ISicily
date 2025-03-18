@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -196,8 +196,8 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#martaf #AA">
                 <ab>
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w part="I"><supplied reason="lost">ζησ</supplied><gap reason="lost" extent="unknown" unit="character"/></w>
-                    <lb n="2"/><w>ἔτη</w> <space quantity="1" unit="character"/> <g ref="#interpunct">·</g> <num value="19">ιθ</num> <gap reason="lost" extent="unknown" unit="character"/> <w part="I"><supplied reason="lost">τελευτ</supplied><gap reason="lost" extent="unknown" unit="character"/></w>
-                    <lb n="3"/><w>τῇ</w> <w>πρὸ</w> <g ref="#interpunct">·</g> <hi rend="supraline"><num value="3">γ</num></hi> <gap reason="lost" extent="unknown" unit="character" cert="low"/>
+                    <lb n="2"/><w>ἔτη</w> <space quantity="1" unit="character"/><g ref="#interpunct">·</g> <num value="19">ιθ</num> <gap reason="lost" extent="unknown" unit="character"/> <w part="I"><supplied reason="lost">τελευτ</supplied><gap reason="lost" extent="unknown" unit="character"/></w>
+                    <lb n="3"/><w>τῇ</w> <w>πρὸ</w> <g ref="#interpunct">·</g> <hi rend="supraline"><num value="3">γ</num></hi><gap reason="lost" extent="unknown" unit="character" cert="low"/>
                 </ab>
             </div>
             <div type="apparatus" resp="#martaf">

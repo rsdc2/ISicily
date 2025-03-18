@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -191,16 +191,16 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/><supplied reason="lost">μεθ’</supplied> <roleName type="supracivic" subtype="consul">ὑπα<supplied reason="lost">τίαν</supplied></roleName>
-                    <lb n="2"/><supplied reason="lost">τῶν</supplied> <supplied reason="lost">κ</supplied>υρίων <supplied reason="lost">ἡμῶν</supplied>
-                    <lb n="3"/><supplied reason="lost">Ὁν</supplied>ωρ<supplied reason="lost">ίο</supplied>υ τὸ <supplied reason="lost"><num value="13">ιγ</num></supplied> <supplied reason="lost">καὶ</supplied>
-                    <lb n="4"/><supplied reason="lost">Θεοδοσίο</supplied>υ τ<supplied reason="lost">ὸ</supplied> <supplied reason="lost"><num value="10">ι</num></supplied>
-                    <lb n="5"/><supplied reason="lost">ἐτελεύτη</supplied>σεν ἡ μα
-                    <lb n="6" break="no"/><supplied reason="lost">καρίας</supplied> μνή<supplied reason="lost">μης</supplied>
-                    <lb n="7"/><supplied reason="lost">Μονί</supplied>κα π<supplied reason="lost">ρὸ</supplied> <supplied reason="lost"><expan><abbr>καλ</abbr><ex>ανδῶν</ex></expan></supplied>
-                    <lb n="8"/><supplied reason="lost">Ἰαν</supplied>ουα<supplied reason="lost">ρίων</supplied>
-                    <lb n="9"/><gap reason="lost" quantity="2" unit="character"/> ἡμέρᾳ σ<supplied reason="lost">ελή</supplied>
-                    <lb n="10" break="no"/><supplied reason="lost">ν</supplied>ης ω <g ref="#staurogram">𐆠</g> α ἐπ’ <expan><abbr>ἰν</abbr><ex>δικτίωνος</ex></expan> <num value="7">ζ</num> 
+                    <lb n="1"/><w><supplied reason="lost">μεθ’</supplied></w> <roleName type="supracivic" subtype="consul"><w>ὑπα</w> <w><supplied reason="lost">τίαν</supplied></w></roleName>
+                    <lb n="2"/><w><supplied reason="lost">τῶν</supplied></w> <w><supplied reason="lost">κ</supplied>υρίων</w> <w><supplied reason="lost">ἡμῶν</supplied></w>
+                    <lb n="3"/><name><supplied reason="lost">Ὁν</supplied>ωρ<supplied reason="lost">ίο</supplied>υ</name> <w>τὸ</w> <supplied reason="lost"><num value="13">ιγ</num></supplied> <w><supplied reason="lost">καὶ</supplied></w>
+                    <lb n="4"/><name><supplied reason="lost">Θεοδοσίο</supplied>υ</name> <w>τ<supplied reason="lost">ὸ</supplied></w> <supplied reason="lost"><num value="10">ι</num></supplied>
+                    <lb n="5"/><w><supplied reason="lost">ἐτελεύτη</supplied>σεν</w> <w>ἡ</w> <w>μα
+                    <lb n="6" break="no"/><supplied reason="lost">καρίας</supplied></w> <w>μνή<supplied reason="lost">μης</supplied></w>
+                    <lb n="7"/><name><supplied reason="lost">Μονί</supplied>κα</name> <w>π<supplied reason="lost">ρὸ</supplied></w> <w><supplied reason="lost"><expan><abbr>καλ</abbr><ex>ανδῶν</ex></expan></supplied></w>
+                    <lb n="8"/><name><supplied reason="lost">Ἰαν</supplied>ουα<supplied reason="lost">ρίων</supplied></name>
+                    <lb n="9"/><gap reason="lost" quantity="2" unit="character"/> <w>ἡμέρᾳ</w> <w>σ<supplied reason="lost">ελή</supplied>
+                    <lb n="10" break="no"/><supplied reason="lost">ν</supplied>ης</w> <w>ω</w> <g ref="#staurogram">𐆠</g> <w>α</w> <w>ἐπ’</w> <w><expan><abbr>ἰν</abbr><ex>δικτίωνος</ex></expan></w> <num value="7">ζ</num>
                 </ab>
             </div>
             <div type="apparatus">

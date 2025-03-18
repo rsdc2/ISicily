@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -195,10 +195,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JH #NCash">
                 <ab>
-                    <lb n="1"/><supplied reason="lost">q</supplied>uiescu<supplied reason="lost">nt</supplied>
-                    <lb n="2"/>annos
-                    <lb n="3"/><orig>A</orig> <num value="2">II</num> <g ref="#interpunct">·</g> et <orig>A</orig>
-                    <lb n="4"/><orig>ST</orig> <g ref="#interpunct">·</g> <num value="20">XX</num>
+                    <lb n="1"/><w><supplied reason="lost">q</supplied>uiescu<supplied reason="lost">nt</supplied></w>
+                    <lb n="2"/><w>annos</w>
+                    <lb n="3"/><orig>A</orig><num value="2">II</num> <g ref="#interpunct">·</g> <w>et</w> <orig>A</orig>
+                    <lb n="4"/><orig>ST</orig><g ref="#interpunct">·</g> <num value="20">XX</num>
                 </ab>
             </div>
             <div type="apparatus" resp="#JH">

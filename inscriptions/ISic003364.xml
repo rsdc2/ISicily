@@ -190,8 +190,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="scx" resp="#VM">
                 <ab>
-                    <lb n="1" style="text-direction:r-to-l" xml:id="DkoAK"/><w xml:id="DkoAU">ΙΑΜ</w> <w xml:id="DkoAe">ΑΚΑΡΑΜ</w> <w xml:id="DkoAo">ΕΠΟΠΑΣΚΑ</w> <w xml:id="DkoAy">ΑΓΙΙΕΣ</w> <w xml:id="DkoAΙ">ΓΕΠΕΔ</w> 
-                    <lb n="2" style="text-direction:r-to-l" xml:id="DkoAΤ"/><w xml:id="DkoAε">ΤΟΥΤΟ</w> <w xml:id="DkoAο">ϜΕΡΕΓΑ</w> <w xml:id="DkoBA">ΙΕΣ</w> <w xml:id="DkoBK">ͰΕΙΚΑΔ</w> <gap reason="illegible" quantity="1" unit="character" xml:id="DkoBU"/><w xml:id="DkoBe">ΑΛΑ</w> 
+                    <lb n="1" style="text-direction:r-to-l" xml:id="DkoAK"/><w xml:id="DkoAU">ΙΑΜ</w> <w xml:id="DkoAe">ΑΚΑΡΑΜ</w> <w xml:id="DkoAo">ΕΠΟΠΑΣΚΑ</w> <w xml:id="DkoAy">ΑΓΙΙΕΣ</w> <w xml:id="DkoAΙ">ΓΕΠΕΔ</w>
+                    <lb n="2" style="text-direction:r-to-l" xml:id="DkoAΤ"/><w xml:id="DkoAε">ΤΟΥΤΟ</w> <w xml:id="DkoAο">ϜΕΡΕΓΑ</w> <w xml:id="DkoBA">ΙΕΣ</w> <w xml:id="DkoBK">ͰΕΙΚΑΔ</w> <gap reason="illegible" quantity="1" unit="character" xml:id="DkoBU"/> <w xml:id="DkoBe">ΑΛΑ</w>
                     <lb n="3" style="text-direction:r-to-l" xml:id="DkoBo"/><w xml:id="DkoBy"><unclear xml:id="DkoBΙ">Ϝ</unclear>ΕΑ</w>
                 </ab>
             </div>

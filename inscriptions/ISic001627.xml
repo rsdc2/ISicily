@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -185,13 +185,13 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1"/><expan><abbr><am><g ref="#christogram">☧</g></am></abbr><ex>χριστό</ex><abbr>ς</abbr></expan>
-                    <lb n="2"/>ἐνθάδε κῖτε
-                    <lb n="3"/><persName type="attested"><name>Ἁγνὴ</name></persName> πιστὴ με
-                    <lb n="4" break="no"/>τὰ ἀδελφοῦ ἑαυ
-                    <lb n="5"/>τῆς <persName type="attested"><name>Δεξτράνου</name></persName>
-                    <lb n="6"/><supplied reason="lost">ζ</supplied>ήσασα ἔτη <num value="3">τρία</num>
-                    <lb n="7"/><supplied reason="lost">μῆ</supplied>νες <g ref="#interpunct">·</g> <num value="7"><hi rend="supraline">ζ</hi></num> <g ref="#interpunct">·</g> <expan><abbr>ἡμέρ</abbr><ex>ας</ex></expan> <num value="9"><hi rend="supraline">θ</hi></num>
+                    <lb n="1"/><w><expan><abbr><am><g ref="#christogram">☧</g></am></abbr><ex>χριστό</ex><abbr>ς</abbr></expan></w>
+                    <lb n="2"/><w>ἐνθάδε</w> <w>κῖτε</w>
+                    <lb n="3"/><persName type="attested"><name>Ἁγνὴ</name></persName> <w>πιστὴ</w> <w>με
+                    <lb n="4" break="no"/>τὰ</w> <w>ἀδελφοῦ</w> <w>ἑαυ</w>
+                    <lb n="5"/><w>τῆς</w> <persName type="attested"><name>Δεξτράνου</name></persName>
+                    <lb n="6"/><w><supplied reason="lost">ζ</supplied>ήσασα</w> <w>ἔτη</w> <num value="3">τρία</num>
+                    <lb n="7"/><w><supplied reason="lost">μῆ</supplied>νες</w> <g ref="#interpunct">·</g> <num value="7"><hi rend="supraline">ζ</hi></num> <g ref="#interpunct">·</g> <w><expan><abbr>ἡμέρ</abbr><ex>ας</ex></expan></w> <num value="9"><hi rend="supraline">θ</hi></num>
                 </ab>
             </div>
             <div type="apparatus" resp="#JP">
@@ -201,7 +201,7 @@
                 <p>Christos! Here lies faithful Hagne together with her brother Dextranos, having lived 3 years, 7 months, 9 days.</p>
             </div>
             <div type="commentary">
-                <p></p>
+                <p/>
             </div>
             <div type="bibliography">
                 <listBibl type="edition">

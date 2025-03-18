@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -218,14 +218,14 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1"/>Σέξτου
-                    <lb n="2"/>Πομπηίου
-                    <lb n="3"/>Ἄπρου
-                    <lb n="4"/>Παλάκου
-                    <lb n="5"/>Πομπείας
-                    <lb n="6"/><gap reason="lost" unit="character" quantity="1"/><unclear>ο</unclear><gap reason="lost" unit="character" quantity="2"/><unclear>τ</unclear>ου
+                    <lb n="1"/><w>Σέξτου</w>
+                    <lb n="2"/><name>Πομπηίου</name>
+                    <lb n="3"/><name>Ἄπρου</name>
+                    <lb n="4"/><name>Παλάκου</name>
+                    <lb n="5"/><name>Πομπείας</name>
+                    <lb n="6"/><gap reason="lost" unit="character" quantity="1"/> <w><unclear>ο</unclear></w> <gap reason="lost" unit="character" quantity="2"/> <w><unclear>τ</unclear>ου</w>
                     <lb n="7"/><gap reason="lost" unit="character" extent="unknown"/>
-                    <lb n="8"/>Παλάκου
+                    <lb n="8"/><name>Παλάκου</name>
                 </ab>
             </div>
             <div type="apparatus">

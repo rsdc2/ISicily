@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -187,11 +187,10 @@
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
                     <cb n="1"/>
-                    <lb n="1"/>N<supplied reason="undefined" evidence="previouseditor">ic</supplied>e
-                    <lb n="2"/>s<supplied reason="undefined" evidence="previouseditor">al</supplied><supplied reason="lost">v</supplied><supplied reason="undefined" evidence="previouseditor">e</supplied>
-                    <cb n="2"/>
-                    <lb n="3"/><supplied reason="undefined" evidence="previouseditor">Plan</supplied>ia
-                    <lb n="4"/><supplied reason="undefined" evidence="previouseditor">vale</supplied>
+                    <lb n="1"/><w>N<supplied reason="undefined" evidence="previouseditor">ic</supplied>e</w>
+                    <lb n="2"/><w>s<supplied reason="undefined" evidence="previouseditor">al</supplied><supplied reason="lost">v</supplied><supplied reason="undefined" evidence="previouseditor">e</supplied></w> <cb n="2"/>
+                    <lb n="3"/><name><supplied reason="undefined" evidence="previouseditor">Plan</supplied>ia</name>
+                    <lb n="4"/><w><supplied reason="undefined" evidence="previouseditor">vale</supplied></w>
                 </ab>
                 </div>
             <div type="apparatus">

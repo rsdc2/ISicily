@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -193,10 +193,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/><g ref="#cross_uninterpreted">☩</g> ἐνθάδε κῖτε Θεόδωρος
-                    <lb n="2"/>ὁ χριστιανὸς ζήσας ἔτη <num value="2"><hi rend="supraline">β</hi></num>
-                    <lb n="3"/>μῆνας <num value="8"><hi rend="supraline">η</hi></num> ἐπ’ <expan><abbr>ἰνδ</abbr><ex>ικτιῶνος</ex></expan> <num value="14">ιδ</num>
-                    <lb n="4"/><expan><abbr>πρ</abbr><ex>ὸ</ex></expan> <num value="7"><hi rend="supraline">ζ</hi></num> <expan><abbr>ἰδ</abbr><ex>ῶν</ex></expan> <expan><abbr>Ἀπριλ</abbr><ex>ίων</ex></expan> 
+                    <lb n="1"/><g ref="#cross_uninterpreted">☩</g> <w>ἐνθάδε</w> <w>κῖτε</w> <name>Θεόδωρος</name>
+                    <lb n="2"/><w>ὁ</w> <w>χριστιανὸς</w> <w>ζήσας</w> <w>ἔτη</w> <num value="2"><hi rend="supraline">β</hi></num>
+                    <lb n="3"/><w>μῆνας</w> <num value="8"><hi rend="supraline">η</hi></num> <w>ἐπ’</w> <w><expan><abbr>ἰνδ</abbr><ex>ικτιῶνος</ex></expan></w> <num value="14">ιδ</num>
+                    <lb n="4"/><w><expan><abbr>πρ</abbr><ex>ὸ</ex></expan></w> <num value="7"><hi rend="supraline">ζ</hi></num> <w><expan><abbr>ἰδ</abbr><ex>ῶν</ex></expan></w> <name><expan><abbr>Ἀπριλ</abbr><ex>ίων</ex></expan></name>
                 </ab>
             </div>
             <div type="apparatus">

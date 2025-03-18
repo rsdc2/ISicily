@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -200,7 +200,7 @@
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#VM #AA">
                 <ab>
                     <lb n="1"/><persName type="attested"><name><expan><abbr>L</abbr><ex>ucia</ex></expan></name> <g ref="#interpunct">·</g> <name>Vecilia</name> <persName type="attested"><name type="patronym"><expan><abbr>L</abbr><ex>ucii</ex></expan></name></persName> <w><expan><abbr>f</abbr><ex>ilia</ex></expan></w></persName>
-                    <lb n="2"/><expan><abbr>vix</abbr><ex>it</ex></expan> <expan><abbr>an</abbr><ex>nis</ex></expan> <num value="30">XXX</num>
+                    <lb n="2"/><w><expan><abbr>vix</abbr><ex>it</ex></expan></w> <w><expan><abbr>an</abbr><ex>nis</ex></expan></w> <num value="30">XXX</num>
                 </ab>
             </div>
             <div type="apparatus" resp="#AA">

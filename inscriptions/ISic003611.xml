@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -184,13 +184,13 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1"/>Αὐτε<unclear>χ</unclear>είον <choice><orig>χρεσ
-                    <lb n="2"/>τ<unclear>ὸ</unclear>ς</orig><reg>χρηστὸς</reg></choice> καὶ <choice><orig>ἄ<unclear>μ</unclear>ετος</orig><reg>ἄμεμπτος</reg></choice>
-                    <lb n="3"/><choice><orig>ἔ<unclear>ζ</unclear>εση</orig><reg>ἔζησε</reg></choice> <choice><orig><supplied reason="omitted">ἠ</supplied>το͂ν </orig><reg>ἐτῶν</reg></choice>
-                    <lb n="4"/><surplus><choice><orig><unclear>ἠτ</unclear>ο͂ν</orig><reg>ἐτῶν</reg></choice></surplus> <choice><orig><unclear>τ</unclear>ησα<supplied reason="lost">ρά</supplied>
-                    <lb n="5" break="no"/>κοντα</orig><reg>τεσσαράκοντα</reg></choice> <choice><orig>μ<supplied reason="lost">ε͂να</supplied>
-                    <lb n="6" break="no"/><unclear>ς</unclear><reg>μῆνας</reg></orig></choice> <choice><orig>πέντ<unclear>η</unclear></orig><reg>πέντε</reg></choice>
-                    </ab>
+                    <lb n="1"/><w>Αὐτε<unclear>χ</unclear>είον</w> <w><choice><orig>χρεσ
+                    <lb n="2"/>τ<unclear>ὸ</unclear>ς</orig><reg>χρηστὸς</reg></choice></w> <w>καὶ</w> <w><choice><orig>ἄ<unclear>μ</unclear>ετος</orig><reg>ἄμεμπτος</reg></choice></w>
+                    <lb n="3"/><w><choice><orig>ἔ<unclear>ζ</unclear>εση</orig><reg>ἔζησε</reg></choice></w> <w><choice><orig><supplied reason="omitted">ἠ</supplied>το͂ν</orig><reg>ἐτῶν</reg></choice></w>
+                    <lb n="4"/><w><surplus><choice><orig><unclear>ἠτ</unclear>ο͂ν</orig><reg>ἐτῶν</reg></choice></surplus></w> <w><choice><orig><unclear>τ</unclear>ησα<supplied reason="lost">ρά</supplied>
+                    <lb n="5" break="no"/>κοντα</orig><reg>τεσσαράκοντα</reg></choice></w> <w><choice><orig>μ<supplied reason="lost">ε͂να</supplied>
+                    <lb n="6" break="no"/><unclear>ς</unclear><reg>μῆνας</reg></orig></choice></w> <w><choice><orig>πέντ<unclear>η</unclear></orig><reg>πέντε</reg></choice></w>
+                </ab>
             </div>
             <div type="apparatus">
                 <listApp><app><note>Text of Rizzone 2008 after SEG</note></app></listApp>

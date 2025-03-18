@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -189,11 +189,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/><supplied reason="lost">Δάματ</supplied>ρι καὶ Κόρᾳ
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">Π</supplied>ρωτοφάνεος
-                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/>κος Ἀρτεμιδώρ<supplied reason="lost">ου</supplied>
-                    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost" cert="low">Ἀθαναδ</supplied>ώρου
-                    <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost" cert="low">ἀνέθηκεν</supplied>
+                    <lb n="1"/><w><supplied reason="lost">Δάματ</supplied>ρι</w> <w>καὶ</w> <name>Κόρᾳ</name>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <name><supplied reason="lost">Π</supplied>ρωτοφάνεος</name>
+                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <w>κος</w> <name>Ἀρτεμιδώρ<supplied reason="lost">ου</supplied></name>
+                    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <name><supplied reason="lost" cert="low">Ἀθαναδ</supplied>ώρου</name>
+                    <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost" cert="low">ἀνέθηκεν</supplied></w>
                 </ab>
             </div>
             <div type="apparatus">

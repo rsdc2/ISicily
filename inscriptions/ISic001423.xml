@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -187,14 +187,14 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1"/><g ref="#staurogram">&#x101a0;</g> <g ref="#staurogram">&#x101a0;</g> <g ref="#staurogram">&#x101a0;</g>
-                    <lb n="2"/>ἐνθάδε <choice><orig>κεῖτ<surplus>τ</surplus>ε</orig><reg>κεῖται</reg></choice> <g ref="#ivy-leaf">❦</g>
-                    <lb n="3"/>ἀεὶ παρθένος ὀ
-                    <lb n="4" break="no"/>νόματι <persName type="attested"><name>Θεοδούλη</name></persName> ζή
-                    <lb n="5" break="no"/>σασα <supplied reason="lost">ἔ</supplied>τη <num value="22">κβ</num> <g ref="#ivy-leaf">❦</g> τελευτᾷ τῇ
-                    <lb n="6"/>πρὸ <num value="3">γ</num> <expan><abbr>καλ</abbr><ex>ανδῶν</ex></expan> <g ref="#staurogram">&#x101a0;</g> Ἰανουαρίων
-                    <lb n="7"/>ἐδόθη δὲ ἡ ἔνβασις κατὰ δωρε
-                    <lb n="8" break="no"/>ὰν σφραγῖδος τῆς <expan><abbr>πρεσβυτέ</abbr><ex>ρας</ex></expan>
+                    <lb n="1"/><g ref="#staurogram">𐆠</g> <g ref="#staurogram">𐆠</g> <g ref="#staurogram">𐆠</g>
+                    <lb n="2"/><w>ἐνθάδε</w> <w><choice><orig>κεῖτ<surplus>τ</surplus>ε</orig><reg>κεῖται</reg></choice></w> <g ref="#ivy-leaf">❦</g>
+                    <lb n="3"/><w>ἀεὶ</w> <w>παρθένος</w> <w>ὀ
+                    <lb n="4" break="no"/>νόματι</w> <persName type="attested"><name>Θεοδούλη</name></persName> <w>ζή
+                    <lb n="5" break="no"/>σασα</w> <w><supplied reason="lost">ἔ</supplied>τη</w> <num value="22">κβ</num> <g ref="#ivy-leaf">❦</g> <w>τελευτᾷ</w> <w>τῇ</w>
+                    <lb n="6"/><w>πρὸ</w> <num value="3">γ</num> <w><expan><abbr>καλ</abbr><ex>ανδῶν</ex></expan></w> <g ref="#staurogram">𐆠</g> <name>Ἰανουαρίων</name>
+                    <lb n="7"/><w>ἐδόθη</w> <w>δὲ</w> <w>ἡ</w> <w>ἔνβασις</w> <w>κατὰ</w> <w>δωρε
+                    <lb n="8" break="no"/>ὰν</w> <w>σφραγῖδος</w> <w>τῆς</w> <w><expan><abbr>πρεσβυτέ</abbr><ex>ρας</ex></expan></w>
                 </ab>
             </div>
             <div type="apparatus">
@@ -221,7 +221,7 @@
                         <author>Rizza</author>
                         <date>1964</date>
                         <citedRange>604 no.1 fig.13</citedRange>
-                        <ref target="https://www.zotero.org/groups/382445/items/9FWKQU6Q"></ref>
+                        <ref target="https://www.zotero.org/groups/382445/items/9FWKQU6Q"/>
                         <ref target="https://biblio.inscriptiones.org/epig10003143">https://biblio.inscriptiones.org/epig10003143</ref>
                     </bibl>
                     <bibl>
@@ -240,7 +240,7 @@
                         <author>Bitto</author>
                         <date>1996</date>
                         <citedRange>279-292</citedRange>
-                        <ref target="https://www.zotero.org/groups/382445/items/DMBTEE76"></ref>
+                        <ref target="https://www.zotero.org/groups/382445/items/DMBTEE76"/>
                         <ref target="https://biblio.inscriptiones.org/epig10002146">https://biblio.inscriptiones.org/epig10002146</ref>
                     </bibl>
                 </listBibl>

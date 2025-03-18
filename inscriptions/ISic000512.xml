@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -191,11 +191,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
-                    <lb n="1"/>fines
-                    <lb n="2"/>inter
-                    <lb n="3"/>Vand<supplied reason="lost">a</supplied>
-                    <lb n="4" break="no"/><supplied reason="lost">los</supplied> et
-                    <lb n="5"/><supplied reason="lost">Gothos</supplied>
+                    <lb n="1"/><w>fines</w>
+                    <lb n="2"/><w>inter</w>
+                    <lb n="3"/><name>Vand<supplied reason="lost">a</supplied>
+                    <lb n="4" break="no"/><supplied reason="lost">los</supplied></name> <w>et</w>
+                    <lb n="5"/><name><supplied reason="lost">Gothos</supplied></name>
                     <lb n="6"/><gap reason="lost" quantity="1" unit="line"/>
                 </ab>
             </div>
@@ -206,7 +206,7 @@
                 <p>Boundary between the Vandals and the Goths...</p>
             </div>
             <div type="commentary">
-                <p></p>
+                <p/>
             </div>
             <div type="bibliography">
                 <listBibl type="edition">

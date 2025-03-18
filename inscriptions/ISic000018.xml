@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -193,25 +193,25 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la">
                 <ab>
-                    <lb n="1"/><roleName type="supracivic" subtype="imperator"><expan><abbr>Imp</abbr><ex>eratori</ex></expan></roleName> <g ref="#interpunct">·</g> Caesari
-                    <lb n="2"/><expan><abbr>M</abbr><ex>arco</ex></expan> <g ref="#interpunct">·</g> Aurelio <g ref="#interpunct">·</g> Anto
-                    <lb n="3" break="no"/><unclear>ni</unclear>no <g ref="#interpunct">·</g> <expan><abbr>Aug</abbr><ex>usto</ex></expan> <g ref="#interpunct">·</g> <roleName type="supracivic" subtype="tribunicia.potestas"><expan><abbr>trib</abbr><ex>unicia</ex></expan> <g ref="#interpunct">·</g> <expan><abbr>pot</abbr><ex>estate</ex></expan></roleName>
-                    <lb n="4"/><roleName type="supracivic" subtype="proconsul"><expan><abbr><supplied reason="lost">p</supplied><unclear>r</unclear>o<supplied reason="lost">c</supplied>o</abbr><ex>n</ex><abbr>s</abbr><ex>uli</ex></expan></roleName> <g ref="#interpunct">·</g> <roleName type="supracivic" subtype="imperator">imperatoris</roleName>
-                    <lb n="5"/><supplied reason="lost">Caesar</supplied>is <g ref="#interpunct">·</g> <expan><abbr>L</abbr><ex>uci</ex></expan> <g ref="#interpunct">·</g> Septimi <g ref="#interpunct">·</g> Severi <g ref="#interpunct">·</g> Pii
-                    <lb n="6"/>Per<supplied reason="lost">tina</supplied>cis <g ref="#interpunct">·</g> <expan><abbr>Aug</abbr><ex>usti</ex></expan> <g ref="#interpunct">·</g> Arabici
-                    <lb n="7"/><supplied reason="lost">A</supplied><unclear>di</unclear><supplied reason="lost">aben</supplied>ici <g ref="#interpunct">·</g> Parthici <g ref="#interpunct">·</g> maxi
-                    <lb n="8" break="no"/>mi <g ref="#interpunct">·</g> <supplied reason="lost">fili</supplied>o <g ref="#interpunct">·</g> divi <g ref="#interpunct">·</g> <expan><abbr>M</abbr><ex>arci</ex></expan> <g ref="#interpunct">·</g> Antonini
-                    <lb n="9"/>Pii <g ref="#interpunct">·</g> <supplied reason="lost">G</supplied><unclear>e</unclear><supplied reason="lost">r</supplied>manici <g ref="#interpunct">·</g> Sarmatici
-                    <lb n="10"/><unclear>n</unclear><supplied reason="lost">ep</supplied>o<supplied reason="lost">ti</supplied> <g ref="#interpunct">·</g> divi <g ref="#interpunct">·</g> Antonini <g ref="#interpunct">·</g> Pii <g ref="#interpunct">·</g> pro
-                    <lb break="no" n="11"/><unclear>n</unclear><supplied reason="lost">epoti</supplied> <g ref="#interpunct">·</g> divi <g ref="#interpunct">·</g> Hadriani <g ref="#interpunct">·</g> abnepo
-                    <lb break="no" n="12"/><supplied reason="lost">ti</supplied> <supplied reason="lost"><g ref="#interpunct">·</g></supplied> <supplied reason="lost">divi</supplied> <g ref="#interpunct">·</g> Tr<unclear>a</unclear>iani <g ref="#interpunct">·</g> Parthici <g ref="#interpunct">·</g> et <g ref="#interpunct">·</g> di
-                    <lb break="no" n="13"/><supplied reason="lost">vi</supplied> <supplied reason="lost"><g ref="#interpunct">·</g></supplied> <supplied reason="lost">Ner</supplied>vae <g ref="#interpunct">·</g> adnepoti <g ref="#interpunct">·</g> indu<unclear>l</unclear>
-                    <lb n="14" break="no"/><supplied reason="lost">genti</supplied><unclear>s</unclear>simo <g ref="#interpunct">·</g> et <g ref="#interpunct">·</g> clementissi
-                    <lb break="no" n="15"/>mo <g ref="#interpunct">·</g> <roleName type="supracivic" subtype="princeps"><supplied reason="lost">pr</supplied>incipi</roleName> <g ref="#interpunct">·</g> <roleName type="supracivic" subtype="dominus">domino</roleName> <g ref="#interpunct">·</g> <expan><abbr>n</abbr><ex>ostro</ex></expan>
-                    <lb n="16"/>Maesia <g ref="#interpunct">·</g> Fabia <g ref="#interpunct">·</g>Titiana
-                    <lb n="17"/><roleName type="supracivic" subtype="clarissima"><expan><abbr>c</abbr><ex>larissima</ex></expan></roleName> <expan><abbr>f</abbr><ex>emina</ex></expan> <g ref="#interpunct">·</g> et
-                    <lb n="18"/>Maesius <g ref="#interpunct">·</g> Fabius <g ref="#interpunct">·</g> Titianus
-                    <lb n="19"/><roleName type="supracivic" subtype="clarissimus"><expan><abbr>c</abbr><ex>larissimus</ex></expan></roleName> <expan><abbr>p</abbr><ex>uer</ex></expan>
+                    <lb n="1"/><roleName type="supracivic" subtype="imperator"><w><expan><abbr>Imp</abbr><ex>eratori</ex></expan></w></roleName> <g ref="#interpunct">·</g> <name>Caesari</name>
+                    <lb n="2"/><name><expan><abbr>M</abbr><ex>arco</ex></expan></name> <g ref="#interpunct">·</g> <name>Aurelio</name> <g ref="#interpunct">·</g> <name>Anto
+                    <lb n="3" break="no"/><unclear>ni</unclear>no</name> <g ref="#interpunct">·</g> <name><expan><abbr>Aug</abbr><ex>usto</ex></expan></name> <g ref="#interpunct">·</g> <roleName type="supracivic" subtype="tribunicia.potestas"><w><expan><abbr>trib</abbr><ex>unicia</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>pot</abbr><ex>estate</ex></expan></w></roleName>
+                    <lb n="4"/><roleName type="supracivic" subtype="proconsul"><w><expan><abbr><supplied reason="lost">p</supplied><unclear>r</unclear>o<supplied reason="lost">c</supplied>o</abbr><ex>n</ex><abbr>s</abbr><ex>uli</ex></expan></w></roleName> <g ref="#interpunct">·</g> <roleName type="supracivic" subtype="imperator"><w>imperatoris</w></roleName>
+                    <lb n="5"/><name><supplied reason="lost">Caesar</supplied>is</name> <g ref="#interpunct">·</g> <name><expan><abbr>L</abbr><ex>uci</ex></expan></name> <g ref="#interpunct">·</g> <name>Septimi</name> <g ref="#interpunct">·</g> <name>Severi</name> <g ref="#interpunct">·</g> <name>Pii</name>
+                    <lb n="6"/><name>Per<supplied reason="lost">tina</supplied>cis</name> <g ref="#interpunct">·</g> <name><expan><abbr>Aug</abbr><ex>usti</ex></expan></name> <g ref="#interpunct">·</g> <name>Arabici</name>
+                    <lb n="7"/><name><supplied reason="lost">A</supplied><unclear>di</unclear><supplied reason="lost">aben</supplied>ici</name> <g ref="#interpunct">·</g> <name>Parthici</name> <g ref="#interpunct">·</g> <w>maxi
+                    <lb n="8" break="no"/>mi</w> <g ref="#interpunct">·</g> <w><supplied reason="lost">fili</supplied>o</w> <g ref="#interpunct">·</g> <w>divi</w> <g ref="#interpunct">·</g> <name><expan><abbr>M</abbr><ex>arci</ex></expan></name> <g ref="#interpunct">·</g> <name>Antonini</name>
+                    <lb n="9"/><name>Pii</name> <g ref="#interpunct">·</g> <name><supplied reason="lost">G</supplied><unclear>e</unclear><supplied reason="lost">r</supplied>manici</name> <g ref="#interpunct">·</g> <name>Sarmatici</name>
+                    <lb n="10"/><w><unclear>n</unclear><supplied reason="lost">ep</supplied>o<supplied reason="lost">ti</supplied></w> <g ref="#interpunct">·</g> <w>divi</w> <g ref="#interpunct">·</g> <name>Antonini</name> <g ref="#interpunct">·</g> <name>Pii</name> <g ref="#interpunct">·</g> <w>pro
+                    <lb break="no" n="11"/><unclear>n</unclear><supplied reason="lost">epoti</supplied></w> <g ref="#interpunct">·</g> <w>divi</w> <g ref="#interpunct">·</g> <name>Hadriani</name> <g ref="#interpunct">·</g> <w>abnepo
+                    <lb break="no" n="12"/><supplied reason="lost">ti</supplied></w> <supplied reason="lost"><g ref="#interpunct">·</g></supplied> <w><supplied reason="lost">divi</supplied></w> <g ref="#interpunct">·</g> <name>Tr<unclear>a</unclear>iani</name> <g ref="#interpunct">·</g> <name>Parthici</name> <g ref="#interpunct">·</g> <w>et</w> <g ref="#interpunct">·</g> <w>di
+                    <lb break="no" n="13"/><supplied reason="lost">vi</supplied></w> <supplied reason="lost"><g ref="#interpunct">·</g></supplied> <name><supplied reason="lost">Ner</supplied>vae</name> <g ref="#interpunct">·</g> <w>adnepoti</w> <g ref="#interpunct">·</g> <w>indu<unclear>l</unclear>
+                    <lb n="14" break="no"/><supplied reason="lost">genti</supplied><unclear>s</unclear>simo</w> <g ref="#interpunct">·</g> <w>et</w> <g ref="#interpunct">·</g> <w>clementissi
+                    <lb break="no" n="15"/>mo</w> <g ref="#interpunct">·</g> <roleName type="supracivic" subtype="princeps"><w><supplied reason="lost">pr</supplied></w> <w>incipi</w></roleName> <g ref="#interpunct">·</g> <roleName type="supracivic" subtype="dominus"><w>domino</w></roleName> <g ref="#interpunct">·</g> <w><expan><abbr>n</abbr><ex>ostro</ex></expan></w>
+                    <lb n="16"/><name>Maesia</name> <g ref="#interpunct">·</g> <name>Fabia</name> <w><g ref="#interpunct">·</g>Titiana</w>
+                    <lb n="17"/><roleName type="supracivic" subtype="clarissima"><w><expan><abbr>c</abbr><ex>larissima</ex></expan></w></roleName> <w><expan><abbr>f</abbr><ex>emina</ex></expan></w> <g ref="#interpunct">·</g> <w>et</w>
+                    <lb n="18"/><name>Maesius</name> <g ref="#interpunct">·</g> <name>Fabius</name> <g ref="#interpunct">·</g> <name>Titianus</name>
+                    <lb n="19"/><roleName type="supracivic" subtype="clarissimus"><w><expan><abbr>c</abbr><ex>larissimus</ex></expan></w></roleName> <w><expan><abbr>p</abbr><ex>uer</ex></expan></w>
                 </ab>
             </div>
             <div type="apparatus">

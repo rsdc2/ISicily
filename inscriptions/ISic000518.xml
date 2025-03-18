@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -187,10 +187,10 @@
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
                     <lb n="0"/><gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="1"/>ex aere conlato patrono
-                    <lb n="2"/>bene de se merito curante
-                    <lb n="3"/>et de suo quod defuerat
-                    <lb n="4"/>supplente
+                    <lb n="1"/><w>ex</w> <w>aere</w> <w>conlato</w> <w>patrono</w>
+                    <lb n="2"/><w>bene</w> <w>de</w> <w>se</w> <w>merito</w> <w>curante</w>
+                    <lb n="3"/><w>et</w> <w>de</w> <w>suo</w> <w>quod</w> <w>defuerat</w>
+                    <lb n="4"/><w>supplente</w>
                     <lb n="5"/><persName type="attested"><name>Paconio</name> <name>Clodiano</name></persName>
                 </ab>
             </div>

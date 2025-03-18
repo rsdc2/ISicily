@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -191,11 +191,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#MH">
                 <ab>
-                    <lb n="1"/><expan><abbr>D</abbr><ex>is</ex></expan> <g ref="#interpunct">·</g> <expan><abbr>M</abbr><ex>anibus</ex></expan>
-                    <lb n="2"/>Decimia <g ref="#interpunct">·</g> Gamice
-                    <lb n="3"/><hi rend="ligature">et</hi> <g ref="#interpunct">·</g> Decimius <g ref="#interpunct">·</g> Aga
-                    <lb n="4" break="no"/>pomenus <g ref="#interpunct">·</g> piis
-                    <lb n="5" break="no"/>simae <g ref="#interpunct">·</g> <expan><abbr>colliber</abbr><ex>tae</ex></expan>  .
+                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <name><expan><abbr>M</abbr><ex>anibus</ex></expan></name>
+                    <lb n="2"/><name>Decimia</name> <g ref="#interpunct">·</g> <name>Gamice</name>
+                    <lb n="3"/><w><hi rend="ligature">et</hi></w> <g ref="#interpunct">·</g> <name>Decimius</name> <g ref="#interpunct">·</g> <name>Aga
+                    <lb n="4" break="no"/>pomenus</name> <g ref="#interpunct">·</g> <w>piis
+                    <lb n="5" break="no"/>simae</w> <g ref="#interpunct">·</g> <w><expan><abbr>colliber</abbr><ex>tae</ex></expan></w> <name>.</name>
                 </ab>
             </div>
             <div type="apparatus">

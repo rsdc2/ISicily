@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -185,10 +185,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#IG">
                 <ab>
-                    <lb n="1"/>Τόπος
-                    <lb n="2"/>Κυρ<supplied reason="omitted">ι</supplied>ακ
-                    <lb n="3" break="no"/>ὸς <g ref="#sigma">Σ</g> <g ref="#staurogram">𐆠</g> <g ref="#omega">Ω</g> 
-               </ab>
+                    <lb n="1"/><w>Τόπος</w>
+                    <lb n="2"/><name>Κυρ<supplied reason="omitted">ι</supplied>ακ
+                    <lb n="3" break="no"/>ὸς</name> <g ref="#sigma">Σ</g> <g ref="#staurogram">𐆠</g> <g ref="#omega">Ω</g>
+                </ab>
                </div>
             <div type="apparatus">
                 <listApp><app><note>Text from Orsi checked against photograph</note></app></listApp>

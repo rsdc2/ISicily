@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -202,17 +202,10 @@
             </div>-->
             <div type="edition" xml:space="preserve" subtype="PHI" n="PHI332861">
                 <ab>
-                    <lb n="1"/>
-                    <supplied reason="lost">ὄμματα</supplied> <supplied reason="lost">δ’</supplied> <supplied reason="lost">ο</supplied>ἱ παῖδες θλίβουσι πεσ
-                    <unclear>ή</unclear>
-                    <supplied reason="lost" cert="low">ματι</supplied> <supplied reason="lost" cert="low">τοῦ</supplied> <supplied reason="lost" cert="low">δεῖνος</supplied>
-                    <lb n="2"/>
-                    <supplied reason="lost">ὃς</supplied> <supplied reason="lost">λύπαις</supplied>
-                    καὶ νούσοις ἤπια φάρμακα πᾶσσιν
-                    <lb n="3"/>
-                    <supplied reason="lost">ὤπασεν</supplied> <supplied reason="lost">ε</supplied>ὐδαίμων· τοῦ μὲν κλέος οὔποτ’ ὀλῖται
-                    <lb n="4"/>
-                    <supplied reason="lost">ἠὼς</supplied> <supplied reason="lost">καί</supplied> <supplied reason="lost">τ</supplied>ε δύσις μεγάλων μεμνήσεται ἔργων
+                    <lb n="1"/><w><supplied reason="lost">ὄμματα</supplied></w> <w><supplied reason="lost">δ’</supplied></w> <w><supplied reason="lost">ο</supplied>ἱ</w> <w>παῖδες</w> <w>θλίβουσι</w> <w>πεσ</w> <w><unclear>ή</unclear></w> <w><supplied reason="lost" cert="low">ματι</supplied></w> <w><supplied reason="lost" cert="low">τοῦ</supplied></w> <w><supplied reason="lost" cert="low">δεῖνος</supplied></w>
+                    <lb n="2"/><w><supplied reason="lost">ὃς</supplied></w> <w><supplied reason="lost">λύπαις</supplied></w> <w>καὶ</w> <w>νούσοις</w> <w>ἤπια</w> <w>φάρμακα</w> <w>πᾶσσιν</w>
+                    <lb n="3"/><w><supplied reason="lost">ὤπασεν</supplied></w> <w><supplied reason="lost">ε</supplied>ὐδαίμων·</w> <w>τοῦ</w> <w>μὲν</w> <w>κλέος</w> <w>οὔποτ’</w> <w>ὀλῖται</w>
+                    <lb n="4"/><w><supplied reason="lost">ἠὼς</supplied></w> <w><supplied reason="lost">καί</supplied></w> <w><supplied reason="lost">τ</supplied>ε</w> <w>δύσις</w> <w>μεγάλων</w> <w>μεμνήσεται</w> <w>ἔργων</w>
                 </ab>
             </div>
             <div type="apparatus">

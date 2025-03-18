@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -191,12 +191,12 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/><g ref="#christogram"/>ἐνθάδε κῖ 
-                    <lb n="2" break="no"/>τε Εὐφρο
-                    <lb n="3" break="no"/>σύνη τελευ
-                    <lb n="4" break="no"/>τᾷ τῇ <expan><abbr>πρ</abbr><ex>ὸ</ex></expan> <hi rend="supraline"><num value="15">ιε</num></hi> κα
-                    <lb n="5" break="no"/>λανδῶν <supplied reason="lost">Νο</supplied>
-                    <lb n="6" break="no"/>βενβρίω<supplied reason="lost">ν</supplied>
+                    <lb n="1"/><w><g ref="#christogram"/>ἐνθάδε</w> <w>κῖ
+                    <lb n="2" break="no"/>τε</w> <name>Εὐφρο
+                    <lb n="3" break="no"/>σύνη</name> <w>τελευ
+                    <lb n="4" break="no"/>τᾷ</w> <w>τῇ</w> <w><expan><abbr>πρ</abbr><ex>ὸ</ex></expan></w> <w><hi rend="supraline"><num value="15">ιε</num></hi>κα
+                    <lb n="5" break="no"/>λανδῶν</w> <name><supplied reason="lost">Νο</supplied>
+                    <lb n="6" break="no"/>βενβρίω<supplied reason="lost">ν</supplied></name>
                 </ab>
             </div>
             <div type="apparatus">

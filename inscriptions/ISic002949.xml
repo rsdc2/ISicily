@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -190,14 +190,14 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab type="textpart" subtype="tabula" n="left">
-                    <lb n="1"/><supplied reason="lost">Ἰουλ</supplied>ία Εὐ
-                    <lb n="2" break="no"/><supplied reason="lost">μά</supplied>χη <g ref="#ivy-leaf">❦</g>
-                    <lb n="3"/><supplied reason="lost">φίλ</supplied>ανδρος
+                    <lb n="1"/><w><supplied reason="lost">Ἰουλ</supplied>ία</w> <name>Εὐ
+                    <lb n="2" break="no"/><supplied reason="lost">μά</supplied>χη</name> <g ref="#ivy-leaf">❦</g>
+                    <lb n="3"/><w><supplied reason="lost">φίλ</supplied>ανδρος</w>
                 </ab>
                 <ab type="textpart" subtype="tabula" n="right">
-                    <lb n="1"/><orig>Κ</orig> Καικίλ<supplied reason="lost">ιος</supplied> <supplied reason="lost">χαρί</supplied>των Ἰουουέ<supplied reason="lost">ντιος</supplied> <supplied reason="lost">Ἵλα</supplied>
-                    <lb n="2" break="no"/>ρος βιολόγος ὀκ<supplied reason="lost">λαδο</supplied>
-                    <lb n="3"/>παίκτης φιλόξ<supplied reason="lost">ενος</supplied>
+                    <lb n="1"/><orig>Κ</orig><w>Καικίλ<supplied reason="lost">ιος</supplied></w> <w><supplied reason="lost">χαρί</supplied>των</w> <name>Ἰουουέ<supplied reason="lost">ντιος</supplied></name> <name><supplied reason="lost">Ἵλα</supplied>
+                    <lb n="2" break="no"/>ρος</name> <w>βιολόγος</w> <w>ὀκ<supplied reason="lost">λαδο</supplied></w>
+                    <lb n="3"/><w>παίκτης</w> <w>φιλόξ<supplied reason="lost">ενος</supplied></w>
                 </ab>
             </div>
             <div type="apparatus">

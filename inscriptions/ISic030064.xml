@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -170,18 +170,18 @@
    <text>
       <body>
          <div type="edition" xml:space="preserve" xml:lang="grc" resp="#RDS">
-         <ab>
-         <lb n="1"/><gap reason="lost" atLeast="6" atMost="7" unit="character"/> <supplied reason="lost">Γλ</supplied><unclear>α</unclear>υκία<unclear>ς</unclear> <gap reason="lost" quantity="22" unit="character"/>
-         <lb n="2"/><gap reason="lost" quantity="2" unit="character"/> γενομένου <orig>Τ</orig><gap reason="lost" quantity="22" unit="character"/>
-         <lb n="3"/><gap reason="lost" quantity="3" unit="character"/><orig>ΕΡΑ</orig> ἐφιεῖσα <gap reason="lost" quantity="4" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><orig>ΕΛΟΝ</orig><gap reason="lost" quantity="7" unit="character"/><orig><unclear>Σ</unclear>Ι<unclear>Λ</unclear></orig><gap reason="illegible" quantity="2" unit="character"/><orig><unclear>Ι</unclear></orig><gap reason="lost" quantity="7" unit="character"/>
-         <lb n="4"/><gap reason="lost" quantity="4" unit="character"/>μαχος Φιντί<supplied reason="lost">α</supplied> Εὐκλείδα<supplied reason="lost">ς</supplied> <gap reason="lost" quantity="3" unit="character"/><unclear>υ</unclear> Ἡρακλείδ<supplied reason="lost">ας</supplied> <gap reason="lost" quantity="4" unit="character"/>
-         <lb n="5"/>Φιλωνίδας Δράκοντος Φιλωνίδας <supplied reason="lost">Ἡρ</supplied>ακλεί<supplied reason="lost">δ</supplied>α Ἄντ<supplied reason="lost">αλλος</supplied>
-         <lb n="6"/>Χάρωνος Φρῦνος Εὐκλείδα Σωσ<supplied reason="lost">ία</supplied>ς Ξεν<supplied reason="lost">οκ</supplied><unclear>λ</unclear>έ<unclear>ο</unclear><supplied reason="lost">ς</supplied> <gap reason="lost" quantity="5" unit="character"/>
-         <lb n="7"/>Γλαυκία Ἀπολλόδωρος Δράκοντ<supplied reason="lost">ο</supplied>ς Ἱάρων <supplied reason="lost">Κλ</supplied>έ<unclear>ω</unclear><supplied reason="lost">νος</supplied> <gap reason="lost" quantity="5" unit="character"/>
-         <lb n="8"/>Τε<unclear>ι</unclear>σάνδρου Ἁγή<unclear>σ</unclear>ανδρος <del rend="erasure"><subst><del rend="corrected">δ</del><add place="overstrike">Ἁ</add></subst>λιδίου, Κλ</del>έων <gap reason="lost" quantity="10" unit="character"/>
-         <lb n="9"/>Ξένων Ἱππάρχ<unclear>ο</unclear>υ <space quantity="1" unit="character"/> Ἄνταλλος <supplied reason="lost">Ἡρ</supplied>ακλεί<unclear>δ</unclear><supplied reason="lost">α</supplied> <supplied reason="lost" cert="low"><space unit="character" extent="unknown"/></supplied>
-         <lb n="10"/><space quantity="1" unit="line"/>
-         </ab>
+                <ab>
+                    <lb n="1"/><gap reason="lost" atLeast="6" atMost="7" unit="character"/> <w><supplied reason="lost">Γλ</supplied><unclear>α</unclear>υκία<unclear>ς</unclear></w> <gap reason="lost" quantity="22" unit="character"/>
+                    <lb n="2"/><gap reason="lost" quantity="2" unit="character"/> <w>γενομένου</w> <orig>Τ</orig><gap reason="lost" quantity="22" unit="character"/>
+                    <lb n="3"/><gap reason="lost" quantity="3" unit="character"/> <orig>ΕΡΑ</orig><w>ἐφιεῖσα</w> <gap reason="lost" quantity="4" unit="character"/> <gap reason="illegible" quantity="1" unit="character"/> <orig>ΕΛΟΝ</orig><gap reason="lost" quantity="7" unit="character"/> <orig><unclear>Σ</unclear>Ι <unclear>Λ</unclear></orig><gap reason="illegible" quantity="2" unit="character"/> <orig><unclear>Ι</unclear></orig><gap reason="lost" quantity="7" unit="character"/>
+                    <lb n="4"/><gap reason="lost" quantity="4" unit="character"/> <w>μαχος</w> <name>Φιντί<supplied reason="lost">α</supplied></name> <name>Εὐκλείδα<supplied reason="lost">ς</supplied></name> <gap reason="lost" quantity="3" unit="character"/> <w><unclear>υ</unclear></w> <name>Ἡρακλείδ<supplied reason="lost">ας</supplied></name> <gap reason="lost" quantity="4" unit="character"/>
+                    <lb n="5"/><name>Φιλωνίδας</name> <name>Δράκοντος</name> <name>Φιλωνίδας</name> <name><supplied reason="lost">Ἡρ</supplied>ακλεί<supplied reason="lost">δ</supplied>α</name> <name>Ἄντ<supplied reason="lost">αλλος</supplied></name>
+                    <lb n="6"/><name>Χάρωνος</name> <name>Φρῦνος</name> <name>Εὐκλείδα</name> <name>Σωσ<supplied reason="lost">ία</supplied>ς</name> <name>Ξεν<supplied reason="lost">οκ</supplied><unclear>λ</unclear>έ<unclear>ο</unclear><supplied reason="lost">ς</supplied></name> <gap reason="lost" quantity="5" unit="character"/>
+                    <lb n="7"/><name>Γλαυκία</name> <name>Ἀπολλόδωρος</name> <name>Δράκοντ<supplied reason="lost">ο</supplied>ς</name> <name>Ἱάρων</name> <name><supplied reason="lost">Κλ</supplied>έ<unclear>ω</unclear><supplied reason="lost">νος</supplied></name> <gap reason="lost" quantity="5" unit="character"/>
+                    <lb n="8"/><name>Τε<unclear>ι</unclear>σάνδρου</name> <name>Ἁγή<unclear>σ</unclear>ανδρος</name> <w><del rend="erasure"><subst><del rend="corrected">δ</del><add place="overstrike">Ἁ</add></subst>λιδίου, Κλ</del>έων</w> <gap reason="lost" quantity="10" unit="character"/>
+                    <lb n="9"/><name>Ξένων</name> <name>Ἱππάρχ<unclear>ο</unclear>υ</name> <space quantity="1" unit="character"/><name>Ἄνταλλος</name> <name><supplied reason="lost">Ἡρ</supplied>ακλεί<unclear>δ</unclear><supplied reason="lost">α</supplied></name> <supplied reason="lost" cert="low"><space unit="character" extent="unknown"/></supplied>
+                    <lb n="10"/><space quantity="1" unit="line"/>
+                </ab>
          </div>
          <div type="apparatus" resp="#RDS">
            <listApp>

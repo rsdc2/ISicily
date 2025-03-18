@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -191,10 +191,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
-                    <lb n="1"/><name>Flamma</name> <g ref="#interpunct">·</g> <choice><sic><expan><abbr>sic</abbr><ex>utor</ex></expan></sic><corr><expan><abbr>sec</abbr><ex>utor</ex></expan></corr></choice> <g ref="#interpunct">·</g> <expan><abbr>vix</abbr><ex>it</ex></expan> <g ref="#interpunct">·</g> <expan><abbr>an</abbr><ex>nis</ex></expan> <g ref="#interpunct">·</g> <num value="30">XXX</num>
-                    <lb n="2"/><choice><orig>pugnat</orig><reg>pugnavit</reg></choice> <g ref="#interpunct">·</g> <num value="34">XXXIIII</num> <g ref="#interpunct">·</g> vicit <g ref="#interpunct">·</g> <num value="21">XXI</num>
-                    <lb n="3"/>stans <g ref="#interpunct">·</g> <num value="9">VIIII</num> <g ref="#interpunct">·</g> <expan><abbr>mis</abbr><ex>sus</ex></expan> <g ref="#interpunct">·</g> <num value="4">IIII</num> <g ref="#interpunct">·</g> <expan><abbr>nat</abbr><ex>ione</ex></expan> <g ref="#interpunct">·</g> <expan><abbr><hi rend="supraline">S</hi></abbr><ex>y</ex><abbr><hi rend="supraline">rus</hi></abbr></expan>
-                    <lb n="4"/><choice><orig>hui</orig><reg>huic</reg></choice> <name>Delicatus</name> <g ref="#interpunct">·</g> coarmio <g ref="#interpunct">·</g> merenti <g ref="#interpunct">·</g> fecit
+                    <lb n="1"/><name>Flamma</name> <g ref="#interpunct">·</g> <w><choice><sic><expan><abbr>sic</abbr><ex>utor</ex></expan></sic><corr><expan><abbr>sec</abbr><ex>utor</ex></expan></corr></choice></w> <g ref="#interpunct">·</g> <w><expan><abbr>vix</abbr><ex>it</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>an</abbr><ex>nis</ex></expan></w> <g ref="#interpunct">·</g> <num value="30">XXX</num>
+                    <lb n="2"/><w><choice><orig>pugnat</orig><reg>pugnavit</reg></choice></w> <g ref="#interpunct">·</g> <num value="34">XXXIIII</num> <g ref="#interpunct">·</g> <w>vicit</w> <g ref="#interpunct">·</g> <num value="21">XXI</num>
+                    <lb n="3"/><w>stans</w> <g ref="#interpunct">·</g> <num value="9">VIIII</num> <g ref="#interpunct">·</g> <w><expan><abbr>mis</abbr><ex>sus</ex></expan></w> <g ref="#interpunct">·</g> <num value="4">IIII</num> <g ref="#interpunct">·</g> <w><expan><abbr>nat</abbr><ex>ione</ex></expan></w> <g ref="#interpunct">·</g> <name><expan><abbr><hi rend="supraline">S</hi></abbr><ex>y</ex><abbr><hi rend="supraline">rus</hi></abbr></expan></name>
+                    <lb n="4"/><w><choice><orig>hui</orig><reg>huic</reg></choice></w> <name>Delicatus</name> <g ref="#interpunct">·</g> <w>coarmio</w> <g ref="#interpunct">·</g> <w>merenti</w> <g ref="#interpunct">·</g> <w>fecit</w>
                 </ab>
             </div>
             <div type="apparatus">

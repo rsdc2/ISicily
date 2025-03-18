@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -209,85 +209,14 @@
         <body>
             <div type="edition" xml:space="preserve" subtype="EDR" n="EDR080558" xml:lang="la">
                 <ab>
-                    <lb n="1"/>
-                    <expan>
-                        <abbr>T</abbr>
-                        <ex>ito</ex>
-                    </expan>
-                    Quarto
-                    <lb n="2"/>Masculo
-                    <lb n="3"/>
-                    <expan>
-                        <abbr>T</abbr>
-                        <ex>iti</ex>
-                    </expan>
-                    Quarti
-                    Cres<lb n="4" break="no"/>centinii ·
-                    <expan>
-                        <abbr>Q</abbr>
-                        <ex>ui</ex>
-                        <abbr>r</abbr>
-                        <ex>ina</ex>
-                    </expan>
-                    ·
-                    <lb n="5"/>
-                    <expan>
-                        <abbr>fil</abbr>
-                        <ex>io</ex>
-                    </expan>
-                    <expan>
-                        <abbr>dec</abbr>
-                        <ex>urioni</ex>
-                    </expan>
-                    <expan>
-                        <abbr>spl</abbr>
-                        <ex>endidissimae</ex>
-                    </expan>
-                    <lb n="6"/>
-                    <expan>
-                        <abbr>col</abbr>
-                        <ex>oniae</ex>
-                    </expan>
-                    <expan>
-                        <abbr>Aug</abbr>
-                        <ex>ustae</ex>
-                    </expan>
-                    <choice>
-                        <sic>
-                            <expan>
-                                <abbr>Lilib</abbr>
-                                <ex>itanorum</ex>
-                            </expan>
-                        </sic>
-                        <corr>Lilybitanorum</corr>
-                    </choice>
-                    <lb n="7"/>
-                    <expan>
-                        <abbr>q</abbr>
-                        <ex>uestori</ex>
-                    </expan>
-                    <expan>
-                        <abbr>p</abbr>
-                        <ex>ecuniae</ex>
-                    </expan>
-                    <expan>
-                        <abbr>p</abbr>
-                        <ex>ublicae</ex>
-                    </expan>
-                    <expan>
-                        <abbr>cur</abbr>
-                        <ex>atori</ex>
-                    </expan>
-                    <expan>
-                        <abbr>f</abbr>
-                        <ex>rumenti</ex>
-                    </expan>
-                    <expan>
-                        <abbr>p</abbr>
-                        <ex>ublici</ex>
-                    </expan>
-                    <lb n="8"/>
-                    <gap reason="lost" extent="unknown" unit="line"/>
+                    <lb n="1"/><w><expan><abbr>T</abbr><ex>ito</ex></expan></w> <name>Quarto</name>
+                    <lb n="2"/><name>Masculo</name>
+                    <lb n="3"/><name><expan><abbr>T</abbr><ex>iti</ex></expan></name> <name>Quarti</name> <name>Cres
+                    <lb n="4" break="no"/>centinii</name> <g ref="#interpunct">·</g> <name><expan><abbr>Q</abbr><ex>ui</ex><abbr>r</abbr><ex>ina</ex></expan></name> <g ref="#interpunct">·</g>
+                    <lb n="5"/><w><expan><abbr>fil</abbr><ex>io</ex></expan></w> <w><expan><abbr>dec</abbr><ex>urioni</ex></expan></w> <w><expan><abbr>spl</abbr><ex>endidissimae</ex></expan></w>
+                    <lb n="6"/><w><expan><abbr>col</abbr><ex>oniae</ex></expan></w> <name><expan><abbr>Aug</abbr><ex>ustae</ex></expan></name> <w><choice><sic><expan><abbr>Lilib</abbr><ex>itanorum</ex></expan></sic><corr>Lilybitanorum</corr></choice></w>
+                    <lb n="7"/><w><expan><abbr>q</abbr><ex>uestori</ex></expan></w> <w><expan><abbr>p</abbr><ex>ecuniae</ex></expan></w> <w><expan><abbr>p</abbr><ex>ublicae</ex></expan></w> <w><expan><abbr>cur</abbr><ex>atori</ex></expan></w> <w><expan><abbr>f</abbr><ex>rumenti</ex></expan></w> <w><expan><abbr>p</abbr><ex>ublici</ex></expan></w>
+                    <lb n="8"/><gap reason="lost" extent="unknown" unit="line"/>
                 </ab>
             </div>
             <div type="apparatus">

@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -175,15 +175,15 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
-               <div type="textpart" subtype="section" n="a">
-                   <ab>
-                       <lb n="1"/><g ref="#cross_uninterpreted"/>
-                   </ab>
-               </div>
-               <div type="textpart" subtype="section" n="b">
-                   <ab>
-                       <lb n="1" rend="spiral-clockwise"/>γᾶς <persName type="attested"><name>Μύσχελυς</name></persName>
-                   </ab>                
+                <div type="textpart" subtype="section" n="a">
+                    <ab>
+                        <lb n="1"/><g ref="#cross_uninterpreted"/>
+                    </ab>
+                </div>
+                <div type="textpart" subtype="section" n="b">
+                    <ab>
+                        <lb n="1" rend="spiral-clockwise"/><w>γᾶς</w> <persName type="attested"><name>Μύσχελυς</name></persName>
+                    </ab>
                 </div>
             </div>
             <div type="apparatus">

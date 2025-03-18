@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -195,12 +195,12 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
-                    <lb n="1"/><expan><abbr>D</abbr><ex>is</ex></expan> <expan><abbr>M</abbr><ex>anibus</ex></expan> <expan><abbr>s</abbr><ex>acrum</ex></expan>
-                    <lb n="2"/>Aihrodisia
-                    <lb n="3"/>vixit <expan><abbr>ann</abbr><ex>is</ex></expan> <num value="12">XII</num>
-                    <lb n="4"/>Quarta · vixii
-                    <lb n="5"/><expan><abbr>ann</abbr><ex>is</ex></expan> <num value="14">XIIII</num> <expan><abbr>fec</abbr><ex>it</ex></expan>
-                    <lb n="6"/>Eutychia mater
+                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <name><expan><abbr>M</abbr><ex>anibus</ex></expan></name> <w><expan><abbr>s</abbr><ex>acrum</ex></expan></w>
+                    <lb n="2"/><name>Aihrodisia</name>
+                    <lb n="3"/><w>vixit</w> <w><expan><abbr>ann</abbr><ex>is</ex></expan></w> <num value="12">XII</num>
+                    <lb n="4"/><name>Quarta</name> <g ref="#interpunct">·</g> <w>vixii</w>
+                    <lb n="5"/><w><expan><abbr>ann</abbr><ex>is</ex></expan></w> <num value="14">XIIII</num> <w><expan><abbr>fec</abbr><ex>it</ex></expan></w>
+                    <lb n="6"/><name>Eutychia</name> <w>mater</w>
                 </ab>
             </div>
             <div type="apparatus">

@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -196,9 +196,9 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#TA #JP">
-            <ab>
-                <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <expan><abbr><supplied reason="lost">A</supplied><unclear>u</unclear>g</abbr><ex>usti</ex></expan> <g ref="#interpunct">·</g> <roleName type="civic" subtype="duumvir"><num value="2">II</num>vir</roleName> <gap reason="lost" extent="unknown" unit="character"/>
-                <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <roleName type="civic.religious" subtype="pontifex"><supplied reason="lost">po</supplied>nt<supplied reason="lost">i</supplied>fex</roleName> <gap reason="lost" extent="unknown" unit="character"/>
+                <ab>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w><expan><abbr><supplied reason="lost">A</supplied><unclear>u</unclear>g</abbr><ex>usti</ex></expan></w> <g ref="#interpunct">·</g> <roleName type="civic" subtype="duumvir"><num value="2">II</num> <w>vir</w></roleName> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <roleName type="civic.religious" subtype="pontifex"><w><supplied reason="lost">po</supplied></w> <w>nt</w> <w><supplied reason="lost">i</supplied></w> <w>fex</w></roleName> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>
             <div type="apparatus" resp="#JP">

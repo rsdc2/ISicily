@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -198,12 +198,12 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#AA">
                 <ab>
-                    <lb n="1"/><expan><abbr>πρ</abbr><ex>ὸ</ex></expan> <num value="6">ϛ</num> καλανδ<supplied reason="lost">ῶν</supplied>
-                    <lb n="2"/>Ἰουνίων <unclear>ἐ</unclear><supplied reason="lost">γὼ</supplied>
+                    <lb n="1"/><w><expan><abbr>πρ</abbr><ex>ὸ</ex></expan></w> <num value="6">ϛ</num> <w>καλανδ<supplied reason="lost">ῶν</supplied></w>
+                    <lb n="2"/><name>Ἰουνίων</name> <w><unclear>ἐ</unclear><supplied reason="lost">γὼ</supplied></w>
                     <lb n="3"/><name>Θέδουλος</name>
-                    <lb n="4"/>ζῶν κὲ εἰμέ 
-                    <lb n="5" break="no"/>νος ἠγόρασα
-                    <lb n="6"/>παρὰ <name>Ἀρίστωνος</name>
+                    <lb n="4"/><w>ζῶν</w> <w>κὲ</w> <w>εἰμέ
+                    <lb n="5" break="no"/>νος</w> <w>ἠγόρασα</w>
+                    <lb n="6"/><w>παρὰ</w> <name>Ἀρίστωνος</name>
                 </ab>
             </div>
             <div type="apparatus">

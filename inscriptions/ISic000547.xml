@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -197,13 +197,13 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#NCash">
                 <ab>
-                    <lb n="1"/><expan><abbr>d</abbr><ex>is</ex></expan> <expan><abbr>m</abbr><ex>anibus</ex></expan>
-                    <lb n="2"/><expan><abbr><supplied reason="lost">A</supplied>ur</abbr><ex>elio</ex></expan> <g ref="#interpunct">·</g> Rustico <g ref="#interpunct">·</g> <expan><abbr>mil</abbr><ex>itavit</ex></expan>
-                    <lb n="3"/><expan><abbr>ann</abbr><ex>os</ex></expan> <g ref="#interpunct">·</g> <num value="8">VIII</num> <expan><abbr>tr</abbr><ex>iere</ex></expan> <expan><abbr><am><g ref="#centuria"/></am></abbr><ex>centuria</ex></expan> Zeno
-                    <lb n="4" break="no"/>nis <g ref="#interpunct">·</g> <expan><abbr>Mar</abbr><ex>cus</ex></expan> <g ref="#interpunct">·</g> Germanici
-                    <lb n="5" break="no"/>anus <g ref="#interpunct">·</g> <expan><abbr>mil</abbr><ex>itavit</ex></expan> <g ref="#interpunct">·</g> <expan><abbr>ann</abbr><ex>os</ex></expan> <g ref="#interpunct">·</g> <num value="10">X</num>
-                    <lb n="6"/><expan><abbr>Valer</abbr><ex>ius</ex></expan> <g ref="#interpunct">·</g> Victorinus
-                    <lb n="7"/><expan><abbr>her</abbr><ex>es</ex></expan> <g ref="#interpunct">·</g> <expan><abbr>b</abbr><ex>ene</ex></expan> <g ref="#interpunct">·</g> <expan><abbr>m</abbr><ex>erenti</ex></expan> <g ref="#interpunct">·</g> <expan><abbr>f</abbr><ex>ecit</ex></expan>
+                    <lb n="1"/><w><expan><abbr>d</abbr><ex>is</ex></expan></w> <w><expan><abbr>m</abbr><ex>anibus</ex></expan></w>
+                    <lb n="2"/><name><expan><abbr><supplied reason="lost">A</supplied>ur</abbr><ex>elio</ex></expan></name> <g ref="#interpunct">·</g> <name>Rustico</name> <g ref="#interpunct">·</g> <w><expan><abbr>mil</abbr><ex>itavit</ex></expan></w>
+                    <lb n="3"/><w><expan><abbr>ann</abbr><ex>os</ex></expan></w> <g ref="#interpunct">·</g> <num value="8">VIII</num> <w><expan><abbr>tr</abbr><ex>iere</ex></expan></w> <w><expan><abbr><am><g ref="#centuria"/></am></abbr><ex>centuria</ex></expan></w> <name>Zeno
+                    <lb n="4" break="no"/>nis</name> <g ref="#interpunct">·</g> <name><expan><abbr>Mar</abbr><ex>cus</ex></expan></name> <g ref="#interpunct">·</g> <name>Germanici
+                    <lb n="5" break="no"/>anus</name> <g ref="#interpunct">·</g> <w><expan><abbr>mil</abbr><ex>itavit</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>ann</abbr><ex>os</ex></expan></w> <g ref="#interpunct">·</g> <num value="10">X</num>
+                    <lb n="6"/><name><expan><abbr>Valer</abbr><ex>ius</ex></expan></name> <g ref="#interpunct">·</g> <name>Victorinus</name>
+                    <lb n="7"/><w><expan><abbr>her</abbr><ex>es</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>b</abbr><ex>ene</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>m</abbr><ex>erenti</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>f</abbr><ex>ecit</ex></expan></w>
                 </ab>
             </div>
             <div type="apparatus">

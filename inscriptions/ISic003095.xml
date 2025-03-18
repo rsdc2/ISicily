@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -191,10 +191,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/>Αἰμιλιανὸς 
-                    <lb n="2"/>ἐνθάδε κῖτε <g ref="#interpunct"/> πλη
-                    <lb n="3" break="no"/>ρῶσας <supplied reason="subaudible">τὸν βίον</supplied> <g ref="#interpunct"/> <expan><abbr>καλ</abbr><ex>ανδαῖς</ex></expan> <g ref="#interpunct"/> <expan><abbr>Δεκεμβρ</abbr><ex>ίαις</ex></expan> <g ref="#interpunct"/>
-                    <lb n="4"/>Θεοδοσίω τὸ <num value="3">γ</num> <g ref="#interpunct"/> <expan><abbr>κ</abbr><ex>αὶ</ex></expan> Εὐγενίῳ τὸ <num value="1">α</num>
+                    <lb n="1"/><w>Αἰμιλιανὸς</w>
+                    <lb n="2"/><w>ἐνθάδε</w> <w>κῖτε</w> <g ref="#interpunct"/> <w>πλη
+                    <lb n="3" break="no"/>ρῶσας</w> <w><supplied reason="subaudible">τὸν βίον</supplied></w> <g ref="#interpunct"/> <w><expan><abbr>καλ</abbr><ex>ανδαῖς</ex></expan></w> <g ref="#interpunct"/> <name><expan><abbr>Δεκεμβρ</abbr><ex>ίαις</ex></expan></name> <g ref="#interpunct"/>
+                    <lb n="4"/><name>Θεοδοσίω</name> <w>τὸ</w> <num value="3">γ</num> <g ref="#interpunct"/> <w><expan><abbr>κ</abbr><ex>αὶ</ex></expan></w> <name>Εὐγενίῳ</name> <w>τὸ</w> <num value="1">α</num>
                 </ab>
             </div>
             <div type="apparatus">

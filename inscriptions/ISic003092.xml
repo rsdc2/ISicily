@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -191,10 +191,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><orig>ΤΩΝ</orig><gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><orig>ΗΘΗΗ</orig><gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="3"/><supplied reason="lost">τε͂ς</supplied> <supplied reason="lost">μηνὸς</supplied> <supplied reason="lost">ἰουλί</supplied>ου <num value="10">δέ<supplied reason="lost">κα</supplied></num> <supplied reason="lost">ἐν</supplied> <supplied reason="lost">τῇ</supplied>
-                    <lb n="4"/><roleName type="supracivic" subtype="consul"><supplied reason="lost">ὑπατί</supplied>ᾳ</roleName> <expan><abbr>Βα<supplied reason="lost">λεντ</supplied></abbr><ex>ινιανοῦ</ex></expan> <supplied reason="lost"><expan><abbr>κ</abbr><ex>αὶ</ex></expan></supplied> <expan><abbr>Βα<supplied reason="lost">λεντ</supplied></abbr><ex>ίου</ex></expan>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <orig>ΤΩΝ</orig><gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <orig>ΗΘΗΗ</orig><gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="3"/><w><supplied reason="lost">τε͂ς</supplied></w> <w><supplied reason="lost">μηνὸς</supplied></w> <w><supplied reason="lost">ἰουλί</supplied>ου</w> <num value="10">δέ<supplied reason="lost">κα</supplied></num> <w><supplied reason="lost">ἐν</supplied></w> <w><supplied reason="lost">τῇ</supplied></w>
+                    <lb n="4"/><roleName type="supracivic" subtype="consul"><w><supplied reason="lost">ὑπατί</supplied></w> <w>ᾳ</w></roleName> <name><expan><abbr>Βα<supplied reason="lost">λεντ</supplied></abbr><ex>ινιανοῦ</ex></expan></name> <w><supplied reason="lost"><expan><abbr>κ</abbr><ex>αὶ</ex></expan></supplied></w> <name><expan><abbr>Βα<supplied reason="lost">λεντ</supplied></abbr><ex>ίου</ex></expan></name>
                 </ab>
             </div>
             <div type="apparatus">

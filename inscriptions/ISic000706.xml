@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -101,7 +101,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote><p></p>
+                            <handNote><p/>
                                 <locus from="line1" to="line10">Line 1-10</locus>
                                 <dimensions type="letterHeight">
                                     <height unit="mm">15-22</height><!--Korhonen-->
@@ -217,16 +217,16 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#TG #JP">
                 <ab>
-                    <lb n="1"/><expan><abbr>d</abbr><ex>is</ex></expan> <g ref="#interpunct">·</g>  <expan><abbr>m</abbr><ex>anibus</ex></expan> <g ref="#interpunct">·</g>  <expan><abbr>s</abbr><ex>acrum</ex></expan>
-                    <lb n="2"/><persName type="attested"><name><expan><abbr>L</abbr><ex>ucio</ex></expan></name> <g ref="#interpunct">·</g>  <name>Arrio</name>
+                    <lb n="1"/><w><expan><abbr>d</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>m</abbr><ex>anibus</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>s</abbr><ex>acrum</ex></expan></w>
+                    <lb n="2"/><persName type="attested"><name><expan><abbr>L</abbr><ex>ucio</ex></expan></name> <g ref="#interpunct">·</g> <name>Arrio</name>
                     <lb n="3"/><name>Herme</name></persName>
-                    <lb n="4"/>vixit
-                    <lb n="5"/><expan><abbr>mens</abbr><ex>es</ex></expan> <g ref="#interpunct">·</g>  <num value="5"><hi rend="supraline">V</hi></num>
-                    <lb n="6"/>dies <g ref="#interpunct">·</g>  <num value="25">XX<hi rend="small">V</hi></num>
-                    <lb n="7"/><expan><abbr>f</abbr><ex>ecit</ex></expan> <g ref="#interpunct">·</g> <expan><abbr>b</abbr><ex>ene</ex></expan> <g ref="#interpunct">·</g>  <expan><abbr>m</abbr><ex>erenti</ex></expan> <g ref="#interpunct">·</g> 
-                    <lb n="8"/><persName type="attested"><name>Chari                    
-                    <lb n="9" break="no"/>to</name></persName> <g ref="#interpunct">·</g>  ver
-                    <lb n="10" break="no"/>nae suo
+                    <lb n="4"/><w>vixit</w>
+                    <lb n="5"/><w><expan><abbr>mens</abbr><ex>es</ex></expan></w> <g ref="#interpunct">·</g> <num value="5"><hi rend="supraline">V</hi></num>
+                    <lb n="6"/><w>dies</w> <g ref="#interpunct">·</g> <num value="25">XX<hi rend="small">V</hi></num>
+                    <lb n="7"/><w><expan><abbr>f</abbr><ex>ecit</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>b</abbr><ex>ene</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>m</abbr><ex>erenti</ex></expan></w> <g ref="#interpunct">·</g>
+                    <lb n="8"/><persName type="attested"><name>Chari
+                    <lb n="9" break="no"/>to</name></persName> <g ref="#interpunct">·</g> <w>ver
+                    <lb n="10" break="no"/>nae</w> <w>suo</w>
                 </ab>
             </div>
             <div type="apparatus">

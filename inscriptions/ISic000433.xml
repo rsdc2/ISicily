@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -194,13 +194,13 @@
             <div type="edition" xml:space="preserve" xml:lang="la">
                 <ab>
                     <lb n="1"/><g ref="#corona"/>
-                    <lb n="2"/><expan><abbr>D</abbr><ex>is</ex></expan> <expan><abbr>M</abbr><ex>anibus</ex></expan>
-                    <lb n="3"/><expan><abbr>Cn</abbr><ex>aeus</ex></expan> <g ref="#interpunct">·</g> Iulius Fe
-                    <lb n="4" break="no"/>lix <g ref="#interpunct">·</g> <expan><abbr>Cn</abbr><ex>aeo</ex></expan> <g ref="#interpunct">·</g> Iulio
-                    <lb n="5"/>Felici filio
-                    <lb n="6"/>qui <expan><abbr>vix</abbr><ex>it</ex></expan> <g ref="#interpunct">·</g> <expan><abbr>ann</abbr><ex>os</ex></expan>
-                    <lb n="7"/><num value="2">II</num> <g ref="#interpunct">·</g> <expan><abbr>men</abbr><ex>sis</ex></expan> <g ref="#interpunct">·</g> <num value="9">VIIII</num>
-                    <lb n="8"/><expan><abbr>die</abbr><ex>s</ex></expan> <g ref="#interpunct">·</g> <num value="1">uno</num> 
+                    <lb n="2"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <name><expan><abbr>M</abbr><ex>anibus</ex></expan></name>
+                    <lb n="3"/><name><expan><abbr>Cn</abbr><ex>aeus</ex></expan></name> <g ref="#interpunct">·</g> <name>Iulius</name> <name>Fe
+                    <lb n="4" break="no"/>lix</name> <g ref="#interpunct">·</g> <name><expan><abbr>Cn</abbr><ex>aeo</ex></expan></name> <g ref="#interpunct">·</g> <name>Iulio</name>
+                    <lb n="5"/><name>Felici</name> <w>filio</w>
+                    <lb n="6"/><w>qui</w> <w><expan><abbr>vix</abbr><ex>it</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>ann</abbr><ex>os</ex></expan></w>
+                    <lb n="7"/><num value="2">II</num> <g ref="#interpunct">·</g> <w><expan><abbr>men</abbr><ex>sis</ex></expan></w> <g ref="#interpunct">·</g> <num value="9">VIIII</num>
+                    <lb n="8"/><w><expan><abbr>die</abbr><ex>s</ex></expan></w> <g ref="#interpunct">·</g> <num value="1">uno</num>
                     <lb n="9"/><gap reason="lost" extent="unknown" unit="line"/>
                 </ab>
             </div>

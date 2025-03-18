@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -63,7 +63,7 @@
                         <country>Italy</country>
                         <region>Sicily</region>
                         <settlement>Palermo</settlement>
-                        <repository></repository>
+                        <repository/>
                         <!--No inventory number found-->
                         <!--Adding location for old id numbers if available-->
                         <altIdentifier>
@@ -192,12 +192,12 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#VM #JP">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name>Nicarin</name> <g ref="#interpunct">·</g> <persName type="attested"><name>Munatiae</name> <g ref="#interpunct">·</g> <persName type="attested"><name type="libertinatio"><expan><abbr>L</abbr><ex>uci</ex></expan></name></persName> <g ref="#interpunct">·</g> <expan><abbr>l</abbr><ex>ibertae</ex></expan> <g ref="#interpunct">·</g> <name>Zosi
-                    <lb n="2" break="no"/>mae</name></persName> <g ref="#interpunct">·</g> <w>filia</w></persName> <g ref="#interpunct">·</g> hymnetria <g ref="#interpunct">·</g> a <g ref="#interpunct">·</g> <expan><abbr>s</abbr><ex cert="low">acris</ex></expan> <g ref="#interpunct">·</g>
-                    <lb n="3"/>terra <g ref="#interpunct">·</g> precor <g ref="#interpunct">·</g> quaecumque
-                    <lb n="4"/>iaces <g ref="#interpunct">·</g> <persName type="attested"><name>Nicario</name></persName> <g ref="#interpunct">·</g> super <g ref="#interpunct">·</g> ossa
-                    <lb n="5"/>sis <g ref="#interpunct">·</g> levis <g ref="#interpunct">·</g> in <g ref="#interpunct">·</g> tenero <g ref="#interpunct">·</g> corpore <g ref="#interpunct">·</g> deposita
-                    <lb n="6"/>vixit <g ref="#interpunct">·</g> annos <g ref="#interpunct">·</g> <num value="18">XVIII</num>
+                    <lb n="1"/><persName type="attested"><name>Nicarin</name> <g ref="#interpunct">·</g> <persName type="attested"><name>Munatiae</name> <g ref="#interpunct">·</g> <persName type="attested"><name type="libertinatio"><expan><abbr>L</abbr><ex>uci</ex></expan></name></persName> <g ref="#interpunct">·</g> <w><expan><abbr>l</abbr><ex>ibertae</ex></expan></w> <g ref="#interpunct">·</g> <name>Zosi
+                    <lb n="2" break="no"/>mae</name></persName> <g ref="#interpunct">·</g> <w>filia</w></persName> <g ref="#interpunct">·</g> <w>hymnetria</w> <g ref="#interpunct">·</g> <w>a</w> <g ref="#interpunct">·</g> <w><expan><abbr>s</abbr><ex cert="low">acris</ex></expan></w> <g ref="#interpunct">·</g>
+                    <lb n="3"/><w>terra</w> <g ref="#interpunct">·</g> <w>precor</w> <g ref="#interpunct">·</g> <w>quaecumque</w>
+                    <lb n="4"/><w>iaces</w> <g ref="#interpunct">·</g> <persName type="attested"><name>Nicario</name></persName> <g ref="#interpunct">·</g> <w>super</w> <g ref="#interpunct">·</g> <w>ossa</w>
+                    <lb n="5"/><w>sis</w> <g ref="#interpunct">·</g> <w>levis</w> <g ref="#interpunct">·</g> <w>in</w> <g ref="#interpunct">·</g> <w>tenero</w> <g ref="#interpunct">·</g> <w>corpore</w> <g ref="#interpunct">·</g> <w>deposita</w>
+                    <lb n="6"/><w>vixit</w> <g ref="#interpunct">·</g> <w>annos</w> <g ref="#interpunct">·</g> <num value="18">XVIII</num>
                 </ab>
             </div>
             <div type="apparatus">

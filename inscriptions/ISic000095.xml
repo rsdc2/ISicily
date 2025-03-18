@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -211,8 +211,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#TA">
                 <ab>
-                    <lb n="1" xml:id="AJyAK"/><persName type="attested" xml:id="AJyAU"><name xml:id="AJyAe"><expan xml:id="AJyAo"><abbr xml:id="AJyAy">Cn</abbr><ex xml:id="AJyAΙ">aeo</ex></expan></name> <g ref="#interpunct" xml:id="AJyAΤ">·</g> <name xml:id="AJyAε">Pollieno</name> <g ref="#interpunct" xml:id="AJyAο">·</g> <persName type="attested" xml:id="AJyBA"><name type="patronym" xml:id="AJyBK"><expan xml:id="AJyBU"><abbr xml:id="AJyBe">Cn</abbr><ex xml:id="AJyBo">aei</ex></expan></name></persName> <w xml:id="AJyBy"><expan xml:id="AJyBΙ"><abbr xml:id="AJyBΤ">f</abbr><ex xml:id="AJyBε">ilio</ex></expan></w></persName> 
-                    <lb n="2" xml:id="AJyBο"/><roleName type="military" subtype="tribunus.militum" xml:id="AJyCA"><w xml:id="AJyCK"><expan xml:id="AJyCU"><abbr xml:id="AJyCe">tr</abbr><ex xml:id="AJyCo">ibuno</ex></expan></w> <g ref="#interpunct" xml:id="AJyCy">·</g> <w xml:id="AJyCΙ"><expan xml:id="AJyCΤ"><abbr xml:id="AJyCε">mil</abbr><ex xml:id="AJyCο">itum</ex></expan></w></roleName> <g ref="#interpunct" xml:id="AJyDA">·</g> 
+                    <lb n="1" xml:id="AJyAK"/><persName type="attested" xml:id="AJyAU"><name xml:id="AJyAe"><expan xml:id="AJyAo"><abbr xml:id="AJyAy">Cn</abbr><ex xml:id="AJyAΙ">aeo</ex></expan></name> <g ref="#interpunct" xml:id="AJyAΤ">·</g> <name xml:id="AJyAε">Pollieno</name> <g ref="#interpunct" xml:id="AJyAο">·</g> <persName type="attested" xml:id="AJyBA"><name type="patronym" xml:id="AJyBK"><expan xml:id="AJyBU"><abbr xml:id="AJyBe">Cn</abbr><ex xml:id="AJyBo">aei</ex></expan></name></persName> <w xml:id="AJyBy"><expan xml:id="AJyBΙ"><abbr xml:id="AJyBΤ">f</abbr><ex xml:id="AJyBε">ilio</ex></expan></w></persName>
+                    <lb n="2" xml:id="AJyBο"/><roleName type="military" subtype="tribunus.militum" xml:id="AJyCA"><w xml:id="AJyCK"><expan xml:id="AJyCU"><abbr xml:id="AJyCe">tr</abbr><ex xml:id="AJyCo">ibuno</ex></expan></w> <g ref="#interpunct" xml:id="AJyCy">·</g> <w xml:id="AJyCΙ"><expan xml:id="AJyCΤ"><abbr xml:id="AJyCε">mil</abbr><ex xml:id="AJyCο">itum</ex></expan></w></roleName> <g ref="#interpunct" xml:id="AJyDA">·</g>
                     <lb n="3" xml:id="AJyDK"/><w xml:id="AJyDU"><expan xml:id="AJyDe"><abbr xml:id="AJyDo">legio</abbr><ex xml:id="AJyDy">nis</ex></expan></w> <g ref="#interpunct" xml:id="AJyDΙ">·</g> <num value="12" xml:id="AJyDΤ">XII</num>
                 </ab>
             </div>

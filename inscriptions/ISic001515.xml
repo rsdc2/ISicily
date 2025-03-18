@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -189,12 +189,12 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1"/>Ἀνεπαύσατο
-                    <lb n="2"/>ἡ μεικρὰ Νικοστράτη
-                    <lb n="3"/>τῇ πρὸ <num value="14">ιδ</num> <expan><abbr>κα<supplied reason="lost">λαν</supplied></abbr><supplied reason="lost"><ex>δῶν</ex></supplied></expan> Ἰουνίων
-                    <lb n="4"/>ἡμέρᾳ Ἑρμοῦ ὥραν δεκάτην
-                    <lb n="5"/>καὶ κατετέθη τῇ πρὸ <num value="12">ιβ</num> <expan><abbr>καλ</abbr><ex>ανδῶν</ex></expan> Ἰ<supplied reason="lost">ο</supplied>υνί<supplied reason="lost">ων</supplied>
-                    <lb n="6"/>ἡμέρᾳ Ἀφροδίτης
+                    <lb n="1"/><w>Ἀνεπαύσατο</w>
+                    <lb n="2"/><w>ἡ</w> <w>μεικρὰ</w> <name>Νικοστράτη</name>
+                    <lb n="3"/><w>τῇ</w> <w>πρὸ</w> <num value="14">ιδ</num> <w><expan><abbr>κα<supplied reason="lost">λαν</supplied></abbr><supplied reason="lost"><ex>δῶν</ex></supplied></expan></w> <name>Ἰουνίων</name>
+                    <lb n="4"/><w>ἡμέρᾳ</w> <name>Ἑρμοῦ</name> <w>ὥραν</w> <w>δεκάτην</w>
+                    <lb n="5"/><w>καὶ</w> <w>κατετέθη</w> <w>τῇ</w> <w>πρὸ</w> <num value="12">ιβ</num> <w><expan><abbr>καλ</abbr><ex>ανδῶν</ex></expan></w> <name>Ἰ<supplied reason="lost">ο</supplied>υνί<supplied reason="lost">ων</supplied></name>
+                    <lb n="6"/><w>ἡμέρᾳ</w> <name>Ἀφροδίτης</name>
                 </ab>
             </div>
             <div type="apparatus">

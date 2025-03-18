@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>                                                
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xmlns:xi="http://www.w3.org/2001/XInclude">
+<?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -42,13 +42,13 @@
             <publicationStmt>
                 <authority>I.Sicily</authority>
                 <idno type="filename">ISic004464</idno>
-                <idno type="TM"></idno>
+                <idno type="TM"/>
                 <idno type="EDR"/>
                 <idno type="EDH"/>
-                <idno type="EDCS"></idno>
-                <idno type="PHI"></idno>
+                <idno type="EDCS"/>
+                <idno type="PHI"/>
                 <idno type="URI">http://sicily.classics.ox.ac.uk/inscription/ISic004464</idno>
-                <idno type="DOI"></idno>
+                <idno type="DOI"/>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/4.0/">Licensed under a Creative Commons-Attribution 4.0 licence.</licence>
                 </availability>
@@ -105,7 +105,7 @@
                             </handNote>
                         </handDesc>
                         <decoDesc> 
-                            <decoNote></decoNote>
+                            <decoNote/>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -183,18 +183,18 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#IG">
                 <ab>
-                    <lb n="1"/><g ref="#interpunct">·</g> Ἄλφιος <g ref="#interpunct">·</g> Εὐτυχίων
-                    <lb n="2"/>χρησ<g ref="#interpunct">·</g>τὸς ἀνὴρ <g ref="#interpunct">·</g>
-                    <lb n="3"/><g ref="#interpunct">·</g> καὶ ἄμεμπτος ἐνθά
-                    <lb n="4" break="no"/>δε κεῖμαι ζήσας <g ref="#interpunct">·</g> <num value="40">μ</num> <g ref="#interpunct">·</g>
-                    <lb n="5"/>ἔτη καὶ <g ref="#interpunct">·</g> <num value="2">β</num> <g ref="#interpunct">·</g> μῆνας <g ref="#interpunct">·</g>
-                   </ab>
+                    <lb n="1"/><g ref="#interpunct">·</g> <w>Ἄλφιος</w> <g ref="#interpunct">·</g> <name>Εὐτυχίων</name>
+                    <lb n="2"/><w>χρησ<g ref="#interpunct">·</g>τὸς</w> <w>ἀνὴρ</w> <g ref="#interpunct">·</g>
+                    <lb n="3"/><g ref="#interpunct">·</g> <w>καὶ</w> <w>ἄμεμπτος</w> <w>ἐνθά
+                    <lb n="4" break="no"/>δε</w> <w>κεῖμαι</w> <w>ζήσας</w> <g ref="#interpunct">·</g> <num value="40">μ</num> <g ref="#interpunct">·</g>
+                    <lb n="5"/><w>ἔτη</w> <w>καὶ</w> <g ref="#interpunct">·</g> <num value="2">β</num> <g ref="#interpunct">·</g> <w>μῆνας</w> <g ref="#interpunct">·</g>
+                </ab>
                </div>
             <div type="apparatus">
                 <listApp><app><note>Text checked against photograph</note></app></listApp>
             </div>
             <div type="translation">
-                <p></p>
+                <p/>
             </div>
             <div type="commentary">
                 <p>Unpublished?</p>

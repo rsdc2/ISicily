@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -193,10 +193,10 @@
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#VM">
                 <ab>
                     <lb n="1"/><persName type="attested"><name>Modia</name></persName> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="2"/>Nom<gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="3"/>hic <g ref="#interpunct">·</g> sita <g ref="#interpunct">·</g> est <g ref="#interpunct">·</g> <supplied reason="lost"><expan><abbr>vix</abbr><ex>it</ex></expan></supplied>
-                    <lb n="4"/>annos <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="5"/>pia <g ref="#interpunct">·</g> m<supplied reason="lost">ater</supplied>
+                    <lb n="2"/><name>Nom</name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="3"/><w>hic</w> <g ref="#interpunct">·</g> <w>sita</w> <g ref="#interpunct">·</g> <w>est</w> <g ref="#interpunct">·</g> <w><supplied reason="lost"><expan><abbr>vix</abbr><ex>it</ex></expan></supplied></w>
+                    <lb n="4"/><w>annos</w> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="5"/><w>pia</w> <g ref="#interpunct">·</g> <w>m<supplied reason="lost">ater</supplied></w>
                 </ab>
             </div>
             <div type="apparatus">

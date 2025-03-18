@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -191,17 +191,17 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AR">
                 <ab>
-                    <lb n="1"/>pro beatitudine
-			<lb n="2"/>temporum <roleName type="supracivic" subtype="dominus"><expan><abbr>d<am>d</am></abbr><ex>ominorum</ex></expan></roleName> <expan><abbr>n<am>n</am></abbr><ex>ostrorum</ex></expan>
-                    <lb n="3"/><name>Constanti</name> <g ref="#interpunct">·</g> et
-			<lb n="4"/><name>Constantis</name> <name><expan><abbr>A<am>A</am>u<am>u</am>g<am>g</am></abbr><ex>ustorum</ex></expan></name>
-                    <lb n="5"/>stationem a solo fece
-                    <lb n="6" break="no"/>runt <name>Vitrasius</name> <name>Orfitus</name> et <name><expan><abbr>Fl</abbr><ex>avius</ex></expan></name>
-			<lb n="7"/><name>Dulcitius</name> <expan><abbr>v<am>v</am></abbr><ex>iri</ex></expan> <roleName type="supracivic" subtype="clarissimus"><expan><abbr>c<am>c</am></abbr><ex>larissimi</ex></expan></roleName> <roleName type="supracivic" subtype="consularis">consulares</roleName>
-                    <lb n="8"/><expan><abbr>p</abbr><ex>rovinciae</ex></expan> <g ref="#interpunct">·</g> <expan><abbr>S</abbr><ex>iciliae</ex></expan> <g ref="#interpunct">·</g> instante <name><expan><abbr>Fl</abbr><ex>avio</ex></expan></name> <g ref="#interpunct">·</g> <name>Valeriano</name>
-                    <lb n="9"/>ducenario agente in <expan><abbr>reb</abbr><ex>us</ex></expan> et <expan><abbr>p</abbr><ex>rae</ex><abbr>p</abbr><ex>osito</ex></expan> cursus
-                    <lb n="10"/>publici
-		    </ab> 
+                    <lb n="1"/><w>pro</w> <w>beatitudine</w>
+                    <lb n="2"/><w>temporum</w> <roleName type="supracivic" subtype="dominus"><w><expan><abbr>d<am>d</am></abbr><ex>ominorum</ex></expan></w></roleName> <w><expan><abbr>n<am>n</am></abbr><ex>ostrorum</ex></expan></w>
+                    <lb n="3"/><name>Constanti</name> <g ref="#interpunct">·</g> <w>et</w>
+                    <lb n="4"/><name>Constantis</name> <name><expan><abbr>A<am>A</am>u<am>u</am>g<am>g</am></abbr><ex>ustorum</ex></expan></name>
+                    <lb n="5"/><w>stationem</w> <w>a</w> <w>solo</w> <w>fece
+                    <lb n="6" break="no"/>runt</w> <name>Vitrasius</name> <name>Orfitus</name> <w>et</w> <name><expan><abbr>Fl</abbr><ex>avius</ex></expan></name>
+                    <lb n="7"/><name>Dulcitius</name> <w><expan><abbr>v<am>v</am></abbr><ex>iri</ex></expan></w> <roleName type="supracivic" subtype="clarissimus"><w><expan><abbr>c<am>c</am></abbr><ex>larissimi</ex></expan></w></roleName> <roleName type="supracivic" subtype="consularis"><w>consulares</w></roleName>
+                    <lb n="8"/><w><expan><abbr>p</abbr><ex>rovinciae</ex></expan></w> <g ref="#interpunct">·</g> <name><expan><abbr>S</abbr><ex>iciliae</ex></expan></name> <g ref="#interpunct">·</g> <w>instante</w> <name><expan><abbr>Fl</abbr><ex>avio</ex></expan></name> <g ref="#interpunct">·</g> <name>Valeriano</name>
+                    <lb n="9"/><w>ducenario</w> <w>agente</w> <w>in</w> <w><expan><abbr>reb</abbr><ex>us</ex></expan></w> <w>et</w> <w><expan><abbr>p</abbr><ex>rae</ex><abbr>p</abbr><ex>osito</ex></expan></w> <w>cursus</w>
+                    <lb n="10"/><w>publici</w>
+                </ab> 
 		</div>
             <div type="apparatus">
                 <listApp>

@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -195,31 +195,32 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <div type="textpart" subtype="fragment-physical" n="a">
                     <ab>
-                        <lb n="1"/><g ref="#interpunct">·</g> Αὐρήλιος <g ref="#interpunct">·</g>
-                        <lb n="2"/>Εὐτύχης τοῖς κατοι
-                        <lb n="3" break="no"/>χομένοις μ<hi rend="ligature">νε</hi>ί<hi rend="ligature">ας</hi> χάρ<hi rend="small">ι</hi><hi rend="small">ν</hi>
-                        <lb n="4"/><expan><abbr>Θ</abbr><ex>εοῖς</ex></expan> <expan><abbr>Κ</abbr><ex>αταχθονίοις</ex></expan>
-                        <lb n="5"/>Κύζικος ἦν μία
-                        <lb n="6"/>πᾶσι πατρίς καὶ <hi rend="ligature">μο</hi>ῖ
-                        <lb n="7" break="no"/>ρα δὲ πάντας <g ref="#interpunct">·</g> ὤλ<supplied reason="lost">ε</supplied>
-                        <lb n="8" break="no"/>σε<hi rend="ligature" xml:id="h5">ν</hi> <hi rend="ligature" xml:id="h6">ἠ</hi>ϊθέους ὦ <unclear>π</unclear><supplied reason="lost">α</supplied><link target="#h5 #h6"/>
-                        <lb n="9" break="no"/>ροδεῖτα μία <gap reason="lost" extent="unknown" unit="character"/>
-                        <lb n="10"/>δ’ ἡμᾶς ἀνε<gap reason="lost" extent="unknown" unit="character"/>
-                        <lb n="11"/><gap reason="lost" extent="unknown" unit="character"/>τ<gap reason="lost" extent="unknown" unit="character"/>
+                        <lb n="1"/><g ref="#interpunct">·</g> <w>Αὐρήλιος</w> <g ref="#interpunct">·</g>
+                        <lb n="2"/><name>Εὐτύχης</name> <w>τοῖς</w> <w>κατοι
+                        <lb n="3" break="no"/>χομένοις</w> <w>μ<hi rend="ligature">νε</hi>ί<hi rend="ligature">ας</hi></w> <w>χάρ<hi rend="small">ι</hi><hi rend="small">ν</hi></w>
+                        <lb n="4"/><name><expan><abbr>Θ</abbr><ex>εοῖς</ex></expan></name> <name><expan><abbr>Κ</abbr><ex>αταχθονίοις</ex></expan></name>
+                        <lb n="5"/><name>Κύζικος</name> <w>ἦν</w> <w>μία</w>
+                        <lb n="6"/><w>πᾶσι</w> <w>πατρίς</w> <w>καὶ</w> <w><hi rend="ligature">μο</hi>ῖ
+                        <lb n="7" break="no"/>ρα</w> <w>δὲ</w> <w>πάντας</w> <g ref="#interpunct">·</g> <w>ὤλ<supplied reason="lost">ε</supplied>
+                        <lb n="8" break="no"/>σε<hi rend="ligature" xml:id="h5">ν</hi></w> <w><hi rend="ligature" xml:id="h6">ἠ</hi>ϊθέους</w> <w>ὦ</w> <w><unclear>π</unclear><supplied reason="lost">α</supplied><link target="#h5 #h6"/>
+                        <lb n="9" break="no"/>ροδεῖτα</w> <w>μία</w> <gap reason="lost" extent="unknown" unit="character"/>
+                        <lb n="10"/><w>δ’</w> <w>ἡμᾶς</w> <w>ἀνε</w> <gap reason="lost" extent="unknown" unit="character"/>
+                        <lb n="11"/><gap reason="lost" extent="unknown" unit="character"/> <w>τ</w> <gap reason="lost" extent="unknown" unit="character"/>
                         <lb n="11a"/><gap reason="lost" extent="unknown" unit="line"/>
-                    </ab>    
+                    </ab>
                 </div>
                 <div type="textpart" subtype="fragment-physical" n="b">
                     <ab>
                         <lb n="0"/><gap reason="lost" extent="unknown" unit="line"/>
-                        <lb n="1"/><supplied reason="undefined" evidence="previouseditor">αὐτὸς</supplied> <supplied reason="undefined" evidence="previouseditor">ἔχ<unclear>ει</unclear></supplied>
-                        <lb n="2"/><supplied reason="undefined" evidence="previouseditor">πόθησεν</supplied> <supplied reason="undefined" evidence="previouseditor">καὶ</supplied> <gap reason="lost" extent="unknown" unit="character"/>
-                        <lb n="3"/><supplied reason="undefined" evidence="previouseditor">τεῦξε</supplied> <supplied reason="undefined" evidence="previouseditor">λυγροῖς</supplied> <supplied reason="undefined" evidence="previouseditor">ὄμ</supplied><gap reason="lost" extent="unknown" unit="character"/>                        <lb n="4" break="no"/><supplied reason="undefined" evidence="previouseditor">ματα</supplied> <supplied reason="undefined" evidence="previouseditor">μυρομέν<unclear>ο</unclear></supplied><supplied reason="lost">ς</supplied> <gap reason="lost" extent="unknown" unit="character" cert="low"/>
-                        <lb n="5"/><supplied reason="undefined" evidence="previouseditor">οὐ</supplied> <supplied reason="undefined" evidence="previouseditor">τὸ</supplied> <supplied reason="undefined" evidence="previouseditor">καλὸν</supplied> <supplied reason="undefined" evidence="previouseditor">κοσμεῖ</supplied> 
-                        <lb n="6"/><supplied reason="undefined" evidence="previouseditor">περικείμενον</supplied> <supplied reason="undefined" evidence="previouseditor">οὔνο</supplied>
-                        <lb n="7" break="no"/><supplied reason="undefined" evidence="previouseditor">μα</supplied> <supplied reason="undefined" evidence="previouseditor">τύμβους</supplied> <supplied reason="undefined" evidence="previouseditor">οὗ</supplied> <supplied reason="undefined" evidence="previouseditor">γλυκύς</supplied>
-                        <lb n="8" break="no"/><supplied reason="undefined" evidence="previouseditor">ἐσθ’</supplied> <supplied reason="undefined" evidence="previouseditor">ἡμεῖν</supplied> <supplied reason="undefined" evidence="previouseditor">κᾶν</supplied> <supplied reason="undefined" evidence="previouseditor">φθι</supplied>
-                        <lb n="9"/><supplied reason="undefined" evidence="previouseditor">μένοισιν</supplied> <supplied reason="undefined" evidence="previouseditor">Ἔρως</supplied>
+                        <lb n="1"/><w><supplied reason="undefined" evidence="previouseditor">αὐτὸς</supplied></w> <w><supplied reason="undefined" evidence="previouseditor">ἔχ<unclear>ει</unclear></supplied></w>
+                        <lb n="2"/><w><supplied reason="undefined" evidence="previouseditor">πόθησεν</supplied></w> <w><supplied reason="undefined" evidence="previouseditor">καὶ</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
+                        <lb n="3"/><w><supplied reason="undefined" evidence="previouseditor">τεῦξε</supplied></w> <w><supplied reason="undefined" evidence="previouseditor">λυγροῖς</supplied></w> <w><supplied reason="undefined" evidence="previouseditor">ὄμ</supplied></w> <gap reason="lost" extent="unknown" unit="character"/> <w>
+                        <lb n="4" break="no"/><supplied reason="undefined" evidence="previouseditor">ματα</supplied></w> <w><supplied reason="undefined" evidence="previouseditor">μυρομέν<unclear>ο</unclear></supplied><supplied reason="lost">ς</supplied></w> <gap reason="lost" extent="unknown" unit="character" cert="low"/>
+                        <lb n="5"/><w><supplied reason="undefined" evidence="previouseditor">οὐ</supplied></w> <w><supplied reason="undefined" evidence="previouseditor">τὸ</supplied></w> <w><supplied reason="undefined" evidence="previouseditor">καλὸν</supplied></w> <w><supplied reason="undefined" evidence="previouseditor">κοσμεῖ</supplied></w>
+                        <lb n="6"/><w><supplied reason="undefined" evidence="previouseditor">περικείμενον</supplied></w> <w><supplied reason="undefined" evidence="previouseditor">οὔνο</supplied>
+                        <lb n="7" break="no"/><supplied reason="undefined" evidence="previouseditor">μα</supplied></w> <w><supplied reason="undefined" evidence="previouseditor">τύμβους</supplied></w> <w><supplied reason="undefined" evidence="previouseditor">οὗ</supplied></w> <w><supplied reason="undefined" evidence="previouseditor">γλυκύς</supplied>
+                        <lb n="8" break="no"/><supplied reason="undefined" evidence="previouseditor">ἐσθ’</supplied></w> <w><supplied reason="undefined" evidence="previouseditor">ἡμεῖν</supplied></w> <w><supplied reason="undefined" evidence="previouseditor">κᾶν</supplied></w> <w><supplied reason="undefined" evidence="previouseditor">φθι</supplied></w>
+                        <lb n="9"/><w><supplied reason="undefined" evidence="previouseditor">μένοισιν</supplied></w> <name><supplied reason="undefined" evidence="previouseditor">Ἔρως</supplied></name>
                     </ab>
                 </div>
             </div>

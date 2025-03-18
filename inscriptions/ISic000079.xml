@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -210,15 +210,15 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
-                    <lb n="1"/><g ref="#palm"/>Crispia <g ref="#ivy-leaf">❦</g> Salvia
-                    <lb n="2"/>vixit a<unclear>n</unclear>nos
-                    <lb n="3"/>plus mi<unclear>nu</unclear>s <num value="45"><hi rend="supraline">XL<hi rend="small">V</hi></hi></num>
-                    <lb n="4"/>uxori dulcissi<hi rend="ligature">mae</hi>
-                    <lb n="5"/>Iulius Demetri
-                    <lb n="6" break="no"/>us maritus q<hi rend="ligature">ua</hi><hi rend="small">e</hi>
-                    <lb n="7"/>vixit cum suo
-                    <lb n="8"/>marito <expan><abbr>ann</abbr><ex>os</ex></expan> <num value="15"><hi rend="supraline">X<hi rend="small">V</hi></hi></num>
-                    <lb n="9"/>libenti animo
+                    <lb n="1"/><w><g ref="#palm"/>Crispia</w> <g ref="#ivy-leaf">❦</g> <name>Salvia</name>
+                    <lb n="2"/><w>vixit</w> <w>a<unclear>n</unclear>nos</w>
+                    <lb n="3"/><w>plus</w> <w>mi<unclear>nu</unclear>s</w> <num value="45"><hi rend="supraline">XL<hi rend="small">V</hi></hi></num>
+                    <lb n="4"/><w>uxori</w> <w>dulcissi<hi rend="ligature">mae</hi></w>
+                    <lb n="5"/><name>Iulius</name> <name>Demetri
+                    <lb n="6" break="no"/>us</name> <w>maritus</w> <w>q<hi rend="ligature">ua</hi><hi rend="small">e</hi></w>
+                    <lb n="7"/><w>vixit</w> <w>cum</w> <w>suo</w>
+                    <lb n="8"/><w>marito</w> <w><expan><abbr>ann</abbr><ex>os</ex></expan></w> <num value="15"><hi rend="supraline">X<hi rend="small">V</hi></hi></num>
+                    <lb n="9"/><w>libenti</w> <w>animo</w>
                 </ab>
             </div>
             <div type="apparatus">

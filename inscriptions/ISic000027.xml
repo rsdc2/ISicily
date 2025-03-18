@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -194,17 +194,17 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la">
                 <ab>
-                    <lb n="1"/><expan><abbr>D</abbr><ex>is</ex></expan> <expan><abbr>M</abbr><ex>anibus</ex></expan>
-                    <lb n="2"/><expan><abbr>P</abbr><ex>ublio</ex></expan> Aelio <g ref="#interpunct">·</g> <expan><abbr>P</abbr><ex>ubli</ex></expan> <g ref="#interpunct">·</g> <expan><abbr>f</abbr><ex>ilio</ex></expan>
-                    <lb n="3"/>Ver<supplied reason="lost">o</supplied> <unclear>e</unclear>q<unclear>u</unclear><supplied reason="lost">i</supplied><unclear>t</unclear>i<del rend="erasure">o</del>
-                    <lb n="4"/>Rom<supplied reason="lost">an</supplied>o <supplied reason="lost">tur</supplied>ma
-                    <lb n="5"/>prima <supplied reason="lost">qui</supplied> <expan><abbr><unclear>v</unclear></abbr><ex>ixit</ex></expan> <g ref="#interpunct">·</g> <unclear>a</unclear><supplied reason="lost">n</supplied>nis <g ref="#interpunct">·</g> <num value="12">XII</num> <g ref="#interpunct">·</g> <expan><abbr>me</abbr>
-                    <lb n="6" break="no"/><ex>n</ex><abbr>s</abbr><ex>ibus</ex></expan> <g ref="#interpunct">·</g> <num value="10">X</num> <g ref="#interpunct">·</g> <expan><abbr>d</abbr><ex>iebus</ex></expan> <g ref="#interpunct">·</g> <num value="22">XXII</num> <g ref="#interpunct">·</g> <expan><abbr>P</abbr><ex>ublius</ex></expan> Aelius <g ref="#interpunct">·</g> Felix
-                    <lb n="7"/>pater <g ref="#interpunct">·</g> e<supplied reason="lost">t</supplied><gap reason="lost" extent="unknown" unit="character"/>i<gap reason="lost" extent="unknown" unit="character"/>oe ma
-                    <lb n="8" break="no"/>ter f<supplied reason="lost">ilio</supplied> <g ref="#interpunct">·</g> pie<supplied reason="lost">nti</supplied>ssim
-                    <lb n="9" break="no"/>o et dulcissimo et d
-                    <lb break="no" n="10"/>ulcissimo
-                    <lb n="11"/>fecerunt.
+                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <name><expan><abbr>M</abbr><ex>anibus</ex></expan></name>
+                    <lb n="2"/><name><expan><abbr>P</abbr><ex>ublio</ex></expan></name> <name>Aelio</name> <g ref="#interpunct">·</g> <name><expan><abbr>P</abbr><ex>ubli</ex></expan></name> <g ref="#interpunct">·</g> <w><expan><abbr>f</abbr><ex>ilio</ex></expan></w>
+                    <lb n="3"/><name>Ver<supplied reason="lost">o</supplied></name> <w><unclear>e</unclear>q<unclear>u</unclear><supplied reason="lost">i</supplied><unclear>t</unclear>i<del rend="erasure">o</del></w>
+                    <lb n="4"/><name>Rom<supplied reason="lost">an</supplied>o</name> <w><supplied reason="lost">tur</supplied>ma</w>
+                    <lb n="5"/><w>prima</w> <w><supplied reason="lost">qui</supplied></w> <w><expan><abbr><unclear>v</unclear></abbr><ex>ixit</ex></expan></w> <g ref="#interpunct">·</g> <w><unclear>a</unclear><supplied reason="lost">n</supplied>nis</w> <g ref="#interpunct">·</g> <num value="12">XII</num> <g ref="#interpunct">·</g> <w><expan><abbr>me</abbr>
+                    <lb n="6" break="no"/><ex>n</ex><abbr>s</abbr><ex>ibus</ex></expan></w> <g ref="#interpunct">·</g> <num value="10">X</num> <g ref="#interpunct">·</g> <w><expan><abbr>d</abbr><ex>iebus</ex></expan></w> <g ref="#interpunct">·</g> <num value="22">XXII</num> <g ref="#interpunct">·</g> <name><expan><abbr>P</abbr><ex>ublius</ex></expan></name> <name>Aelius</name> <g ref="#interpunct">·</g> <name>Felix</name>
+                    <lb n="7"/><w>pater</w> <g ref="#interpunct">·</g> <w>e<supplied reason="lost">t</supplied></w> <gap reason="lost" extent="unknown" unit="character"/> <w>i</w> <gap reason="lost" extent="unknown" unit="character"/> <w>oe</w> <w>ma
+                    <lb n="8" break="no"/>ter</w> <w>f<supplied reason="lost">ilio</supplied></w> <g ref="#interpunct">·</g> <w>pie<supplied reason="lost">nti</supplied>ssim
+                    <lb n="9" break="no"/>o</w> <w>et</w> <w>dulcissimo</w> <w>et</w> <w>d
+                    <lb break="no" n="10"/>ulcissimo</w>
+                    <lb n="11"/><w>fecerunt.</w>
                 </ab>
             </div>
             <div type="apparatus">

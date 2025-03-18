@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -124,7 +124,7 @@
                                 </dimensions>
                                 <locus from="line1" to="line2">Interlineation line 1 to 2</locus>
                                 <dimensions type="interlinear">
-                                    <height unit="mm"></height>
+                                    <height unit="mm"/>
                                 </dimensions>
                             </handNote>
                         </handDesc>
@@ -211,11 +211,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#VM #AA">
                 <ab>
-                    <lb n="1"/><w><supplied reason="lost">Ex</supplied></w> <w><expan><abbr>d</abbr><ex>ecreto</ex></expan></w> <roleName type="civic" subtype="decurio"><expan><abbr>d</abbr><ex>ecurionum</ex></expan></roleName>
-                    <lb n="2"/><persName type="attested"><name><supplied reason="lost" cert="low"><expan><abbr>L</abbr><ex>ucio</ex></expan></supplied></name> <name>Rufeio</name> <persName type="attested"><name type="patronym"><expan><abbr>L</abbr><ex>uci</ex></expan></name></persName> <w><expan><abbr><unclear>f</unclear></abbr><ex>ilio</ex></expan></w> <orgName type="tribus"><expan><abbr><hi rend="ligature">Qui</hi></abbr><ex>rina tribu</ex></expan></orgName>
+                    <lb n="1"/><w><supplied reason="lost">Ex</supplied></w> <w><expan><abbr>d</abbr><ex>ecreto</ex></expan></w> <roleName type="civic" subtype="decurio"><w><expan><abbr>d</abbr><ex>ecurionum</ex></expan></w></roleName>
+                    <lb n="2"/><persName type="attested"><name><supplied reason="lost" cert="low"><expan><abbr>L</abbr><ex>ucio</ex></expan></supplied></name> <name>Rufeio</name> <persName type="attested"><name type="patronym"><expan><abbr>L</abbr><ex>uci</ex></expan></name></persName> <w><expan><abbr><unclear>f</unclear></abbr><ex>ilio</ex></expan></w> <orgName type="tribus"><name><expan><abbr><hi rend="ligature">Qui</hi></abbr><ex>rina tribu</ex></expan></name></orgName>
                     <lb n="3"/><name>Laeto</name></persName>
                     <lb n="4"/><w>in</w> <w><expan><abbr>front</abbr><ex>e</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>p</abbr><ex>edes</ex></expan></w> <g ref="#interpunct">·</g> <num value="25">XXV</num>
-                    <lb n="5"/><w>in</w> <w><expan><abbr>agr</abbr><ex>o</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>p</abbr><ex>edes</ex></expan></w> <g ref="#interpunct">·</g> <num value="30">XXX</num>   
+                    <lb n="5"/><w>in</w> <w><expan><abbr>agr</abbr><ex>o</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>p</abbr><ex>edes</ex></expan></w> <g ref="#interpunct">·</g> <num value="30">XXX</num>
                 </ab>
             </div>
             <div type="apparatus">

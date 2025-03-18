@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -208,7 +208,7 @@
                 <ab>
                     <lb n="1" xml:id="BΟeAK"/><orig xml:id="BΟeAU"><unclear xml:id="BΟeAe">ΣΕΙΝ</unclear></orig><gap reason="lost" extent="unknown" unit="character" xml:id="BΟeAo"/>
                     <lb n="2" xml:id="BΟeAy"/><orig xml:id="BΟeAΙ">ΜΕΝΑ</orig><gap reason="lost" extent="unknown" unit="character" xml:id="BΟeAΤ"/>
-                    <lb n="3" xml:id="BΟeAε"/><orig xml:id="BΟeAο">Δ</orig><gap reason="lost" unit="character" quantity="1" xml:id="BΟeBA"/><orig xml:id="BΟeBK">ΣΕΙ</orig><gap reason="lost" extent="unknown" unit="character" xml:id="BΟeBU"/>
+                    <lb n="3" xml:id="BΟeAε"/><orig xml:id="BΟeAο">Δ</orig><gap reason="lost" unit="character" quantity="1" xml:id="BΟeBA"/> <orig xml:id="BΟeBK">ΣΕΙ</orig><gap reason="lost" extent="unknown" unit="character" xml:id="BΟeBU"/>
                     <lb n="4" xml:id="BΟeBe"/><orig xml:id="BΟeBo">Ο<unclear xml:id="BΟeBy">Σ</unclear>ΑΚΙ</orig><gap reason="lost" extent="unknown" unit="character" xml:id="BΟeBΙ"/>
                     <lb n="5" xml:id="BΟeBΤ"/><orig xml:id="BΟeBε">ΑΠΟΠΡ</orig><gap reason="lost" extent="unknown" unit="character" xml:id="BΟeBο"/>
                     <lb n="6" xml:id="BΟeCA"/><orig xml:id="BΟeCK">ΠΡΟΝΟΟ</orig><gap reason="lost" extent="unknown" unit="character" xml:id="BΟeCU"/>
@@ -221,7 +221,7 @@
                     <lb n="13" xml:id="BΟeEΤ"/><orig xml:id="BΟeEε">ΤΟΔΕΔ</orig><gap reason="lost" extent="unknown" unit="character" xml:id="BΟeEο"/>
                     <lb n="14" xml:id="BΟeFA"/><orig xml:id="BΟeFK">ΑΝΑΘ<unclear xml:id="BΟeFU">Ε</unclear></orig><gap reason="lost" extent="unknown" unit="character" xml:id="BΟeFe"/>
                     <lb n="15" xml:id="BΟeFo"/><orig xml:id="BΟeFy">ΑΥΤΩ<unclear xml:id="BΟeFΙ">Ν</unclear></orig><gap reason="lost" extent="unknown" unit="character" xml:id="BΟeFΤ"/>
-                    <lb n="16" xml:id="BΟeFε"/><gap reason="illegible" unit="character" quantity="3" xml:id="BΟeFο"/><gap reason="lost" extent="unknown" unit="character" xml:id="BΟeGA"/>
+                    <lb n="16" xml:id="BΟeFε"/><gap reason="illegible" unit="character" quantity="3" xml:id="BΟeFο"/> <gap reason="lost" extent="unknown" unit="character" xml:id="BΟeGA"/>
                 </ab>
                 </div>
             <div type="apparatus">

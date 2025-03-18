@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -191,10 +191,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/><g ref="#cross_uninterpreted">☩</g> ἐνθάδε κατάκιτε
-                    <lb n="2"/>ἡ τῆς μακαρ<choice><corr>ί</corr><sic>υ</sic></choice>ας μν
-                    <lb n="3" break="no"/>ήμης <persName type="attested"><name>Εὐλίβα</name></persName> μνήσε
-                    <lb n="4" break="no"/>τή σοι ὡ <expan><abbr><hi rend="supraline">θ</hi>ε</abbr><ex>ὸς</ex></expan> εἰς <supplied reason="lost">αἰῶνα</supplied>
+                    <lb n="1"/><g ref="#cross_uninterpreted">☩</g> <w>ἐνθάδε</w> <w>κατάκιτε</w>
+                    <lb n="2"/><w>ἡ</w> <w>τῆς</w> <w>μακαρ<choice><corr>ί</corr><sic>υ</sic></choice>ας</w> <w>μν
+                    <lb n="3" break="no"/>ήμης</w> <persName type="attested"><name>Εὐλίβα</name></persName> <w>μνήσε
+                    <lb n="4" break="no"/>τή</w> <w>σοι</w> <w>ὡ</w> <w><expan><abbr><hi rend="supraline">θ</hi>ε</abbr><ex>ὸς</ex></expan></w> <w>εἰς</w> <w><supplied reason="lost">αἰῶνα</supplied></w>
                 </ab>
             </div>
             <div type="apparatus">

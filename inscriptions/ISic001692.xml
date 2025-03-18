@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -174,9 +174,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
-                    <lb n="1"/><abbr>L</abbr> <abbr>L</abbr> <abbr>D</abbr> Augusto sacrum et genio civitatis
-                    <lb n="2"/>populus <expan><abbr>Drepanit</abbr><ex>orum</ex></expan>
-                  </ab>
+                    <lb n="1"/><w><abbr>L</abbr></w> <name><abbr>L</abbr></name> <name><abbr>D</abbr></name> <name>Augusto</name> <w>sacrum</w> <w>et</w> <w>genio</w> <w>civitatis</w>
+                    <lb n="2"/><w>populus</w> <name><expan><abbr>Drepanit</abbr><ex>orum</ex></expan></name>
+                </ab>
             </div>
             <div type="apparatus">
                 <listApp>

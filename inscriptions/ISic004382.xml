@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -183,12 +183,12 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
-                <ab>                    
-                    <lb n="1"/>Ῥουφείνα Μαρκία
-                   <lb n="2"/>ζήσασα ἔτη <num value="35">λε</num>
-                    <lb n="3"/>Σόσσις ἀνήρ ἐπόη
-                    <lb n="4" break="no"/>σε ἰδίᾳ γυναικί εὐσεβεσ
-                    <lb n="5" break="no"/>τάτη μνημεῖον
+                <ab>
+                    <lb n="1"/><w>Ῥουφείνα</w> <name>Μαρκία</name>
+                    <lb n="2"/><w>ζήσασα</w> <w>ἔτη</w> <num value="35">λε</num>
+                    <lb n="3"/><name>Σόσσις</name> <w>ἀνήρ</w> <w>ἐπόη
+                    <lb n="4" break="no"/>σε</w> <w>ἰδίᾳ</w> <w>γυναικί</w> <w>εὐσεβεσ
+                    <lb n="5" break="no"/>τάτη</w> <w>μνημεῖον</w>
                 </ab>
             </div>
             <div type="apparatus">

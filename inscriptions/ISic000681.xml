@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -193,9 +193,9 @@
                     <ab>
                         <cb n="1"/>
                         <lb n="1"/><name><expan><abbr>Sex</abbr><ex>to</ex></expan></name> <name>Nonio</name>
-                        <lb n="2"/><name><expan><abbr>Sex</abbr><ex>ti</ex></expan></name> <expan><abbr>f</abbr><ex>ilio</ex></expan> <orgName><expan><abbr>Quir</abbr><ex>ina</ex></expan></orgName>
+                        <lb n="2"/><name><expan><abbr>Sex</abbr><ex>ti</ex></expan></name> <w><expan><abbr>f</abbr><ex>ilio</ex></expan></w> <orgName><name><expan><abbr>Quir</abbr><ex>ina</ex></expan></name></orgName>
                         <lb n="3"/><name>Africano</name>
-                        <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/><unclear>NPP</unclear> <choice><orig>vixsit</orig><reg>vixit</reg></choice> <expan><abbr>a</abbr><ex>nnis</ex></expan> <num value="28">XXIIX</num>
+                        <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <w><unclear>NPP</unclear></w> <w><choice><orig>vixsit</orig><reg>vixit</reg></choice></w> <w><expan><abbr>a</abbr><ex>nnis</ex></expan></w> <num value="28">XXIIX</num>
                     </ab>
                 </div>
                 <div type="textpart" subtype="section" n="b">
@@ -203,8 +203,8 @@
                         <cb n="2"/>
                         <lb n="1"/><name>Caeciliae</name> <name>Zoticae</name>
                         <lb n="2"/><name><expan><abbr>Sex</abbr><ex>tus</ex></expan></name> <name>Nonius</name> <name>Albanus</name>
-                        <lb n="3"/>o<supplied reason="lost">pt</supplied>ima<unclear>e</unclear> uxori fecit
-                        <lb n="4"/>e<supplied reason="lost">pul</supplied>um <expan><abbr>sing</abbr><ex cert="low">ulis</ex></expan> <expan><abbr><am>IIS</am></abbr><ex>sestertium</ex></expan> <expan><abbr>n</abbr><ex>ummum</ex></expan> dignum eius
+                        <lb n="3"/><w>o<supplied reason="lost">pt</supplied>ima<unclear>e</unclear></w> <w>uxori</w> <w>fecit</w>
+                        <lb n="4"/><w>e<supplied reason="lost">pul</supplied>um</w> <w><expan><abbr>sing</abbr><ex cert="low">ulis</ex></expan></w> <w><expan><abbr><am>IIS</am></abbr><ex>sestertium</ex></expan></w> <w><expan><abbr>n</abbr><ex>ummum</ex></expan></w> <w>dignum</w> <w>eius</w>
                     </ab>
                 </div>
             </div>

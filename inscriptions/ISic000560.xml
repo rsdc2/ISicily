@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -192,13 +192,13 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#NCash">
                 <ab>
-                    <lb n="1"/><expan><abbr>d</abbr><ex>is</ex></expan> <g ref="#interpunct">·</g> <expan><abbr>m</abbr><ex>anibus</ex></expan>
-                    <lb n="2"/>Fortis <g ref="#interpunct">·</g> <expan><abbr>Caesar</abbr><ex>is</ex></expan> <g ref="#interpunct">·</g> <expan><abbr>ser</abbr><ex>vus</ex></expan>
-                    <lb n="3"/>sibi <g ref="#interpunct">·</g> et <g ref="#interpunct">·</g> Charidi
-                    <lb n="4"/>coniugi <g ref="#interpunct">·</g> bene
-                    <lb n="5"/>merenti <g ref="#interpunct">·</g> et <g ref="#interpunct">·</g> <expan><abbr>P</abbr><ex>ublio</ex></expan> <g ref="#interpunct">·</g> Aelio
-                    <lb n="6"/><expan><abbr>Aug</abbr><ex>usti</ex></expan> <g ref="#interpunct">·</g> <expan><abbr>lib</abbr><ex>erto</ex></expan> <g ref="#interpunct">·</g> felici <g ref="#interpunct">·</g> poste
-                    <lb n="7" break="no"/><expan><abbr>risq</abbr><ex>ue</ex></expan> <g ref="#interpunct">·</g> suorum <g ref="#interpunct">·</g> fecit
+                    <lb n="1"/><w><expan><abbr>d</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>m</abbr><ex>anibus</ex></expan></w>
+                    <lb n="2"/><name>Fortis</name> <g ref="#interpunct">·</g> <name><expan><abbr>Caesar</abbr><ex>is</ex></expan></name> <g ref="#interpunct">·</g> <w><expan><abbr>ser</abbr><ex>vus</ex></expan></w>
+                    <lb n="3"/><w>sibi</w> <g ref="#interpunct">·</g> <w>et</w> <g ref="#interpunct">·</g> <name>Charidi</name>
+                    <lb n="4"/><w>coniugi</w> <g ref="#interpunct">·</g> <w>bene</w>
+                    <lb n="5"/><w>merenti</w> <g ref="#interpunct">·</g> <w>et</w> <g ref="#interpunct">·</g> <name><expan><abbr>P</abbr><ex>ublio</ex></expan></name> <g ref="#interpunct">·</g> <name>Aelio</name>
+                    <lb n="6"/><name><expan><abbr>Aug</abbr><ex>usti</ex></expan></name> <g ref="#interpunct">·</g> <w><expan><abbr>lib</abbr><ex>erto</ex></expan></w> <g ref="#interpunct">·</g> <w>felici</w> <g ref="#interpunct">·</g> <w>poste
+                    <lb n="7" break="no"/><expan><abbr>risq</abbr><ex>ue</ex></expan></w> <g ref="#interpunct">·</g> <w>suorum</w> <g ref="#interpunct">·</g> <w>fecit</w>
                 </ab>
             </div>
             <div type="apparatus">

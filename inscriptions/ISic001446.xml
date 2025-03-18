@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -194,11 +194,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/>hο Μιλίχιος τᾶ
-                    <lb n="2" break="no"/>ς πατριᾶς τᾶν <expan><abbr>h</abbr><ex>ε</ex><abbr>ρ</abbr></expan>
-                    <lb n="3" break="no"/>μίο̄ παίδο̄ν καὶ
-                    <lb n="4"/>τᾶν Εὐκλέα παί
-                    <lb n="5" break="no"/>δ<supplied reason="omitted">ο̄</supplied>ν
+                    <lb n="1"/><w>hο</w> <name>Μιλίχιος</name> <w>τᾶ
+                    <lb n="2" break="no"/>ς</w> <w>πατριᾶς</w> <w>τᾶν</w> <w><expan><abbr>h</abbr><ex>ε</ex><abbr>ρ</abbr></expan>
+                    <lb n="3" break="no"/>μίο̄</w> <w>παίδο̄ν</w> <w>καὶ</w>
+                    <lb n="4"/><w>τᾶν</w> <name>Εὐκλέα</name> <w>παί
+                    <lb n="5" break="no"/>δ<supplied reason="omitted">ο̄</supplied>ν</w>
                 </ab>
             </div>
             <div type="apparatus">

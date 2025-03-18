@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -193,9 +193,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#AL">
                 <ab>
-                   <lb n="1"/><persName type="attested"><name type="praenomen"><expan><abbr>Λ</abbr><ex>ούκιος</ex></expan></name> <g ref="#interpunct">·</g> <name type="nomen">Κα<supplied reason="lost">στρί</supplied>κιος</name> <g ref="#interpunct">·</g> <orgName type="tribus"><expan><abbr>Κυρ</abbr><ex>είνα</ex></expan></orgName> <g ref="#interpunct">·</g> <name type="cognomen">Προύδηνς</name></persName> <g ref="#interpunct">·</g> ἱππεὺς <g type="interpunct"/> <placeName type="ethnic"><expan><abbr>Ῥωμ</abbr><ex>αίων</ex></expan></placeName> <g ref="#interpunct">·</g> πρῶτος <g ref="#interpunct">·</g> Μελιταίων
-                   <lb n="2"/>καὶ <g ref="#interpunct">·</g> <roleName type="paracivic" subtype="patronus">πάτρων</roleName> <g ref="#interpunct">·</g> ἄρξας <g ref="#interpunct">·</g> καὶ <g ref="#interpunct">·</g> <roleName type="civic.religious" subtype="amphipolos">ἀμφιπολεύσας</roleName> <g ref="#interpunct">·</g> θεῷ <g ref="#interpunct">·</g> Αὐγούστῳ 
-                   <lb n="3"/><gap reason="lost" quantity="3" unit="character" precision="low"/> <orig>ΕΣΧ</orig> <gap reason="lost" quantity="5" unit="character" precision="low"/> <orig>Ν</orig> <gap reason="lost" quantity="4" unit="character" precision="low"/> <orig>Ε</orig> <gap reason="lost" quantity="1" unit="character"/> <orig>Ι</orig> <gap reason="lost" quantity="1" unit="character"/> <orig>ΝΕ</orig> <gap reason="lost" extent="unknown" unit="character"/> 
+                    <lb n="1"/><persName type="attested"><name type="praenomen"><expan><abbr>Λ</abbr><ex>ούκιος</ex></expan></name> <g ref="#interpunct">·</g> <name type="nomen">Κα<supplied reason="lost">στρί</supplied>κιος</name> <g ref="#interpunct">·</g> <orgName type="tribus"><name><expan><abbr>Κυρ</abbr><ex>είνα</ex></expan></name></orgName> <g ref="#interpunct">·</g> <name type="cognomen">Προύδηνς</name></persName> <g ref="#interpunct">·</g> <w>ἱππεὺς</w> <g type="interpunct"/> <placeName type="ethnic"><name><expan><abbr>Ῥωμ</abbr><ex>αίων</ex></expan></name></placeName> <g ref="#interpunct">·</g> <w>πρῶτος</w> <g ref="#interpunct">·</g> <name>Μελιταίων</name>
+                    <lb n="2"/><w>καὶ</w> <g ref="#interpunct">·</g> <roleName type="paracivic" subtype="patronus"><w>πάτρων</w></roleName> <g ref="#interpunct">·</g> <w>ἄρξας</w> <g ref="#interpunct">·</g> <w>καὶ</w> <g ref="#interpunct">·</g> <roleName type="civic.religious" subtype="amphipolos"><w>ἀμφιπολεύσας</w></roleName> <g ref="#interpunct">·</g> <w>θεῷ</w> <g ref="#interpunct">·</g> <name>Αὐγούστῳ</name>
+                    <lb n="3"/><gap reason="lost" quantity="3" unit="character" precision="low"/> <orig>ΕΣΧ</orig><gap reason="lost" quantity="5" unit="character" precision="low"/> <orig>Ν</orig><gap reason="lost" quantity="4" unit="character" precision="low"/> <orig>Ε</orig><gap reason="lost" quantity="1" unit="character"/> <orig>Ι</orig><gap reason="lost" quantity="1" unit="character"/> <orig>ΝΕ</orig><gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>
             <div type="apparatus">

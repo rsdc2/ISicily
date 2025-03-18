@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -195,12 +195,12 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#AA">
                 <ab>
-                    <lb n="1"/>Κορνήλιος
-                    <lb n="2"/>Μάγνος · Ἀ
-                    <lb n="3" break="no"/>παμεὺς · ἰδί
-                    <lb n="4" break="no"/>ῳ · θρεπτῷ
-                    <lb n="5"/>Ἐπαφρύδι
-                    <lb n="6"/><expan><abbr>μ</abbr><ex>νήμης</ex></expan> · <expan><abbr>χ</abbr><ex>άριν</ex></expan>
+                    <lb n="1"/><w>Κορνήλιος</w>
+                    <lb n="2"/><name>Μάγνος</name> <g ref="#interpunct">·</g> <name>Ἀ
+                    <lb n="3" break="no"/>παμεὺς</name> <g ref="#interpunct">·</g> <w>ἰδί
+                    <lb n="4" break="no"/>ῳ</w> <g ref="#interpunct">·</g> <w>θρεπτῷ</w>
+                    <lb n="5"/><name>Ἐπαφρύδι</name>
+                    <lb n="6"/><w><expan><abbr>μ</abbr><ex>νήμης</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>χ</abbr><ex>άριν</ex></expan></w>
                 </ab>
             </div>
             <div type="apparatus">

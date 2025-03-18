@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -244,16 +244,16 @@
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <div type="textpart" subtype="frontface">
                     <ab>
-                        <lb n="1"/><expan><abbr>P</abbr><ex>ublius</ex></expan> <g ref="#interpunct">·</g> <supplied reason="subaudible">et</supplied> <expan><abbr>M</abbr><ex>arcus</ex></expan> · Anniei · <expan><abbr>P</abbr><ex>ubli</ex></expan> ·  <expan><abbr>f</abbr><ex>ilii</ex></expan>
-                        <lb n="2"/><expan><abbr>Vot</abbr><ex>uria tribu</ex></expan>
-                        <lb n="3"/>Caesaris · filio
+                        <lb n="1"/><w><expan><abbr>P</abbr><ex>ublius</ex></expan></w> <g ref="#interpunct">·</g> <w><supplied reason="subaudible">et</supplied></w> <name><expan><abbr>M</abbr><ex>arcus</ex></expan></name> <g ref="#interpunct">·</g> <name>Anniei</name> <g ref="#interpunct">·</g> <name><expan><abbr>P</abbr><ex>ubli</ex></expan></name> <g ref="#interpunct">·</g> <w><expan><abbr>f</abbr><ex>ilii</ex></expan></w>
+                        <lb n="2"/><name><expan><abbr>Vot</abbr><ex>uria tribu</ex></expan></name>
+                        <lb n="3"/><name>Caesaris</name> <g ref="#interpunct">·</g> <w>filio</w>
                     </ab>
                 </div>
                 <div type="textpart" subtype="rearface" resp="#JP">
                     <ab>
-                        <lb n="1"/><expan><abbr>P</abbr><ex>ublius</ex></expan> · <supplied reason="subaudible">et</supplied> <expan><abbr>M</abbr><ex>arcus</ex></expan> · Anniei · <expan><abbr>P</abbr><ex>ubli</ex></expan> ·  <expan><abbr>f</abbr><ex>ilii</ex></expan>
-                        <lb n="2"/><expan><abbr>Vot</abbr><ex>uria tribu</ex></expan>
-                        <lb n="3"/><expan><abbr>C</abbr><ex>aio</ex></expan> · Caesari · <expan><abbr>August</abbr><ex>i</ex></expan> ·  <expan><abbr>f</abbr><ex>ilio</ex></expan>
+                        <lb n="1"/><w><expan><abbr>P</abbr><ex>ublius</ex></expan></w> <g ref="#interpunct">·</g> <w><supplied reason="subaudible">et</supplied></w> <name><expan><abbr>M</abbr><ex>arcus</ex></expan></name> <g ref="#interpunct">·</g> <name>Anniei</name> <g ref="#interpunct">·</g> <name><expan><abbr>P</abbr><ex>ubli</ex></expan></name> <g ref="#interpunct">·</g> <w><expan><abbr>f</abbr><ex>ilii</ex></expan></w>
+                        <lb n="2"/><name><expan><abbr>Vot</abbr><ex>uria tribu</ex></expan></name>
+                        <lb n="3"/><name><expan><abbr>C</abbr><ex>aio</ex></expan></name> <g ref="#interpunct">·</g> <name>Caesari</name> <g ref="#interpunct">·</g> <name><expan><abbr>August</abbr><ex>i</ex></expan></name> <g ref="#interpunct">·</g> <w><expan><abbr>f</abbr><ex>ilio</ex></expan></w>
                     </ab>
                 </div>
             </div>

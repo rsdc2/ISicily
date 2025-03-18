@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -198,12 +198,12 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/><g ref="#christogram"/> ἐνθάδε κῖτε μακαρία<supplied reason="omitted">ς</supplied>
-                    <lb n="2"/>μνήμης Καλλιτύχη· ἔζη
-                    <lb n="3" break="no"/>σεν ἔτη <g ref="#palm">⸙</g> <hi rend="supraline"><num value="88">πη</num></hi>· ἐτελεύτ<supplied reason="lost">η</supplied>
-                    <lb n="4" break="no"/><supplied reason="lost">σ</supplied>εν δὲ τῇ πρὸ <hi rend="supraline"><num value="15">ιε</num></hi> καλα<supplied reason="lost">ν</supplied>
-                    <lb n="5" break="no"/><supplied reason="lost">δ</supplied>ῶν Φεβρουαρίων ἡμέ
-                    <lb n="6" break="no"/><supplied reason="lost">ρ</supplied>ᾳ Σαββάτῳ <g ref="#palm">⸙</g>
+                    <lb n="1"/><g ref="#christogram"/> <w>ἐνθάδε</w> <w>κῖτε</w> <w>μακαρία<supplied reason="omitted">ς</supplied></w>
+                    <lb n="2"/><w>μνήμης</w> <name>Καλλιτύχη·</name> <w>ἔζη
+                    <lb n="3" break="no"/>σεν</w> <w>ἔτη</w> <g ref="#palm">⸙</g> <w><hi rend="supraline"><num value="88">πη</num></hi>ἐτελεύτ<supplied reason="lost">η</supplied>
+                    <lb n="4" break="no"/><supplied reason="lost">σ</supplied>εν</w> <w>δὲ</w> <w>τῇ</w> <w>πρὸ</w> <w><hi rend="supraline"><num value="15">ιε</num></hi>καλα<supplied reason="lost">ν</supplied>
+                    <lb n="5" break="no"/><supplied reason="lost">δ</supplied>ῶν</w> <name>Φεβρουαρίων</name> <w>ἡμέ
+                    <lb n="6" break="no"/><supplied reason="lost">ρ</supplied>ᾳ</w> <name>Σαββάτῳ</name> <g ref="#palm">⸙</g>
                 </ab>
             </div>
             <div type="apparatus">

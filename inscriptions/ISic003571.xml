@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -223,11 +223,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost">La</supplied>pironi
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><roleName type="military" subtype="praefectus.fabrum"><expan><abbr><supplied reason="lost">pr</supplied>aef</abbr><ex>ecto</ex></expan> · <expan><abbr>fabr</abbr><ex>um</ex></expan></roleName> · <num value="10"><hi rend="supraline">X</hi></num>
-                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost" cert="low"><roleName type="civic.religious" subtype="flamen">flamini</roleName></supplied> <supplied reason="lost">Aug</supplied>usti · Caesaris
-                    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost" cert="low">perpet</supplied><unclear>u</unclear>o<space unit="character" quantity="10"/>
-                    <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost">pecu</supplied>nia · publica
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">La</supplied>pironi</w>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <roleName type="military" subtype="praefectus.fabrum"><w><expan><abbr><supplied reason="lost">pr</supplied>aef</abbr><ex>ecto</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>fabr</abbr><ex>um</ex></expan></w></roleName> <g ref="#interpunct">·</g> <num value="10"><hi rend="supraline">X</hi></num>
+                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost" cert="low"><roleName type="civic.religious" subtype="flamen">flamini</roleName></supplied></w> <name><supplied reason="lost">Aug</supplied>usti</name> <g ref="#interpunct">·</g> <name>Caesaris</name>
+                    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost" cert="low">perpet</supplied><unclear>u</unclear>o<space unit="character" quantity="10"/></w>
+                    <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">pecu</supplied>nia</w> <g ref="#interpunct">·</g> <w>publica</w>
                 </ab>
             </div>
             <div type="apparatus">

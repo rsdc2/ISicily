@@ -1,11 +1,11 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>ISic030223</title>
+                <title>ISic030302</title>
                 <editor ref="#JP">Jonathan Prag</editor>
                 <principal ref="#VM">Valentina Mignosa</principal>
                 <funder>John Fell OUP Research Fund</funder>
@@ -70,7 +70,7 @@
                             <supportDesc>
                                 <support>
                                     <p>Fragment of tessera.</p>
-                                    <material ana="#material.metal.lead" ref="https://www.eagle-network.eu/voc/material/lod/108.html">lead</material>
+                                    <material ana="#material.metal.bronze" ref="http://www.eagle-network.eu/voc/material/lod/109.html">bronze</material>
                                     <objectType ana="#object.tessera" ref="http://www.eagle-network.eu/voc/objtyp/lod/276.html">tessera</objectType>
                                     <dimensions>
                                         <height unit="cm"/>

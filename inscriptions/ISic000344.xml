@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -191,11 +191,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#MH">
                 <ab>
-                    <lb n="1"/><g ref="#ivy-leaf">❦</g> <expan><abbr>D</abbr><ex>is</ex></expan> <g ref="#interpunct">·</g> <expan><abbr>M</abbr><ex>anibus</ex></expan> <g ref="#interpunct">·</g> <expan><abbr>S</abbr><ex>acrum</ex></expan> <g ref="#ivy-leaf">❦</g>
-                    <lb n="2"/>Claudia <g ref="#interpunct">·</g> Cestia
-                    <lb n="3"/><expan><abbr>vix</abbr><ex>it</ex></expan> <g ref="#interpunct">·</g> <expan><abbr>ann</abbr><ex>os</ex></expan> <g ref="#interpunct">·</g> <num value="28">XXVIII</num>
-                    <lb n="4"/>Sutoria <g ref="#interpunct">·</g> Primil
-                    <lb n="5" break="no"/>la <g ref="#interpunct">·</g> filiae <g ref="#interpunct">·</g> piissimae.
+                    <lb n="1"/><g ref="#ivy-leaf">❦</g> <w><expan><abbr>D</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <name><expan><abbr>M</abbr><ex>anibus</ex></expan></name> <g ref="#interpunct">·</g> <name><expan><abbr>S</abbr><ex>acrum</ex></expan></name> <g ref="#ivy-leaf">❦</g>
+                    <lb n="2"/><name>Claudia</name> <g ref="#interpunct">·</g> <name>Cestia</name>
+                    <lb n="3"/><w><expan><abbr>vix</abbr><ex>it</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>ann</abbr><ex>os</ex></expan></w> <g ref="#interpunct">·</g> <num value="28">XXVIII</num>
+                    <lb n="4"/><name>Sutoria</name> <g ref="#interpunct">·</g> <name>Primil
+                    <lb n="5" break="no"/>la</name> <g ref="#interpunct">·</g> <w>filiae</w> <g ref="#interpunct">·</g> <w>piissimae.</w>
                     <lb n="5a"/><g ref="#ivy-leaf">❦</g>
                 </ab>               
             </div>

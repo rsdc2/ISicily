@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -184,12 +184,12 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#IG">
                 <ab>
-                    <lb n="1"/>Ἐτε<surplus>υ</surplus>λεύ
-                    <lb n="2" break="no"/>τησε <persName type="attested"><name>Ἀφρο
-                    <lb n="3" break="no"/>δ<choice><corr>ι</corr><sic>ρ</sic></choice>σ<supplied reason="omitted">ί</supplied>α</name></persName> <choice><reg>ἐ</reg><orig>αἰ</orig></choice>τ<surplus>ε</surplus>
-                    <lb n="4" break="no"/>ῶν <num value="10">ι</num> μή
-                    <lb n="5" break="no"/>νων <num value="19">ιθ</num>
-               </ab>
+                    <lb n="1"/><w>Ἐτε<surplus>υ</surplus>λεύ
+                    <lb n="2" break="no"/>τησε</w> <persName type="attested"><name>Ἀφρο
+                    <lb n="3" break="no"/>δ<choice><corr>ι</corr><sic>ρ</sic></choice>σ<supplied reason="omitted">ί</supplied>α</name></persName> <w><choice><reg>ἐ</reg><orig>αἰ</orig></choice>τ<surplus>ε</surplus>
+                    <lb n="4" break="no"/>ῶν</w> <num value="10">ι</num> <w>μή
+                    <lb n="5" break="no"/>νων</w> <num value="19">ιθ</num>
+                </ab>
                </div>
             <div type="apparatus">
                 <listApp><app><note>Text of Orsi checked against photograph</note></app></listApp>

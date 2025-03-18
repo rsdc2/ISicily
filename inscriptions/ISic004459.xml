@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -192,11 +192,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#IG">
                 <ab>
-                    <lb n="1"/>Ἐτελεύτ<choice><corr>η</corr><sic>π</sic></choice>
-                    <lb n="2" break="no"/>σεν <expan><abbr><am><g ref="#christogram">☧</g></am></abbr><ex>Χρίστο</ex><abbr>ς</abbr></expan> Κρισ
-                    <lb n="3" break="no"/>πῖνος <choice><reg>ἐτῶν</reg><orig>ἐτέ
-                    <lb n="4" break="no"/>ων</orig></choice> <expan><abbr><am><g ref="#christogram">☧</g></am></abbr><ex>Χρίστο</ex><abbr>ς</abbr></expan> <num value="18">ιη</num>
-               </ab>
+                    <lb n="1"/><w>Ἐτελεύτ<choice><corr>η</corr><sic>π</sic></choice>
+                    <lb n="2" break="no"/>σεν</w> <w><expan><abbr><am><g ref="#christogram">☧</g></am></abbr><ex>Χρίστο</ex><abbr>ς</abbr></expan></w> <name>Κρισ
+                    <lb n="3" break="no"/>πῖνος</name> <w><choice><reg>ἐτῶν</reg><orig>ἐτέ
+                    <lb n="4" break="no"/>ων</orig></choice></w> <w><expan><abbr><am><g ref="#christogram">☧</g></am></abbr><ex>Χρίστο</ex><abbr>ς</abbr></expan></w> <num value="18">ιη</num>
+                </ab>
                </div>
             <div type="apparatus">
                 <listApp><app><note>Text from Orsi, checked against photograph</note></app></listApp>

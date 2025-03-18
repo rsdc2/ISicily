@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -170,10 +170,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1"/>ἐνθάδε ὥδε κῖτε <persName type="attested"><name>Ἰε
-                    <lb n="2" break="no"/>ναρία</name></persName> ἀποθανασα ἡμέ
-                    <lb n="3" break="no"/>ρᾳ Ἡλίου <hi rend="ligature">πρ</hi>ὸ <num value="4">δ</num> εἰδ<hi rend="ligature">ῶν</hi> Ἰα
-                    <lb n="4" break="no"/>νουαρίων
+                    <lb n="1"/><w>ἐνθάδε</w> <w>ὥδε</w> <w>κῖτε</w> <persName type="attested"><name>Ἰε
+                    <lb n="2" break="no"/>ναρία</name></persName> <w>ἀποθανασα</w> <w>ἡμέ
+                    <lb n="3" break="no"/>ρᾳ</w> <name>Ἡλίου</name> <w><hi rend="ligature">πρ</hi>ὸ</w> <num value="4">δ</num> <w>εἰδ<hi rend="ligature">ῶν</hi></w> <name>Ἰα
+                    <lb n="4" break="no"/>νουαρίων</name>
                 </ab>
             </div>
             <div type="apparatus" resp="#JP">

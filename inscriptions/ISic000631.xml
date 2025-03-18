@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -212,33 +212,12 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
-                    <lb n="1"/>
-                    <supplied reason="lost">Fl</supplied>
-                    <unclear>a</unclear>mm<unclear>i</unclear>fugas fratr
-                    <unclear>e</unclear>
-                    <supplied reason="lost">s</supplied>
-                    <lb n="2"/>
-                    · <unclear>p</unclear>ietatis maxima dona
-                    <lb n="3"/>
-                    · quos tulit hostilit
-                    <supplied reason="lost">as</supplied>
-                    <lb n="4"/>
-                    · reddid<unclear>i</unclear>t hos Merulus ·
-                    <expan>
-                        <abbr>
-                            <unclear>v</unclear>
-                        </abbr>
-                        <ex>ir</ex>
-                    </expan>
-                    <supplied reason="lost">
-                        <roleName type="supracivic" subtype="clarissimus"><expan>
-                            <abbr>c</abbr><ex>larissimus</ex>
-                        </expan></roleName>
-                    </supplied>
-                    <lb n="5"/>
-                    · et spectabilis · <roleName type="supracivic" subtype="consularis">consul<supplied reason="lost">aris</supplied></roleName>
-                    <lb n="6"/>
-                    <unclear>p</unclear>rovinciae Sicilia<unclear>e</unclear>
+                    <lb n="1"/><w><supplied reason="lost">Fl</supplied></w> <w><unclear>a</unclear>mm<unclear>i</unclear>fugas</w> <w>fratr</w> <w><unclear>e</unclear></w> <w><supplied reason="lost">s</supplied></w>
+                    <lb n="2"/><g ref="#interpunct">·</g> <w><unclear>p</unclear>ietatis</w> <w>maxima</w> <w>dona</w>
+                    <lb n="3"/><g ref="#interpunct">·</g> <w>quos</w> <w>tulit</w> <w>hostilit</w> <w><supplied reason="lost">as</supplied></w>
+                    <lb n="4"/><g ref="#interpunct">·</g> <w>reddid<unclear>i</unclear>t</w> <w>hos</w> <name>Merulus</name> <g ref="#interpunct">·</g> <w><expan><abbr><unclear>v</unclear></abbr><ex>ir</ex></expan></w> <w><supplied reason="lost"><roleName type="supracivic" subtype="clarissimus"><expan><abbr>c</abbr><ex>larissimus</ex></expan></roleName></supplied></w>
+                    <lb n="5"/><g ref="#interpunct">·</g> <w>et</w> <w>spectabilis</w> <g ref="#interpunct">·</g> <roleName type="supracivic" subtype="consularis"><w>consul</w> <w><supplied reason="lost">aris</supplied></w></roleName>
+                    <lb n="6"/><w><unclear>p</unclear>rovinciae</w> <name>Sicilia<unclear>e</unclear></name>
                 </ab>
             </div>
             <div type="apparatus">

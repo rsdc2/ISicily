@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -192,17 +192,17 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
-            <ab>
-                <lb n="1"/><expan><abbr>L</abbr><ex>ucius</ex></expan> · Baebius · <expan><abbr>L</abbr><ex>uci</ex></expan>  <expan><abbr>f</abbr><ex>ilius</ex></expan>
-                <lb n="2"/><expan><abbr>Gal</abbr><ex>eria</ex></expan> · Iuncinus
-                <lb n="3"/><roleName type="military" subtype="praefectus.fabrum"><expan><abbr>praef</abbr><ex>ectus</ex></expan> · <expan><abbr>fabr</abbr><ex>um</ex></expan></roleName> <roleName type="military" subtype="praefectus.cohortis"><expan><abbr>praef</abbr><ex>ectus</ex></expan>
-                <lb n="4"/><expan><abbr>coh</abbr><ex>ortis</ex></expan></roleName> <num value="4">IIII</num> · Raetorum
-                <lb n="5"/><roleName type="military" subtype="tribunus.militum"><expan><abbr>trib</abbr><ex>unus</ex></expan> · <expan><abbr>milit</abbr><ex>um</ex></expan></roleName> · <expan><abbr>leg</abbr><ex>ionis</ex></expan> · <num value="22">XXII</num>
-                <lb n="6"/>Deiotarianae
-                <lb n="7"/><roleName type="military" subtype="praefectus.alae"><expan><abbr>praef</abbr><ex>ectus</ex></expan> · alae</roleName> · Astyrum
-                <lb n="8"/><roleName type="military" subtype="praefectus.vehiculorum"><expan><abbr>praef</abbr><ex>ectus</ex></expan> · vehiculorum</roleName>
-                <lb n="9"/><roleName type="supracivic" subtype="iuridicus.aegypti">iuridicus · Aegypti</roleName>
-            </ab>
+                <ab>
+                    <lb n="1"/><w><expan><abbr>L</abbr><ex>ucius</ex></expan></w> <g ref="#interpunct">·</g> <name>Baebius</name> <g ref="#interpunct">·</g> <name><expan><abbr>L</abbr><ex>uci</ex></expan></name> <w><expan><abbr>f</abbr><ex>ilius</ex></expan></w>
+                    <lb n="2"/><name><expan><abbr>Gal</abbr><ex>eria</ex></expan></name> <g ref="#interpunct">·</g> <name>Iuncinus</name>
+                    <lb n="3"/><roleName type="military" subtype="praefectus.fabrum"><w><expan><abbr>praef</abbr><ex>ectus</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>fabr</abbr><ex>um</ex></expan></w></roleName> <roleName type="military" subtype="praefectus.cohortis"><w><expan><abbr>praef</abbr><ex>ectus</ex></expan></w>
+                    <lb n="4"/><w><expan><abbr>coh</abbr><ex>ortis</ex></expan></w></roleName> <num value="4">IIII</num> <g ref="#interpunct">·</g> <name>Raetorum</name>
+                    <lb n="5"/><roleName type="military" subtype="tribunus.militum"><w><expan><abbr>trib</abbr><ex>unus</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>milit</abbr><ex>um</ex></expan></w></roleName> <g ref="#interpunct">·</g> <w><expan><abbr>leg</abbr><ex>ionis</ex></expan></w> <g ref="#interpunct">·</g> <num value="22">XXII</num>
+                    <lb n="6"/><name>Deiotarianae</name>
+                    <lb n="7"/><roleName type="military" subtype="praefectus.alae"><w><expan><abbr>praef</abbr><ex>ectus</ex></expan></w> <g ref="#interpunct">·</g> <w>alae</w></roleName> <g ref="#interpunct">·</g> <name>Astyrum</name>
+                    <lb n="8"/><roleName type="military" subtype="praefectus.vehiculorum"><w><expan><abbr>praef</abbr><ex>ectus</ex></expan></w> <g ref="#interpunct">·</g> <w>vehiculorum</w></roleName>
+                    <lb n="9"/><roleName type="supracivic" subtype="iuridicus.aegypti"><w>iuridicus</w> <g ref="#interpunct">·</g> <name>Aegypti</name></roleName>
+                </ab>
             </div>
             <div type="apparatus">
                 <listApp><app><note>Text based upon Bitto 2001</note></app></listApp>

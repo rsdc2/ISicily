@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -178,20 +178,11 @@
         <body>
             <div type="edition" xml:space="preserve" subtype="PHI" n="PHI334872">
                 <ab>
-                    <lb n="1"/>
-                    <unclear>C</unclear>assi
-                    <unclear>a</unclear>
-                    <supplied reason="lost">— — — —</supplied>
-                    <lb n="2"/>M ∙ Dom
-                    <supplied reason="lost">— — —</supplied>
-                    <lb n="3"/>
-                    <supplied reason="lost">․</supplied>GENV
-                    <supplied reason="lost">— — —</supplied>
-                    <lb n="4"/>
-                    <supplied reason="lost">․</supplied>#⁷#⁷#⁷E
-                    <supplied reason="lost">— — —</supplied>
-                    <lb n="5"/>
-                    <supplied reason="lost">— — — — — — —</supplied>
+                    <lb n="1"/><w><unclear>C</unclear>assi</w> <w><unclear>a</unclear></w> <name><supplied reason="lost">— — — —</supplied></name>
+                    <lb n="2"/><name>M</name> <g ref="#interpunct">∙</g> <name>Dom</name> <name><supplied reason="lost">— — —</supplied></name>
+                    <lb n="3"/><w><supplied reason="lost">․</supplied>GENV</w> <name><supplied reason="lost">— — —</supplied></name>
+                    <lb n="4"/><w><supplied reason="lost">․</supplied>#⁷#⁷#⁷E</w> <name><supplied reason="lost">— — —</supplied></name>
+                    <lb n="5"/><name><supplied reason="lost">— — — — — — —</supplied></name>
                     <lb n="6"/>
                 </ab>
             </div>

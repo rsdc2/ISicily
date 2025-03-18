@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -187,29 +187,12 @@
         <body>
             <div type="edition" xml:space="preserve" subtype="PHI" n="PHI140931">
                 <ab>
-                    <lb n="1"/>
-
-
-                    ἐνθάδε κῖτε Δομέ-<lb n="2"/>στικος ὁ εὐμ<supplied reason="omitted">αθ</supplied>ὴς
-                    
-                    <lb n="3"/>Χριστιανὸς
-                    <expan>
-                        <abbr>κ</abbr>
-                        <ex>αὶ</ex>
-                    </expan>
-                    ἰητρός <surplus>²⁶ἰατρός</surplus>²⁶·<lb n="4"/>ἔζησεν ἔτη οϛʹ,<lb n="5"/>ἀνεπάσατο <surplus>
-                    ²⁶ἀνεπαύσατο</surplus>²⁶ τῇ <unclear>πρ</unclear>(ὸ) ιηʹ<lb n="6"/>καλ
-                    <supplied reason="lost">αν</supplied>
-                    <expan>
-                        <abbr>δ</abbr>
-                        <ex>ῶν</ex>
-                    </expan>
-                    ∙
-                    <expan>
-                        <abbr>Φεβρ</abbr>
-                        <ex>ουαρίων</ex>
-                    </expan>
-                    .
+                    <lb n="1"/><w>ἐνθάδε</w> <w>κῖτε</w> <name>Δομέ-</name>
+                    <lb n="2"/><w>στικος</w> <w>ὁ</w> <w>εὐμ<supplied reason="omitted">αθ</supplied>ὴς</w>
+                    <lb n="3"/><name>Χριστιανὸς</name> <w><expan><abbr>κ</abbr><ex>αὶ</ex></expan></w> <w>ἰητρός</w> <name><surplus>²⁶ἰατρός</surplus>²⁶·</name>
+                    <lb n="4"/><w>ἔζησεν</w> <w>ἔτη</w> <w>οϛʹ,</w>
+                    <lb n="5"/><w>ἀνεπάσατο</w> <name><surplus>²⁶ἀνεπαύσατο</surplus>²⁶</name> <w>τῇ</w> <w><unclear>πρ</unclear>(ὸ)</w> <w>ιηʹ</w>
+                    <lb n="6"/><w>καλ</w> <w><supplied reason="lost">αν</supplied></w> <w><expan><abbr>δ</abbr><ex>ῶν</ex></expan></w> <g ref="#interpunct">∙</g> <name><expan><abbr>Φεβρ</abbr><ex>ουαρίων</ex></expan></name> <name>.</name>
                     <lb n="7"/>
                 </ab>
             </div>

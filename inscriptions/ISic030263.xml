@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -182,13 +182,13 @@
                     <ab>
                         <milestone unit="face" n="a"/>
                         <lb n="1"/><persName><name type="idionym"><seg part="I">Ι</seg><gap reason="lost" extent="unknown" unit="character"/></name> <persName><name type="patronym"><gap reason="lost" extent="unknown" unit="character"/><seg part="F">ος</seg></name></persName></persName>
-                        <lb n="2"/>τέθ<supplied reason="lost">ν</supplied>ακε
+                        <lb n="2"/><w>τέθ<supplied reason="lost">ν</supplied>ακε</w>
                     </ab>
                 </div>
                 <div type="textpart" subtype="section" n="b">
                     <ab>
                         <milestone unit="face" n="b"/>
-                        <lb n="1"/><num value="14"><supplied reason="lost">τ</supplied>ετάρ<supplied reason="lost">τα</supplied> <supplied reason="lost">ἐ</supplied>πὶ δέκα</num>
+                        <lb n="1"/><num value="14"><supplied reason="lost">τ</supplied>ετάρ<supplied reason="lost">τα</supplied><supplied reason="lost">ἐ</supplied>πὶ δέκα</num>
                     </ab>
                 </div>
             </div>

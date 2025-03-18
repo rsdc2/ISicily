@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -191,11 +191,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/>Μ<supplied reason="omitted">ν</supplied>ησθῇ ὁ <expan><abbr>θ</abbr><ex>εὸ</ex><abbr>ς</abbr></expan> τῶ
-                    <lb n="2"/>δ<supplied reason="omitted">ού</supplied>λω σου Φασχα
-                    <lb n="3" break="no"/>σίω· ἀναπάη
-                    <lb n="4"/>μηνὶ <choice><corr>Ὀ</corr><sic>Ὠ</sic></choice>κτωβρί
-                    <lb n="5" break="no"/>ῳ <expan><abbr>τ</abbr><ex>αῖς</ex></expan> <num value="20">κ</num>
+                    <lb n="1"/><w>Μ<supplied reason="omitted">ν</supplied>ησθῇ</w> <w>ὁ</w> <w><expan><abbr>θ</abbr><ex>εὸ</ex><abbr>ς</abbr></expan></w> <w>τῶ</w>
+                    <lb n="2"/><w>δ<supplied reason="omitted">ού</supplied>λω</w> <w>σου</w> <name>Φασχα
+                    <lb n="3" break="no"/>σίω·</name> <w>ἀναπάη</w>
+                    <lb n="4"/><w>μηνὶ</w> <w><choice><corr>Ὀ</corr><sic>Ὠ</sic></choice>κτωβρί
+                    <lb n="5" break="no"/>ῳ</w> <w><expan><abbr>τ</abbr><ex>αῖς</ex></expan></w> <num value="20">κ</num>
                 </ab>
             </div>
             <div type="apparatus">

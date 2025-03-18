@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -203,13 +203,13 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#AL">
                 <ab>
-                    <lb n="1"/>Θεοῖς <space extent="unknown" unit="character"/> Καταχθονίοις
-                    <lb n="2"/><placeName type="ethnic">Καππαδόκων</placeName> ἔθνους πολυανθέας οἴδατε ἀρούρας
-                    <lb n="3"/>κεῖθεν ἐγὼ φυόμην ἐκ τοκέων ἀγαθῶν
-                    <lb n="4"/>ἐξέτι τοὺς λιπόμην, δύσιν ἤλυθον ἠδὲ καὶ ἠῶ
-                    <lb n="5"/>οὔνομά μοι <persName type="attested"><name type="idionym">Γλάφυρος</name></persName> καὶ φρενὸς εἴκελον <expan><abbr><hi rend="supraline">ἦ</hi></abbr><ex>ν</ex></expan>
-                    <lb n="6"/><num value="60">ἑξηκοστὸν</num> ἔτος πανελεύθερον ἐξεβίωσα
-                    <lb n="7"/>καὶ καλὸν τὸ τύχης καὶ πικρὸν οἶδα βίου
+                    <lb n="1"/><w>Θεοῖς</w> <space extent="unknown" unit="character"/><name>Καταχθονίοις</name>
+                    <lb n="2"/><placeName type="ethnic"><name>Καππαδόκων</name></placeName> <w>ἔθνους</w> <w>πολυανθέας</w> <w>οἴδατε</w> <w>ἀρούρας</w>
+                    <lb n="3"/><w>κεῖθεν</w> <w>ἐγὼ</w> <w>φυόμην</w> <w>ἐκ</w> <w>τοκέων</w> <w>ἀγαθῶν</w>
+                    <lb n="4"/><w>ἐξέτι</w> <w>τοὺς</w> <w>λιπόμην,</w> <w>δύσιν</w> <w>ἤλυθον</w> <w>ἠδὲ</w> <w>καὶ</w> <w>ἠῶ</w>
+                    <lb n="5"/><w>οὔνομά</w> <w>μοι</w> <persName type="attested"><name type="idionym">Γλάφυρος</name></persName> <w>καὶ</w> <w>φρενὸς</w> <w>εἴκελον</w> <w><expan><abbr><hi rend="supraline">ἦ</hi></abbr><ex>ν</ex></expan></w>
+                    <lb n="6"/><num value="60">ἑξηκοστὸν</num> <w>ἔτος</w> <w>πανελεύθερον</w> <w>ἐξεβίωσα</w>
+                    <lb n="7"/><w>καὶ</w> <w>καλὸν</w> <w>τὸ</w> <w>τύχης</w> <w>καὶ</w> <w>πικρὸν</w> <w>οἶδα</w> <w>βίου</w>
                 </ab>
             </div>
             <div type="apparatus">

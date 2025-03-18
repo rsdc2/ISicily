@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -185,38 +185,17 @@
         <body>
             <div type="edition" xml:space="preserve" subtype="PHI" n="PHI330705">
                 <ab>
-                    <lb n="1"/>
-
-
-                    
-                    <expan>
-                        <abbr>Θ</abbr>
-                        <ex>εοῖς</ex>
-                    </expan>
-                    <expan>
-                        <abbr>Κ</abbr>
-                        <ex>αταχθονίοις</ex>
-                    </expan>
-                    .<lb n="2"/>Ἰανάρις Φλωρέν-<lb n="3"/>τις, χρηστὸς καὶ<lb n="4"/>ἄμεμπτος, ἔζ<supplied reason="lost">η</supplied>-
-                    <lb n="5"/>
-                    <supplied reason="lost">σεν ∙ ἔτ</supplied>η ∙ με ∙
-                    <expan>
-                        <abbr>μῆ</abbr>
-                        <ex>νας</ex>
-                    </expan>
-                    ζ
-                    <lb n="6"/>
-                    <supplied reason="lost">ἡμέ(ρας)</supplied>
-                    <unclear>η</unclear>ʹ, ὃς καὶ ἀκατάμ<supplied reason="lost">ε</supplied>-
-                    <lb n="7"/>
-                    <supplied reason="lost">μπ</supplied>τος ∙ ἰς γὴν ἐπο-
-                    <lb n="8"/>
-                    <supplied reason="lost">ρεύ</supplied>θη· Βικτωρίνα Δω-<lb n="9"/>νάτα σεμνὴ καὶ ἀκ<supplied reason="lost">α</supplied>-<lb n="10"/>τάγνωστ
-                    <supplied reason="lost">ος(?) θ</supplied>
-                    <unclear>ε</unclear>οῖς πρ<supplied reason="lost">ο</supplied>-
-                    <lb n="11"/>
-                    <supplied reason="lost">σ</supplied>φιλὴς
-                    <supplied reason="lost">— — — — — — —</supplied>
+                    <lb n="1"/><w><expan><abbr>Θ</abbr><ex>εοῖς</ex></expan></w> <name><expan><abbr>Κ</abbr><ex>αταχθονίοις</ex></expan></name> <name>.</name>
+                    <lb n="2"/><name>Ἰανάρις</name> <name>Φλωρέν-</name>
+                    <lb n="3"/><w>τις,</w> <w>χρηστὸς</w> <w>καὶ</w>
+                    <lb n="4"/><w>ἄμεμπτος,</w> <w>ἔζ<supplied reason="lost">η</supplied>-</w>
+                    <lb n="5"/><w><supplied reason="lost">σεν ∙ ἔτ</supplied>η</w> <g ref="#interpunct">∙</g> <w>με</w> <g ref="#interpunct">∙</g> <w><expan><abbr>μῆ</abbr><ex>νας</ex></expan></w> <w>ζ</w>
+                    <lb n="6"/><w><supplied reason="lost">ἡμέ(ρας)</supplied></w> <w><unclear>η</unclear>ʹ,</w> <w>ὃς</w> <w>καὶ</w> <w>ἀκατάμ<supplied reason="lost">ε</supplied>-</w>
+                    <lb n="7"/><w><supplied reason="lost">μπ</supplied>τος</w> <g ref="#interpunct">∙</g> <w>ἰς</w> <w>γὴν</w> <w>ἐπο-</w>
+                    <lb n="8"/><w><supplied reason="lost">ρεύ</supplied>θη·</w> <name>Βικτωρίνα</name> <name>Δω-</name>
+                    <lb n="9"/><w>νάτα</w> <w>σεμνὴ</w> <w>καὶ</w> <w>ἀκ<supplied reason="lost">α</supplied>-</w>
+                    <lb n="10"/><w>τάγνωστ</w> <w><supplied reason="lost">ος(?) θ</supplied></w> <w><unclear>ε</unclear>οῖς</w> <w>πρ<supplied reason="lost">ο</supplied>-</w>
+                    <lb n="11"/><w><supplied reason="lost">σ</supplied>φιλὴς</w> <name><supplied reason="lost">— — — — — — —</supplied></name>
                     <lb n="12"/>
                 </ab>
             </div>

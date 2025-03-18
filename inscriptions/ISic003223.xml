@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -197,21 +197,14 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
-                <ab><lb n="1"/>Δαίμοσι
-                    <lb n="2"/>χθονίοις
-                    <lb n="3"/>
-                    <persName type="attested">
-                        <name>Καιλία</name>
-                        ·
-                        <name>Ἑορτὴ</name>
-                    </persName>
-                    ·
-                    <lb n="4"/>ἐβίωσε · ἔτη · ο’
-                    <lb n="5"/>
-                    <persName type="attested">Βλάστη</persName>
-                    · θυγάτηρ
-                    <lb n="6"/>μητρὶ · εὐσεβεσ
-                    <lb n="7" break="no"/>τάτῃ · ἔποισε
+                <ab>
+                    <lb n="1"/><w>Δαίμοσι</w>
+                    <lb n="2"/><w>χθονίοις</w>
+                    <lb n="3"/><persName type="attested"><name>Καιλία</name> <g ref="#interpunct">·</g> <name>Ἑορτὴ</name></persName> <g ref="#interpunct">·</g>
+                    <lb n="4"/><w>ἐβίωσε</w> <g ref="#interpunct">·</g> <w>ἔτη</w> <g ref="#interpunct">·</g> <w>ο’</w>
+                    <lb n="5"/><persName type="attested"><name>Βλάστη</name></persName> <g ref="#interpunct">·</g> <w>θυγάτηρ</w>
+                    <lb n="6"/><w>μητρὶ</w> <g ref="#interpunct">·</g> <w>εὐσεβεσ
+                    <lb n="7" break="no"/>τάτῃ</w> <g ref="#interpunct">·</g> <w>ἔποισε</w>
                 </ab>
             </div>
             <div type="apparatus">

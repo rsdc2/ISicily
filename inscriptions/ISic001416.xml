@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -191,11 +191,11 @@
         <body>
             <div type="edition" xml:space="preserve" subtype="PHI" n="PHI178081">
                 <ab>
-                    <lb n="1"/>
-                    <surplus>²menorah</surplus>²<lb n="2"/>Ἀττίν-<lb n="3"/>ις βρ
-                    <unclear>ε</unclear>
-                    <supplied reason="omitted">σ</supplied>β-<lb n="4"/>ύτερο-<lb n="5"/>ς <surplus>
-                    ²⁶πρεσβύτερος</surplus>²⁶.
+                    <lb n="1"/><w><surplus>²menorah</surplus>²</w>
+                    <lb n="2"/><name>Ἀττίν-</name>
+                    <lb n="3"/><w>ις</w> <w>βρ</w> <w><unclear>ε</unclear></w> <w><supplied reason="omitted">σ</supplied>β-</w>
+                    <lb n="4"/><w>ύτερο-</w>
+                    <lb n="5"/><w>ς</w> <name><surplus>²⁶πρεσβύτερος</surplus>²⁶.</name>
                     <lb n="6"/>
                 </ab>
             </div>

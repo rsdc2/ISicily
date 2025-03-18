@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -192,8 +192,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#VM">
                 <ab>
-                    <lb n="1"/><g ref="#cross_uninterpreted"/> <expan><abbr><hi rend="supraline">M</hi></abbr><ex>emoria</ex></expan> Anto
-                    <lb n="2"/>ni figuli e<supplied reason="omitted">t</supplied> Leonti<supplied reason="omitted">a</supplied>e <g ref="#cross_uninterpreted"/>
+                    <lb n="1"/><g ref="#cross_uninterpreted"/> <w><expan><abbr><hi rend="supraline">M</hi></abbr><ex>emoria</ex></expan></w> <name>Anto</name>
+                    <lb n="2"/><w>ni</w> <w>figuli</w> <w>e<supplied reason="omitted">t</supplied></w> <name>Leonti<supplied reason="omitted">a</supplied>e</name> <g ref="#cross_uninterpreted"/>
                 </ab>
             </div>
             <div type="apparatus">

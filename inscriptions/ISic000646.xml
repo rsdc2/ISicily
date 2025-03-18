@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -186,10 +186,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1"/>Οὐεττηίου τὸ σᾶμα τοῦ Βοός, ξένε,
-                    <lb n="2"/>τόδ’ ἴσθι · νούσωι δ’ ἀργαλῆι τακέντα νιν
-                    <lb n="3"/>ἔθαψε μάτηρ · ἄκριτος δο<supplied reason="lost">κεῖ</supplied> <unclear>Τ</unclear>ύχα ·
-                    <lb n="4"/><unclear>ὁ</unclear> πέτρο<unclear>ς</unclear> <unclear>ἐ</unclear>στὶ μάρτυς, ὧι κάλ<supplied reason="lost">υ</supplied><unclear>π</unclear>τε γᾶ.
+                    <lb n="1"/><w>Οὐεττηίου</w> <w>τὸ</w> <w>σᾶμα</w> <w>τοῦ</w> <name>Βοός,</name> <w>ξένε,</w>
+                    <lb n="2"/><w>τόδ’</w> <w>ἴσθι</w> <g ref="#interpunct">·</g> <w>νούσωι</w> <w>δ’</w> <w>ἀργαλῆι</w> <w>τακέντα</w> <w>νιν</w>
+                    <lb n="3"/><w>ἔθαψε</w> <w>μάτηρ</w> <g ref="#interpunct">·</g> <w>ἄκριτος</w> <w>δο<supplied reason="lost">κεῖ</supplied></w> <name><unclear>Τ</unclear>ύχα</name> <g ref="#interpunct">·</g>
+                    <lb n="4"/><w><unclear>ὁ</unclear></w> <w>πέτρο<unclear>ς</unclear></w> <w><unclear>ἐ</unclear>στὶ</w> <w>μάρτυς,</w> <w>ὧι</w> <w>κάλ<supplied reason="lost">υ</supplied><unclear>π</unclear>τε</w> <w>γᾶ.</w>
                 </ab>
             </div>
             <div type="apparatus">

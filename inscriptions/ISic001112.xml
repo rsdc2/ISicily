@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -193,12 +193,12 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#GC">
                 <ab>
-                    <lb n="1"/><roleName type="civic.religious" subtype="hieromnemon">ἱερομναμονέων</roleName>
+                    <lb n="1"/><roleName type="civic.religious" subtype="hieromnemon"><w>ἱερομναμονέων</w></roleName>
                     <lb n="2"/><persName type="attested"><name>Τίττελος</name> <persName type="attested"><name type="patronym">Ἀρτεμιδώρο<supplied reason="lost">υ</supplied></name></persName></persName>
-                    <lb n="3"/>τὰν ἐπιμέλειαν ἐποιήσα<supplied reason="lost">το</supplied>
-                    <lb n="4"/>τῶν ἔργων τοῦ ἀνδρεῶνο<supplied reason="lost">ς</supplied>
-                    <lb n="5"/><supplied reason="lost">κ</supplied>αὶ τᾶς προέδρας μετὰ τ<supplied reason="lost">ῶν</supplied>
-                    <lb n="6"/><roleName type="civic.religious" subtype="hierophylax">ἱεροφυλάκων</roleName>
+                    <lb n="3"/><w>τὰν</w> <w>ἐπιμέλειαν</w> <w>ἐποιήσα<supplied reason="lost">το</supplied></w>
+                    <lb n="4"/><w>τῶν</w> <w>ἔργων</w> <w>τοῦ</w> <w>ἀνδρεῶνο<supplied reason="lost">ς</supplied></w>
+                    <lb n="5"/><w><supplied reason="lost">κ</supplied>αὶ</w> <w>τᾶς</w> <w>προέδρας</w> <w>μετὰ</w> <w>τ<supplied reason="lost">ῶν</supplied></w>
+                    <lb n="6"/><roleName type="civic.religious" subtype="hierophylax"><w>ἱεροφυλάκων</w></roleName>
                 </ab>
             </div>
             <div type="apparatus">

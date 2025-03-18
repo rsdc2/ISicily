@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -217,12 +217,12 @@
                     <lb n="2" break="no"/>ri</name>
                     <lb n="3"/><name type="epithet">Victri
                     <lb n="4" break="no"/>ci</name> <g ref="#interpunct">·</g>
-                    <lb n="5"/><placeName type="ethnic">Hyblen
-                    <lb n="6" break="no"/>si</placeName></persName> <g ref="#interpunct">·</g>
+                    <lb n="5"/><placeName type="ethnic"><name>Hyblen
+                    <lb n="6" break="no"/>si</name></placeName></persName> <g ref="#interpunct">·</g>
                     <lb n="7"/><persName type="attested"><name><expan><abbr>C</abbr><ex>aius</ex></expan></name> <name><expan><abbr>Public</abbr><ex>ius</ex></expan></name>
                     <lb n="8"/><name>Dona
                     <lb n="9" break="no"/>tus</name></persName>
-                    <lb n="10"/><expan><abbr>d</abbr><ex>ono</ex></expan> <g ref="#interpunct">·</g> <expan><abbr>d</abbr><ex>edit</ex></expan>
+                    <lb n="10"/><w><expan><abbr>d</abbr><ex>ono</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>d</abbr><ex>edit</ex></expan></w>
                 </ab>
             </div>
             <div type="apparatus">

@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -210,9 +210,9 @@
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
                     <lb/><gap reason="lost" extent="unknown" unit="line"/>
-                    <lb n="1"/><expan><abbr>Aug</abbr><ex>usto</ex></expan> ·
-                    <lb n="2"/>Res · <expan><abbr>P</abbr><ex>ublica</ex></expan> · <expan><abbr>Hal</abbr><ex>aesinorum</ex></expan> ·
-                   <lb n="3"/><space extent="unknown" unit="character"/><expan><abbr>D</abbr><ex>ecreto</ex></expan> · <roleName type="civic" subtype="decurio"><expan><abbr>D</abbr><ex>ecurionum</ex></expan></roleName> · <space extent="unknown" unit="character"/>
+                    <lb n="1"/><w><expan><abbr>Aug</abbr><ex>usto</ex></expan></w> <g ref="#interpunct">·</g>
+                    <lb n="2"/><name>Res</name> <g ref="#interpunct">·</g> <name><expan><abbr>P</abbr><ex>ublica</ex></expan></name> <g ref="#interpunct">·</g> <name><expan><abbr>Hal</abbr><ex>aesinorum</ex></expan></name> <g ref="#interpunct">·</g>
+                    <lb n="3"/><name><space extent="unknown" unit="character"/><expan><abbr>D</abbr><ex>ecreto</ex></expan></name> <g ref="#interpunct">·</g> <roleName type="civic" subtype="decurio"><name><expan><abbr>D</abbr><ex>ecurionum</ex></expan></name></roleName> <g ref="#interpunct">·</g> <space extent="unknown" unit="character"/>
                     <lb/><space unit="line" quantity="3"/>
                 </ab>
             </div>

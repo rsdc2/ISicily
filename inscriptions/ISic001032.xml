@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -194,35 +194,31 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
-                    <ab>
-                        <lb n="1"/><supplied reason="lost">ἐπὶ</supplied> <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost" cert="low">Ἀφροδίται</supplied>
-                           
-                        <cb n="1"/>
-                        <lb n="2"/><roleName type="civic" subtype="agoranomos">ἀγορανόμοι</roleName>
-                        <lb n="3"/>Ἀπολλόδωρος Νυμφοδώρου
-                        <lb n="4"/>Ἡράκλειος Ἡρακλείου <abbr>Σαλ</abbr>
-                        <lb n="5"/><roleName type="civic" subtype="triakadarkos">τριακάδαρχοι</roleName>
-                        <lb n="6"/>Φιλιστίων Νικάνδρου
-                        <lb n="7"/>Νύμφων Λυσία
-                        <lb n="8"/>Διονύσιος Ἵππωνος
-                        <lb n="9"/>Νίκων Νίκωνος
-                        <lb n="10"/>Ἕλωρις Ἡρακλείδα
-                        <lb n="11"/>Θεόδωρος Εὐφραίου
-                        <lb n="12"/>Εὐκλῆς Φιλάρχου
-                    
-                        <cb n="2"/>
-                        <lb n="13"/>Ἀριστόμαχος <gap reason="lost" extent="unknown" unit="character"/><orig>ΙΙΥ</orig><gap reason="lost" extent="unknown" unit="character"/><orig>ΙΙ</orig>
-                        <lb n="14"/>Νίκων Νυμφοδώρου
-                        <lb n="15"/><roleName type="civic" subtype="grammateus">γραμματεὺς</roleName>
-                        <lb n="16"/>καὶ <roleName type="civic" subtype="phradater">φραδατὴρ</roleName>
-                        <lb n="17"/>Ἀρχάγαθος Ἀρχαγάθου
-                        <lb n="18"/><roleName type="civic" subtype="hypographeus">ὑπογραφέες</roleName>
-                        <lb n="19"/><supplied reason="lost">Σ</supplied>ῶσις Παυσανία
-                        <lb n="20"/>Ἀντικράτης Ἀρτέμωνος
-                        <lb n="21"/><roleName type="civic" subtype="keryx">κᾶρυξ</roleName>
-                        <lb n="22"/>Εὐφραῖος Εὐφραίου
-                        <lb n="23"/><roleName type="civic" subtype="hyperetas">ὑπηρέτας</roleName>
-                        <lb n="24"/><gap reason="lost" quantity="1" unit="line"/>
+                <ab>
+                    <lb n="1"/><w><supplied reason="lost">ἐπὶ</supplied></w> <gap reason="lost" extent="unknown" unit="character"/> <name><supplied reason="lost" cert="low">Ἀφροδίται</supplied></name> <cb n="1"/>
+                    <lb n="2"/><roleName type="civic" subtype="agoranomos"><w>ἀγορανόμοι</w></roleName>
+                    <lb n="3"/><name>Ἀπολλόδωρος</name> <name>Νυμφοδώρου</name>
+                    <lb n="4"/><name>Ἡράκλειος</name> <name>Ἡρακλείου</name> <name><abbr>Σαλ</abbr></name>
+                    <lb n="5"/><roleName type="civic" subtype="triakadarkos"><w>τριακάδαρχοι</w></roleName>
+                    <lb n="6"/><name>Φιλιστίων</name> <name>Νικάνδρου</name>
+                    <lb n="7"/><name>Νύμφων</name> <name>Λυσία</name>
+                    <lb n="8"/><name>Διονύσιος</name> <name>Ἵππωνος</name>
+                    <lb n="9"/><name>Νίκων</name> <name>Νίκωνος</name>
+                    <lb n="10"/><name>Ἕλωρις</name> <name>Ἡρακλείδα</name>
+                    <lb n="11"/><name>Θεόδωρος</name> <name>Εὐφραίου</name>
+                    <lb n="12"/><name>Εὐκλῆς</name> <name>Φιλάρχου</name> <cb n="2"/>
+                    <lb n="13"/><name>Ἀριστόμαχος</name> <gap reason="lost" extent="unknown" unit="character"/> <orig>ΙΙΥ</orig><gap reason="lost" extent="unknown" unit="character"/> <orig>ΙΙ</orig>
+                    <lb n="14"/><name>Νίκων</name> <name>Νυμφοδώρου</name>
+                    <lb n="15"/><roleName type="civic" subtype="grammateus"><w>γραμματεὺς</w></roleName>
+                    <lb n="16"/><w>καὶ</w> <roleName type="civic" subtype="phradater"><w>φραδατὴρ</w></roleName>
+                    <lb n="17"/><name>Ἀρχάγαθος</name> <name>Ἀρχαγάθου</name>
+                    <lb n="18"/><roleName type="civic" subtype="hypographeus"><w>ὑπογραφέες</w></roleName>
+                    <lb n="19"/><name><supplied reason="lost">Σ</supplied>ῶσις</name> <name>Παυσανία</name>
+                    <lb n="20"/><name>Ἀντικράτης</name> <name>Ἀρτέμωνος</name>
+                    <lb n="21"/><roleName type="civic" subtype="keryx"><w>κᾶρυξ</w></roleName>
+                    <lb n="22"/><name>Εὐφραῖος</name> <name>Εὐφραίου</name>
+                    <lb n="23"/><roleName type="civic" subtype="hyperetas"><w>ὑπηρέτας</w></roleName>
+                    <lb n="24"/><gap reason="lost" quantity="1" unit="line"/>
                 </ab>
             </div>
             <div type="apparatus">

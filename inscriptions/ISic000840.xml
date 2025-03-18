@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -192,12 +192,12 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/><expan><abbr>Θ</abbr><ex>εοῖς</ex></expan> <expan><abbr>Κ</abbr><ex>αταχθονίοις</ex></expan>
-                    <lb n="2"/>Ἀφροδισιὰς
-                    <lb n="3"/>Διονυσίου
-                    <lb n="4"/>χαῖ<supplied reason="lost">ρε</supplied> Φιλίστ<supplied reason="lost">η</supplied>
-                    <lb n="5"/>μήτηρ <supplied reason="lost">ἐποίησε</supplied>
-                    <lb n="6"/>ζησ<supplied reason="omitted">ά</supplied>σ<supplied reason="lost">ῃ</supplied><gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><w><expan><abbr>Θ</abbr><ex>εοῖς</ex></expan></w> <name><expan><abbr>Κ</abbr><ex>αταχθονίοις</ex></expan></name>
+                    <lb n="2"/><name>Ἀφροδισιὰς</name>
+                    <lb n="3"/><name>Διονυσίου</name>
+                    <lb n="4"/><w>χαῖ<supplied reason="lost">ρε</supplied></w> <name>Φιλίστ<supplied reason="lost">η</supplied></name>
+                    <lb n="5"/><w>μήτηρ</w> <w><supplied reason="lost">ἐποίησε</supplied></w>
+                    <lb n="6"/><w>ζησ<supplied reason="omitted">ά</supplied>σ<supplied reason="lost">ῃ</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="7"/><gap reason="lost" extent="1" unit="line"/>
                 </ab>
             </div>

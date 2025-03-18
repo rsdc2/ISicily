@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -170,30 +170,30 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <div type="textpart" subtype="section" n="1-3">
-                <ab>
-                    <lb n="1"/><supplied reason="lost">ε</supplied>νδα<supplied reason="lost">σι</supplied><gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="2"/><unclear>ἀ</unclear>μολ<supplied reason="lost">γ</supplied><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">ἐκ κάπου</supplied>
-                    <lb n="3"/>ἐλαυν<supplied reason="lost">ε</supplied><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">ὄνομα</supplied>
-                    <lb n="4"/>Τετ<unclear>ρ</unclear><supplied reason="lost" cert="low">αγος</supplied><gap reason="lost" extent="unknown" unit="character"/>ε ἀνε
-                    <lb n="5" break="no"/>μώλ<supplied reason="lost">ιος</supplied> <supplied reason="lost">ἀκτὰ</supplied> <gap reason="lost" extent="unknown" unit="character"/><orig>ΑΙΝ</orig> <supplied reason="lost">ὑ</supplied>δάτω
-                    <lb n="6" break="no"/>ν <w part="I">ιοσ</w><gap reason="lost" extent="unknown" unit="character"/> νει ὄλβιος
-                    <lb n="7"/>ᾧ κ<unclear>ε</unclear> <supplied reason="lost">ταδε</supplied> <gap reason="lost" extent="unknown" unit="character"/>  σει κατὰ δῶ
-                    <lb n="8"/>μα 'αι' <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">καὶ</supplied> <supplied reason="lost">φ</supplied>ρασὶν αὐτὸς ἔχηι
-                    <lb n="9"/>μακ<unclear>ά</unclear><supplied reason="lost">ρων</supplied><supplied reason="lost">κατ’</supplied> <supplied reason="lost">ἀμαξ</supplied><unclear>ε</unclear>τὸν αὐδ<unclear>ὰ</unclear>ν Δα
-                    <lb n="10" break="no"/>μνα<supplied reason="lost">μενεῦ</supplied> <supplied reason="lost">δάμασ</supplied>ον δὲ κακ<supplied reason="lost">ῶ</supplied>ς ἀ<unclear>έ</unclear>
-                    <lb n="11" break="no"/>κοντ<supplied reason="lost">ας</supplied> <supplied reason="lost">ἀνάγκαι</supplied> <gap reason="lost" extent="unknown" unit="character"/><orig>ΣΦΙΝ</orig> <orig>ΚΑΚ</orig><gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="12"/><gap reason="lost" extent="unknown" unit="character"/><orig><unclear>Λ</unclear>ΟΙΕΣ</orig><gap reason="lost" extent="unknown" unit="character"/>
-                </ab>
-            </div>
-            <div type="textpart" subtype="section" n="4">
-                <ab>
-                    <lb n="0a"/><gap reason="lost" unit="character" extent="unknown"/>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><orig>ΤΑ<unclear>Γ</unclear></orig><gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/>ΤΑΚ<gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/>ΡΑ<gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="0b"/><gap reason="lost" unit="character" extent="unknown"/>
-                </ab>
-            </div>
+                    <ab>
+                        <lb n="1"/><w><supplied reason="lost">ε</supplied>νδα<supplied reason="lost">σι</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
+                        <lb n="2"/><w><unclear>ἀ</unclear>μολ<supplied reason="lost">γ</supplied></w> <gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">ἐκ κάπου</supplied></w>
+                        <lb n="3"/><w>ἐλαυν<supplied reason="lost">ε</supplied></w> <gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">ὄνομα</supplied></w>
+                        <lb n="4"/><name>Τετ<unclear>ρ</unclear><supplied reason="lost" cert="low">αγος</supplied></name> <gap reason="lost" extent="unknown" unit="character"/> <w>ε</w> <w>ἀνε
+                        <lb n="5" break="no"/>μώλ<supplied reason="lost">ιος</supplied></w> <w><supplied reason="lost">ἀκτὰ</supplied></w> <gap reason="lost" extent="unknown" unit="character"/> <orig>ΑΙΝ</orig><w><supplied reason="lost">ὑ</supplied>δάτω
+                        <lb n="6" break="no"/>ν</w> <w part="I">ιοσ</w> <gap reason="lost" extent="unknown" unit="character"/> <w>νει</w> <w>ὄλβιος</w>
+                        <lb n="7"/><w>ᾧ</w> <w>κ<unclear>ε</unclear></w> <w><supplied reason="lost">ταδε</supplied></w> <gap reason="lost" extent="unknown" unit="character"/> <w>σει</w> <w>κατὰ</w> <w>δῶ</w>
+                        <lb n="8"/><w>μα</w> <name>'αι'</name> <gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">καὶ</supplied></w> <w><supplied reason="lost">φ</supplied>ρασὶν</w> <w>αὐτὸς</w> <w>ἔχηι</w>
+                        <lb n="9"/><w>μακ<unclear>ά</unclear><supplied reason="lost">ρων</supplied><supplied reason="lost">κατ’</supplied></w> <w><supplied reason="lost">ἀμαξ</supplied><unclear>ε</unclear>τὸν</w> <w>αὐδ<unclear>ὰ</unclear>ν</w> <name>Δα
+                        <lb n="10" break="no"/>μνα<supplied reason="lost">μενεῦ</supplied></name> <w><supplied reason="lost">δάμασ</supplied>ον</w> <w>δὲ</w> <w>κακ<supplied reason="lost">ῶ</supplied>ς</w> <w>ἀ<unclear>έ</unclear>
+                        <lb n="11" break="no"/>κοντ<supplied reason="lost">ας</supplied></w> <w><supplied reason="lost">ἀνάγκαι</supplied></w> <gap reason="lost" extent="unknown" unit="character"/> <orig>ΣΦΙΝ</orig><orig>ΚΑΚ</orig><gap reason="lost" extent="unknown" unit="character"/>
+                        <lb n="12"/><gap reason="lost" extent="unknown" unit="character"/> <orig><unclear>Λ</unclear>ΟΙΕΣ</orig><gap reason="lost" extent="unknown" unit="character"/>
+                    </ab>
+                </div>
+                <div type="textpart" subtype="section" n="4">
+                    <ab>
+                        <lb n="0a"/><gap reason="lost" unit="character" extent="unknown"/>
+                        <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <orig>ΤΑ<unclear>Γ</unclear></orig><gap reason="lost" extent="unknown" unit="character"/>
+                        <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w>ΤΑΚ</w> <gap reason="lost" extent="unknown" unit="character"/>
+                        <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <w>ΡΑ</w> <gap reason="lost" extent="unknown" unit="character"/>
+                        <lb n="0b"/><gap reason="lost" unit="character" extent="unknown"/>
+                    </ab>
+                </div>
                 </div>
             <div type="apparatus">
                 <listApp>

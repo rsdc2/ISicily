@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -193,12 +193,12 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
-                    <lb n="1"/>Dis <expan><abbr>Manib</abbr><ex>us</ex></expan> <g ref="#ivy-leaf">❦</g>
-                    <lb n="2"/><g ref="#ivy-leaf">❦</g> Epilanta
-                    <lb n="3" break="no"/><g ref="#ivy-leaf">❦</g>no <g ref="#ivy-leaf">❦</g> Patra <g ref="#ivy-leaf">❦</g>
-                    <lb n="4"/>Annius <g ref="#ivy-leaf">❦</g> Chry
-                    <lb n="5" break="no"/>santa · alumn<supplied reason="lost">o</supplied>
-                    <lb n="6"/><g ref="#ivy-leaf">❦</g> <expan><abbr>b</abbr><ex>ene</ex></expan> · <expan><abbr>m</abbr><ex>erenti</ex></expan> ·
+                    <lb n="1"/><w>Dis</w> <name><expan><abbr>Manib</abbr><ex>us</ex></expan></name> <g ref="#ivy-leaf">❦</g>
+                    <lb n="2"/><g ref="#ivy-leaf">❦</g> <name>Epilanta
+                    <lb n="3" break="no"/><g ref="#ivy-leaf">❦</g>no</name> <g ref="#ivy-leaf">❦</g> <name>Patra</name> <g ref="#ivy-leaf">❦</g>
+                    <lb n="4"/><name>Annius</name> <g ref="#ivy-leaf">❦</g> <name>Chry
+                    <lb n="5" break="no"/>santa</name> <g ref="#interpunct">·</g> <w>alumn<supplied reason="lost">o</supplied></w>
+                    <lb n="6"/><g ref="#ivy-leaf">❦</g> <w><expan><abbr>b</abbr><ex>ene</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>m</abbr><ex>erenti</ex></expan></w> <g ref="#interpunct">·</g>
                 </ab>
             </div>
             <div type="apparatus">

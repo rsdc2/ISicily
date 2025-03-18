@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -194,13 +194,13 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la">
                 <ab>
-                    <lb n="1"/>Depositus <g ref="#interpunct">·</g> Sporus <g ref="#interpunct">·</g> <num value="5">V</num> <g ref="#interpunct">·</g> <expan><abbr>Kal</abbr><ex>endas</ex></expan> <g ref="#interpunct">·</g> <expan><abbr>Ian</abbr><ex>uarias</ex></expan>
-                    <lb n="2"/>qui vixit annis <g ref="#interpunct">·</g> <num value="53">LIII</num> <g ref="#interpunct">·</g> Deo suo
-                    <lb n="3"/>devotus <g ref="#interpunct">·</g> Constantia con
-                    <lb n="4" break="no"/>iunx ob meritum eius <g ref="#interpunct">·</g> posuit <g ref="#interpunct">·</g>
-                    <lb n="5"/>cum qua convixit <g ref="#interpunct">·</g> annis <g ref="#interpunct">·</g> <num value="12">XII</num>
-                    <lb n="6"/>et decessit in pace <g ref="#interpunct">·</g> Constan
-                    <lb n="7" break="no"/>tio <g ref="#interpunct">·</g> <expan><abbr>Aug</abbr><ex>usto</ex></expan> <g ref="#interpunct">·</g> <num value="8">VIII</num> <g ref="#interpunct">·</g> et Iuliano <expan><abbr>Caes</abbr><ex>are</ex></expan> <g ref="#interpunct">·</g> <roleName type="supracivic" subtype="consul"><expan><abbr>cons</abbr><ex>ulibus</ex></expan></roleName>
+                    <lb n="1"/><w>Depositus</w> <g ref="#interpunct">·</g> <name>Sporus</name> <g ref="#interpunct">·</g> <num value="5">V</num> <g ref="#interpunct">·</g> <name><expan><abbr>Kal</abbr><ex>endas</ex></expan></name> <g ref="#interpunct">·</g> <name><expan><abbr>Ian</abbr><ex>uarias</ex></expan></name>
+                    <lb n="2"/><w>qui</w> <w>vixit</w> <w>annis</w> <g ref="#interpunct">·</g> <num value="53">LIII</num> <g ref="#interpunct">·</g> <name>Deo</name> <w>suo</w>
+                    <lb n="3"/><w>devotus</w> <g ref="#interpunct">·</g> <name>Constantia</name> <w>con
+                    <lb n="4" break="no"/>iunx</w> <w>ob</w> <w>meritum</w> <w>eius</w> <g ref="#interpunct">·</g> <w>posuit</w> <g ref="#interpunct">·</g>
+                    <lb n="5"/><w>cum</w> <w>qua</w> <w>convixit</w> <g ref="#interpunct">·</g> <w>annis</w> <g ref="#interpunct">·</g> <num value="12">XII</num>
+                    <lb n="6"/><w>et</w> <w>decessit</w> <w>in</w> <w>pace</w> <g ref="#interpunct">·</g> <name>Constan
+                    <lb n="7" break="no"/>tio</name> <g ref="#interpunct">·</g> <name><expan><abbr>Aug</abbr><ex>usto</ex></expan></name> <g ref="#interpunct">·</g> <num value="8">VIII</num> <g ref="#interpunct">·</g> <w>et</w> <name>Iuliano</name> <name><expan><abbr>Caes</abbr><ex>are</ex></expan></name> <g ref="#interpunct">·</g> <roleName type="supracivic" subtype="consul"><w><expan><abbr>cons</abbr><ex>ulibus</ex></expan></w></roleName>
                 </ab>
             </div>
             <div type="apparatus">

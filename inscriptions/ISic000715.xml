@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -193,14 +193,14 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#TNS">
                 <ab>
-                <lb n="1"/><supplied reason="lost"><g ref="#latincross">✝</g> Hic requ</supplied>iescunt pace filii <name><seg part="I">Te<unclear>l</unclear></seg><gap reason="lost" extent="unknown" unit="character"/></name>
-                <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost">sc</supplied>ribonis sacri <expan><abbr>pal</abbr><ex>atii</ex></expan> id est <unclear>r</unclear><gap reason="lost" extent="unknown" unit="character"/>
-                <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"><expan><abbr>ann</abbr><ex>orum</ex></expan></supplied> <num atLeast="9">X</num> <expan><abbr>m</abbr><ex>ensium</ex></expan> <num value="3">III</num> <name>Stefanus</name> <expan><abbr>ann</abbr><ex>orum</ex></expan> <num value="7"><foreign xml:lang="grc">ς</foreign>I</num> <expan><abbr><unclear>m</unclear></abbr><ex>ensium</ex></expan> <gap reason="lost" quantity="1" unit="character" precision="low"/> <supplied reason="lost">qui</supplied>
-                <lb n="4"/><supplied reason="lost">simul d</supplied>epositi <expan><abbr>m</abbr><ex>ense</ex></expan> Ianuario <expan><abbr>ind</abbr><ex>ictione</ex></expan> <gap reason="lost" quantity="1" unit="character" precision="low"/><supplied reason="lost"> Ne</supplied>
-                <lb n="5"/><supplied reason="lost">quis au</supplied>tem <choice><corr>hoc</corr><sic>hunc</sic></choice> sepulcrum i<supplied reason="lost">usse
-                <lb n="6" break="no"/>rit vel</supplied> <unclear>v</unclear>oluerit quoquo tempo<supplied reason="lost">re re
-                <lb n="7" break="no"/>movere</supplied> <unclear>c</unclear>um ipsis innocentisi<supplied reason="lost" cert="low">mis pu
-                <lb n="8" break="no"/>eris</supplied> <space extent="unknown" unit="character"/>
+                    <lb n="1"/><w><supplied reason="lost"><g ref="#latincross">✝</g>Hic requ</supplied>iescunt</w> <w>pace</w> <w>filii</w> <name><seg part="I">Te<unclear>l</unclear></seg><gap reason="lost" extent="unknown" unit="character"/></name>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">sc</supplied>ribonis</w> <w>sacri</w> <w><expan><abbr>pal</abbr><ex>atii</ex></expan></w> <w>id</w> <w>est</w> <w><unclear>r</unclear></w> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost"><expan><abbr>ann</abbr><ex>orum</ex></expan></supplied></w> <num atLeast="9">X</num> <w><expan><abbr>m</abbr><ex>ensium</ex></expan></w> <num value="3">III</num> <name>Stefanus</name> <w><expan><abbr>ann</abbr><ex>orum</ex></expan></w> <num value="7"><foreign xml:lang="grc">ς</foreign>I</num> <w><expan><abbr><unclear>m</unclear></abbr><ex>ensium</ex></expan></w> <gap reason="lost" quantity="1" unit="character" precision="low"/> <w><supplied reason="lost">qui</supplied></w>
+                    <lb n="4"/><w><supplied reason="lost">simul d</supplied>epositi</w> <w><expan><abbr>m</abbr><ex>ense</ex></expan></w> <name>Ianuario</name> <w><expan><abbr>ind</abbr><ex>ictione</ex></expan></w> <gap reason="lost" quantity="1" unit="character" precision="low"/> <name><supplied reason="lost">Ne</supplied></name>
+                    <lb n="5"/><w><supplied reason="lost">quis au</supplied>tem</w> <w><choice><corr>hoc</corr><sic>hunc</sic></choice></w> <w>sepulcrum</w> <w>i<supplied reason="lost">usse
+                    <lb n="6" break="no"/>rit vel</supplied></w> <w><unclear>v</unclear>oluerit</w> <w>quoquo</w> <w>tempo<supplied reason="lost">re re
+                    <lb n="7" break="no"/>movere</supplied></w> <w><unclear>c</unclear>um</w> <w>ipsis</w> <w>innocentisi<supplied reason="lost" cert="low">mis pu
+                    <lb n="8" break="no"/>eris</supplied></w> <space extent="unknown" unit="character"/>
                 </ab>
             </div>
             <div type="apparatus">

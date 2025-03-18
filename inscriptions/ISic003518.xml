@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -193,12 +193,12 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#DEE">
                 <ab>
-                    <lb n="1"/><w><supplied reason="lost">Dis</supplied></w> <w><supplied reason="lost">Ma</supplied>nibus</w>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><persName type="attested"><name type="nomen"><seg part="F">a</seg></name> <name type="patronym"><expan><abbr>Ti</abbr><ex>berii</ex></expan></name> <w><expan><abbr>f</abbr><ex>ilia</ex></expan></w></persName> <g ref="#interpunct"/> <w><expan><abbr>v</abbr><ex>ixit</ex></expan></w> <g ref="#interpunct"/> <w><expan><abbr>a</abbr><ex>nnis</ex></expan></w> <g ref="#interpunct"/> <num value="14">XIV</num> <g ref="#interpunct"/> <w><expan><abbr>m</abbr><ex>ensibus</ex></expan></w> <g ref="#interpunct"/> <num value="5">V</num>
-                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/><unclear>b</unclear><unclear>i</unclear><unclear>l</unclear><unclear>l</unclear><unclear>i</unclear> <orig>m</orig> <orig>r</orig>
-                    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/><w><supplied reason="lost">poste</supplied>risque</w> <g ref="#interpunct"/> <w>suis</w>
-                    <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/><w><unclear>a</unclear></w> <w>moneta</w> <g ref="#interpunct"/>
-                    <lb n="6"/><gap reason="lost" extent="unknown" unit="character"/><w><unclear>v</unclear>aleas</w>
+                    <lb n="1"/><w><supplied reason="lost">Dis</supplied></w> <name><supplied reason="lost">Ma</supplied>nibus</name>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="attested"><name type="nomen"><seg part="F">a</seg></name> <name type="patronym"><expan><abbr>Ti</abbr><ex>berii</ex></expan></name> <w><expan><abbr>f</abbr><ex>ilia</ex></expan></w></persName> <g ref="#interpunct"/> <w><expan><abbr>v</abbr><ex>ixit</ex></expan></w> <g ref="#interpunct"/> <w><expan><abbr>a</abbr><ex>nnis</ex></expan></w> <g ref="#interpunct"/> <num value="14">XIV</num> <g ref="#interpunct"/> <w><expan><abbr>m</abbr><ex>ensibus</ex></expan></w> <g ref="#interpunct"/> <num value="5">V</num>
+                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <w><unclear>b</unclear><unclear>i</unclear><unclear>l</unclear><unclear>l</unclear><unclear>i</unclear></w> <orig>m</orig><orig>r</orig>
+                    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">poste</supplied>risque</w> <g ref="#interpunct"/> <w>suis</w>
+                    <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/> <w><unclear>a</unclear></w> <w>moneta</w> <g ref="#interpunct"/>
+                    <lb n="6"/><gap reason="lost" extent="unknown" unit="character"/> <w><unclear>v</unclear>aleas</w>
                 </ab>
             </div>
             <div type="apparatus">

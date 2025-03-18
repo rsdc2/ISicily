@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -215,8 +215,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#TA #AA">
                 <ab>
-                    <lb n="1" xml:id="AQAAK"/><w xml:id="AQAAU"><expan xml:id="AQAAe"><abbr xml:id="AQAAo">d</abbr><ex xml:id="AQAAy">is</ex></expan></w> <w xml:id="AQAAΙ"><expan xml:id="AQAAΤ"><abbr xml:id="AQAAε">m</abbr><ex xml:id="AQAAο">anibus</ex></expan></w> 
-                    <lb n="2" xml:id="AQABA"/><persName type="attested" xml:id="AQABK"><name xml:id="AQABU">Cornelius</name> 
+                    <lb n="1" xml:id="AQAAK"/><w xml:id="AQAAU"><expan xml:id="AQAAe"><abbr xml:id="AQAAo">d</abbr><ex xml:id="AQAAy">is</ex></expan></w> <w xml:id="AQAAΙ"><expan xml:id="AQAAΤ"><abbr xml:id="AQAAε">m</abbr><ex xml:id="AQAAο">anibus</ex></expan></w>
+                    <lb n="2" xml:id="AQABA"/><persName type="attested" xml:id="AQABK"><name xml:id="AQABU">Cornelius</name>
                     <lb n="3" xml:id="AQABe"/><name xml:id="AQABo">Acathobu
                     <lb n="4" break="no" xml:id="AQABy"/>s</name></persName> <w xml:id="AQABΙ"><expan xml:id="AQABΤ"><abbr xml:id="AQABε">vix</abbr><ex xml:id="AQABο">it</ex></expan></w> <w xml:id="AQACA"><expan xml:id="AQACK"><abbr xml:id="AQACU">ann</abbr><ex xml:id="AQACe">is</ex></expan></w> <num value="55" xml:id="AQACo">LV</num>
                 </ab>

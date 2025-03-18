@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -184,41 +184,41 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#MB">
                 <div type="textpart" subtype="section" n="a">
-                <ab>
-                    <milestone unit="face" subtype="recto"/>
-                    <lb n="1"/>τὰν <persName type="attested"><name>Εὐκλέος</name></persName> τὀδειμάν<unclear>τ</unclear>ο
-                    <lb n="2"/><unclear>τ</unclear>ὰν <choice><orig>γλλο͂σαν</orig><reg>γλο͂σσαν</reg></choice> καταγ<supplied reason="omitted">ρ</supplied>άφο hὸς μ<unclear>ε</unclear>
-                    <lb n="3" break="no"/>δὲν <orig><unclear>ϘΦΗ</unclear></orig> <persName type="attested"><name><unclear>Μ</unclear>έστορι</name></persName> ὀφελεσ<supplied reason="omitted">ε</supplied>ῖ
-                    <lb n="4"/><unclear>τ</unclear>ὰν <persName type="attested"><name>Σιμία</name></persName> το͂ <persName type="attested"><name>Μι<unclear>ϙ</unclear>ύθο</name></persName> <choice><orig>γλο͂σα
-                    <lb n="5" break="no"/>ν</orig><reg>γλο͂σσαν</reg></choice> καταγράφο hὸς μεδὲν <persName type="attested"><name><unclear>Μ</unclear>έ
-                    <lb n="6" break="no"/><unclear>σ</unclear>τορι</name></persName> ὀφελεσεῖ τὰν <persName type="attested"><name>Πιθαϙο</name></persName> τ
-                    <lb n="7" break="no"/><unclear>ο͂</unclear> <orig>Λ</orig><gap reason="illegible" quantity="3" unit="character"/>όο τὰν <choice><orig>γλο͂σαν</orig><reg>γλο͂σσαν</reg></choice> κατ
-                    <lb n="8" break="no"/>αγράφο hὸς μεδὲν <persName type="attested"><name><unclear>Μ</unclear>έστ<unclear>ο</unclear>
-                    <lb n="9" break="no"/>ρι</name></persName> ὀφελεσ<unclear>ε</unclear><supplied reason="lost">ῖ</supplied> τὰν <gap reason="illegible" quantity="3" unit="character"/><unclear>φ</unclear>ο τό <orig><unclear>ΡΛΙΛ</unclear></orig>
-                    <lb n="10" break="no"/>πο τὰν <choice><orig>γλο͂σαν</orig><reg>γλο͂σσαν</reg></choice> καταγρά<unclear>φο</unclear>
-                    <lb n="11"/>hὸς μεδὲν <persName type="attested"><name>Μ<unclear>έ</unclear>στορι</name></persName> ὀφ<unclear>ε</unclear>λ<unclear>εσεῖ</unclear>
-                    <lb n="12"/><persName type="attested"><name>Φιλόνδαν</name></persName> τὸν <persName type="attested"><name><unclear>Χ</unclear>οιρίνα</name></persName> <unclear>κα</unclear><surplus><unclear>ιχ</unclear></surplus>τ<unclear>α</unclear>
-                    <lb n="13" break="no"/><surplus><unclear>α</unclear></surplus>γράφο καὶ <persName type="attested"><name><supplied reason="lost">Π</supplied>ο<supplied reason="lost">λυ</supplied>κλ<supplied reason="lost">έ</supplied><unclear>α</unclear></name></persName> <unclear>h</unclear>οὶ μ
-                    <lb n="14" break="no"/><supplied reason="lost">ε</supplied><unclear>δὲν</unclear> <persName type="attested"><name><unclear>Μέσ</unclear>τορ<unclear>ι</unclear></name></persName> <unclear>ὀφ</unclear><supplied reason="lost">ελεσέ</supplied>
-                    <lb n="15" break="no"/><unclear>ον</unclear><supplied reason="lost">τι</supplied>
-                </ab>
-            </div>
+                    <ab>
+                        <milestone unit="face" subtype="recto"/>
+                        <lb n="1"/><w>τὰν</w> <persName type="attested"><name>Εὐκλέος</name></persName> <w>τὀδειμάν<unclear>τ</unclear>ο</w>
+                        <lb n="2"/><w><unclear>τ</unclear>ὰν</w> <w><choice><orig>γλλο͂σαν</orig><reg>γλο͂σσαν</reg></choice></w> <w>καταγ<supplied reason="omitted">ρ</supplied>άφο</w> <w>hὸς</w> <w>μ<unclear>ε</unclear>
+                        <lb n="3" break="no"/>δὲν</w> <orig><unclear>ϘΦΗ</unclear></orig><persName type="attested"><name><unclear>Μ</unclear>έστορι</name></persName> <w>ὀφελεσ<supplied reason="omitted">ε</supplied>ῖ</w>
+                        <lb n="4"/><w><unclear>τ</unclear>ὰν</w> <persName type="attested"><name>Σιμία</name></persName> <w>το͂</w> <persName type="attested"><name>Μι<unclear>ϙ</unclear>ύθο</name></persName> <w><choice><orig>γλο͂σα
+                        <lb n="5" break="no"/>ν</orig><reg>γλο͂σσαν</reg></choice></w> <w>καταγράφο</w> <w>hὸς</w> <w>μεδὲν</w> <persName type="attested"><name><unclear>Μ</unclear>έ
+                        <lb n="6" break="no"/><unclear>σ</unclear>τορι</name></persName> <w>ὀφελεσεῖ</w> <w>τὰν</w> <persName type="attested"><name>Πιθαϙο</name></persName> <w>τ
+                        <lb n="7" break="no"/><unclear>ο͂</unclear></w> <orig>Λ</orig><gap reason="illegible" quantity="3" unit="character"/> <w>όο</w> <w>τὰν</w> <w><choice><orig>γλο͂σαν</orig><reg>γλο͂σσαν</reg></choice></w> <w>κατ
+                        <lb n="8" break="no"/>αγράφο</w> <w>hὸς</w> <w>μεδὲν</w> <persName type="attested"><name><unclear>Μ</unclear>έστ<unclear>ο</unclear>
+                        <lb n="9" break="no"/>ρι</name></persName> <w>ὀφελεσ<unclear>ε</unclear><supplied reason="lost">ῖ</supplied></w> <w>τὰν</w> <gap reason="illegible" quantity="3" unit="character"/> <w><unclear>φ</unclear>ο</w> <w>τό</w> <orig><unclear>ΡΛΙΛ</unclear></orig><w>
+                        <lb n="10" break="no"/>πο</w> <w>τὰν</w> <w><choice><orig>γλο͂σαν</orig><reg>γλο͂σσαν</reg></choice></w> <w>καταγρά<unclear>φο</unclear></w>
+                        <lb n="11"/><w>hὸς</w> <w>μεδὲν</w> <persName type="attested"><name>Μ<unclear>έ</unclear>στορι</name></persName> <w>ὀφ<unclear>ε</unclear>λ<unclear>εσεῖ</unclear></w>
+                        <lb n="12"/><persName type="attested"><name>Φιλόνδαν</name></persName> <w>τὸν</w> <persName type="attested"><name><unclear>Χ</unclear>οιρίνα</name></persName> <w><unclear>κα</unclear><surplus><unclear>ιχ</unclear></surplus>τ<unclear>α</unclear>
+                        <lb n="13" break="no"/><surplus><unclear>α</unclear></surplus>γράφο</w> <w>καὶ</w> <persName type="attested"><name><supplied reason="lost">Π</supplied>ο<supplied reason="lost">λυ</supplied>κλ<supplied reason="lost">έ</supplied><unclear>α</unclear></name></persName> <w><unclear>h</unclear>οὶ</w> <w>μ
+                        <lb n="14" break="no"/><supplied reason="lost">ε</supplied><unclear>δὲν</unclear></w> <persName type="attested"><name><unclear>Μέσ</unclear>τορ<unclear>ι</unclear></name></persName> <w><unclear>ὀφ</unclear><supplied reason="lost">ελεσέ</supplied>
+                        <lb n="15" break="no"/><unclear>ον</unclear><supplied reason="lost">τι</supplied></w>
+                    </ab>
+                </div>
                 <div type="textpart" subtype="section" n="b">
-                <ab>
-                    <milestone unit="face" subtype="verso"/>
-                    <lb n="1"/>τὰν <persName type="attested"><name>Μέστορος</name></persName> το͂ <persName type="attested"><name>Ϝ
-                    <lb n="2" break="no"/>ικέλο</name></persName> τὰν <choice><reg>γλο͂σσαν</reg><orig>γλο͂σαν</orig></choice> <unclear>κ</unclear>
-                    <lb n="3" break="no"/>αταγράφο τὸς <unclear>φιλ</unclear><supplied reason="lost">ος</supplied>
-                    <lb n="4"/><persName type="attested"><name><unclear>Ϝ</unclear>ι<unclear>κ</unclear>έλο</name></persName> πάντας <choice><reg>γλόσσ
-                    <lb n="5" break="no"/>ας</reg><orig>γλόσας</orig></choice> καταγράφο τὰ<surplus>ι</surplus><supplied reason="omitted">ς</supplied> <choice><orig>γλόσ
-                    <lb n="6" break="no"/><unclear>ας</unclear></orig><reg>γλόσσ<unclear>ας</unclear></reg></choice> hος μ<supplied reason="omitted">εδ</supplied>ὲν <persName type="attested"><name>Μέστορι</name></persName> ὀ
-                    <lb n="7" break="no"/>φε<unclear>λ</unclear>έσ<unclear>ο</unclear>ντι κἀρχέστρα
-                    <lb n="8" break="no"/>το<supplied reason="omitted">ν</supplied> τὸν <persName type="attested"><name>Αἰσχίνα</name></persName> καταγ
-                    <lb n="9" break="no"/>ράφο ἀντ' <unclear>h</unclear>ο͂ν <choice><orig>γλ<unclear>όσα</unclear>
-                    <lb n="10" break="no"/><unclear>ι</unclear>ς</orig><reg>γλόσσαις</reg></choice> <persName type="attested"><name><unclear>Μέστο</unclear>ρι</name></persName> <unclear>ὀ</unclear><supplied reason="lost">φ</supplied><unclear>εί</unclear>
-                    <lb n="11" break="no"/>λ<supplied reason="lost">ε</supplied>σα<unclear>ν</unclear>
-                </ab>
-            </div>
+                    <ab>
+                        <milestone unit="face" subtype="verso"/>
+                        <lb n="1"/><w>τὰν</w> <persName type="attested"><name>Μέστορος</name></persName> <w>το͂</w> <persName type="attested"><name>Ϝ
+                        <lb n="2" break="no"/>ικέλο</name></persName> <w>τὰν</w> <w><choice><reg>γλο͂σσαν</reg><orig>γλο͂σαν</orig></choice></w> <w><unclear>κ</unclear>
+                        <lb n="3" break="no"/>αταγράφο</w> <w>τὸς</w> <w><unclear>φιλ</unclear><supplied reason="lost">ος</supplied></w>
+                        <lb n="4"/><persName type="attested"><name><unclear>Ϝ</unclear>ι<unclear>κ</unclear>έλο</name></persName> <w>πάντας</w> <w><choice><reg>γλόσσ
+                        <lb n="5" break="no"/>ας</reg><orig>γλόσας</orig></choice></w> <w>καταγράφο</w> <w>τὰ<surplus>ι</surplus><supplied reason="omitted">ς</supplied></w> <w><choice><orig>γλόσ
+                        <lb n="6" break="no"/><unclear>ας</unclear></orig><reg>γλόσσ<unclear>ας</unclear></reg></choice></w> <w>hος</w> <w>μ<supplied reason="omitted">εδ</supplied>ὲν</w> <persName type="attested"><name>Μέστορι</name></persName> <w>ὀ
+                        <lb n="7" break="no"/>φε<unclear>λ</unclear>έσ<unclear>ο</unclear>ντι</w> <w>κἀρχέστρα
+                        <lb n="8" break="no"/>το<supplied reason="omitted">ν</supplied></w> <w>τὸν</w> <persName type="attested"><name>Αἰσχίνα</name></persName> <w>καταγ
+                        <lb n="9" break="no"/>ράφο</w> <w>ἀντ'</w> <w><unclear>h</unclear>ο͂ν</w> <w><choice><orig>γλ<unclear>όσα</unclear>
+                        <lb n="10" break="no"/><unclear>ι</unclear>ς</orig><reg>γλόσσαις</reg></choice></w> <persName type="attested"><name><unclear>Μέστο</unclear>ρι</name></persName> <w><unclear>ὀ</unclear><supplied reason="lost">φ</supplied><unclear>εί</unclear>
+                        <lb n="11" break="no"/>λ<supplied reason="lost">ε</supplied>σα<unclear>ν</unclear></w>
+                    </ab>
+                </div>
                 </div>
             <div type="apparatus">
                 <listApp><app><note>Text of Bettarini 2005 n.13</note></app></listApp>

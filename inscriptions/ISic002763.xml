@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -188,62 +188,32 @@
         <body>
             <div type="edition" xml:space="preserve" subtype="PHI" n="PHI332960">
                 <ab>
-                    <lb n="1"/>
-
-
-                     ☩ πρὸς ε<supplied reason="omitted">ὐ</supplied>καρ-<lb n="2"/> πήα<supplied reason="omitted">ν</supplied>, χουρίον <surplus>²⁶χωρίων</surplus>²⁶ (καὶ) κλα-<lb n="3"/>
-                    ρίον ἄνγελος τοῦ
-                    <expan>
-                        <abbr>θ</abbr>
-                        <ex>εο</ex>
-                        <abbr>ῦ</abbr>
-                    </expan>
-                    <lb n="4"/> ὁ
-                    <expan>
-                        <abbr>Κρα</abbr>
-                        <ex>υίλ</ex>
-                    </expan>
-                    , Μαμιλανφιναηλ,<lb n="5"/> Λουιλ, Ἀμεγα ὡ
-                    <expan>
-                        <abbr>θ</abbr>
-                        <ex>εὸς</ex>
-                    </expan>
-                    <expan>
-                        <abbr>Κρεφι</abbr>
-                        <ex>ήλ</ex>
-                    </expan>
-                    ,<lb n="6"/>Φακτω Εδανεμουὴλ Μου<lb n="7"/>μουκαθαλλουιχανδα<lb n="8"/>εεις δραμελ γιάμεν σε,<lb n="9"/>Ἰεσοῦ
-                    <expan>
-                        <abbr>Χ</abbr>
-                        <ex>ρι</ex>
-                        <abbr>στέ</abbr>
-                    </expan>
-                    , <supplied reason="omitted">δ</supplied>ὸς τὸν καρ-<lb n="10"/>πὸν κὲ τὶν ἰσφορὰν ἰς τὸν<lb n="11"/>ἄνπελον ἅ<supplied reason="omitted">μ</supplied>α, τοῦ καρποῦ<lb n="12"/>σίτου κὲ ὔνου <surplus>
-                    ²⁶οἴνου</surplus>²⁶ (καὶ) ἐλέου <surplus>²⁶ἐλαίου</surplus>²⁶ τοῦ<lb n="13"/>Πέτρο<surplus>
-                    ο</surplus>υ <surplus>²⁶Πέτρου</surplus>²⁶, ποῦ κῖτε τοὺ φυλα-<lb n="14"/>κτήριον τοῦτου συνολον ο
-                    <supplied reason="lost">— —</supplied>
-                    <lb n="15"/>
-                    <supplied reason="lost">— —</supplied>τητο κτήσαντα Μιχαήλ,<lb n="16"/>
-                    <supplied reason="lost">Γ</supplied>αβριαύλ, Οὐριήλ, Ῥαφαὴλ<lb n="17"/> τὸν Μισχουτον,
-                    τὸν <supplied reason="omitted">δ</supplied>υνατὸν<lb n="18"/> τ<unclear>ης</unclear> χάριν ἰς τὴν
-                    σῦν, θε-<lb n="19"/> έ, ἥν’ ἀποῦ καρποῦ (καὶ) ἐλέ-<lb n="20"/> ου κὲ ὔνου<lb n="21"/>
-                    ἐλεο͂να, τὸν ἀν-<lb n="22"/>πελο͂να τοῦ Πέτρου,<lb n="23"/>πλίθυνον, πλύθυ-<lb n="24"/> νον
-                    <expan>
-                        <abbr>νῦ</abbr>
-                        <ex>ν</ex>
-                    </expan>
-                    <expan>
-                        <abbr>Κ</abbr>
-                        <ex>ύριε</ex>
-                    </expan>
-                    Ἰεσοῦ
-                    <lb n="25"/>
-                    <expan>
-                        <abbr>Χ</abbr>
-                        <ex>ρι</ex>
-                        <abbr>στέ</abbr>
-                    </expan>
-                    , νὲ ἀμέν.<lb n="26"/> ☩
+                    <lb n="1"/><w>☩</w> <w>πρὸς</w> <w>ε<supplied reason="omitted">ὐ</supplied>καρ-</w>
+                    <lb n="2"/><w>πήα<supplied reason="omitted">ν</supplied>,</w> <w>χουρίον</w> <name><surplus>²⁶χωρίων</surplus>²⁶</name> <name>(καὶ)</name> <w>κλα-</w>
+                    <lb n="3"/><w>ρίον</w> <w>ἄνγελος</w> <w>τοῦ</w> <w><expan><abbr>θ</abbr><ex>εο</ex><abbr>ῦ</abbr></expan></w>
+                    <lb n="4"/><w>ὁ</w> <name><expan><abbr>Κρα</abbr><ex>υίλ</ex></expan></name> <name>,</name> <name>Μαμιλανφιναηλ,</name>
+                    <lb n="5"/><name>Λουιλ,</name> <name>Ἀμεγα</name> <w>ὡ</w> <w><expan><abbr>θ</abbr><ex>εὸς</ex></expan></w> <name><expan><abbr>Κρεφι</abbr><ex>ήλ</ex></expan></name> <name>,</name>
+                    <lb n="6"/><name>Φακτω</name> <name>Εδανεμουὴλ</name> <name>Μου</name>
+                    <lb n="7"/><w>μουκαθαλλουιχανδα</w>
+                    <lb n="8"/><w>εεις</w> <w>δραμελ</w> <w>γιάμεν</w> <w>σε,</w>
+                    <lb n="9"/><name>Ἰεσοῦ</name> <name><expan><abbr>Χ</abbr><ex>ρι</ex><abbr>στέ</abbr></expan></name> <name>,</name> <w><supplied reason="omitted">δ</supplied>ὸς</w> <w>τὸν</w> <w>καρ-</w>
+                    <lb n="10"/><w>πὸν</w> <w>κὲ</w> <w>τὶν</w> <w>ἰσφορὰν</w> <w>ἰς</w> <w>τὸν</w>
+                    <lb n="11"/><w>ἄνπελον</w> <w>ἅ<supplied reason="omitted">μ</supplied>α,</w> <w>τοῦ</w> <w>καρποῦ</w>
+                    <lb n="12"/><w>σίτου</w> <w>κὲ</w> <w>ὔνου</w> <name><surplus>²⁶οἴνου</surplus>²⁶</name> <name>(καὶ)</name> <w>ἐλέου</w> <name><surplus>²⁶ἐλαίου</surplus>²⁶</name> <w>τοῦ</w>
+                    <lb n="13"/><name>Πέτρο<surplus>ο</surplus>υ</name> <w><surplus>²⁶Πέτρου</surplus>²⁶,</w> <w>ποῦ</w> <w>κῖτε</w> <w>τοὺ</w> <w>φυλα-</w>
+                    <lb n="14"/><w>κτήριον</w> <w>τοῦτου</w> <w>συνολον</w> <w>ο</w> <name><supplied reason="lost">— —</supplied></name>
+                    <lb n="15"/><name><supplied reason="lost">— —</supplied>τητο</name> <w>κτήσαντα</w> <name>Μιχαήλ,</name>
+                    <lb n="16"/><name><supplied reason="lost">Γ</supplied>αβριαύλ,</name> <name>Οὐριήλ,</name> <name>Ῥαφαὴλ</name>
+                    <lb n="17"/><w>τὸν</w> <name>Μισχουτον,</name> <w>τὸν</w> <w><supplied reason="omitted">δ</supplied>υνατὸν</w>
+                    <lb n="18"/><w>τ<unclear>ης</unclear></w> <w>χάριν</w> <w>ἰς</w> <w>τὴν</w> <w>σῦν,</w> <w>θε-</w>
+                    <lb n="19"/><w>έ,</w> <w>ἥν’</w> <w>ἀποῦ</w> <w>καρποῦ</w> <name>(καὶ)</name> <w>ἐλέ-</w>
+                    <lb n="20"/><w>ου</w> <w>κὲ</w> <w>ὔνου</w>
+                    <lb n="21"/><w>ἐλεο͂να,</w> <w>τὸν</w> <w>ἀν-</w>
+                    <lb n="22"/><w>πελο͂να</w> <w>τοῦ</w> <name>Πέτρου,</name>
+                    <lb n="23"/><w>πλίθυνον,</w> <w>πλύθυ-</w>
+                    <lb n="24"/><w>νον</w> <w><expan><abbr>νῦ</abbr><ex>ν</ex></expan></w> <name><expan><abbr>Κ</abbr><ex>ύριε</ex></expan></name> <name>Ἰεσοῦ</name>
+                    <lb n="25"/><name><expan><abbr>Χ</abbr><ex>ρι</ex><abbr>στέ</abbr></expan></name> <name>,</name> <w>νὲ</w> <w>ἀμέν.</w>
+                    <lb n="26"/><name>☩</name>
                     <lb n="27"/>
                 </ab>
             </div>
@@ -253,7 +223,7 @@
 
 
                      <surplus>²charaktér</surplus>² πρὸς ἐνκαρ-<lb n="2"/> πήα<supplied reason="omitted">
-                    ν</supplied>, χουρίον <surplus>²⁶χωρίων</surplus>²⁶ (κὲ) κλα-<lb n="3"/> ρίον ἄνγελος τοῦ
+                    ν</supplied>, χουρίον  <surplus>²⁶χωρίων</surplus>²⁶ (κὲ) κλα-<lb n="3"/> ρίον ἄνγελος τοῦ
                     <expan>
                         <abbr>θ</abbr>
                         <ex>εο</ex>
@@ -271,11 +241,11 @@
                         <abbr>έ</abbr>
                     </expan>
                     τε, δὸς τὸν καρ-<lb n="10"/>πὸν κὲ τὶν ἰσφορὰν ἰς τὸν<lb n="11"/>ἀνπελο͂ναν ἀποὺ καρποῦ<lb n="12"/>σίτου κὲ ὔνου (κὲ) ἐλέου τοῦ<lb n="13"/>Πέτρο<supplied reason="omitted">υ</supplied>,
-                    οὕπου κῖτε τοὺ φυλα-<lb n="14"/>κτήριον τοῦτου εω
+                    οὕπου κῖτε τοὺ φυλα- <lb n="14"/>κτήριον τοῦτου εω
                     <supplied reason="lost">— — —</supplied>
-                    <lb n="15"/>
-                    <supplied reason="lost">— —</supplied>τητο κτήσαντα Μιχαὴλ<lb n="16"/>
-                    <supplied reason="lost">Γ</supplied>αβριάυλ, Οὐριήλ, Ῥαφαὴλ<lb n="17"/> τὸν Μισχοῦτον, τὸν
+                     <lb n="15"/>
+                    <supplied reason="lost">— —</supplied>τητο κτήσαντα Μιχαὴλ <lb n="16"/>
+                    <supplied reason="lost">Γ</supplied>αβριάυλ, Οὐριήλ, Ῥαφαὴλ <lb n="17"/> τὸν Μισχοῦτον, τὸν
                     δυνατὸν<lb n="18"/> δὸς χάριν ἰς τὴν σύνθε-<lb n="19"/> σην ἀποὺ καρποῦ<lb n="20"/>
                      σίτου (κὲ) ὔνου (κὲ) ἐλέ-<lb n="21"/> ου<lb n="22"/>
                     <lb n="23"/> ἐλεο͂να, τὸν ἀν-<lb n="24"/>πελο͂να τοῦ Πέτρου<lb n="25"/>πλίθυνον, πλύθυ-<lb n="26"/> νον

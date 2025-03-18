@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -208,50 +208,11 @@
         <body>
             <div type="edition" xml:space="preserve" subtype="EDR" n="EDR074417" xml:lang="la">
                 <ab>
-                    <lb n="1"/>
-                    <expan>
-                        <abbr>C</abbr>
-                        <ex>aio</ex>
-                    </expan>
-                    Mevio
-                    <expan>
-                        <abbr>
-                            Q
-                        </abbr>
-                        <ex>uinti</ex>
-                    </expan>
-                    <expan>
-                        <abbr>
-                            f
-                        </abbr>
-                        <ex>ilio</ex>
-                    </expan>
-                    Donato<lb n="2"/>Iuniano
-                    <roleName type="supracivic" subtype="quaestor.pro.praetore"><expan>
-                        <abbr>q</abbr>
-                        <ex>uaestori</ex>
-                    </expan>
-                    pro
-                    <expan>
-                        <abbr>pr</abbr>
-                        <ex>aetore</ex>
-                    </expan></roleName>
-                    <lb n="3"/>
-                    <expan>
-                        <abbr>provinc</abbr>
-                        <ex>iae</ex>
-                    </expan>
-                    Siciliae<lb n="4"/>optimo et
-                    <expan>
-                        <abbr>humaniss</abbr>
-                        <ex>imo</ex>
-                    </expan>
-                    <lb n="5"/>XII
-                    <expan>
-                        <abbr>trib</abbr>
-                        <ex>us</ex>
-                    </expan>
-                    <roleName type="paracivic" subtype="patronus">patrono</roleName>
+                    <lb n="1"/><w><expan><abbr>C</abbr><ex>aio</ex></expan></w> <name>Mevio</name> <name><expan><abbr>Q</abbr><ex>uinti</ex></expan></name> <w><expan><abbr>f</abbr><ex>ilio</ex></expan></w> <name>Donato</name>
+                    <lb n="2"/><name>Iuniano</name> <roleName type="supracivic" subtype="quaestor.pro.praetore"><w><expan><abbr>q</abbr><ex>uaestori</ex></expan></w> <w>pro</w> <w><expan><abbr>pr</abbr><ex>aetore</ex></expan></w></roleName>
+                    <lb n="3"/><w><expan><abbr>provinc</abbr><ex>iae</ex></expan></w> <name>Siciliae</name>
+                    <lb n="4"/><w>optimo</w> <w>et</w> <w><expan><abbr>humaniss</abbr><ex>imo</ex></expan></w>
+                    <lb n="5"/><w>XII</w> <w><expan><abbr>trib</abbr><ex>us</ex></expan></w> <roleName type="paracivic" subtype="patronus"><w>patrono</w></roleName>
                 </ab>
                 <!--This EDR text 074417 originally came via the Europeana EAGLE project, http://www.eagle-network.eu/-->
             </div>

@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -189,24 +189,24 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve">
-                <ab><lb n="1"/>Super lo
-                    <lb n="2" break="no"/>cellum, u
-                    <lb n="3" break="no"/>bi iaceo e
-                    <lb n="4" break="no"/>go virgo
-                    <lb n="5"/>nomi
-                    <lb n="6" break="no"/>ne Zoe
-                    <lb n="7"/>annorum
-                    <lb n="8"/>quinquaginta
-                    <lb n="9"/>menses VI
-                    <lb n="10"/>adiura
-                    <lb n="11" break="no"/>te per de
-                    <lb n="12" break="no"/>um et infero
-                    <lb n="13" break="no"/>s: nemi
-                    <lb n="14" break="no"/>ni lice
-                    <lb n="15" break="no"/>at aperir
-                    <supplied reason="lost">e</supplied>
-                    <lb n="16"/>cupa
-                    <lb n="17" break="no"/>m
+                <ab>
+                    <lb n="1"/><w>Super</w> <w>lo
+                    <lb n="2" break="no"/>cellum,</w> <w>u
+                    <lb n="3" break="no"/>bi</w> <w>iaceo</w> <w>e
+                    <lb n="4" break="no"/>go</w> <w>virgo</w>
+                    <lb n="5"/><w>nomi
+                    <lb n="6" break="no"/>ne</w> <name>Zoe</name>
+                    <lb n="7"/><w>annorum</w>
+                    <lb n="8"/><w>quinquaginta</w>
+                    <lb n="9"/><w>menses</w> <w>VI</w>
+                    <lb n="10"/><w>adiura
+                    <lb n="11" break="no"/>te</w> <w>per</w> <w>de
+                    <lb n="12" break="no"/>um</w> <w>et</w> <w>infero
+                    <lb n="13" break="no"/>s:</w> <w>nemi
+                    <lb n="14" break="no"/>ni</w> <w>lice
+                    <lb n="15" break="no"/>at</w> <w>aperir</w> <w><supplied reason="lost">e</supplied></w>
+                    <lb n="16"/><w>cupa
+                    <lb n="17" break="no"/>m</w>
                 </ab>
             </div>
             <div type="apparatus">

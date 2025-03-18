@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>                                                
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xmlns:xi="http://www.w3.org/2001/XInclude">
+<?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -77,7 +77,7 @@
                                 <condition ana="#condition.fragment"/>
                             </supportDesc>
                             <layoutDesc>
-                                <layout><p></p>
+                                <layout><p/>
                                     <rs ana="#execution.chiselled" ref="http://www.eagle-network.eu/voc/writing/lod/1">chiselled</rs>
                                     <damage ana="#text_condition.incomplete"/>
 			</layout>
@@ -107,7 +107,7 @@
                         </origin>
                         <provenance type="found" subtype="discovered">Catacomb of San Giovanni</provenance>
                         <provenance type="observed" subtype="autopsied">none</provenance>
-                        <acquisition></acquisition>
+                        <acquisition/>
                     </history>
                 </msDesc>
             </sourceDesc>
@@ -171,10 +171,10 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
                     <lb n="0"/><gap reason="lost" extent="unknown" unit="line"/>
-                    <lb n="1"/>ἔζησ 
-                    <lb n="2" break="no"/>η ἔτη
+                    <lb n="1"/><w>ἔζησ
+                    <lb n="2" break="no"/>η</w> <w>ἔτη</w>
                     <lb n="3"/><num value="30">λ</num>
-                 </ab>
+                </ab>
             </div>
             <div type="apparatus" resp="#JP">
                 <listApp>

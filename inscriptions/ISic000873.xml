@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -193,8 +193,8 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
                     <lb n="0"/><gap reason="lost" extent="1" unit="line"/>
-                    <lb n="1"/>ὤλετ<supplied reason="lost">ο</supplied><supplied reason="lost">·</supplied> <supplied reason="lost">πον</supplied>τοπόροις θυμὸ<supplied reason="lost">ν</supplied> <supplied reason="lost">τέρ</supplied>ψασα δ’ ἀηδὼν
-                    <lb n="2"/>ἀθαν<supplied reason="lost">άτη</supplied>ς κόλπωι Κύπρι<supplied reason="lost">δος</supplied> <supplied reason="lost">ἀ</supplied>ισομένη
+                    <lb n="1"/><w>ὤλετ<supplied reason="lost">ο</supplied><supplied reason="lost">·</supplied></w> <w><supplied reason="lost">πον</supplied>τοπόροις</w> <w>θυμὸ<supplied reason="lost">ν</supplied></w> <w><supplied reason="lost">τέρ</supplied>ψασα</w> <w>δ’</w> <w>ἀηδὼν</w>
+                    <lb n="2"/><w>ἀθαν<supplied reason="lost">άτη</supplied>ς</w> <w>κόλπωι</w> <name>Κύπρι<supplied reason="lost">δος</supplied></name> <w><supplied reason="lost">ἀ</supplied>ισομένη</w>
                 </ab>
             </div>
             <div type="apparatus">

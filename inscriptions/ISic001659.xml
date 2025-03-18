@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -190,10 +190,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#VM">
                 <ab>
-                    <lb n="1"/><g ref="#cross_uninterpreted">☩</g> ἐνθά<supplied reason="lost">δε</supplied> <supplied reason="lost">κῖτε</supplied> <supplied reason="lost">ἡ</supplied> <supplied reason="lost">καλῆς</supplied>
-                    <lb n="2"/>μνή<hi rend="ligature">μης</hi> <unclear>ἔ</unclear><supplied reason="lost">ζησεν</supplied> <supplied reason="lost">ἔτη</supplied>
-                    <lb n="3"/><num value="60"><hi rend="supraline">Ξ</hi></num> <orig><hi rend="supraline">Π</hi></orig> <orig><hi rend="supraline">Η</hi></orig> ἐ<unclear>τ</unclear><supplied reason="lost">ελεύτησεν</supplied>
-                    <lb n="4"/><orig>ΑΥΓ<hi rend="small">Σ</hi></orig> <roleName type="supracivic" subtype="consul"><expan><abbr>ὑ<hi rend="stacked">π</hi></abbr><ex>ατίᾳ</ex></expan></roleName> <orig>Μ</orig>
+                    <lb n="1"/><g ref="#cross_uninterpreted">☩</g> <w>ἐνθά<supplied reason="lost">δε</supplied></w> <w><supplied reason="lost">κῖτε</supplied></w> <w><supplied reason="lost">ἡ</supplied></w> <w><supplied reason="lost">καλῆς</supplied></w>
+                    <lb n="2"/><w>μνή<hi rend="ligature">μης</hi></w> <w><unclear>ἔ</unclear><supplied reason="lost">ζησεν</supplied></w> <w><supplied reason="lost">ἔτη</supplied></w>
+                    <lb n="3"/><num value="60"><hi rend="supraline">Ξ</hi></num> <orig><hi rend="supraline">Π</hi></orig><orig><hi rend="supraline">Η</hi></orig><w>ἐ<unclear>τ</unclear><supplied reason="lost">ελεύτησεν</supplied></w>
+                    <lb n="4"/><orig>ΑΥΓ<hi rend="small">Σ</hi></orig><roleName type="supracivic" subtype="consul"><w><expan><abbr>ὑ<hi rend="stacked">π</hi></abbr><ex>ατίᾳ</ex></expan></w></roleName> <orig>Μ</orig>
                 </ab>
             </div>
             <div type="apparatus">

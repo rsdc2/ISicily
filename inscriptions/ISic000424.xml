@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -193,12 +193,12 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la">
                 <ab>
-                    <lb n="1"/><supplied reason="lost"><expan><abbr>D</abbr><ex>is</ex></expan></supplied> <expan><abbr>M</abbr><ex>anibus</ex></expan> <expan><abbr>s</abbr><ex>acrum</ex></expan>
-                    <lb n="2"/>Burniae <g ref="#interpunct">·</g> <expan><abbr>L</abbr><ex>uci</ex></expan> <g ref="#interpunct">·</g> <expan><abbr>f</abbr><ex>iliae</ex></expan>
-                    <lb n="3"/>Primulae 
-                    <lb n="4"/><supplied reason="lost">E</supplied>paphroditu<supplied reason="lost">s</supplied> 
-                    <lb n="5"/>Augustoru<supplied reason="lost">m</supplied>
-                    <lb n="6"/><expan><abbr><supplied reason="lost">li</supplied>b</abbr><ex>ertus</ex></expan> <expan><abbr>v</abbr><ex>ixit</ex></expan> <expan><abbr>a</abbr><ex>nnos</ex></expan> <gap reason="lost" quantity="2" unit="character" precision="low"/>
+                    <lb n="1"/><w><supplied reason="lost"><expan><abbr>D</abbr><ex>is</ex></expan></supplied></w> <name><expan><abbr>M</abbr><ex>anibus</ex></expan></name> <w><expan><abbr>s</abbr><ex>acrum</ex></expan></w>
+                    <lb n="2"/><name>Burniae</name> <g ref="#interpunct">·</g> <name><expan><abbr>L</abbr><ex>uci</ex></expan></name> <g ref="#interpunct">·</g> <w><expan><abbr>f</abbr><ex>iliae</ex></expan></w>
+                    <lb n="3"/><name>Primulae</name>
+                    <lb n="4"/><name><supplied reason="lost">E</supplied>paphroditu<supplied reason="lost">s</supplied></name>
+                    <lb n="5"/><name>Augustoru<supplied reason="lost">m</supplied></name>
+                    <lb n="6"/><w><expan><abbr><supplied reason="lost">li</supplied>b</abbr><ex>ertus</ex></expan></w> <w><expan><abbr>v</abbr><ex>ixit</ex></expan></w> <w><expan><abbr>a</abbr><ex>nnos</ex></expan></w> <gap reason="lost" quantity="2" unit="character" precision="low"/>
                 </ab>
             </div>
             <div type="apparatus">

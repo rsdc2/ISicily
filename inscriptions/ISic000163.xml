@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -217,10 +217,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#TA #AA">
                 <ab>
-                    <lb n="1" xml:id="AQeAK"/><persName type="divine" xml:id="AQeAU"><w xml:id="AQeAe">Dis</w> <g ref="#interpunct" xml:id="AQeAo">·</g> <w xml:id="AQeAy">Manibus</w></persName> <g ref="#interpunct" xml:id="AQeAΙ">·</g> 
-                    <lb n="2" xml:id="AQeAΤ"/><persName type="attested" xml:id="AQeAε"><name xml:id="AQeAο">Cornelia</name> <g ref="#interpunct" xml:id="AQeBA">·</g> <name xml:id="AQeBK">Scepsis</name></persName> <g ref="#interpunct" xml:id="AQeBU">·</g> 
-                    <lb n="3" xml:id="AQeBe"/><w xml:id="AQeBo"><expan xml:id="AQeBy"><abbr xml:id="AQeBΙ">vix</abbr><ex xml:id="AQeBΤ">it</ex></expan></w> <g ref="#interpunct" xml:id="AQeBε">·</g> <w xml:id="AQeBο"><expan xml:id="AQeCA"><abbr xml:id="AQeCK">an</abbr><ex xml:id="AQeCU">nis</ex></expan></w> <g ref="#interpunct" xml:id="AQeCe">·</g> <w xml:id="AQeCo"><hi rend="reversed" xml:id="AQeCy">Ↄ</hi></w> <g ref="#interpunct" xml:id="AQeCΙ">·</g> <num value="38" xml:id="AQeCΤ">XXXVIII</num> <g ref="#interpunct" xml:id="AQeCε">·</g> 
-                    <lb n="4" xml:id="AQeCο"/><persName type="attested" xml:id="AQeDA"><name xml:id="AQeDK">Auctus</name></persName> <g ref="#interpunct" xml:id="AQeDU">·</g> <w xml:id="AQeDe">coniugi</w> <g ref="#interpunct" xml:id="AQeDo">·</g> 
+                    <lb n="1" xml:id="AQeAK"/><persName type="divine" xml:id="AQeAU"><w xml:id="AQeAe">Dis</w> <g ref="#interpunct" xml:id="AQeAo">·</g> <name xml:id="AQeAy">Manibus</name></persName> <g ref="#interpunct" xml:id="AQeAΙ">·</g>
+                    <lb n="2" xml:id="AQeAΤ"/><persName type="attested" xml:id="AQeAε"><name xml:id="AQeAο">Cornelia</name> <g ref="#interpunct" xml:id="AQeBA">·</g> <name xml:id="AQeBK">Scepsis</name></persName> <g ref="#interpunct" xml:id="AQeBU">·</g>
+                    <lb n="3" xml:id="AQeBe"/><w xml:id="AQeBo"><expan xml:id="AQeBy"><abbr xml:id="AQeBΙ">vix</abbr><ex xml:id="AQeBΤ">it</ex></expan></w> <g ref="#interpunct" xml:id="AQeBε">·</g> <w xml:id="AQeBο"><expan xml:id="AQeCA"><abbr xml:id="AQeCK">an</abbr><ex xml:id="AQeCU">nis</ex></expan></w> <g ref="#interpunct" xml:id="AQeCe">·</g> <name xml:id="AQeCo"><hi rend="reversed" xml:id="AQeCy">Ↄ</hi></name> <g ref="#interpunct" xml:id="AQeCΙ">·</g> <num value="38" xml:id="AQeCΤ">XXXVIII</num> <g ref="#interpunct" xml:id="AQeCε">·</g>
+                    <lb n="4" xml:id="AQeCο"/><persName type="attested" xml:id="AQeDA"><name xml:id="AQeDK">Auctus</name></persName> <g ref="#interpunct" xml:id="AQeDU">·</g> <w xml:id="AQeDe">coniugi</w> <g ref="#interpunct" xml:id="AQeDo">·</g>
                     <lb n="5" xml:id="AQeDy"/><w xml:id="AQeDΙ"><expan xml:id="AQeDΤ"><abbr xml:id="AQeDε">piissim</abbr><ex xml:id="AQeDο">ae</ex></expan></w> <g ref="#interpunct" xml:id="AQeEA">·</g> <w xml:id="AQeEK"><expan xml:id="AQeEU"><abbr xml:id="AQeEe">fec</abbr><ex xml:id="AQeEo">it</ex></expan></w>
                 </ab>
             </div>

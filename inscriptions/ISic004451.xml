@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -183,15 +183,15 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#IG">
                 <ab>
-                    <lb n="1"/>Ἐτελεύτησεν ὁ κα
-                    <lb n="2" break="no"/>λῆς μνήμης Ἀφροδίσ<hi rend="ligature">ης</hi>    
-                    <lb n="3"/>τῇ πρὸ <num value="12"><hi rend="supraline">ιβ</hi></num> καλανδῶν 
-                    <lb n="4"/>μαίων ζήσας ἔτη 
-                    <lb n="5"/><num value="23">εἴκοσι τρία</num> <roleName type="supracivic" subtype="consul">ὑπατίᾳ</roleName> 
-                    <lb n="6"/>Θεοδοσίου <expan><abbr>τ</abbr><ex>ὸ</ex></expan> <num value="7">ζ</num> καὶ
-                    <lb n="7"/>Παλλαδίου <roleName type="supracivic" subtype="clarissimus"><expan><abbr>λαμπ</abbr><ex>ροτάτου</ex></expan></roleName>
+                    <lb n="1"/><w>Ἐτελεύτησεν</w> <w>ὁ</w> <w>κα
+                    <lb n="2" break="no"/>λῆς</w> <w>μνήμης</w> <name>Ἀφροδίσ<hi rend="ligature">ης</hi></name>
+                    <lb n="3"/><w>τῇ</w> <w>πρὸ</w> <num value="12"><hi rend="supraline">ιβ</hi></num> <w>καλανδῶν</w>
+                    <lb n="4"/><w>μαίων</w> <w>ζήσας</w> <w>ἔτη</w>
+                    <lb n="5"/><num value="23">εἴκοσι τρία</num> <roleName type="supracivic" subtype="consul"><w>ὑπατίᾳ</w></roleName>
+                    <lb n="6"/><name>Θεοδοσίου</name> <w><expan><abbr>τ</abbr><ex>ὸ</ex></expan></w> <num value="7">ζ</num> <w>καὶ</w>
+                    <lb n="7"/><name>Παλλαδίου</name> <roleName type="supracivic" subtype="clarissimus"><w><expan><abbr>λαμπ</abbr><ex>ροτάτου</ex></expan></w></roleName>
                     <lb n="7"/><g corresp="#decoration.figure.animal">dove</g> <g ref="#staurogram">𐆠</g> <g corresp="#decoration.figure.animal">dove</g>
-                  </ab>
+                </ab>
                </div>
             <div type="apparatus">
                 <listApp><app><note>Text from Orsi checked against photograph</note></app></listApp>

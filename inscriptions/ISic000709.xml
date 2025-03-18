@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -214,7 +214,7 @@
                     <lb n="1"/><persName type="attested"><name type="praenomen"><expan><abbr>P</abbr><ex>ublius</ex></expan></name> <g ref="#interpunct">·</g> <name type="nomen">Scri<unclear>b</unclear><unclear>o</unclear>
                     <lb n="2" break="no"/><space unit="character" quantity="2"/>nius</name> <space unit="character" quantity="3"/>
                     <lb n="3"/><name type="cognomen">So<unclear>lle</unclear>mnis</name></persName> <g ref="#interpunct">·</g>
-                    <lb n="4"/>sib<unclear>i</unclear> <supplied reason="lost">e</supplied><unclear>t</unclear> <g ref="#interpunct">·</g> suis <g ref="#interpunct">·</g> <expan><abbr>v</abbr><ex>ivus</ex></expan> <g ref="#interpunct">·</g> <expan><abbr>f</abbr><ex>ecit</ex></expan> <g ref="#interpunct">·</g>
+                    <lb n="4"/><w>sib<unclear>i</unclear></w> <w><supplied reason="lost">e</supplied><unclear>t</unclear></w> <g ref="#interpunct">·</g> <w>suis</w> <g ref="#interpunct">·</g> <w><expan><abbr>v</abbr><ex>ivus</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>f</abbr><ex>ecit</ex></expan></w> <g ref="#interpunct">·</g>
                 </ab>
             </div>
             <div type="apparatus" resp="#JP">
@@ -227,7 +227,7 @@
                 <p>Publius Scribonius Sollemnis made this while alive for himself and his family</p>
             </div>
             <div type="commentary">
-                <p></p>
+                <p/>
             </div>
             <div type="bibliography">
                 <listBibl type="edition">

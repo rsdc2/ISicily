@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -194,25 +194,14 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-                <ab><lb n="1"/>Βαιὸν ἐμὲ Νύμφαις ἔργον κάμ
-                    <supplied reason="lost">εν</supplied>
-                    <gap reason="lost" quantity="3" unit="character"/>
-                    <lb n="2"/>οὐ γάρ μοι σθεναρὴν χεῖρ’ ἐπέ
-                    <supplied reason="lost">θηκε</supplied> <supplied reason="lost">μάτην</supplied>
-                    <lb n="3"/>αλλ’ ἐν ἐμοὶ καμάτων εὗρεν τέλ
-                    <supplied reason="lost">ος</supplied> <supplied reason="lost">ἔσχε</supplied> <supplied reason="lost">τ’</supplied><supplied reason="lost">ἄγαλμα</supplied>
-                    <lb n="4"/>ἀγχόθι λαϊνέης αὔλακος ὑδρο
-                    <supplied reason="lost">φόρου</supplied>
-                    <lb n="5"/>τὴν αὐτὸς ποίησεν, ἐς ἠέρα πολλ
-                    <supplied reason="lost">ὸν</supplied> <supplied reason="lost">ἀείρας</supplied>
-                    <lb n="6"/>νᾶμα φέρειν καθαρὸν ἐνναέται
-                    <supplied reason="lost">ς</supplied> <supplied reason="lost">Κατὰνης</supplied>
-                    <lb n="7"/>
-                    <space quantity="8" unit="character" precision="low"/>
-                    <persName type="attested">
-                        <name>Ἐννοΐου</name>
-                    </persName>
-                    <space quantity="7" unit="character" precision="low"/>
+                <ab>
+                    <lb n="1"/><w>Βαιὸν</w> <w>ἐμὲ</w> <name>Νύμφαις</name> <w>ἔργον</w> <w>κάμ</w> <w><supplied reason="lost">εν</supplied></w> <gap reason="lost" quantity="3" unit="character"/>
+                    <lb n="2"/><w>οὐ</w> <w>γάρ</w> <w>μοι</w> <w>σθεναρὴν</w> <w>χεῖρ’</w> <w>ἐπέ</w> <w><supplied reason="lost">θηκε</supplied></w> <w><supplied reason="lost">μάτην</supplied></w>
+                    <lb n="3"/><w>αλλ’</w> <w>ἐν</w> <w>ἐμοὶ</w> <w>καμάτων</w> <w>εὗρεν</w> <w>τέλ</w> <w><supplied reason="lost">ος</supplied></w> <w><supplied reason="lost">ἔσχε</supplied></w> <w><supplied reason="lost">τ’</supplied><supplied reason="lost">ἄγαλμα</supplied></w>
+                    <lb n="4"/><w>ἀγχόθι</w> <w>λαϊνέης</w> <w>αὔλακος</w> <w>ὑδρο</w> <w><supplied reason="lost">φόρου</supplied></w>
+                    <lb n="5"/><w>τὴν</w> <w>αὐτὸς</w> <w>ποίησεν,</w> <w>ἐς</w> <w>ἠέρα</w> <w>πολλ</w> <w><supplied reason="lost">ὸν</supplied></w> <w><supplied reason="lost">ἀείρας</supplied></w>
+                    <lb n="6"/><w>νᾶμα</w> <w>φέρειν</w> <w>καθαρὸν</w> <w>ἐνναέται</w> <w><supplied reason="lost">ς</supplied></w> <name><supplied reason="lost">Κατὰνης</supplied></name>
+                    <lb n="7"/><space quantity="8" unit="character" precision="low"/><persName type="attested"><name>Ἐννοΐου</name></persName> <space quantity="7" unit="character" precision="low"/>
                 </ab>
             </div>
             <div type="apparatus">

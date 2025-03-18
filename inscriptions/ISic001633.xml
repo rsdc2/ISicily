@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -185,16 +185,16 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1"/>Ἐνθάδε κῖτε
-                    <lb n="2"/>ὁ πανφίλ
-                    <lb n="3" break="no"/>ητος καὶ σ
-                    <lb n="4" break="no"/>οφὸς καὶ πᾶ
-                    <lb n="5" break="no"/>σιν ἀρεστὸς
-                    <lb n="6"/>Εὐδέμων εἰατρ
-                    <lb n="7" break="no"/>ός · ἔζησεν ἔτη <num value="65">ἕ
-                    <lb n="8" break="no"/>ξ</num> καὶ ἀπέθαν<supplied reason="lost">ε</supplied>
-                    <lb n="9"/>μετὰ <expan><abbr><supplied reason="lost">Φα</supplied>όφ</abbr><ex>ι</ex></expan> ἡμ
-                    <lb n="10" break="no"/><supplied reason="lost">έρ</supplied>α <num value="7">ζ</num> <g ref="#christogram">☧</g>
+                    <lb n="1"/><w>Ἐνθάδε</w> <w>κῖτε</w>
+                    <lb n="2"/><w>ὁ</w> <w>πανφίλ
+                    <lb n="3" break="no"/>ητος</w> <w>καὶ</w> <w>σ
+                    <lb n="4" break="no"/>οφὸς</w> <w>καὶ</w> <w>πᾶ
+                    <lb n="5" break="no"/>σιν</w> <w>ἀρεστὸς</w>
+                    <lb n="6"/><name>Εὐδέμων</name> <w>εἰατρ
+                    <lb n="7" break="no"/>ός</w> <g ref="#interpunct">·</g> <w>ἔζησεν</w> <w>ἔτη</w> <num value="65">ἕ
+                    <lb n="8" break="no"/>ξ</num> <w>καὶ</w> <w>ἀπέθαν<supplied reason="lost">ε</supplied></w>
+                    <lb n="9"/><w>μετὰ</w> <name><expan><abbr><supplied reason="lost">Φα</supplied>όφ</abbr><ex>ι</ex></expan></name> <w>ἡμ
+                    <lb n="10" break="no"/><supplied reason="lost">έρ</supplied>α</w> <num value="7">ζ</num> <g ref="#christogram">☧</g>
                 </ab>
             </div>
             <div type="apparatus">

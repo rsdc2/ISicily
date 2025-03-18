@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -170,33 +170,33 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP"><!-- text requires proper revision against photograph/autopsy notes from Naples visit 2004 -->
                 <ab>
-                    <lb n="1"/>ὑπὲρ προξενίας καὶ εὐ
-                    <lb n="2" break="no"/>εργεσίας <persName type="attested"><name>Δημητρίωι</name>
-                    <lb n="3"/><persName type="attested"><name type="patronym">Διοδότου</name></persName> <placeName type="ethnic">Συρακοσίωι</placeName></persName>
-                    <lb n="4"/>καὶ τοῖς ἐγγόνοις αὐ
-                    <lb n="5" break="no"/>τοῦ <space unit="character" quantity="13"/>
-                    <lb n="6"/>ἐπὶ ἱεροθύτου <persName type="attested"><name>Ἱκέτα</name> <persName type="attested"><name type="patronym">Ἱκέτου</name></persName></persName> ἀρχόν
-                    <lb n="7" break="no"/>των δὲ <persName type="attested"><name>Ἡρέου</name></persName> καὶ <persName type="attested"><name>Κ<choice><sic>η</sic><corr>ό</corr></choice>τητος</name></persName>
-                    <lb n="8"/>ἔδοξε τῆι συγκλήτῳ καὶ τῶι δήμωι
-                    <lb n="9"/>τῶν <placeName type="ethnic">Μελιταίων</placeName> ἐπειδὴ <persName type="attested"><name>Δημή
-                    <lb n="10" break="no"/>τριος</name> <persName type="attested"><name type="patronym">Διοδότου</name></persName> <placeName type="ethnic">Συρακόσιος</placeName></persName> δι
-                    <lb n="11" break="no"/>ὰ παντὸς εὔνους ὑπάρχων
-                    <lb n="12"/>τοῖς τε δημοσίοις ἡμῶν πράγ
-                    <lb n="13" break="no"/>μασιν <choice><sic>ν</sic><corr>κ</corr></choice>αὶ ἑνὶ ἑκάστωι τῶν πολι
-                    <lb n="14" break="no"/>τῶν παραίτιος ἀγαθοῦ πολλάκι
-                    <lb n="15"/>γεγένηται <space unit="character" quantity="15"/>
-                    <lb n="16"/>ἀγαθῆι τύχηι δεδόχθαι <persName type="attested"><name>Δημήτριον</name>
-                    <lb n="17"/><persName type="attested"><name type="patronym">Διοδότου</name></persName> <placeName type="ethnic">Συρακόσιον</placeName></persName> πρόξε
-                    <lb n="18" break="no"/>νον εἶναι καὶ εὐεργέτην τοῦ δή
-                    <lb n="19" break="no"/>μου τῶν <placeName type="ethnic">Μελιταίων</placeName> καὶ τοὺς ἐγ
-                    <lb n="20" break="no"/>γόνους αὐτοῦ ἀρετῆς ἕνεκεν
-                    <lb n="21"/>καὶ εὐνοίας ἧς ἔχων διατελεῖ εἰς
-                    <lb n="22"/>τὸν ἡμέτερον δῆμον τὴν δὲ
-                    <lb n="23"/>προξενίαν ταύτην ἀναγράψαι
-                    <lb n="24"/>εἰς χαλκώματα δύο καὶ τὸ ἓν δοῦ
-                    <lb n="25" break="no"/>ναι <persName type="attested"><name>Δημητρίωι</name> <persName type="attested"><name type="patronym">Διοδότου</name></persName> <placeName type="ethnic">Συρα
-                    <lb n="26" break="no"/>κοσίωι</placeName></persName> <space unit="character" quantity="19"/>
-                 </ab>
+                    <lb n="1"/><w>ὑπὲρ</w> <w>προξενίας</w> <w>καὶ</w> <w>εὐ
+                    <lb n="2" break="no"/>εργεσίας</w> <persName type="attested"><name>Δημητρίωι</name>
+                    <lb n="3"/><persName type="attested"><name type="patronym">Διοδότου</name></persName> <placeName type="ethnic"><name>Συρακοσίωι</name></placeName></persName>
+                    <lb n="4"/><w>καὶ</w> <w>τοῖς</w> <w>ἐγγόνοις</w> <w>αὐ
+                    <lb n="5" break="no"/>τοῦ</w> <space unit="character" quantity="13"/>
+                    <lb n="6"/><w>ἐπὶ</w> <w>ἱεροθύτου</w> <persName type="attested"><name>Ἱκέτα</name> <persName type="attested"><name type="patronym">Ἱκέτου</name></persName></persName> <w>ἀρχόν
+                    <lb n="7" break="no"/>των</w> <w>δὲ</w> <persName type="attested"><name>Ἡρέου</name></persName> <w>καὶ</w> <persName type="attested"><name>Κ<choice><sic>η</sic><corr>ό</corr></choice>τητος</name></persName>
+                    <lb n="8"/><w>ἔδοξε</w> <w>τῆι</w> <w>συγκλήτῳ</w> <w>καὶ</w> <w>τῶι</w> <w>δήμωι</w>
+                    <lb n="9"/><w>τῶν</w> <placeName type="ethnic"><name>Μελιταίων</name></placeName> <w>ἐπειδὴ</w> <persName type="attested"><name>Δημή
+                    <lb n="10" break="no"/>τριος</name> <persName type="attested"><name type="patronym">Διοδότου</name></persName> <placeName type="ethnic"><name>Συρακόσιος</name></placeName></persName> <w>δι
+                    <lb n="11" break="no"/>ὰ</w> <w>παντὸς</w> <w>εὔνους</w> <w>ὑπάρχων</w>
+                    <lb n="12"/><w>τοῖς</w> <w>τε</w> <w>δημοσίοις</w> <w>ἡμῶν</w> <w>πράγ
+                    <lb n="13" break="no"/>μασιν</w> <w><choice><sic>ν</sic><corr>κ</corr></choice>αὶ</w> <w>ἑνὶ</w> <w>ἑκάστωι</w> <w>τῶν</w> <w>πολι
+                    <lb n="14" break="no"/>τῶν</w> <w>παραίτιος</w> <w>ἀγαθοῦ</w> <w>πολλάκι</w>
+                    <lb n="15"/><w>γεγένηται</w> <space unit="character" quantity="15"/>
+                    <lb n="16"/><w>ἀγαθῆι</w> <w>τύχηι</w> <w>δεδόχθαι</w> <persName type="attested"><name>Δημήτριον</name>
+                    <lb n="17"/><persName type="attested"><name type="patronym">Διοδότου</name></persName> <placeName type="ethnic"><name>Συρακόσιον</name></placeName></persName> <w>πρόξε
+                    <lb n="18" break="no"/>νον</w> <w>εἶναι</w> <w>καὶ</w> <w>εὐεργέτην</w> <w>τοῦ</w> <w>δή
+                    <lb n="19" break="no"/>μου</w> <w>τῶν</w> <placeName type="ethnic"><name>Μελιταίων</name></placeName> <w>καὶ</w> <w>τοὺς</w> <w>ἐγ
+                    <lb n="20" break="no"/>γόνους</w> <w>αὐτοῦ</w> <w>ἀρετῆς</w> <w>ἕνεκεν</w>
+                    <lb n="21"/><w>καὶ</w> <w>εὐνοίας</w> <w>ἧς</w> <w>ἔχων</w> <w>διατελεῖ</w> <w>εἰς</w>
+                    <lb n="22"/><w>τὸν</w> <w>ἡμέτερον</w> <w>δῆμον</w> <w>τὴν</w> <w>δὲ</w>
+                    <lb n="23"/><w>προξενίαν</w> <w>ταύτην</w> <w>ἀναγράψαι</w>
+                    <lb n="24"/><w>εἰς</w> <w>χαλκώματα</w> <w>δύο</w> <w>καὶ</w> <w>τὸ</w> <w>ἓν</w> <w>δοῦ
+                    <lb n="25" break="no"/>ναι</w> <persName type="attested"><name>Δημητρίωι</name> <persName type="attested"><name type="patronym">Διοδότου</name></persName> <placeName type="ethnic"><name>Συρα
+                    <lb n="26" break="no"/>κοσίωι</name></placeName></persName> <space unit="character" quantity="19"/>
+                </ab>
             </div>
             <div type="apparatus" resp="#JP">
                 <listApp>

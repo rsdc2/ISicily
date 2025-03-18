@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -193,11 +193,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
-                    <lb n="1"/><name><expan><abbr><supplied reason="lost">L</supplied></abbr><ex>ucio</ex></expan></name> <g ref="#interpunct">·</g> <name>Cestio</name> <g ref="#interpunct">·</g> <name><expan><abbr>L</abbr><ex>uci</ex></expan></name> <g ref="#interpunct">·</g> <expan><abbr>f</abbr><ex>ilio</ex></expan> <g ref="#interpunct">·</g> <expan><abbr>Pompt</abbr><ex>ina</ex></expan> <g ref="#interpunct">·</g> <name>Gallo</name> V<unclear>a</unclear> <!-- not sure if we can encode the name over two lines? -->
-                    <lb n="2" break="no"/><unclear>r</unclear>eni<hi rend="ligature">an</hi>o <g ref="#interpunct">·</g> <name>Luta<hi rend="ligature">ti</hi>o</name> <name>Natali</name> <name>Aem<supplied reason="lost">i</supplied> 
-                    <lb n="3" break="no"/>li<hi rend="ligature">an</hi>o</name> <roleName type="paracivic" subtype="patronus">pa<hi rend="ligature">tr</hi>ono</roleName> <choice><reg>min<hi rend="ligature">ik</hi>ipi</reg><orig>municipi</orig></choice> <g ref="#leaf">❦</g>
-                    <lb n="4"/><name><expan><abbr><supplied reason="lost">T</supplied>i</abbr><ex>berius</ex></expan></name> <name><hi rend="ligature">Ma</hi>rcius</name> <name><hi rend="ligature">Ma</hi>rci<hi rend="ligature">an</hi>us</name> <hi rend="ligature">am</hi>ico op<hi rend="ligature">ti</hi>m<supplied reason="lost">o</supplied>
-                    <lb n="5"/><hi rend="ligature">et</hi> <choice><reg>carissimo</reg><orig>karissimo</orig></choice> s<hi rend="ligature">ib</hi>i honoris c<hi rend="ligature">au</hi>sa <expan><abbr>s</abbr><ex>tatuam</ex></expan> <expan><abbr><unclear>p</unclear></abbr><ex>osuit</ex></expan>
+                    <lb n="1"/><name><expan><abbr><supplied reason="lost">L</supplied></abbr><ex>ucio</ex></expan></name> <g ref="#interpunct">·</g> <name>Cestio</name> <g ref="#interpunct">·</g> <name><expan><abbr>L</abbr><ex>uci</ex></expan></name> <g ref="#interpunct">·</g> <w><expan><abbr>f</abbr><ex>ilio</ex></expan></w> <g ref="#interpunct">·</g> <name><expan><abbr>Pompt</abbr><ex>ina</ex></expan></name> <g ref="#interpunct">·</g> <name>Gallo</name> <name>V<unclear>a</unclear><!-- not sure if we can encode the name over two lines? -->
+                    <lb n="2" break="no"/><unclear>r</unclear>eni<hi rend="ligature">an</hi>o</name> <g ref="#interpunct">·</g> <name>Luta<hi rend="ligature">ti</hi>o</name> <name>Natali</name> <name>Aem<supplied reason="lost">i</supplied>
+                    <lb n="3" break="no"/>li<hi rend="ligature">an</hi>o</name> <roleName type="paracivic" subtype="patronus"><w>pa<hi rend="ligature">tr</hi>ono</w></roleName> <w><choice><reg>min<hi rend="ligature">ik</hi>ipi</reg><orig>municipi</orig></choice></w> <g ref="#leaf">❦</g>
+                    <lb n="4"/><name><expan><abbr><supplied reason="lost">T</supplied>i</abbr><ex>berius</ex></expan></name> <name><hi rend="ligature">Ma</hi>rcius</name> <name><hi rend="ligature">Ma</hi>rci<hi rend="ligature">an</hi>us</name> <w><hi rend="ligature">am</hi>ico</w> <w>op<hi rend="ligature">ti</hi>m<supplied reason="lost">o</supplied></w>
+                    <lb n="5"/><w><hi rend="ligature">et</hi></w> <w><choice><reg>carissimo</reg><orig>karissimo</orig></choice></w> <w>s<hi rend="ligature">ib</hi>i</w> <w>honoris</w> <w>c<hi rend="ligature">au</hi>sa</w> <w><expan><abbr>s</abbr><ex>tatuam</ex></expan></w> <w><expan><abbr><unclear>p</unclear></abbr><ex>osuit</ex></expan></w>
                 </ab>
             </div>
             <div type="apparatus">

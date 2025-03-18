@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -195,11 +195,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
-                    <lb n="1"/>Dis · Man<supplied reason="undefined" evidence="previouseditor">ibus</supplied>
-                    <lb n="2"/>Epitynch<supplied reason="undefined" evidence="previouseditor">ani</supplied> · <expan><abbr><supplied reason="undefined" evidence="previouseditor">Caes</supplied></abbr><ex>aris</ex></expan>
-                    <lb n="3"/><expan><abbr>n</abbr><ex>ostri</ex></expan> <g ref="#ivy-leaf"/> <expan><abbr>ser</abbr><ex>vi</ex></expan> <g ref="#ivy-leaf"/> <expan><abbr>Cand<supplied reason="undefined" evidence="previouseditor">idian</supplied></abbr><ex>i</ex></expan>
-                    <lb n="4"/>qui exiebat · i<supplied reason="undefined" evidence="previouseditor">n</supplied> <supplied reason="undefined" evidence="previouseditor">officio</supplied>
-                    <lb n="5"/>Asiae · <roleName type="supracivic" subtype="arkarius"><expan><abbr>ark</abbr><ex>arii</ex></expan></roleName> <g ref="#ivy-leaf"/> <hi rend="supraline">XX</hi> <supplied reason="undefined" evidence="previouseditor">·</supplied> <expan><abbr><supplied reason="undefined" evidence="previouseditor">hered</supplied></abbr><ex>itatium</ex></expan>
+                    <lb n="1"/><w>Dis</w> <g ref="#interpunct">·</g> <name>Man<supplied reason="undefined" evidence="previouseditor">ibus</supplied></name>
+                    <lb n="2"/><name>Epitynch<supplied reason="undefined" evidence="previouseditor">ani</supplied></name> <g ref="#interpunct">·</g> <name><expan><abbr><supplied reason="undefined" evidence="previouseditor">Caes</supplied></abbr><ex>aris</ex></expan></name>
+                    <lb n="3"/><w><expan><abbr>n</abbr><ex>ostri</ex></expan></w> <g ref="#ivy-leaf"/> <w><expan><abbr>ser</abbr><ex>vi</ex></expan></w> <g ref="#ivy-leaf"/> <name><expan><abbr>Cand<supplied reason="undefined" evidence="previouseditor">idian</supplied></abbr><ex>i</ex></expan></name>
+                    <lb n="4"/><w>qui</w> <w>exiebat</w> <g ref="#interpunct">·</g> <w>i<supplied reason="undefined" evidence="previouseditor">n</supplied></w> <w><supplied reason="undefined" evidence="previouseditor">officio</supplied></w>
+                    <lb n="5"/><name>Asiae</name> <g ref="#interpunct">·</g> <roleName type="supracivic" subtype="arkarius"><w><expan><abbr>ark</abbr><ex>arii</ex></expan></w></roleName> <g ref="#ivy-leaf"/> <w><hi rend="supraline">XX</hi></w> <w><supplied reason="undefined" evidence="previouseditor">·</supplied></w> <w><expan><abbr><supplied reason="undefined" evidence="previouseditor">hered</supplied></abbr><ex>itatium</ex></expan></w>
                 </ab>
                 <!--The initial basis for the text came from EDR text 033598, via the Europeana EAGLE project, http://www.eagle-network.eu/-->
             </div>

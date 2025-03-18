@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -192,260 +192,230 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" subtype="PHI" n="PHI140735">
                 <ab>
-                    <lb n="1"/>Θε<supplied reason="lost">οχρ</supplied>ησ
-                    <supplied reason="lost">τ— — — — —</supplied>
-                    <lb n="2"/> Ἀπολλ
-                    <supplied reason="lost">οδωρο— — —</supplied>
-                    <lb n="3"/>δόγμα ν
-                    <supplied reason="lost">— — — — — —</supplied>
-                    <lb n="4"/>ΠΓ<supplied reason="lost">—</supplied>Γ<supplied reason="lost">—</supplied>#⁷
-                    <supplied reason="lost">— — — —</supplied>
-                    <lb n="5"/>Ι
-                    <supplied reason="lost">— — — — — — — — —</supplied>
-                    <lb n="6"/>
-                    <surplus>²reliqua evanuerunt</surplus>²
-                    <lb n="7"/>
-                    <surplus>²in parte ima:</surplus>²
-                    <lb n="8"/>
-                    <supplied reason="lost">— — — — — — — — — — — —</supplied>
-                    <lb n="9"/>
-                    <supplied reason="lost">— — — — — — — — — — — —</supplied>
-                    <lb n="10"/>
-                    <supplied reason="lost">— —</supplied>ΛΥ#⁷
-                    <supplied reason="lost">— — — — — — — —</supplied>
-                    <lb n="11"/>
-                    <supplied reason="lost">— — —</supplied>ΣΣ
-                    <supplied reason="lost">— — — — — — — —</supplied>
-                    <lb n="12"/>
-                    <supplied reason="lost">— —</supplied>πος ἑπτὰ τ
-                    <supplied reason="lost">— — — — — —</supplied>
-                    <lb n="13"/>ἓ<unclear>ξ</unclear> δέκα κάδους
-                    <supplied reason="lost">— — — — — —</supplied>
-                    <lb n="14"/>
-                    <unclear>ἑξ</unclear>ήκοντα κάδου
-                    <supplied reason="lost">ς — — ἀγῶνες</supplied>
-                    <lb n="15"/>
-                    <supplied reason="lost">ἓ</supplied>ξ δέκα
-                    <lb n="16"/>
-                    <supplied reason="lost">ἐ</supplied>π<supplied reason="lost" cert="low">ὶ Ἡρέα</supplied> τοῦ
-                    <supplied reason="lost">— — — —</supplied>
-                    <lb n="17"/>
-                    <supplied reason="lost">—</supplied>#⁷<supplied reason="lost">— — — —</supplied>ΜΙ
-                    <supplied reason="lost">— — — —</supplied>
-                    <lb n="18"/>
-                    <supplied reason="lost">ἐπὶ Θρασυμάχου τοῦ — — —</supplied>
-                    <lb n="19"/>
-                    <supplied reason="lost"><roleName type="civic" subtype="gymnasiarchos">γυμνασίαρχοι</roleName></supplied>·<lb n="20"/> Εὔξενο
-                    <supplied reason="lost">ς — — — — — — —</supplied>
-                    <lb n="21"/> Δαμάτριος Ν
-                    <supplied reason="omitted">υ</supplied>
-                    <unclear>μ</unclear>φοδώρου·<lb n="22"/> ἐλαίου τρεῖς πρόχοι, εἷς<lb n="23"/> διακόσιοι κάδοι.
-                    <lb n="24"/>ἀγῶνες τέσσαρες εἴκοσι.<lb n="25"/>ἐπὶ Δεινία τοῦ Ἑλώριος<lb n="26"/>
-                    <roleName type="civic" subtype="gymnasiarchos">γυμνασίαρχοι</roleName>·<lb n="27"/> Νυμφόδωρος Εὐκλείδα,<lb n="28"/> Θεόδωρος Λέοντος·<lb n="29"/>
-                    ἐλαίου τέσσαρες πρόχ<supplied reason="lost">οι</supplied>,<lb n="30"/> διακόσιοι κάδοι σὺν |
-                    ἐπαγωγίμωι.<lb n="31"/>
-                    <supplied reason="lost">ἀγ</supplied>ῶνες<lb n="32"/>τέσσαρες εἴκοσι.<lb n="33"/>ἐπὶ Ἡρακλήτου τοῦ
-                    Διονυσίου<lb n="34"/> <roleName type="civic" subtype="gymnasiarchos">γυμνασίαρχοι</roleName>·<lb n="35"/>Ἀρ<unclear>τ</unclear>εμίδωρος Ἀθάνιος,<lb n="36"/>Ἡρακλείδας Ὀλύμπιος·<lb n="37"/> ἐλαίου ἓ
-                    <unclear>ξ</unclear>
-                    
-                    ὀγδοήκον
-                    <supplied reason="lost">τα</supplied>
-                    <lb n="38"/>
-                    <supplied reason="lost">ἑκ</supplied>ατὸν κάδο<supplied reason="lost">ι</supplied>.<lb n="39"/>
-                    <supplied reason="lost">ἀγῶνες</supplied>
-                    πέντε εἴ<supplied reason="lost">κοσι</supplied>.
-                    <lb n="40"/>
-                    <surplus>²circa 25 versus detriti sunt</surplus>²
-                    <lb n="41"/>
-                    <supplied reason="lost">ἐπὶ Φιλωνίδα τοῦ — — —</supplied>
-                    <lb n="42"/><roleName type="civic" subtype="gymnasiarchos">γυμνασίαρχοι</roleName>·
-                    <lb n="43"/>
-                    <supplied reason="lost">— —</supplied>ος Θαρρίππου,
-                    <lb n="44"/>
-                    <supplied reason="lost">— — —</supplied>
-                    Ἀπολλοδώρου·
-                    <lb n="45"/>
-                    <supplied reason="lost">ἐλαίο</supplied>υ πέντε μέτρα
-                    <lb n="46"/>
-                    <supplied reason="lost">—</supplied>
-                    ἐνενήκοντα
-                    <lb n="47"/>
-                    <supplied reason="lost">— —</supplied>ακόσιοι κάδοι σὺν ἐ<supplied reason="lost">
-                    πα</supplied>|γωγί<supplied reason="lost">μῳ</supplied>.<lb n="48"/>ἀγῶνες ὀκτὼ εἴκοσι.
-                    <lb n="49"/>
-                    <supplied reason="lost">ἐπὶ Μόσχου τοῦ — —</supplied>
-                    <lb n="50"/>
-                    <supplied reason="lost"><roleName type="civic" subtype="gymnasiarchos">γυμνασίαρχοι</roleName></supplied>·
-                    <lb n="51"/>
-                    <supplied reason="lost">— — — — — — — — —</supplied>
-                    <lb n="52"/>
-                    <supplied reason="lost">— — — — — — — — —</supplied>
-                    <lb n="53"/>
-                    <supplied reason="lost">ἐλαίου — — — — — —</supplied>
-                    <lb n="54"/>
-                    <supplied reason="lost">— — — — — — — — —</supplied>
-                    <lb n="55"/>
-                    <supplied reason="lost">ἀγῶνες — — — — —</supplied>.
-                    <lb n="56"/>
-                    <supplied reason="lost">ἐπὶ Ν</supplied>ικομάχου τοῦ<lb n="57"/>
-                    <unclear>Μ</unclear>νάσιος<lb n="58"/>
-                    <roleName type="civic" subtype="gymnasiarchos"><supplied reason="lost">γυ</supplied>μνασίαρχοι</roleName>·
-                    <lb n="59"/>
-                    <supplied reason="lost">— — —</supplied>ος Ἀριστάρχου,
-                    <lb n="60"/>
-                    <supplied reason="lost">Ἡράκ</supplied>λητος Διονυσίου·
-                    <lb n="61"/>
-                    <supplied reason="lost">ἐλαίο</supplied>υ τέσσαρες πρόχοι,
-                    <lb n="62"/>
-                    <supplied reason="lost">— — —</supplied>
-                    ἑκα<supplied reason="lost">τὸ</supplied>ν κάδοι
-                    <lb n="63"/>
-                    <supplied reason="lost">σὺν ἐπ</supplied>αγωγίμωι.
-                    <lb n="64"/>
-                    <supplied reason="lost">ἀγῶνες — —</supplied>
-                    εἴκοσι.<lb n="65"/>ἐπὶ Ἀγα
-                    <supplied reason="lost">θάρχου τοῦ</supplied>
-                    <lb n="66"/> Ἀγαθάρχου<lb n="67"/> γυμνασίαρχοι·<lb n="68"/>Ἀ<supplied reason="lost">
-                    γ</supplied>άθαρχος Μένωνος,<lb n="69"/> Φρῦνις Φρύνιος·<lb n="70"/> ἐλαίου τέσσαρες
-                    <supplied reason="lost">κοτ</supplied>
-                    <supplied reason="omitted">ύ</supplied>λ<supplied reason="lost">αι</supplied> #⁷<supplied reason="lost">—</supplied>,<lb n="71"/> δύο τεσσαράκοντα ἑκατὸν κά
-                    <unclear>δ</unclear>
-                    <supplied reason="lost">οι</supplied>.<lb n="72"/> ἀγῶνες ὀκτὼ τριάκοντα.<lb n="73"/> vacat
-                    <lb n="74"/>ἐπὶ Ζωίλου τοῦ<lb n="75"/> Ἱστιάρχου<lb n="76"/> <roleName type="civic" subtype="gymnasiarchos">γυμνασίαρχοι</roleName>·<lb n="77"/>Σῶσις
-                    Νυμφοδώρου Ὀμ(—),<lb n="78"/>Καλλίμαχος Φίλωνος Πελ(—)·<lb n="79"/> ἐλαίου εἴκοσι <supplied reason="lost">—</supplied>․<supplied reason="lost">—</supplied>ΣΑ, τρίμετ<supplied reason="lost">ρ</supplied>ο<supplied reason="lost">ς</supplied>,<lb n="80"/> ὀγδοήκοντα
-                    ἑκατὸν κάδοι σὺν ἐ<supplied reason="lost">παγωγίμῳ</supplied>.<lb n="81"/> ἀγῶνες ὀκτὼ τριάκοντα.
-                    <lb n="82"/>ἐπὶ Τιμόλα τοῦ Ξένων
-                    <supplied reason="lost">ος</supplied>
-                    <lb n="83"/> <roleName type="civic" subtype="gymnasiarchos">γυμνασίαρχοι</roleName>·<lb n="84"/>Ξένιος Ἐπιδώρου Καλ(—),<lb n="85"/>Ἀρίσταρχος Θεοδώρου
-                    Δαμ(—)·<lb n="86"/> ἐλαίου τέσσαρες κοτύλα<supplied reason="lost">ι</supplied>, τ<supplied reason="lost">ρί</supplied>-<lb n="87"/> μετρος, πρόχος, ἐννέα ἑξήκο<supplied reason="lost">
-                    ν</supplied>-<lb n="88"/> τα ἑκατὸν κάδοι.<lb n="89"/>ἀγῶνες ὀκτὼ τριάκοντα.<lb n="90"/>ἐπὶ
-                    Ἱέρωνος τοῦ Ζωτι
-                    <supplied reason="omitted">κ</supplied>
-                    <unclear>οῦ</unclear>,<lb n="91"/> <roleName type="civic" subtype="gymnasiarchos">γυμνασίαρχοι</roleName>·<lb n="92"/>Ἐπιγένης Ἀριστοκ<supplied reason="lost">ρ</supplied>άτεος,<lb n="93"/>Δαμάτριος Φίλωνος·<lb n="94"/> ἐλαίου τρίμετρος,
-                    πρ<supplied reason="lost">όχος</supplied>,<lb n="95"/> ἐννέα ἑξήκοντα ἑκατὸ
-                    <supplied reason="lost">ν</supplied>
-                    <lb n="96"/> κάδοι σὺν ἐπαγωγίμ<supplied reason="lost">ῳ</supplied>.<lb n="97"/> ἀγῶνες ὀκτὼ
-                    τριάκοντα.<lb n="98"/>ἐπὶ Ζωπύρου τοῦ Χαιρεδάμου<lb n="99"/> <roleName type="civic" subtype="gymnasiarchos">γυμνασίαρχοι</roleName>·<lb n="100"/>Ἀγάθαρχος
-                    Ἀγαθάρχου,<lb n="101"/> Φιλόδαμος Ἀριστοπόλιος·<lb n="102"/> ἐλαίου τέσσαρες κοτύλ<supplied reason="lost">αι</supplied>,<lb n="103"/> ὀκτὼ ὀγδοήκοντα ἑκατὸν <supplied reason="lost">
-                    κάδοι</supplied>.<lb n="104"/> ἀγῶνες ὀκτὼ τριάκοντα.<lb n="105"/>ἐπὶ Ἄρχα τοῦ Ἀρίστωνος<lb n="106"/> <roleName type="civic" subtype="gymnasiarchos">γυμνασίαρχοι</roleName>·<lb n="107"/>Ἀπολλόδωρος Ἀρτεμιδώρου,<lb n="108"/>Ἐράτων
-                    Ἀπολλοδώρου·<lb n="109"/> ἐλαίου τρίμετρος, ἡμι<supplied reason="lost">κάδιον</supplied>,<lb n="110"/> ἑπτὰ δέκα διακόσιο
-                    <supplied reason="lost">ι</supplied>
-                    <lb n="111"/> κάδοι σὺν ἐπαγωγίμ<supplied reason="lost">ῳ</supplied>.<lb n="112"/> ἀγῶνες ὀκτὼ
-                    τριάκοντα.<lb n="113"/>ἐπὶ Ἡρακλήτου τοῦ Ἀπολλοδώρου<lb n="114"/> <roleName type="civic" subtype="gymnasiarchos">γυμνασίαρχοι</roleName>·<lb n="115"/>
-                    Ἀρτεμίδω<supplied reason="lost">ρ</supplied>ος Φιλωνίδα,<lb n="116"/>Ἀπολλόδωρος Φρύνιος·<lb n="117"/> ἐλαίου <supplied reason="lost">— — δέ</supplied>κα διακόσιο
-                    <supplied reason="lost">ι</supplied>
-                    <lb n="118"/> κάδοι.<lb n="119"/> ἀγῶνες εἷς τεσσαράκοντα.<lb n="120"/>ἐπὶ Γοργία τοῦ
-                    Ἀγαθάρχου<lb n="121"/> <roleName type="civic" subtype="gymnasiarchos">γυμνασίαρχοι</roleName>·<lb n="122"/>Ἀλέξανδρος Ξένωνος,<lb n="123"/>
-                    <supplied reason="lost">— — —</supplied>Ο#⁷ΑϹΑ<supplied reason="lost">— —</supplied>ξένου·<lb n="124"/>
-                    <supplied reason="omitted">ἐ</supplied>
-                    <supplied reason="lost">λαίου — — —</supplied>Ητα δ
-                    <supplied reason="lost">ιακόσιοι</supplied>
-                    <lb n="125"/>
-                    <supplied reason="lost">κάδο</supplied>ι σὺν ἐπαγωγίμ<supplied reason="lost">ῳ</supplied>.<lb n="126"/> ἀγῶνες <supplied reason="lost">εἷ</supplied>ς τεσσαράκοντα.<lb n="127"/>ἐπὶ Δαματ<supplied reason="lost">ρίου
-                </supplied> τοῦ Ἀριστοβούλ
-                    <supplied reason="lost">ου</supplied>
-                    <lb n="128"/> <roleName type="civic" subtype="gymnasiarchos">γυμνασίαρχοι</roleName>·<lb n="129"/> Εὐκλείδας Νυμφοδώρου Ἀσ(—),<lb n="130"/>
-                    Νικόστρατος Ἀγάθωνος·<lb n="131"/> ἐλαίου τρίμετρος, τέσσαρες πρ<supplied reason="lost">
-                    όχοι</supplied>,<lb n="132"/> ἐννέα ἑξήκοντα διακόσιο<supplied reason="lost">ι κάδοι</supplied>,
-                    <lb n="133"/> μηνῶν ἓξ δέκα.<lb n="134"/> ἀγῶνες εἷς τεσσαράκοντα.<lb n="135"/>ἐπὶ
-                    Ἀριστοκράτεος τοῦ Ζωπύρου<lb n="136"/> <roleName type="civic" subtype="gymnasiarchos">γυμνασίαρχοι</roleName>·<lb n="137"/> Φιλωνίδας Κρίθωνος Ἄσ
-                    <supplied reason="omitted">σ</supplied>
-                    <supplied reason="lost" cert="low">ιτ(—)</supplied>
-                    <lb n="138"/>Ἀρτεμίδωρος Θεοφίλου Κ<supplied reason="lost">— —</supplied>·<lb n="139"/> ἐλαίου
-                    δύο πρόχους,<lb n="140"/> ἑκατὸν κάδους, μην<supplied reason="lost" cert="low">ῶν
-                    ὀκτώ</supplied>.<lb n="141"/> ἀγῶνες εἷς τεσσεράκ<supplied reason="lost">οντα</supplied>.<lb n="142"/>ἐ<supplied reason="lost">πὶ</supplied> Ἀρτεμιδώρου τοῦ
-                    <supplied reason="lost">— — —</supplied>
-                    <lb n="143"/> <roleName type="civic" subtype="gymnasiarchos">γυμνασίαρχοι</roleName>·<lb n="144"/>
-                    <supplied reason="lost">Ὑ</supplied>
-                    <unclear>π</unclear>έρ<supplied reason="lost">βο</supplied>λος Νυμφοδώρου,<lb n="145"/>
-                    <supplied reason="lost">Ὄ</supplied>λυμπις Θεοδώρου Α<supplied reason="lost">— —</supplied>·<lb n="146"/> ἐλαίου τρίμετρος, ἡμικάδιον,<lb n="147"/> διακόσιοι κάδοι.<lb n="148"/>
-                    ἀγῶνες εἷς τεζσαράκοντα.<lb n="149"/>
-                    <supplied reason="lost">ἐπὶ</supplied>
-                    Ἀρτέμωνος τοῦ Ἱπποκράτεος<lb n="150"/>
-                    <supplied reason="lost">γυμ</supplied>νασίαρχοι·<lb n="151"/>Ὑπέρβολος Ὀνασικράτεος Ἀσιν(—),
-                    <lb n="152"/>
-                    <supplied reason="lost">Φά</supplied>
-                    <unclear>λ</unclear>ακ<supplied reason="lost">ρο</supplied>ς
-                    
-                    Ἀριστοκράτεος Ταν(—)·<lb n="153"/> ἔσοδος τέσσαρες λίτραι, δύο ἐνενήκοντα τετρακόσια τε<supplied reason="lost">τρακισ</supplied>-<lb n="154"/> χίλια, ἐννέα μυριάδες· ἔξοδος μία ἑξήκοντα
-                    λίτραι,
-                    <supplied reason="lost">ὀκτὼ</supplied>
-                    <lb n="155"/> ἑβδομήκοντα τριακόσια ἐνακισχίλια τετρακισμύρια τ<supplied reason="lost">
-                    άλαντα</supplied>,<lb n="156"/> ΕΝ
-                    <supplied reason="lost">— —</supplied>
-                    <unclear>Ι</unclear>Α ἑπτακόσια δισχίλια τρισμύρια· λοιπ<supplied reason="lost">
-                    ὸ</supplied>ν <supplied reason="lost">τρία ἑξή</supplied>-<lb n="157"/> κοντα λίτραι, τρία δέκα
-                    ἑκατὸν πεντακισχίλια τετρακισμ<supplied reason="lost">ύρια</supplied>.<lb n="158"/>ἐλαίου ἔσοδος
-                    ὀκτὼ τριάκοντα τετρακόσιοι κάδοι· ἔξο<unclear>δο</unclear>ς<lb n="159"/> τρίμετρος, ἐννέα δέκα
-                    τετρακόσιοι κάδοι· τούτου ἐς τὸν ἀ
-                    <supplied reason="lost">γῶνα</supplied>
-                    <lb n="160"/> τρίμετρος, ὀκτὼ δέκα διακόσιοι κάδοι· λοιπὸν τρίμετρος, πέντ
-                    <supplied reason="lost">ε</supplied>
-                    <lb n="161"/> πρόχοι, ὀκ<supplied reason="lost">τ</supplied>ὼ δέκα κάδοι.<lb n="162"/>ἀγῶνες
-                    πέντε τριάκοντα.
-                    <lb n="163"/>
-                    <supplied reason="lost">ἐ</supplied>πὶ Νικοστράτου τοῦ Φίλωνο
-                    <supplied reason="lost">ς</supplied>
-                    <lb n="164"/> γυμνασίαρχοι·<lb n="165"/>Ἀνδρόμαχος Ἀπολλωνίδα Δεξ(—),<lb n="166"/> Φρῦνις
-                    Ὀλύμπιος Ἀσσιτ(—)·<lb n="167"/> ἔσοδος ἑπτὰ ἑξήκοντα λίτραι, ἓξ ἴκοσι ὀκτακόσ
-                    <supplied reason="lost">ια</supplied>
-                    <lb n="168"/> δισχίλια ἑξακισμύρια τάλαντα· ἔξοδος ὀκ
-                    <supplied reason="lost">τὼ</supplied>
-                    <lb n="169"/> ἑβδομήκοντα λίτραι, τρία ἑβδομήκοντα
-                    <supplied reason="lost">διακόσια</supplied>
-                    <lb n="170"/> τετρακισμύρια τάλαντα· λοιπὸν τρεῖς πεντήκοντα λ<supplied reason="lost">
-                    ί</supplied>-<lb n="171"/> τραι, πεντήκοντα διακόσια χίλια τάλαντα<lb n="172"/> καὶ χρῆμα τὸ
-                    δανειζόμενον ἓξ πεντήκοντα<lb n="173"/> λίτραι, δύο τριακόσια χίλια δισμύρια τάλαντα·
-                    τούτ<supplied reason="lost">ο</supplied>-<lb n="174"/> υ ἐς τὸν ἀγῶνα καὶ τὸ δεῖπνον δύο λίτραι,
-                    ὀκτ
-                    <supplied reason="lost">ὼ ὀγ</supplied>
-                    <unclear>δο</unclear>
-                    <supplied reason="lost">ή</supplied>-<lb n="175"/> κοντα ὀκτακόσια τρισχίλια τάλαντα κ<supplied reason="lost">αὶ ἐν ἀνδο</supplied>-<lb n="176"/> κείαις τέσσαρες πεντήκοντα λίτρα<supplied reason="lost">ι</supplied>, τέσσαρα δέκ
-                    <supplied reason="lost">α</supplied>
-                    <lb n="177"/> τετρακόσια ἑπτακισχίλια μύρια τάλαντα.<lb n="178"/> ἐλαίου ἔσοδος τρεῖς
-                    ἐνενήκοντα ἑκατὸν κάδ<supplied reason="lost">οι</supplied>·<lb n="179"/> ἔξοδος τὸ ἴσον.<lb n="180"/> vacat
-                    <lb n="181"/>
-                    <supplied reason="lost">ἐ</supplied>πὶ Φιλίστου τοῦ Ἵππωνος<lb n="182"/> γυμνασίαρχοι·<lb n="183"/> Δαμάτριος Φίλωνος Πελ(—),<lb n="184"/> Εὐκλείδας Νυμφοδώρου Οἰν(—)·<lb n="185"/> ἔσοδος ὀκτὼ ὀγδοήκοντα λίτραι, τέσσα
-                    <supplied reason="lost">ρα</supplied>
-                    <lb n="186"/> τετρακόσια ἑξακισχίλια πεντακισμύρια<lb n="187"/> τάλαντα· ἔξοδος δύο
-                    τεσσεσάκοντα λίτραι,<lb n="188"/> δύο πεντήκοντα τετρακόσια τρισμύρια τά-<lb n="189"/>
-                    λαντα· λοιπὸν δύο δέκα ἑκατὸν λίτραι, πέν-<lb n="190"/> τε τριάκοντα ἐνακόσια τετρακισχίλια τά-
-                    <lb n="191"/> λαντα καὶ χρῆμα τὸ δανειζόμενον<lb n="192"/>
-                    <supplied reason="lost">τέσ</supplied>σερες πεντήκοντα λίτραι, ἓξ δέκα<lb n="193"/>
-                    <supplied reason="lost">χίλι</supplied>α δισμύρια τάλαντα· τούτου ἐς<lb n="194"/>
-                    <supplied reason="lost">τὸν ἀ</supplied>γῶνα καὶ τὸ δεῖπνον δύο ἑξακόσι
-                    <supplied reason="lost">α</supplied>
-                    <lb n="195"/>
-                    <supplied reason="lost">τρισχί</supplied>λια τάλαντα, καὶ ἐν ἀνδοκείαις<lb n="196"/>
-                    <supplied reason="lost">τέσσαρες</supplied>
-                    πεντήκοντα λίτραι, τέσσαρα δέ-<lb n="197"/>
-                    <supplied reason="lost">κα τετρ</supplied>ακόσια ἑπτακισχίλια μύρια τά-<lb n="198"/>
-                    <supplied reason="lost">λαντα</supplied>.<lb n="199"/>
-                    <supplied reason="lost">ἐλαίου ἔσ</supplied>οδος ἑπτὰ ἑβδομήκοντα <unclear>ἑκα</unclear>-<lb n="200"/>
-                    <supplied reason="lost">τὸν κά</supplied>δοι· ἔξοδος τὸ ἴσον.<lb n="201"/> vacat<lb n="202"/>ἑπὶ Εὐδόξου τοῦ Σώσιος<lb n="203"/> γυμνασίαρχοι·<lb n="204"/>Ἀπολλόδωρος Φρύνιος
-                    Δαμ(—),<lb n="205"/> Φρῦνις Φιλιστίωνος Σπαρ(—)·<lb n="206"/> ἔσοδος ἑπτὰ ἑβδομήκοντα λίτραι,
-                    τρία<lb n="207"/> ὀγδοήκοντα διακόσια ἐνακισχίλια πεντα-<lb n="208"/> κισμύρια τάλαντα· ἔξοδος
-                    τρεῖς ἑβδο-<lb n="209"/> μήκοντα λίτραι, πέντε δέκα πεντακισχί-<lb n="210"/> λια τρισμύρια
-                    τάλαντα· λοιπὸν πέντε<lb n="211"/> τεσσαράκοντα λίτραι, ἑπτὰ δέκα ἑξακόσια<lb n="212"/> δισχίλια
-                    τάλαντα καὶ χρῆμα τὸ δανειζόμε-<lb n="213"/> νον ἐννέα ἑβδομήκοντα λίτραι, πεντήκοντ
-                    <supplied reason="lost">α</supplied>
-                    <lb n="214"/> ἑξακόσια χίλια δισμύρια τάλαντα·
-                    <supplied reason="lost">τούτου</supplied>
-                    <lb n="215"/> ἐς τὸν ἀγῶνα καὶ τὸ δεῖπνον πέντε ἴκοσ
-                    <supplied reason="lost">ι</supplied>
-                    <lb n="216"/> λίτραι, ἓξ τριάκοντα διακόσια τετρακισχί-<lb n="217"/> λια τάλαντα, καὶ ἐν
-                    ἀνδοκείαι<supplied reason="lost">ς</supplied> τέσσ
-                    <supplied reason="lost">αρες</supplied>
-                    <lb n="218"/> πεντήκοντα λίτραι, τ<supplied reason="lost">έσσ</supplied>α<supplied reason="lost">
-                    ρα δ</supplied>έκα τετρα<supplied reason="lost">κό</supplied>-<lb n="219"/> σια ἑπτακισχίλια
-                    μύ<supplied reason="lost">ρ</supplied>ια τάλαν<supplied reason="lost">τ</supplied>α.
-                    <lb n="220"/>
-                    <supplied reason="lost">ἐλαί</supplied>ου ἔσοδος ἡμικάδιον, ἓξ ἴκοσι διακόσιοι κάδ<supplied reason="lost">οι</supplied>·<lb n="221"/>
-                    <supplied reason="lost">ἔξ</supplied>οδος τὸ ἴσον.<lb n="222"/> vacat
-                    <lb n="223"/>
-                    <supplied reason="lost">ἐπὶ</supplied>
-                    <unclear>Ἀ</unclear>ριστοπόλιος τοῦ Φιλοδάμ
-                    <supplied reason="lost">ου</supplied>
+                    <lb n="1"/><w>Θε<supplied reason="lost">οχρ</supplied>ησ</w> <w><supplied reason="lost">τ— — — — —</supplied></w>
+                    <lb n="2"/><name>Ἀπολλ</name> <w><supplied reason="lost">οδωρο— — —</supplied></w>
+                    <lb n="3"/><w>δόγμα</w> <w>ν</w> <name><supplied reason="lost">— — — — — —</supplied></name>
+                    <lb n="4"/><w>ΠΓ<supplied reason="lost">—</supplied>Γ<supplied reason="lost">—</supplied>#⁷</w> <name><supplied reason="lost">— — — —</supplied></name>
+                    <lb n="5"/><name>Ι</name> <name><supplied reason="lost">— — — — — — — — —</supplied></name>
+                    <lb n="6"/><name><surplus>²reliqua evanuerunt</surplus>²</name>
+                    <lb n="7"/><name><surplus>²in parte ima:</surplus>²</name>
+                    <lb n="8"/><name><supplied reason="lost">— — — — — — — — — — — —</supplied></name>
+                    <lb n="9"/><name><supplied reason="lost">— — — — — — — — — — — —</supplied></name>
+                    <lb n="10"/><w><supplied reason="lost">— —</supplied>ΛΥ#⁷</w> <name><supplied reason="lost">— — — — — — — —</supplied></name>
+                    <lb n="11"/><w><supplied reason="lost">— — —</supplied>ΣΣ</w> <name><supplied reason="lost">— — — — — — — —</supplied></name>
+                    <lb n="12"/><name><supplied reason="lost">— —</supplied>πος</name> <w>ἑπτὰ</w> <w>τ</w> <name><supplied reason="lost">— — — — — —</supplied></name>
+                    <lb n="13"/><w>ἓ<unclear>ξ</unclear></w> <w>δέκα</w> <w>κάδους</w> <name><supplied reason="lost">— — — — — —</supplied></name>
+                    <lb n="14"/><w><unclear>ἑξ</unclear>ήκοντα</w> <w>κάδου</w> <w><supplied reason="lost">ς — — ἀγῶνες</supplied></w>
+                    <lb n="15"/><w><supplied reason="lost">ἓ</supplied>ξ</w> <w>δέκα</w>
+                    <lb n="16"/><w><supplied reason="lost">ἐ</supplied>π<supplied reason="lost" cert="low">ὶ Ἡρέα</supplied></w> <w>τοῦ</w> <name><supplied reason="lost">— — — —</supplied></name>
+                    <lb n="17"/><w><supplied reason="lost">—</supplied>#⁷<supplied reason="lost">— — — —</supplied>ΜΙ</w> <name><supplied reason="lost">— — — —</supplied></name>
+                    <lb n="18"/><w><supplied reason="lost">ἐπὶ Θρασυμάχου τοῦ — — —</supplied></w>
+                    <lb n="19"/><w><supplied reason="lost"><roleName type="civic" subtype="gymnasiarchos">γυμνασίαρχοι</roleName></supplied>·</w>
+                    <lb n="20"/><name>Εὔξενο</name> <w><supplied reason="lost">ς — — — — — — —</supplied></w>
+                    <lb n="21"/><name>Δαμάτριος</name> <name>Ν</name> <w><supplied reason="omitted">υ</supplied></w> <w><unclear>μ</unclear>φοδώρου·</w>
+                    <lb n="22"/><w>ἐλαίου</w> <w>τρεῖς</w> <w>πρόχοι,</w> <w>εἷς</w>
+                    <lb n="23"/><w>διακόσιοι</w> <w>κάδοι.</w>
+                    <lb n="24"/><w>ἀγῶνες</w> <w>τέσσαρες</w> <w>εἴκοσι.</w>
+                    <lb n="25"/><w>ἐπὶ</w> <name>Δεινία</name> <w>τοῦ</w> <name>Ἑλώριος</name>
+                    <lb n="26"/><roleName type="civic" subtype="gymnasiarchos"><w>γυμνασίαρχοι</w></roleName>·
+                    <lb n="27"/><name>Νυμφόδωρος</name> <name>Εὐκλείδα,</name>
+                    <lb n="28"/><name>Θεόδωρος</name> <name>Λέοντος·</name>
+                    <lb n="29"/><w>ἐλαίου</w> <w>τέσσαρες</w> <w>πρόχ<supplied reason="lost">οι</supplied>,</w>
+                    <lb n="30"/><w>διακόσιοι</w> <w>κάδοι</w> <w>σὺν</w> <name>|</name> <w>ἐπαγωγίμωι.</w>
+                    <lb n="31"/><w><supplied reason="lost">ἀγ</supplied>ῶνες</w>
+                    <lb n="32"/><w>τέσσαρες</w> <w>εἴκοσι.</w>
+                    <lb n="33"/><w>ἐπὶ</w> <name>Ἡρακλήτου</name> <w>τοῦ</w> <name>Διονυσίου</name>
+                    <lb n="34"/><roleName type="civic" subtype="gymnasiarchos"><w>γυμνασίαρχοι</w></roleName>·
+                    <lb n="35"/><name>Ἀρ<unclear>τ</unclear>εμίδωρος</name> <name>Ἀθάνιος,</name>
+                    <lb n="36"/><name>Ἡρακλείδας</name> <name>Ὀλύμπιος·</name>
+                    <lb n="37"/><w>ἐλαίου</w> <w>ἓ</w> <w><unclear>ξ</unclear></w> <w>ὀγδοήκον</w> <w><supplied reason="lost">τα</supplied></w>
+                    <lb n="38"/><w><supplied reason="lost">ἑκ</supplied>ατὸν</w> <w>κάδο<supplied reason="lost">ι</supplied>.</w>
+                    <lb n="39"/><w><supplied reason="lost">ἀγῶνες</supplied></w> <w>πέντε</w> <w>εἴ<supplied reason="lost">κοσι</supplied>.</w>
+                    <lb n="40"/><name><surplus>²circa 25 versus detriti sunt</surplus>²</name>
+                    <lb n="41"/><w><supplied reason="lost">ἐπὶ Φιλωνίδα τοῦ — — —</supplied></w>
+                    <lb n="42"/><roleName type="civic" subtype="gymnasiarchos"><w>γυμνασίαρχοι</w></roleName>·
+                    <lb n="43"/><name><supplied reason="lost">— —</supplied>ος</name> <name>Θαρρίππου,</name>
+                    <lb n="44"/><name><supplied reason="lost">— — —</supplied></name> <name>Ἀπολλοδώρου·</name>
+                    <lb n="45"/><w><supplied reason="lost">ἐλαίο</supplied>υ</w> <w>πέντε</w> <w>μέτρα</w>
+                    <lb n="46"/><name><supplied reason="lost">—</supplied></name> <w>ἐνενήκοντα</w>
+                    <lb n="47"/><name><supplied reason="lost">— —</supplied>ακόσιοι</name> <w>κάδοι</w> <w>σὺν</w> <w>ἐ<supplied reason="lost">πα</supplied>|γωγί<supplied reason="lost">μῳ</supplied>.</w>
+                    <lb n="48"/><w>ἀγῶνες</w> <w>ὀκτὼ</w> <w>εἴκοσι.</w>
+                    <lb n="49"/><w><supplied reason="lost">ἐπὶ Μόσχου τοῦ — —</supplied></w>
+                    <lb n="50"/><w><supplied reason="lost"><roleName type="civic" subtype="gymnasiarchos">γυμνασίαρχοι</roleName></supplied>·</w>
+                    <lb n="51"/><name><supplied reason="lost">— — — — — — — — —</supplied></name>
+                    <lb n="52"/><name><supplied reason="lost">— — — — — — — — —</supplied></name>
+                    <lb n="53"/><w><supplied reason="lost">ἐλαίου — — — — — —</supplied></w>
+                    <lb n="54"/><name><supplied reason="lost">— — — — — — — — —</supplied></name>
+                    <lb n="55"/><w><supplied reason="lost">ἀγῶνες — — — — —</supplied>.</w>
+                    <lb n="56"/><w><supplied reason="lost">ἐπὶ Ν</supplied>ικομάχου</w> <w>τοῦ</w>
+                    <lb n="57"/><name><unclear>Μ</unclear>νάσιος</name>
+                    <lb n="58"/><roleName type="civic" subtype="gymnasiarchos"><w><supplied reason="lost">γυ</supplied></w> <w>μνασίαρχοι</w></roleName>·
+                    <lb n="59"/><name><supplied reason="lost">— — —</supplied>ος</name> <name>Ἀριστάρχου,</name>
+                    <lb n="60"/><name><supplied reason="lost">Ἡράκ</supplied>λητος</name> <name>Διονυσίου·</name>
+                    <lb n="61"/><w><supplied reason="lost">ἐλαίο</supplied>υ</w> <w>τέσσαρες</w> <w>πρόχοι,</w>
+                    <lb n="62"/><name><supplied reason="lost">— — —</supplied></name> <w>ἑκα<supplied reason="lost">τὸ</supplied>ν</w> <w>κάδοι</w>
+                    <lb n="63"/><w><supplied reason="lost">σὺν ἐπ</supplied>αγωγίμωι.</w>
+                    <lb n="64"/><w><supplied reason="lost">ἀγῶνες — —</supplied></w> <w>εἴκοσι.</w>
+                    <lb n="65"/><w>ἐπὶ</w> <name>Ἀγα</name> <w><supplied reason="lost">θάρχου τοῦ</supplied></w>
+                    <lb n="66"/><name>Ἀγαθάρχου</name>
+                    <lb n="67"/><w>γυμνασίαρχοι·</w>
+                    <lb n="68"/><name>Ἀ<supplied reason="lost">γ</supplied>άθαρχος</name> <name>Μένωνος,</name>
+                    <lb n="69"/><name>Φρῦνις</name> <name>Φρύνιος·</name>
+                    <lb n="70"/><w>ἐλαίου</w> <w>τέσσαρες</w> <w><supplied reason="lost">κοτ</supplied></w> <w><supplied reason="omitted">ύ</supplied>λ<supplied reason="lost">αι</supplied></w> <name>#⁷<supplied reason="lost">—</supplied>,</name>
+                    <lb n="71"/><w>δύο</w> <w>τεσσαράκοντα</w> <w>ἑκατὸν</w> <w>κά</w> <w><unclear>δ</unclear></w> <w><supplied reason="lost">οι</supplied>.</w>
+                    <lb n="72"/><w>ἀγῶνες</w> <w>ὀκτὼ</w> <w>τριάκοντα.</w>
+                    <lb n="73"/><w>vacat</w>
+                    <lb n="74"/><w>ἐπὶ</w> <name>Ζωίλου</name> <w>τοῦ</w>
+                    <lb n="75"/><name>Ἱστιάρχου</name>
+                    <lb n="76"/><roleName type="civic" subtype="gymnasiarchos"><w>γυμνασίαρχοι</w></roleName>·
+                    <lb n="77"/><name>Σῶσις</name> <name>Νυμφοδώρου</name> <name>Ὀμ(—),</name>
+                    <lb n="78"/><name>Καλλίμαχος</name> <name>Φίλωνος</name> <name>Πελ(—)·</name>
+                    <lb n="79"/><w>ἐλαίου</w> <w>εἴκοσι</w> <w><supplied reason="lost">—</supplied>․<supplied reason="lost">—</supplied>ΣΑ,</w> <w>τρίμετ<supplied reason="lost">ρ</supplied>ο<supplied reason="lost">ς</supplied>,</w>
+                    <lb n="80"/><w>ὀγδοήκοντα</w> <w>ἑκατὸν</w> <w>κάδοι</w> <w>σὺν</w> <w>ἐ<supplied reason="lost">παγωγίμῳ</supplied>.</w>
+                    <lb n="81"/><w>ἀγῶνες</w> <w>ὀκτὼ</w> <w>τριάκοντα.</w>
+                    <lb n="82"/><w>ἐπὶ</w> <name>Τιμόλα</name> <w>τοῦ</w> <name>Ξένων</name> <w><supplied reason="lost">ος</supplied></w>
+                    <lb n="83"/><roleName type="civic" subtype="gymnasiarchos"><w>γυμνασίαρχοι</w></roleName>·
+                    <lb n="84"/><name>Ξένιος</name> <name>Ἐπιδώρου</name> <name>Καλ(—),</name>
+                    <lb n="85"/><name>Ἀρίσταρχος</name> <name>Θεοδώρου</name> <name>Δαμ(—)·</name>
+                    <lb n="86"/><w>ἐλαίου</w> <w>τέσσαρες</w> <w>κοτύλα<supplied reason="lost">ι</supplied>,</w> <w>τ<supplied reason="lost">ρί</supplied>-</w>
+                    <lb n="87"/><w>μετρος,</w> <w>πρόχος,</w> <w>ἐννέα</w> <w>ἑξήκο<supplied reason="lost">ν</supplied>-</w>
+                    <lb n="88"/><w>τα</w> <w>ἑκατὸν</w> <w>κάδοι.</w>
+                    <lb n="89"/><w>ἀγῶνες</w> <w>ὀκτὼ</w> <w>τριάκοντα.</w>
+                    <lb n="90"/><w>ἐπὶ</w> <name>Ἱέρωνος</name> <w>τοῦ</w> <name>Ζωτι</name> <w><supplied reason="omitted">κ</supplied></w> <w><unclear>οῦ</unclear>,</w>
+                    <lb n="91"/><roleName type="civic" subtype="gymnasiarchos"><w>γυμνασίαρχοι</w></roleName>·
+                    <lb n="92"/><name>Ἐπιγένης</name> <name>Ἀριστοκ<supplied reason="lost">ρ</supplied>άτεος,</name>
+                    <lb n="93"/><name>Δαμάτριος</name> <name>Φίλωνος·</name>
+                    <lb n="94"/><w>ἐλαίου</w> <w>τρίμετρος,</w> <w>πρ<supplied reason="lost">όχος</supplied>,</w>
+                    <lb n="95"/><w>ἐννέα</w> <w>ἑξήκοντα</w> <w>ἑκατὸ</w> <w><supplied reason="lost">ν</supplied></w>
+                    <lb n="96"/><w>κάδοι</w> <w>σὺν</w> <w>ἐπαγωγίμ<supplied reason="lost">ῳ</supplied>.</w>
+                    <lb n="97"/><w>ἀγῶνες</w> <w>ὀκτὼ</w> <w>τριάκοντα.</w>
+                    <lb n="98"/><w>ἐπὶ</w> <name>Ζωπύρου</name> <w>τοῦ</w> <name>Χαιρεδάμου</name>
+                    <lb n="99"/><roleName type="civic" subtype="gymnasiarchos"><w>γυμνασίαρχοι</w></roleName>·
+                    <lb n="100"/><name>Ἀγάθαρχος</name> <name>Ἀγαθάρχου,</name>
+                    <lb n="101"/><name>Φιλόδαμος</name> <name>Ἀριστοπόλιος·</name>
+                    <lb n="102"/><w>ἐλαίου</w> <w>τέσσαρες</w> <w>κοτύλ<supplied reason="lost">αι</supplied>,</w>
+                    <lb n="103"/><w>ὀκτὼ</w> <w>ὀγδοήκοντα</w> <w>ἑκατὸν</w> <w><supplied reason="lost">κάδοι</supplied>.</w>
+                    <lb n="104"/><w>ἀγῶνες</w> <w>ὀκτὼ</w> <w>τριάκοντα.</w>
+                    <lb n="105"/><w>ἐπὶ</w> <name>Ἄρχα</name> <w>τοῦ</w> <name>Ἀρίστωνος</name>
+                    <lb n="106"/><roleName type="civic" subtype="gymnasiarchos"><w>γυμνασίαρχοι</w></roleName>·
+                    <lb n="107"/><name>Ἀπολλόδωρος</name> <name>Ἀρτεμιδώρου,</name>
+                    <lb n="108"/><name>Ἐράτων</name> <name>Ἀπολλοδώρου·</name>
+                    <lb n="109"/><w>ἐλαίου</w> <w>τρίμετρος,</w> <w>ἡμι<supplied reason="lost">κάδιον</supplied>,</w>
+                    <lb n="110"/><w>ἑπτὰ</w> <w>δέκα</w> <w>διακόσιο</w> <w><supplied reason="lost">ι</supplied></w>
+                    <lb n="111"/><w>κάδοι</w> <w>σὺν</w> <w>ἐπαγωγίμ<supplied reason="lost">ῳ</supplied>.</w>
+                    <lb n="112"/><w>ἀγῶνες</w> <w>ὀκτὼ</w> <w>τριάκοντα.</w>
+                    <lb n="113"/><w>ἐπὶ</w> <name>Ἡρακλήτου</name> <w>τοῦ</w> <name>Ἀπολλοδώρου</name>
+                    <lb n="114"/><roleName type="civic" subtype="gymnasiarchos"><w>γυμνασίαρχοι</w></roleName>·
+                    <lb n="115"/><name>Ἀρτεμίδω<supplied reason="lost">ρ</supplied>ος</name> <name>Φιλωνίδα,</name>
+                    <lb n="116"/><name>Ἀπολλόδωρος</name> <name>Φρύνιος·</name>
+                    <lb n="117"/><w>ἐλαίου</w> <name><supplied reason="lost">— — δέ</supplied>κα</name> <w>διακόσιο</w> <w><supplied reason="lost">ι</supplied></w>
+                    <lb n="118"/><w>κάδοι.</w>
+                    <lb n="119"/><w>ἀγῶνες</w> <w>εἷς</w> <w>τεσσαράκοντα.</w>
+                    <lb n="120"/><w>ἐπὶ</w> <name>Γοργία</name> <w>τοῦ</w> <name>Ἀγαθάρχου</name>
+                    <lb n="121"/><roleName type="civic" subtype="gymnasiarchos"><w>γυμνασίαρχοι</w></roleName>·
+                    <lb n="122"/><name>Ἀλέξανδρος</name> <name>Ξένωνος,</name>
+                    <lb n="123"/><w><supplied reason="lost">— — —</supplied>Ο#⁷ΑϹΑ<supplied reason="lost">— —</supplied>ξένου·</w>
+                    <lb n="124"/><w><supplied reason="omitted">ἐ</supplied></w> <w><supplied reason="lost">λαίου — — —</supplied>Ητα</w> <w>δ</w> <w><supplied reason="lost">ιακόσιοι</supplied></w>
+                    <lb n="125"/><w><supplied reason="lost">κάδο</supplied>ι</w> <w>σὺν</w> <w>ἐπαγωγίμ<supplied reason="lost">ῳ</supplied>.</w>
+                    <lb n="126"/><w>ἀγῶνες</w> <w><supplied reason="lost">εἷ</supplied>ς</w> <w>τεσσαράκοντα.</w>
+                    <lb n="127"/><w>ἐπὶ</w> <name>Δαματ<supplied reason="lost">ρίου</supplied></name> <w>τοῦ</w> <name>Ἀριστοβούλ</name> <w><supplied reason="lost">ου</supplied></w>
+                    <lb n="128"/><roleName type="civic" subtype="gymnasiarchos"><w>γυμνασίαρχοι</w></roleName>·
+                    <lb n="129"/><name>Εὐκλείδας</name> <name>Νυμφοδώρου</name> <name>Ἀσ(—),</name>
+                    <lb n="130"/><name>Νικόστρατος</name> <name>Ἀγάθωνος·</name>
+                    <lb n="131"/><w>ἐλαίου</w> <w>τρίμετρος,</w> <w>τέσσαρες</w> <w>πρ<supplied reason="lost">όχοι</supplied>,</w>
+                    <lb n="132"/><w>ἐννέα</w> <w>ἑξήκοντα</w> <w>διακόσιο<supplied reason="lost">ι κάδοι</supplied>,</w>
+                    <lb n="133"/><w>μηνῶν</w> <w>ἓξ</w> <w>δέκα.</w>
+                    <lb n="134"/><w>ἀγῶνες</w> <w>εἷς</w> <w>τεσσαράκοντα.</w>
+                    <lb n="135"/><w>ἐπὶ</w> <name>Ἀριστοκράτεος</name> <w>τοῦ</w> <name>Ζωπύρου</name>
+                    <lb n="136"/><roleName type="civic" subtype="gymnasiarchos"><w>γυμνασίαρχοι</w></roleName>·
+                    <lb n="137"/><name>Φιλωνίδας</name> <name>Κρίθωνος</name> <name>Ἄσ</name> <w><supplied reason="omitted">σ</supplied></w> <w><supplied reason="lost" cert="low">ιτ(—)</supplied></w>
+                    <lb n="138"/><name>Ἀρτεμίδωρος</name> <name>Θεοφίλου</name> <name>Κ<supplied reason="lost">— —</supplied>·</name>
+                    <lb n="139"/><w>ἐλαίου</w> <w>δύο</w> <w>πρόχους,</w>
+                    <lb n="140"/><w>ἑκατὸν</w> <w>κάδους,</w> <w>μην<supplied reason="lost" cert="low">ῶν
+                    ὀκτώ</supplied>.</w>
+                    <lb n="141"/><w>ἀγῶνες</w> <w>εἷς</w> <w>τεσσεράκ<supplied reason="lost">οντα</supplied>.</w>
+                    <lb n="142"/><w>ἐ<supplied reason="lost">πὶ</supplied></w> <name>Ἀρτεμιδώρου</name> <w>τοῦ</w> <name><supplied reason="lost">— — —</supplied></name>
+                    <lb n="143"/><roleName type="civic" subtype="gymnasiarchos"><w>γυμνασίαρχοι</w></roleName>·
+                    <lb n="144"/><name><supplied reason="lost">Ὑ</supplied></name> <w><unclear>π</unclear>έρ<supplied reason="lost">βο</supplied>λος</w> <name>Νυμφοδώρου,</name>
+                    <lb n="145"/><name><supplied reason="lost">Ὄ</supplied>λυμπις</name> <name>Θεοδώρου</name> <name>Α<supplied reason="lost">— —</supplied>·</name>
+                    <lb n="146"/><w>ἐλαίου</w> <w>τρίμετρος,</w> <w>ἡμικάδιον,</w>
+                    <lb n="147"/><w>διακόσιοι</w> <w>κάδοι.</w>
+                    <lb n="148"/><w>ἀγῶνες</w> <w>εἷς</w> <w>τεζσαράκοντα.</w>
+                    <lb n="149"/><w><supplied reason="lost">ἐπὶ</supplied></w> <name>Ἀρτέμωνος</name> <w>τοῦ</w> <name>Ἱπποκράτεος</name>
+                    <lb n="150"/><w><supplied reason="lost">γυμ</supplied>νασίαρχοι·</w>
+                    <lb n="151"/><name>Ὑπέρβολος</name> <name>Ὀνασικράτεος</name> <name>Ἀσιν(—),</name>
+                    <lb n="152"/><name><supplied reason="lost">Φά</supplied></name> <w><unclear>λ</unclear>ακ<supplied reason="lost">ρο</supplied>ς</w> <name>Ἀριστοκράτεος</name> <name>Ταν(—)·</name>
+                    <lb n="153"/><w>ἔσοδος</w> <w>τέσσαρες</w> <w>λίτραι,</w> <w>δύο</w> <w>ἐνενήκοντα</w> <w>τετρακόσια</w> <w>τε<supplied reason="lost">τρακισ</supplied>-</w>
+                    <lb n="154"/><w>χίλια,</w> <w>ἐννέα</w> <w>μυριάδες·</w> <w>ἔξοδος</w> <w>μία</w> <w>ἑξήκοντα</w> <w>λίτραι,</w> <w><supplied reason="lost">ὀκτὼ</supplied></w>
+                    <lb n="155"/><w>ἑβδομήκοντα</w> <w>τριακόσια</w> <w>ἐνακισχίλια</w> <w>τετρακισμύρια</w> <w>τ<supplied reason="lost">άλαντα</supplied>,</w>
+                    <lb n="156"/><w>ΕΝ</w> <name><supplied reason="lost">— —</supplied></name> <w><unclear>Ι</unclear>Α</w> <w>ἑπτακόσια</w> <w>δισχίλια</w> <w>τρισμύρια·</w> <w>λοιπ<supplied reason="lost">ὸ</supplied>ν</w> <w><supplied reason="lost">τρία ἑξή</supplied>-</w>
+                    <lb n="157"/><w>κοντα</w> <w>λίτραι,</w> <w>τρία</w> <w>δέκα</w> <w>ἑκατὸν</w> <w>πεντακισχίλια</w> <w>τετρακισμ<supplied reason="lost">ύρια</supplied>.</w>
+                    <lb n="158"/><w>ἐλαίου</w> <w>ἔσοδος</w> <w>ὀκτὼ</w> <w>τριάκοντα</w> <w>τετρακόσιοι</w> <w>κάδοι·</w> <w>ἔξο<unclear>δο</unclear>ς</w>
+                    <lb n="159"/><w>τρίμετρος,</w> <w>ἐννέα</w> <w>δέκα</w> <w>τετρακόσιοι</w> <w>κάδοι·</w> <w>τούτου</w> <w>ἐς</w> <w>τὸν</w> <w>ἀ</w> <w><supplied reason="lost">γῶνα</supplied></w>
+                    <lb n="160"/><w>τρίμετρος,</w> <w>ὀκτὼ</w> <w>δέκα</w> <w>διακόσιοι</w> <w>κάδοι·</w> <w>λοιπὸν</w> <w>τρίμετρος,</w> <w>πέντ</w> <w><supplied reason="lost">ε</supplied></w>
+                    <lb n="161"/><w>πρόχοι,</w> <w>ὀκ<supplied reason="lost">τ</supplied>ὼ</w> <w>δέκα</w> <w>κάδοι.</w>
+                    <lb n="162"/><w>ἀγῶνες</w> <w>πέντε</w> <w>τριάκοντα.</w>
+                    <lb n="163"/><w><supplied reason="lost">ἐ</supplied>πὶ</w> <name>Νικοστράτου</name> <w>τοῦ</w> <name>Φίλωνο</name> <w><supplied reason="lost">ς</supplied></w>
+                    <lb n="164"/><w>γυμνασίαρχοι·</w>
+                    <lb n="165"/><name>Ἀνδρόμαχος</name> <name>Ἀπολλωνίδα</name> <name>Δεξ(—),</name>
+                    <lb n="166"/><name>Φρῦνις</name> <name>Ὀλύμπιος</name> <name>Ἀσσιτ(—)·</name>
+                    <lb n="167"/><w>ἔσοδος</w> <w>ἑπτὰ</w> <w>ἑξήκοντα</w> <w>λίτραι,</w> <w>ἓξ</w> <w>ἴκοσι</w> <w>ὀκτακόσ</w> <w><supplied reason="lost">ια</supplied></w>
+                    <lb n="168"/><w>δισχίλια</w> <w>ἑξακισμύρια</w> <w>τάλαντα·</w> <w>ἔξοδος</w> <w>ὀκ</w> <w><supplied reason="lost">τὼ</supplied></w>
+                    <lb n="169"/><w>ἑβδομήκοντα</w> <w>λίτραι,</w> <w>τρία</w> <w>ἑβδομήκοντα</w> <w><supplied reason="lost">διακόσια</supplied></w>
+                    <lb n="170"/><w>τετρακισμύρια</w> <w>τάλαντα·</w> <w>λοιπὸν</w> <w>τρεῖς</w> <w>πεντήκοντα</w> <w>λ<supplied reason="lost">ί</supplied>-</w>
+                    <lb n="171"/><w>τραι,</w> <w>πεντήκοντα</w> <w>διακόσια</w> <w>χίλια</w> <w>τάλαντα</w>
+                    <lb n="172"/><w>καὶ</w> <w>χρῆμα</w> <w>τὸ</w> <w>δανειζόμενον</w> <w>ἓξ</w> <w>πεντήκοντα</w>
+                    <lb n="173"/><w>λίτραι,</w> <w>δύο</w> <w>τριακόσια</w> <w>χίλια</w> <w>δισμύρια</w> <w>τάλαντα·</w> <w>τούτ<supplied reason="lost">ο</supplied>-</w>
+                    <lb n="174"/><w>υ</w> <w>ἐς</w> <w>τὸν</w> <w>ἀγῶνα</w> <w>καὶ</w> <w>τὸ</w> <w>δεῖπνον</w> <w>δύο</w> <w>λίτραι,</w> <w>ὀκτ</w> <w><supplied reason="lost">ὼ ὀγ</supplied></w> <w><unclear>δο</unclear></w> <w><supplied reason="lost">ή</supplied>-</w>
+                    <lb n="175"/><w>κοντα</w> <w>ὀκτακόσια</w> <w>τρισχίλια</w> <w>τάλαντα</w> <w>κ<supplied reason="lost">αὶ ἐν ἀνδο</supplied>-</w>
+                    <lb n="176"/><w>κείαις</w> <w>τέσσαρες</w> <w>πεντήκοντα</w> <w>λίτρα<supplied reason="lost">ι</supplied>,</w> <w>τέσσαρα</w> <w>δέκ</w> <w><supplied reason="lost">α</supplied></w>
+                    <lb n="177"/><w>τετρακόσια</w> <w>ἑπτακισχίλια</w> <w>μύρια</w> <w>τάλαντα.</w>
+                    <lb n="178"/><w>ἐλαίου</w> <w>ἔσοδος</w> <w>τρεῖς</w> <w>ἐνενήκοντα</w> <w>ἑκατὸν</w> <w>κάδ<supplied reason="lost">οι</supplied>·</w>
+                    <lb n="179"/><w>ἔξοδος</w> <w>τὸ</w> <w>ἴσον.</w>
+                    <lb n="180"/><w>vacat</w>
+                    <lb n="181"/><w><supplied reason="lost">ἐ</supplied>πὶ</w> <name>Φιλίστου</name> <w>τοῦ</w> <name>Ἵππωνος</name>
+                    <lb n="182"/><w>γυμνασίαρχοι·</w>
+                    <lb n="183"/><name>Δαμάτριος</name> <name>Φίλωνος</name> <name>Πελ(—),</name>
+                    <lb n="184"/><name>Εὐκλείδας</name> <name>Νυμφοδώρου</name> <name>Οἰν(—)·</name>
+                    <lb n="185"/><w>ἔσοδος</w> <w>ὀκτὼ</w> <w>ὀγδοήκοντα</w> <w>λίτραι,</w> <w>τέσσα</w> <w><supplied reason="lost">ρα</supplied></w>
+                    <lb n="186"/><w>τετρακόσια</w> <w>ἑξακισχίλια</w> <w>πεντακισμύρια</w>
+                    <lb n="187"/><w>τάλαντα·</w> <w>ἔξοδος</w> <w>δύο</w> <w>τεσσεσάκοντα</w> <w>λίτραι,</w>
+                    <lb n="188"/><w>δύο</w> <w>πεντήκοντα</w> <w>τετρακόσια</w> <w>τρισμύρια</w> <w>τά-</w>
+                    <lb n="189"/><w>λαντα·</w> <w>λοιπὸν</w> <w>δύο</w> <w>δέκα</w> <w>ἑκατὸν</w> <w>λίτραι,</w> <w>πέν-</w>
+                    <lb n="190"/><w>τε</w> <w>τριάκοντα</w> <w>ἐνακόσια</w> <w>τετρακισχίλια</w> <w>τά-</w>
+                    <lb n="191"/><w>λαντα</w> <w>καὶ</w> <w>χρῆμα</w> <w>τὸ</w> <w>δανειζόμενον</w>
+                    <lb n="192"/><w><supplied reason="lost">τέσ</supplied>σερες</w> <w>πεντήκοντα</w> <w>λίτραι,</w> <w>ἓξ</w> <w>δέκα</w>
+                    <lb n="193"/><w><supplied reason="lost">χίλι</supplied>α</w> <w>δισμύρια</w> <w>τάλαντα·</w> <w>τούτου</w> <w>ἐς</w>
+                    <lb n="194"/><w><supplied reason="lost">τὸν ἀ</supplied>γῶνα</w> <w>καὶ</w> <w>τὸ</w> <w>δεῖπνον</w> <w>δύο</w> <w>ἑξακόσι</w> <w><supplied reason="lost">α</supplied></w>
+                    <lb n="195"/><w><supplied reason="lost">τρισχί</supplied>λια</w> <w>τάλαντα,</w> <w>καὶ</w> <w>ἐν</w> <w>ἀνδοκείαις</w>
+                    <lb n="196"/><w><supplied reason="lost">τέσσαρες</supplied></w> <w>πεντήκοντα</w> <w>λίτραι,</w> <w>τέσσαρα</w> <w>δέ-</w>
+                    <lb n="197"/><w><supplied reason="lost">κα τετρ</supplied>ακόσια</w> <w>ἑπτακισχίλια</w> <w>μύρια</w> <w>τά-</w>
+                    <lb n="198"/><w><supplied reason="lost">λαντα</supplied>.</w>
+                    <lb n="199"/><w><supplied reason="lost">ἐλαίου ἔσ</supplied>οδος</w> <w>ἑπτὰ</w> <w>ἑβδομήκοντα</w> <w><unclear>ἑκα</unclear>-</w>
+                    <lb n="200"/><w><supplied reason="lost">τὸν κά</supplied>δοι·</w> <w>ἔξοδος</w> <w>τὸ</w> <w>ἴσον.</w>
+                    <lb n="201"/><w>vacat</w>
+                    <lb n="202"/><w>ἑπὶ</w> <name>Εὐδόξου</name> <w>τοῦ</w> <name>Σώσιος</name>
+                    <lb n="203"/><w>γυμνασίαρχοι·</w>
+                    <lb n="204"/><name>Ἀπολλόδωρος</name> <name>Φρύνιος</name> <name>Δαμ(—),</name>
+                    <lb n="205"/><name>Φρῦνις</name> <name>Φιλιστίωνος</name> <name>Σπαρ(—)·</name>
+                    <lb n="206"/><w>ἔσοδος</w> <w>ἑπτὰ</w> <w>ἑβδομήκοντα</w> <w>λίτραι,</w> <w>τρία</w>
+                    <lb n="207"/><w>ὀγδοήκοντα</w> <w>διακόσια</w> <w>ἐνακισχίλια</w> <w>πεντα-</w>
+                    <lb n="208"/><w>κισμύρια</w> <w>τάλαντα·</w> <w>ἔξοδος</w> <w>τρεῖς</w> <w>ἑβδο-</w>
+                    <lb n="209"/><w>μήκοντα</w> <w>λίτραι,</w> <w>πέντε</w> <w>δέκα</w> <w>πεντακισχί-</w>
+                    <lb n="210"/><w>λια</w> <w>τρισμύρια</w> <w>τάλαντα·</w> <w>λοιπὸν</w> <w>πέντε</w>
+                    <lb n="211"/><w>τεσσαράκοντα</w> <w>λίτραι,</w> <w>ἑπτὰ</w> <w>δέκα</w> <w>ἑξακόσια</w>
+                    <lb n="212"/><w>δισχίλια</w> <w>τάλαντα</w> <w>καὶ</w> <w>χρῆμα</w> <w>τὸ</w> <w>δανειζόμε-</w>
+                    <lb n="213"/><w>νον</w> <w>ἐννέα</w> <w>ἑβδομήκοντα</w> <w>λίτραι,</w> <w>πεντήκοντ</w> <w><supplied reason="lost">α</supplied></w>
+                    <lb n="214"/><w>ἑξακόσια</w> <w>χίλια</w> <w>δισμύρια</w> <w>τάλαντα·</w> <w><supplied reason="lost">τούτου</supplied></w>
+                    <lb n="215"/><w>ἐς</w> <w>τὸν</w> <w>ἀγῶνα</w> <w>καὶ</w> <w>τὸ</w> <w>δεῖπνον</w> <w>πέντε</w> <w>ἴκοσ</w> <w><supplied reason="lost">ι</supplied></w>
+                    <lb n="216"/><w>λίτραι,</w> <w>ἓξ</w> <w>τριάκοντα</w> <w>διακόσια</w> <w>τετρακισχί-</w>
+                    <lb n="217"/><w>λια</w> <w>τάλαντα,</w> <w>καὶ</w> <w>ἐν</w> <w>ἀνδοκείαι<supplied reason="lost">ς</supplied></w> <w>τέσσ</w> <w><supplied reason="lost">αρες</supplied></w>
+                    <lb n="218"/><w>πεντήκοντα</w> <w>λίτραι,</w> <w>τ<supplied reason="lost">έσσ</supplied>α<supplied reason="lost">ρα δ</supplied>έκα</w> <w>τετρα<supplied reason="lost">κό</supplied>-</w>
+                    <lb n="219"/><w>σια</w> <w>ἑπτακισχίλια</w> <w>μύ<supplied reason="lost">ρ</supplied>ια</w> <w>τάλαν<supplied reason="lost">τ</supplied>α.</w>
+                    <lb n="220"/><w><supplied reason="lost">ἐλαί</supplied>ου</w> <w>ἔσοδος</w> <w>ἡμικάδιον,</w> <w>ἓξ</w> <w>ἴκοσι</w> <w>διακόσιοι</w> <w>κάδ<supplied reason="lost">οι</supplied>·</w>
+                    <lb n="221"/><w><supplied reason="lost">ἔξ</supplied>οδος</w> <w>τὸ</w> <w>ἴσον.</w>
+                    <lb n="222"/><w>vacat</w>
+                    <lb n="223"/><w><supplied reason="lost">ἐπὶ</supplied></w> <name><unclear>Ἀ</unclear>ριστοπόλιος</name> <w>τοῦ</w> <name>Φιλοδάμ</name> <w><supplied reason="lost">ου</supplied></w>
                     <lb n="224"/>
                 </ab>
             </div>
@@ -455,7 +425,7 @@
 IG XIV 422, faces II-III, readings (V. Arangio-Ruiz):<lb n="2"/>
                     <lb n="3"/>
                     <supplied reason="lost">Ζωΐλ</supplied>
-                    <expan>
+                     <expan>
                         <abbr>ος</abbr>
                         <ex>?</ex>
                     </expan>
@@ -463,120 +433,120 @@ IG XIV 422, faces II-III, readings (V. Arangio-Ruiz):<lb n="2"/>
                     <lb n="5"/>. . .<lb n="6"/>
                     <lb n="7"/>ἐλαίου τέσσαρες δέ
                     <supplied reason="lost">κα κ</supplied>
-                    <unclear>οτύ</unclear>
-                    <supplied reason="lost">λαι</supplied>,<lb n="8"/>
+                     <unclear>οτύ</unclear>
+                     <supplied reason="lost">λαι</supplied>, <lb n="8"/>
                     <lb n="9"/>. . .<lb n="10"/>
                     <lb n="11"/>ἐλαίου εἴκοσι
                     <supplied reason="lost">κο</supplied>
-                    <unclear>τ</unclear>
-                    <supplied reason="lost">ύ</supplied>
-                    <unclear>λ</unclear>α<supplied reason="lost">ι</supplied>, τρίμετ<supplied reason="lost">
-                    ρ</supplied>ο<supplied reason="lost">ς</supplied>,<lb n="12"/>
+                     <unclear>τ</unclear>
+                     <supplied reason="lost">ύ</supplied>
+                     <unclear>λ</unclear>α <supplied reason="lost">ι</supplied>, τρίμετ <supplied reason="lost">
+                    ρ</supplied>ο <supplied reason="lost">ς</supplied>, <lb n="12"/>
                     <lb n="13"/>. . .<lb n="14"/>
                     <lb n="15"/>ἐλαίου
                     <unclear>εἷς</unclear>
-                    <unclear>δέκ</unclear>α διακόσιο
-                    <supplied reason="lost">ι</supplied>
-                    <lb n="16"/>
+                     <unclear>δέκ</unclear>α διακόσιο
+                     <supplied reason="lost">ι</supplied>
+                     <lb n="16"/>
                     <lb n="17"/>. . .<lb n="18"/>
                     <lb n="19"/>
                     <supplied reason="lost">— — — — —</supplied>
-                    <unclear>ατ</unclear>όλας
-                    <unclear>Ἁ</unclear>
-                    <supplied reason="lost">ρμο</supplied>
-                    <unclear>ξ</unclear>ένου·
-                    <lb n="20"/>
-                    <supplied reason="lost">ἐλαίου τρίμετρος</supplied>, ἡ<supplied reason="lost" cert="low">
-                    μικάδιον</supplied>,<lb n="21"/>
+                     <unclear>ατ</unclear>όλας
+                     <unclear>Ἁ</unclear>
+                     <supplied reason="lost">ρμο</supplied>
+                     <unclear>ξ</unclear>ένου·
+                     <lb n="20"/>
+                    <supplied reason="lost">ἐλαίου τρίμετρος</supplied>, ἡ <supplied reason="lost" cert="low">
+                    μικάδιον</supplied>, <lb n="21"/>
                     <lb n="22"/>. . .<lb n="23"/>
                     <lb n="24"/>ἐννέα ἑξήκοντα διακόσιοι
                     <unclear>κά</unclear>
-                    <supplied reason="lost">δοι</supplied>,<lb n="25"/>
+                     <supplied reason="lost">δοι</supplied>, <lb n="25"/>
                     <lb n="26"/>. . .<lb n="27"/>
-                    <lb n="28"/>ἐ<supplied reason="lost">πὶ</supplied> Ἀρτεμιδώρου τοῦ Α<supplied reason="lost">— —
-                    —</supplied>,<lb n="29"/>
+                    <lb n="28"/>ἐ<supplied reason="lost">πὶ</supplied> Ἀρτεμιδώρου τοῦ Α <supplied reason="lost">— —
+                    —</supplied>, <lb n="29"/>
                     <lb n="30"/>. . .<lb n="31"/>
                     <lb n="32"/>
                     <unclear>Ἱ</unclear>ερ
-                    <supplied reason="lost">— —</supplied>
-                    <unclear>μ</unclear>ος Νυμφοδώρου<lb n="33"/>
+                     <supplied reason="lost">— —</supplied>
+                     <unclear>μ</unclear>ος Νυμφοδώρου <lb n="33"/>
                     <lb n="34"/>. . .<lb n="35"/>
                     <lb n="36"/>
-                    <unclear>Φάλ</unclear>ακ<supplied reason="lost">ρο</supplied>ς Ἀριστο<unclear>κ</unclear>ρ<unclear>
-                    ά</unclear>τεος Ταν.·<lb n="37"/>
+                    <unclear>Φάλ</unclear>ακ <supplied reason="lost">ρο</supplied>ς Ἀριστο <unclear>κ</unclear>ρ <unclear>
+                    ά</unclear>τεος Ταν.· <lb n="37"/>
                     <lb n="38"/>. . .<lb n="39"/>
                     <lb n="40"/>ἐν
                     <supplied reason="lost">ἀνδοκε</supplied>
-                    <unclear>ί</unclear>α
-                    <supplied reason="omitted">ι</supplied>
+                     <unclear>ί</unclear>α
+                     <supplied reason="omitted">ι</supplied>
                     
-                    <surplus>²⁷ἐν[έχυ]ρα</surplus>²⁷ ἑπτακόσια δισχίλια τρισμύρια· λοιπ<supplied reason="lost">
-                    ὸ</supplied>ν <supplied reason="lost">τρία ἑξή</supplied>-<lb n="41"/>κοντα λίτραι, τρία δέκα ἑκατὸν
-                    πεντακισχίλια τετρακισμ<supplied reason="lost">ύρια</supplied>.<lb n="42"/>ἐλαίου ἔσοδος ὀκτὼ
+                     <surplus>²⁷ἐν[έχυ]ρα</surplus>²⁷ ἑπτακόσια δισχίλια τρισμύρια· λοιπ<supplied reason="lost">
+                    ὸ</supplied>ν  <supplied reason="lost">τρία ἑξή</supplied>- <lb n="41"/>κοντα λίτραι, τρία δέκα ἑκατὸν
+                    πεντακισχίλια τετρακισμ<supplied reason="lost">ύρια</supplied>. <lb n="42"/>ἐλαίου ἔσοδος ὀκτὼ
                     τριάκοντα τετρακόσιοι κάδοι· ἔξοδος<lb n="43"/>
                     <lb n="44"/>. . .<lb n="45"/>
                     <lb n="46"/>ἑβδομήκοντα λίτραι, τρία ἑβδομήκοντα διακό
                     <supplied reason="lost">σια</supplied>
-                    <lb n="47"/>
+                     <lb n="47"/>
                     <lb n="48"/>. . .<lb n="49"/>
                     <lb n="50"/>
                     <supplied reason="lost">ἐλαίου ἔσ</supplied>οδος ἑπτὰ ἑβδομήκοντα ἑκα
-                    <supplied reason="lost">τὸν</supplied>
-                    <lb n="51"/>
-                    <supplied reason="lost">κά</supplied>δοι <surplus>²⁷ἑκα|[τὸν κά]δοι</surplus>²⁷· ἔξοδος τὸ ἴσον.<lb n="52"/>
+                     <supplied reason="lost">τὸν</supplied>
+                     <lb n="51"/>
+                    <supplied reason="lost">κά</supplied>δοι  <surplus>²⁷ἑκα|[τὸν κά]δοι</surplus>²⁷· ἔξοδος τὸ ἴσον.<lb n="52"/>
                     <lb n="53"/>. . .<lb n="54"/>
                     <lb n="55"/>
                     <unclear>ἑ</unclear>ξακόσια χίλια δισμύρια τάλαντα·
-                    <unclear>τούτου</unclear>
-                    <lb n="56"/>
+                     <unclear>τούτου</unclear>
+                     <lb n="56"/>
                 </ab>
             </div>
             <div type="edition" xml:space="preserve" subtype="PHI" n="PHI331127">
                 <ab>
                     <lb n="1"/>
                     <supplied reason="lost">— — — — — — — — — — —</supplied>
-                    <lb n="2"/>
+                     <lb n="2"/>
                     <supplied reason="lost">— — — — — — — — — — —</supplied>
-                    <lb n="3"/>
+                     <lb n="3"/>
                     <supplied reason="lost">— — — — — — — — — — —</supplied>
-                    <lb n="4"/>
+                     <lb n="4"/>
                     <supplied reason="lost">— — — — — — — — — — —</supplied>
-                    <lb n="5"/>
+                     <lb n="5"/>
                     <unclear>Ο</unclear>
-                    <surplus>²⁷Θ̣</surplus>²⁷
+                     <surplus>²⁷Θ̣</surplus>²⁷
                     <supplied reason="lost">․c.3․</supplied>
-                    <unclear>Π</unclear>
-                    <surplus>²⁷Η̣</surplus>²⁷
+                     <unclear>Π</unclear>
+                     <surplus>²⁷Η̣</surplus>²⁷
                     <supplied reason="lost">— — —</supplied>
-                    <lb n="6"/>Θε<supplied reason="lost">οχρ</supplied>ησ
-                    <supplied reason="lost">τ— — — — — —</supplied>
-                    <lb n="7"/> Ἀπολλ
+                     <lb n="6"/>Θε<supplied reason="lost">οχρ</supplied>ησ
+                     <supplied reason="lost">τ— — — — — —</supplied>
+                     <lb n="7"/> Ἀπολλ
                     <supplied reason="lost">ωνίου — — — —</supplied>
-                    <lb n="8"/>δόγμα Ν<unclear>ε</unclear>α
-                    <supplied reason="lost">πολιτῶν — — —</supplied>
-                    <lb n="9"/>
+                     <lb n="8"/>δόγμα Ν<unclear>ε</unclear>α
+                     <supplied reason="lost">πολιτῶν — — —</supplied>
+                     <lb n="9"/>
                     <supplied reason="lost">․․</supplied>Λ
-                    <supplied reason="lost">— — — — — — — — —</supplied>
-                    <lb n="10"/>πε
+                     <supplied reason="lost">— — — — — — — — —</supplied>
+                     <lb n="10"/>πε
                     <unclear>ρ</unclear>
-                    <supplied reason="lost">ὶ</supplied>
+                     <supplied reason="lost">ὶ</supplied>
                     γ
-                    <unclear>υ</unclear>
-                    <supplied reason="lost">μ</supplied>
-                    <unclear>ν</unclear>
-                    <supplied reason="lost">ασιάρχων — —</supplied>
-                    <lb n="11"/>Ι<supplied reason="lost">․</supplied>Μ
-                    <supplied reason="lost">— — — — — — — — —</supplied>
-                    <lb n="12"/>
+                     <unclear>υ</unclear>
+                     <supplied reason="lost">μ</supplied>
+                     <unclear>ν</unclear>
+                     <supplied reason="lost">ασιάρχων — —</supplied>
+                     <lb n="11"/>Ι<supplied reason="lost">․</supplied>Μ
+                     <supplied reason="lost">— — — — — — — — —</supplied>
+                     <lb n="12"/>
                     <supplied reason="lost">— —</supplied>Θ
-                    <supplied reason="lost">— — — — — — — —</supplied>
-                    <lb n="13"/>
+                     <supplied reason="lost">— — — — — — — —</supplied>
+                     <lb n="13"/>
                     <supplied reason="lost">— — — — — — — — — — —</supplied>
-                    <lb n="14"/>
+                     <lb n="14"/>
                     <supplied reason="lost">— —</supplied>
-                    <unclear>Ο</unclear>
-                    <supplied reason="lost">— — — — — — — —</supplied>
-                    <lb n="15"/>
+                     <unclear>Ο</unclear>
+                     <supplied reason="lost">— — — — — — — —</supplied>
+                     <lb n="15"/>
                 </ab>
             </div>
             <div type="edition" xml:space="preserve" subtype="PHI" n="PHI331128">
@@ -586,41 +556,41 @@ IG XIV 422, faces II-III, readings (V. Arangio-Ruiz):<lb n="2"/>
 
                     ἐπὶ Ξενίου τοῦ
                     <unclear>Ἐ</unclear>
-                    <supplied reason="lost">πιδώρου</supplied>
-                    <lb n="2"/> <roleName type="civic" subtype="gymnasiarchos">γυμνασι<unclear>άρ</unclear>χοι</roleName>
-                    <lb n="3"/>
+                     <supplied reason="lost">πιδώρου</supplied>
+                     <lb n="2"/> <roleName type="civic" subtype="gymnasiarchos">γυμνασι<unclear>άρ</unclear>χοι</roleName>
+                     <lb n="3"/>
                     <supplied reason="lost">— —</supplied>ΟΥ ∙ Ε
-                    <unclear>Α</unclear>
-                    <supplied reason="lost">— — — — —</supplied>
-                    <lb n="4"/>
+                     <unclear>Α</unclear>
+                     <supplied reason="lost">— — — — —</supplied>
+                     <lb n="4"/>
                     <supplied reason="lost">— — — — — — — — — — — —</supplied>
-                    <lb n="5"/>
+                     <lb n="5"/>
                     <unclear>ἐλ</unclear>
-                    <supplied reason="lost">αίου π</supplied>έ
-                    <supplied reason="lost">ν</supplied>
-                    <unclear>τ</unclear>ε πρόχοι δ
-                    <supplied reason="lost">ύο(?) — —</supplied>
-                    <lb n="6"/>ἐ<supplied reason="lost">ν</supplied>ε<supplied reason="lost">ν</supplied>ή<supplied reason="lost">κοντα ἑκατὸν κ</supplied>άδ
-                    <supplied reason="lost">οι σὺν</supplied>
-                    <lb n="7"/>
+                     <supplied reason="lost">αίου π</supplied>έ
+                     <supplied reason="lost">ν</supplied>
+                     <unclear>τ</unclear>ε πρόχοι δ
+                     <supplied reason="lost">ύο(?) — —</supplied>
+                     <lb n="6"/>ἐ<supplied reason="lost">ν</supplied>ε <supplied reason="lost">ν</supplied>ή <supplied reason="lost">κοντα ἑκατὸν κ</supplied>άδ
+                     <supplied reason="lost">οι σὺν</supplied>
+                     <lb n="7"/>
                     <supplied reason="lost">ἐπ</supplied>αγ
-                    <supplied reason="lost">ωγίμωι — —</supplied>
-                    <unclear>Ε</unclear>
-                    <supplied reason="lost">․</supplied>Ε
-                    <supplied reason="lost">— — — —</supplied>
-                    <lb n="8"/>
+                     <supplied reason="lost">ωγίμωι — —</supplied>
+                     <unclear>Ε</unclear>
+                     <supplied reason="lost">․</supplied>Ε
+                     <supplied reason="lost">— — — —</supplied>
+                     <lb n="8"/>
                     <supplied reason="lost">— — — — —</supplied>ΥΚΑ
-                    <unclear>Ε</unclear>
-                    <supplied reason="lost">— — — — — — —</supplied>
-                    <lb n="9"/>
+                     <unclear>Ε</unclear>
+                     <supplied reason="lost">— — — — — — —</supplied>
+                     <lb n="9"/>
                     <surplus>²lacuna</surplus>²
                     <lb n="10"/>
                     <supplied reason="lost">— — — — Θεο</supplied>δώρ
-                    <supplied reason="lost">ου(?)</supplied>
-                    <lb n="11"/>
-                    <supplied reason="lost">— — —</supplied>ΘΣ Θαρρία <unclear>Σπ</unclear>α
-                    <supplied reason="lost">ρ.</supplied>
-                    <lb n="12"/>
+                     <supplied reason="lost">ου(?)</supplied>
+                     <lb n="11"/>
+                    <supplied reason="lost">— — —</supplied>ΘΣ Θαρρία  <unclear>Σπ</unclear>α
+                     <supplied reason="lost">ρ.</supplied>
+                     <lb n="12"/>
                 </ab>
             </div>
             <div type="edition" xml:space="preserve" subtype="PHI" n="PHI331129">
@@ -632,68 +602,68 @@ IG XIV 422, faces II-III, readings (V. Arangio-Ruiz):<lb n="2"/>
                     <lb n="2"/>
                     <supplied reason="lost">— — — — — — — — ἐλαίου(?)</supplied>
                     δ
-                    <unclear>ύ</unclear>
-                    <supplied reason="lost">ο ἑξ</supplied>
-                    <unclear>ή</unclear>
-                    <supplied reason="lost">κο</supplied>
-                    <unclear>ν</unclear>τ
-                    <unclear>α</unclear>
-                    <supplied reason="lost">ἑκατὸν κάδοι — — — —</supplied>
-                    <lb n="3"/>ἀ<supplied reason="lost">γῶνες — — ἐπὶ(?) — —</supplied>Ξ․c.6․․<unclear>ΑΣ</unclear>․․
-                    <unclear>Ε</unclear>
-                    <supplied reason="lost">— — γ</supplied>
-                    <unclear>υμν</unclear>ασ
-                    <unclear>ί</unclear>
-                    <supplied reason="lost">α</supplied>
-                    <unclear>ρ</unclear>χ
-                    <supplied reason="lost">οι — — — —</supplied>
-                    <lb n="4"/>Υ<unclear>Α</unclear>․ΜΙ<supplied reason="lost">— — ἐλαίου(?) —</supplied>Ι․c.3․
-                    <supplied reason="lost">— — κ</supplied>
-                    <unclear>ο</unclear>τ<unclear>ύλ</unclear>α<supplied reason="lost">ι(?) — —</supplied> κάδο
-                    <supplied reason="lost">ι ․</supplied>
-                    <unclear>Λ</unclear>Τ
-                    <supplied reason="lost">— —</supplied>
-                    <lb n="5"/>
-                    <unclear>Σ</unclear>Ο․Δ<unclear>Α</unclear>․c.3․Ι<supplied reason="lost">— — ἑ</supplied>πτὰ Δ․․Σ․Α
-                    <supplied reason="lost">— —</supplied>
-                    <unclear>Ω</unclear>
-                    <supplied reason="lost">— — — — — — — — — — —</supplied>ΣΕ
-                    <unclear>Ν</unclear>
-                    <lb n="6"/>․․Θ․c.4․Θ
+                     <unclear>ύ</unclear>
+                     <supplied reason="lost">ο ἑξ</supplied>
+                     <unclear>ή</unclear>
+                     <supplied reason="lost">κο</supplied>
+                     <unclear>ν</unclear>τ
+                     <unclear>α</unclear>
+                     <supplied reason="lost">ἑκατὸν κάδοι — — — —</supplied>
+                     <lb n="3"/>ἀ<supplied reason="lost">γῶνες — — ἐπὶ(?) — —</supplied>Ξ․c.6․․ <unclear>ΑΣ</unclear>․․
+                     <unclear>Ε</unclear>
+                     <supplied reason="lost">— — γ</supplied>
+                     <unclear>υμν</unclear>ασ
+                     <unclear>ί</unclear>
+                     <supplied reason="lost">α</supplied>
+                     <unclear>ρ</unclear>χ
+                     <supplied reason="lost">οι — — — —</supplied>
+                     <lb n="4"/>Υ<unclear>Α</unclear>․ΜΙ <supplied reason="lost">— — ἐλαίου(?) —</supplied>Ι․c.3․
+                     <supplied reason="lost">— — κ</supplied>
+                     <unclear>ο</unclear>τ <unclear>ύλ</unclear>α <supplied reason="lost">ι(?) — —</supplied> κάδο
+                     <supplied reason="lost">ι ․</supplied>
+                     <unclear>Λ</unclear>Τ
+                     <supplied reason="lost">— —</supplied>
+                     <lb n="5"/>
+                    <unclear>Σ</unclear>Ο․Δ <unclear>Α</unclear>․c.3․Ι <supplied reason="lost">— — ἑ</supplied>πτὰ Δ․․Σ․Α
+                     <supplied reason="lost">— —</supplied>
+                     <unclear>Ω</unclear>
+                     <supplied reason="lost">— — — — — — — — — — —</supplied>ΣΕ
+                     <unclear>Ν</unclear>
+                     <lb n="6"/>․․Θ․c.4․Θ
                     <supplied reason="lost">— — — — — — — — — — — — — — — — — — — — — — — — —</supplied>
-                    <lb n="7"/>․․
+                     <lb n="7"/>․․
                     <unclear>ΠΣΑ</unclear>
-                    <supplied reason="lost">— —</supplied>
-                    ὀ<unclear>κ</unclear>τ
-                    <supplied reason="lost">α</supplied>
-                    <unclear>κ</unclear>όσ<supplied reason="lost">ια</supplied> Χ․c.3․Α․c.4․Ω․c.3․Υ․Θ
-                    <supplied reason="lost">— — — — — — — —</supplied>
-                    <lb n="8"/>․․Α․Α κ<supplied reason="lost">ά</supplied>δοι ․․ ἐπὶ <unclear>ΕΥ</unclear>․․<unclear>
-                    ΞΑ</unclear>․ΝΟ<roleName type="civic" subtype="gymnasiarchos"><supplied reason="lost">— — γυμν</supplied>α<supplied reason="lost">σίαρ</supplied>χ<supplied reason="lost">οι(?)
+                     <supplied reason="lost">— —</supplied>
+                    ὀ <unclear>κ</unclear>τ
+                     <supplied reason="lost">α</supplied>
+                     <unclear>κ</unclear>όσ <supplied reason="lost">ια</supplied> Χ․c.3․Α․c.4․Ω․c.3․Υ․Θ
+                     <supplied reason="lost">— — — — — — — —</supplied>
+                     <lb n="8"/>․․Α․Α κ<supplied reason="lost">ά</supplied>δοι ․․ ἐπὶ  <unclear>ΕΥ</unclear>․․ <unclear>
+                    ΞΑ</unclear>․ΝΟ <roleName type="civic" subtype="gymnasiarchos"><supplied reason="lost">— — γυμν</supplied>α <supplied reason="lost">σίαρ</supplied>χ <supplied reason="lost">οι(?)
                 </supplied></roleName> Υ
-                    <supplied reason="lost">— — — —</supplied>
-                    <lb n="9"/>Ω<supplied reason="lost">— — — — — — — — — — — — — — — — — — — — — — — — — — — —
+                     <supplied reason="lost">— — — —</supplied>
+                     <lb n="9"/>Ω<supplied reason="lost">— — — — — — — — — — — — — — — — — — — — — — — — — — — —
                     πρό</supplied>-
-                    <lb n="10"/>
+                     <lb n="10"/>
                     <supplied reason="lost">χ</supplied>ου
-                    <unclear>ς</unclear>
+                     <unclear>ς</unclear>
                     
                     ․․ΑΡΙΜ․Ι․
-                    <unclear>ΣΧ</unclear>
-                    <supplied reason="lost">— — — — — — — — — — — — — —</supplied>
-                    <unclear>ΣΣ</unclear>․
-                    <unclear>ἀ</unclear>
-                    <supplied reason="lost">γ</supplied>ῶ<supplied reason="lost">νε</supplied>ς
-                    <lb n="11"/>
-                    <supplied reason="lost">— — — — — — — — — — — — — — — — — —</supplied>ΩΥ<supplied reason="lost">— —
+                     <unclear>ΣΧ</unclear>
+                     <supplied reason="lost">— — — — — — — — — — — — — —</supplied>
+                     <unclear>ΣΣ</unclear>․
+                     <unclear>ἀ</unclear>
+                     <supplied reason="lost">γ</supplied>ῶ <supplied reason="lost">νε</supplied>ς
+                     <lb n="11"/>
+                    <supplied reason="lost">— — — — — — — — — — — — — — — — — —</supplied>ΩΥ <supplied reason="lost">— —
                     — — — — — — — —</supplied>Δ
-                    <lb n="12"/>
+                     <lb n="12"/>
                     <supplied reason="lost">․․ τ</supplied>
-                    <unclear>έ</unclear>
-                    <supplied reason="lost">σσ</supplied>αρα <supplied reason="lost">— — — — — — — — — — — — σὺν
-                    ἐ</supplied>πα<supplied reason="lost">γ</supplied>ω
-                    <supplied reason="lost">γίμωι(?) — —</supplied>
-                    <lb n="13"/>
+                     <unclear>έ</unclear>
+                     <supplied reason="lost">σσ</supplied>αρα  <supplied reason="lost">— — — — — — — — — — — — σὺν
+                    ἐ</supplied>πα <supplied reason="lost">γ</supplied>ω
+                     <supplied reason="lost">γίμωι(?) — —</supplied>
+                     <lb n="13"/>
                     <surplus>²circa 134 versus plane detriti</surplus>²
                     <lb n="14"/>
                 </ab>
@@ -707,45 +677,45 @@ IG XIV 422, faces II-III, readings (V. Arangio-Ruiz):<lb n="2"/>
                     ll. 15, 58, 72, 92 (G. Manganaro):<lb n="2"/>
                     <lb n="3"/>
                     <supplied reason="lost">ἐπὶ δεῖνα τοῦ δεῖνα</supplied>
-                    <lb n="4"/>
+                     <lb n="4"/>
                     <supplied reason="lost">οἱ <roleName type="civic" subtype="gymnasiarchos">γυμνασίαρχοι</roleName></supplied>
-                    <lb n="5"/>Θ
+                     <lb n="5"/>Θ
                     <supplied reason="lost">άρρι</supplied>
-                    <unclear>π</unclear>
-                    <supplied reason="lost">πος(?) (patronymicum)</supplied>
-                    <lb n="6"/>Θε<supplied reason="lost">όχρ</supplied>ησ
-                    <supplied reason="lost">τος (patronymicum)</supplied>
-                    <lb n="7"/>vac. Ἀπόλ
+                     <unclear>π</unclear>
+                     <supplied reason="lost">πος(?) (patronymicum)</supplied>
+                     <lb n="6"/>Θε<supplied reason="lost">όχρ</supplied>ησ
+                     <supplied reason="lost">τος (patronymicum)</supplied>
+                     <lb n="7"/>vac. Ἀπόλ
                     <unclear>λ</unclear>
-                    <supplied reason="lost">ωνι· vac.</supplied>
-                    <lb n="8"/> δόγμα νεα<supplied reason="lost">νίσκων</supplied>·<lb n="9"/> vacat<lb n="10"/>πε<supplied reason="lost">ρ</supplied>ὶ γυμνα
-                    <supplied reason="lost">σιάρχων καὶ ἀγώνων(?)</supplied>
-                    <lb n="11"/>
+                     <supplied reason="lost">ωνι· vac.</supplied>
+                     <lb n="8"/> δόγμα νεα<supplied reason="lost">νίσκων</supplied>· <lb n="9"/> vacat<lb n="10"/>πε<supplied reason="lost">ρ</supplied>ὶ γυμνα
+                     <supplied reason="lost">σιάρχων καὶ ἀγώνων(?)</supplied>
+                     <lb n="11"/>
                     <supplied reason="lost">τῶν κατ’ ἐνιαυτὸν(?) — — — — — —</supplied>
-                    <lb n="12"/>
+                     <lb n="12"/>
                     <lb n="13"/>. . .<lb n="14"/>
                     <lb n="15"/>ἐπὶ Ξενίου τοῦ
                     <unclear>Π</unclear>
-                    <supplied reason="lost">ο</supplied>λ
-                    <supplied reason="lost">υξένου</supplied>
-                    <lb n="16"/>
+                     <supplied reason="lost">ο</supplied>λ
+                     <supplied reason="lost">υξένου</supplied>
+                     <lb n="16"/>
                     <lb n="17"/>. . .<lb n="18"/>
                     <lb n="19"/>πεντήκοντα<lb n="20"/>
                     <lb n="21"/>. . .<lb n="22"/>
                     <lb n="23"/>ἀγῶνες ὀκτὼ εἴκοσι ΕΤΙ<lb n="24"/>
                     <lb n="25"/>. . .<lb n="26"/>
                     <lb n="27"/>
-                    <supplied reason="lost">ἀγῶνες ὀ</supplied>κτὼ εἴκοσι.<lb n="28"/>
+                    <supplied reason="lost">ἀγῶνες ὀ</supplied>κτὼ εἴκοσι. <lb n="28"/>
                     <lb n="29"/>. . .<lb n="30"/>
-                    <lb n="31"/>ὀγδοήκοντα ἑκατὸν κάδοι σὺν ἐ<unclear>π</unclear>(αγωγίμῳ)<lb n="32"/>
+                    <lb n="31"/>ὀγδοήκοντα ἑκατὸν κάδοι σὺν ἐ<unclear>π</unclear>(αγωγίμῳ) <lb n="32"/>
                     <lb n="33"/>. . .<lb n="34"/>
                     <lb n="35"/>
-                    <supplied reason="lost">Τι(?)</supplied>μόλας Φι<supplied reason="lost">λο</supplied>ξένου<lb n="36"/>
+                    <supplied reason="lost">Τι(?)</supplied>μόλας Φι <supplied reason="lost">λο</supplied>ξένου <lb n="36"/>
                     <lb n="37"/>. . .<lb n="38"/>
                     <lb n="39"/>Φιλωνίδας Κρίθωνος ΑϹϹΙ<lb n="40"/>
                     <lb n="41"/>. . .<lb n="42"/>
                     <lb n="43"/>ἐνέχυρα ἑπτακόσια δισχίλια τρισμύρια· λοιπ<supplied reason="lost">
-                    ὸ</supplied>ν <supplied reason="lost">τρία ἑξή</supplied>-<lb n="44"/>κοντα . . .
+                    ὸ</supplied>ν  <supplied reason="lost">τρία ἑξή</supplied>- <lb n="44"/>κοντα . . .
                     <lb n="45"/>
                 </ab>
             </div>

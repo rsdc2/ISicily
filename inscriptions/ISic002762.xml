@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -194,60 +194,60 @@
     <text>
         <body>
           <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
-              <div type="textpart" subtype="section" n="a">
-                <ab>
-                    <milestone unit="face" n="a"/>
-                    <lb n="1"/><g ref="#cross_uninterpreted">+</g> πρὸς ἐνκαρπία<supplied reason="omitted">ν</supplied> <choice><orig>χ
-                    <lb n="2" break="no"/>ορίον</orig><reg>χωρίον</reg></choice> <choice><orig>κὲ</orig><reg>καὶ</reg></choice> <choice><orig>ἀνπελο͂να</orig><reg>ἀμπελῶνα</reg></choice>
-                    <lb n="3"/><choice><orig>ἄνγελος</orig><reg>ἄγγελος</reg></choice> τοῦ <expan><abbr>θ</abbr><ex>εο</ex><abbr>ῦ</abbr></expan> ω Κρα
-                    <lb n="4" break="no"/>μαμιλα Φιναὴλ Λουὶλ
-                    <lb n="5"/>Αμεγαωθ Κρεφιὴλ Φατο
-                    <lb n="6" break="no"/>ὲλ Ἀνεμουὴλ Μουκαθὰ
-                    <lb n="7" break="no"/>λ λουηχανδα Εἰσδραμὰ
-                    <lb n="8" break="no"/>λ Μεσηὴλ γιάμεν σέ Ἰε
-                    <lb n="9" break="no"/>σοῦ Χριστέ, δὸς τὸν καρ
-                    <lb n="10" break="no"/>πὸν <expan><abbr><am><g/></am></abbr><ex>καὶ</ex></expan> <choice><orig>τὶν</orig><reg>τὴν</reg></choice> <choice><orig>ἰσφορὰν</orig><reg>εἰσφοράν</reg></choice> <choice><orig>ἰς</orig><reg>εἰς</reg></choice> τὸν
-                    <lb n="11"/><choice><orig>ἀνπελο͂να</orig><reg>ἀμπελῶνα</reg></choice> τοῦ Κυριακο
-                    <lb n="12" break="no"/>ῦ Ζοσίμου
-                    <lb n="13"/><choice><orig>οὕπου</orig><reg>ὅπου</reg></choice> <choice><orig>κῖτε</orig><reg>κεῖτε</reg></choice> τοὺ <choice><orig>φυλακ
-                    <lb n="14" break="no"/>τίριον</orig><reg>φυλακτήριον</reg></choice> <choice><orig>τοῦτου</orig><reg>τοῦτο</reg></choice> Μιχαὴλ <supplied reason="lost">Γα</supplied>
-                    <lb n="15" break="no"/>βριὰλ Οὐριὴλ Ῥαφαὴλ <choice><orig>κὲ</orig><reg>καὶ</reg></choice> <unclear>ὁ</unclear>
-                    <lb n="16"/>Μυσχοῦτον τὸν δυνα
-                    <lb n="17" break="no"/>τὸν δὸς χάρι<unclear>ν</unclear> <choice><orig>ἰς</orig><reg>εἰς</reg></choice> <choice><orig>τὶν</orig><reg>τὴν</reg></choice> σύν
-                    <lb n="18" break="no"/>θεσιν <choice><orig>ἀποὺ</orig><reg>ἀπὸ</reg></choice> καρποῦ σί
-                    <lb n="19" break="no"/>του <choice><orig>κὲ</orig><reg>καὶ</reg></choice> <choice><orig>ὔνου</orig><reg>οἴνου</reg></choice> τοῦ Κυριακο<supplied reason="lost">ῦ</supplied>
-                    <lb n="20"/>ἀπὸ καρποῦ σίτο<supplied reason="omitted">υ</supplied> <choice><orig>κὲ</orig><reg>καὶ</reg></choice> <choice><orig>ὔνου</orig><reg>οἴνου</reg></choice> <expan><abbr><am><g/></am></abbr><ex>καὶ</ex></expan>
-                    <lb n="21"/><choice><orig>ἐλέ<supplied reason="lost">ου</supplied></orig><reg>ἐλαίου</reg></choice> <choice><orig>πλύθυνον</orig><reg>πλήθυνον</reg></choice>, <choice><orig>πλύθ
-                    <lb n="22" break="no"/>υνον</orig><reg>πλήθυνον</reg></choice> <gap reason="lost" unit="character" quantity="2"/> <expan><abbr>Κύ</abbr><ex>ριε</ex></expan> Ἰεσοῦ Χριστ<supplied reason="lost">έ</supplied>
-                    <lb n="23"/><choice><orig>νὲ</orig><reg>ναὶ</reg></choice> Ἀμέν
+                <div type="textpart" subtype="section" n="a">
+                    <ab>
+                        <milestone unit="face" n="a"/>
+                        <lb n="1"/><g ref="#cross_uninterpreted">+</g> <w>πρὸς</w> <w>ἐνκαρπία<supplied reason="omitted">ν</supplied></w> <w><choice><orig>χ
+                        <lb n="2" break="no"/>ορίον</orig><reg>χωρίον</reg></choice></w> <w><choice><orig>κὲ</orig><reg>καὶ</reg></choice></w> <w><choice><orig>ἀνπελο͂να</orig><reg>ἀμπελῶνα</reg></choice></w>
+                        <lb n="3"/><w><choice><orig>ἄνγελος</orig><reg>ἄγγελος</reg></choice></w> <w>τοῦ</w> <w><expan><abbr>θ</abbr><ex>εο</ex><abbr>ῦ</abbr></expan></w> <w>ω</w> <name>Κρα
+                        <lb n="4" break="no"/>μαμιλα</name> <name>Φιναὴλ</name> <name>Λουὶλ</name>
+                        <lb n="5"/><name>Αμεγαωθ</name> <name>Κρεφιὴλ</name> <name>Φατο
+                        <lb n="6" break="no"/>ὲλ</name> <name>Ἀνεμουὴλ</name> <name>Μουκαθὰ
+                        <lb n="7" break="no"/>λ</name> <w>λουηχανδα</w> <name>Εἰσδραμὰ
+                        <lb n="8" break="no"/>λ</name> <name>Μεσηὴλ</name> <w>γιάμεν</w> <w>σέ</w> <name>Ἰε
+                        <lb n="9" break="no"/>σοῦ</name> <name>Χριστέ,</name> <w>δὸς</w> <w>τὸν</w> <w>καρ
+                        <lb n="10" break="no"/>πὸν</w> <w><expan><abbr><am><g/></am></abbr><ex>καὶ</ex></expan></w> <w><choice><orig>τὶν</orig><reg>τὴν</reg></choice></w> <w><choice><orig>ἰσφορὰν</orig><reg>εἰσφοράν</reg></choice></w> <w><choice><orig>ἰς</orig><reg>εἰς</reg></choice></w> <w>τὸν</w>
+                        <lb n="11"/><w><choice><orig>ἀνπελο͂να</orig><reg>ἀμπελῶνα</reg></choice></w> <w>τοῦ</w> <name>Κυριακο
+                        <lb n="12" break="no"/>ῦ</name> <name>Ζοσίμου</name>
+                        <lb n="13"/><w><choice><orig>οὕπου</orig><reg>ὅπου</reg></choice></w> <w><choice><orig>κῖτε</orig><reg>κεῖτε</reg></choice></w> <w>τοὺ</w> <w><choice><orig>φυλακ
+                        <lb n="14" break="no"/>τίριον</orig><reg>φυλακτήριον</reg></choice></w> <w><choice><orig>τοῦτου</orig><reg>τοῦτο</reg></choice></w> <name>Μιχαὴλ</name> <name><supplied reason="lost">Γα</supplied>
+                        <lb n="15" break="no"/>βριὰλ</name> <name>Οὐριὴλ</name> <name>Ῥαφαὴλ</name> <w><choice><orig>κὲ</orig><reg>καὶ</reg></choice></w> <w><unclear>ὁ</unclear></w>
+                        <lb n="16"/><name>Μυσχοῦτον</name> <w>τὸν</w> <w>δυνα
+                        <lb n="17" break="no"/>τὸν</w> <w>δὸς</w> <w>χάρι<unclear>ν</unclear></w> <w><choice><orig>ἰς</orig><reg>εἰς</reg></choice></w> <w><choice><orig>τὶν</orig><reg>τὴν</reg></choice></w> <w>σύν
+                        <lb n="18" break="no"/>θεσιν</w> <w><choice><orig>ἀποὺ</orig><reg>ἀπὸ</reg></choice></w> <w>καρποῦ</w> <w>σί
+                        <lb n="19" break="no"/>του</w> <w><choice><orig>κὲ</orig><reg>καὶ</reg></choice></w> <w><choice><orig>ὔνου</orig><reg>οἴνου</reg></choice></w> <w>τοῦ</w> <name>Κυριακο<supplied reason="lost">ῦ</supplied></name>
+                        <lb n="20"/><w>ἀπὸ</w> <w>καρποῦ</w> <w>σίτο<supplied reason="omitted">υ</supplied></w> <w><choice><orig>κὲ</orig><reg>καὶ</reg></choice></w> <w><choice><orig>ὔνου</orig><reg>οἴνου</reg></choice></w> <w><expan><abbr><am><g/></am></abbr><ex>καὶ</ex></expan></w>
+                        <lb n="21"/><w><choice><orig>ἐλέ<supplied reason="lost">ου</supplied></orig><reg>ἐλαίου</reg></choice></w> <w><choice><orig>πλύθυνον</orig><reg>πλήθυνον</reg></choice>,</w> <w><choice><orig>πλύθ
+                        <lb n="22" break="no"/>υνον</orig><reg>πλήθυνον</reg></choice></w> <gap reason="lost" unit="character" quantity="2"/> <name><expan><abbr>Κύ</abbr><ex>ριε</ex></expan></name> <name>Ἰεσοῦ</name> <name>Χριστ<supplied reason="lost">έ</supplied></name>
+                        <lb n="23"/><w><choice><orig>νὲ</orig><reg>ναὶ</reg></choice></w> <name>Ἀμέν</name>
                     </ab>
-                  </div>
-              <div type="textpart" subtype="section" n="b">
-                  <ab>
-                      <milestone unit="face" n="b"/>
-                      <lb n="1"/><g ref="#cross_uninterpreted">+</g> πρὸς χά<supplied reason="lost">λαζαν Μιχα</supplied>
-                      <lb n="2" break="no"/>λαζοκο<unclear>υ</unclear>
-                      <lb n="3"/> αν κὲ τιθὶς ἰς τρῖς
-                      <lb n="4"/> γονίας τοῦ ἀνπελο͂
-                      <lb n="5" break="no"/>νος <gap reason="illegible" unit="character" quantity="4"/> Μιχαὴλ Γαβρ
-                      <lb n="6"/>ιὴλ Οὐριὴλ Ῥαφαὴλ Ἰα
-                      <lb n="7" break="no"/>ωα <g ref="#star">*</g> το<supplied reason="lost">ῦ</supplied> <expan><supplied reason="lost"><abbr>θ</abbr><ex>εο</ex></supplied><abbr>ῦ</abbr></expan> τερισαν
-                      <lb n="8"/>αὐτοῦ τος <gap reason="lost" unit="character" quantity="3"/> <supplied reason="lost">σ</supplied>τερέουμ<supplied reason="lost">α</supplied>
-                      <lb n="9"/>τοῦ οὐρανοῦ <gap reason="lost" unit="character" quantity="2"/> <orig>ΚΕΙΜΙΣ</orig> ὁρ
-                      <lb n="10" break="no"/>κόζο τὸς νεφ<supplied reason="lost">ελ</supplied>ηλάτας κα
-                      <lb n="11" break="no"/>τὰ τοῦ <expan><abbr>θ</abbr><ex>εο</ex><abbr>ῦ</abbr></expan> μὶ χαλαζοκου
-                      <lb n="12" break="no"/>πίσιτε <surplus>σ</surplus> τὸν ἀνπελο͂να το
-                      <lb n="13"/>ῦ Κυριακοῦ <choice><orig>Ζ<surplus>ζ</surplus>οσίμου</orig><reg>Ζωσίμου</reg></choice> <choice><orig>ῥύσσασ
-                      <lb n="14" break="no"/>θε</orig><reg>ῥύσασθαι</reg></choice> αὐτοῦ ἡμέρας κὲ νυκτ
-                      <lb n="15" break="no"/>ὸς αὐτοῦ ἀποὺ θυμοῦ ὕλ
-                      <lb n="16" break="no"/>ης αὐτοῦ
-                      <lb n="17"/><g ref="#cross_uninterpreted">+</g>
-                      <lb n="18"/><expan><abbr>Χ</abbr><ex>ριστ</ex><abbr>έ</abbr></expan> τε νίκα <expan><abbr>Χ</abbr><ex>ριστ</ex><abbr>έ</abbr></expan>
-                      <lb n="19"/><supplied reason="lost">τε β</supplied>οήθη τοῦ ἀνπέ
-                      <lb n="20" break="no"/><supplied reason="lost">λο͂νος</supplied> το<supplied reason="lost">ῦ</supplied> Κυρια
-                      <lb n="21"/>κοῦ <g ref="#cross_uninterpreted">+</g>
-                </ab>
-              </div>
+                </div>
+                <div type="textpart" subtype="section" n="b">
+                    <ab>
+                        <milestone unit="face" n="b"/>
+                        <lb n="1"/><g ref="#cross_uninterpreted">+</g> <w>πρὸς</w> <w>χά<supplied reason="lost">λαζαν Μιχα</supplied>
+                        <lb n="2" break="no"/>λαζοκο<unclear>υ</unclear></w>
+                        <lb n="3"/><w>αν</w> <w>κὲ</w> <w>τιθὶς</w> <w>ἰς</w> <w>τρῖς</w>
+                        <lb n="4"/><w>γονίας</w> <w>τοῦ</w> <w>ἀνπελο͂
+                        <lb n="5" break="no"/>νος</w> <gap reason="illegible" unit="character" quantity="4"/> <name>Μιχαὴλ</name> <name>Γαβρ</name>
+                        <lb n="6"/><w>ιὴλ</w> <name>Οὐριὴλ</name> <name>Ῥαφαὴλ</name> <name>Ἰα
+                        <lb n="7" break="no"/>ωα</name> <g ref="#star">*</g> <w>το<supplied reason="lost">ῦ</supplied></w> <w><expan><supplied reason="lost"><abbr>θ</abbr><ex>εο</ex></supplied><abbr>ῦ</abbr></expan></w> <w>τερισαν</w>
+                        <lb n="8"/><w>αὐτοῦ</w> <w>τος</w> <gap reason="lost" unit="character" quantity="3"/> <w><supplied reason="lost">σ</supplied>τερέουμ<supplied reason="lost">α</supplied></w>
+                        <lb n="9"/><w>τοῦ</w> <w>οὐρανοῦ</w> <gap reason="lost" unit="character" quantity="2"/> <orig>ΚΕΙΜΙΣ</orig><w>ὁρ
+                        <lb n="10" break="no"/>κόζο</w> <w>τὸς</w> <w>νεφ<supplied reason="lost">ελ</supplied>ηλάτας</w> <w>κα
+                        <lb n="11" break="no"/>τὰ</w> <w>τοῦ</w> <w><expan><abbr>θ</abbr><ex>εο</ex><abbr>ῦ</abbr></expan></w> <w>μὶ</w> <w>χαλαζοκου
+                        <lb n="12" break="no"/>πίσιτε</w> <w><surplus>σ</surplus></w> <w>τὸν</w> <w>ἀνπελο͂να</w> <w>το</w>
+                        <lb n="13"/><w>ῦ</w> <name>Κυριακοῦ</name> <w><choice><orig>Ζ<surplus>ζ</surplus>οσίμου</orig><reg>Ζωσίμου</reg></choice></w> <w><choice><orig>ῥύσσασ
+                        <lb n="14" break="no"/>θε</orig><reg>ῥύσασθαι</reg></choice></w> <w>αὐτοῦ</w> <w>ἡμέρας</w> <w>κὲ</w> <w>νυκτ
+                        <lb n="15" break="no"/>ὸς</w> <w>αὐτοῦ</w> <w>ἀποὺ</w> <w>θυμοῦ</w> <w>ὕλ
+                        <lb n="16" break="no"/>ης</w> <w>αὐτοῦ</w>
+                        <lb n="17"/><g ref="#cross_uninterpreted">+</g>
+                        <lb n="18"/><name><expan><abbr>Χ</abbr><ex>ριστ</ex><abbr>έ</abbr></expan></name> <w>τε</w> <w>νίκα</w> <name><expan><abbr>Χ</abbr><ex>ριστ</ex><abbr>έ</abbr></expan></name>
+                        <lb n="19"/><w><supplied reason="lost">τε β</supplied>οήθη</w> <w>τοῦ</w> <w>ἀνπέ
+                        <lb n="20" break="no"/><supplied reason="lost">λο͂νος</supplied></w> <w>το<supplied reason="lost">ῦ</supplied></w> <name>Κυρια</name>
+                        <lb n="21"/><w>κοῦ</w> <g ref="#cross_uninterpreted">+</g>
+                    </ab>
+                </div>
             </div>
             <div type="apparatus" resp="#JP">
                 <listApp><app><note>Text of Face A following Bevilacqua and Giannobile; text of Face B following Bevilacqua and Giannobile, but Jordan for lines 9-12.</note></app></listApp>

@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -202,11 +202,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/><supplied reason="lost">Πόπλιος</supplied> <supplied reason="lost">Κορνή</supplied><unclear>λ</unclear>ιος Ποπλίου υἱὸς
-                    <lb n="2"/><supplied reason="lost">Σκιπίων</supplied> <supplied reason="lost">Ἀφρικαν</supplied>ὸς <roleName type="supracivic" subtype="consul">ὕπατος</roleName> <space unit="character" quantity="1"/> ἑλῶν
-                    <lb n="3"/><supplied reason="lost">Καρχηδόνα</supplied> <supplied reason="lost">κατά</supplied> κράτος τοὺς <space unit="character" quantity="1"/> ἐξ
-                    <lb n="4"/><supplied reason="lost">Ἱμέρας</supplied> <supplied reason="lost">ἀνδριάν</supplied><unclear>τα</unclear>ς Ἱμέραίοις
-                    <gap reason="lost" quantity="1" unit="line"/>
+                    <lb n="1"/><w><supplied reason="lost">Πόπλιος</supplied></w> <name><supplied reason="lost">Κορνή</supplied><unclear>λ</unclear>ιος</name> <name>Ποπλίου</name> <w>υἱὸς</w>
+                    <lb n="2"/><name><supplied reason="lost">Σκιπίων</supplied></name> <name><supplied reason="lost">Ἀφρικαν</supplied>ὸς</name> <roleName type="supracivic" subtype="consul"><w>ὕπατος</w></roleName> <space unit="character" quantity="1"/><w>ἑλῶν</w>
+                    <lb n="3"/><name><supplied reason="lost">Καρχηδόνα</supplied></name> <w><supplied reason="lost">κατά</supplied></w> <w>κράτος</w> <w>τοὺς</w> <space unit="character" quantity="1"/><w>ἐξ</w>
+                    <lb n="4"/><name><supplied reason="lost">Ἱμέρας</supplied></name> <w><supplied reason="lost">ἀνδριάν</supplied><unclear>τα</unclear>ς</w> <name>Ἱμέραίοις</name> <gap reason="lost" quantity="1" unit="line"/>
                 </ab>
             </div>
             <div type="apparatus">

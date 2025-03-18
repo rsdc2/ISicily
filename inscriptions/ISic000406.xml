@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -188,23 +188,23 @@
         <body>
             <div type="edition" xml:space="preserve">
                 <div type="textpart" subtype="section" n="a" xml:lang="la" resp="#JP">
-                <ab>
-                    <lb n="1"/><expan><abbr>Perpenna</abbr><ex>m</ex></expan> <expan><abbr>Roman</abbr><ex>um</ex></expan>
-                    <lb n="2"/><expan><abbr>v</abbr><ex>irum</ex></expan> <roleName type="supracivic" subtype="clarissimus"><expan><abbr>c</abbr><ex>larissimum</ex></expan></roleName> <roleName type="supracivic" subtype="consularis"><expan><abbr>cons</abbr><ex>ularem</ex></expan></roleName> <expan><abbr>p</abbr><ex>opulus</ex></expan> <expan><abbr>Syrac</abbr><ex>usanus</ex></expan>
-                </ab>
+                    <ab>
+                        <lb n="1"/><w><expan><abbr>Perpenna</abbr><ex>m</ex></expan></w> <name><expan><abbr>Roman</abbr><ex>um</ex></expan></name>
+                        <lb n="2"/><w><expan><abbr>v</abbr><ex>irum</ex></expan></w> <roleName type="supracivic" subtype="clarissimus"><w><expan><abbr>c</abbr><ex>larissimum</ex></expan></w></roleName> <roleName type="supracivic" subtype="consularis"><w><expan><abbr>cons</abbr><ex>ularem</ex></expan></w></roleName> <w><expan><abbr>p</abbr><ex>opulus</ex></expan></w> <name><expan><abbr>Syrac</abbr><ex>usanus</ex></expan></name>
+                    </ab>
                 </div>
                 <div type="textpart" subtype="section" n="b" xml:lang="grc" resp="#JP">
                     <ab>
-                    <lb n="3"/><supplied reason="lost">Ῥ</supplied>ωμανοῦ πραπίδεσσι
-                    <lb n="4"/><supplied reason="lost">Συ</supplied>ρηκοσίων τόδε ἄστυ
-                    <lb n="5"/>ἐκ καμάτων ἀνέπνευσε
-                    <lb n="6"/>καὶ ἔ<supplied reason="lost">δρα</supplied>κεν ἴα<supplied reason="lost">ρ</supplied>ος ὥρην·
-                    <lb n="7"/>τοὔνεκα λαινέην μὲν
-                    <lb n="8"/>ἀνεστήσανθ’ οἱ <roleName type="civic" subtype="aristos">ἄριστοι</roleName>
-                    <lb n="9"/>εἰκόνα, τῆς σοφίης δὲ
-                    <lb n="10"/>καὶ ἐν στήθεσσιν ἔχου
-                    <lb break="no" n="11"/>σειν
-                  </ab>
+                        <lb n="3"/><w><supplied reason="lost">Ῥ</supplied>ωμανοῦ</w> <w>πραπίδεσσι</w>
+                        <lb n="4"/><name><supplied reason="lost">Συ</supplied>ρηκοσίων</name> <w>τόδε</w> <w>ἄστυ</w>
+                        <lb n="5"/><w>ἐκ</w> <w>καμάτων</w> <w>ἀνέπνευσε</w>
+                        <lb n="6"/><w>καὶ</w> <w>ἔ<supplied reason="lost">δρα</supplied>κεν</w> <w>ἴα<supplied reason="lost">ρ</supplied>ος</w> <w>ὥρην·</w>
+                        <lb n="7"/><w>τοὔνεκα</w> <w>λαινέην</w> <w>μὲν</w>
+                        <lb n="8"/><w>ἀνεστήσανθ’</w> <w>οἱ</w> <roleName type="civic" subtype="aristos"><w>ἄριστοι</w></roleName>
+                        <lb n="9"/><w>εἰκόνα,</w> <w>τῆς</w> <w>σοφίης</w> <w>δὲ</w>
+                        <lb n="10"/><w>καὶ</w> <w>ἐν</w> <w>στήθεσσιν</w> <w>ἔχου
+                        <lb break="no" n="11"/>σειν</w>
+                    </ab>
                 </div>
             </div>
             <div type="apparatus">

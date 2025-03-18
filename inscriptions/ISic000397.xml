@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -187,9 +187,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
-                    <lb n="1"/><g ref="#cross_greek">🞣</g> Hic requiescit <persName type="attested"><persName type="attested"><name type="patronym">Iohannis</name></persName> filius <name>Tar
-                    <lb n="2" break="no"/>ric</name></persName> qui vixit <g ref="#interpunct">·</g> <expan><abbr><hi rend="supraline">an</hi></abbr><ex>nos</ex></expan> <g ref="#interpunct">·</g> <num value="3"><choice><orig>tris</orig><reg>tres</reg></choice></num> <expan><abbr><hi rend="supraline">men</hi></abbr><ex>ses</ex></expan> <num value="2">duo</num> dies <num value="16">XVI</num>
-                    <lb n="3"/><expan><abbr><hi rend="supraline">dep</hi></abbr><ex>ositus</ex></expan> in pace <num value="17">XVII</num> <expan><abbr><hi rend="supraline">Kal</hi></abbr><ex>endas</ex></expan> Ianuarias <expan><abbr><hi rend="supraline">ind</hi></abbr><ex>ictione</ex></expan> <num value="14">XIIII</num>
+                    <lb n="1"/><g ref="#cross_greek">🞣</g> <w>Hic</w> <w>requiescit</w> <persName type="attested"><persName type="attested"><name type="patronym">Iohannis</name></persName> <w>filius</w> <name>Tar
+                    <lb n="2" break="no"/>ric</name></persName> <w>qui</w> <w>vixit</w> <g ref="#interpunct">·</g> <w><expan><abbr><hi rend="supraline">an</hi></abbr><ex>nos</ex></expan></w> <g ref="#interpunct">·</g> <num value="3"><choice><orig>tris</orig><reg>tres</reg></choice></num> <w><expan><abbr><hi rend="supraline">men</hi></abbr><ex>ses</ex></expan></w> <num value="2">duo</num> <w>dies</w> <num value="16">XVI</num>
+                    <lb n="3"/><w><expan><abbr><hi rend="supraline">dep</hi></abbr><ex>ositus</ex></expan></w> <w>in</w> <w>pace</w> <num value="17">XVII</num> <name><expan><abbr><hi rend="supraline">Kal</hi></abbr><ex>endas</ex></expan></name> <name>Ianuarias</name> <w><expan><abbr><hi rend="supraline">ind</hi></abbr><ex>ictione</ex></expan></w> <num value="14">XIIII</num>
                 </ab>
                 </div>
             <div type="apparatus" resp="#JP">

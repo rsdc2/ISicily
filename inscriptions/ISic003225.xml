@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -195,14 +195,14 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
-                    <lb n="1"/><supplied reason="lost" cert="low"><expan><abbr>D</abbr><ex>is</ex></expan></supplied> <supplied reason="lost" cert="low"><expan><abbr>M</abbr><ex>anibus</ex></expan></supplied> <supplied reason="lost" cert="low"><expan><abbr>s</abbr><ex>acrum</ex></expan> </supplied>
-                    <lb n="2"/><expan><abbr>C</abbr><ex>ai</ex></expan> · C<supplied reason="undefined" evidence="previouseditor">o</supplied><gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="3"/>Magn<supplied reason="undefined" evidence="previouseditor">i</supplied> <supplied reason="lost"><expan><abbr>vix</abbr><ex>it</ex></expan></supplied>
-                    <lb n="4"/><expan><abbr>an</abbr><ex>nis</ex></expan> <num value="2">II</num> me<supplied reason="lost"><expan><abbr>ns</abbr><ex>ibus</ex></expan></supplied> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="5"/><num atLeast="8" atMost="9">VII</num><gap reason="lost" atLeast="1" atMost="2" unit="character"/> <unclear>C</unclear>is<supplied reason="undefined" evidence="previouseditor">s</supplied><supplied reason="lost">us</supplied> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="6"/>et Cra<gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="7"/>nepoti<gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="8" break="no"/>mo
+                    <lb n="1"/><w><supplied reason="lost" cert="low"><expan><abbr>D</abbr><ex>is</ex></expan></supplied></w> <name><supplied reason="lost" cert="low"><expan><abbr>M</abbr><ex>anibus</ex></expan></supplied></name> <w><supplied reason="lost" cert="low"><expan><abbr>s</abbr><ex>acrum</ex></expan></supplied></w>
+                    <lb n="2"/><name><expan><abbr>C</abbr><ex>ai</ex></expan></name> <g ref="#interpunct">·</g> <name>C<supplied reason="undefined" evidence="previouseditor">o</supplied></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="3"/><name>Magn<supplied reason="undefined" evidence="previouseditor">i</supplied></name> <w><supplied reason="lost"><expan><abbr>vix</abbr><ex>it</ex></expan></supplied></w>
+                    <lb n="4"/><w><expan><abbr>an</abbr><ex>nis</ex></expan></w> <num value="2">II</num> <w>me<supplied reason="lost"><expan><abbr>ns</abbr><ex>ibus</ex></expan></supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="5"/><num atLeast="8" atMost="9">VII</num> <gap reason="lost" atLeast="1" atMost="2" unit="character"/> <name><unclear>C</unclear>is<supplied reason="undefined" evidence="previouseditor">s</supplied><supplied reason="lost">us</supplied></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="6"/><w>et</w> <name>Cra</name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="7"/><w>nepoti</w> <gap reason="illegible" quantity="1" unit="character"/> <gap reason="lost" extent="unknown" unit="character"/> <w>
+                    <lb n="8" break="no"/>mo</w>
                 </ab>
             </div>
             <div type="apparatus">

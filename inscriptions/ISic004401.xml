@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -184,11 +184,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/>cd<gap reason="lost" extent="unknown" unit="character"/>a <supplied reason="lost">te</supplied>mporibus
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/>o in <expan><abbr>Dom</abbr><ex>ino</ex></expan> cd <gap reason="lost" extent="unknown" unit="character"/><roleName type="paracivic.religious" subtype="pontifex"><supplied reason="lost">po</supplied>ntificis</roleName> patris <roleName type="paracivic.religious" subtype="episkopos"><expan><abbr>episoc</abbr><ex>opi</ex></expan></roleName>
-                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/>xitus su<gap reason="lost" extent="unknown" unit="character"/>io<gap reason="lost" unit="character" quantity="2"/><supplied reason="lost">D</supplied>ominus do
-                    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/>en<gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost">h</supplied>onoris se
-                    <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost">sancte</supplied> <supplied reason="lost">ecclesie</supplied> <supplied reason="lost">ca</supplied>tolice
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w>cd</w> <gap reason="lost" extent="unknown" unit="character"/> <w>a</w> <w><supplied reason="lost">te</supplied>mporibus</w>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w>o</w> <w>in</w> <name><expan><abbr>Dom</abbr><ex>ino</ex></expan></name> <w>cd</w> <gap reason="lost" extent="unknown" unit="character"/> <roleName type="paracivic.religious" subtype="pontifex"><w><supplied reason="lost">po</supplied></w> <w>ntificis</w></roleName> <w>patris</w> <roleName type="paracivic.religious" subtype="episkopos"><w><expan><abbr>episoc</abbr><ex>opi</ex></expan></w></roleName>
+                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <w>xitus</w> <w>su</w> <gap reason="lost" extent="unknown" unit="character"/> <w>io</w> <gap reason="lost" unit="character" quantity="2"/> <name><supplied reason="lost">D</supplied>ominus</name> <w>do</w>
+                    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <w>en</w> <gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">h</supplied>onoris</w> <w>se</w>
+                    <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">sancte</supplied></w> <w><supplied reason="lost">ecclesie</supplied></w> <w><supplied reason="lost">ca</supplied>tolice</w>
                 </ab>
             </div>
             <div type="apparatus">

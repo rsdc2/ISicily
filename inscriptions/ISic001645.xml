@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -193,13 +193,13 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#VM">
                 <ab>
-                    <lb n="1"/><supplied reason="lost"><g ref="#alpha"/></supplied> <g ref="#staurogram">𐆠</g> <g ref="#omega"/> Auxentius His
-                    <lb n="2" break="no"/>panus patria <roleName type="paracivic.religious" subtype="episkopos"><expan><abbr>ep</abbr><ex>iscopus</ex></expan></roleName> Rotdon
-                    <lb n="3"/>iacet <choice><corr>hic</corr><sic>huc</sic></choice> et a<supplied reason="omitted">d</supplied>iuro vos qui legi
-                    <lb n="4" break="no"/><choice><corr>tis</corr><sic>tes</sic></choice> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><supplied reason="lost"><g ref="#alpha"/></supplied> <g ref="#staurogram">𐆠</g> <g ref="#omega"/> <w>Auxentius</w> <name>His
+                    <lb n="2" break="no"/>panus</name> <w>patria</w> <roleName type="paracivic.religious" subtype="episkopos"><w><expan><abbr>ep</abbr><ex>iscopus</ex></expan></w></roleName> <name>Rotdon</name>
+                    <lb n="3"/><w>iacet</w> <w><choice><corr>hic</corr><sic>huc</sic></choice></w> <w>et</w> <w>a<supplied reason="omitted">d</supplied>iuro</w> <w>vos</w> <w>qui</w> <w>legi
+                    <lb n="4" break="no"/><choice><corr>tis</corr><sic>tes</sic></choice></w> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="5"/><gap reason="illegible" quantity="1" unit="line"/>
-                    <lb n="6"/>petite q<supplied reason="lost">uo</supplied>
-                    <lb n="7" break="no"/>d acce<supplied reason="lost">ptum</supplied>
+                    <lb n="6"/><w>petite</w> <w>q<supplied reason="lost">uo</supplied>
+                    <lb n="7" break="no"/>d</w> <w>acce<supplied reason="lost">ptum</supplied></w>
                 </ab>
             </div>
             <div type="apparatus">

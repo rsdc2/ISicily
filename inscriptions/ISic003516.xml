@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -195,15 +195,15 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
-                    <lb n="1"/><supplied reason="lost" evidence="previouseditor"><expan><abbr>D</abbr><ex>is</ex></expan></supplied> <supplied reason="lost" evidence="previouseditor"><g ref="#interpunct">·</g></supplied> <supplied reason="lost" evidence="previouseditor"><expan><abbr>M</abbr><ex>anibus</ex></expan></supplied> <supplied reason="lost" evidence="previouseditor"><g ref="#interpunct">·</g></supplied>
-                    <lb n="2"/>Ofiliae <g ref="#interpunct">·</g> <supplied reason="lost" evidence="previouseditor"><expan><abbr>M</abbr><ex>arci</ex></expan></supplied> <supplied reason="lost" evidence="previouseditor"><g ref="#interpunct">·</g></supplied> <supplied reason="lost" evidence="previouseditor"><expan><abbr>f</abbr><ex>iliae</ex></expan></supplied>
-                    <lb n="3"/>Sabinae <g ref="#interpunct">·</g> <expan><abbr>M</abbr><ex>arcus</ex></expan> <g ref="#interpunct">·</g> Sau
-                    <lb n="4" break="no"/>feius <g ref="#interpunct">·</g> Sabinus <g ref="#interpunct">·</g><expan><abbr>p</abbr><ex>osuit</ex></expan>
-                    <lb n="5"/><expan><abbr>fil</abbr><ex>iae</ex></expan><g ref="#interpunct">·</g> piissimae <g ref="#interpunct">·</g> et
-                    <lb n="6"/>Ofiliae <g ref="#interpunct">·</g> Ursae <g ref="#interpunct">·</g>
-                    <lb n="7"/>coniugi <g ref="#interpunct">·</g> et <g ref="#interpunct">·</g> sibi
-                    <lb n="8"/><expan><abbr>libert</abbr><ex>is</ex></expan> <g ref="#interpunct">·</g> <expan><abbr>libertab</abbr><ex>usque</ex></expan>
-                    <lb n="9"/><expan><abbr>post</abbr><ex>erisque</ex></expan> <g ref="#interpunct">·</g> eorum<expan><abbr>omn</abbr><ex>ium</ex></expan>
+                    <lb n="1"/><w><supplied reason="lost" evidence="previouseditor"><expan><abbr>D</abbr><ex>is</ex></expan></supplied></w> <supplied reason="lost" evidence="previouseditor"><g ref="#interpunct">·</g></supplied> <name><supplied reason="lost" evidence="previouseditor"><expan><abbr>M</abbr><ex>anibus</ex></expan></supplied></name> <supplied reason="lost" evidence="previouseditor"><g ref="#interpunct">·</g></supplied>
+                    <lb n="2"/><name>Ofiliae</name> <g ref="#interpunct">·</g> <name><supplied reason="lost" evidence="previouseditor"><expan><abbr>M</abbr><ex>arci</ex></expan></supplied></name> <supplied reason="lost" evidence="previouseditor"><g ref="#interpunct">·</g></supplied> <w><supplied reason="lost" evidence="previouseditor"><expan><abbr>f</abbr><ex>iliae</ex></expan></supplied></w>
+                    <lb n="3"/><name>Sabinae</name> <g ref="#interpunct">·</g> <name><expan><abbr>M</abbr><ex>arcus</ex></expan></name> <g ref="#interpunct">·</g> <name>Sau
+                    <lb n="4" break="no"/>feius</name> <g ref="#interpunct">·</g> <name>Sabinus</name> <name><g ref="#interpunct">·</g><expan><abbr>p</abbr><ex>osuit</ex></expan></name>
+                    <lb n="5"/><w><expan><abbr>fil</abbr><ex>iae</ex></expan><g ref="#interpunct">·</g></w> <w>piissimae</w> <g ref="#interpunct">·</g> <w>et</w>
+                    <lb n="6"/><name>Ofiliae</name> <g ref="#interpunct">·</g> <name>Ursae</name> <g ref="#interpunct">·</g>
+                    <lb n="7"/><w>coniugi</w> <g ref="#interpunct">·</g> <w>et</w> <g ref="#interpunct">·</g> <w>sibi</w>
+                    <lb n="8"/><w><expan><abbr>libert</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>libertab</abbr><ex>usque</ex></expan></w>
+                    <lb n="9"/><w><expan><abbr>post</abbr><ex>erisque</ex></expan></w> <g ref="#interpunct">·</g> <w>eorum</w> <w><expan><abbr>omn</abbr><ex>ium</ex></expan></w>
                 </ab>
             </div>
             <div type="apparatus">

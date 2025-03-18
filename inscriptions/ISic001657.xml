@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -194,13 +194,13 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#VM">
                 <ab>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost">u</supplied>is iam tricenos vitae
-                    <lb n="2"/><supplied reason="lost">complevera</supplied>t annos felix coniugium
-                    <lb n="3"/><supplied reason="lost">iam</supplied> <supplied reason="lost">fecit</supplied> <supplied reason="lost">illa</supplied> <supplied reason="lost">suu</supplied>m da deus omnipotens
-                    <lb n="4"/><supplied reason="lost">coelestis</supplied> <supplied reason="lost">glo</supplied>ria vitae digna cum
-                    <lb n="5"/>sanctis ut mereatur ibi
-                    <lb n="6"/>deposita est in pace <expan><abbr>d</abbr><ex>o</ex><abbr>m</abbr><ex>in</ex><abbr>i</abbr></expan> <num value="5">V</num> <num value="9">nonas</num> <expan><abbr>mart</abbr><ex>ias</ex></expan>
-                    <lb n="7"/>post <roleName type="supracivic" subtype="consul"><expan><abbr>cons</abbr><ex>ulatum</ex></expan></roleName> <roleName type="supracivic" subtype="dominus"><expan><abbr>d</abbr><ex>ominorum</ex></expan></roleName> <expan><abbr>n</abbr><ex>ostrorum</ex></expan> Honorio <num value="13">XIII</num> et Theodosio <num value="10">X</num> <expan><abbr>A</abbr><ex>u</ex><abbr>g</abbr><ex>ustis</ex></expan>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">u</supplied>is</w> <w>iam</w> <w>tricenos</w> <w>vitae</w>
+                    <lb n="2"/><w><supplied reason="lost">complevera</supplied>t</w> <w>annos</w> <w>felix</w> <w>coniugium</w>
+                    <lb n="3"/><w><supplied reason="lost">iam</supplied></w> <w><supplied reason="lost">fecit</supplied></w> <w><supplied reason="lost">illa</supplied></w> <w><supplied reason="lost">suu</supplied>m</w> <w>da</w> <w>deus</w> <w>omnipotens</w>
+                    <lb n="4"/><w><supplied reason="lost">coelestis</supplied></w> <w><supplied reason="lost">glo</supplied>ria</w> <w>vitae</w> <w>digna</w> <w>cum</w>
+                    <lb n="5"/><w>sanctis</w> <w>ut</w> <w>mereatur</w> <w>ibi</w>
+                    <lb n="6"/><w>deposita</w> <w>est</w> <w>in</w> <w>pace</w> <w><expan><abbr>d</abbr><ex>o</ex><abbr>m</abbr><ex>in</ex><abbr>i</abbr></expan></w> <num value="5">V</num> <num value="9">nonas</num> <w><expan><abbr>mart</abbr><ex>ias</ex></expan></w>
+                    <lb n="7"/><w>post</w> <roleName type="supracivic" subtype="consul"><w><expan><abbr>cons</abbr><ex>ulatum</ex></expan></w></roleName> <roleName type="supracivic" subtype="dominus"><w><expan><abbr>d</abbr><ex>ominorum</ex></expan></w></roleName> <w><expan><abbr>n</abbr><ex>ostrorum</ex></expan></w> <name>Honorio</name> <num value="13">XIII</num> <w>et</w> <name>Theodosio</name> <num value="10">X</num> <name><expan><abbr>A</abbr><ex>u</ex><abbr>g</abbr><ex>ustis</ex></expan></name>
                 </ab>
             </div>
             <div type="apparatus">

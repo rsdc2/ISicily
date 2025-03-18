@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -198,10 +198,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#TA #JP">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name type="praenomen"><gap reason="lost" extent="1" unit="character"/></name> <supplied reason="lost"><g ref="#interpunct">·</g></supplied> <name>Domitius</name> <g ref="#interpunct">·</g> <persName type="attested"><name type="patronym"><expan><abbr>A</abbr><ex>uli</ex></expan></name></persName> <g ref="#interpunct">·</g> <expan><abbr>f</abbr><ex>ilius</ex></expan> <g ref="#interpunct">·</g> <orgName type="tribal"><expan><abbr>Quir</abbr><ex>ina</ex></expan></orgName> <g ref="#interpunct">·</g> <name>Himer<hi rend="ligature">ae</hi>us</name></persName>
-                    <lb n="2"/>sibi <g ref="#interpunct">·</g> e<hi rend="tall">t</hi> <g ref="#interpunct">·</g> <persName type="attested"><name>Domitiae</name> <g ref="#interpunct">·</g> <persName type="attested"><name type="patronym"><expan><abbr>A</abbr><ex>uli</ex></expan></name></persName> <g ref="#interpunct">·</g> <expan><abbr>f</abbr><ex>iliae</ex></expan></persName> <g ref="#interpunct">·</g> sorori
-                    <lb n="3"/><supplied reason="lost">e</supplied><unclear>t</unclear> <g ref="#interpunct">·</g> <persName type="attested"><name>Alfiae</name> <g ref="#interpunct">·</g> 
-                    <expan><abbr><am><g ref="#mulieris">Ↄ</g></am></abbr><ex>mulieris</ex></expan> <g ref="#interpunct">·</g> <expan><abbr>l</abbr><ex>ibertae</ex></expan> <g ref="#interpunct">·</g> <name>Zoticae</name></persName> <g ref="#interpunct">·</g> uxori
+                    <lb n="1"/><persName type="attested"><name type="praenomen"><gap reason="lost" extent="1" unit="character"/></name> <supplied reason="lost"><g ref="#interpunct">·</g></supplied> <name>Domitius</name> <g ref="#interpunct">·</g> <persName type="attested"><name type="patronym"><expan><abbr>A</abbr><ex>uli</ex></expan></name></persName> <g ref="#interpunct">·</g> <w><expan><abbr>f</abbr><ex>ilius</ex></expan></w> <g ref="#interpunct">·</g> <orgName type="tribal"><name><expan><abbr>Quir</abbr><ex>ina</ex></expan></name></orgName> <g ref="#interpunct">·</g> <name>Himer<hi rend="ligature">ae</hi>us</name></persName>
+                    <lb n="2"/><w>sibi</w> <g ref="#interpunct">·</g> <w>e<hi rend="tall">t</hi></w> <g ref="#interpunct">·</g> <persName type="attested"><name>Domitiae</name> <g ref="#interpunct">·</g> <persName type="attested"><name type="patronym"><expan><abbr>A</abbr><ex>uli</ex></expan></name></persName> <g ref="#interpunct">·</g> <w><expan><abbr>f</abbr><ex>iliae</ex></expan></w></persName> <g ref="#interpunct">·</g> <w>sorori</w>
+                    <lb n="3"/><w><supplied reason="lost">e</supplied><unclear>t</unclear></w> <g ref="#interpunct">·</g> <persName type="attested"><name>Alfiae</name> <g ref="#interpunct">·</g> <name><expan><abbr><am><g ref="#mulieris">Ↄ</g></am></abbr><ex>mulieris</ex></expan></name> <g ref="#interpunct">·</g> <w><expan><abbr>l</abbr><ex>ibertae</ex></expan></w> <g ref="#interpunct">·</g> <name>Zoticae</name></persName> <g ref="#interpunct">·</g> <w>uxori</w>
                 </ab>
             </div>
             <div type="apparatus" resp="#JP">

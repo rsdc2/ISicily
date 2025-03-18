@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -192,9 +192,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/>Κλαυδίῳ Θ<supplied reason="lost">εο</supplied><gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="2"/>γλυκυ<hi rend="ligature">τάτ</hi>ῳ <supplied reason="lost">τέκνῳ</supplied> <gap reason="lost" extent="unknown" unit="character"/> 
-                    <lb n="3"/>Πολυδά<supplied reason="lost">μας</supplied> <supplied reason="lost" cert="low">πατήρ</supplied> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><w>Κλαυδίῳ</w> <name>Θ<supplied reason="lost">εο</supplied></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><w>γλυκυ<hi rend="ligature">τάτ</hi>ῳ</w> <w><supplied reason="lost">τέκνῳ</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="3"/><name>Πολυδά<supplied reason="lost">μας</supplied></name> <w><supplied reason="lost" cert="low">πατήρ</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>
             <div type="apparatus">

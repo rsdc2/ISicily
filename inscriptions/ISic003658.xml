@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -189,12 +189,12 @@
     </facsimile>
     <text>
         <body>
-            <div type="edition" xml:space="preserve" xml:lang="grc" resp="#DM">             
+            <div type="edition" xml:space="preserve" xml:lang="grc" resp="#DM">
                 <ab>
-                    <lb n="1"/><gap reason="lost" unit="character" quantity="4"/><orig><unclear>Σ</unclear></orig><gap reason="lost" unit="character" quantity="2"/><gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" unit="character" quantity="2"/><orig><unclear>Ο</unclear></orig><gap reason="lost" unit="character" quantity="1"/><orig>Ρ</orig><gap reason="lost" unit="character" quantity="1"/><gap reason="illegible" unit="character" quantity="1"/>
-                    <lb n="2"/><gap reason="lost" unit="character" quantity="6"/><orig><unclear>ΤΙ</unclear>ΛΩΟ</orig>
-                    <lb n="3"/><gap reason="lost" unit="character" quantity="2"/><orig>Α<unclear>Γ</unclear>ΜΔΑΡΥΗ</orig>
-                    <lb n="4"/><orig><unclear>Ι</unclear></orig><gap reason="lost" quantity="2" unit="character"/><orig><unclear>Τ</unclear>Α<unclear>Ο</unclear>Α<unclear>Γ</unclear></orig><gap reason="lost" unit="character" quantity="3"/>
+                    <lb n="1"/><gap reason="lost" unit="character" quantity="4"/> <orig><unclear>Σ</unclear></orig><gap reason="lost" unit="character" quantity="2"/> <gap reason="illegible" unit="character" quantity="1"/> <gap reason="lost" unit="character" quantity="2"/> <orig><unclear>Ο</unclear></orig><gap reason="lost" unit="character" quantity="1"/> <orig>Ρ</orig><gap reason="lost" unit="character" quantity="1"/> <gap reason="illegible" unit="character" quantity="1"/>
+                    <lb n="2"/><gap reason="lost" unit="character" quantity="6"/> <orig><unclear>ΤΙ</unclear>ΛΩΟ</orig>
+                    <lb n="3"/><gap reason="lost" unit="character" quantity="2"/> <orig>Α<unclear>Γ</unclear>ΜΔΑΡΥΗ</orig>
+                    <lb n="4"/><orig><unclear>Ι</unclear></orig><gap reason="lost" quantity="2" unit="character"/> <orig><unclear>Τ</unclear>Α <unclear>Ο</unclear>Α <unclear>Γ</unclear></orig><gap reason="lost" unit="character" quantity="3"/>
                 </ab>
                 </div>
             <div type="apparatus">

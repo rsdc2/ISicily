@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -208,10 +208,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#TA #JP">
                 <ab>
-                    <lb n="1" xml:id="APeAK"/><w xml:id="APeAU"><expan xml:id="APeAe"><abbr xml:id="APeAo">Ti</abbr><ex xml:id="APeAy">berius</ex></expan></w> <g ref="#interpunct" xml:id="APeAΙ">·</g> <w xml:id="APeAΤ">Claudius</w> <g ref="#interpunct" xml:id="APeAε">·</g> 
-                    <lb n="2" xml:id="APeAο"/><gap reason="lost" extent="unknown" unit="character" cert="low" xml:id="APeBA"/><orig xml:id="APeBK"><unclear xml:id="APeBU">A</unclear></orig><gap reason="lost" extent="unknown" unit="character" xml:id="APeBe"/>
-                    <lb n="3" xml:id="APeBo"/><gap reason="lost" extent="unknown" unit="character" cert="low" xml:id="APeBy"/><w xml:id="APeBΙ"><expan xml:id="APeBΤ"><abbr xml:id="APeBε"><unclear xml:id="APeBο">v</unclear>ix</abbr><ex xml:id="APeCA">it</ex></expan></w> <w xml:id="APeCK"><supplied reason="lost" xml:id="APeCU"><expan xml:id="APeCe"><abbr xml:id="APeCo">ann</abbr><ex xml:id="APeCy">is</ex></expan></supplied></w> <gap reason="illegible" unit="character" quantity="3" xml:id="APeCΙ"/><gap reason="lost" extent="unknown" unit="character" cert="low" xml:id="APeCΤ"/>
-                    </ab>
+                    <lb n="1" xml:id="APeAK"/><w xml:id="APeAU"><expan xml:id="APeAe"><abbr xml:id="APeAo">Ti</abbr><ex xml:id="APeAy">berius</ex></expan></w> <g ref="#interpunct" xml:id="APeAΙ">·</g> <name xml:id="APeAΤ">Claudius</name> <g ref="#interpunct" xml:id="APeAε">·</g>
+                    <lb n="2" xml:id="APeAο"/><gap reason="lost" extent="unknown" unit="character" cert="low" xml:id="APeBA"/> <orig xml:id="APeBK"><unclear xml:id="APeBU">A</unclear></orig><gap reason="lost" extent="unknown" unit="character" xml:id="APeBe"/>
+                    <lb n="3" xml:id="APeBo"/><gap reason="lost" extent="unknown" unit="character" cert="low" xml:id="APeBy"/> <w xml:id="APeBΙ"><expan xml:id="APeBΤ"><abbr xml:id="APeBε"><unclear xml:id="APeBο">v</unclear>ix</abbr><ex xml:id="APeCA">it</ex></expan></w> <w xml:id="APeCK"><supplied reason="lost" xml:id="APeCU"><expan xml:id="APeCe"><abbr xml:id="APeCo">ann</abbr><ex xml:id="APeCy">is</ex></expan></supplied></w> <gap reason="illegible" unit="character" quantity="3" xml:id="APeCΙ"/> <gap reason="lost" extent="unknown" unit="character" cert="low" xml:id="APeCΤ"/>
+                </ab>
             </div>
             <div type="apparatus">
                 <listApp>

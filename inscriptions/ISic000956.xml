@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -195,18 +195,18 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/>Κυριακοῦ καὶ Σαλ
-                    <lb n="2" break="no"/>βίας <choice><corr>παιδίον</corr><sic>πεδίν</sic></choice> ἐνθά
-                    <lb n="3" break="no"/>δε κεῖται ὀνόματι
-                    <lb n="4"/>Κυριακός ἔζησεν
-                    <lb n="5"/>ἔτη <num value="3">τρία</num> μῆνας <num value="10">δέ
-                    <lb n="6" break="no"/>κα</num> ἡμέρας <num value="5">πέντε</num>
-                    <lb n="7"/>εἰς ἐῶνα μετὰ τῶ
-                    <lb n="8" break="no"/>ν ἁγίων αὐτοῦ τὸ
-                    <lb n="9"/>ψυχὶν ἐν ὀνόμα
-                    <lb n="10" break="no"/>τι <g ref="#interpunct">·</g> Ἰ<g ref="#interpunct">·</g>ησοῦ <expan><abbr><g ref="#christogram">☧</g></abbr><ex>ιστοῦ</ex></expan> Κυριακὴ
-                    <lb n="11"/>ἡ καλώνυμος ἔζη
-                    <lb n="12" break="no"/>σεν καὶ αὐτὴ ἔτη <num value="3">γ</num>
+                    <lb n="1"/><w>Κυριακοῦ</w> <w>καὶ</w> <name>Σαλ
+                    <lb n="2" break="no"/>βίας</name> <w><choice><corr>παιδίον</corr><sic>πεδίν</sic></choice></w> <w>ἐνθά
+                    <lb n="3" break="no"/>δε</w> <w>κεῖται</w> <w>ὀνόματι</w>
+                    <lb n="4"/><name>Κυριακός</name> <w>ἔζησεν</w>
+                    <lb n="5"/><w>ἔτη</w> <num value="3">τρία</num> <w>μῆνας</w> <num value="10">δέ
+                    <lb n="6" break="no"/>κα</num> <w>ἡμέρας</w> <num value="5">πέντε</num>
+                    <lb n="7"/><w>εἰς</w> <w>ἐῶνα</w> <w>μετὰ</w> <w>τῶ
+                    <lb n="8" break="no"/>ν</w> <w>ἁγίων</w> <w>αὐτοῦ</w> <w>τὸ</w>
+                    <lb n="9"/><w>ψυχὶν</w> <w>ἐν</w> <w>ὀνόμα
+                    <lb n="10" break="no"/>τι</w> <g ref="#interpunct">·</g> <name>Ἰ<g ref="#interpunct">·</g>ησοῦ</name> <name><expan><abbr><g ref="#christogram">☧</g></abbr><ex>ιστοῦ</ex></expan></name> <name>Κυριακὴ</name>
+                    <lb n="11"/><w>ἡ</w> <w>καλώνυμος</w> <w>ἔζη
+                    <lb n="12" break="no"/>σεν</w> <w>καὶ</w> <w>αὐτὴ</w> <w>ἔτη</w> <num value="3">γ</num>
                 </ab>
             </div>
             <div type="apparatus">

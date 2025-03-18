@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -202,9 +202,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la">
                 <ab>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">provide</supplied>ntia
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost"><expan><abbr>v</abbr><ex>iri</ex></expan></supplied> <roleName type="civic" subtype="perfectissimus"><expan><abbr>p</abbr><ex>erfectissimi</ex></expan></roleName> <g ref="#interpunct">·</g> <roleName type="supracivic" subtype="praefectus.annonae"><expan><abbr>praef</abbr><ex>ecti</ex></expan> <g ref="#interpunct">·</g> <expan><abbr><hi rend="supraline">a</hi>nn</abbr><ex>onae</ex></expan></roleName>
-                    <lb n="3"/><supplied reason="lost"><expan><abbr>idem</abbr><ex>que</ex></expan></supplied> <supplied reason="lost"><expan><abbr>v</abbr><ex>ices</ex></expan></supplied>  <supplied reason="lost"><expan><abbr>a</abbr><ex>gentis</ex></expan></supplied> <roleName type="supracivic" subtype="praefectus.praetorio"><supplied reason="lost"><expan><abbr>praef</abbr><ex>ectorum</ex></expan></supplied>  <supplied reason="lost">pr</supplied>aetorio</roleName> <supplied reason="subaudible">duorum</supplied>   <expan><abbr><am>e</am>e</abbr><abbr><am>m</am>m</abbr><ex>inentissimorum</ex></expan>  <expan><abbr><am>v</am>v</abbr><ex>irorum</ex></expan>    
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">provide</supplied>ntia</w>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost"><expan><abbr>v</abbr><ex>iri</ex></expan></supplied></w> <roleName type="civic" subtype="perfectissimus"><w><expan><abbr>p</abbr><ex>erfectissimi</ex></expan></w></roleName> <g ref="#interpunct">·</g> <roleName type="supracivic" subtype="praefectus.annonae"><w><expan><abbr>praef</abbr><ex>ecti</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr><hi rend="supraline">a</hi>nn</abbr><ex>onae</ex></expan></w></roleName>
+                    <lb n="3"/><w><supplied reason="lost"><expan><abbr>idem</abbr><ex>que</ex></expan></supplied></w> <w><supplied reason="lost"><expan><abbr>v</abbr><ex>ices</ex></expan></supplied></w> <w><supplied reason="lost"><expan><abbr>a</abbr><ex>gentis</ex></expan></supplied></w> <roleName type="supracivic" subtype="praefectus.praetorio"><w><supplied reason="lost"><expan><abbr>praef</abbr><ex>ectorum</ex></expan></supplied></w> <w><supplied reason="lost">pr</supplied></w> <w>aetorio</w></roleName> <w><supplied reason="subaudible">duorum</supplied></w> <w><expan><abbr><am>e</am>e</abbr><abbr><am>m</am>m</abbr><ex>inentissimorum</ex></expan></w> <w><expan><abbr><am>v</am>v</abbr><ex>irorum</ex></expan></w>
                 </ab>
             </div>
             <div type="apparatus">

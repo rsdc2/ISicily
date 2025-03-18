@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -192,15 +192,16 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#WS">
-                <ab><!-- text to be encoded still -->
-                    <lb n="1"/>[- - -]qui c[- - -]
-                    <lb n="2"/>[- - - e]x eodem rigoṛ[e - - -]
-                    <lb n="3"/>[- - -]ma parte ex quo pila ++ [- - -]
-                    <lb n="4"/>[- - -]odum tutạ[m a]dq(ue) adeo cum et +[- - -]
-                    <lb n="5"/>[- - -]molem istam [n]avigis adpulsis sca[- - -]
-                    <lb n="6"/>[- - -]ndis suscipiendis oneribus consecu[- - -]
-                    <lb n="7"/>[- - -]CCC [n(ummos)] meatibus urbicis mạg̣no prae[- - -]
-                    <lb n="8"/>[- - -]tionis a[- - -]
+                <ab>
+                    <!-- text to be encoded still -->
+                    <lb n="1"/><w>[-</w> <name>-</name> <name>-]qui</name> <w>c[-</w> <name>-</name> <name>-]</name>
+                    <lb n="2"/><name>[-</name> <name>-</name> <name>-</name> <w>e]x</w> <w>eodem</w> <w>rigoṛ[e</w> <name>-</name> <name>-</name> <name>-]</name>
+                    <lb n="3"/><name>[-</name> <name>-</name> <name>-]ma</name> <w>parte</w> <w>ex</w> <w>quo</w> <w>pila</w> <name>++</name> <name>[-</name> <name>-</name> <name>-]</name>
+                    <lb n="4"/><name>[-</name> <name>-</name> <name>-]odum</name> <w>tutạ[m</w> <w>a]dq(ue)</w> <w>adeo</w> <w>cum</w> <w>et</w> <name>+[-</name> <name>-</name> <name>-]</name>
+                    <lb n="5"/><name>[-</name> <name>-</name> <name>-]molem</name> <w>istam</w> <name>[n]avigis</name> <w>adpulsis</w> <w>sca[-</w> <name>-</name> <name>-]</name>
+                    <lb n="6"/><name>[-</name> <name>-</name> <name>-]ndis</name> <w>suscipiendis</w> <w>oneribus</w> <w>consecu[-</w> <name>-</name> <name>-]</name>
+                    <lb n="7"/><name>[-</name> <name>-</name> <w>-]CCC</w> <name>[n(ummos)]</name> <w>meatibus</w> <w>urbicis</w> <w>mạg̣no</w> <w>prae[-</w> <name>-</name> <name>-]</name>
+                    <lb n="8"/><name>[-</name> <name>-</name> <name>-]tionis</name> <w>a[-</w> <name>-</name> <name>-]</name>
                 </ab>
             </div>
             <div type="apparatus">

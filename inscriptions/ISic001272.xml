@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -194,14 +194,14 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM #JP">
                 <div type="textpart" subtype="section" n="a">
                     <cb n="2"/>
-                <ab>
-                    <lb n="1"/><g ref="#staurogram">&#x101a0;</g>  <g ref="#star">*</g> <g ref="#alpha">α</g> <g ref="#omega">ω</g>
-                </ab>
-            </div> 
+                    <ab>
+                        <lb n="1"/><g ref="#staurogram">𐆠</g> <g ref="#star">*</g> <g ref="#alpha">α</g> <g ref="#omega">ω</g>
+                    </ab>
+                </div>
                 <div type="textpart" subtype="section" n="b">
                     <ab>
                         <cb n="4"/>
-                        <lb n="1" style="text-direction:vertical-upwards"/><hi rend="reversed">Χρυσίς</hi>
+                        <lb n="1" style="text-direction:vertical-upwards"/><w><hi rend="reversed">Χρυσίς</hi></w>
                     </ab>
                 </div>
             </div>

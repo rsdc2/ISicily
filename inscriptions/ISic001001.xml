@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -191,13 +191,13 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM #JP">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name>Πρειβάτος</name></persName> ἔζη
-                    <lb n="2" break="no"/>σεν ἔτη <num value="38">τριά
+                    <lb n="1"/><persName type="attested"><name>Πρειβάτος</name></persName> <w>ἔζη
+                    <lb n="2" break="no"/>σεν</w> <w>ἔτη</w> <num value="38">τριά
                     <lb n="3" break="no"/>κοντα καὶ ὀκτὸ</num>
-                    <lb n="4"/>μῆνας <num value="4">τέσσε
-                    <lb n="5"/>ρες</num> καὶ ἡμέρας
+                    <lb n="4"/><w>μῆνας</w> <num value="4">τέσσε
+                    <lb n="5"/>ρες</num> <w>καὶ</w> <w>ἡμέρας</w>
                     <lb n="6"/><num value="14">δεκατέσσερες</num>
-                    <lb n="7"/>εὐθύμει <g ref="#interpunct">·</g> ψυχή <g ref="#interpunct">·</g>
+                    <lb n="7"/><w>εὐθύμει</w> <g ref="#interpunct">·</g> <w>ψυχή</w> <g ref="#interpunct">·</g>
                 </ab>
             </div>
             <div type="apparatus" resp="#JP">

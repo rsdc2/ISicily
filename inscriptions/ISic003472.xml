@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -188,29 +188,14 @@
         <body>
             <div type="edition" xml:space="preserve" subtype="PHI" n="PHI336061">
                 <ab>
-                    <lb n="1"/>
-                    <supplied reason="lost">— — —</supplied>ΕΤΙΑΙΤΕΙΔΕΚΥ
-                    <supplied reason="lost">— — —</supplied>
-                    <lb n="2"/>
-                    <supplied reason="lost">— — —</supplied>ΝΤΩΓΓΝΗ
-                    <supplied reason="lost">— — — — —</supplied>
-                    <lb n="3"/>
-                    <supplied reason="lost">— — —</supplied>ΝΤΩΜΠΑ
-                    <supplied reason="lost">— — — — —</supplied>
-                    <lb n="4"/>
-                    <supplied reason="lost">— — —</supplied>Κ․ΑΣΤΟΣ
-                    <supplied reason="lost">— — — — —</supplied>
-                    <lb n="5"/>
-                    <supplied reason="lost">— — —</supplied>ΜΙΥΠΟΚΑΚ
-                    <supplied reason="lost">— — — —</supplied>
-                    <lb n="6"/>
-                    <supplied reason="lost">— — —</supplied>ΙΣΟΡΟΦΑΝΕΔ
-                    <supplied reason="lost">— — —</supplied>
-                    <lb n="7"/>
-                    <supplied reason="lost">— — —</supplied>ΚΛΕΠΤΟΣΑΝΕ
-                    <supplied reason="lost">— — —</supplied>
-                    <lb n="8"/>
-                    <supplied reason="lost">— — —</supplied>ΑΣ. vacat
+                    <lb n="1"/><w><supplied reason="lost">— — —</supplied>ΕΤΙΑΙΤΕΙΔΕΚΥ</w> <name><supplied reason="lost">— — —</supplied></name>
+                    <lb n="2"/><w><supplied reason="lost">— — —</supplied>ΝΤΩΓΓΝΗ</w> <name><supplied reason="lost">— — — — —</supplied></name>
+                    <lb n="3"/><w><supplied reason="lost">— — —</supplied>ΝΤΩΜΠΑ</w> <name><supplied reason="lost">— — — — —</supplied></name>
+                    <lb n="4"/><w><supplied reason="lost">— — —</supplied>Κ․ΑΣΤΟΣ</w> <name><supplied reason="lost">— — — — —</supplied></name>
+                    <lb n="5"/><w><supplied reason="lost">— — —</supplied>ΜΙΥΠΟΚΑΚ</w> <name><supplied reason="lost">— — — —</supplied></name>
+                    <lb n="6"/><w><supplied reason="lost">— — —</supplied>ΙΣΟΡΟΦΑΝΕΔ</w> <name><supplied reason="lost">— — —</supplied></name>
+                    <lb n="7"/><w><supplied reason="lost">— — —</supplied>ΚΛΕΠΤΟΣΑΝΕ</w> <name><supplied reason="lost">— — —</supplied></name>
+                    <lb n="8"/><w><supplied reason="lost">— — —</supplied>ΑΣ.</w> <w>vacat</w>
                     <lb n="9"/>
                 </ab>
             </div>

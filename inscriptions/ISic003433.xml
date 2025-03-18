@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -199,15 +199,11 @@
         <body>
                 <div type="edition" xml:space="preserve" xml:lang="grc" resp="#ME">
                 <ab>
-                    <lb n="1"/>
-                    <g ref="#ivy-leaf"/> <expan><abbr>D</abbr><ex>is</ex></expan> · <expan><abbr>M</abbr><ex>anibus</ex></expan> · <g ref="#ivy-leaf"/>
-                    <lb n="2"/>
-                    <persName type="attested"><name><choice><orig>Belleia</orig><reg>Velleia</reg></choice></name> · <name>Vesonia</name></persName> · <expan><abbr>vix</abbr><ex>it</ex></expan> ·
-                    <lb n="3"/>
-                    <expan><abbr>ann</abbr><ex>is</ex></expan> · <num value="34">XXXIIII</num> · <name><expan><abbr>L</abbr><ex>ucius</ex></expan></name> · <name>Ostrius</name> ·
-                    <lb n="4"/>
-                    <name>Crescens</name> · uxori · rarissimae ·
-                  </ab>
+                    <lb n="1"/><g ref="#ivy-leaf"/> <w><expan><abbr>D</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <name><expan><abbr>M</abbr><ex>anibus</ex></expan></name> <g ref="#interpunct">·</g> <g ref="#ivy-leaf"/>
+                    <lb n="2"/><persName type="attested"><name><choice><orig>Belleia</orig><reg>Velleia</reg></choice></name> <g ref="#interpunct">·</g> <name>Vesonia</name></persName> <g ref="#interpunct">·</g> <w><expan><abbr>vix</abbr><ex>it</ex></expan></w> <g ref="#interpunct">·</g>
+                    <lb n="3"/><w><expan><abbr>ann</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <num value="34">XXXIIII</num> <g ref="#interpunct">·</g> <name><expan><abbr>L</abbr><ex>ucius</ex></expan></name> <g ref="#interpunct">·</g> <name>Ostrius</name> <g ref="#interpunct">·</g>
+                    <lb n="4"/><name>Crescens</name> <g ref="#interpunct">·</g> <w>uxori</w> <g ref="#interpunct">·</g> <w>rarissimae</w> <g ref="#interpunct">·</g>
+                </ab>
             </div>
             <div type="apparatus">
                 <listApp>

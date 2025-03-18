@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -193,12 +193,12 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/>Ἐνθάδε κεῖται Εὐ
-                    <lb n="2" break="no"/>τυχιανὸς ζήσας ἐν
-                    <lb n="3"/><expan><abbr><hi rend="supraline">Χ</hi></abbr><ex>ριστ</ex><abbr><hi rend="supraline">ῷ</hi></abbr></expan> τελευτᾷ τῇ <expan><abbr><hi rend="ligature">πρ</hi></abbr><ex>ὸ</ex></expan> <num value="9"><hi rend="supraline">θ</hi></num>
-                    <lb n="4"/>καλανδῶν Αὐγουσ
-                    <lb n="5" break="no"/>τῶν <expan><abbr>ὑπ</abbr><ex>ατείᾳ</ex></expan> Ἀνικίου Αὐχενί  
-                    <lb n="6" break="no"/>ου Βάσσου <expan><abbr>κα</abbr><ex>ὶ</ex></expan> <expan><abbr>Φλ</abbr><ex>αυ</ex><abbr>ί</abbr><ex>ου</ex></expan> <expan><abbr>Φ</abbr><ex>ι</ex><abbr>λίππου</abbr></expan>
+                    <lb n="1"/><w>Ἐνθάδε</w> <w>κεῖται</w> <name>Εὐ
+                    <lb n="2" break="no"/>τυχιανὸς</name> <w>ζήσας</w> <w>ἐν</w>
+                    <lb n="3"/><name><expan><abbr><hi rend="supraline">Χ</hi></abbr><ex>ριστ</ex><abbr><hi rend="supraline">ῷ</hi></abbr></expan></name> <w>τελευτᾷ</w> <w>τῇ</w> <w><expan><abbr><hi rend="ligature">πρ</hi></abbr><ex>ὸ</ex></expan></w> <num value="9"><hi rend="supraline">θ</hi></num>
+                    <lb n="4"/><w>καλανδῶν</w> <name>Αὐγουσ
+                    <lb n="5" break="no"/>τῶν</name> <w><expan><abbr>ὑπ</abbr><ex>ατείᾳ</ex></expan></w> <name>Ἀνικίου</name> <name>Αὐχενί
+                    <lb n="6" break="no"/>ου</name> <name>Βάσσου</name> <w><expan><abbr>κα</abbr><ex>ὶ</ex></expan></w> <name><expan><abbr>Φλ</abbr><ex>αυ</ex><abbr>ί</abbr><ex>ου</ex></expan></name> <name><expan><abbr>Φ</abbr><ex>ι</ex><abbr>λίππου</abbr></expan></name>
                 </ab>
             </div>
             <div type="apparatus">

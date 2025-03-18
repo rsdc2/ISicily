@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -191,10 +191,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1"/>Ῥουφῖνα <choice><orig>χαροῦσα</orig><reg>χαιροῦσα</reg></choice> ἐν
-                    <lb n="2"/><expan><abbr>Χ</abbr><ex>ριστ</ex><abbr><hi rend="supraline">ῷ</hi></abbr></expan> ἔτη <num value="65">ξε</num> ἀνεπαύ
-                    <lb n="3" break="no"/>σατο πρὸ <num value="14">ιδ</num> καλανδῶν ἰανουαρίων
-                    <lb n="4"/><expan><abbr>ἐπ</abbr><ex>ὶ</ex></expan> <supplied reason="subaudible">τῇ</supplied> <num value="11">ια</num> <supplied reason="subaudible">ὥρᾳ</supplied>
+                    <lb n="1"/><w>Ῥουφῖνα</w> <w><choice><orig>χαροῦσα</orig><reg>χαιροῦσα</reg></choice></w> <w>ἐν</w>
+                    <lb n="2"/><name><expan><abbr>Χ</abbr><ex>ριστ</ex><abbr><hi rend="supraline">ῷ</hi></abbr></expan></name> <w>ἔτη</w> <num value="65">ξε</num> <w>ἀνεπαύ
+                    <lb n="3" break="no"/>σατο</w> <w>πρὸ</w> <num value="14">ιδ</num> <w>καλανδῶν</w> <w>ἰανουαρίων</w>
+                    <lb n="4"/><w><expan><abbr>ἐπ</abbr><ex>ὶ</ex></expan></w> <w><supplied reason="subaudible">τῇ</supplied></w> <num value="11">ια</num> <w><supplied reason="subaudible">ὥρᾳ</supplied></w>
                 </ab>
             </div>
             <div type="apparatus" resp="#JP">

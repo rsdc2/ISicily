@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -224,7 +224,7 @@
                 <ab>
                     <lb n="1"/><persName type="attested"><name>Κελαδι<hi rend="ligature">αν</hi>ὸς</name></persName>, <persName type="attested"><name>Λάλος</name></persName>, <persName type="attested"><name>Ῥ<hi rend="ligature">οῦ</hi>φος</name></persName>
                     <lb n="2"/><persName type="attested"><name>Φησεῖνος</name></persName>, <persName type="attested"><name>Εὐσέ<hi rend="ligature">βη</hi>ς</name></persName>
-                    <lb n="3"/><persName type="attested"><name>Παυ<hi rend="ligature">λεῖ</hi>νος</name></persName> εὐφράνθησαν 
+                    <lb n="3"/><persName type="attested"><name>Παυ<hi rend="ligature">λεῖ</hi>νος</name></persName> <w>εὐφράνθησαν</w>
                 </ab>
             </div>
             <div type="apparatus">

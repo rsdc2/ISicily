@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -191,14 +191,14 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
-                    <lb n="1"/><supplied reason="lost">s</supplied>e <g ref="#interpunct">·</g> vivi <g ref="#interpunct">·</g> compara<supplied reason="lost">verun</supplied>t <supplied reason="lost">sibi</supplied>
-                    <lb n="2"/><name><expan><abbr><supplied reason="lost">F</supplied>l</abbr><ex>avia</ex></expan></name> <g ref="#interpunct">·</g> <name>Valentina</name> <g ref="#interpunct">·</g> et <g ref="#interpunct">·</g> <name>Assyrius</name>
-                    <lb n="3"/><name><supplied reason="lost">C</supplied>harito</name> <g ref="#interpunct">·</g> et <g ref="#interpunct">·</g> <expan><abbr>libert</abbr><ex>is</ex></expan> <g ref="#interpunct">·</g> <expan><abbr>libertab</abbr><ex>usque</ex></expan> <g ref="#interpunct">·</g> pos
-                    <lb n="4" break="no"/><supplied reason="lost">t</supplied>erisque <g ref="#interpunct">·</g> eorum <g ref="#interpunct">·</g> in <g ref="#interpunct">·</g> fronte <g ref="#interpunct">·</g> <expan><abbr>ped</abbr><ex>es</ex></expan> <g ref="#interpunct">·</g> <num value="11">XI</num>
-                    <lb n="5"/><supplied reason="lost">i</supplied>n <g ref="#interpunct">·</g> agro <g ref="#interpunct">·</g> pedes <num value="13">XIII</num> ne <g ref="#interpunct">·</g> post <g ref="#interpunct">·</g> ali
-                    <lb n="6" break="no"/><expan><abbr>qu</abbr><ex>i</ex></expan> <g ref="#interpunct">·</g> aut <g ref="#interpunct">·</g> <choice><orig>bendant</orig><reg>vendant</reg></choice> <g ref="#interpunct">·</g> aut <g ref="#interpunct">·</g> <choice><orig>donet</orig><reg>donent</reg></choice>
-                    <lb n="7"/><supplied reason="lost">i</supplied>tem <g ref="#interpunct">·</g> ariola <g ref="#interpunct">·</g> pertinente <g ref="#interpunct">·</g> <choice><orig>at</orig><reg>ad</reg></choice>
-                    <lb n="8"/>monumentum <g ref="#interpunct">·</g> pedes <g ref="#interpunct">·</g> <num value="12">XII</num> <g ref="#interpunct">·</g> per <g ref="#interpunct">·</g> <num value="10">X</num>
+                    <lb n="1"/><w><supplied reason="lost">s</supplied>e</w> <g ref="#interpunct">·</g> <w>vivi</w> <g ref="#interpunct">·</g> <w>compara<supplied reason="lost">verun</supplied>t</w> <w><supplied reason="lost">sibi</supplied></w>
+                    <lb n="2"/><name><expan><abbr><supplied reason="lost">F</supplied>l</abbr><ex>avia</ex></expan></name> <g ref="#interpunct">·</g> <name>Valentina</name> <g ref="#interpunct">·</g> <w>et</w> <g ref="#interpunct">·</g> <name>Assyrius</name>
+                    <lb n="3"/><name><supplied reason="lost">C</supplied>harito</name> <g ref="#interpunct">·</g> <w>et</w> <g ref="#interpunct">·</g> <w><expan><abbr>libert</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>libertab</abbr><ex>usque</ex></expan></w> <g ref="#interpunct">·</g> <w>pos
+                    <lb n="4" break="no"/><supplied reason="lost">t</supplied>erisque</w> <g ref="#interpunct">·</g> <w>eorum</w> <g ref="#interpunct">·</g> <w>in</w> <g ref="#interpunct">·</g> <w>fronte</w> <g ref="#interpunct">·</g> <w><expan><abbr>ped</abbr><ex>es</ex></expan></w> <g ref="#interpunct">·</g> <num value="11">XI</num>
+                    <lb n="5"/><w><supplied reason="lost">i</supplied>n</w> <g ref="#interpunct">·</g> <w>agro</w> <g ref="#interpunct">·</g> <w>pedes</w> <num value="13">XIII</num> <w>ne</w> <g ref="#interpunct">·</g> <w>post</w> <g ref="#interpunct">·</g> <w>ali
+                    <lb n="6" break="no"/><expan><abbr>qu</abbr><ex>i</ex></expan></w> <g ref="#interpunct">·</g> <w>aut</w> <g ref="#interpunct">·</g> <w><choice><orig>bendant</orig><reg>vendant</reg></choice></w> <g ref="#interpunct">·</g> <w>aut</w> <g ref="#interpunct">·</g> <w><choice><orig>donet</orig><reg>donent</reg></choice></w>
+                    <lb n="7"/><w><supplied reason="lost">i</supplied>tem</w> <g ref="#interpunct">·</g> <w>ariola</w> <g ref="#interpunct">·</g> <w>pertinente</w> <g ref="#interpunct">·</g> <w><choice><orig>at</orig><reg>ad</reg></choice></w>
+                    <lb n="8"/><w>monumentum</w> <g ref="#interpunct">·</g> <w>pedes</w> <g ref="#interpunct">·</g> <num value="12">XII</num> <g ref="#interpunct">·</g> <w>per</w> <g ref="#interpunct">·</g> <num value="10">X</num>
                 </ab>
             </div>
             <div type="apparatus">

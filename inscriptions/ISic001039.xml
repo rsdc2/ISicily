@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -224,12 +224,12 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><orig>ΜΟ<unclear>Ν</unclear></orig><gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="2"/><orig>Ε<unclear>ΡΕ</unclear>ΙΝ <g ref="#dipunct">⁚</g> ΤΑΙ<unclear>Δ</unclear></orig>
-                    <lb n="3"/>ΑΙ <g ref="#dipunct">⁚</g> ΤΟΝΤΕΛ
-                    <lb n="4"/>Ν <g ref="#dipunct">⁚</g> ΗΟ<unclear>Τ</unclear>Ε<unclear>Κ</unclear>
-                    <lb n="5"/>ΝΙΝΚΕΓΙ
-                    <lb n="6"/><g ref="#dipunct">⁚</g> ΕΙΣΩ <space extent="unknown" unit="character"/>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <orig>ΜΟ<unclear>Ν</unclear></orig><gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><orig>Ε<unclear>ΡΕ</unclear>ΙΝ  <g ref="#dipunct">⁚</g> ΤΑΙ <unclear>Δ</unclear></orig>
+                    <lb n="3"/><w>ΑΙ</w> <g ref="#dipunct">⁚</g> <w>ΤΟΝΤΕΛ</w>
+                    <lb n="4"/><name>Ν</name> <g ref="#dipunct">⁚</g> <w>ΗΟ<unclear>Τ</unclear>Ε<unclear>Κ</unclear></w>
+                    <lb n="5"/><w>ΝΙΝΚΕΓΙ</w>
+                    <lb n="6"/><g ref="#dipunct">⁚</g> <w>ΕΙΣΩ</w> <space extent="unknown" unit="character"/>
                     <lb n="7"/><space quantity="1" unit="line"/>
                 </ab>
             </div>

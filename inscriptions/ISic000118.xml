@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -204,9 +204,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#TA #JP">
                 <ab>
-                    <lb n="1" xml:id="ALεAK"/><w xml:id="ALεAU"><expan xml:id="ALεAe"><abbr xml:id="ALεAo">D</abbr><ex xml:id="ALεAy">is</ex></expan></w> <w xml:id="ALεAΙ"><expan xml:id="ALεAΤ"><abbr xml:id="ALεAε">M</abbr><ex xml:id="ALεAο">anibus</ex></expan></w> 
-                    <lb n="2" xml:id="ALεBA"/><persName type="attested" xml:id="ALεBK"><name xml:id="ALεBU"><expan xml:id="ALεBe"><abbr xml:id="ALεBo">P</abbr><ex xml:id="ALεBy">ublius</ex></expan></name> <name xml:id="ALεBΙ">Acellius</name> 
-                    <lb n="3" xml:id="ALεBΤ"/><name xml:id="ALεBε">Eyporistus</name></persName> 
+                    <lb n="1" xml:id="ALεAK"/><w xml:id="ALεAU"><expan xml:id="ALεAe"><abbr xml:id="ALεAo">D</abbr><ex xml:id="ALεAy">is</ex></expan></w> <name xml:id="ALεAΙ"><expan xml:id="ALεAΤ"><abbr xml:id="ALεAε">M</abbr><ex xml:id="ALεAο">anibus</ex></expan></name>
+                    <lb n="2" xml:id="ALεBA"/><persName type="attested" xml:id="ALεBK"><name xml:id="ALεBU"><expan xml:id="ALεBe"><abbr xml:id="ALεBo">P</abbr><ex xml:id="ALεBy">ublius</ex></expan></name> <name xml:id="ALεBΙ">Acellius</name>
+                    <lb n="3" xml:id="ALεBΤ"/><name xml:id="ALεBε">Eyporistus</name></persName>
                     <lb n="4" xml:id="ALεBο"/><w xml:id="ALεCA"><expan xml:id="ALεCK"><abbr xml:id="ALεCU">vix</abbr><ex xml:id="ALεCe">it</ex></expan></w> <w xml:id="ALεCo"><expan xml:id="ALεCy"><abbr xml:id="ALεCΙ">an</abbr><ex xml:id="ALεCΤ">nis</ex></expan></w> <num value="70" xml:id="ALεCε">LXX</num>
                 </ab>
             </div>
@@ -222,7 +222,7 @@
                 <p>To the Shades of the Underworld. Publius Acellius Eyporistus lived 70 years.</p>
             </div>
             <div type="commentary">
-                <p></p>
+                <p/>
             </div>
             <div type="bibliography">
                 <listBibl type="edition">

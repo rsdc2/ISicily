@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -90,7 +90,7 @@
                                 <condition/>
 		    </supportDesc>
                             <layoutDesc>
-                                <layout><p></p>
+                                <layout><p/>
                                     <rs ana="#execution.chiselled" ref="http://www.eagle-network.eu/voc/writing/lod/1">chiselled</rs>
                                 	<damage/>
 			</layout>
@@ -190,17 +190,17 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM #JP">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name>Εὐσκία</name></persName> ἡ ἄ<hi rend="ligature">με</hi><hi rend="ligature">ντ</hi>ος <expan><abbr>ζ<hi rend="ligature">ήσ</hi>α</abbr><ex>σα</ex></expan>
-                    <lb n="2"/>χρηστῶς καὶ σε<hi rend="ligature">μνῶς</hi> ἔτη
-                    <lb n="3"/><expan><abbr>πλῖο</abbr><ex>ν</ex></expan> ἔλαττον <num value="25">κε</num> ἀ<hi rend="ligature">νε</hi>
-                    <lb n="4" break="no"/>παύσετο <hi rend="ligature" xml:id="l1">τῇ</hi> <hi rend="ligature" xml:id="l2">ἑ</hi>ορ<hi rend="ligature">τῇ</hi> <hi rend="ligature">τῆς</hi> κυ<link target="#l1 #l2"/>
-                    <lb n="5" break="no"/>ρίας μου <persName type="attested"><name>Λουκίας</name></persName> εἰς <hi rend="ligature">ἢν</hi>
-                    <lb n="6"/>οὔκ ἐστι<hi rend="ligature" xml:id="l3">ν</hi> <hi rend="ligature" xml:id="l4">ἐ</hi><hi rend="ligature">νκ</hi>ώ<hi rend="ligature">με</hi>ιον<link target="#l3 #l4"/>
-                    <lb n="7"/>εἰ<hi rend="ligature">πε</hi>ῖν χρηστειανή π<hi rend="ligature">ισ</hi>
-                    <lb n="8" break="no"/>τή τέλιος οὖσα εὐχα
-                    <lb n="9" break="no"/>ριστοῦσα τῷ εἰδίῳ <hi rend="ligature">ἀν</hi>
-                    <lb n="10" break="no"/>δρὶ πολλὰς εὐχαρισ
-                    <lb n="11" break="no"/>τίας <g ref="#alpha">α</g> <g ref="#staurogram">&#x101a0;</g> <g ref="#omega">ω</g> εὐο<hi rend="ligature">μεί</hi><supplied reason="lost">λητος</supplied>
+                    <lb n="1"/><persName type="attested"><name>Εὐσκία</name></persName> <w>ἡ</w> <w>ἄ<hi rend="ligature">με</hi><hi rend="ligature">ντ</hi>ος</w> <w><expan><abbr>ζ<hi rend="ligature">ήσ</hi>α</abbr><ex>σα</ex></expan></w>
+                    <lb n="2"/><w>χρηστῶς</w> <w>καὶ</w> <w>σε<hi rend="ligature">μνῶς</hi></w> <w>ἔτη</w>
+                    <lb n="3"/><w><expan><abbr>πλῖο</abbr><ex>ν</ex></expan></w> <w>ἔλαττον</w> <num value="25">κε</num> <w>ἀ<hi rend="ligature">νε</hi>
+                    <lb n="4" break="no"/>παύσετο</w> <w><hi rend="ligature" xml:id="l1">τῇ</hi></w> <w><hi rend="ligature" xml:id="l2">ἑ</hi>ορ<hi rend="ligature">τῇ</hi></w> <w><hi rend="ligature">τῆς</hi></w> <w>κυ<link target="#l1 #l2"/>
+                    <lb n="5" break="no"/>ρίας</w> <w>μου</w> <persName type="attested"><name>Λουκίας</name></persName> <w>εἰς</w> <w><hi rend="ligature">ἢν</hi></w>
+                    <lb n="6"/><w>οὔκ</w> <w>ἐστι<hi rend="ligature" xml:id="l3">ν</hi></w> <w><hi rend="ligature" xml:id="l4">ἐ</hi><hi rend="ligature">νκ</hi>ώ<hi rend="ligature">με</hi>ιον<link target="#l3 #l4"/></w>
+                    <lb n="7"/><w>εἰ<hi rend="ligature">πε</hi>ῖν</w> <w>χρηστειανή</w> <w>π<hi rend="ligature">ισ</hi>
+                    <lb n="8" break="no"/>τή</w> <w>τέλιος</w> <w>οὖσα</w> <w>εὐχα
+                    <lb n="9" break="no"/>ριστοῦσα</w> <w>τῷ</w> <w>εἰδίῳ</w> <w><hi rend="ligature">ἀν</hi>
+                    <lb n="10" break="no"/>δρὶ</w> <w>πολλὰς</w> <w>εὐχαρισ
+                    <lb n="11" break="no"/>τίας</w> <g ref="#alpha">α</g> <g ref="#staurogram">𐆠</g> <g ref="#omega">ω</g> <w>εὐο<hi rend="ligature">μεί</hi><supplied reason="lost">λητος</supplied></w>
                 </ab>
             </div>
             <div type="apparatus" resp="#JP">

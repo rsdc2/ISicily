@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -186,11 +186,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
-                    <lb n="1"/><expan><abbr>L</abbr><ex>ucia</ex></expan> Arria Parteenin
-                    <lb n="2"/>vixit annos <num value="26">XXVI</num>
-                    <lb n="3"/>Parthenius pat<supplied reason="omitted">e</supplied>r
-                    <lb n="4"/>filiae dulcissimae
-                    <lb n="5"/>fecit
+                    <lb n="1"/><w><expan><abbr>L</abbr><ex>ucia</ex></expan></w> <name>Arria</name> <name>Parteenin</name>
+                    <lb n="2"/><w>vixit</w> <w>annos</w> <num value="26">XXVI</num>
+                    <lb n="3"/><name>Parthenius</name> <w>pat<supplied reason="omitted">e</supplied>r</w>
+                    <lb n="4"/><w>filiae</w> <w>dulcissimae</w>
+                    <lb n="5"/><w>fecit</w>
                 </ab>
             </div>
             <div type="apparatus">

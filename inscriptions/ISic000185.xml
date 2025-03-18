@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -208,8 +208,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP #AA">
                 <ab>
-                    <lb n="1" xml:id="ASyAK"/><persName type="attested" xml:id="ASyAU"><name xml:id="ASyAe">Ignatia</name> 
-                    <lb n="2" xml:id="ASyAo"/><name xml:id="ASyAy">Athanais</name></persName> 
+                    <lb n="1" xml:id="ASyAK"/><persName type="attested" xml:id="ASyAU"><name xml:id="ASyAe">Ignatia</name>
+                    <lb n="2" xml:id="ASyAo"/><name xml:id="ASyAy">Athanais</name></persName>
                     <lb n="3" xml:id="ASyAΙ"/><w xml:id="ASyAΤ"><expan xml:id="ASyAε"><abbr xml:id="ASyAο">vix</abbr><ex xml:id="ASyBA">it</ex></expan></w> <w xml:id="ASyBK"><expan xml:id="ASyBU"><abbr xml:id="ASyBe">a</abbr><ex xml:id="ASyBo">nnis</ex></expan></w> <num value="70" xml:id="ASyBy">LXX</num>
                 </ab>
             </div>

@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -189,14 +189,14 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
-                    <lb n="1"/><g ref="#cross_uninterpreted"/>Hic requiescit in pace
-                    <lb n="2"/>Petrus Alexandrinus
-                    <lb n="3"/>negotia<supplied reason="omitted">n</supplied>s linatarius
-                    <lb n="4"/>qui vixit <expan><abbr>an</abbr><ex>nos</ex></expan> <expan><abbr>pl</abbr><ex>us</ex></expan> <expan><abbr>m</abbr><ex>inus</ex></expan> LX  <expan><abbr>dep</abbr><ex>ositus</ex></expan>
-                    <lb n="5"/>sub die XI <expan><abbr>Kal</abbr><ex>endas</ex></expan> Februari
-                    <lb n="6" break="no"/>as <roleName type="supracivic" subtype="imperator"><expan><abbr>I<hi rend="supraline">mp</hi></abbr><ex>eratore</ex></expan></roleName> <roleName type="supracivic" subtype="dominus"><expan><abbr>d</abbr><ex>omi</ex><abbr><hi rend="supraline">n</hi></abbr><ex>o</ex></expan></roleName> <expan><abbr><hi rend="supraline">n</hi></abbr><ex>ostro</ex></expan> Mauricio
-                    <lb n="7"/><expan><abbr>T<hi rend="supraline">ib</hi></abbr><ex>erio</ex></expan> <expan><abbr>p</abbr><ex>er</ex><abbr><hi rend="supraline">p</hi></abbr><ex>etuo</ex></expan> <expan><abbr>A<hi rend="supraline">u</hi>g</abbr><ex>usto</ex></expan>  <expan><abbr><hi rend="supraline">an</hi></abbr><ex>no</ex></expan> XX <expan><abbr><hi rend="supraline">p</hi></abbr><ex>ost</ex></expan> <roleName type="supracivic" subtype="consul"><expan><abbr><hi rend="supraline">c</hi></abbr><ex>onsulatum</ex></expan></roleName> eius
-                        <lb n="8" break="no"/>dem <expan><abbr>a<hi rend="supraline">n</hi></abbr><ex>no</ex></expan> XVIII <expan><abbr>in<hi rend="intraline">d</hi></abbr><ex>ictione</ex></expan> quinta <g ref="#ivy-leaf"/><g ref="#ivy-leaf"/>
+                    <lb n="1"/><w><g ref="#cross_uninterpreted"/>Hic</w> <w>requiescit</w> <w>in</w> <w>pace</w>
+                    <lb n="2"/><name>Petrus</name> <name>Alexandrinus</name>
+                    <lb n="3"/><w>negotia<supplied reason="omitted">n</supplied>s</w> <w>linatarius</w>
+                    <lb n="4"/><w>qui</w> <w>vixit</w> <w><expan><abbr>an</abbr><ex>nos</ex></expan></w> <w><expan><abbr>pl</abbr><ex>us</ex></expan></w> <w><expan><abbr>m</abbr><ex>inus</ex></expan></w> <w>LX</w> <w><expan><abbr>dep</abbr><ex>ositus</ex></expan></w>
+                    <lb n="5"/><w>sub</w> <w>die</w> <w>XI</w> <name><expan><abbr>Kal</abbr><ex>endas</ex></expan></name> <name>Februari
+                    <lb n="6" break="no"/>as</name> <roleName type="supracivic" subtype="imperator"><name><expan><abbr>I<hi rend="supraline">mp</hi></abbr><ex>eratore</ex></expan></name></roleName> <roleName type="supracivic" subtype="dominus"><w><expan><abbr>d</abbr><ex>omi</ex><abbr><hi rend="supraline">n</hi></abbr><ex>o</ex></expan></w></roleName> <w><expan><abbr><hi rend="supraline">n</hi></abbr><ex>ostro</ex></expan></w> <name>Mauricio</name>
+                    <lb n="7"/><name><expan><abbr>T<hi rend="supraline">ib</hi></abbr><ex>erio</ex></expan></name> <w><expan><abbr>p</abbr><ex>er</ex><abbr><hi rend="supraline">p</hi></abbr><ex>etuo</ex></expan></w> <name><expan><abbr>A<hi rend="supraline">u</hi>g</abbr><ex>usto</ex></expan></name> <w><expan><abbr><hi rend="supraline">an</hi></abbr><ex>no</ex></expan></w> <w>XX</w> <w><expan><abbr><hi rend="supraline">p</hi></abbr><ex>ost</ex></expan></w> <roleName type="supracivic" subtype="consul"><w><expan><abbr><hi rend="supraline">c</hi></abbr><ex>onsulatum</ex></expan></w></roleName> <w>eius
+                    <lb n="8" break="no"/>dem</w> <w><expan><abbr>a<hi rend="supraline">n</hi></abbr><ex>no</ex></expan></w> <w>XVIII</w> <w><expan><abbr>in<hi rend="intraline">d</hi></abbr><ex>ictione</ex></expan></w> <w>quinta</w> <g ref="#ivy-leaf"/> <g ref="#ivy-leaf"/>
                 </ab>
              </div>
             <div type="apparatus">

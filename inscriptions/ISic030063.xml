@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -170,24 +170,25 @@
    <text>
       <body>
          <div type="edition" xml:space="preserve" xml:lang="grc" resp="#RDS">
-            <div type="textpart" subtype="fragment" n="a" xml:lang="grc">
-         <ab>
-         <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><orig><unclear>Ν</unclear>ΔΕΧΑΤΑΙ</orig><gap reason="lost" extent="unknown" unit="character"/>
-         <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><orig>ΕΝΑΝΑΚ</orig><gap reason="lost" extent="unknown" unit="character"/>
-         <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/>ἐνέοντα ἐν τοῖς χώ<supplied reason="lost">ροις</supplied> <gap reason="lost" extent="unknown" unit="character"/>
-         <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">τ</supplied><unclear>ᾶ</unclear>ς Σωσία χήρας <orig><unclear>Δ</unclear></orig><gap reason="lost" extent="unknown" unit="character"/>
-         </ab>
-            </div>
-            <div type="textpart" subtype="fragment" n="b+c" xml:lang="grc">
-            <ab>
-            <lb n="5" break="no"/>κλῆς Ἡρακλείου Ἡρ<supplied reason="lost">άκλει</supplied>ος Φιλωνίδα Παραγ<gap reason="lost" extent="unknown" unit="character"/>
-            <lb n="6" break="no"/><unclear>ε</unclear>νος, Φιλῖνος Διονυ<supplied reason="lost">σίου</supplied> <gap reason="lost" atLeast="2" atMost="3" unit="character"/>ησις Θέωνος Καλλ<gap reason="lost" extent="unknown" unit="character"/>
-            <lb n="7"/><gap reason="lost" quantity="2" unit="character"/>λίδα <unclear>Γ</unclear>οργίας Παρμο<unclear>ν</unclear><supplied reason="lost">ι</supplied>μου Ἡρακλεί<unclear>δ</unclear>ας Θε<gap reason="lost" extent="unknown" unit="character"/>
-            <lb n="8"/>Παυσανίας Ἀρίστωνος Θεύδωρος Λεόντιος <space unit="character" extent="unknown"/>
-            <lb n="9"/><space unit="character" extent="unknown"/>
-            <lb n="10"/><orig><unclear>ΠΑ</unclear></orig>
-            </ab>
-            </div>
+                <div type="textpart" subtype="fragment" n="a" xml:lang="grc">
+                    <ab>
+                        <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <orig><unclear>Ν</unclear>ΔΕΧΑΤΑΙ</orig><gap reason="lost" extent="unknown" unit="character"/>
+                        <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <orig>ΕΝΑΝΑΚ</orig><gap reason="lost" extent="unknown" unit="character"/>
+                        <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <w>ἐνέοντα</w> <w>ἐν</w> <w>τοῖς</w> <w>χώ<supplied reason="lost">ροις</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
+                        <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">τ</supplied><unclear>ᾶ</unclear>ς</w> <name>Σωσία</name> <w>χήρας</w> <orig><unclear>Δ</unclear></orig><gap reason="lost" extent="unknown" unit="character"/>
+                    </ab>
+                </div>
+                <div type="textpart" subtype="fragment" n="b+c" xml:lang="grc">
+                    <ab>
+                        <w>
+                        <lb n="5" break="no"/>κλῆς</w> <name>Ἡρακλείου</name> <name>Ἡρ<supplied reason="lost">άκλει</supplied>ος</name> <name>Φιλωνίδα</name> <name>Παραγ</name> <gap reason="lost" extent="unknown" unit="character"/> <w>
+                        <lb n="6" break="no"/><unclear>ε</unclear>νος,</w> <name>Φιλῖνος</name> <name>Διονυ<supplied reason="lost">σίου</supplied></name> <gap reason="lost" atLeast="2" atMost="3" unit="character"/> <w>ησις</w> <name>Θέωνος</name> <name>Καλλ</name> <gap reason="lost" extent="unknown" unit="character"/>
+                        <lb n="7"/><gap reason="lost" quantity="2" unit="character"/> <w>λίδα</w> <name><unclear>Γ</unclear>οργίας</name> <name>Παρμο<unclear>ν</unclear><supplied reason="lost">ι</supplied>μου</name> <name>Ἡρακλεί<unclear>δ</unclear>ας</name> <name>Θε</name> <gap reason="lost" extent="unknown" unit="character"/>
+                        <lb n="8"/><name>Παυσανίας</name> <name>Ἀρίστωνος</name> <name>Θεύδωρος</name> <name>Λεόντιος</name> <space unit="character" extent="unknown"/>
+                        <lb n="9"/><space unit="character" extent="unknown"/>
+                        <lb n="10"/><orig><unclear>ΠΑ</unclear></orig>
+                    </ab>
+                </div>
          </div>
          <div type="apparatus" resp="#RDS">
            <listApp>

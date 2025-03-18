@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -190,10 +190,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#VM">
                 <ab>
-                    <lb n="1"/>Hic iacet in pace Domini infa<supplied reason="lost">s</supplied> nomi
-                    <lb n="2" break="no"/>ne <g ref="#interpunct"/> Atinodori annorum <num value="2">duo</num> filius <g ref="#interpunct"/>
-                    <lb n="3"/>Mucia<supplied reason="lost">ni</supplied> primiceri de nume<supplied reason="lost">r</supplied>o <g ref="#interpunct"/>
-                    <lb n="4"/><expan><abbr><num value="11">XI</num></abbr><ex>Undeci</ex><abbr>manorum</abbr></expan> <g ref="#interpunct"/> felex in Deo <g ref="#ivy-leaf">❦</g>
+                    <lb n="1"/><w>Hic</w> <w>iacet</w> <w>in</w> <w>pace</w> <name>Domini</name> <w>infa<supplied reason="lost">s</supplied></w> <w>nomi
+                    <lb n="2" break="no"/>ne</w> <g ref="#interpunct"/> <name>Atinodori</name> <w>annorum</w> <num value="2">duo</num> <w>filius</w> <g ref="#interpunct"/>
+                    <lb n="3"/><name>Mucia<supplied reason="lost">ni</supplied></name> <w>primiceri</w> <w>de</w> <w>nume<supplied reason="lost">r</supplied>o</w> <g ref="#interpunct"/>
+                    <lb n="4"/><w><expan><abbr><num value="11">XI</num></abbr><ex>Undeci</ex><abbr>manorum</abbr></expan></w> <g ref="#interpunct"/> <w>felex</w> <w>in</w> <name>Deo</name> <g ref="#ivy-leaf">❦</g>
                 </ab>
             </div>
             <div type="apparatus">

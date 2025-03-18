@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>                                                
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xmlns:xi="http://www.w3.org/2001/XInclude">
+<?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -189,10 +189,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/>Αὖλε Νόμμιε
-                    <lb n="2"/>ἐπιγόν<surplus>ι</surplus>ων
-                    <lb n="3"/>χρηστὲ
-                    <lb n="4"/><unclear>χαῖρε</unclear>
+                    <lb n="1"/><w>Αὖλε</w> <name>Νόμμιε</name>
+                    <lb n="2"/><w>ἐπιγόν<surplus>ι</surplus>ων</w>
+                    <lb n="3"/><w>χρηστὲ</w>
+                    <lb n="4"/><w><unclear>χαῖρε</unclear></w>
                 </ab>
             </div>
             <div type="apparatus">

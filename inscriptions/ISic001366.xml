@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -192,10 +192,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#AA">
                 <ab>
-                    <lb n="1"/>ἐνθάδ<supplied reason="lost">ε</supplied> <supplied reason="lost">κῖ</supplied>
-                    <lb n="2" break="no"/>τε <name><seg part="I">Π</seg><supplied reason="omitted" cert="low">ρ</supplied><seg part="M">ιμ</seg><supplied reason="lost" cert="low">ιγένιος</supplied></name>
-                    <lb n="3"/><roleName type="paracivic.religious" subtype="hypodiakonos">ὑποδ<supplied reason="lost">ιάκονος</supplied></roleName>
-                    <lb n="4"/>κὲ θυρ<gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><w>ἐνθάδ<supplied reason="lost">ε</supplied></w> <w><supplied reason="lost">κῖ</supplied>
+                    <lb n="2" break="no"/>τε</w> <name><seg part="I">Π</seg><supplied reason="omitted" cert="low">ρ</supplied><seg part="M">ιμ</seg><supplied reason="lost" cert="low">ιγένιος</supplied></name>
+                    <lb n="3"/><roleName type="paracivic.religious" subtype="hypodiakonos"><w>ὑποδ</w> <w><supplied reason="lost">ιάκονος</supplied></w></roleName>
+                    <lb n="4"/><w>κὲ</w> <w>θυρ</w> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>
             <div type="apparatus">

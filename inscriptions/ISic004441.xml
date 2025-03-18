@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>                                                
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xmlns:xi="http://www.w3.org/2001/XInclude">
+<?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -42,13 +42,13 @@
             <publicationStmt>
                 <authority>I.Sicily</authority>
                 <idno type="filename">ISic004441</idno>
-                <idno type="TM"></idno>
+                <idno type="TM"/>
                 <idno type="EDR"/>
                 <idno type="EDH"/>
-                <idno type="EDCS"></idno>
-                <idno type="PHI"></idno>
+                <idno type="EDCS"/>
+                <idno type="PHI"/>
                 <idno type="URI">http://sicily.classics.ox.ac.uk/inscription/ISic004441</idno>
-                <idno type="DOI"></idno>
+                <idno type="DOI"/>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/4.0/">Licensed under a Creative Commons-Attribution 4.0 licence.</licence>
                 </availability>
@@ -120,7 +120,7 @@
                         </origin>
                         <provenance type="found" subtype="discovered">catacomb of S. Lucia</provenance>
                         <provenance type="observed" subtype="autopsied">No Autopsy</provenance>
-                        <acquisition></acquisition>
+                        <acquisition/>
                     </history>
                 </msDesc>
             </sourceDesc>
@@ -185,23 +185,23 @@
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#IG">
                 <ab>
                     <lb n="0"/><gap reason="lost" extent="unknown" unit="line"/>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><orig>RA</orig><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><orig>ER</orig> <g ref="#interpunct">·</g> <expan><abbr>P</abbr><ex cert="low">ubli</ex></expan> <g ref="#interpunct">·</g> <expan><abbr>f</abbr><ex cert="low">ili</ex></expan> <g ref="#interpunct">·</g> <gap reason="lost" extent="unknown" unit="character"/> 
-                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <g ref="#interpunct">·</g> <abbr>p</abbr> <g ref="#interpunct">·</g> <abbr>s</abbr> <g ref="#interpunct">·</g>
-                  </ab>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <orig>RA</orig><gap reason="illegible" quantity="1" unit="character"/> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <gap reason="illegible" quantity="1" unit="character"/> <orig>ER</orig><g ref="#interpunct">·</g> <w><expan><abbr>P</abbr><ex cert="low">ubli</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>f</abbr><ex cert="low">ili</ex></expan></w> <g ref="#interpunct">·</g> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <g ref="#interpunct">·</g> <w><abbr>p</abbr></w> <g ref="#interpunct">·</g> <w><abbr>s</abbr></w> <g ref="#interpunct">·</g>
+                </ab>
                </div>
             <div type="apparatus">
                 <listApp><app><note>Text from photograph</note></app></listApp>
             </div>
             <div type="translation">
-                <p></p>
+                <p/>
             </div>
             <div type="commentary">
                 <p>The fragment appears to be unpublished. Line 4: among the possible explanations [d(e)?] p(ecunia) s(ua) or [s(ibi)] p(osterisque) s(uis) (scil. fecit/posuit)</p>
             </div>
             <div type="bibliography">
                 <listBibl>
-                    <bibl></bibl>
+                    <bibl/>
                     <bibl/>
                 </listBibl>
 	   <listBibl type="discussion"><bibl/></listBibl>

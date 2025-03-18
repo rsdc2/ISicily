@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -190,10 +190,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/>ἐνθάδε κῖτε <expan><abbr>θ</abbr><ex>εο</ex><abbr>ῦ</abbr></expan>
-                    <lb n="2"/>δοῦλος Ἀγάπιος
-                    <lb n="3"/>τελευτήσας τῇ πρὸ <num value="9">θ</num>
-                    <lb n="4"/><expan><abbr>καλ</abbr><ex>ανδῶν</ex></expan> <g ref="#interpunct">·</g> <expan><abbr>Σεπτεμβ</abbr><ex>ρίων</ex></expan>
+                    <lb n="1"/><w>ἐνθάδε</w> <w>κῖτε</w> <w><expan><abbr>θ</abbr><ex>εο</ex><abbr>ῦ</abbr></expan></w>
+                    <lb n="2"/><w>δοῦλος</w> <name>Ἀγάπιος</name>
+                    <lb n="3"/><w>τελευτήσας</w> <w>τῇ</w> <w>πρὸ</w> <num value="9">θ</num>
+                    <lb n="4"/><w><expan><abbr>καλ</abbr><ex>ανδῶν</ex></expan></w> <g ref="#interpunct">·</g> <name><expan><abbr>Σεπτεμβ</abbr><ex>ρίων</ex></expan></name>
                 </ab>
             </div>
             <div type="apparatus">

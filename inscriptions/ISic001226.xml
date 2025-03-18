@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -192,21 +192,21 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#GC">
                 <ab>
-                    <lb n="1"/>ναύ<supplied reason="omitted" cert="low">κλη</supplied>ροι
+                    <lb n="1"/><w>ναύ<supplied reason="omitted" cert="low">κλη</supplied>ροι</w>
                     <lb n="2"/><name>Ὄλυμπις</name> <name>Ὑπερβόλου</name>
                     <lb n="3"/><name>Θεῦγνις</name> <g ref="#interpunct">·</g> <name>Εὐβίου</name>
                     <lb n="4"/><name>Φρυνείδας</name> <name>Τεισάνδρου</name>
                     <lb n="5"/><name><supplied reason="omitted">Δι</supplied>οκ<supplied reason="omitted">λῆ</supplied>ς</name> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="6"/><g ref="#interpunct">·</g> <name>Ἀριστόδαμος</name> <g ref="#interpunct">·</g> <name>Εὐβίου</name>
-                    <lb n="7"/><gap reason="lost" extent="unknown" unit="character"/>υκος <g ref="#interpunct">·</g> <name>Εὐφε<supplied reason="lost">ίδ</supplied>εος</name>
-                    <lb n="8"/><gap reason="lost" extent="unknown" unit="character"/>α<supplied reason="omitted">ρ</supplied>χος <name>Πει<supplied reason="omitted">θ</supplied>ά<supplied reason="omitted">ρ</supplied>χου</name>
+                    <lb n="7"/><gap reason="lost" extent="unknown" unit="character"/> <w>υκος</w> <g ref="#interpunct">·</g> <name>Εὐφε<supplied reason="lost">ίδ</supplied>εος</name>
+                    <lb n="8"/><gap reason="lost" extent="unknown" unit="character"/> <w>α<supplied reason="omitted">ρ</supplied>χος</w> <name>Πει<supplied reason="omitted">θ</supplied>ά<supplied reason="omitted">ρ</supplied>χου</name>
                     <lb n="9"/><name>Πεί<supplied reason="omitted">σ</supplied>ανδρος</name> <name>Ἀγά<supplied reason="omitted">θ</supplied>ωνος</name>
-                    <lb n="10"/><gap reason="lost" extent="unknown" unit="character"/>κ<supplied reason="omitted">λ</supplied>είδας <name>Τεισάνδρου</name>
+                    <lb n="10"/><gap reason="lost" extent="unknown" unit="character"/> <w>κ<supplied reason="omitted">λ</supplied>είδας</w> <name>Τεισάνδρου</name>
                     <lb n="11"/><name><supplied reason="omitted">Ἀπ</supplied>ο<supplied reason="omitted">λ</supplied>λόδωρος</name> <name>Ἀρχεδάμου</name>
                     <lb n="12"/><name><supplied reason="omitted">Ζώ</supplied>πυρος</name> <name>Ναυκράτεος</name>
-                    <lb n="13"/><gap reason="lost" extent="unknown" unit="character"/>ς <name>Ὑπερ<supplied reason="lost">βό</supplied>λου</name>
+                    <lb n="13"/><gap reason="lost" extent="unknown" unit="character"/> <w>ς</w> <name>Ὑπερ<supplied reason="lost">βό</supplied>λου</name>
                     <lb n="14"/><name><supplied reason="omitted">Αἴσ</supplied>χρων</name> <name>Ἀριστοξένου</name>
-                    <lb n="15"/><supplied reason="lost">Ἀ</supplied>φροδίται
+                    <lb n="15"/><name><supplied reason="lost">Ἀ</supplied>φροδίται</name>
                 </ab>
             </div>
             <div type="apparatus">

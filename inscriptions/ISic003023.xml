@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -188,13 +188,7 @@
         <body>
             <div type="edition" xml:space="preserve" subtype="PHI" n="PHI332346">
                 <ab>
-                    <lb n="1"/>
-
-
-                    Νυμφόδωρος κεχαρισμένα
-                    <supplied reason="lost">ν</supplied>
-                    <surplus>²piscis</surplus>² ταριχ<supplied reason="lost">ο</supplied>πώλας <supplied reason="lost">
-                    ἐ</supplied>πύγιζε Δάμυλιν.
+                    <lb n="1"/><w>Νυμφόδωρος</w> <w>κεχαρισμένα</w> <w><supplied reason="lost">ν</supplied></w> <name><surplus>²piscis</surplus>²</name> <w>ταριχ<supplied reason="lost">ο</supplied>πώλας</w> <w><supplied reason="lost">ἐ</supplied>πύγιζε</w> <name>Δάμυλιν.</name>
                     <lb n="2"/>
                 </ab>
             </div>
@@ -204,7 +198,7 @@
 
 
                     Δάμυλις ἁ κεχαρισμένα Νυμφοδώρου γυνὰ <supplied reason="lost">— — — —</supplied>.
-                    <lb n="2"/>
+                     <lb n="2"/>
                 </ab>
             </div>
             <div type="apparatus">

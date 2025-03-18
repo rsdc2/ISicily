@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -188,21 +188,33 @@
         <body>
             <div type="edition" xml:space="preserve" subtype="PHI" n="PHI140927">
                 <ab>
-                    <lb n="1"/>
-
-
-                    L᾿DNN LMLQRT B῾L <unclear>S</unclear>R ᾿Š NDR<lb n="2"/>῾BDK ῾BD᾿SR W᾿<unclear>H</unclear>Y ᾿SRŠMR
-                    <lb n="3"/>ŠN BN ᾿SRŠMR BN ῾BD᾿SR K ŠM῾<lb n="4"/> QLM YBRKM<lb n="5"/>
-                    <lb n="6"/>Domino nostro Melqarto domino Tyri, quod voverunt<lb n="7"/>servi tui Abdosir et frater
-                    eius Osiršamar,<lb n="8"/>ambo filii Osiršamari, filii Abdosiri, quia audiit<lb n="9"/>vocem eorum;
-                    benedicat eis.<lb n="10"/>
-                    <lb n="11"/>Διονύσιος καὶ Σαραπίων οἱ<lb n="12"/>Σαραπίωνος Τύριοι<lb n="13"/>Ἡρακλεῖ ἀρχηγέτει.<lb n="14"/>
-                    <lb n="15"/>L᾿DNN LMLQRT B῾L <unclear>S</unclear>R ᾿Š NDR ῾BDK<lb n="16"/>῾BD᾿SR W᾿<unclear>
-                    H</unclear>Y ᾿SRŠMR ŠN BN<lb n="17"/>᾿SRŠMR BN ῾BD᾿SR K ŠM῾ QLM<lb n="18"/> YBRKM<lb n="19"/>
-                    <lb n="20"/>Domino nostro Melqarto domino Tyri, quod voverunt servi tui<lb n="21"/>Abdosir et frater
-                    eius Osiršamar, ambo filii<lb n="22"/>Osiršamari, filii Abdosiri, quia audiit vocem eorum;<lb n="23"/>benedicat eis.<lb n="24"/>
-                    <lb n="25"/>Διονύσιος καὶ Σαραπίων οἱ<lb n="26"/>Σαραπίωνος Τύριοι Ἡρακλεῖ<lb n="27"/>
-                    ἀρχηγέτει.
+                    <lb n="1"/><w>L᾿DNN</w> <w>LMLQRT</w> <w>B῾L</w> <w><unclear>S</unclear>R</w> <w>᾿Š</w> <w>NDR</w>
+                    <lb n="2"/><w>῾BDK</w> <w>῾BD᾿SR</w> <w>W᾿<unclear>H</unclear>Y</w> <w>᾿SRŠMR</w>
+                    <lb n="3"/><w>ŠN</w> <w>BN</w> <w>᾿SRŠMR</w> <w>BN</w> <w>῾BD᾿SR</w> <name>K</name> <w>ŠM῾</w>
+                    <lb n="4"/><w>QLM</w> <w>YBRKM</w>
+                    <lb n="5"/>
+                    <lb n="6"/><name>Domino</name> <w>nostro</w> <name>Melqarto</name> <w>domino</w> <name>Tyri,</name> <w>quod</w> <w>voverunt</w>
+                    <lb n="7"/><w>servi</w> <w>tui</w> <name>Abdosir</name> <w>et</w> <w>frater</w> <w>eius</w> <name>Osiršamar,</name>
+                    <lb n="8"/><w>ambo</w> <w>filii</w> <name>Osiršamari,</name> <w>filii</w> <name>Abdosiri,</name> <w>quia</w> <w>audiit</w>
+                    <lb n="9"/><w>vocem</w> <w>eorum;</w> <w>benedicat</w> <w>eis.</w>
+                    <lb n="10"/>
+                    <lb n="11"/><name>Διονύσιος</name> <w>καὶ</w> <name>Σαραπίων</name> <w>οἱ</w>
+                    <lb n="12"/><name>Σαραπίωνος</name> <name>Τύριοι</name>
+                    <lb n="13"/><name>Ἡρακλεῖ</name> <w>ἀρχηγέτει.</w>
+                    <lb n="14"/>
+                    <lb n="15"/><w>L᾿DNN</w> <w>LMLQRT</w> <w>B῾L</w> <w><unclear>S</unclear>R</w> <w>᾿Š</w> <w>NDR</w> <w>῾BDK</w>
+                    <lb n="16"/><w>῾BD᾿SR</w> <w>W᾿<unclear>H</unclear>Y</w> <w>᾿SRŠMR</w> <w>ŠN</w> <w>BN</w>
+                    <lb n="17"/><w>᾿SRŠMR</w> <w>BN</w> <w>῾BD᾿SR</w> <name>K</name> <w>ŠM῾</w> <w>QLM</w>
+                    <lb n="18"/><w>YBRKM</w>
+                    <lb n="19"/>
+                    <lb n="20"/><name>Domino</name> <w>nostro</w> <name>Melqarto</name> <w>domino</w> <name>Tyri,</name> <w>quod</w> <w>voverunt</w> <w>servi</w> <w>tui</w>
+                    <lb n="21"/><name>Abdosir</name> <w>et</w> <w>frater</w> <w>eius</w> <name>Osiršamar,</name> <w>ambo</w> <w>filii</w>
+                    <lb n="22"/><name>Osiršamari,</name> <w>filii</w> <name>Abdosiri,</name> <w>quia</w> <w>audiit</w> <w>vocem</w> <w>eorum;</w>
+                    <lb n="23"/><w>benedicat</w> <w>eis.</w>
+                    <lb n="24"/>
+                    <lb n="25"/><name>Διονύσιος</name> <w>καὶ</w> <name>Σαραπίων</name> <w>οἱ</w>
+                    <lb n="26"/><name>Σαραπίωνος</name> <name>Τύριοι</name> <name>Ἡρακλεῖ</name>
+                    <lb n="27"/><w>ἀρχηγέτει.</w>
                     <lb n="28"/>
                 </ab>
             </div>

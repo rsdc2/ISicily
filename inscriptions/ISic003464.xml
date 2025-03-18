@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -191,15 +191,15 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
-                    <lb n="1"/><name>Iuliae</name> <g ref="#interpunct">·</g> <name>Domnae</name> <g ref="#interpunct">·</g> <expan><abbr>Aug</abbr><ex>ustae</ex></expan>
-                    <lb n="2"/><choice><reg>matri</reg><orig>matris</orig></choice> <g ref="#interpunct">·</g> castrorum
-                    <lb n="3"/><expan><abbr>Imp</abbr><ex>eratoris</ex></expan> <g ref="#interpunct">·</g> <expan><abbr>Caes</abbr><ex>aris</ex></expan> <g ref="#interpunct">·</g> <name><expan><abbr>L</abbr><ex>uci</ex></expan></name> <g ref="#interpunct">·</g> <name>Septimi</name>
+                    <lb n="1"/><name>Iuliae</name> <g ref="#interpunct">·</g> <name>Domnae</name> <g ref="#interpunct">·</g> <name><expan><abbr>Aug</abbr><ex>ustae</ex></expan></name>
+                    <lb n="2"/><w><choice><reg>matri</reg><orig>matris</orig></choice></w> <g ref="#interpunct">·</g> <w>castrorum</w>
+                    <lb n="3"/><name><expan><abbr>Imp</abbr><ex>eratoris</ex></expan></name> <g ref="#interpunct">·</g> <name><expan><abbr>Caes</abbr><ex>aris</ex></expan></name> <g ref="#interpunct">·</g> <name><expan><abbr>L</abbr><ex>uci</ex></expan></name> <g ref="#interpunct">·</g> <name>Septimi</name>
                     <lb n="4"/><name>Severi</name> <g ref="#interpunct">·</g> <name>Pertinacis</name>
-                    <lb n="5"/><expan><abbr>Aug</abbr><ex>usti</ex></expan> <g ref="#interpunct">·</g> coniugi
-                    <lb n="6"/>municipium <g ref="#interpunct">·</g> <expan><abbr>Gaul</abbr><ex>itanorum</ex></expan>
-                    <lb n="7"/><expan><abbr>p</abbr><ex>ecunia</ex></expan> <g ref="#interpunct">·</g> <expan><abbr>p</abbr><ex>ublica</ex></expan> <g ref="#interpunct">·</g> <expan><abbr>d</abbr><ex>ecreto</ex></expan>
-                    <lb n="8"/>curant<supplied reason="lost">e</supplied> <gap reason="lost" extent="unknown" unit="character"/><orig>SI</orig>
-                    <lb n="9"/><gap reason="lost" extent="unknown" unit="character"/><orig>NO</orig>
+                    <lb n="5"/><name><expan><abbr>Aug</abbr><ex>usti</ex></expan></name> <g ref="#interpunct">·</g> <w>coniugi</w>
+                    <lb n="6"/><w>municipium</w> <g ref="#interpunct">·</g> <name><expan><abbr>Gaul</abbr><ex>itanorum</ex></expan></name>
+                    <lb n="7"/><w><expan><abbr>p</abbr><ex>ecunia</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>p</abbr><ex>ublica</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>d</abbr><ex>ecreto</ex></expan></w>
+                    <lb n="8"/><w>curant<supplied reason="lost">e</supplied></w> <gap reason="lost" extent="unknown" unit="character"/> <orig>SI</orig>
+                    <lb n="9"/><gap reason="lost" extent="unknown" unit="character"/> <orig>NO</orig>
                 </ab>
             </div>
             <div type="apparatus">

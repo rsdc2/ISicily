@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -198,12 +198,12 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#TA">
                 <ab>
-                    <lb n="1"/>Iuliae <g ref="#interpunct">·</g> <expan><abbr>Au<supplied reason="lost">g</supplied></abbr><ex>ustae</ex></expan>
-                    <lb n="2"/>matri <g ref="#interpunct">·</g> <expan><abbr>castro<supplied reason="lost">r</supplied></abbr><ex>um</ex></expan>
-                    <lb n="3"/><roleName type="supracivic" subtype="imperator"><expan><abbr>Imp</abbr><ex>eratoris</ex></expan></roleName> <g ref="#interpunct">·</g> <expan><abbr>L</abbr><ex>uci</ex></expan> <g ref="#interpunct">·</g> Septimi <g ref="#interpunct">·</g> Severi <g ref="#interpunct">·</g> <unclear>P</unclear><supplied reason="lost">ii</supplied>
-                    <lb n="4"/><unclear>P</unclear>ertin<unclear>acis</unclear> <expan><abbr><unclear>Au</unclear>g</abbr><ex>usti</ex></expan> <g ref="#interpunct">·</g> Arabi<unclear>c</unclear><supplied reason="lost">i</supplied>
-                    <lb n="5"/><supplied reason="lost">Adiabenici</supplied> <supplied reason="lost">Parth</supplied><unclear>i</unclear><supplied reason="lost">ci</supplied> <supplied reason="lost">Maximi</supplied> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="6"/> <gap reason="lost" extent="unknown" unit="line"/>
+                    <lb n="1"/><w>Iuliae</w> <g ref="#interpunct">·</g> <name><expan><abbr>Au<supplied reason="lost">g</supplied></abbr><ex>ustae</ex></expan></name>
+                    <lb n="2"/><w>matri</w> <g ref="#interpunct">·</g> <w><expan><abbr>castro<supplied reason="lost">r</supplied></abbr><ex>um</ex></expan></w>
+                    <lb n="3"/><roleName type="supracivic" subtype="imperator"><name><expan><abbr>Imp</abbr><ex>eratoris</ex></expan></name></roleName> <g ref="#interpunct">·</g> <name><expan><abbr>L</abbr><ex>uci</ex></expan></name> <g ref="#interpunct">·</g> <name>Septimi</name> <g ref="#interpunct">·</g> <name>Severi</name> <g ref="#interpunct">·</g> <name><unclear>P</unclear><supplied reason="lost">ii</supplied></name>
+                    <lb n="4"/><name><unclear>P</unclear>ertin<unclear>acis</unclear></name> <name><expan><abbr><unclear>Au</unclear>g</abbr><ex>usti</ex></expan></name> <g ref="#interpunct">·</g> <name>Arabi<unclear>c</unclear><supplied reason="lost">i</supplied></name>
+                    <lb n="5"/><name><supplied reason="lost">Adiabenici</supplied></name> <name><supplied reason="lost">Parth</supplied><unclear>i</unclear><supplied reason="lost">ci</supplied></name> <name><supplied reason="lost">Maximi</supplied></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="6"/><gap reason="lost" extent="unknown" unit="line"/>
                 </ab>
             </div>
             <div type="apparatus">

@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -178,10 +178,8 @@
         <body>
             <div type="edition" xml:space="preserve" subtype="PHI" n="PHI334649">
                 <ab>
-                    <lb n="1"/>
-                    <supplied reason="lost">— — —</supplied>Ϲ
-                    <supplied reason="lost">․c.2․</supplied>
-                    <lb n="2"/> ΤΟΥ
+                    <lb n="1"/><w><supplied reason="lost">— — —</supplied>Ϲ</w> <name><supplied reason="lost">․c.2․</supplied></name>
+                    <lb n="2"/><w>ΤΟΥ</w>
                     <lb n="3"/>
                 </ab>
             </div>

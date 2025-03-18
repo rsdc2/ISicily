@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -220,7 +220,7 @@
                         <milestone unit="face" n="b"/>
                         <lb n="1" style="text-direction:r-to-l"/><orig><unclear>ΝΑ</unclear>ΔΑΡΑ</orig>
                         <lb n="2" style="text-direction:l-to-r"/><orig>ΚΟΙΤΟΒ</orig><gap reason="illegible" quantity="1" unit="character"/>
-                        <lb n="3" style="text-direction:r-to-l"/><orig><unclear>Ϝ</unclear>Ͱ<unclear>ΕΛ</unclear>Ͱ<unclear>Ο</unclear></orig>
+                        <lb n="3" style="text-direction:r-to-l"/><orig><unclear>Ϝ</unclear>Ͱ <unclear>ΕΛ</unclear>Ͱ <unclear>Ο</unclear></orig>
                     </ab>
                 </div>
                 <div type="textpart" subtype="section" n="c">
@@ -236,7 +236,7 @@
                         <milestone unit="face" n="d"/>
                         <lb n="1" style="text-direction:r-to-l"/><orig>ΠΙΣΕΜΒ</orig>
                         <lb n="2" style="text-direction:l-to-r"/><orig>ΡΟϜΑΣΔΙΣ</orig>
-                        <lb n="3" style="text-direction:r-to-l"/><orig><unclear>Ϝ</unclear></orig><gap reason="lost" quantity="2" unit="character"/><unclear>Σ</unclear>ΑΙΟ
+                        <lb n="3" style="text-direction:r-to-l"/><orig><unclear>Ϝ</unclear></orig><gap reason="lost" quantity="2" unit="character"/> <w><unclear>Σ</unclear>ΑΙΟ</w>
                     </ab>
                 </div>
             </div>

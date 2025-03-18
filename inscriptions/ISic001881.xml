@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -161,7 +161,7 @@
             <graphic n="screen" url="ISic001879_tiled.tif" height="1944px" width="2592px">
                 <desc>I.Sicily with the permission of the Assessorato Regionale dei Beni Culturali e dell’Identità Siciliana - Dipartimento dei Beni Culturali e dell’Identità Siciliana; photo L. Campagna 2005-03-31</desc>
             </graphic>
-            <graphic n="print" url="ISic001879.jpg" >
+            <graphic n="print" url="ISic001879.jpg">
                 <desc>I.Sicily with the permission of the Assessorato Regionale dei Beni Culturali e dell’Identità Siciliana - Dipartimento dei Beni Culturali e dell’Identità Siciliana; photo L. Campagna 2005-03-31</desc>
             </graphic>
          </surface>
@@ -170,8 +170,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" unit="character" quantity="1"/><space unit="character" quantity="2"/><gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><unclear>r</unclear>is <g ref="#interpunct">·</g> b <g ref="#interpunct">·</g> <space unit="character" quantity="1"/> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <gap reason="illegible" unit="character" quantity="1"/> <space unit="character" quantity="2"/><gap reason="illegible" unit="character" quantity="1"/> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w><unclear>r</unclear>is</w> <g ref="#interpunct">·</g> <w>b</w> <g ref="#interpunct">·</g> <space unit="character" quantity="1"/><gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>
             <div type="apparatus">
@@ -181,7 +181,7 @@
                 </listApp>
             </div>
             <div type="translation" xml:lang="en" resp="#JP">
-                <p></p>
+                <p/>
             </div>
             <div type="commentary">
                 <p>'B' most obviously resolves as the beginning of b(ene) m(erenti) f(ecit), or similar, with the [---]ris as the end of the name or quality or office of the individual commemorated, but other possibilities exist.</p>

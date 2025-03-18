@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -184,12 +184,12 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
-                    <lb n="1"/>Dioni
-                    <lb n="2" break="no"/>sius <roleName type="paracivic.religious" subtype="presbyter">p
+                    <lb n="1"/><w>Dioni
+                    <lb n="2" break="no"/>sius</w> <roleName type="paracivic.religious" subtype="presbyter"><w>p
                     <lb n="3" break="no"/>resbyt
-                    <lb n="4" break="no"/>er</roleName> vix
-                    <lb n="5" break="no"/>it in pa
-                    <lb n="6" break="no"/>ce <expan><abbr>an</abbr><ex>nos</ex></expan> <num value="55">LV</num>
+                    <lb n="4" break="no"/>er</w></roleName> <w>vix
+                    <lb n="5" break="no"/>it</w> <w>in</w> <w>pa
+                    <lb n="6" break="no"/>ce</w> <w><expan><abbr>an</abbr><ex>nos</ex></expan></w> <num value="55">LV</num>
                 </ab>
             </div>
             <div type="apparatus">

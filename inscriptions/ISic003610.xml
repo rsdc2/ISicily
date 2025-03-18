@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -185,11 +185,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name>Καρδάμαν</name></persName> <choice><orig>χρεσ
-                    <lb n="2" break="no"/>τὸς</orig><reg>χρηστὸς</reg></choice> καὶ <choice><orig>ἄμετος</orig><reg>ἄμεμπτος</reg></choice>
-                    <lb n="3"/><choice><orig>ἠτο͂ν</orig><reg>ἐτῶν</reg></choice> <num value="80"><choice><orig>ὀκτο
+                    <lb n="1"/><persName type="attested"><name>Καρδάμαν</name></persName> <w><choice><orig>χρεσ
+                    <lb n="2" break="no"/>τὸς</orig><reg>χρηστὸς</reg></choice></w> <w>καὶ</w> <w><choice><orig>ἄμετος</orig><reg>ἄμεμπτος</reg></choice></w>
+                    <lb n="3"/><w><choice><orig>ἠτο͂ν</orig><reg>ἐτῶν</reg></choice></w> <num value="80"><choice><orig>ὀκτο
                     <lb n="4" break="no"/>μέκοντα</orig><reg>ὀγδοήκοντα</reg></choice></num>
-                    <lb n="5"/><choice><orig>με͂νας</orig><reg>μῆνας</reg></choice> <num value="10">δέ<g ref="#ivy-leaf">❦</g>
+                    <lb n="5"/><w><choice><orig>με͂νας</orig><reg>μῆνας</reg></choice></w> <num value="10">δέ<g ref="#ivy-leaf">❦</g>
                     <lb n="6" break="no"/><supplied reason="lost">κα</supplied></num>
                 </ab>
             </div>

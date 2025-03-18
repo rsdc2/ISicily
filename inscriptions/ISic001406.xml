@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -186,14 +186,14 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <div type="textpart" subtype="fragment-physical" n="1">
-                <ab>
-                    <lb n="1"/><gap reason="lost" unit="character" extent="unknown"/>Φ<gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" unit="character" extent="unknown"/>
+                    <ab>
+                        <lb n="1"/><gap reason="lost" unit="character" extent="unknown"/> <w>Φ</w> <gap reason="illegible" unit="character" quantity="1"/> <gap reason="lost" unit="character" extent="unknown"/>
                     </ab>
                 </div>
                 <div type="textpart" subtype="fragment-physical" n="2">
                     <ab>
-                    <lb n="1"/><gap reason="lost" unit="character" extent="unknown"/>ΝΟΕ<gap reason="lost" unit="character" extent="unknown"/>
-                </ab>
+                        <lb n="1"/><gap reason="lost" unit="character" extent="unknown"/> <w>ΝΟΕ</w> <gap reason="lost" unit="character" extent="unknown"/>
+                    </ab>
                 </div>
             </div>
             <div type="apparatus">

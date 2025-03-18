@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -192,16 +192,16 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><orig>Ρ</orig><gap reason="lost" quantity="1" unit="character"/><orig>Α</orig><gap reason="lost" quantity="1" unit="character"/><orig>Ω</orig><gap reason="lost" quantity="1" unit="character"/>
-                    <lb n="2"/>εὐχομένην
-                    <lb n="3"/>σε θεὸ<supplied reason="omitted">ς</supplied>στε
-                    <lb n="4" break="no"/>φ<supplied reason="lost">αν</supplied>ώσει <orig>ΔΑΝ</orig>
-                    <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/><orig>ΠΟΤ</orig><gap reason="lost" extent="unknown" unit="character"/><orig>ΣΟΙ</orig>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <orig>Ρ</orig><gap reason="lost" quantity="1" unit="character"/> <orig>Α</orig><gap reason="lost" quantity="1" unit="character"/> <orig>Ω</orig><gap reason="lost" quantity="1" unit="character"/>
+                    <lb n="2"/><w>εὐχομένην</w>
+                    <lb n="3"/><w>σε</w> <w>θεὸ<supplied reason="omitted">ς</supplied>στε
+                    <lb n="4" break="no"/>φ<supplied reason="lost">αν</supplied>ώσει</w> <orig>ΔΑΝ</orig>
+                    <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/> <orig>ΠΟΤ</orig><gap reason="lost" extent="unknown" unit="character"/> <orig>ΣΟΙ</orig>
                     <lb n="6"/><orig>Δ</orig><gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="7"/>ἀγα<supplied reason="lost">λλο</supplied>μέ
-                    <lb n="8" break="no"/>νη Σωφρο
-                    <lb n="9" break="no"/>σύνη <supplied reason="lost" cert="low">χρηστή</supplied>
-                    <lb n="10"/>χαῖρε
+                    <lb n="7"/><w>ἀγα<supplied reason="lost">λλο</supplied>μέ
+                    <lb n="8" break="no"/>νη</w> <name>Σωφρο
+                    <lb n="9" break="no"/>σύνη</name> <w><supplied reason="lost" cert="low">χρηστή</supplied></w>
+                    <lb n="10"/><w>χαῖρε</w>
                 </ab>
             </div>
             <div type="apparatus">

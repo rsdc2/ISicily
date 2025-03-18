@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -195,10 +195,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JH #JP">
                 <ab>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><orig>A</orig><gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><w part="F">sicae</w> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> Dalma<supplied reason="lost">tiae</supplied> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/><w part="F">ni</w> <g ref="#ivy-leaf">❦</g> <w part="I">duc</w><gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <orig>A</orig><gap reason="illegible" unit="character" quantity="1"/> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w part="F">sicae</w> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <name>Dalma<supplied reason="lost">tiae</supplied></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <w part="F">ni</w> <g ref="#ivy-leaf">❦</g> <w part="I">duc</w> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>
             <div type="apparatus" resp="#JP">
@@ -211,7 +211,7 @@
             </listApp>
             </div>
             <div type="translation" xml:lang="en">
-                <p></p>
+                <p/>
             </div>
             <div type="commentary">
                 <p>Manganaro's speculative restoration (followed, with very minor alterations, by Buonocore), based upon a suggested parallel of ILS 9014 seems difficult to sustain, on several grounds. The reading of AM in line 1 seems difficult (the space after the final vertical is excessive for M, especially comparing M in line 3), but above all, the absence of any interpunctuation in the letter sequence of line 2 makes the proposal of Sic(iliam) Ae[m(iliam)] extremely unlikely and 'Moesicae', 'Corsicae' or 'classicae' seems much more likely, reflecting a military cursus; lastly the reading DVC in line 4 also seems questionable, with DVO at least as plausible from the traces on the stone (and in turn compatible with duovir, among many other things), and [---]NI clearly has other possible restorations compatible with a cursus. It seems much safer to read this as a fragmentary public honorific for a member of the colonial elite of the high imperial period.</p>

@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -193,15 +193,15 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/><supplied reason="lost">τ</supplied>ῆς πρὸς πάντας ἀνθρώπ<supplied reason="lost">ους</supplied>
-                    <lb n="2"/><supplied reason="lost">ε</supplied>ὐνοίας πειραθέντε<supplied reason="lost">ς</supplied>
-                    <lb n="3"/><supplied reason="lost">κ</supplied>αὶ τῆς ἀνυπερβ<supplied reason="lost">λ</supplied>ήτου χρησ<supplied reason="lost">τό</supplied>
-                    <lb n="4" break="no"/><supplied reason="lost">τητος</supplied> μετασχόντες
-                    <lb n="5"/><supplied reason="lost">Δ</supplied>ομιτίου Λατρωνιανοῦ
-                    <lb n="6"/><supplied reason="lost">τ</supplied>οῦ <roleName type="supracivic" subtype="clarissimus"><expan><abbr>λαμπρ</abbr><ex>οτάτου</ex></expan></roleName> <roleName type="supracivic" subtype="corrector">ἐπανο<supplied reason="lost">ρθωτοῦ</supplied></roleName>
-                    <lb n="7"/><supplied reason="lost">ἡ</supplied>βουλὴ καὶ ὁ δῆμος
-                    <lb n="8"/>εὐν<supplied reason="lost">οίας</supplied><gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="9"/>χάριν
+                    <lb n="1"/><w><supplied reason="lost">τ</supplied>ῆς</w> <w>πρὸς</w> <w>πάντας</w> <w>ἀνθρώπ<supplied reason="lost">ους</supplied></w>
+                    <lb n="2"/><w><supplied reason="lost">ε</supplied>ὐνοίας</w> <w>πειραθέντε<supplied reason="lost">ς</supplied></w>
+                    <lb n="3"/><w><supplied reason="lost">κ</supplied>αὶ</w> <w>τῆς</w> <w>ἀνυπερβ<supplied reason="lost">λ</supplied>ήτου</w> <w>χρησ<supplied reason="lost">τό</supplied>
+                    <lb n="4" break="no"/><supplied reason="lost">τητος</supplied></w> <w>μετασχόντες</w>
+                    <lb n="5"/><name><supplied reason="lost">Δ</supplied>ομιτίου</name> <name>Λατρωνιανοῦ</name>
+                    <lb n="6"/><w><supplied reason="lost">τ</supplied>οῦ</w> <roleName type="supracivic" subtype="clarissimus"><w><expan><abbr>λαμπρ</abbr><ex>οτάτου</ex></expan></w></roleName> <roleName type="supracivic" subtype="corrector"><w>ἐπανο</w> <w><supplied reason="lost">ρθωτοῦ</supplied></w></roleName>
+                    <lb n="7"/><w><supplied reason="lost">ἡ</supplied>βουλὴ</w> <w>καὶ</w> <w>ὁ</w> <w>δῆμος</w>
+                    <lb n="8"/><w>εὐν<supplied reason="lost">οίας</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="9"/><w>χάριν</w>
                 </ab>
             </div>
             <div type="apparatus">

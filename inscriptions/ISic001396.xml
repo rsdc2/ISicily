@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -192,8 +192,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#AL">
                 <ab>
-                    	<lb n="1"/><roleName type="civic" subtype="agoranomos">ἀγοραν<supplied reason="omitted">ο</supplied>μέ<unclear>ω</unclear><supplied reason="lost">ν</supplied></roleName> <gap reason="lost" extent="unknown" unit="character"/>
-                    	<lb n="2"/><persName type="attested"><name type="idionym">Ἀπολλ<unclear>ώ</unclear>νι<supplied reason="lost">ος</supplied></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><roleName type="civic" subtype="agoranomos"><w>ἀγοραν</w> <w><supplied reason="omitted">ο</supplied></w> <w>μέ</w> <w><unclear>ω</unclear></w> <w><supplied reason="lost">ν</supplied></w></roleName> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><persName type="attested"><name type="idionym">Ἀπολλ<unclear>ώ</unclear>νι<supplied reason="lost">ος</supplied></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>
             <div type="apparatus">

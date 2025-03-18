@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -172,25 +172,25 @@
    <text>
       <body>
          <div type="edition" xml:space="preserve" xml:lang="grc" resp="#RDS">
-		 <div type="textpart" subtype="section" n="a">
-         <ab>
-		 <milestone unit="face" subtype="recto"/>
-         <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/>α τα<unclear>λ</unclear><supplied reason="lost">άντων </supplied> Ἄ<unclear>μ</unclear><supplied reason="lost">πο</supplied><unclear>χ</unclear><supplied reason="lost">οι</supplied>
-         <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost">Εὐ</supplied>θυκλῆς Εὐδόξου δευτ<supplied reason="lost">έρ</supplied>αι
-         <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/><expan><abbr>πρώ<unclear>τ</unclear></abbr><ex>αι</ex></expan> Νῖκις <supplied reason="lost">Σ</supplied>τράτωνος <expan><abbr>ἐνά</abbr><ex>ται</ex></expan> <expan><abbr>δευ</abbr><ex>τέραι</ex></expan>
-         <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/><expan><abbr><supplied reason="lost">ἐν</supplied><unclear>ά</unclear></abbr><ex>ται</ex></expan> <expan><abbr>πρώ</abbr><ex>ται</ex></expan> Σωκρ<supplied reason="lost">ά</supplied>της Σωσικρ<supplied reason="lost">ά</supplied>τεος
-         <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/>Ἡρακλείδα <expan><abbr>δεκ</abbr><ex>άται</ex></expan> <expan><abbr>πρώ</abbr><ex>ται</ex></expan> Λέοντις
-         <lb n="6"/><gap reason="lost" extent="unknown" unit="character"/><unclear>ν</unclear> Γνάθ<supplied reason="lost">ω</supplied>νος <expan><abbr>πέμ</abbr><ex>πται</ex></expan> <expan><abbr>πρώ</abbr><ex>ται</ex></expan>
-         <lb n="7"/><gap reason="lost" extent="unknown" unit="character"/><unclear>Θ</unclear>εότ<supplied reason="lost">ι</supplied>μος Λαμίσκου <expan><abbr>ἐνά</abbr><ex>ται</ex></expan> <expan><abbr>πρώ<unclear>τ</unclear></abbr><ex>αι</ex></expan>
-         <lb n="8"/><space unit="character" extent="unknown"/> 
-         </ab>
-		 </div>
-		 <div type="textpart" subtype="section" n="b"><!--The reverse of the second (middle) fragment is inscribed with the following:-->
-         <ab>
-		  <milestone unit="face" subtype="verso"/>
-         <lb n="1" style="text-direction:downwards"/>Κοράγου
-         </ab>
-		 </div>
+                <div type="textpart" subtype="section" n="a">
+                    <ab>
+                        <milestone unit="face" subtype="recto"/>
+                        <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w>α</w> <w>τα<unclear>λ</unclear><supplied reason="lost">άντων</supplied></w> <name>Ἄ<unclear>μ</unclear><supplied reason="lost">πο</supplied><unclear>χ</unclear><supplied reason="lost">οι</supplied></name>
+                        <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <name><supplied reason="lost">Εὐ</supplied>θυκλῆς</name> <name>Εὐδόξου</name> <w>δευτ<supplied reason="lost">έρ</supplied>αι</w>
+                        <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <w><expan><abbr>πρώ<unclear>τ</unclear></abbr><ex>αι</ex></expan></w> <name>Νῖκις</name> <name><supplied reason="lost">Σ</supplied>τράτωνος</name> <w><expan><abbr>ἐνά</abbr><ex>ται</ex></expan></w> <w><expan><abbr>δευ</abbr><ex>τέραι</ex></expan></w>
+                        <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <w><expan><abbr><supplied reason="lost">ἐν</supplied><unclear>ά</unclear></abbr><ex>ται</ex></expan></w> <w><expan><abbr>πρώ</abbr><ex>ται</ex></expan></w> <name>Σωκρ<supplied reason="lost">ά</supplied>της</name> <name>Σωσικρ<supplied reason="lost">ά</supplied>τεος</name>
+                        <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/> <name>Ἡρακλείδα</name> <w><expan><abbr>δεκ</abbr><ex>άται</ex></expan></w> <w><expan><abbr>πρώ</abbr><ex>ται</ex></expan></w> <name>Λέοντις</name>
+                        <lb n="6"/><gap reason="lost" extent="unknown" unit="character"/> <w><unclear>ν</unclear></w> <name>Γνάθ<supplied reason="lost">ω</supplied>νος</name> <w><expan><abbr>πέμ</abbr><ex>πται</ex></expan></w> <w><expan><abbr>πρώ</abbr><ex>ται</ex></expan></w>
+                        <lb n="7"/><gap reason="lost" extent="unknown" unit="character"/> <name><unclear>Θ</unclear>εότ<supplied reason="lost">ι</supplied>μος</name> <name>Λαμίσκου</name> <w><expan><abbr>ἐνά</abbr><ex>ται</ex></expan></w> <w><expan><abbr>πρώ<unclear>τ</unclear></abbr><ex>αι</ex></expan></w>
+                        <lb n="8"/><space unit="character" extent="unknown"/>
+                    </ab>
+                </div>
+                <div type="textpart" subtype="section" n="b"><!--The reverse of the second (middle) fragment is inscribed with the following:-->
+                    <ab>
+                        <milestone unit="face" subtype="verso"/>
+                        <lb n="1" style="text-direction:downwards"/><w>Κοράγου</w>
+                    </ab>
+                </div>
          </div>
          <div type="apparatus" resp="#RDS">
            <listApp>

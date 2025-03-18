@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -198,24 +198,24 @@
                 <div type="textpart" subtype="section" n="a">
                     <ab>
                         <milestone unit="face" n="a"/>
-                        <lb n="1"/><supplied reason="undefined" evidence="previouseditor"><expan><abbr>D</abbr><ex>is</ex></expan></supplied> <supplied reason="undefined" evidence="previouseditor"><expan><abbr>M</abbr><ex>anibus</ex></expan></supplied> <supplied reason="undefined" evidence="previouseditor"><expan><abbr>s</abbr><ex>acrum</ex></expan></supplied>
-                        <lb n="2"/><supplied reason="undefined" evidence="previouseditor">Publicia</supplied> <supplied reason="undefined" evidence="previouseditor">Ifis</supplied>
-                        <lb n="3"/><supplied reason="undefined" evidence="previouseditor"><expan><abbr>vix</abbr><ex>it</ex></expan></supplied> <supplied reason="undefined" evidence="previouseditor"><expan><abbr>ann</abbr><ex>is</ex></expan></supplied> <supplied reason="undefined" evidence="previouseditor"><num value="68">LXVIII</num></supplied>
-                        <lb n="4"/><supplied reason="undefined" evidence="previouseditor"><expan><abbr>P</abbr><ex>ublius</ex></expan></supplied> <supplied reason="undefined" evidence="previouseditor">Pedius</supplied> <supplied reason="undefined" evidence="previouseditor">Severus</supplied>
-                        <lb n="5"/><supplied reason="undefined" evidence="previouseditor">patronus</supplied> <supplied reason="undefined" evidence="previouseditor"><expan><abbr>f</abbr><ex>ecit</ex></expan></supplied>
+                        <lb n="1"/><w><supplied reason="undefined" evidence="previouseditor"><expan><abbr>D</abbr><ex>is</ex></expan></supplied></w> <name><supplied reason="undefined" evidence="previouseditor"><expan><abbr>M</abbr><ex>anibus</ex></expan></supplied></name> <w><supplied reason="undefined" evidence="previouseditor"><expan><abbr>s</abbr><ex>acrum</ex></expan></supplied></w>
+                        <lb n="2"/><name><supplied reason="undefined" evidence="previouseditor">Publicia</supplied></name> <name><supplied reason="undefined" evidence="previouseditor">Ifis</supplied></name>
+                        <lb n="3"/><w><supplied reason="undefined" evidence="previouseditor"><expan><abbr>vix</abbr><ex>it</ex></expan></supplied></w> <w><supplied reason="undefined" evidence="previouseditor"><expan><abbr>ann</abbr><ex>is</ex></expan></supplied></w> <supplied reason="undefined" evidence="previouseditor"><num value="68">LXVIII</num></supplied>
+                        <lb n="4"/><name><supplied reason="undefined" evidence="previouseditor"><expan><abbr>P</abbr><ex>ublius</ex></expan></supplied></name> <name><supplied reason="undefined" evidence="previouseditor">Pedius</supplied></name> <name><supplied reason="undefined" evidence="previouseditor">Severus</supplied></name>
+                        <lb n="5"/><w><supplied reason="undefined" evidence="previouseditor">patronus</supplied></w> <w><supplied reason="undefined" evidence="previouseditor"><expan><abbr>f</abbr><ex>ecit</ex></expan></supplied></w>
                     </ab>
                 </div>
                 <div type="textpart" subtype="section" n="b">
                     <ab>
                         <milestone unit="face" n="b"/>
-                        <lb n="1"/><expan><abbr>D</abbr><ex>is</ex></expan> <expan><abbr>M</abbr><ex>anibus</ex></expan> <expan><abbr>s</abbr><ex>acrum</ex></expan>
-                        <lb n="2"/><expan><abbr>P</abbr><ex>ublius</ex></expan> Pedius Marianus <expan><abbr>v</abbr><ex>ixit</ex></expan> <expan><abbr><unclear>a</unclear></abbr><ex>nnis</ex></expan> <num value="25">XXV</num>
-                        <lb n="3"/>et Publicia <unclear>I</unclear>fis
-                        <lb n="4"/><expan><abbr><unclear>T</unclear></abbr><ex>itus</ex></expan> P <unclear>ed</unclear>ius Severus <expan><abbr>f</abbr><ex>ilius</ex></expan> <supplied reason="lost"><expan><abbr>v</abbr><ex>ixit</ex></expan></supplied> <supplied reason="undefined" evidence="previouseditor"><expan><abbr>a</abbr><ex>nnis</ex></expan></supplied> <num value="18">XVIII</num>
-                        <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/><unclear>Pe</unclear><supplied reason="undefined" evidence="previouseditor">d</supplied>ius Seve<supplied reason="undefined" evidence="previouseditor">er</supplied>us
-                        <lb n="6"/><supplied reason="undefined" evidence="previouseditor">Ar</supplied>ria Volumn<unclear>i</unclear>lla <expan><abbr>m</abbr><ex>ater</ex></expan>
-                        <lb n="7"/><expan><abbr><supplied reason="undefined" evidence="previouseditor">C</supplied></abbr><ex>aius</ex></expan> <supplied reason="undefined" evidence="previouseditor">Ped</supplied><unclear>i</unclear>us Severus <expan><abbr>f</abbr><ex>ilius</ex></expan> <expan><abbr>f</abbr><ex>ecerunt</ex></expan>
-                       </ab>
+                        <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <name><expan><abbr>M</abbr><ex>anibus</ex></expan></name> <w><expan><abbr>s</abbr><ex>acrum</ex></expan></w>
+                        <lb n="2"/><name><expan><abbr>P</abbr><ex>ublius</ex></expan></name> <name>Pedius</name> <name>Marianus</name> <w><expan><abbr>v</abbr><ex>ixit</ex></expan></w> <w><expan><abbr><unclear>a</unclear></abbr><ex>nnis</ex></expan></w> <num value="25">XXV</num>
+                        <lb n="3"/><w>et</w> <name>Publicia</name> <name><unclear>I</unclear>fis</name>
+                        <lb n="4"/><name><expan><abbr><unclear>T</unclear></abbr><ex>itus</ex></expan></name> <name>P</name> <w><unclear>ed</unclear>ius</w> <name>Severus</name> <w><expan><abbr>f</abbr><ex>ilius</ex></expan></w> <w><supplied reason="lost"><expan><abbr>v</abbr><ex>ixit</ex></expan></supplied></w> <w><supplied reason="undefined" evidence="previouseditor"><expan><abbr>a</abbr><ex>nnis</ex></expan></supplied></w> <num value="18">XVIII</num>
+                        <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/> <name><unclear>Pe</unclear><supplied reason="undefined" evidence="previouseditor">d</supplied>ius</name> <name>Seve<supplied reason="undefined" evidence="previouseditor">er</supplied>us</name>
+                        <lb n="6"/><name><supplied reason="undefined" evidence="previouseditor">Ar</supplied>ria</name> <name>Volumn<unclear>i</unclear>lla</name> <w><expan><abbr>m</abbr><ex>ater</ex></expan></w>
+                        <lb n="7"/><name><expan><abbr><supplied reason="undefined" evidence="previouseditor">C</supplied></abbr><ex>aius</ex></expan></name> <name><supplied reason="undefined" evidence="previouseditor">Ped</supplied><unclear>i</unclear>us</name> <name>Severus</name> <w><expan><abbr>f</abbr><ex>ilius</ex></expan></w> <w><expan><abbr>f</abbr><ex>ecerunt</ex></expan></w>
+                    </ab>
                 </div>
             </div>
             <div type="apparatus">

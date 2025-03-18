@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -222,12 +222,12 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name>Πασκασία</name></persName> παρθένος
-                    <lb n="2"/>ἐτῶν <num value="15"><w>δέκα</w> <w>πέντε</w></num>
-                    <lb n="3"/><g ref="#staurogram">&#x101a0;</g> τελευτᾷ πρὸ <num value="8">ὀκτὼ</num>
-                    <lb n="4"/>καλανδῶν <choice><orig>φλεβαρίω<hi rend="small">ν</hi></orig><reg>Φεβρουαρίων</reg></choice>
-                    <lb n="5"/>μετὰ τὴν <roleName type="supracivic" subtype="consul">ὑπατίαν</roleName> <persName type="attested"><name>Βικεν
-                    <lb n="6"/>τίου</name></persName> εὐμύρι θυγάτηρ
+                    <lb n="1"/><persName type="attested"><name>Πασκασία</name></persName> <w>παρθένος</w>
+                    <lb n="2"/><w>ἐτῶν</w> <num value="15"><w>δέκα</w><w>πέντε</w></num>
+                    <lb n="3"/><g ref="#staurogram">𐆠</g> <w>τελευτᾷ</w> <w>πρὸ</w> <num value="8">ὀκτὼ</num>
+                    <lb n="4"/><w>καλανδῶν</w> <w><choice><orig>φλεβαρίω<hi rend="small">ν</hi></orig><reg>Φεβρουαρίων</reg></choice></w>
+                    <lb n="5"/><w>μετὰ</w> <w>τὴν</w> <roleName type="supracivic" subtype="consul"><w>ὑπατίαν</w></roleName> <persName type="attested"><name>Βικεν
+                    <lb n="6"/>τίου</name></persName> <w>εὐμύρι</w> <w>θυγάτηρ</w>
                 </ab>
             </div>
             <div type="apparatus">
@@ -255,7 +255,7 @@
                     <bibl>
                         <author>Libertini</author>
                         <date>1981</date>
-                        <citedRange></citedRange>
+                        <citedRange/>
                         <ptr target="https://www.zotero.org/groups/382445/items/ZJ65DX74"/>
                         <ref target="https://biblio.inscriptiones.org/epig10001863">https://biblio.inscriptiones.org/epig10001863</ref>
                     </bibl>

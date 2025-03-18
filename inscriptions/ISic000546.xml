@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -189,10 +189,10 @@
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#NCash">
                 <ab>
                     <lb n="0"/><gap reason="lost" extent="unknown" unit="line" cert="low"/>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><unclear>et</unclear> <expan><abbr>Q</abbr><ex>uinti</ex></expan> <g ref="#interpunct">·</g> Fabi <g ref="#interpunct">·</g> Caesili <g ref="#interpunct">·</g> Titiani
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/>avo <g ref="#interpunct">·</g> <expan><abbr>Q</abbr><ex>uinto</ex></expan> <g ref="#interpunct">·</g> Aquilio <g ref="#interpunct">·</g> Nigro
-                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <roleName type="supracivic" subtype="proconsul"><supplied reason="lost">p</supplied>ro <g ref="#interpunct">·</g> <expan><abbr>c<hi rend="supraline">o</hi></abbr><ex>n</ex><abbr>s</abbr><ex>uli</ex></expan></roleName>
-                    <lb n="4"/>Si<supplied reason="lost">cili</supplied>ae
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w><unclear>et</unclear></w> <name><expan><abbr>Q</abbr><ex>uinti</ex></expan></name> <g ref="#interpunct">·</g> <name>Fabi</name> <g ref="#interpunct">·</g> <name>Caesili</name> <g ref="#interpunct">·</g> <name>Titiani</name>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w>avo</w> <g ref="#interpunct">·</g> <name><expan><abbr>Q</abbr><ex>uinto</ex></expan></name> <g ref="#interpunct">·</g> <name>Aquilio</name> <g ref="#interpunct">·</g> <name>Nigro</name>
+                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <roleName type="supracivic" subtype="proconsul"><w><supplied reason="lost">p</supplied></w> <w>ro</w> <g ref="#interpunct">·</g> <w><expan><abbr>c<hi rend="supraline">o</hi></abbr><ex>n</ex><abbr>s</abbr><ex>uli</ex></expan></w></roleName>
+                    <lb n="4"/><name>Si<supplied reason="lost">cili</supplied>ae</name>
                 </ab>
             </div>
             <div type="apparatus" resp="#JP">

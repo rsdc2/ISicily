@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -194,12 +194,12 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
-                    <lb n="1"/><g ref="#ivy-leaf"/> <expan><abbr>D</abbr><ex>is</ex></expan> <g ref="#ivy-leaf"/> <expan><abbr>M</abbr><ex>anibus</ex></expan> <g ref="#ivy-leaf"/> <expan><abbr>s</abbr><ex>acrum</ex></expan> <g ref="#ivy-leaf"/>
-                    <lb n="2"/>Carpioni <expan><abbr>fil</abbr><ex>io</ex></expan> dul
-                    <lb n="3" break="no"/>cissimo Carpion pater
-                    <lb n="4"/><choice><sic>abreptum</sic><corr>abrepto</corr></choice> sibi fato qui
-                    <lb n="5"/>vixit incomparabilis
-                    <lb n="6"/>ulli <expan><abbr>an</abbr><ex>nis</ex></expan> <num value="20">XX</num>
+                    <lb n="1"/><g ref="#ivy-leaf"/> <w><expan><abbr>D</abbr><ex>is</ex></expan></w> <g ref="#ivy-leaf"/> <name><expan><abbr>M</abbr><ex>anibus</ex></expan></name> <g ref="#ivy-leaf"/> <w><expan><abbr>s</abbr><ex>acrum</ex></expan></w> <g ref="#ivy-leaf"/>
+                    <lb n="2"/><name>Carpioni</name> <w><expan><abbr>fil</abbr><ex>io</ex></expan></w> <w>dul
+                    <lb n="3" break="no"/>cissimo</w> <name>Carpion</name> <w>pater</w>
+                    <lb n="4"/><w><choice><sic>abreptum</sic><corr>abrepto</corr></choice></w> <w>sibi</w> <w>fato</w> <w>qui</w>
+                    <lb n="5"/><w>vixit</w> <w>incomparabilis</w>
+                    <lb n="6"/><w>ulli</w> <w><expan><abbr>an</abbr><ex>nis</ex></expan></w> <num value="20">XX</num>
                 </ab>
                 <!--The initial text was EDR text 076853, via the Europeana EAGLE project, http://www.eagle-network.eu/-->
             </div>

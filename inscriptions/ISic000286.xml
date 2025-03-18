@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -191,10 +191,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#TNS">
                 <ab>
-                <lb n="1"/><name>Valeria</name><gap reason="lost" extent="unknown" unit="character"/>
-                <lb n="2"/>Musa mate<supplied reason="lost">r parci</supplied>
-                <lb n="3" break="no"/>m<choice><reg>o</reg><orig>u</orig></choice>nio <g ref="interpunct">·</g> su<supplied reason="lost">o</supplied>
-                <lb n="4"/>fe<supplied reason="lost">cit</supplied>
+                    <lb n="1"/><name>Valeria</name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><name>Musa</name> <w>mate<supplied reason="lost">r parci</supplied>
+                    <lb n="3" break="no"/>m<choice><reg>o</reg><orig>u</orig></choice>nio</w> <g ref="interpunct">·</g> <w>su<supplied reason="lost">o</supplied></w>
+                    <lb n="4"/><w>fe<supplied reason="lost">cit</supplied></w>
                 </ab>
             </div>
             <div type="apparatus">

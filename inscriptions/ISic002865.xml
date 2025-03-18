@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -189,13 +189,11 @@
         <body>
             <div type="edition" xml:space="preserve" subtype="PHI" n="PHI334796">
                 <ab>
-                    <lb n="1"/>
-                    <expan>
-                        <abbr>Γ</abbr>
-                        <ex>αΐου</ex>
-                    </expan>
-                    ∙ Κλωδίου<lb n="2"/> Μύστη<lb n="3"/>
-                    <lb n="4"/>Α<lb n="5"/>☩
+                    <lb n="1"/><w><expan><abbr>Γ</abbr><ex>αΐου</ex></expan></w> <g ref="#interpunct">∙</g> <name>Κλωδίου</name>
+                    <lb n="2"/><name>Μύστη</name>
+                    <lb n="3"/>
+                    <lb n="4"/><name>Α</name>
+                    <lb n="5"/><name>☩</name>
                     <lb n="6"/>
                 </ab>
             </div>

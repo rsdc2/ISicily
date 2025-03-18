@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -188,119 +188,62 @@
         <body>
             <div type="edition" xml:space="preserve" subtype="PHI" n="PHI140743">
                 <ab>
-                    <lb n="1"/>
-                    <supplied reason="lost">— — — — — — — — σιτωνίῳ παρὰ τῶν ἐπαγγειλαμένων χρημάτων</supplied>
-                    <lb n="2"/>
-                    <supplied reason="lost">λοιπὸν τεσσαράκοντα λί</supplied>τραι, τρία δέκα τρισχίλια <supplied reason="lost">τάλαντα</supplied>.
-                    <lb n="3"/>
-                    <supplied reason="lost" cert="low">καὶ παρὰ ἀγέρταις</supplied>
-                    σίτου ἴκοσι πεντακόσια τάλαντα.
-                    <lb n="4"/>
-                    <supplied reason="lost">Εὐκλείου <roleName type="civic" subtype="prytanis">πρ(ύτανις</roleName> — — Φιλι
-                    </supplied>
-                    στίωνος Σπαρ(—). <roleName type="civic.religious" subtype="hieromnamon">ἱερομναμόνοις</roleName> ἔσο-
-                    <lb n="5"/>
-                    <supplied reason="lost">δος — — — — — — λί</supplied>τραι, πέντε τριάκοντα τρισχίλια τά-
-                    <lb n="6"/>
-                    <supplied reason="lost">λαντα· ἔξοδος — —</supplied>
-                    λίτραι, πέντε ἐνενήκοντα τριακόσια
-                    <lb n="7"/>
-                    <supplied reason="lost">— — — τάλαντα· λοιπὸ</supplied>
-                    <unclear>ν</unclear>
-                    ὀκτὼ τεσσαράκοντα λίτραι, ἐννέα τριά-
-                    <lb n="8"/>
-                    <supplied reason="lost">κο— — — τάλαντα. ταμί</supplied>αις ἔσοδος ἐννέα δέκα ἑκατὸν λίτραι,
-                    <lb n="9"/>
-                    <supplied reason="lost">— — — — — — — — — —κό</supplied>σια μύρια τάλαντα· ἔξοδος μία τριά-
-                    <lb n="10"/>
-                    <supplied reason="lost">κοντα λίτραι, — — — ἐ</supplied>νακόσια ὀκτακισχίλια τάλαντα. λοι-
-                    <lb n="11"/>
-                    <supplied reason="lost">πὸν — — — — λίτραι</supplied>, <unclear>π</unclear>έντε ὀκτακόσια
-                    πεντακισχίλια τά-
-                    <lb n="12"/>
-                    <supplied reason="lost">λαντα· — — — — — —χί</supplied>λια τάλαντα παρὰ <roleName type="civic" subtype="gymnasiarchos">γυμνασιάρχοις</roleName>
-                    <lb n="13"/>
-                    <supplied reason="lost">— — — — — — — — — — —</supplied>τα λίτραι, ἓξ ἑξήκοντα ἑξακόσια χίλια τά-
-                    <lb n="14"/>
-                    <supplied reason="lost">λαντα — — — — — — —</supplied>
-                    ἀγορασθήμειν <roleName type="civic" subtype="sitophylax">σιτοφυλάκοις</roleName> χαλκοῦ ἔσοδος
-                    <lb n="15"/>
-                    <supplied reason="lost">— — — — — — — — — — τρ</supplied>ιάκοντα τάλαντα· ἔξοδος τὸ ἴσον· κυά-
-                    <lb n="16"/>
-                    <supplied reason="lost">μων ἔσοδος — — — —κόσ</supplied>ιοι μέδιμνοι· ἔξοδος ἡμέδιμνος ἓν δέ-
-                    <lb n="17"/>
-                    <supplied reason="lost">κα — — — μέδιμνοι· λοι</supplied>πὸν δύω ἡμίεκτα, ἓξ δέκα ὀκτακόσιοι
-                    <lb n="18"/>
-                    <supplied reason="lost">μέδιμνοι. σιτωνίῳ Φρ</supplied>ύνιος λοιπὸν τεσσαράκοντα λίτραι,
-                    <lb n="19"/>
-                    <supplied reason="lost">τρία τριάκοντα τριακόσια τρισχί</supplied>λια μύρια τάλαντα. σιτωνίωι
-                    Εὐκλεί-
-                    <lb n="20"/>
-                    <supplied reason="lost">δα λοιπὸν δέκα ἑκατὸν λίτραι, τέσσ</supplied>αρα ἑβδομήκοντα ἑπτακόσια
-                    <lb n="21"/>
-                    <supplied reason="lost">χίλια δισμύρια τάλαντα· τούτου ἐν
+                    <lb n="1"/><w><supplied reason="lost">— — — — — — — — σιτωνίῳ παρὰ τῶν ἐπαγγειλαμένων χρημάτων</supplied></w>
+                    <lb n="2"/><w><supplied reason="lost">λοιπὸν τεσσαράκοντα λί</supplied>τραι,</w> <w>τρία</w> <w>δέκα</w> <w>τρισχίλια</w> <w><supplied reason="lost">τάλαντα</supplied>.</w>
+                    <lb n="3"/><w><supplied reason="lost" cert="low">καὶ παρὰ ἀγέρταις</supplied></w> <w>σίτου</w> <w>ἴκοσι</w> <w>πεντακόσια</w> <w>τάλαντα.</w>
+                    <lb n="4"/><w><supplied reason="lost">Εὐκλείου<roleName type="civic" subtype="prytanis">πρ(ύτανις</roleName>— — Φιλι</supplied></w> <w>στίωνος</w> <name>Σπαρ(—).</name> <roleName type="civic.religious" subtype="hieromnamon"><w>ἱερομναμόνοις</w></roleName> <w>ἔσο-</w>
+                    <lb n="5"/><w><supplied reason="lost">δος — — — — — — λί</supplied>τραι,</w> <w>πέντε</w> <w>τριάκοντα</w> <w>τρισχίλια</w> <w>τά-</w>
+                    <lb n="6"/><w><supplied reason="lost">λαντα· ἔξοδος — —</supplied></w> <w>λίτραι,</w> <w>πέντε</w> <w>ἐνενήκοντα</w> <w>τριακόσια</w>
+                    <lb n="7"/><name><supplied reason="lost">— — — τάλαντα· λοιπὸ</supplied></name> <w><unclear>ν</unclear></w> <w>ὀκτὼ</w> <w>τεσσαράκοντα</w> <w>λίτραι,</w> <w>ἐννέα</w> <w>τριά-</w>
+                    <lb n="8"/><w><supplied reason="lost">κο— — — τάλαντα. ταμί</supplied>αις</w> <w>ἔσοδος</w> <w>ἐννέα</w> <w>δέκα</w> <w>ἑκατὸν</w> <w>λίτραι,</w>
+                    <lb n="9"/><name><supplied reason="lost">— — — — — — — — — —κό</supplied>σια</name> <w>μύρια</w> <w>τάλαντα·</w> <w>ἔξοδος</w> <w>μία</w> <w>τριά-</w>
+                    <lb n="10"/><w><supplied reason="lost">κοντα λίτραι, — — — ἐ</supplied>νακόσια</w> <w>ὀκτακισχίλια</w> <w>τάλαντα.</w> <w>λοι-</w>
+                    <lb n="11"/><w><supplied reason="lost">πὸν — — — — λίτραι</supplied>,</w> <w><unclear>π</unclear>έντε</w> <w>ὀκτακόσια</w> <w>πεντακισχίλια</w> <w>τά-</w>
+                    <lb n="12"/><w><supplied reason="lost">λαντα· — — — — — —χί</supplied>λια</w> <w>τάλαντα</w> <w>παρὰ</w> <roleName type="civic" subtype="gymnasiarchos"><w>γυμνασιάρχοις</w></roleName>
+                    <lb n="13"/><name><supplied reason="lost">— — — — — — — — — — —</supplied>τα</name> <w>λίτραι,</w> <w>ἓξ</w> <w>ἑξήκοντα</w> <w>ἑξακόσια</w> <w>χίλια</w> <w>τά-</w>
+                    <lb n="14"/><w><supplied reason="lost">λαντα — — — — — — —</supplied></w> <w>ἀγορασθήμειν</w> <roleName type="civic" subtype="sitophylax"><w>σιτοφυλάκοις</w></roleName> <w>χαλκοῦ</w> <w>ἔσοδος</w>
+                    <lb n="15"/><name><supplied reason="lost">— — — — — — — — — — τρ</supplied>ιάκοντα</name> <w>τάλαντα·</w> <w>ἔξοδος</w> <w>τὸ</w> <w>ἴσον·</w> <w>κυά-</w>
+                    <lb n="16"/><w><supplied reason="lost">μων ἔσοδος — — — —κόσ</supplied>ιοι</w> <w>μέδιμνοι·</w> <w>ἔξοδος</w> <w>ἡμέδιμνος</w> <w>ἓν</w> <w>δέ-</w>
+                    <lb n="17"/><w><supplied reason="lost">κα — — — μέδιμνοι· λοι</supplied>πὸν</w> <w>δύω</w> <w>ἡμίεκτα,</w> <w>ἓξ</w> <w>δέκα</w> <w>ὀκτακόσιοι</w>
+                    <lb n="18"/><w><supplied reason="lost">μέδιμνοι. σιτωνίῳ Φρ</supplied>ύνιος</w> <w>λοιπὸν</w> <w>τεσσαράκοντα</w> <w>λίτραι,</w>
+                    <lb n="19"/><w><supplied reason="lost">τρία τριάκοντα τριακόσια τρισχί</supplied>λια</w> <w>μύρια</w> <w>τάλαντα.</w> <w>σιτωνίωι</w> <name>Εὐκλεί-</name>
+                    <lb n="20"/><w><supplied reason="lost">δα λοιπὸν δέκα ἑκατὸν λίτραι, τέσσ</supplied>αρα</w> <w>ἑβδομήκοντα</w> <w>ἑπτακόσια</w>
+                    <lb n="21"/><w><supplied reason="lost">χίλια δισμύρια τάλαντα· τούτου ἐν
                         
-                        ἀ
-                    </supplied>
-                    ργυρωμάτοις ἀγέρταις τριάκον-
-                    <lb n="22"/>
-                    <supplied reason="lost">τα — — — — — — τάλαντα. σιτωνίῳ παρ</supplied>ὰ τῶν ἐπαγγειλαμένων χρημά-
-                    <lb n="23"/>
-                    <supplied reason="lost">των λοιπὸν τεσσαράκοντα λίτρ</supplied>αι, τρία δέκα τρισχίλια τάλαν-
-                    <lb n="24"/>
-                    <supplied reason="lost">τα. καὶ παρὰ ἀγέρταις
+                        ἀ</supplied></w> <w>ργυρωμάτοις</w> <w>ἀγέρταις</w> <w>τριάκον-</w>
+                    <lb n="22"/><w><supplied reason="lost">τα — — — — — — τάλαντα. σιτωνίῳ παρ</supplied>ὰ</w> <w>τῶν</w> <w>ἐπαγγειλαμένων</w> <w>χρημά-</w>
+                    <lb n="23"/><w><supplied reason="lost">των λοιπὸν τεσσαράκοντα λίτρ</supplied>αι,</w> <w>τρία</w> <w>δέκα</w> <w>τρισχίλια</w> <w>τάλαν-</w>
+                    <lb n="24"/><w><supplied reason="lost">τα. καὶ παρὰ ἀγέρταις
                         
-                        σίτου ἴκοσ
-                    </supplied>
-                    ι πεντακόσια τάλαντα· ἀγο-
-                    <lb n="25"/>
-                    <supplied reason="lost">ρᾶν διὰ πωλημάτων — — — — — — — λ</supplied>ίτραι, ἐννέα ὀγδοήκοντα δια-
-                    <lb n="26"/>
-                    <supplied reason="lost">κόσια — — — τάλαντα</supplied>.<lb n="27"/>
-                     vacat
-                    <lb n="28"/>
-                    <supplied reason="lost">Δυωδεκατέος πρ(ύτανις) — — — Ὀλύ
-                    </supplied>
-                    <unclear>μ</unclear>πιος Ταυ(—). <roleName type="civic.religious" subtype="hieromnamon">ἱερομναμόνοις</roleName> ἔσοδος ἴκοσι λίτραι, ἐννέα δέκα
-                    <lb n="29"/>
-                    <supplied reason="lost">— — — — — — τάλαντα· ἔξοδος</supplied>
-                    ἑπτὰ ἴκοσι λίτραι, τέσσαρα ἑξήκοντα ἑκατὸν χίλια τάλαντα· λοι-
-                    <lb n="30"/>
-                    <supplied reason="lost">πὸν — — — — — — — — — —κο</supplied>ντα λίτραι, τέσσαρα τεσσαράκοντα ἑκατὸν
-                    τάλαντα. <roleName type="civic" subtype="tamias">ταμίαις</roleName> ἔσοδος
-                    <lb n="31"/>
-                    <supplied reason="lost">— — — —</supplied>κον
-                    <supplied reason="lost">τα</supplied>
-                    <unclear>λ</unclear>
-                    <supplied reason="lost">ί</supplied>
-                    <unclear>τρα</unclear>
-                    <supplied reason="lost">ι, ἑ</supplied>πτὰ τεσσαράκοντα διακόσια τρισχίλια τάλαντα· ἔξοδος δέκα λί-
-                    <lb n="32"/>τρ<supplied reason="lost">αι, — — τρ</supplied>ιάκοντα πεντακόσια χίλια τάλαντα· λοιπὸν
-                    μία τεσσα<supplied reason="omitted">ρά</supplied>κοντα λίτραι, τέ<supplied reason="omitted">
-                    σσ</supplied>αρα ὀγδοήκον-<lb n="33"/>τα ἐνακόσια χίλια τάλαντα. <roleName type="civic" subtype="sitophylax">σιτοφυλάκοις</roleName> κυάμων ἔξοδος ἓν δέκα
-                    ἡμίεκτα, ἐννέα τριά-<lb n="34"/>κοντα διακόσιοι μέδιμνοι· λοιπὸν ἑπτὰ ἡμίεκτα, ἑπτὰ χίλιοι
-                    μέδιμνοι. σιτωνίῳ Φρύνιος<lb n="35"/>λοιπὸν τὸ ἴσον. σιτωνίῳ Εὐκλείδα λοιπὸν τὸ ἴσον. σιτωνίῳ παρὰ
-                    τῶν ἐπαγγειλαμένων λοιπὸν τὸ ἴσον.<lb n="36"/>Εὐκλείου
-                    <roleName type="civic" subtype="prytanis"><expan>
-                        <abbr>πρ</abbr>
-                        <ex>ύτανις?</ex>
-                    </expan></roleName>
-                    Ἀμμώνιος Σαραπίωνος Ἀρεθ(—). <roleName type="civic.religious" subtype="hieromnamon">ἱερομναμόνοις</roleName> ἔσοδος τρεῖς ὀγδοήκοντα λίτραι,<lb n="37"/>πέντε
-                    ἑβδομήκοντα ἑπτακόσια πεντακισχίλια μύρια τάλαντα· ἔξοδος ἓξ ἑβδο-<lb n="38"/>μήκοντα λίτραι, ὀκτὼ
-                    ἑβδομήκοντα ἑπτακόσια τετρακισχίλια τάλαντα· λοιπὸν μία<lb n="39"/>ὀγδοήκοντα λίτραι, ἓν
-                    τεσσαράκοντα ἑκατὸν χίλια μύρια τάλαντα· τούτου Διὸς μύρια<lb n="40"/>τάλαντα· καὶ Διονύσου
-                    τριάκοντα λίτραι, ἑπτὰ ἑβδομήκοντα χίλια τάλαντα. ταμίαις<lb n="41"/>ἔσοδος ἓξ τριάκοντα λίτραι,
-                    ὀκτὼ τεσσαράκοντα ἑπτακόσια πεντακισχίλια τετρακισ-<lb n="42"/>μύρια τάλαντα· ἔξοδος πέντε ἑξήκοντα
-                    λίτραι, ἑπτὰ ἐνενήκοντα ἑκατὸν τρι<supplied reason="omitted">σ</supplied>χίλια<lb n="43"/>δισμύρια
-                    τάλαντα· λοιπὸν δύω δέκα λίτραι, πέντε τριάκοντα πεντακόσια τετρακισ-<lb n="44"/>χίλια δισμύρια
-                    τάλαντα. <roleName type="civic" subtype="sitophylax">σιτοφυλάκοις</roleName> κυάμων ἔσοδος ὀγδοήκοντα τριακόσιοι μέ-<lb n="45"/>διμνοι· ἔξοδος δέκα
-                    ἡμίεκτα, τρεῖς ἴκοσι ἑκατὸν μέδιμνοι· λοιπὸν ἐννέα ἡμίεκτα,<lb n="46"/>τρεῖς ἑξήκοντα διακόσιοι
-                    χίλιοι μέδιμνοι. σιτωνίῳ Φρύνιος λοιπὸν τεσσαράκον-<lb n="47"/>τα λίτραι, τρία τριάκοντα τριακόσια
-                    τρισχίλια μύρια τάλαντα. σιτωνίῳ Εὐκλείδα<lb n="48"/>λοιπὸν δέκα ἑκατὸν λίτραι, τέσσαρα ἑβδομήκοντα
-                    ἑπτακόσια χίλια δισμύρια τά-<lb n="49"/>λαντα. σιτωνίῳ παρὰ τῶν ἐπαγγειλαμένων λοιπὸν τεσσαράκοντα
-                    λίτραι, τρία τριά-<lb n="50"/>κοντα πεντακόσια τρισχίλια τάλαντα. ἀγορᾶν διὰ πωλημάτων τέσσαρα
-                    ἑξήκον-<lb n="51"/>τα διακόσια χίλια τάλαντα.<lb n="52"/>
-                     vacat
+                        σίτου ἴκοσ</supplied></w> <w>ι</w> <w>πεντακόσια</w> <w>τάλαντα·</w> <w>ἀγο-</w>
+                    <lb n="25"/><w><supplied reason="lost">ρᾶν διὰ πωλημάτων — — — — — — — λ</supplied>ίτραι,</w> <w>ἐννέα</w> <w>ὀγδοήκοντα</w> <w>δια-</w>
+                    <lb n="26"/><w><supplied reason="lost">κόσια — — — τάλαντα</supplied>.</w>
+                    <lb n="27"/><w>vacat</w>
+                    <lb n="28"/><w><supplied reason="lost">Δυωδεκατέος πρ(ύτανις) — — — Ὀλύ</supplied></w> <w><unclear>μ</unclear>πιος</w> <name>Ταυ(—).</name> <roleName type="civic.religious" subtype="hieromnamon"><w>ἱερομναμόνοις</w></roleName> <w>ἔσοδος</w> <w>ἴκοσι</w> <w>λίτραι,</w> <w>ἐννέα</w> <w>δέκα</w>
+                    <lb n="29"/><name><supplied reason="lost">— — — — — — τάλαντα· ἔξοδος</supplied></name> <w>ἑπτὰ</w> <w>ἴκοσι</w> <w>λίτραι,</w> <w>τέσσαρα</w> <w>ἑξήκοντα</w> <w>ἑκατὸν</w> <w>χίλια</w> <w>τάλαντα·</w> <w>λοι-</w>
+                    <lb n="30"/><w><supplied reason="lost">πὸν — — — — — — — — — —κο</supplied>ντα</w> <w>λίτραι,</w> <w>τέσσαρα</w> <w>τεσσαράκοντα</w> <w>ἑκατὸν</w> <w>τάλαντα.</w> <roleName type="civic" subtype="tamias"><w>ταμίαις</w></roleName> <w>ἔσοδος</w>
+                    <lb n="31"/><name><supplied reason="lost">— — — —</supplied>κον</name> <w><supplied reason="lost">τα</supplied></w> <w><unclear>λ</unclear></w> <w><supplied reason="lost">ί</supplied></w> <w><unclear>τρα</unclear></w> <w><supplied reason="lost">ι, ἑ</supplied>πτὰ</w> <w>τεσσαράκοντα</w> <w>διακόσια</w> <w>τρισχίλια</w> <w>τάλαντα·</w> <w>ἔξοδος</w> <w>δέκα</w> <w>λί-</w>
+                    <lb n="32"/><w>τρ<supplied reason="lost">αι, — — τρ</supplied>ιάκοντα</w> <w>πεντακόσια</w> <w>χίλια</w> <w>τάλαντα·</w> <w>λοιπὸν</w> <w>μία</w> <w>τεσσα<supplied reason="omitted">ρά</supplied>κοντα</w> <w>λίτραι,</w> <w>τέ<supplied reason="omitted">σσ</supplied>αρα</w> <w>ὀγδοήκον-</w>
+                    <lb n="33"/><w>τα</w> <w>ἐνακόσια</w> <w>χίλια</w> <w>τάλαντα.</w> <roleName type="civic" subtype="sitophylax"><w>σιτοφυλάκοις</w></roleName> <w>κυάμων</w> <w>ἔξοδος</w> <w>ἓν</w> <w>δέκα</w> <w>ἡμίεκτα,</w> <w>ἐννέα</w> <w>τριά-</w>
+                    <lb n="34"/><w>κοντα</w> <w>διακόσιοι</w> <w>μέδιμνοι·</w> <w>λοιπὸν</w> <w>ἑπτὰ</w> <w>ἡμίεκτα,</w> <w>ἑπτὰ</w> <w>χίλιοι</w> <w>μέδιμνοι.</w> <w>σιτωνίῳ</w> <name>Φρύνιος</name>
+                    <lb n="35"/><w>λοιπὸν</w> <w>τὸ</w> <w>ἴσον.</w> <w>σιτωνίῳ</w> <name>Εὐκλείδα</name> <w>λοιπὸν</w> <w>τὸ</w> <w>ἴσον.</w> <w>σιτωνίῳ</w> <w>παρὰ</w> <w>τῶν</w> <w>ἐπαγγειλαμένων</w> <w>λοιπὸν</w> <w>τὸ</w> <w>ἴσον.</w>
+                    <lb n="36"/><name>Εὐκλείου</name> <roleName type="civic" subtype="prytanis"><w><expan><abbr>πρ</abbr><ex>ύτανις?</ex></expan></w></roleName> <name>Ἀμμώνιος</name> <name>Σαραπίωνος</name> <name>Ἀρεθ(—).</name> <roleName type="civic.religious" subtype="hieromnamon"><w>ἱερομναμόνοις</w></roleName> <w>ἔσοδος</w> <w>τρεῖς</w> <w>ὀγδοήκοντα</w> <w>λίτραι,</w>
+                    <lb n="37"/><w>πέντε</w> <w>ἑβδομήκοντα</w> <w>ἑπτακόσια</w> <w>πεντακισχίλια</w> <w>μύρια</w> <w>τάλαντα·</w> <w>ἔξοδος</w> <w>ἓξ</w> <w>ἑβδο-</w>
+                    <lb n="38"/><w>μήκοντα</w> <w>λίτραι,</w> <w>ὀκτὼ</w> <w>ἑβδομήκοντα</w> <w>ἑπτακόσια</w> <w>τετρακισχίλια</w> <w>τάλαντα·</w> <w>λοιπὸν</w> <w>μία</w>
+                    <lb n="39"/><w>ὀγδοήκοντα</w> <w>λίτραι,</w> <w>ἓν</w> <w>τεσσαράκοντα</w> <w>ἑκατὸν</w> <w>χίλια</w> <w>μύρια</w> <w>τάλαντα·</w> <w>τούτου</w> <name>Διὸς</name> <w>μύρια</w>
+                    <lb n="40"/><w>τάλαντα·</w> <w>καὶ</w> <name>Διονύσου</name> <w>τριάκοντα</w> <w>λίτραι,</w> <w>ἑπτὰ</w> <w>ἑβδομήκοντα</w> <w>χίλια</w> <w>τάλαντα.</w> <w>ταμίαις</w>
+                    <lb n="41"/><w>ἔσοδος</w> <w>ἓξ</w> <w>τριάκοντα</w> <w>λίτραι,</w> <w>ὀκτὼ</w> <w>τεσσαράκοντα</w> <w>ἑπτακόσια</w> <w>πεντακισχίλια</w> <w>τετρακισ-</w>
+                    <lb n="42"/><w>μύρια</w> <w>τάλαντα·</w> <w>ἔξοδος</w> <w>πέντε</w> <w>ἑξήκοντα</w> <w>λίτραι,</w> <w>ἑπτὰ</w> <w>ἐνενήκοντα</w> <w>ἑκατὸν</w> <w>τρι<supplied reason="omitted">σ</supplied>χίλια</w>
+                    <lb n="43"/><w>δισμύρια</w> <w>τάλαντα·</w> <w>λοιπὸν</w> <w>δύω</w> <w>δέκα</w> <w>λίτραι,</w> <w>πέντε</w> <w>τριάκοντα</w> <w>πεντακόσια</w> <w>τετρακισ-</w>
+                    <lb n="44"/><w>χίλια</w> <w>δισμύρια</w> <w>τάλαντα.</w> <roleName type="civic" subtype="sitophylax"><w>σιτοφυλάκοις</w></roleName> <w>κυάμων</w> <w>ἔσοδος</w> <w>ὀγδοήκοντα</w> <w>τριακόσιοι</w> <w>μέ-</w>
+                    <lb n="45"/><w>διμνοι·</w> <w>ἔξοδος</w> <w>δέκα</w> <w>ἡμίεκτα,</w> <w>τρεῖς</w> <w>ἴκοσι</w> <w>ἑκατὸν</w> <w>μέδιμνοι·</w> <w>λοιπὸν</w> <w>ἐννέα</w> <w>ἡμίεκτα,</w>
+                    <lb n="46"/><w>τρεῖς</w> <w>ἑξήκοντα</w> <w>διακόσιοι</w> <w>χίλιοι</w> <w>μέδιμνοι.</w> <w>σιτωνίῳ</w> <name>Φρύνιος</name> <w>λοιπὸν</w> <w>τεσσαράκον-</w>
+                    <lb n="47"/><w>τα</w> <w>λίτραι,</w> <w>τρία</w> <w>τριάκοντα</w> <w>τριακόσια</w> <w>τρισχίλια</w> <w>μύρια</w> <w>τάλαντα.</w> <w>σιτωνίῳ</w> <name>Εὐκλείδα</name>
+                    <lb n="48"/><w>λοιπὸν</w> <w>δέκα</w> <w>ἑκατὸν</w> <w>λίτραι,</w> <w>τέσσαρα</w> <w>ἑβδομήκοντα</w> <w>ἑπτακόσια</w> <w>χίλια</w> <w>δισμύρια</w> <w>τά-</w>
+                    <lb n="49"/><w>λαντα.</w> <w>σιτωνίῳ</w> <w>παρὰ</w> <w>τῶν</w> <w>ἐπαγγειλαμένων</w> <w>λοιπὸν</w> <w>τεσσαράκοντα</w> <w>λίτραι,</w> <w>τρία</w> <w>τριά-</w>
+                    <lb n="50"/><w>κοντα</w> <w>πεντακόσια</w> <w>τρισχίλια</w> <w>τάλαντα.</w> <w>ἀγορᾶν</w> <w>διὰ</w> <w>πωλημάτων</w> <w>τέσσαρα</w> <w>ἑξήκον-</w>
+                    <lb n="51"/><w>τα</w> <w>διακόσια</w> <w>χίλια</w> <w>τάλαντα.</w>
+                    <lb n="52"/><w>vacat</w>
                     <lb n="53"/>
                 </ab>
             </div>
@@ -312,57 +255,57 @@
                     IG XIV 430, col. I, ll. 1, 7-14, 23; col. II, ll. 1-4 (V. Arangio-Ruiz):<lb n="2"/>
                     <lb n="3"/>
                     <supplied reason="lost">— — σιτωνίωι παρὰ τῶν ἐπαγγειλαμένων χρημάτων λοιπὸν τεσσαράκοντα</supplied>
-                    λίτραι, τρία δέκα τρισχίλια τάλ<supplied reason="lost">αντα</supplied>,<lb n="4"/>
+                    λίτραι, τρία δέκα τρισχίλια τάλ <supplied reason="lost">αντα</supplied>, <lb n="4"/>
                     <lb n="5"/>. . .<lb n="6"/>
                     <lb n="7"/>
                     
                     . . . τρια-
                     <lb n="8"/>
-                    <supplied reason="lost">κο— — — — τάλαντα.</supplied> <roleName type="civic" subtype="tamias"><supplied reason="lost">ταμ</supplied>ίαις</roleName> ἔσοδος ἐννέ<supplied reason="omitted">
+                    <supplied reason="lost">κο— — — — τάλαντα.</supplied> <roleName type="civic" subtype="tamias"><supplied reason="lost">ταμ</supplied>ίαις</roleName> ἔσοδος ἐννέ <supplied reason="omitted">
                     α
                 </supplied> δέκα ἑκατὸν λίτραι,
-                    <lb n="9"/>
-                    <supplied reason="lost">— — — — — — — — — —κό</supplied>σια μύρια τάλα<unclear>ν</unclear>τα· ἔξοδος
+                     <lb n="9"/>
+                    <supplied reason="lost">— — — — — — — — — —κό</supplied>σια μύρια τάλα <unclear>ν</unclear>τα· ἔξοδος
                     μία τριά-
-                    <lb n="10"/>
+                     <lb n="10"/>
                     <supplied reason="lost">κοντα λίτραι, — — —</supplied>
                     ἐνακόσια ὀκτακισχίλια τάλαντα· λοι-
-                    <lb n="11"/>
+                     <lb n="11"/>
                     <supplied reason="lost">πὸν — — — λίτραι</supplied>, πέντε ὀκτακόσια πεντακισχίλια τά-
-                    <lb n="12"/>
-                    <supplied reason="lost">λαντα — — — — —χί</supplied>λια τάλαντα παρὰ <roleName type="civic" subtype="gymnasiarchos">γυμνασιάρχοις</roleName>
-                    <lb n="13"/>
+                     <lb n="12"/>
+                    <supplied reason="lost">λαντα — — — — —χί</supplied>λια τάλαντα παρὰ  <roleName type="civic" subtype="gymnasiarchos">γυμνασιάρχοις</roleName>
+                     <lb n="13"/>
                     <supplied reason="lost">τούτου τριάκον(?)</supplied>τα λίτραι, ἓξ ἑξήκοντα ἑξακόσια χίλια τά-
-                    <lb n="14"/>
+                     <lb n="14"/>
                     <supplied reason="lost">λαντα ὡς ἔλαιον</supplied>
-                    ἀγορασθήμειν. <roleName type="civic" subtype="sitophylax">σιτοφυλάκοις</roleName> χαλκοῦ ἔσοδος
-                    <lb n="15"/>
+                    ἀγορασθήμειν.  <roleName type="civic" subtype="sitophylax">σιτοφυλάκοις</roleName> χαλκοῦ ἔσοδος
+                     <lb n="15"/>
                     <supplied reason="lost">— — — — — — τ</supplied>ριάκοντα τάλαντα· ἔξοδος τὸ ἴσον· κυά-
-                    <lb n="16"/>
+                     <lb n="16"/>
                     <supplied reason="lost">μων</supplied>
-                    . . .<lb n="17"/>
+                    . . . <lb n="17"/>
                     <lb n="18"/>. . .<lb n="19"/>
                     <lb n="20"/>
                      . . .
                     τάλαν-
                     <lb n="21"/>
                     <supplied reason="lost">τα, καὶ παρὰ ἀγέρταις σίτου ἴκο</supplied>
-                    <unclear>σ</unclear>ι πεντακόσια τάλαντα. ἀγο-
-                    <lb n="22"/>
+                     <unclear>σ</unclear>ι πεντακόσια τάλαντα. ἀγο-
+                     <lb n="22"/>
                     <supplied reason="lost">ρᾶν</supplied>
-                    . . .<lb n="23"/>
+                    . . . <lb n="23"/>
                     <lb n="24"/>. . .<lb n="25"/>
                     <lb n="26"/>
-                    <supplied reason="lost">Δυωδεκατέος, <roleName type="civic" subtype="prytanis">πρ(ύτανις)</roleName> — — — — — Ὀλ</supplied>ύμπιος Ταυ. <roleName type="civic.religious" subtype="hieromnamon">ἱε<supplied reason="lost">ρο</supplied>μναμόνοις</roleName> ἔσοδος ἴκοσι λίτραι, ἐννέα δέκα
-                    <lb n="27"/>
+                    <supplied reason="lost">Δυωδεκατέος, <roleName type="civic" subtype="prytanis">πρ(ύτανις)</roleName> — — — — — Ὀλ</supplied>ύμπιος Ταυ.  <roleName type="civic.religious" subtype="hieromnamon">ἱε<supplied reason="lost">ρο</supplied>μναμόνοις</roleName> ἔσοδος ἴκοσι λίτραι, ἐννέα δέκα
+                     <lb n="27"/>
                     <supplied reason="lost">— — — — — — τάλαντα· ἔξοδος</supplied>
                     ἑπτὰ ἴκοσι λίτραι, τέσσαρα ἑξήκοντα ἑκατὸν χίλια τάλαντα· λοι-
-                    <lb n="28"/>
+                     <lb n="28"/>
                     <supplied reason="lost">πὸν τέσσαρες ἑβδομή</supplied>
-                    <unclear>κ</unclear>οντα λίτραι, τέσσαρα τεσσαράκοντα ἑκατον τάλαντα. <roleName type="civic" subtype="tamias">ταμίαις</roleName> ἔσοδος
-                    <lb n="29"/>
-                    <supplied reason="lost">— — —</supplied>κον<supplied reason="lost">τα</supplied> λί<unclear>
-                    τραι</unclear>, <unclear>ἑ</unclear>πτὰ τεσσαράκοντα διακόσια τρισχίλια τάλαντα· ἔξοδος δέκα λί-<lb n="30"/>τραι . . .
+                     <unclear>κ</unclear>οντα λίτραι, τέσσαρα τεσσαράκοντα ἑκατον τάλαντα.  <roleName type="civic" subtype="tamias">ταμίαις</roleName> ἔσοδος
+                     <lb n="29"/>
+                    <supplied reason="lost">— — —</supplied>κον <supplied reason="lost">τα</supplied> λί <unclear>
+                    τραι</unclear>,  <unclear>ἑ</unclear>πτὰ τεσσαράκοντα διακόσια τρισχίλια τάλαντα· ἔξοδος δέκα λί- <lb n="30"/>τραι . . .
                     <lb n="31"/>
                 </ab>
             </div>

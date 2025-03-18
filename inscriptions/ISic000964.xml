@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -272,14 +272,15 @@
                 </ab>
               </div>  -->
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP"><!-- needs encoding-->
-                <ab><lb n="1"/>Ἅπασα γε̑α καὶ πλατοὶς ἀὴρ
-                    <lb n="2"/>γενᾷ σοι θάνατε
-                    <lb n="3"/>ἐξαπίνης μου τὸ βρέφος ἥρπασε[ς ἦ]
-                    <lb n="4"/>τίς ἀνάκη εἰ γὰρ ἐγήρα, οὐχεί σον [ἦν]
-                    <lb n="5"/>((chrismon)) ἐγενήθη ὁ κύρις Ἀγάθων π͡ρ(ὸ) ιε’ ((chrismon))
-                    <lb n="6"/>καλανδῶν Νοενβρίων ἡμέρᾳ Κρό[νου]
-                    <lb n="7"/>ἔζη(σεν) μ͡ῆ(νας) ·ι’· ἀπέθανε π͡ρ(ὸ) · ι’·[-?] καλανδῶν Σεπτενβρ[ίων]
-                    <lb n="8"/>ἡμέρᾳ Ἡλίου κυρία Ἀγάθη εἰρήνην Ἀγά[θωνι]
+                <ab>
+                    <lb n="1"/><w>Ἅπασα</w> <w>γε̑α</w> <w>καὶ</w> <w>πλατοὶς</w> <w>ἀὴρ</w>
+                    <lb n="2"/><w>γενᾷ</w> <w>σοι</w> <w>θάνατε</w>
+                    <lb n="3"/><w>ἐξαπίνης</w> <w>μου</w> <w>τὸ</w> <w>βρέφος</w> <w>ἥρπασε[ς</w> <w>ἦ]</w>
+                    <lb n="4"/><w>τίς</w> <w>ἀνάκη</w> <w>εἰ</w> <w>γὰρ</w> <w>ἐγήρα,</w> <w>οὐχεί</w> <w>σον</w> <name>[ἦν]</name>
+                    <lb n="5"/><name>((chrismon))</name> <w>ἐγενήθη</w> <w>ὁ</w> <w>κύρις</w> <name>Ἀγάθων</name> <w>π͡ρ(ὸ)</w> <w>ιε’</w> <name>((chrismon))</name>
+                    <lb n="6"/><w>καλανδῶν</w> <name>Νοενβρίων</name> <w>ἡμέρᾳ</w> <name>Κρό[νου]</name>
+                    <lb n="7"/><w>ἔζη(σεν)</w> <w>μ͡ῆ(νας)</w> <name>·ι’·</name> <w>ἀπέθανε</w> <w>π͡ρ(ὸ)</w> <g ref="#interpunct">·</g> <w>ι’·[-?]</w> <w>καλανδῶν</w> <name>Σεπτενβρ[ίων]</name>
+                    <lb n="8"/><w>ἡμέρᾳ</w> <name>Ἡλίου</name> <w>κυρία</w> <name>Ἀγάθη</name> <w>εἰρήνην</w> <name>Ἀγά[θωνι]</name>
                 </ab>
             </div>
             <div type="apparatus">

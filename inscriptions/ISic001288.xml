@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -273,18 +273,18 @@
         <body>
             <div type="edition" xml:space="preserve" resp="#martaf" xml:lang="grc">
                 <ab>
-                        <lb n="1"/><persName type="attested"><name><gap reason="lost" extent="unknown" unit="character"/><seg part="F">ιος</seg></name> <g ref="#ivy-leaf">❦</g> <name>Φιλο
-                        <lb n="2" break="no"/><supplied reason="undefined" evidence="previouseditor">ζ<gap reason="illegible" unit="character" quantity="1"/>ας</supplied></name></persName> <w>καὶ</w> <persName type="attested"><name>Αὐρη
-                         <lb n="3" break="no"/><supplied reason="undefined" evidence="previouseditor">λια</supplied></name> <supplied reason="undefined" evidence="previouseditor"><g ref="#ivy-leaf">❦</g></supplied> <name>Κλωδία</name></persName> <w>ἡ</w>
-                        <lb n="4"/><w>σύνβιος</w> <w>μου</w> <w>ἐ
-                        <lb n="5" break="no"/>κτησάμε<unclear>θ</unclear>α</w> <w>χώραν</w>
-                        <lb n="6"/><w>καθαρὰν</w> <w>καὶ</w> <w>ἐθεμε<unclear>λ</unclear><supplied reason="lost">ιώ</supplied>
-                        <lb n="7" break="no"/>σαμ<unclear>ε</unclear>ν</w> <w>καὶ</w> <w>ἐποιήσ<supplied reason="undefined" evidence="previouseditor">α</supplied><supplied reason="lost">μεν</supplied></w>
-                        <lb n="8"/><w>κοιτῶνα</w> <w>ἑαυτοῆ<supplied reason="lost">ς</supplied></w> <supplied reason="lost"><w>καὶ</w></supplied>
-                        <lb n="9"/><w><supplied reason="lost">τοῖ</supplied><supplied reason="undefined" evidence="previouseditor">ς</supplied></w> <w>κληρονόμοι<supplied reason="lost">ς</supplied></w> <w><supplied reason="lost">και</supplied></w>
-                        <lb n="10"/><w><supplied reason="lost">εἰ</supplied>σανγέλλομεν</w> <gap reason="lost" extent="unknown" unit="character"/>
-                        <lb n="11"/><gap reason="lost" extent="unknown" unit="character"/> <w>φθάσῃ</w> <w>ἐνθάδ<supplied reason="undefined" evidence="previouseditor">ε</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
-                        <lb n="12"/><gap reason="lost" extent="unknown" unit="character"/><orig>ΕΟΝ</orig><gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><persName type="attested"><name><gap reason="lost" extent="unknown" unit="character"/><seg part="F">ιος</seg></name> <g ref="#ivy-leaf">❦</g> <name>Φιλο
+                    <lb n="2" break="no"/><supplied reason="undefined" evidence="previouseditor">ζ<gap reason="illegible" unit="character" quantity="1"/>ας</supplied></name></persName> <w>καὶ</w> <persName type="attested"><name>Αὐρη
+                    <lb n="3" break="no"/><supplied reason="undefined" evidence="previouseditor">λια</supplied></name> <supplied reason="undefined" evidence="previouseditor"><g ref="#ivy-leaf">❦</g></supplied> <name>Κλωδία</name></persName> <w>ἡ</w>
+                    <lb n="4"/><w>σύνβιος</w> <w>μου</w> <w>ἐ
+                    <lb n="5" break="no"/>κτησάμε<unclear>θ</unclear>α</w> <w>χώραν</w>
+                    <lb n="6"/><w>καθαρὰν</w> <w>καὶ</w> <w>ἐθεμε<unclear>λ</unclear><supplied reason="lost">ιώ</supplied>
+                    <lb n="7" break="no"/>σαμ<unclear>ε</unclear>ν</w> <w>καὶ</w> <w>ἐποιήσ<supplied reason="undefined" evidence="previouseditor">α</supplied><supplied reason="lost">μεν</supplied></w>
+                    <lb n="8"/><w>κοιτῶνα</w> <w>ἑαυτοῆ<supplied reason="lost">ς</supplied></w> <supplied reason="lost"><w>καὶ</w></supplied>
+                    <lb n="9"/><w><supplied reason="lost">τοῖ</supplied><supplied reason="undefined" evidence="previouseditor">ς</supplied></w> <w>κληρονόμοι<supplied reason="lost">ς</supplied></w> <w><supplied reason="lost">και</supplied></w>
+                    <lb n="10"/><w><supplied reason="lost">εἰ</supplied>σανγέλλομεν</w> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="11"/><gap reason="lost" extent="unknown" unit="character"/> <w>φθάσῃ</w> <w>ἐνθάδ<supplied reason="undefined" evidence="previouseditor">ε</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="12"/><gap reason="lost" extent="unknown" unit="character"/> <orig>ΕΟΝ</orig><gap reason="illegible" quantity="2" unit="character"/> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>
             <div type="apparatus" resp="#martaf">

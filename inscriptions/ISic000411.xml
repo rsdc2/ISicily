@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -193,10 +193,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#TA">
                 <ab>
-                    <lb n="1"/><gap reason="lost" quantity="3" unit="character"/> <w><supplied reason="lost">c</supplied>olonia</w> l<gap reason="lost" quantity="3" unit="character"/>
-                    <lb n="2"/><gap reason="lost" quantity="3" unit="character"/> <placeName type="ethnic"><supplied reason="lost">S</supplied>yracusanor<supplied reason="lost">um</supplied></placeName>
-                    <lb n="3"/><gap reason="lost" quantity="5" unit="character"/> <num value="4">IIII</num> <gap reason="lost" quantity="4" unit="character"/><orig>AN</orig>
-                    <lb n="4"/><gap reason="lost" quantity="3" unit="character"/> <orig>N</orig> <orig>CUR</orig> <gap reason="lost" quantity="5" unit="character"/><orig>NA</orig>
+                    <lb n="1"/><gap reason="lost" quantity="3" unit="character"/> <w><supplied reason="lost">c</supplied>olonia</w> <w>l</w> <gap reason="lost" quantity="3" unit="character"/>
+                    <lb n="2"/><gap reason="lost" quantity="3" unit="character"/> <placeName type="ethnic"><name><supplied reason="lost">S</supplied></name> <w>yracusanor</w> <w><supplied reason="lost">um</supplied></w></placeName>
+                    <lb n="3"/><gap reason="lost" quantity="5" unit="character"/> <num value="4">IIII</num> <gap reason="lost" quantity="4" unit="character"/> <orig>AN</orig>
+                    <lb n="4"/><gap reason="lost" quantity="3" unit="character"/> <orig>N</orig><orig>CUR</orig><gap reason="lost" quantity="5" unit="character"/> <orig>NA</orig>
                     <lb n="5"/><w>concordia</w> <w>grati</w>
                 </ab>
             </div>

@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -199,14 +199,14 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
-                    <lb n="1"/>Iu<unclear>l</unclear>iae So<unclear>ae</unclear>
-                    <lb n="2" break="no"/>midi · <expan><abbr><unclear>A</unclear>ug</abbr><ex>ustae</ex></expan>
-                    <lb n="3"/>matri <roleName type="supracivic" subtype="imperator"><expan><abbr>imp</abbr><ex>eratoris</ex></expan></roleName>
-                    <lb n="4"/><expan><abbr>Caes</abbr><ex>aris</ex></expan> <expan><abbr>M</abbr><ex>arci</ex></expan> · Au
-                    <lb n="5" break="no"/>reli Antoni
-                    <lb n="6" break="no"/><unclear>ni</unclear> Pii <expan><abbr>Fel</abbr><ex>icis</ex></expan> ·<expan><abbr>Aug</abbr><ex>usti</ex></expan>
-                    <lb n="7"/><expan><abbr>D</abbr><ex>ecreto</ex></expan> <roleName type="civic" subtype="decurio"><expan><abbr>D</abbr><ex>ecurionum</ex></expan></roleName> <expan><abbr>P</abbr><ex>ecunia</ex></expan> <expan><abbr>P</abbr><ex>ublica</ex></expan>
-                 </ab>
+                    <lb n="1"/><w>Iu<unclear>l</unclear>iae</w> <name>So<unclear>ae</unclear>
+                    <lb n="2" break="no"/>midi</name> <g ref="#interpunct">·</g> <name><expan><abbr><unclear>A</unclear>ug</abbr><ex>ustae</ex></expan></name>
+                    <lb n="3"/><w>matri</w> <roleName type="supracivic" subtype="imperator"><w><expan><abbr>imp</abbr><ex>eratoris</ex></expan></w></roleName>
+                    <lb n="4"/><name><expan><abbr>Caes</abbr><ex>aris</ex></expan></name> <name><expan><abbr>M</abbr><ex>arci</ex></expan></name> <g ref="#interpunct">·</g> <name>Au
+                    <lb n="5" break="no"/>reli</name> <name>Antoni
+                    <lb n="6" break="no"/><unclear>ni</unclear></name> <name>Pii</name> <w><expan><abbr>Fel</abbr><ex>icis</ex></expan><g ref="#interpunct">·</g><expan><abbr>Aug</abbr><ex>usti</ex></expan></w>
+                    <lb n="7"/><name><expan><abbr>D</abbr><ex>ecreto</ex></expan></name> <roleName type="civic" subtype="decurio"><name><expan><abbr>D</abbr><ex>ecurionum</ex></expan></name></roleName> <name><expan><abbr>P</abbr><ex>ecunia</ex></expan></name> <name><expan><abbr>P</abbr><ex>ublica</ex></expan></name>
+                </ab>
             </div>
             <div type="apparatus">
                 <listApp><app><note>Text from autopsy, after initial reconstruction by Scibona</note></app></listApp>

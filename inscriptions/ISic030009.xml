@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -189,24 +189,24 @@
                     <ab>
                         <milestone unit="face" subtype="recto"/>
                         <lb n="1a"/><persName type="attested"><name type="idionym">Ἔν
-                        <lb n="1aa" break="no"/>ορμος</name></persName> καὶ hα<gap reason="lost" extent="unknown" unit="character"/>
-                        <lb n="1b"/><gap reason="lost" extent="unknown" unit="character"/>ο̄ <choice><orig>γλο͂<supplied reason="lost">σα</supplied></orig><reg>γλο͂<supplied reason="lost">σσα</supplied></reg></choice> <gap reason="lost" extent="unknown" unit="character"/>
-                        <lb n="2a"/><gap reason="lost" extent="unknown" unit="character"/><choice><orig><supplied reason="lost">ἀ</supplied>πεστραμένα</orig><reg><supplied reason="lost">ἀ</supplied>πεστραμμένα</reg></choice> <gap reason="lost" extent="unknown" unit="character"/>
-                        <lb n="2b"/><gap reason="lost" extent="unknown" unit="character"/><orig>ΥΣ</orig><gap reason="lost" extent="unknown" unit="character"/> καὶ hα <orig>Δ</orig><gap reason="lost" extent="unknown" unit="character"/>
-                        <lb n="3a"/><gap reason="lost" extent="unknown" unit="character"/>σίο̄ <choice><orig>γλο͂σα</orig><reg>γλο͂σσα</reg></choice> ἀπεσ<supplied reason="lost">τ</supplied><unclear>ρ</unclear><gap reason="lost" extent="unknown" unit="character"/>                    
-                        <lb n="3b"/><gap reason="lost" extent="unknown" unit="character"/><choice><orig>μένα</orig><reg>μμένα</reg></choice> <space extent="unknown" unit="character"/>
-                        <lb n="4a"/><gap reason="lost" extent="unknown" unit="character"/><persName type="attested"><name type="idionym">Δάμαρχος</name></persName> καὶ
-                        <lb n="4b"/>hα <persName type="attested"><name type="idionym">Δαμάρχο̄</name></persName>
-                        <lb n="5"/><choice><orig>γλο͂σα</orig><reg>γλο͂σσα</reg></choice> <choice><orig>ἀπ<unclear>ε</unclear>στ<supplied reason="lost">ραμένα</supplied></orig><reg>ἀπ<unclear>ε</unclear>στ<supplied reason="lost">ραμμένα</supplied></reg></choice> 
-                </ab>
-               </div>
-               <div type="textpart" subtype="section" n="b">
-                   <ab>
-                       <milestone unit="face" subtype="verso"/>
-                        <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><orig>ΟΝ<unclear>Δ</unclear>Ε</orig> <supplied reason="lost">τ</supplied>ο͂ν συνδ<supplied reason="lost">ίκο̄ν</supplied>
-                        <lb n="2"/>πάντο̄ν <unclear>τ</unclear>ὰς <choice><orig>γλο̄́σ<supplied reason="lost">ας</supplied></orig><reg>γλο̄́σσ<supplied reason="lost">ας</supplied></reg></choice> <supplied reason="lost">ἀ</supplied>
-                        <lb n="3" break="no"/><choice><orig>πεστραμένας</orig><reg>πεστραμμένας</reg></choice> ἐν<supplied reason="lost">γρ</supplied>
-                        <lb n="4" break="no"/>άφο̄ <space extent="unknown" unit="character"/>
+                        <lb n="1aa" break="no"/>ορμος</name></persName> <w>καὶ</w> <w>hα</w> <gap reason="lost" extent="unknown" unit="character"/>
+                        <lb n="1b"/><gap reason="lost" extent="unknown" unit="character"/> <w>ο̄</w> <w><choice><orig>γλο͂<supplied reason="lost">σα</supplied></orig><reg>γλο͂<supplied reason="lost">σσα</supplied></reg></choice></w> <gap reason="lost" extent="unknown" unit="character"/>
+                        <lb n="2a"/><gap reason="lost" extent="unknown" unit="character"/> <w><choice><orig><supplied reason="lost">ἀ</supplied>πεστραμένα</orig><reg><supplied reason="lost">ἀ</supplied>πεστραμμένα</reg></choice></w> <gap reason="lost" extent="unknown" unit="character"/>
+                        <lb n="2b"/><gap reason="lost" extent="unknown" unit="character"/> <orig>ΥΣ</orig><gap reason="lost" extent="unknown" unit="character"/> <w>καὶ</w> <w>hα</w> <orig>Δ</orig><gap reason="lost" extent="unknown" unit="character"/>
+                        <lb n="3a"/><gap reason="lost" extent="unknown" unit="character"/> <w>σίο̄</w> <w><choice><orig>γλο͂σα</orig><reg>γλο͂σσα</reg></choice></w> <w>ἀπεσ<supplied reason="lost">τ</supplied><unclear>ρ</unclear></w> <gap reason="lost" extent="unknown" unit="character"/>
+                        <lb n="3b"/><gap reason="lost" extent="unknown" unit="character"/> <w><choice><orig>μένα</orig><reg>μμένα</reg></choice></w> <space extent="unknown" unit="character"/>
+                        <lb n="4a"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="attested"><name type="idionym">Δάμαρχος</name></persName> <w>καὶ</w>
+                        <lb n="4b"/><w>hα</w> <persName type="attested"><name type="idionym">Δαμάρχο̄</name></persName>
+                        <lb n="5"/><w><choice><orig>γλο͂σα</orig><reg>γλο͂σσα</reg></choice></w> <w><choice><orig>ἀπ<unclear>ε</unclear>στ<supplied reason="lost">ραμένα</supplied></orig><reg>ἀπ<unclear>ε</unclear>στ<supplied reason="lost">ραμμένα</supplied></reg></choice></w>
+                    </ab>
+                </div>
+                <div type="textpart" subtype="section" n="b">
+                    <ab>
+                        <milestone unit="face" subtype="verso"/>
+                        <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <orig>ΟΝ<unclear>Δ</unclear>Ε</orig><w><supplied reason="lost">τ</supplied>ο͂ν</w> <w>συνδ<supplied reason="lost">ίκο̄ν</supplied></w>
+                        <lb n="2"/><w>πάντο̄ν</w> <w><unclear>τ</unclear>ὰς</w> <w><choice><orig>γλο̄́σ<supplied reason="lost">ας</supplied></orig><reg>γλο̄́σσ<supplied reason="lost">ας</supplied></reg></choice></w> <w><supplied reason="lost">ἀ</supplied>
+                        <lb n="3" break="no"/><choice><orig>πεστραμένας</orig><reg>πεστραμμένας</reg></choice></w> <w>ἐν<supplied reason="lost">γρ</supplied>
+                        <lb n="4" break="no"/>άφο̄</w> <space extent="unknown" unit="character"/>
                     </ab>
                 </div>
             </div>

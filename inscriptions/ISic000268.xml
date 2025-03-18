@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -193,14 +193,14 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
-                    <lb n="1"/><expan><abbr>D</abbr><ex>is</ex></expan> · <expan><abbr>M</abbr><ex>anibus</ex></expan>
-                    <lb n="2"/><expan><abbr>M</abbr><ex>arcus</ex></expan> · Aemilius
-                    <lb n="3"/>Felicianus
-                    <lb n="4"/>scriba · <expan><abbr>pub</abbr><ex>licus</ex></expan>
-                    <lb n="5"/>fidelissimus
-                    <lb n="6"/><expan><abbr>v</abbr><ex>ixit</ex></expan> · <expan><abbr>a</abbr><ex>nnis</ex></expan> · <num value="43">XLIII</num>
-                    <lb n="7"/>Nonia Zosima
-                    <lb n="8"/>marito · <expan><abbr>b</abbr><ex>ene</ex></expan> · <expan><abbr>m</abbr><ex>erenti</ex></expan>
+                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <name><expan><abbr>M</abbr><ex>anibus</ex></expan></name>
+                    <lb n="2"/><name><expan><abbr>M</abbr><ex>arcus</ex></expan></name> <g ref="#interpunct">·</g> <name>Aemilius</name>
+                    <lb n="3"/><name>Felicianus</name>
+                    <lb n="4"/><w>scriba</w> <g ref="#interpunct">·</g> <w><expan><abbr>pub</abbr><ex>licus</ex></expan></w>
+                    <lb n="5"/><w>fidelissimus</w>
+                    <lb n="6"/><w><expan><abbr>v</abbr><ex>ixit</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>a</abbr><ex>nnis</ex></expan></w> <g ref="#interpunct">·</g> <num value="43">XLIII</num>
+                    <lb n="7"/><name>Nonia</name> <name>Zosima</name>
+                    <lb n="8"/><w>marito</w> <g ref="#interpunct">·</g> <w><expan><abbr>b</abbr><ex>ene</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>m</abbr><ex>erenti</ex></expan></w>
                 </ab>
             </div>
             <div type="apparatus">

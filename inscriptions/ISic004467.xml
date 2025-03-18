@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -183,11 +183,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#IG">
                 <ab>
-                    <lb n="1"/>Ὕσπληξ <g ref="#interpunct">·</g> χρηστὲ <g ref="#interpunct">·</g> καὶ
-                    <lb n="2"/>ἄμεμπτε <g ref="#interpunct">·</g> χαίρε
-                    <lb n="3"/>ἔζησες <g ref="#interpunct">·</g> ἔτη
+                    <lb n="1"/><w>Ὕσπληξ</w> <g ref="#interpunct">·</g> <w>χρηστὲ</w> <g ref="#interpunct">·</g> <w>καὶ</w>
+                    <lb n="2"/><w>ἄμεμπτε</w> <g ref="#interpunct">·</g> <w>χαίρε</w>
+                    <lb n="3"/><w>ἔζησες</w> <g ref="#interpunct">·</g> <w>ἔτη</w>
                     <lb n="4"/><hi rend="supraline"><num value="3">γ</num></hi>
-               </ab>
+                </ab>
                </div>
             <div type="apparatus">
                 <listApp>

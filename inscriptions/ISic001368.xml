@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -191,11 +191,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#AA">
                 <ab>
-                    <lb n="1"/>σὺν θεῷ <expan><abbr><am><g ref="#staurogram">⳨</g></am></abbr><ex>Χριστῷ</ex></expan> <expan><abbr>κ</abbr><ex>αὶ</ex></expan> <supplied reason="lost">πατρι</supplied>
-                    <lb n="2"/>αὐτοῦ ἐκοιμ<supplied reason="lost">ήθη</supplied>
-                    <lb n="3"/>ἡ δούλη τοῦ <supplied reason="lost">θεοῦ</supplied>
-                    <lb n="4"/><name>Σαβεῖνα</name> τῇ <supplied reason="lost">πρὸ</supplied>
-                    <lb n="5"/><num value="3">τρειῶν</num> εἰδῶν
+                    <lb n="1"/><w>σὺν</w> <w>θεῷ</w> <w><expan><abbr><am><g ref="#staurogram">⳨</g></am></abbr><ex>Χριστῷ</ex></expan></w> <w><expan><abbr>κ</abbr><ex>αὶ</ex></expan></w> <w><supplied reason="lost">πατρι</supplied></w>
+                    <lb n="2"/><w>αὐτοῦ</w> <w>ἐκοιμ<supplied reason="lost">ήθη</supplied></w>
+                    <lb n="3"/><w>ἡ</w> <w>δούλη</w> <w>τοῦ</w> <w><supplied reason="lost">θεοῦ</supplied></w>
+                    <lb n="4"/><name>Σαβεῖνα</name> <w>τῇ</w> <w><supplied reason="lost">πρὸ</supplied></w>
+                    <lb n="5"/><num value="3">τρειῶν</num> <w>εἰδῶν</w>
                 </ab>
             </div>
             <div type="apparatus">

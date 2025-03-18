@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -193,16 +193,16 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/><expan><abbr><am><g ref="#christogram">☧</g></am></abbr><ex>Χρίστο</ex><abbr>ς</abbr></expan>
-                    <lb n="2"/>ἐκοι
-                    <lb n="3" break="no"/>μήθη
-                    <lb n="4"/>ἡ θεο
+                    <lb n="1"/><w><expan><abbr><am><g ref="#christogram">☧</g></am></abbr><ex>Χρίστο</ex><abbr>ς</abbr></expan></w>
+                    <lb n="2"/><w>ἐκοι
+                    <lb n="3" break="no"/>μήθη</w>
+                    <lb n="4"/><w>ἡ</w> <w>θεο
                     <lb n="5" break="no"/>κοίμ
-                    <lb n="6" break="no"/>ητος
-                    <lb n="7"/>Αἰγεία αἰ
-                    <lb n="8" break="no"/>τῶν <num value="40"><hi rend="supraline">μ</hi></num> τῇ
-                    <lb n="9"/><hi rend="ligature">πρὸ</hi> <num value="3">γ</num> <expan><abbr>καλ</abbr><ex>ανδῶν</ex></expan> Φεβρα
-                    <lb n="10" break="no"/>ρίων
+                    <lb n="6" break="no"/>ητος</w>
+                    <lb n="7"/><name>Αἰγεία</name> <w>αἰ
+                    <lb n="8" break="no"/>τῶν</w> <num value="40"><hi rend="supraline">μ</hi></num> <w>τῇ</w>
+                    <lb n="9"/><w><hi rend="ligature">πρὸ</hi></w> <num value="3">γ</num> <w><expan><abbr>καλ</abbr><ex>ανδῶν</ex></expan></w> <name>Φεβρα
+                    <lb n="10" break="no"/>ρίων</name>
                 </ab>
             </div>
             <div type="apparatus">

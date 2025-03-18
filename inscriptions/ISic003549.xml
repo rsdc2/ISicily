@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -186,10 +186,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1"/><choice><orig>Ἀρχηγέτει</orig><reg>Ἀρχηγέτηι</reg></choice> εὐχὴ Ἡρακλεῖ Θαλλοφόρῳ
-                    <lb n="2"/> ἱερῷ <choice><orig>εὐαπσεστάτωα</orig><reg>εὐαγεστάτῳ</reg></choice> <supplied reason="omitted"> <expan><abbr>Λ</abbr><ex>ούκιος</ex></expan></supplied> Κορνήλιος <expan><abbr>Λ</abbr><ex>ουκίου</ex></expan>
-                    <lb n="3"/> Κορνηλίου υἱὸς <orig>ΠΑΝ</orig> Τερεντιανὸς
-                    <lb n="4"/>καὶ Λήμνιος ἀπελεύθερος ἐποίησαν
+                    <lb n="1"/><w><choice><orig>Ἀρχηγέτει</orig><reg>Ἀρχηγέτηι</reg></choice></w> <w>εὐχὴ</w> <name>Ἡρακλεῖ</name> <name>Θαλλοφόρῳ</name>
+                    <lb n="2"/><w>ἱερῷ</w> <w><choice><orig>εὐαπσεστάτωα</orig><reg>εὐαγεστάτῳ</reg></choice></w> <name><supplied reason="omitted"><expan><abbr>Λ</abbr><ex>ούκιος</ex></expan></supplied></name> <name>Κορνήλιος</name> <name><expan><abbr>Λ</abbr><ex>ουκίου</ex></expan></name>
+                    <lb n="3"/><name>Κορνηλίου</name> <w>υἱὸς</w> <orig>ΠΑΝ</orig><name>Τερεντιανὸς</name>
+                    <lb n="4"/><w>καὶ</w> <name>Λήμνιος</name> <w>ἀπελεύθερος</w> <w>ἐποίησαν</w>
                     <lb n="5"/><orig><abbr>Π</abbr> <abbr>Π</abbr></orig>
                 </ab>
             </div>

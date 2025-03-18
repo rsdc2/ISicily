@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -194,12 +194,12 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
-                    <lb n="1"/><expan><abbr>D</abbr><ex>is</ex></expan> <expan><abbr>M</abbr><ex>anibus</ex></expan>
-                    <lb n="2"/>Accaeae Calliope
-                    <lb n="3"/><expan><abbr>Q</abbr><ex>uintus</ex></expan> Rupilius Onesi
-                    <lb n="4" break="no"/>mus coiugi
-                    <lb n="5"/>bene de se
-                    <lb n="6"/>meritae
+                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <name><expan><abbr>M</abbr><ex>anibus</ex></expan></name>
+                    <lb n="2"/><name>Accaeae</name> <name>Calliope</name>
+                    <lb n="3"/><name><expan><abbr>Q</abbr><ex>uintus</ex></expan></name> <name>Rupilius</name> <name>Onesi
+                    <lb n="4" break="no"/>mus</name> <w>coiugi</w>
+                    <lb n="5"/><w>bene</w> <w>de</w> <w>se</w>
+                    <lb n="6"/><w>meritae</w>
                 </ab>
             </div>
             <div type="apparatus">

@@ -177,12 +177,10 @@
             <div type="edition" xml:space="preserve" xml:lang="xly-Grek">
                 <div type="textpart" subtype="fragment-physical" n="a">
                     <ab>
-                        <lb n="1" rend="spiral-clockwise" xml:id="UgeAU"/><gap reason="lost" extent="unknown" unit="character" xml:id="UgeAe"/><w xml:id="UgeAo">ΦΙΒΝΥΝΝ</w> <gap reason="lost" extent="unknown" unit="character" xml:id="UgeAy"/>
-                        <lb n="2" rend="spiral-clockwise" xml:id="UgeAΙ"/><gap reason="lost" extent="unknown" unit="character" xml:id="UgeAΤ"/><w xml:id="UgeAε"><unclear xml:id="UgeAο">Ν</unclear>ΥΗΑΝ<unclear xml:id="UgeBA">Ε</unclear></w> <gap reason="lost" extent="unknown" unit="character" xml:id="UgeBK"/>
+                        <lb n="1" rend="spiral-clockwise" xml:id="UgeAU"/><gap reason="lost" extent="unknown" unit="character" xml:id="UgeAe"/> <w xml:id="UgeAo">ΦΙΒΝΥΝΝ</w> <gap reason="lost" extent="unknown" unit="character" xml:id="UgeAy"/>
+                        <lb n="2" rend="spiral-clockwise" xml:id="UgeAΙ"/><gap reason="lost" extent="unknown" unit="character" xml:id="UgeAΤ"/> <w xml:id="UgeAε"><unclear xml:id="UgeAο">Ν</unclear>ΥΗΑΝ<unclear xml:id="UgeBA">Ε</unclear></w> <gap reason="lost" extent="unknown" unit="character" xml:id="UgeBK"/>
                     </ab>
                 </div>
-               
-                
                 <div type="textpart" subtype="fragment-physical" n="b">
                     <ab>
                         <lb n="1" xml:id="UgeBo"/><w xml:id="UgeBy">ΣΑΡΙΧ<unclear xml:id="UgeBΙ">Υ</unclear></w> <gap reason="lost" extent="unknown" unit="character" xml:id="UgeBΤ"/>

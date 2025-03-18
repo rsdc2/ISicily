@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -191,12 +191,12 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM #JP">
                 <ab>
-                    <lb n="1"/>Θεοῖς <g ref="#interpunct">·</g> καταχθ
-                    <lb n="2" break="no"/>ο<g ref="#interpunct">·</g>νίοις <g ref="#interpunct">·</g> <persName type="attested"><name>Θά
-                    <lb n="3" break="no"/>λλος</name></persName> <g ref="#interpunct">·</g> ἔζη
-                    <lb n="4" break="no"/>σε ἔτη <g ref="#ivy-leaf">❦</g> <num value="5"><hi rend="supraline">ε</hi></num> <g ref="#ivy-leaf">❦</g>
-                    <lb n="5"/>χαιρέτω <g ref="#interpunct">·</g> ὁ ἀναγν
-                    <lb n="6" break="no"/>ούς
+                    <lb n="1"/><w>Θεοῖς</w> <g ref="#interpunct">·</g> <w>καταχθ
+                    <lb n="2" break="no"/>ο<g ref="#interpunct">·</g>νίοις</w> <g ref="#interpunct">·</g> <persName type="attested"><name>Θά
+                    <lb n="3" break="no"/>λλος</name></persName> <g ref="#interpunct">·</g> <w>ἔζη
+                    <lb n="4" break="no"/>σε</w> <w>ἔτη</w> <g ref="#ivy-leaf">❦</g> <num value="5"><hi rend="supraline">ε</hi></num> <g ref="#ivy-leaf">❦</g>
+                    <lb n="5"/><w>χαιρέτω</w> <g ref="#interpunct">·</g> <w>ὁ</w> <w>ἀναγν
+                    <lb n="6" break="no"/>ούς</w>
                 </ab> 
             </div>
             <div type="apparatus" resp="#JP">

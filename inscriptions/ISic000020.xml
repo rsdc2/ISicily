@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -194,9 +194,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#TA">
                 <ab>
-                    <lb n="1"/><roleName type="supracivic" subtype="imperator"><expan><abbr>Imp</abbr><ex>eratori</ex></expan></roleName> <g ref="#interpunct">·</g> <expan><abbr>Caes</abbr><ex>ari</ex></expan>
-                    <lb n="2"/>divi <g ref="#interpunct">·</g> Severi <g ref="#interpunct">·</g> Pii
-                    <lb n="3"/><del rend="erasure"><expan><abbr>nep</abbr><ex>oti</ex></expan></del> <g ref="#interpunct">·</g> divi <g ref="#interpunct">·</g> <expan><abbr>Magn</abbr><ex>i</ex></expan>
+                    <lb n="1"/><roleName type="supracivic" subtype="imperator"><w><expan><abbr>Imp</abbr><ex>eratori</ex></expan></w></roleName> <g ref="#interpunct">·</g> <name><expan><abbr>Caes</abbr><ex>ari</ex></expan></name>
+                    <lb n="2"/><w>divi</w> <g ref="#interpunct">·</g> <name>Severi</name> <g ref="#interpunct">·</g> <name>Pii</name>
+                    <lb n="3"/><w><del rend="erasure"><expan><abbr>nep</abbr><ex>oti</ex></expan></del></w> <g ref="#interpunct">·</g> <w>divi</w> <g ref="#interpunct">·</g> <name><expan><abbr>Magn</abbr><ex>i</ex></expan></name>
                     <lb n="4"/><gap reason="lost" extent="unknown" unit="line"/>
                 </ab>
             </div>

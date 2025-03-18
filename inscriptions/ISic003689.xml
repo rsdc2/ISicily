@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -203,19 +203,19 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/>ἐνθ<supplied reason="lost">ά</supplied>δε κῖτε Μαρκι<hi rend="ligature">λίν</hi>η
-                    <lb n="2"/><g ref="#staurogram">𐆠</g> σεμνὴ <supplied reason="lost"><expan><abbr>κ</abbr><ex>αὶ</ex></expan></supplied> ἄμεμπτος βιώσα<supplied reason="omitted">σα</supplied>
-                    <lb n="3"/>ἰς τὸν κόσμον τοῦτον ἀπε<surplus>κ</surplus>
-                    <lb n="4" break="no"/>χώρι πρὸς <supplied reason="omitted">τὸν</supplied> <supplied reason="omitted">Κ</supplied>ύριον ἐτῶν
-                    <lb n="5"/><g ref="#alpha">α</g> <g ref="#staurogram">𐆠</g> <g ref="#omega">ω</g> <num value="17">ιζ</num> <orig>Α<hi rend="supraline">Ι</hi>ΧΗΝ</orig> πράττουσα τῇ
-                    <lb n="6"/>πρὸ <num value="9">θ</num> <expan><abbr>καλ</abbr><ex>ανδῶν</ex></expan> Ἰανουαρί
-                    <lb n="7" break="no"/>ων τὸν δὲ θεόν σε φίλε
-                    <lb n="8"/>μή μου σκύλῃς τὸν <unclear>β</unclear>όθ
-                    <lb n="9" break="no"/>ρον μή μοι δίξῃς φῶς
-                    <lb n="10"/>ἂ<supplied reason="omitted">ν</supplied> δὲ θελήσῃς φῶς μοι
-                    <lb n="11"/>δῖξε σοὶ τὸ φῶς
-                    <lb n="12"/>ὁ <expan><abbr><hi rend="ligature">θ</hi></abbr><ex>εὸ</ex><abbr><hi rend="ligature">ς</hi></abbr></expan> χόλιον δώση <!-- just for now, but we have to solve the issue with ligature across theta and sigma. -->
-                    <lb n="13"/><g ref="#staurogram">𐆠</g> <expan><abbr><hi rend="supraline">ἰ</hi></abbr><ex>ησοῦς</ex> <abbr><hi rend="supraline">χ</hi></abbr><ex>ριστὸς</ex> <abbr><hi rend="supraline">θ</hi></abbr><ex>εοῦ</ex> <abbr><hi rend="supraline">ύ</hi></abbr><ex>ἱὸς</ex> <abbr><hi rend="supraline">ς</hi></abbr><ex>ωτήρ</ex></expan>
+                    <lb n="1"/><w>ἐνθ<supplied reason="lost">ά</supplied>δε</w> <w>κῖτε</w> <name>Μαρκι<hi rend="ligature">λίν</hi>η</name>
+                    <lb n="2"/><g ref="#staurogram">𐆠</g> <w>σεμνὴ</w> <w><supplied reason="lost"><expan><abbr>κ</abbr><ex>αὶ</ex></expan></supplied></w> <w>ἄμεμπτος</w> <w>βιώσα<supplied reason="omitted">σα</supplied></w>
+                    <lb n="3"/><w>ἰς</w> <w>τὸν</w> <w>κόσμον</w> <w>τοῦτον</w> <w>ἀπε<surplus>κ</surplus>
+                    <lb n="4" break="no"/>χώρι</w> <w>πρὸς</w> <w><supplied reason="omitted">τὸν</supplied></w> <name><supplied reason="omitted">Κ</supplied>ύριον</name> <w>ἐτῶν</w>
+                    <lb n="5"/><g ref="#alpha">α</g> <g ref="#staurogram">𐆠</g> <g ref="#omega">ω</g> <num value="17">ιζ</num> <orig>Α<hi rend="supraline">Ι</hi>ΧΗΝ</orig><w>πράττουσα</w> <w>τῇ</w>
+                    <lb n="6"/><w>πρὸ</w> <num value="9">θ</num> <w><expan><abbr>καλ</abbr><ex>ανδῶν</ex></expan></w> <name>Ἰανουαρί
+                    <lb n="7" break="no"/>ων</name> <w>τὸν</w> <w>δὲ</w> <w>θεόν</w> <w>σε</w> <w>φίλε</w>
+                    <lb n="8"/><w>μή</w> <w>μου</w> <w>σκύλῃς</w> <w>τὸν</w> <w><unclear>β</unclear>όθ
+                    <lb n="9" break="no"/>ρον</w> <w>μή</w> <w>μοι</w> <w>δίξῃς</w> <w>φῶς</w>
+                    <lb n="10"/><w>ἂ<supplied reason="omitted">ν</supplied></w> <w>δὲ</w> <w>θελήσῃς</w> <w>φῶς</w> <w>μοι</w>
+                    <lb n="11"/><w>δῖξε</w> <w>σοὶ</w> <w>τὸ</w> <w>φῶς</w>
+                    <lb n="12"/><w>ὁ</w> <w><expan><abbr><hi rend="ligature">θ</hi></abbr><ex>εὸ</ex><abbr><hi rend="ligature">ς</hi></abbr></expan></w> <w>χόλιον</w> <w>δώση</w> <!-- just for now, but we have to solve the issue with ligature across theta and sigma. -->
+                    <lb n="13"/><g ref="#staurogram">𐆠</g> <w><expan><abbr><hi rend="supraline">ἰ</hi></abbr><ex>ησοῦς</ex><abbr><hi rend="supraline">χ</hi></abbr><ex>ριστὸς</ex><abbr><hi rend="supraline">θ</hi></abbr><ex>εοῦ</ex><abbr><hi rend="supraline">ύ</hi></abbr><ex>ἱὸς</ex><abbr><hi rend="supraline">ς</hi></abbr><ex>ωτήρ</ex></expan></w>
                     <lb n="14"/><g ref="#palm">⸙</g>
                 </ab>
             </div>

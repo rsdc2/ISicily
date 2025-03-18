@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -193,9 +193,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#VM">
                 <ab>
-                    <lb n="1"/>Felix fideli<supplied reason="omitted">s</supplied>
-                    <lb n="2"/>in pace emi mi<supplied reason="omitted">h</supplied>i
-                    <lb n="3"/><expan><abbr>locu</abbr><ex>m</ex></expan> a <roleName type="paracivic.religious" subtype="diakonos">d<supplied reason="omitted">i</supplied>aconu</roleName>
+                    <lb n="1"/><w>Felix</w> <w>fideli<supplied reason="omitted">s</supplied></w>
+                    <lb n="2"/><w>in</w> <w>pace</w> <w>emi</w> <w>mi<supplied reason="omitted">h</supplied>i</w>
+                    <lb n="3"/><w><expan><abbr>locu</abbr><ex>m</ex></expan></w> <w>a</w> <roleName type="paracivic.religious" subtype="diakonos"><w>d</w> <w><supplied reason="omitted">i</supplied></w> <w>aconu</w></roleName>
                 </ab>
             </div>
             <div type="apparatus">

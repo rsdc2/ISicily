@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -204,12 +204,12 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la">
                 <ab>
-                    <lb n="1"/>D(is) M(anibus) s(acrum)
-                    <lb n="2"/>Abdalas Domi
-                    <lb n="3" break="no"/>tiae Domitiani
-                    <lb n="4"/>magister magnus
-                    <lb n="5"/>ovium qui bene vix(it)
-                    <lb n="6"/>in officio ann(os) LXXX
+                    <lb n="1"/><w>D(is)</w> <name>M(anibus)</name> <w>s(acrum)</w>
+                    <lb n="2"/><name>Abdalas</name> <name>Domi
+                    <lb n="3" break="no"/>tiae</name> <name>Domitiani</name>
+                    <lb n="4"/><w>magister</w> <w>magnus</w>
+                    <lb n="5"/><w>ovium</w> <w>qui</w> <w>bene</w> <w>vix(it)</w>
+                    <lb n="6"/><w>in</w> <w>officio</w> <w>ann(os)</w> <w>LXXX</w>
                 </ab>
             </div>
             <div type="apparatus">

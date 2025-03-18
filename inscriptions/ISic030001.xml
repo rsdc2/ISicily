@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -230,17 +230,17 @@
    <text>
       <body>
          <div type="edition" xml:space="preserve" xml:lang="grc" resp="#RDS">
-            <ab>
-               <lb n="1"/><handShift new="#m1"/><unclear>ἐ</unclear>π<unclear>ὶ</unclear> ἱαραπ<supplied reason="lost">όλ</supplied>ο<supplied reason="lost">υ</supplied> <gap reason="lost" extent="7" unit="character" precision="medium"/> <supplied reason="lost">τ</supplied>οῦ Διογένεο<hi rend="stacked">ς</hi>
-               <lb n="2"/>μη<subst><del rend="corrected">ο</del><add place="overstrike">ν</add></subst>ὸς Ἀπελλαίου <num value="11">ἑνδ<supplied reason="lost">εκ</supplied>άτ<unclear>αι</unclear></num> ἱσταμένου
-               <lb n="3"/>Κληναγόρα Ἀρίστωνο<supplied reason="lost">ς</supplied> <supplied reason="lost">ο</supplied>ἰκήαν πρίατο πὰρ Ἀγα<surplus>σ</surplus>
-	       <lb n="4" break="no"/>τετόρων ταλάντων <space extent="unknown" unit="character"/>
-	       <lb n="5"/>θοκλέος <g type="interpunct">·</g> <unclear>Ἄ</unclear><supplied reason="lost">μπο</supplied>χοι <g type="interpunct">·</g> <handShift new="#m2"/>Λίσσος Θαρσύνοντος
-	       <lb n="6"/><handShift new="#m3"/>Ἱάρων Ἀγα<unclear>θά</unclear>ρχο<subst><del rend="corrected">ι</del><add place="overstrike">υ</add></subst> <handShift new="#m4"/>Τίμων Ξένωνος <space unit="character" quantity="3"/>
-	       <lb n="7"/><handShift new="#m5"/>Διονύσιος Φιλίνου <space unit="character" extent="unknown"/>
-	       <lb n="8"/><handShift new="#m6"/>Ἱπποσ<supplied reason="omitted">θ</supplied>ένης Πράτωνος <space unit="character" extent="unknown"/>
-	       <lb n="9"/><space unit="line" extent="unknown"/>    
-            </ab>
+                <ab>
+                    <lb n="1"/><handShift new="#m1"/><w><unclear>ἐ</unclear>π<unclear>ὶ</unclear></w> <w>ἱαραπ<supplied reason="lost">όλ</supplied>ο<supplied reason="lost">υ</supplied></w> <gap reason="lost" extent="7" unit="character" precision="medium"/> <w><supplied reason="lost">τ</supplied>οῦ</w> <name>Διογένεο<hi rend="stacked">ς</hi></name>
+                    <lb n="2"/><w>μη<subst><del rend="corrected">ο</del><add place="overstrike">ν</add></subst>ὸς</w> <name>Ἀπελλαίου</name> <num value="11">ἑνδ<supplied reason="lost">εκ</supplied>άτ<unclear>αι</unclear></num> <w>ἱσταμένου</w>
+                    <lb n="3"/><name>Κληναγόρα</name> <name>Ἀρίστωνο<supplied reason="lost">ς</supplied></name> <w><supplied reason="lost">ο</supplied>ἰκήαν</w> <w>πρίατο</w> <w>πὰρ</w> <name>Ἀγα<surplus>σ</surplus>
+                    <lb n="4" break="no"/>τετόρων</name> <w>ταλάντων</w> <space extent="unknown" unit="character"/>
+                    <lb n="5"/><w>θοκλέος</w> <g type="interpunct">·</g> <name><unclear>Ἄ</unclear><supplied reason="lost">μπο</supplied>χοι</name> <g type="interpunct">·</g> <handShift new="#m2"/><name>Λίσσος</name> <name>Θαρσύνοντος</name>
+                    <lb n="6"/><handShift new="#m3"/><name>Ἱάρων</name> <name>Ἀγα<unclear>θά</unclear>ρχο<subst><del rend="corrected">ι</del><add place="overstrike">υ</add></subst></name> <handShift new="#m4"/><name>Τίμων</name> <name>Ξένωνος</name> <space unit="character" quantity="3"/>
+                    <lb n="7"/><handShift new="#m5"/><name>Διονύσιος</name> <name>Φιλίνου</name> <space unit="character" extent="unknown"/>
+                    <lb n="8"/><handShift new="#m6"/><name>Ἱπποσ<supplied reason="omitted">θ</supplied>ένης</name> <name>Πράτωνος</name> <space unit="character" extent="unknown"/>
+                    <lb n="9"/><space unit="line" extent="unknown"/>
+                </ab>
          </div>
          <div type="apparatus" resp="#RDS">
            <listApp>

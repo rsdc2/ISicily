@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -186,13 +186,13 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1"/><expan><abbr>Θ</abbr><ex>εοῖ</ex><abbr>ς</abbr></expan> <g ref="#interpunct">·</g> <expan><abbr>Κα</abbr><ex>ταχθονίοις</ex></expan> <g ref="#interpunct">·</g>
-                    <lb n="2"/>ἰδίῳ συμβίῳ <gap reason="lost" unit="character" quantity="4"/>
-                    <lb n="3"/>ὃς ἔζησ<supplied reason="lost">εν</supplied> ἔτη <gap reason="lost" unit="character" quantity="2"/> <orig>ΟΓ</orig>
-                    <lb n="4"/>τὸν μνημόσυνον
-                    <lb n="5"/>ἐποίησε εὐνοίας
-                    <lb n="6"/>καὶ μνήμης ἕνεκεν
-                    <lb n="7"/>Ἰουλία <choice><orig>Γλμικὴ</orig><reg>Γαμικὴ</reg></choice> <choice><reg>Ἰχνατία</reg><orig>Ἰχνδτι</orig></choice>
+                    <lb n="1"/><w><expan><abbr>Θ</abbr><ex>εοῖ</ex><abbr>ς</abbr></expan></w> <g ref="#interpunct">·</g> <name><expan><abbr>Κα</abbr><ex>ταχθονίοις</ex></expan></name> <g ref="#interpunct">·</g>
+                    <lb n="2"/><w>ἰδίῳ</w> <w>συμβίῳ</w> <gap reason="lost" unit="character" quantity="4"/>
+                    <lb n="3"/><w>ὃς</w> <w>ἔζησ<supplied reason="lost">εν</supplied></w> <w>ἔτη</w> <gap reason="lost" unit="character" quantity="2"/> <orig>ΟΓ</orig>
+                    <lb n="4"/><w>τὸν</w> <w>μνημόσυνον</w>
+                    <lb n="5"/><w>ἐποίησε</w> <w>εὐνοίας</w>
+                    <lb n="6"/><w>καὶ</w> <w>μνήμης</w> <w>ἕνεκεν</w>
+                    <lb n="7"/><name>Ἰουλία</name> <w><choice><orig>Γλμικὴ</orig><reg>Γαμικὴ</reg></choice></w> <w><choice><reg>Ἰχνατία</reg><orig>Ἰχνδτι</orig></choice></w>
                 </ab>
             </div>
             <div type="apparatus">

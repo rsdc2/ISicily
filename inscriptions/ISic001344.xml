@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -227,30 +227,15 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1"/>
-                    <name>Ἀγάθη</name>
-                    <lb n="2"/>
-                    <g ref="#christogram">☧</g>
-                    ἐτελεύτησεν
-                    <lb n="3"/>ἐτῶν <hi rend="supraline">ξ</hi> παρα
-                    <g ref="#christogram">☧</g>
-                    <lb n="4" break="no"/>
-                    <choice>
-                        <sic>ε</sic>
-                        <corr>σ</corr>
-                    </choice>
-                    κευῇ
-                    <choice>
-                        <reg>ταῖς</reg>
-                        <orig>τε͂ς</orig>
-                    </choice>
-                    <hi rend="supraline">θ</hi>
-                    ἀπὸ κα
-                    <lb n="5" break="no"/>λανδῶν Σεπτεμ
-                    <lb n="6" break="no"/>βρίω<hi rend="superscript">ν</hi> · <hi rend="superscript">ἐξε</hi>κομίσθη
-                    <lb n="7"/>δαὶ Σαββάτοις ·
-                    <lb n="8"/>χαρίσου τῷ Κυρίῳ
-                    <lb n="9"/>καὶ τῷ Χριστῷ
+                    <lb n="1"/><name>Ἀγάθη</name>
+                    <lb n="2"/><g ref="#christogram">☧</g> <w>ἐτελεύτησεν</w>
+                    <lb n="3"/><w>ἐτῶν</w> <w><hi rend="supraline">ξ</hi></w> <w>παρα</w> <name><g ref="#christogram">☧</g>
+                    <lb n="4" break="no"/><choice><sic>ε</sic><corr>σ</corr></choice></name> <w>κευῇ</w> <w><choice><reg>ταῖς</reg><orig>τε͂ς</orig></choice></w> <w><hi rend="supraline">θ</hi></w> <w>ἀπὸ</w> <w>κα
+                    <lb n="5" break="no"/>λανδῶν</w> <name>Σεπτεμ
+                    <lb n="6" break="no"/>βρίω<hi rend="superscript">ν</hi></name> <g ref="#interpunct">·</g> <w><hi rend="superscript">ἐξε</hi>κομίσθη</w>
+                    <lb n="7"/><w>δαὶ</w> <name>Σαββάτοις</name> <g ref="#interpunct">·</g>
+                    <lb n="8"/><w>χαρίσου</w> <w>τῷ</w> <name>Κυρίῳ</name>
+                    <lb n="9"/><w>καὶ</w> <w>τῷ</w> <name>Χριστῷ</name>
                 </ab>
             </div>
             <div type="apparatus">

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>                                                
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xmlns:xi="http://www.w3.org/2001/XInclude">
+<?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -188,14 +188,14 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><orig>ΟΤΟΚΟ<unclear>Μ</unclear></orig>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> ὑπὸ Κονστάτου
-                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost">ἐ</supplied><hi rend="ligature">πί</hi>σκο<hi rend="ligature">πο</hi>υ τῆς
-                    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost">ἀρετ</supplied>ῆς ἔκλῃσ<surplus>η</surplus>ας
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <orig>ΟΤΟΚΟ<unclear>Μ</unclear></orig>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w>ὑπὸ</w> <name>Κονστάτου</name>
+                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">ἐ</supplied><hi rend="ligature">πί</hi>σκο<hi rend="ligature">πο</hi>υ</w> <w>τῆς</w>
+                    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">ἀρετ</supplied>ῆς</w> <w>ἔκλῃσ<surplus>η</surplus>ας</w>
                     <lb n="5"/><space extent="unknown" unit="character"/><orig>ΛΣ</orig>
-                    <lb n="6"/><space quantity="1" unit="character"/><gap reason="illegible" quantity="2" unit="character"/><orig>ΜΟΤΗΝΑΔΕΛΣΗΝΤΣ</orig>
+                    <lb n="6"/><space quantity="1" unit="character"/><gap reason="illegible" quantity="2" unit="character"/> <orig>ΜΟΤΗΝΑΔΕΛΣΗΝΤΣ</orig>
                     <lb n="7"/><space quantity="1" unit="character"/><orig>ΚΛΚΥΤΥΜΟΝΝΥΧΥ</orig>
-                    <lb n="8"/><gap reason="lost" extent="unknown" unit="character"/><orig><unclear>Ν</unclear></orig><gap reason="illegible" quantity="1" unit="character"/><orig><unclear>Η</unclear></orig>
+                    <lb n="8"/><gap reason="lost" extent="unknown" unit="character"/> <orig><unclear>Ν</unclear></orig><gap reason="illegible" quantity="1" unit="character"/> <orig><unclear>Η</unclear></orig>
                 </ab>
             </div>
             <div type="apparatus">

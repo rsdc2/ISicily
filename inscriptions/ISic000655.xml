@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -195,12 +195,12 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#FP">
-                <ab> 
-                <lb n="1"/><persName type="attested"><name type="nomen"><supplied reason="lost">Cl</supplied>odi<supplied reason="lost">ae</supplied></name> <persName type="attested"><name type="praenomen"><expan><abbr>P</abbr><ex>ubli</ex></expan></name></persName> <g ref="#interpunct">·</g> <w><expan><abbr>F</abbr><ex>iliae</ex></expan></w> <g ref="#ivy-leaf">❦</g>
+                <ab>
+                    <lb n="1"/><persName type="attested"><name type="nomen"><supplied reason="lost">Cl</supplied>odi<supplied reason="lost">ae</supplied></name> <persName type="attested"><name type="praenomen"><expan><abbr>P</abbr><ex>ubli</ex></expan></name></persName> <g ref="#interpunct">·</g> <name><expan><abbr>F</abbr><ex>iliae</ex></expan></name> <g ref="#ivy-leaf">❦</g>
                     <lb n="2"/><name type="cognomen">Falconillae</name></persName> <w>ma<hi rend="ligature">tri</hi></w>
                     <lb n="3"/><persName type="attested"><name type="nomen">Pompei</name> <g ref="#interpunct">·</g> <name type="cognomen">Falconis</name></persName>
-                    <lb n="4"/><persName type="attested"><name type="nomen">Sosius</name> <space unit="character" quantity="1"/> <name type="cognomen">Priscus</name></persName>
-                    <lb n="5"/><space unit="character" quantity="3"/> <unclear>M</unclear> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="4"/><persName type="attested"><name type="nomen">Sosius</name> <space unit="character" quantity="1"/><name type="cognomen">Priscus</name></persName>
+                    <lb n="5"/><space unit="character" quantity="3"/><name><unclear>M</unclear></name> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>
             <div type="apparatus">

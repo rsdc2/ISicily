@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -205,10 +205,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
-                    <lb n="1"/> <expan><abbr>T</abbr><ex>itus</ex></expan> <unclear>B</unclear><gap reason="illegible" quantity="3" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="2" break="no"/>lianus <supplied reason="lost"><expan><abbr>vix</abbr><ex>it</ex></expan></supplied> <supplied reason="lost"><expan><abbr>ann</abbr><ex>is</ex></expan></supplied>
-                    <lb n="3"/><hi rend="supraline"><num value="21">XXI</num></hi> Vip<supplied reason="lost">sanius</supplied> <supplied reason="lost">The</supplied>
-                    <lb n="4" break="no"/>agenes a<supplied reason="lost" cert="low">lumno</supplied><gap reason="lost" extent="unknown" unit="character/"/>
+                    <lb n="1"/><w><expan><abbr>T</abbr><ex>itus</ex></expan></w> <name><unclear>B</unclear></name> <gap reason="illegible" quantity="3" unit="character"/> <gap reason="lost" extent="unknown" unit="character"/> <w>
+                    <lb n="2" break="no"/>lianus</w> <w><supplied reason="lost"><expan><abbr>vix</abbr><ex>it</ex></expan></supplied></w> <w><supplied reason="lost"><expan><abbr>ann</abbr><ex>is</ex></expan></supplied></w>
+                    <lb n="3"/><w><hi rend="supraline"><num value="21">XXI</num></hi>Vip<supplied reason="lost">sanius</supplied></w> <name><supplied reason="lost">The</supplied>
+                    <lb n="4" break="no"/>agenes</name> <w>a<supplied reason="lost" cert="low">lumno</supplied></w> <gap reason="lost" extent="unknown" unit="character/"/>
                 </ab>
             </div>
             <div type="apparatus">

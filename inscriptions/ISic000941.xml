@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -192,14 +192,12 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
                     <milestone unit="section" n="a"/>
-                        <lb n="1"/>Εὐμοίρει
-                        <lb n="2"/>Θεοκτίστην
-                    <milestone unit="section" n="b"/>
-                        <lb n="1"/>Οὐλπία δέξε
-                        <lb n="2"/>τεκοῦσα Θεοκτίστην
-                        <lb n="3"/>λαγόνεσ<supplied reason="lost">σι</supplied>ν
-                    <milestone unit="section" n="c"/>
-                        <lb n="1"/>Εὐμοίρει <supplied reason="lost">Οὐλπία</supplied> 
+                    <lb n="1"/><w>Εὐμοίρει</w>
+                    <lb n="2"/><name>Θεοκτίστην</name> <milestone unit="section" n="b"/>
+                    <lb n="1"/><name>Οὐλπία</name> <w>δέξε</w>
+                    <lb n="2"/><w>τεκοῦσα</w> <name>Θεοκτίστην</name>
+                    <lb n="3"/><w>λαγόνεσ<supplied reason="lost">σι</supplied>ν</w> <milestone unit="section" n="c"/>
+                    <lb n="1"/><name>Εὐμοίρει</name> <name><supplied reason="lost">Οὐλπία</supplied></name>
                 </ab>
             </div>
             <div type="apparatus">

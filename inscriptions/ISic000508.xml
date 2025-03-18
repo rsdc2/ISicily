@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -191,33 +191,33 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#SS">
-                 <div type="textpart" subtype="section" n="a">
+                <div type="textpart" subtype="section" n="a">
                     <ab>
                         <milestone unit="face" n="a"/>
-                        <lb n="1"/><supplied reason="lost">d</supplied>edicata <g ref="#interpunct">·</g> <num value="7">VII</num> <g ref="#interpunct">·</g> <expan><abbr>id</abbr><ex>us</ex></expan> <g ref="#interpunct">·</g> <expan><abbr>Se<supplied reason="lost">pt</supplied></abbr><ex>embres</ex></expan>
-                        <lb n="2"/><roleName type="supracivic" subtype="imperator"><expan><abbr>Imp</abbr><ex>eratore</ex></expan></roleName> <g ref="#interpunct">·</g> <name>Antonino</name> <expan><abbr>Aug</abbr><ex>usto</ex></expan> <g ref="#interpunct">·</g> <num value="4">III<supplied reason="lost">I</supplied></num>
-                        <lb n="3"/>et <g ref="#interpunct">·</g> <name><expan><abbr>D</abbr><ex>ecimo</ex></expan></name> <g ref="#interpunct">·</g> <name>Caelio</name> <g ref="#interpunct">·</g> <name>Balbino</name> <g ref="#interpunct">·</g> <num value="2"><supplied reason="lost">II</supplied></num>
-                        <lb n="4"/><roleName type="supracivic" subtype="consul"><expan><abbr>co</abbr><ex>n</ex><abbr>s</abbr><ex>ulibus</ex></expan></roleName> <g ref="#interpunct">·</g>
-                        <lb n="5"/>per <name><expan><abbr>M</abbr><ex>arcum</ex></expan></name> <name>Antium</name> <name>Grat<supplied reason="lost">il</supplied>
-                        <lb n="6" break="no"/>lianum</name> <g ref="#interpunct">·</g> <roleName type="supracivic" subtype="quaestor.pro.praetore"><expan><abbr>q</abbr><ex>uaestorem</ex></expan> <expan><abbr>pr</abbr><ex>o</ex></expan> <g ref="#interpunct">·</g> <expan><abbr>pr</abbr><ex>aetore</ex></expan></roleName> <g ref="#interpunct">·</g> <expan><abbr>pr<supplied reason="lost">ov</supplied></abbr><ex>inciae</ex></expan> <supplied reason="lost"><expan><abbr>Sic</abbr><ex>iliae</ex></expan></supplied>
-                        <lb n="7"/><roleName type="supracivic" subtype="clarissimus"><expan><abbr>c</abbr><ex>larissimum</ex></expan></roleName> <expan><abbr>v</abbr><ex>irum</ex></expan>
+                        <lb n="1"/><w><supplied reason="lost">d</supplied>edicata</w> <g ref="#interpunct">·</g> <num value="7">VII</num> <g ref="#interpunct">·</g> <w><expan><abbr>id</abbr><ex>us</ex></expan></w> <g ref="#interpunct">·</g> <name><expan><abbr>Se<supplied reason="lost">pt</supplied></abbr><ex>embres</ex></expan></name>
+                        <lb n="2"/><roleName type="supracivic" subtype="imperator"><name><expan><abbr>Imp</abbr><ex>eratore</ex></expan></name></roleName> <g ref="#interpunct">·</g> <name>Antonino</name> <name><expan><abbr>Aug</abbr><ex>usto</ex></expan></name> <g ref="#interpunct">·</g> <num value="4">III<supplied reason="lost">I</supplied></num>
+                        <lb n="3"/><w>et</w> <g ref="#interpunct">·</g> <name><expan><abbr>D</abbr><ex>ecimo</ex></expan></name> <g ref="#interpunct">·</g> <name>Caelio</name> <g ref="#interpunct">·</g> <name>Balbino</name> <g ref="#interpunct">·</g> <num value="2"><supplied reason="lost">II</supplied></num>
+                        <lb n="4"/><roleName type="supracivic" subtype="consul"><w><expan><abbr>co</abbr><ex>n</ex><abbr>s</abbr><ex>ulibus</ex></expan></w></roleName> <g ref="#interpunct">·</g>
+                        <lb n="5"/><w>per</w> <name><expan><abbr>M</abbr><ex>arcum</ex></expan></name> <name>Antium</name> <name>Grat<supplied reason="lost">il</supplied>
+                        <lb n="6" break="no"/>lianum</name> <g ref="#interpunct">·</g> <roleName type="supracivic" subtype="quaestor.pro.praetore"><w><expan><abbr>q</abbr><ex>uaestorem</ex></expan></w> <w><expan><abbr>pr</abbr><ex>o</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>pr</abbr><ex>aetore</ex></expan></w></roleName> <g ref="#interpunct">·</g> <w><expan><abbr>pr<supplied reason="lost">ov</supplied></abbr><ex>inciae</ex></expan></w> <name><supplied reason="lost"><expan><abbr>Sic</abbr><ex>iliae</ex></expan></supplied></name>
+                        <lb n="7"/><roleName type="supracivic" subtype="clarissimus"><w><expan><abbr>c</abbr><ex>larissimum</ex></expan></w></roleName> <w><expan><abbr>v</abbr><ex>irum</ex></expan></w>
                     </ab>
-                 </div>
+                </div>
                 <div type="textpart" subtype="section" n="b">
                     <ab>
                         <milestone unit="face" n="b"/>
-                        <lb n="1"/><roleName type="supracivic" subtype="imperator"><expan><abbr><supplied reason="lost">I</supplied>mp</abbr><ex>eratori</ex></expan></roleName> <g ref="#interpunct">·</g> <expan><abbr>Caes</abbr><ex>ari</ex></expan> <g ref="#interpunct">·</g> <name><expan><abbr>M</abbr><ex>arco</ex></expan></name> <g ref="#interpunct">·</g> <name>Aurelio</name>
-                        <lb n="2"/><name><supplied reason="lost">A</supplied>ntonino</name> <g ref="#interpunct">·</g> Pio <g ref="#interpunct">·</g>
-                        <lb n="3"/><supplied reason="lost">Fel</supplied>ici <g ref="#interpunct">·</g> Invicto <g ref="#interpunct">·</g> <expan><abbr>Aug</abbr><ex>usto</ex></expan> <g ref="#interpunct">·</g>
-                        <lb n="4"/><roleName type="supracivic" subtype="tribunicia.potestas"><expan><abbr><supplied reason="lost">tr</supplied>ib</abbr><ex>unicia</ex></expan> <g ref="#interpunct">·</g> <expan><abbr>potest</abbr><ex>ate</ex></expan></roleName> <num value="17">XVII</num> <g ref="#interpunct">·</g>
-                        <lb n="5"/><roleName type="supracivic" subtype="consul"><expan><abbr><supplied reason="lost">co</supplied></abbr><ex>n</ex><abbr>s</abbr><ex>uli</ex></expan></roleName> <g ref="#interpunct">·</g> <num value="4">IIII</num> <g ref="#interpunct">·</g> <roleName type="supracivic" subtype="proconsul"><expan><abbr>proco</abbr><ex>n</ex><abbr>s</abbr><ex>uli</ex></expan></roleName> <g ref="#interpunct">·</g>
-                        <lb n="6"/><roleName type="supracivic" subtype="pater.patriae"><expan><abbr>p</abbr><ex>atri</ex></expan> <g ref="#interpunct">·</g> <expan><abbr>p</abbr><ex>atriae</ex></expan></roleName> <g ref="#interpunct">·</g>
-                        <lb n="7"/><expan><abbr><supplied reason="lost">co</supplied>l</abbr><ex>onia</ex></expan> <expan><abbr>Hel</abbr><ex>via</ex></expan> Augusta
-                        <lb n="8"/><supplied reason="lost">L</supplied>ilybitanorum
-                        <lb n="9"/><supplied reason="lost">devota</supplied> numini
-                        <lb n="10"/><supplied reason="lost">maiestatique eius</supplied>
+                        <lb n="1"/><roleName type="supracivic" subtype="imperator"><w><expan><abbr><supplied reason="lost">I</supplied>mp</abbr><ex>eratori</ex></expan></w></roleName> <g ref="#interpunct">·</g> <name><expan><abbr>Caes</abbr><ex>ari</ex></expan></name> <g ref="#interpunct">·</g> <name><expan><abbr>M</abbr><ex>arco</ex></expan></name> <g ref="#interpunct">·</g> <name>Aurelio</name>
+                        <lb n="2"/><name><supplied reason="lost">A</supplied>ntonino</name> <g ref="#interpunct">·</g> <name>Pio</name> <g ref="#interpunct">·</g>
+                        <lb n="3"/><name><supplied reason="lost">Fel</supplied>ici</name> <g ref="#interpunct">·</g> <name>Invicto</name> <g ref="#interpunct">·</g> <name><expan><abbr>Aug</abbr><ex>usto</ex></expan></name> <g ref="#interpunct">·</g>
+                        <lb n="4"/><roleName type="supracivic" subtype="tribunicia.potestas"><w><expan><abbr><supplied reason="lost">tr</supplied>ib</abbr><ex>unicia</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>potest</abbr><ex>ate</ex></expan></w></roleName> <num value="17">XVII</num> <g ref="#interpunct">·</g>
+                        <lb n="5"/><roleName type="supracivic" subtype="consul"><w><expan><abbr><supplied reason="lost">co</supplied></abbr><ex>n</ex><abbr>s</abbr><ex>uli</ex></expan></w></roleName> <g ref="#interpunct">·</g> <num value="4">IIII</num> <g ref="#interpunct">·</g> <roleName type="supracivic" subtype="proconsul"><w><expan><abbr>proco</abbr><ex>n</ex><abbr>s</abbr><ex>uli</ex></expan></w></roleName> <g ref="#interpunct">·</g>
+                        <lb n="6"/><roleName type="supracivic" subtype="pater.patriae"><w><expan><abbr>p</abbr><ex>atri</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>p</abbr><ex>atriae</ex></expan></w></roleName> <g ref="#interpunct">·</g>
+                        <lb n="7"/><w><expan><abbr><supplied reason="lost">co</supplied>l</abbr><ex>onia</ex></expan></w> <name><expan><abbr>Hel</abbr><ex>via</ex></expan></name> <name>Augusta</name>
+                        <lb n="8"/><name><supplied reason="lost">L</supplied>ilybitanorum</name>
+                        <lb n="9"/><w><supplied reason="lost">devota</supplied></w> <w>numini</w>
+                        <lb n="10"/><w><supplied reason="lost">maiestatique eius</supplied></w>
                     </ab>
-                 </div>
+                </div>
             </div>
             <div type="apparatus">
                 <listApp><app><note>Text: CIL</note></app></listApp>

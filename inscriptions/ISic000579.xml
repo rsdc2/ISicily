@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -192,9 +192,9 @@
                 <ab>
                     <lb n="1"/><name>Domitia</name> <g ref="#interpunct">·</g> <name>Chimen
                     <lb n="2" break="no"/>na</name> <g ref="#interpunct">·</g> <name><expan><abbr>A</abbr><ex>ulo</ex></expan></name> <g ref="#interpunct">·</g> <name>Aemilio</name> <g ref="#interpunct">·</g>
-                    <lb n="3"/><name>Aristomeni</name> <g ref="#interpunct">·</g> et <g ref="#interpunct">·</g> suis
-                    <lb n="4"/><expan><abbr>h</abbr><ex>oc</ex></expan> <g ref="#interpunct">·</g> <expan><abbr>m</abbr><ex>onumentum</ex></expan> <g ref="#interpunct">·</g>
-                    <lb n="5"/><expan><abbr>h</abbr><ex>eredem</ex></expan> <g ref="#interpunct">·</g> <expan><abbr>n</abbr><ex>on</ex></expan> <g ref="#interpunct">·</g> <expan><abbr>s</abbr><ex>equetur</ex></expan>
+                    <lb n="3"/><name>Aristomeni</name> <g ref="#interpunct">·</g> <w>et</w> <g ref="#interpunct">·</g> <w>suis</w>
+                    <lb n="4"/><w><expan><abbr>h</abbr><ex>oc</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>m</abbr><ex>onumentum</ex></expan></w> <g ref="#interpunct">·</g>
+                    <lb n="5"/><w><expan><abbr>h</abbr><ex>eredem</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>n</abbr><ex>on</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>s</abbr><ex>equetur</ex></expan></w>
                 </ab>
             </div>
             <div type="apparatus">

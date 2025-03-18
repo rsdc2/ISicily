@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -191,11 +191,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="osc-Grek" resp="#KMcD">
                 <ab>
-                <lb n="1"/><supplied reason="lost" evidence="previouseditor">στε</supplied>νισ καλινισ σταττ<unclear>ι</unclear><supplied reason="lost" evidence="parallel">ηισ</supplied>
-                <lb n="2"/><supplied reason="lost" evidence="previouseditor">μαρ</supplied>ασ πομπτιεσ νιυμδ<supplied reason="lost" evidence="parallel">ιηισ</supplied>
-                <lb n="3"/><unclear>μ</unclear>εδδειξ ουπσενσ
-                <lb n="4"/><supplied reason="lost" evidence="previouseditor">εινε</supplied><unclear>ι</unclear>μ τωϝτο μαμερτ<supplied reason="lost" evidence="parallel">ινο</supplied>
-                <lb n="5"/><supplied reason="lost" evidence="previouseditor">α</supplied>ππελλουνηι σακ<supplied reason="lost" evidence="parallel">αρο</supplied>
+                    <lb n="1"/><w><supplied reason="lost" evidence="previouseditor">στε</supplied>νισ</w> <w>καλινισ</w> <w>σταττ<unclear>ι</unclear><supplied reason="lost" evidence="parallel">ηισ</supplied></w>
+                    <lb n="2"/><w><supplied reason="lost" evidence="previouseditor">μαρ</supplied>ασ</w> <w>πομπτιεσ</w> <w>νιυμδ<supplied reason="lost" evidence="parallel">ιηισ</supplied></w>
+                    <lb n="3"/><w><unclear>μ</unclear>εδδειξ</w> <w>ουπσενσ</w>
+                    <lb n="4"/><w><supplied reason="lost" evidence="previouseditor">εινε</supplied><unclear>ι</unclear>μ</w> <w>τωϝτο</w> <w>μαμερτ<supplied reason="lost" evidence="parallel">ινο</supplied></w>
+                    <lb n="5"/><w><supplied reason="lost" evidence="previouseditor">α</supplied>ππελλουνηι</w> <w>σακ<supplied reason="lost" evidence="parallel">αρο</supplied></w>
                 </ab>
             </div>
             <div type="apparatus" resp="#KMcD">

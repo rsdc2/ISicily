@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -196,15 +196,15 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/><supplied reason="lost">Ἀ</supplied>ττειλία Δόμ
-                    <lb n="2" break="no"/><supplied reason="lost">ν</supplied>α Ἰουλίῳ Πα<supplied reason="lost">ύλ</supplied>
-                    <lb n="3" break="no"/>λῳ συμβίῳ γλ<supplied reason="lost">υ</supplied>
-                    <lb n="4" break="no"/>κυτάτῳ μνία<supplied reason="lost">ς</supplied>
-                    <lb n="5"/>χάριν <space quantity="1" unit="character"/> καί
-                    <lb n="6"/>Παύλλῃ θυγατρ<supplied reason="lost">ί</supplied>
-                    <lb n="7"/>ζησάσῃ ἀμέμ
-                    <lb n="8" break="no"/>πτως ἐν <expan><abbr>Θ</abbr><ex>εῷ</ex></expan> ἔτε
-                    <lb n="9" break="no"/>σιν <hi rend="supraline"><num value="11">ια</num></hi> ἡμέραις <hi rend="supraline"><num value="30">λ</num></hi> 
+                    <lb n="1"/><w><supplied reason="lost">Ἀ</supplied>ττειλία</w> <name>Δόμ
+                    <lb n="2" break="no"/><supplied reason="lost">ν</supplied>α</name> <name>Ἰουλίῳ</name> <name>Πα<supplied reason="lost">ύλ</supplied>
+                    <lb n="3" break="no"/>λῳ</name> <w>συμβίῳ</w> <w>γλ<supplied reason="lost">υ</supplied>
+                    <lb n="4" break="no"/>κυτάτῳ</w> <w>μνία<supplied reason="lost">ς</supplied></w>
+                    <lb n="5"/><w>χάριν</w> <space quantity="1" unit="character"/><w>καί</w>
+                    <lb n="6"/><name>Παύλλῃ</name> <w>θυγατρ<supplied reason="lost">ί</supplied></w>
+                    <lb n="7"/><w>ζησάσῃ</w> <w>ἀμέμ
+                    <lb n="8" break="no"/>πτως</w> <w>ἐν</w> <name><expan><abbr>Θ</abbr><ex>εῷ</ex></expan></name> <w>ἔτε
+                    <lb n="9" break="no"/>σιν</w> <hi rend="supraline"><num value="11">ια</num></hi><w>ἡμέραις</w> <hi rend="supraline"><num value="30">λ</num></hi>
                 </ab>
             </div>
             <div type="apparatus">

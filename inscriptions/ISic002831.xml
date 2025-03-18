@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -190,9 +190,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/><supplied reason="lost">Ἀ</supplied>ντελλίνιος
-                    <lb n="2"/><supplied reason="lost">ἐνθ</supplied><unclear>ά</unclear>δε κεῖτ<supplied reason="lost">ε</supplied> <supplied reason="lost">ζ</supplied>ήσας
-                    <lb n="3"/><supplied reason="lost">ἔτ</supplied>η <num value="12"><hi rend="supraline">ιβ</hi></num> <orig>Π</orig><gap reason="lost" extent="unknown" unit="character"/><orig>Ε</orig>
+                    <lb n="1"/><w><supplied reason="lost">Ἀ</supplied>ντελλίνιος</w>
+                    <lb n="2"/><w><supplied reason="lost">ἐνθ</supplied><unclear>ά</unclear>δε</w> <w>κεῖτ<supplied reason="lost">ε</supplied></w> <w><supplied reason="lost">ζ</supplied>ήσας</w>
+                    <lb n="3"/><w><supplied reason="lost">ἔτ</supplied>η</w> <num value="12"><hi rend="supraline">ιβ</hi></num> <orig>Π</orig><gap reason="lost" extent="unknown" unit="character"/> <orig>Ε</orig>
                 </ab>
             </div>
             <div type="apparatus">

@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -187,12 +187,12 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1"/><choice><sic>Γι</sic><corr>Π</corr></choice>ρι<choice><sic>ιγ</sic><corr>μ</corr></choice>ο<choice><sic>μ</sic><corr>γ</corr></choice>ένης
-                    <lb n="2"/>ἐτελεύτη
-                    <lb n="3" break="no"/>σεν ζήσας
-                    <lb n="4"/>ἔτη <num value="70"><hi rend="supraline">ο</hi></num> καὶ ἐν
-                    <lb n="5" break="no"/>θάδε κῖται
-                    <lb n="6"/><expan><abbr><am><g ref="#christogram">☧</g></am></abbr><ex>Χριστό</ex><abbr>ς</abbr></expan>
+                    <lb n="1"/><w><choice><sic>Γι</sic><corr>Π</corr></choice>ρι<choice><sic>ιγ</sic><corr>μ</corr></choice>ο<choice><sic>μ</sic><corr>γ</corr></choice>ένης</w>
+                    <lb n="2"/><w>ἐτελεύτη
+                    <lb n="3" break="no"/>σεν</w> <w>ζήσας</w>
+                    <lb n="4"/><w>ἔτη</w> <num value="70"><hi rend="supraline">ο</hi></num> <w>καὶ</w> <w>ἐν
+                    <lb n="5" break="no"/>θάδε</w> <w>κῖται</w>
+                    <lb n="6"/><w><expan><abbr><am><g ref="#christogram">☧</g></am></abbr><ex>Χριστό</ex><abbr>ς</abbr></expan></w>
                 </ab>
             </div>
             <div type="apparatus" resp="#JP">

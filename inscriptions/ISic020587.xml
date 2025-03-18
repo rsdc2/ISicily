@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -174,10 +174,10 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
-                    <ab>
-                        <lb n="1"/><persName type="divine"><name>Ζε̄νὸς</name></persName> ἐριγδού<unclear>π</unclear>οιο <unclear>κ</unclear>όρε̄ι γλαυκο̄́πῑ <persName type="divine"><name><hi rend="ligature">Ἀθ</hi>ε̄́νε̄ι</name></persName>
-                        <lb n="2"/><persName type="attested"><name>Θ<hi rend="subscript">ρί</hi>πυλος</name></persName> εὐξάμε<unclear>ν</unclear>ος τε̄́νδ’ ἀνέθε̄κ<unclear>ε</unclear> θεᾶι
-                    </ab>
+                <ab>
+                    <lb n="1"/><persName type="divine"><name>Ζε̄νὸς</name></persName> <w>ἐριγδού<unclear>π</unclear>οιο</w> <w><unclear>κ</unclear>όρε̄ι</w> <w>γλαυκο̄́πῑ</w> <persName type="divine"><name><hi rend="ligature">Ἀθ</hi>ε̄́νε̄ι</name></persName>
+                    <lb n="2"/><persName type="attested"><name>Θ<hi rend="subscript">ρί</hi>πυλος</name></persName> <w>εὐξάμε<unclear>ν</unclear>ος</w> <w>τε̄́νδ’</w> <w>ἀνέθε̄κ<unclear>ε</unclear></w> <w>θεᾶι</w>
+                </ab>
             </div>
             <div type="apparatus">
                 <listApp>

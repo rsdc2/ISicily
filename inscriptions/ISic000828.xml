@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -195,20 +195,20 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">Σ</supplied>ώσιος
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">Δι</supplied>ογένεο<supplied reason="lost">ς</supplied>
-                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">Ἀ</supplied>ρίστωνο<supplied reason="lost">ς</supplied>
-                    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/>Ἀμμωνίου
-                    <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/>τριδας Στροβίλο<supplied reason="lost">υ</supplied>
-                    <lb n="6"/><gap reason="lost" extent="unknown" unit="character"/>ιερων
-                    <lb n="7"/><gap reason="lost" extent="unknown" unit="character"/>στρατος Σωστρά<supplied reason="lost">του</supplied>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">Σ</supplied>ώσιος</w>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <name><supplied reason="lost">Δι</supplied>ογένεο<supplied reason="lost">ς</supplied></name>
+                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <name><supplied reason="lost">Ἀ</supplied>ρίστωνο<supplied reason="lost">ς</supplied></name>
+                    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <name>Ἀμμωνίου</name>
+                    <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/> <w>τριδας</w> <name>Στροβίλο<supplied reason="lost">υ</supplied></name>
+                    <lb n="6"/><gap reason="lost" extent="unknown" unit="character"/> <w>ιερων</w>
+                    <lb n="7"/><gap reason="lost" extent="unknown" unit="character"/> <w>στρατος</w> <name>Σωστρά<supplied reason="lost">του</supplied></name>
                     <lb n="7a"/><space quantity="1" unit="line"/>
-                    <lb n="8"/><gap reason="lost" extent="unknown" unit="character"/>ρος Σωσιπό<supplied reason="lost">λιος</supplied>
-                    <lb n="9"/><gap reason="lost" extent="unknown" unit="character"/>οντων
-                    <lb n="10"/><gap reason="lost" extent="unknown" unit="character"/>τοῦ Νυμφο<supplied reason="lost">δώρου</supplied>
-                    <lb n="11"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost">το</supplied>ῦ Ἀπολλω<supplied reason="lost">νίου</supplied>
+                    <lb n="8"/><gap reason="lost" extent="unknown" unit="character"/> <w>ρος</w> <name>Σωσιπό<supplied reason="lost">λιος</supplied></name>
+                    <lb n="9"/><gap reason="lost" extent="unknown" unit="character"/> <w>οντων</w>
+                    <lb n="10"/><gap reason="lost" extent="unknown" unit="character"/> <w>τοῦ</w> <name>Νυμφο<supplied reason="lost">δώρου</supplied></name>
+                    <lb n="11"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">το</supplied>ῦ</w> <name>Ἀπολλω<supplied reason="lost">νίου</supplied></name>
                     <lb n="11a"/><space quantity="1" unit="line"/>
-                    <lb n="12"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost">Ν</supplied>υμφ<supplied reason="lost">οδώρου</supplied>
+                    <lb n="12"/><gap reason="lost" extent="unknown" unit="character"/> <name><supplied reason="lost">Ν</supplied>υμφ<supplied reason="lost">οδώρου</supplied></name>
                 </ab>
             </div>
             <div type="apparatus">

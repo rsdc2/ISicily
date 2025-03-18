@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -191,15 +191,15 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
-                    <lb n="1"/><gap reason="illegible" quantity="1" unit="character"/> <name><supplied reason="lost">Cl</supplied><unclear>au</unclear>dius Iu<supplied reason="lost">st</supplied>us</name> <roleName type="civic" subtype="duumvir">I<supplied reason="lost">Ivir</supplied></roleName> <supplied reason="lost">et</supplied> <roleName type="paracivic" subtype="patronus"><supplied reason="lost">patro</supplied> 
-                    <lb n="2" break="no"/>nus</roleName> <unclear>mun</unclear>icip<supplied reason="lost">i</supplied> <expan><abbr><unclear>Me</unclear><supplied reason="lost">lit</supplied></abbr><ex>ensium</ex></expan> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="3"/><unclear>mar</unclear>more<unclear>um</unclear> cum <unclear>s</unclear>im<unclear>u</unclear><supplied reason="lost">lacro</supplied> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="4"/>et <supplied reason="lost">o</supplied><unclear>m</unclear>ni <unclear>su</unclear>o or<unclear>na</unclear>tu <unclear>pr</unclear><supplied reason="lost">o honore</supplied>
-                    <lb n="5"/><roleName type="civic" subtype="decurio">decuri<unclear>onatus</unclear></roleName> <gap reason="illegible" quantity="1" unit="character"/> <name><supplied reason="lost">C</supplied>laud<supplied reason="lost">di</supplied></name> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="6"/>secundum pollicita<supplied reason="lost">tionem suam</supplied>
-                    <lb n="7"/>exstruxit consecra<supplied reason="lost">vitque in</supplied>
-                    <lb n="8"/>quod opus amplius qua<supplied reason="lost">m promiserat</supplied>
-                    <lb n="9"/>erogavi<supplied reason="lost">t</supplied> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><gap reason="illegible" quantity="1" unit="character"/> <name><supplied reason="lost">Cl</supplied><unclear>au</unclear>dius Iu<supplied reason="lost">st</supplied>us</name> <roleName type="civic" subtype="duumvir"><name>I</name> <name><supplied reason="lost">Ivir</supplied></name></roleName> <w><supplied reason="lost">et</supplied></w> <roleName type="paracivic" subtype="patronus"><w><supplied reason="lost">patro</supplied>
+                    <lb n="2" break="no"/>nus</w></roleName> <w><unclear>mun</unclear>icip<supplied reason="lost">i</supplied></w> <name><expan><abbr><unclear>Me</unclear><supplied reason="lost">lit</supplied></abbr><ex>ensium</ex></expan></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="3"/><w><unclear>mar</unclear>more<unclear>um</unclear></w> <w>cum</w> <w><unclear>s</unclear>im<unclear>u</unclear><supplied reason="lost">lacro</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="4"/><w>et</w> <w><supplied reason="lost">o</supplied><unclear>m</unclear>ni</w> <w><unclear>su</unclear>o</w> <w>or<unclear>na</unclear>tu</w> <w><unclear>pr</unclear><supplied reason="lost">o honore</supplied></w>
+                    <lb n="5"/><roleName type="civic" subtype="decurio"><w>decuri</w> <w><unclear>onatus</unclear></w></roleName> <gap reason="illegible" quantity="1" unit="character"/> <name><supplied reason="lost">C</supplied>laud<supplied reason="lost">di</supplied></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="6"/><w>secundum</w> <w>pollicita<supplied reason="lost">tionem suam</supplied></w>
+                    <lb n="7"/><w>exstruxit</w> <w>consecra<supplied reason="lost">vitque in</supplied></w>
+                    <lb n="8"/><w>quod</w> <w>opus</w> <w>amplius</w> <w>qua<supplied reason="lost">m promiserat</supplied></w>
+                    <lb n="9"/><w>erogavi<supplied reason="lost">t</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>
             <div type="apparatus">

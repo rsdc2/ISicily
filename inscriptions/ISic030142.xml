@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -175,15 +175,15 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><orig>ΤΑΙΝ</orig><gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <orig>ΤΑΙΝ</orig><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="2"/><gap reason="lost" quantity="1" unit="line"/>
-                    <lb n="3"/><gap reason="lost" quantity="1" unit="line"/>
-                    <lb n="4" break="no"/><unclear>κ</unclear>ας <persName type="attested"><name type="idionym">Θράσυς</name> <persName type="attested"><name type="patronym">Ἐμ
-                    <lb n="5" break="no"/>μενίδας</name> <orgName>Δορι
-                    <lb n="6" break="no"/>στόνφο̄ν</orgName></persName></persName> ͱαπ
-                    <lb n="7" break="no"/>άντο̄ν ἐστὶ ͱυ
-                    <lb n="8" break="no"/>πέρτατος ἀκίδ
-                    <lb n="9" break="no"/>ον
+                    <lb n="3"/><gap reason="lost" quantity="1" unit="line"/> <w>
+                    <lb n="4" break="no"/><unclear>κ</unclear>ας</w> <persName type="attested"><name type="idionym">Θράσυς</name> <persName type="attested"><name type="patronym">Ἐμ
+                    <lb n="5" break="no"/>μενίδας</name> <orgName><name>Δορι
+                    <lb n="6" break="no"/>στόνφο̄ν</name></orgName></persName></persName> <w>ͱαπ
+                    <lb n="7" break="no"/>άντο̄ν</w> <w>ἐστὶ</w> <w>ͱυ
+                    <lb n="8" break="no"/>πέρτατος</w> <w>ἀκίδ
+                    <lb n="9" break="no"/>ον</w>
                 </ab>
             </div>
             <div type="apparatus">

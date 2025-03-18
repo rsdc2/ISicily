@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -190,12 +190,12 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/>ἐνθ<choice><corr>ά</corr><sic>λ</sic></choice>δ<choice><corr>ε</corr><sic>ι</sic></choice> <supplied reason="lost">κῖτε</supplied>
-                    <lb n="2"/>Θεόφιλ<supplied reason="lost">ος</supplied> <supplied reason="lost">ζήσας</supplied>
-                    <lb n="3"/>ἔτη <num value="10">δέκ<supplied reason="lost">α</supplied></num> <supplied reason="lost">τελεύ</supplied>
-                    <lb n="4" break="no"/>τα τες <num value="18"><supplied reason="lost">δεκαοκτώ</supplied></num>
-                    <lb n="5"/>ὀκτωβρ<supplied reason="lost">ίῳ</supplied>
-                    <lb n="6"/><supplied reason="lost"><roleName type="supracivic" subtype="consul">ὑπατίᾳ</roleName></supplied> <expan><abbr><supplied reason="lost">Βιν</supplied>κεν</abbr><ex>τίου</ex></expan> <expan><abbr>ἱ</abbr><ex>μέρᾳ</ex></expan> <expan><abbr>τ</abbr><ex>ῇ</ex></expan> <expan><abbr>π</abbr><ex>αρασκευῇ</ex></expan>
+                    <lb n="1"/><w>ἐνθ<choice><corr>ά</corr><sic>λ</sic></choice>δ<choice><corr>ε</corr><sic>ι</sic></choice></w> <w><supplied reason="lost">κῖτε</supplied></w>
+                    <lb n="2"/><name>Θεόφιλ<supplied reason="lost">ος</supplied></name> <w><supplied reason="lost">ζήσας</supplied></w>
+                    <lb n="3"/><w>ἔτη</w> <num value="10">δέκ<supplied reason="lost">α</supplied></num> <w><supplied reason="lost">τελεύ</supplied>
+                    <lb n="4" break="no"/>τα</w> <w>τες</w> <num value="18"><supplied reason="lost">δεκαοκτώ</supplied></num>
+                    <lb n="5"/><w>ὀκτωβρ<supplied reason="lost">ίῳ</supplied></w>
+                    <lb n="6"/><w><supplied reason="lost"><roleName type="supracivic" subtype="consul">ὑπατίᾳ</roleName></supplied></w> <name><expan><abbr><supplied reason="lost">Βιν</supplied>κεν</abbr><ex>τίου</ex></expan></name> <w><expan><abbr>ἱ</abbr><ex>μέρᾳ</ex></expan></w> <w><expan><abbr>τ</abbr><ex>ῇ</ex></expan></w> <w><expan><abbr>π</abbr><ex>αρασκευῇ</ex></expan></w>
                 </ab>
             </div>
             <div type="apparatus">

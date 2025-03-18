@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -197,18 +197,18 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    <lb n="1"/><supplied reason="lost">Ῥο</supplied>ῦφον
-                    <lb n="2"/>Νεικόμαχο<supplied reason="lost">ν</supplied>
-                    <lb n="3"/>Ἰουλιανὸν
-                    <lb n="4"/><roleName type="supracivic" subtype="clarissimus">λαμπρότατον</roleName>
-                    <lb n="5"/><roleName type="supracivic" subtype="consul">ὕπατον</roleName>
-                    <lb n="6"/><roleName type="supracivic" subtype="proconsul">ἀνθύπατον</roleName>
-                    <lb n="7"/>Ἀσίας
-                    <lb n="8"/>δικαιώτατον
-                    <lb n="9"/>Ἀσίννιος
-                    <lb n="10"/>Ἀμίαντος
-                    <lb n="11"/><roleName type="supracivic" subtype="procurator">ἐπίτροπος</roleName>
-                    <lb n="12"/>τὸν <roleName type="supracivic" subtype="dominus">δεσπότη<supplied reason="lost">ν</supplied></roleName>
+                    <lb n="1"/><w><supplied reason="lost">Ῥο</supplied>ῦφον</w>
+                    <lb n="2"/><name>Νεικόμαχο<supplied reason="lost">ν</supplied></name>
+                    <lb n="3"/><name>Ἰουλιανὸν</name>
+                    <lb n="4"/><roleName type="supracivic" subtype="clarissimus"><w>λαμπρότατον</w></roleName>
+                    <lb n="5"/><roleName type="supracivic" subtype="consul"><w>ὕπατον</w></roleName>
+                    <lb n="6"/><roleName type="supracivic" subtype="proconsul"><w>ἀνθύπατον</w></roleName>
+                    <lb n="7"/><name>Ἀσίας</name>
+                    <lb n="8"/><w>δικαιώτατον</w>
+                    <lb n="9"/><name>Ἀσίννιος</name>
+                    <lb n="10"/><name>Ἀμίαντος</name>
+                    <lb n="11"/><roleName type="supracivic" subtype="procurator"><w>ἐπίτροπος</w></roleName>
+                    <lb n="12"/><w>τὸν</w> <roleName type="supracivic" subtype="dominus"><w>δεσπότη</w> <w><supplied reason="lost">ν</supplied></w></roleName>
                 </ab>
             </div>
             <div type="apparatus">

@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -193,12 +193,12 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/><supplied reason="lost">Π</supplied>ρ<hi rend="ligature">ημ</hi>ιτείβα
-                    <lb n="2"/><supplied reason="lost">χ</supplied>ρηστὴ χαῖρε
-                    <lb n="3"/>Μαννα τέκν<hi rend="small">ο</hi>ν
-                    <lb n="4"/><space quantity="2" unit="character"/> χαῖρε <space quantity="4" unit="character"/>
-                    <lb n="5"/>Mαννας γυναι
-                    <lb n="6" break="no"/><unclear>κ</unclear>ὶ καὶ τέκνῳ
+                    <lb n="1"/><w><supplied reason="lost">Π</supplied>ρ<hi rend="ligature">ημ</hi>ιτείβα</w>
+                    <lb n="2"/><w><supplied reason="lost">χ</supplied>ρηστὴ</w> <w>χαῖρε</w>
+                    <lb n="3"/><name>Μαννα</name> <w>τέκν<hi rend="small">ο</hi>ν</w>
+                    <lb n="4"/><space quantity="2" unit="character"/><w>χαῖρε</w> <space quantity="4" unit="character"/>
+                    <lb n="5"/><name>Mαννας</name> <w>γυναι
+                    <lb n="6" break="no"/><unclear>κ</unclear>ὶ</w> <w>καὶ</w> <w>τέκνῳ</w>
                 </ab>
             </div>
             <div type="apparatus">

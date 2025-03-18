@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -224,13 +224,13 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1"/><supplied reason="lost"><expan><abbr>I</abbr><ex>n</ex></expan></supplied> <supplied reason="lost"><expan><abbr>n</abbr><ex>o</ex><abbr>m</abbr><ex>ine</ex></expan></supplied> <supplied reason="lost"><expan><abbr>D</abbr><ex>omi</ex><abbr>ni</abbr></expan></supplied> <expan><abbr>Salv</abbr><ex>atoris</ex></expan> <supplied reason="lost"><expan><abbr>n</abbr><ex>ostri</ex></expan></supplied> <supplied reason="undefined" evidence="previouseditor"><expan><abbr>Ih</abbr><ex>esu</ex></expan></supplied> <supplied reason="undefined" evidence="previouseditor"><foreign xml:lang="la-Grec"><expan><abbr>Χρ</abbr><ex>ιστ</ex><abbr>ι</abbr></expan></foreign></supplied> <supplied reason="undefined" evidence="previouseditor">hic</supplied> <supplied reason="undefined" evidence="previouseditor">r</supplied>eq<supplied reason="undefined" evidence="previouseditor">uiescit</supplied> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <expan><abbr>n<supplied reason="lost">o</supplied>t</abbr><ex>arius</ex></expan> Eutych<supplied reason="lost">i</supplied><unclear>a</unclear>nae <supplied reason="lost">q</supplied>ui vixi<supplied reason="lost">t</supplied> <supplied reason="lost">annos</supplied>
-                    <lb n="3"/>quinquaginta <expan><abbr>sept</abbr><ex>em</ex></expan> e<supplied reason="lost">reptus</supplied> <supplied reason="lost">sep</supplied>
-                    <lb n="4" break="no"/>timo decimo <supplied reason="lost">d</supplied>ie mensi<supplied reason="lost">s</supplied> <supplied reason="lost">Maii</supplied> <supplied reason="lost">indicti</supplied>
-                    <lb n="5" break="no"/>one sexta. Qui le<supplied reason="lost">gi</supplied>s <supplied reason="lost">or</supplied>a <supplied reason="lost">pro </supplied> <supplied reason="lost">eo</supplied>
-                    <lb n="6"/>sic Deum <supplied reason="lost">h</supplied>abeas adiut<supplied reason="lost">orem</supplied>
-            </ab>
+                    <lb n="1"/><w><supplied reason="lost"><expan><abbr>I</abbr><ex>n</ex></expan></supplied></w> <w><supplied reason="lost"><expan><abbr>n</abbr><ex>o</ex><abbr>m</abbr><ex>ine</ex></expan></supplied></w> <name><supplied reason="lost"><expan><abbr>D</abbr><ex>omi</ex><abbr>ni</abbr></expan></supplied></name> <name><expan><abbr>Salv</abbr><ex>atoris</ex></expan></name> <w><supplied reason="lost"><expan><abbr>n</abbr><ex>ostri</ex></expan></supplied></w> <name><supplied reason="undefined" evidence="previouseditor"><expan><abbr>Ih</abbr><ex>esu</ex></expan></supplied></name> <name><supplied reason="undefined" evidence="previouseditor"><foreign xml:lang="la-Grec"><expan><abbr>Χρ</abbr><ex>ιστ</ex><abbr>ι</abbr></expan></foreign></supplied></name> <w><supplied reason="undefined" evidence="previouseditor">hic</supplied></w> <w><supplied reason="undefined" evidence="previouseditor">r</supplied>eq<supplied reason="undefined" evidence="previouseditor">uiescit</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w><expan><abbr>n<supplied reason="lost">o</supplied>t</abbr><ex>arius</ex></expan></w> <name>Eutych<supplied reason="lost">i</supplied><unclear>a</unclear>nae</name> <w><supplied reason="lost">q</supplied>ui</w> <w>vixi<supplied reason="lost">t</supplied></w> <w><supplied reason="lost">annos</supplied></w>
+                    <lb n="3"/><w>quinquaginta</w> <w><expan><abbr>sept</abbr><ex>em</ex></expan></w> <w>e<supplied reason="lost">reptus</supplied></w> <w><supplied reason="lost">sep</supplied>
+                    <lb n="4" break="no"/>timo</w> <w>decimo</w> <w><supplied reason="lost">d</supplied>ie</w> <w>mensi<supplied reason="lost">s</supplied></w> <name><supplied reason="lost">Maii</supplied></name> <w><supplied reason="lost">indicti</supplied>
+                    <lb n="5" break="no"/>one</w> <w>sexta.</w> <name>Qui</name> <w>le<supplied reason="lost">gi</supplied>s</w> <w><supplied reason="lost">or</supplied>a</w> <w><supplied reason="lost">pro</supplied></w> <w><supplied reason="lost">eo</supplied></w>
+                    <lb n="6"/><w>sic</w> <name>Deum</name> <w><supplied reason="lost">h</supplied>abeas</w> <w>adiut<supplied reason="lost">orem</supplied></w>
+                </ab>
             </div>
             <div type="apparatus">
                 <listApp><app><note>Preliminary text after Rizzone 2008, pending autopsy</note></app></listApp>

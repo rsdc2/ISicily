@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -202,10 +202,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1"/>Λαμνα <g ref="#interpunct">·</g> Κορ
-                    <lb n="2" break="no"/>νηλι <g ref="#interpunct">·</g> Ἀλκίνων
-                    <lb n="3"/>χρηστὲ χαῖρε
-                    <lb n="4"/>ἔζησεν <g ref="#interpunct">·</g> ἔτη
+                    <lb n="1"/><w>Λαμνα</w> <g ref="#interpunct">·</g> <name>Κορ
+                    <lb n="2" break="no"/>νηλι</name> <g ref="#interpunct">·</g> <name>Ἀλκίνων</name>
+                    <lb n="3"/><w>χρηστὲ</w> <w>χαῖρε</w>
+                    <lb n="4"/><w>ἔζησεν</w> <g ref="#interpunct">·</g> <w>ἔτη</w>
                     <lb n="5"/><g ref="#ivy-leaf">❦</g> <num value="32">λβ</num> <g ref="#ivy-leaf">❦</g>
                 </ab>
             </div>

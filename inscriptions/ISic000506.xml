@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -193,11 +193,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
-                    <lb n="1"/><name><expan><abbr>Ti</abbr><ex>berio</ex></expan></name> <g ref="#interpunct">·</g> <name>Caesari</name> <g ref="#interpunct">·</g> divi <name><expan><abbr>A<supplied reason="lost">ug</supplied></abbr><ex>usti</ex></expan></name> <supplied reason="lost"><expan><abbr>f</abbr><ex>ilio</ex></expan></supplied>
-                    <lb n="2"/>divi <g ref="#interpunct">·</g> <name>Iuli</name> <expan><abbr>n</abbr><ex>epoti</ex></expan> <g ref="#interpunct">·</g> Augusto
-                    <lb n="3"/><roleName type="supracivic.religious" subtype="pontifex.maximus"><expan><abbr>pontif</abbr><ex>ici</ex></expan> <g ref="#interpunct">·</g> <expan><abbr>max</abbr><ex>imo</ex></expan></roleName> <g ref="#interpunct">·</g> <roleName type="supracivic" subtype="consul"><expan><abbr>co</abbr><ex>n</ex><abbr>s</abbr><ex>uli</ex></expan></roleName> <g ref="#interpunct">·</g> <num value="3">III</num> <roleName type="supracivic" subtype="imperator"><expan><abbr>Imp</abbr><ex>eratori</ex></expan></roleName> <g ref="#interpunct">·</g> <num value="8"><hi rend="supraline">VIII</hi></num>
-                    <lb n="4"/><roleName type="supracivic" subtype="tribunicia.potestas"><expan><abbr>trib</abbr><ex>unicia</ex></expan> <g ref="#interpunct">·</g> <expan><abbr>potest</abbr><ex>ate</ex></expan></roleName> <g ref="#interpunct">·</g> <num value="20"><hi rend="supraline">XX</hi></num>
-                    <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/><orig>HACLIO</orig><gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><name><expan><abbr>Ti</abbr><ex>berio</ex></expan></name> <g ref="#interpunct">·</g> <name>Caesari</name> <g ref="#interpunct">·</g> <w>divi</w> <name><expan><abbr>A<supplied reason="lost">ug</supplied></abbr><ex>usti</ex></expan></name> <w><supplied reason="lost"><expan><abbr>f</abbr><ex>ilio</ex></expan></supplied></w>
+                    <lb n="2"/><w>divi</w> <g ref="#interpunct">·</g> <name>Iuli</name> <w><expan><abbr>n</abbr><ex>epoti</ex></expan></w> <g ref="#interpunct">·</g> <name>Augusto</name>
+                    <lb n="3"/><roleName type="supracivic.religious" subtype="pontifex.maximus"><w><expan><abbr>pontif</abbr><ex>ici</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>max</abbr><ex>imo</ex></expan></w></roleName> <g ref="#interpunct">·</g> <roleName type="supracivic" subtype="consul"><w><expan><abbr>co</abbr><ex>n</ex><abbr>s</abbr><ex>uli</ex></expan></w></roleName> <g ref="#interpunct">·</g> <num value="3">III</num> <roleName type="supracivic" subtype="imperator"><name><expan><abbr>Imp</abbr><ex>eratori</ex></expan></name></roleName> <g ref="#interpunct">·</g> <num value="8"><hi rend="supraline">VIII</hi></num>
+                    <lb n="4"/><roleName type="supracivic" subtype="tribunicia.potestas"><w><expan><abbr>trib</abbr><ex>unicia</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>potest</abbr><ex>ate</ex></expan></w></roleName> <g ref="#interpunct">·</g> <num value="20"><hi rend="supraline">XX</hi></num>
+                    <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/> <orig>HACLIO</orig><gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>
             <div type="apparatus">

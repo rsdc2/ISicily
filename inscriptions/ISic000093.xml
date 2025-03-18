@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -123,7 +123,7 @@
                                 </dimensions>
                                 <locus from="line6" to="line6">Line 6</locus>
                                 <dimensions type="letterHeight">
-                                    <height unit="mm" atLeast="78" atMost="85" >78-85</height>
+                                    <height unit="mm" atLeast="78" atMost="85">78-85</height>
                                 </dimensions>
                                 <locus from="line7" to="line7">Line 7</locus>
                                 <dimensions type="letterHeight">
@@ -232,13 +232,13 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#TA #AA">
                 <ab>
-                    <lb n="1" xml:id="AJeAK"/><persName type="attested" xml:id="AJeAU"><name xml:id="AJeAe">Titiano</name></persName> <g ref="#interpunct" xml:id="AJeAo">·</g> <roleName type="supracivic" subtype="clarissimus" xml:id="AJeAy"><w xml:id="AJeAΙ"><expan xml:id="AJeAΤ"><abbr xml:id="AJeAε">c</abbr><ex xml:id="AJeAο">larissimo</ex></expan></w></roleName> <g ref="#interpunct" xml:id="AJeBA">·</g> <w xml:id="AJeBK"><expan xml:id="AJeBU"><abbr xml:id="AJeBe">f</abbr><ex xml:id="AJeBo">ilio</ex></expan></w> <g ref="#interpunct" xml:id="AJeBy">·</g> <persName type="attested" xml:id="AJeBΙ"><name xml:id="AJeBΤ"><expan xml:id="AJeBε"><abbr xml:id="AJeBο">C</abbr><ex xml:id="AJeCA">ai</ex></expan></name> <g ref="#interpunct" xml:id="AJeCK">·</g> <name xml:id="AJeCU"><expan xml:id="AJeCe"><abbr xml:id="AJeCo">Maesi</abbr><ex xml:id="AJeCy">i</ex></expan></name> 
-                    <lb n="2" xml:id="AJeCΙ"/><name xml:id="AJeCΤ">Titiani</name></persName> <g ref="#interpunct" xml:id="AJeCε">·</g> <w xml:id="AJeCο">et</w> <persName type="attested" xml:id="AJeDA"><name xml:id="AJeDK">Fonteiae</name> 
+                    <lb n="1" xml:id="AJeAK"/><persName type="attested" xml:id="AJeAU"><name xml:id="AJeAe">Titiano</name></persName> <g ref="#interpunct" xml:id="AJeAo">·</g> <roleName type="supracivic" subtype="clarissimus" xml:id="AJeAy"><w xml:id="AJeAΙ"><expan xml:id="AJeAΤ"><abbr xml:id="AJeAε">c</abbr><ex xml:id="AJeAο">larissimo</ex></expan></w></roleName> <g ref="#interpunct" xml:id="AJeBA">·</g> <w xml:id="AJeBK"><expan xml:id="AJeBU"><abbr xml:id="AJeBe">f</abbr><ex xml:id="AJeBo">ilio</ex></expan></w> <g ref="#interpunct" xml:id="AJeBy">·</g> <persName type="attested" xml:id="AJeBΙ"><name xml:id="AJeBΤ"><expan xml:id="AJeBε"><abbr xml:id="AJeBο">C</abbr><ex xml:id="AJeCA">ai</ex></expan></name> <g ref="#interpunct" xml:id="AJeCK">·</g> <name xml:id="AJeCU"><expan xml:id="AJeCe"><abbr xml:id="AJeCo">Maesi</abbr><ex xml:id="AJeCy">i</ex></expan></name>
+                    <lb n="2" xml:id="AJeCΙ"/><name xml:id="AJeCΤ">Titiani</name></persName> <g ref="#interpunct" xml:id="AJeCε">·</g> <w xml:id="AJeCο">et</w> <persName type="attested" xml:id="AJeDA"><name xml:id="AJeDK">Fonteiae</name>
                     <lb n="3" xml:id="AJeDU"/><name xml:id="AJeDe">Frontinae</name></persName> <g ref="#interpunct" xml:id="AJeDo">·</g> <roleName type="supracivic" subtype="consularis" xml:id="AJeDy"><w xml:id="AJeDΙ">consu
-                    <lb n="4" break="no" xml:id="AJeDΤ"/>larium</w></roleName> <g ref="#interpunct" xml:id="AJeDε">·</g> <w xml:id="AJeDο">filio</w> <g ref="#ivy-leaf" xml:id="AJeEA"/> 
+                    <lb n="4" break="no" xml:id="AJeDΤ"/>larium</w></roleName> <g ref="#interpunct" xml:id="AJeDε">·</g> <w xml:id="AJeDο">filio</w> <g ref="#ivy-leaf" xml:id="AJeEA"/>
                     <lb n="5" xml:id="AJeEK"/><roleName type="supracivic" subtype="patricius" xml:id="AJeEU"><w xml:id="AJeEe">patricio</w></roleName> <g ref="#interpunct" xml:id="AJeEo">·</g> <w xml:id="AJeEy">ob</w> <w xml:id="AJeEΙ">hono
-                    <lb n="6" break="no" xml:id="AJeEΤ"/>rem</w> <w xml:id="AJeEε">togae</w> <g ref="#interpunct" xml:id="AJeEο">·</g> <w xml:id="AJeFA">virilis</w> 
-                    <lb n="7" xml:id="AJeFK"/><persName type="attested" xml:id="AJeFU"><name xml:id="AJeFe">Clodius</name> <name xml:id="AJeFo">Rufus</name></persName> <roleName type="supracivic" subtype="eques" xml:id="AJeFε"><w xml:id="AJeFο">eques</w></roleName> <w xml:id="AJeGA">romanus</w> 
+                    <lb n="6" break="no" xml:id="AJeEΤ"/>rem</w> <w xml:id="AJeEε">togae</w> <g ref="#interpunct" xml:id="AJeEο">·</g> <w xml:id="AJeFA">virilis</w>
+                    <lb n="7" xml:id="AJeFK"/><persName type="attested" xml:id="AJeFU"><name xml:id="AJeFe">Clodius</name> <name xml:id="AJeFo">Rufus</name></persName> <roleName type="supracivic" subtype="eques" xml:id="AJeFε"><w xml:id="AJeFο">eques</w></roleName> <w xml:id="AJeGA">romanus</w>
                     <lb n="8" xml:id="AJeGK"/><w xml:id="AJeGU">amico</w> <w xml:id="AJeGe">suo</w> <g ref="#interpunct" xml:id="AJeGo">·</g> <w xml:id="AJeGy">incomparabile</w>
                 </ab>
             </div>

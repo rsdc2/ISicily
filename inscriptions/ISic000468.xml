@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -191,11 +191,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la">
                 <ab>
-                    <lb n="1"/><expan><abbr>Caesarib</abbr><ex>us</ex></expan>
-                    <lb n="2"/>sacrum
-                    <lb n="3"/><persName type="attested"><name><expan><abbr>L</abbr><ex>ucius</ex></expan></name> <name>Caelius</name> <persName type="attested"><name><expan><abbr>M</abbr><ex>arci</ex></expan></name> <expan><abbr>f</abbr><ex>ilius</ex></expan></persName>
-                     <lb n="4"/><name>Quadratus</name></persName>
-                    <lb n="5"/><expan><abbr>d</abbr><ex>e</ex></expan> <expan><abbr>s</abbr><ex>ua</ex></expan> <expan><abbr>p</abbr><ex>ecunia</ex></expan>
+                    <lb n="1"/><w><expan><abbr>Caesarib</abbr><ex>us</ex></expan></w>
+                    <lb n="2"/><w>sacrum</w>
+                    <lb n="3"/><persName type="attested"><name><expan><abbr>L</abbr><ex>ucius</ex></expan></name> <name>Caelius</name> <persName type="attested"><name><expan><abbr>M</abbr><ex>arci</ex></expan></name> <w><expan><abbr>f</abbr><ex>ilius</ex></expan></w></persName>
+                    <lb n="4"/><name>Quadratus</name></persName>
+                    <lb n="5"/><w><expan><abbr>d</abbr><ex>e</ex></expan></w> <w><expan><abbr>s</abbr><ex>ua</ex></expan></w> <w><expan><abbr>p</abbr><ex>ecunia</ex></expan></w>
                 </ab>
             </div>
             <div type="apparatus">

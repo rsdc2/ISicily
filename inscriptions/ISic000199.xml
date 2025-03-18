@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -192,9 +192,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#VM">
                 <ab>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <name>Mevio</name> <name><w part="I">Fro</w></name><gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><w part="F">enti</w> agro <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/><expan><abbr>lat</abbr><ex>um</ex></expan> <g ref="#interpunct">·</g> <expan><abbr>p</abbr><ex>edes</ex></expan> <g ref="#interpunct">·</g> <num value="16">XVI</num> <g ref="#interpunct">·</g> <expan><abbr>p</abbr><ex>edes</ex></expan> <g ref="#interpunct">·</g> <num value="40">XL</num> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <name>Mevio</name> <name><name part="I">Fro</name></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w part="F">enti</w> <w>agro</w> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <w><expan><abbr>lat</abbr><ex>um</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>p</abbr><ex>edes</ex></expan></w> <g ref="#interpunct">·</g> <num value="16">XVI</num> <g ref="#interpunct">·</g> <w><expan><abbr>p</abbr><ex>edes</ex></expan></w> <g ref="#interpunct">·</g> <num value="40">XL</num> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>
             <div type="apparatus">
@@ -203,10 +203,10 @@
                 </listApp>
             </div>
             <div type="translation">
-                <p></p>
+                <p/>
             </div>
             <div type="commentary">
-                <p></p>
+                <p/>
             </div>
             <div type="bibliography">
                 <listBibl type="edition">

@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -191,11 +191,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#VM">
                 <ab>
-                    <lb n="1"/><g ref="#cross_uninterpreted"/> <hi rend="supraline">Mem</hi>o<supplied reason="lost">ria</supplied>
+                    <lb n="1"/><g ref="#cross_uninterpreted"/> <w><hi rend="supraline">Mem</hi>o<supplied reason="lost">ria</supplied></w>
                     <lb n="1a"/><space extent="unknown" unit="line"/>
-                    <lb n="2"/>Ianua
-                    <lb n="3" break="no"/>rii <expan><abbr>d</abbr><ex>omni</ex></expan> <expan><abbr>n</abbr><ex>ostri</ex></expan> Gen
-                    <lb n="4" break="no"/>tionis <supplied reason="subaudible">servi</supplied>
+                    <lb n="2"/><name>Ianua
+                    <lb n="3" break="no"/>rii</name> <w><expan><abbr>d</abbr><ex>omni</ex></expan></w> <w><expan><abbr>n</abbr><ex>ostri</ex></expan></w> <name>Gen
+                    <lb n="4" break="no"/>tionis</name> <w><supplied reason="subaudible">servi</supplied></w>
                 </ab>
             </div>
             <div type="apparatus">

@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -176,10 +176,10 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#AJ">
                 <ab>
                     <lb n="1"/><persName type="attested"><name>Πετρώνιος</name> <name>Διονύσις</name></persName>
-                    <lb n="2"/>ζῆσας καλῶς ἒτη <space quantity="1" unit="character"/> <num value="80">π</num>
-                    <lb n="3"/>μῆνας <num value="6">ἓξ</num> ἡμέρας <num value="15">ιε</num>
-                    <lb n="4"/>ἐτελεύτησεν πρὸ <num value="7">ζ</num> <expan><abbr>εἰδ</abbr><ex>ῶν</ex></expan>
-                    <lb n="5"/>ἰουλίων καὶ ἐνθάδε κεῖτε
+                    <lb n="2"/><w>ζῆσας</w> <w>καλῶς</w> <w>ἒτη</w> <space quantity="1" unit="character"/><num value="80">π</num>
+                    <lb n="3"/><w>μῆνας</w> <num value="6">ἓξ</num> <w>ἡμέρας</w> <num value="15">ιε</num>
+                    <lb n="4"/><w>ἐτελεύτησεν</w> <w>πρὸ</w> <num value="7">ζ</num> <w><expan><abbr>εἰδ</abbr><ex>ῶν</ex></expan></w>
+                    <lb n="5"/><w>ἰουλίων</w> <w>καὶ</w> <w>ἐνθάδε</w> <w>κεῖτε</w>
                 </ab>
             </div>
             <div type="apparatus">

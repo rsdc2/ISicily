@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -192,19 +192,19 @@
     <text>
         <body>
     <div type="edition" xml:space="preserve" xml:lang="la" resp="#TA">
-        <ab>
-            <lb n="1"/>numini
-            <lb n="2"/>praesen
-            <lb n="3" break="no"/>tissimo
-            <lb n="4"/><supplied reason="lost">A</supplied>esculapio
-            <lb n="5"/><supplied reason="lost">R</supplied>oscius Ae
-            <lb n="6" break="no"/><supplied reason="lost">li</supplied>anus Salviu<supplied reason="lost">s</supplied>
-            <lb n="7"/><expan><abbr>u</abbr><ex>t</ex></expan> <expan><abbr>v</abbr><ex>overat</ex></expan> <expan><abbr>r</abbr><ex>estituta</ex></expan> <expan><abbr>s</abbr><ex>alute</ex></expan>
-            <lb n="8"/><supplied reason="lost">li</supplied>bens <expan><abbr>d</abbr><ex>onum</ex></expan> <expan><abbr>d</abbr><ex>edit</ex></expan>
-            <lb n="9"/> Nonis <expan><abbr>Mart</abbr><ex>iis</ex></expan>
-            <lb n="10"/><supplied reason="lost">Al</supplied>bino et M<supplied reason="lost">aximo</supplied>
-            <lb n="11"/><roleName type="supracivic" subtype="consul"><expan><abbr>co</abbr><ex>n</ex><supplied reason="lost"><abbr>s<am>s</am></abbr><ex>ulibus</ex></supplied></expan></roleName>
-        </ab>
+                <ab>
+                    <lb n="1"/><w>numini</w>
+                    <lb n="2"/><w>praesen
+                    <lb n="3" break="no"/>tissimo</w>
+                    <lb n="4"/><name><supplied reason="lost">A</supplied>esculapio</name>
+                    <lb n="5"/><name><supplied reason="lost">R</supplied>oscius</name> <name>Ae
+                    <lb n="6" break="no"/><supplied reason="lost">li</supplied>anus</name> <name>Salviu<supplied reason="lost">s</supplied></name>
+                    <lb n="7"/><w><expan><abbr>u</abbr><ex>t</ex></expan></w> <w><expan><abbr>v</abbr><ex>overat</ex></expan></w> <w><expan><abbr>r</abbr><ex>estituta</ex></expan></w> <w><expan><abbr>s</abbr><ex>alute</ex></expan></w>
+                    <lb n="8"/><w><supplied reason="lost">li</supplied>bens</w> <w><expan><abbr>d</abbr><ex>onum</ex></expan></w> <w><expan><abbr>d</abbr><ex>edit</ex></expan></w>
+                    <lb n="9"/><name>Nonis</name> <name><expan><abbr>Mart</abbr><ex>iis</ex></expan></name>
+                    <lb n="10"/><name><supplied reason="lost">Al</supplied>bino</name> <w>et</w> <name>M<supplied reason="lost">aximo</supplied></name>
+                    <lb n="11"/><roleName type="supracivic" subtype="consul"><w><expan><abbr>co</abbr><ex>n</ex><supplied reason="lost"><abbr>s<am>s</am></abbr><ex>ulibus</ex></supplied></expan></w></roleName>
+                </ab>
     </div>
             <div type="apparatus">
                 <listApp>

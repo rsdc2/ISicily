@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -203,10 +203,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1" xml:id="BrAAK"/><w xml:id="BrAAU">Θέϋλλος</w> <w xml:id="BrAAe">Πυρρία</w> 
-                    <lb n="2" xml:id="BrAAo"/><w xml:id="BrAAy">ἀνέθε̄κε</w> <w xml:id="BrAAΙ">τᾶι</w> 
-                    <lb n="3" xml:id="BrAAΤ"/><w xml:id="BrAAε">Μαλοφόρο̄ι</w> 
-                    <lb n="4" xml:id="BrAAο"/><w xml:id="BrABA">Εὔραν</w> <w xml:id="BrABK">ἐν</w> <w xml:id="BrABU">πελά
+                    <lb n="1" xml:id="BrAAK"/><w xml:id="BrAAU">Θέϋλλος</w> <name xml:id="BrAAe">Πυρρία</name>
+                    <lb n="2" xml:id="BrAAo"/><w xml:id="BrAAy">ἀνέθε̄κε</w> <w xml:id="BrAAΙ">τᾶι</w>
+                    <lb n="3" xml:id="BrAAΤ"/><name xml:id="BrAAε">Μαλοφόρο̄ι</name>
+                    <lb n="4" xml:id="BrAAο"/><name xml:id="BrABA">Εὔραν</name> <w xml:id="BrABK">ἐν</w> <w xml:id="BrABU">πελά
                     <lb n="5" break="no" xml:id="BrABe"/>γει</w>
                 </ab>
             </div>

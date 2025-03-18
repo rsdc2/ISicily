@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -195,14 +195,14 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/>ἐνθάδε κῖ
-                    <lb n="2" break="no"/>τε Εὐτύχης
-                    <lb n="3"/>ζήσας <surplus>ας</surplus> ἀμέ<supplied reason="omitted">μ</supplied>
-                    <lb n="4" break="no"/>πτως ἔτη
-                    <lb n="5"/><num value="25">κε</num> χώρι δ’ ἰ<supplied reason="omitted">ς</supplied>
-                    <lb n="6"/>χώραν <choice><reg>δικά</reg><orig>δικέ</orig></choice>
-                    <lb n="7" break="no"/>ων τῇ <supplied reason="omitted">πρὸ</supplied> <num value="1">α</num> <expan><abbr>εἰδ</abbr><ex>ῶν</ex></expan>
-                    <lb n="8"/><supplied reason="lost">Ἰαν</supplied>ουαρίων
+                    <lb n="1"/><w>ἐνθάδε</w> <w>κῖ
+                    <lb n="2" break="no"/>τε</w> <name>Εὐτύχης</name>
+                    <lb n="3"/><w>ζήσας</w> <w><surplus>ας</surplus></w> <w>ἀμέ<supplied reason="omitted">μ</supplied>
+                    <lb n="4" break="no"/>πτως</w> <w>ἔτη</w>
+                    <lb n="5"/><num value="25">κε</num> <w>χώρι</w> <w>δ’</w> <w>ἰ<supplied reason="omitted">ς</supplied></w>
+                    <lb n="6"/><w>χώραν</w> <w><choice><reg>δικά</reg><orig>δικέ</orig></choice>
+                    <lb n="7" break="no"/>ων</w> <w>τῇ</w> <w><supplied reason="omitted">πρὸ</supplied></w> <num value="1">α</num> <w><expan><abbr>εἰδ</abbr><ex>ῶν</ex></expan></w>
+                    <lb n="8"/><name><supplied reason="lost">Ἰαν</supplied>ουαρίων</name>
                 </ab>
             </div>
             <div type="apparatus">

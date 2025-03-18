@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -190,11 +190,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><orig>ΙΕ</orig>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><orig>ΔΕ</orig>
-                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/><orig>ΡΤΙ</orig>
-                    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/><orig><unclear>Ϲ</unclear>ΤΑ</orig>
-                    <lb n="5"/><supplied reason="lost"><roleName type="supracivic" subtype="consul"><expan><abbr>ὑπ</abbr><ex>ατίᾳ</ex></expan></roleName></supplied> <supplied reason="lost">Βαλεντινιανοῦ</supplied> <supplied reason="lost">καὶ</supplied> <supplied reason="lost">Βικτ</supplied>ορίου
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <orig>ΙΕ</orig>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <orig>ΔΕ</orig>
+                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <orig>ΡΤΙ</orig>
+                    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <orig><unclear>Ϲ</unclear>ΤΑ</orig>
+                    <lb n="5"/><w><supplied reason="lost"><roleName type="supracivic" subtype="consul"><expan><abbr>ὑπ</abbr><ex>ατίᾳ</ex></expan></roleName></supplied></w> <name><supplied reason="lost">Βαλεντινιανοῦ</supplied></name> <w><supplied reason="lost">καὶ</supplied></w> <name><supplied reason="lost">Βικτ</supplied>ορίου</name>
                 </ab>
             </div>
             <div type="apparatus">

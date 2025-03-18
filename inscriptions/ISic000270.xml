@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -193,10 +193,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
-                    <lb n="1"/>Aristo · Claudiae
-                    <lb n="2"/>Aristeni · matri
-                    <lb n="3"/>suae · bene · merenti
-                    <lb n="4"/>fecit · vixit <expan><abbr>ann</abbr><ex>is</ex></expan> · <num value="54">L · IIII</num>
+                    <lb n="1"/><w>Aristo</w> <g ref="#interpunct">·</g> <name>Claudiae</name>
+                    <lb n="2"/><name>Aristeni</name> <g ref="#interpunct">·</g> <w>matri</w>
+                    <lb n="3"/><w>suae</w> <g ref="#interpunct">·</g> <w>bene</w> <g ref="#interpunct">·</g> <w>merenti</w>
+                    <lb n="4"/><w>fecit</w> <g ref="#interpunct">·</g> <w>vixit</w> <w><expan><abbr>ann</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <num value="54">L · IIII</num>
                 </ab>
             </div>
             <div type="apparatus">

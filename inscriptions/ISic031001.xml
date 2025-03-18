@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -180,25 +180,25 @@
    <text>
       <body>
          <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
-            <div type="textpart" subtype="obverse">
-            <ab>
-               <lb n="1" style="text-direction:l-to-r"/>τὰν Ε<supplied reason="lost">ὐ</supplied>κλέος <choice><orig>γλο͂σαν</orig><reg>γλο͂σσαν</reg></choice> κ
-               <lb n="2" style="text-direction:r-to-l" break="no"/>αὶ τὰν Ἀριστοφάνιος
-               <lb n="3" style="text-direction:l-to-r"/>καὶ τ<unclear>ὰ</unclear>ν Ἀνγείλιος κα
-	   <lb n="4" style="text-direction:r-to-l" break="no"/>ὶ τ<supplied reason="lost">ὰν</supplied> Ἀλκ<supplied reason="lost">ί</supplied>φρ<unclear>ο</unclear>νο<supplied reason="lost">ς</supplied> κ
-	   <lb n="5" style="text-direction:l-to-r" break="no"/>αὶ τὰν ͱαγεστράτο̄ · <unclear>τ</unclear>ο͂
-	   <lb n="6" style="text-direction:r-to-l" break="no"/>ν <choice><orig>συνδίϙο̄ν</orig><reg>συνδίκων</reg></choice>  <unclear>τ</unclear>ο͂<unclear>ν</unclear> <supplied reason="lost">Ε</supplied>ὐ<supplied reason="lost">κ</supplied>λί
-	   <lb n="7" style="text-direction:l-to-r" break="no"/>ος κα<supplied reason="lost">ὶ</supplied> <supplied reason="lost">τ</supplied>ο͂<unclear>ν</unclear> Ἀριστοφάνε
-	   <lb n="8" style="text-direction:r-to-l" break="no"/>ος <supplied reason="lost">τὰς</supplied> <choice><orig><supplied reason="lost">γ</supplied>λο̄́<supplied reason="lost">σ</supplied>ας</orig><reg><supplied reason="lost">γ</supplied>λο̄́<supplied reason="lost">σσ</supplied>ας</reg></choice> κα<supplied reason="lost">ὶ</supplied> <supplied reason="lost">τ</supplied>ὰν
-               <lb n="9" style="text-direction:l-to-r"/><gap reason="lost" unit="character" quantity="4"/>λ<gap reason="lost" unit="character" quantity="1"/>ονος <supplied reason="lost"><choice><orig>γλο͂σαν</orig><reg>γλο͂σσαν</reg></choice></supplied>
-            </ab>
-         </div>
-            <div type="textpart" subtype="reverse">
-               <ab>
-                  <lb n="10" style="text-direction:l-to-r"/>καὶ τὰν Ο<supplied reason="lost">ἰ</supplied>ν<unclear>ο</unclear><supplied reason="lost">θ</supplied><unclear>έ</unclear>ο̄ καὶ τ
-                  <lb n="11" style="text-direction:r-to-l" break="no"/>ὰν <unclear>Α</unclear><gap reason="lost" unit="character" quantity="3"/> <choice><orig><supplied reason="lost">γ</supplied><unclear>λ</unclear>ο͂<supplied reason="lost">σ</supplied>αν</orig><reg><supplied reason="lost">γ</supplied><unclear>λ</unclear>ο͂<supplied reason="lost">σσ</supplied>αν</reg></choice>
-               </ab>
-            </div>
+                <div type="textpart" subtype="obverse">
+                    <ab>
+                        <lb n="1" style="text-direction:l-to-r"/><w>τὰν</w> <name>Ε<supplied reason="lost">ὐ</supplied>κλέος</name> <w><choice><orig>γλο͂σαν</orig><reg>γλο͂σσαν</reg></choice></w> <w>κ
+                        <lb n="2" style="text-direction:r-to-l" break="no"/>αὶ</w> <w>τὰν</w> <name>Ἀριστοφάνιος</name>
+                        <lb n="3" style="text-direction:l-to-r"/><w>καὶ</w> <w>τ<unclear>ὰ</unclear>ν</w> <name>Ἀνγείλιος</name> <w>κα
+                        <lb n="4" style="text-direction:r-to-l" break="no"/>ὶ</w> <w>τ<supplied reason="lost">ὰν</supplied></w> <name>Ἀλκ<supplied reason="lost">ί</supplied>φρ<unclear>ο</unclear>νο<supplied reason="lost">ς</supplied></name> <w>κ
+                        <lb n="5" style="text-direction:l-to-r" break="no"/>αὶ</w> <w>τὰν</w> <w>ͱαγεστράτο̄</w> <g ref="#interpunct">·</g> <w><unclear>τ</unclear>ο͂
+                        <lb n="6" style="text-direction:r-to-l" break="no"/>ν</w> <w><choice><orig>συνδίϙο̄ν</orig><reg>συνδίκων</reg></choice></w> <w><unclear>τ</unclear>ο͂<unclear>ν</unclear></w> <name><supplied reason="lost">Ε</supplied>ὐ<supplied reason="lost">κ</supplied>λί
+                        <lb n="7" style="text-direction:l-to-r" break="no"/>ος</name> <w>κα<supplied reason="lost">ὶ</supplied></w> <w><supplied reason="lost">τ</supplied>ο͂<unclear>ν</unclear></w> <name>Ἀριστοφάνε
+                        <lb n="8" style="text-direction:r-to-l" break="no"/>ος</name> <w><supplied reason="lost">τὰς</supplied></w> <w><choice><orig><supplied reason="lost">γ</supplied>λο̄́<supplied reason="lost">σ</supplied>ας</orig><reg><supplied reason="lost">γ</supplied>λο̄́<supplied reason="lost">σσ</supplied>ας</reg></choice></w> <w>κα<supplied reason="lost">ὶ</supplied></w> <w><supplied reason="lost">τ</supplied>ὰν</w>
+                        <lb n="9" style="text-direction:l-to-r"/><gap reason="lost" unit="character" quantity="4"/> <w>λ</w> <gap reason="lost" unit="character" quantity="1"/> <w>ονος</w> <w><supplied reason="lost"><choice><orig>γλο͂σαν</orig><reg>γλο͂σσαν</reg></choice></supplied></w>
+                    </ab>
+                </div>
+                <div type="textpart" subtype="reverse">
+                    <ab>
+                        <lb n="10" style="text-direction:l-to-r"/><w>καὶ</w> <w>τὰν</w> <name>Ο<supplied reason="lost">ἰ</supplied>ν<unclear>ο</unclear><supplied reason="lost">θ</supplied><unclear>έ</unclear>ο̄</name> <w>καὶ</w> <w>τ
+                        <lb n="11" style="text-direction:r-to-l" break="no"/>ὰν</w> <name><unclear>Α</unclear></name> <gap reason="lost" unit="character" quantity="3"/> <w><choice><orig><supplied reason="lost">γ</supplied><unclear>λ</unclear>ο͂<supplied reason="lost">σ</supplied>αν</orig><reg><supplied reason="lost">γ</supplied><unclear>λ</unclear>ο͂<supplied reason="lost">σσ</supplied>αν</reg></choice></w>
+                    </ab>
+                </div>
          </div>
          <div type="apparatus">
            <listApp>

@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -178,16 +178,16 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> ος ἀναλῳ<supplied reason="lost">μα</supplied> <gap reason="lost" extent="unknown" unit="character"/> 
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">κατ</supplied><unclear>α</unclear>λογὰν τᾶς πόλ<supplied reason="lost">ιος</supplied> <gap reason="lost" extent="unknown" unit="character"/> 
-                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/>ς ὥστε αὐτοὺς ἐν <gap reason="lost" extent="unknown" unit="character"/> 
-                    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/>εσθαι τάν τε παροχ<supplied reason="lost">ὰν</supplied> <gap reason="lost" extent="unknown" unit="character"/> 
-                    <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/> ἀπέλυσε <choice><corr>τᾶς</corr><sic>τες</sic></choice> π<unclear>α</unclear>ροχ<supplied reason="lost">ᾶς</supplied> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="6"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">τῶι δὲ</supplied> <supplied reason="lost">μουνι</supplied>κιπίωι τῶν Ἀκραγαντί<supplied reason="lost">νων</supplied> <supplied reason="lost">πάτριόν ἐστι καὶ ἐκ προγόνων</supplied>
-                    <lb n="7"/><supplied reason="lost">παραδεδο</supplied>μένον τιμεῖν τοὺς ἀ<supplied reason="lost">γαθοὺς</supplied> <supplied reason="lost">ἄνδρας</supplied> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="8"/><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">ἐ</supplied><unclear>π</unclear>ὶ ἀγαθᾷ τύχᾳ καὶ σω<supplied reason="lost">τηρίᾳ</supplied> <supplied reason="lost">τοῦ δάμου · δεδόχθαι τῶι</supplied> <supplied reason="lost">μου</supplied>
-                    <lb n="9" break="no"/><supplied reason="lost">νικιπίωι</supplied> <unclear>τ</unclear>ῶν Ἀκραγαντίν<supplied reason="lost">ων</supplied> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="10"/><supplied reason="lost">εἴμειν</supplied> <roleName type="paracivic" subtype="proxenos"><supplied reason="lost">πρόξε</supplied><unclear>ν</unclear>ον</roleName> καὶ <roleName type="paracivic" subtype="euergetes">εὐε<unclear>ρ</unclear><supplied reason="lost">γέταν</supplied></roleName> <gap reason="lost" extent="unknown" unit="character"/> 
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w>ος</w> <w>ἀναλῳ<supplied reason="lost">μα</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">κατ</supplied><unclear>α</unclear>λογὰν</w> <w>τᾶς</w> <w>πόλ<supplied reason="lost">ιος</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <w>ς</w> <w>ὥστε</w> <w>αὐτοὺς</w> <w>ἐν</w> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <w>εσθαι</w> <w>τάν</w> <w>τε</w> <w>παροχ<supplied reason="lost">ὰν</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/> <w>ἀπέλυσε</w> <w><choice><corr>τᾶς</corr><sic>τες</sic></choice></w> <w>π<unclear>α</unclear>ροχ<supplied reason="lost">ᾶς</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="6"/><gap reason="lost" extent="unknown" unit="character"/> <gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">τῶι δὲ</supplied></w> <w><supplied reason="lost">μουνι</supplied>κιπίωι</w> <w>τῶν</w> <name>Ἀκραγαντί<supplied reason="lost">νων</supplied></name> <w><supplied reason="lost">πάτριόν ἐστι καὶ ἐκ προγόνων</supplied></w>
+                    <lb n="7"/><w><supplied reason="lost">παραδεδο</supplied>μένον</w> <w>τιμεῖν</w> <w>τοὺς</w> <w>ἀ<supplied reason="lost">γαθοὺς</supplied></w> <w><supplied reason="lost">ἄνδρας</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="8"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">ἐ</supplied><unclear>π</unclear>ὶ</w> <w>ἀγαθᾷ</w> <w>τύχᾳ</w> <w>καὶ</w> <w>σω<supplied reason="lost">τηρίᾳ</supplied></w> <w><supplied reason="lost">τοῦ δάμου · δεδόχθαι τῶι</supplied></w> <w><supplied reason="lost">μου</supplied>
+                    <lb n="9" break="no"/><supplied reason="lost">νικιπίωι</supplied></w> <w><unclear>τ</unclear>ῶν</w> <name>Ἀκραγαντίν<supplied reason="lost">ων</supplied></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="10"/><w><supplied reason="lost">εἴμειν</supplied></w> <roleName type="paracivic" subtype="proxenos"><w><supplied reason="lost">πρόξε</supplied></w> <w><unclear>ν</unclear></w> <w>ον</w></roleName> <w>καὶ</w> <roleName type="paracivic" subtype="euergetes"><w>εὐε</w> <w><unclear>ρ</unclear></w> <w><supplied reason="lost">γέταν</supplied></w></roleName> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>
             <div type="apparatus" resp="#JP">

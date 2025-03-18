@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -219,16 +219,16 @@
                     <ab>
                         <cb n="1"/>
                         <lb n="1"/><persName><name><gap reason="lost" extent="unknown" unit="character"/><seg part="F"><unclear>μ</unclear>ε</seg></name></persName>
-                        <lb n="2"/><supplied reason="lost">χαῖ</supplied>ρε
-                        <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/><unclear>σ</unclear>τατε 
+                        <lb n="2"/><w><supplied reason="lost">χαῖ</supplied>ρε</w>
+                        <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <w><unclear>σ</unclear>τατε</w>
                     </ab>
-                </div>   
+                </div>
                 <div type="textpart" subtype="section" n="b">
                     <ab>
                         <cb n="2"/>
-                        <lb n="1"/><persName type="attested"><name>Νεμηνίδα</name>  
+                        <lb n="1"/><persName type="attested"><name>Νεμηνίδα</name>
                         <lb n="2"/><persName type="attested"><name type="patronym">Ἀριστοδάμου</name></persName></persName>
-                        <lb n="3"/>χαῖρε 
+                        <lb n="3"/><w>χαῖρε</w>
                     </ab>
                 </div>
                 <div type="textpart" subtype="section" n="c">
@@ -236,15 +236,15 @@
                         <cb n="3"/>
                         <lb n="1"/><persName type="attested"><name>Κλεοπάτρα</name>
                         <lb n="2"/><persName type="attested"><name type="gamoynm">Νεμηνίδα</name></persName></persName>
-                        <lb n="3"/>χαῖρε 
+                        <lb n="3"/><w>χαῖρε</w>
                     </ab>
                 </div>
                 <div type="textpart" subtype="section" n="d">
-                <ab>
-                    <lb n="1"/><persName><name><gap reason="lost" extent="unknown" unit="character"/><seg part="F">ε</seg></name></persName> μεγαλόδοξε <space atLeast="6" atMost="8" unit="character"/> <persName type="attested"><name>Νεμηνίδα</name></persName> σύνευνε δῖα <persName type="attested"><name>Κλεοπάτρα</name></persName>
-                    <lb n="2"/>Κούφη σεῖο <persName type="attested"><name>Νεμηνίδα</name></persName> γαῖ’ ὄστεα κεύθοι
-                    <lb n="3"/>Κούφη σ<supplied reason="omitted">ε</supplied>ῖο κέκευθε <persName type="attested"><name>Νεμινίδα</name></persName> ὄστεα γαῖα
-                </ab>
+                    <ab>
+                        <lb n="1"/><persName><name><gap reason="lost" extent="unknown" unit="character"/><seg part="F">ε</seg></name></persName> <w>μεγαλόδοξε</w> <space atLeast="6" atMost="8" unit="character"/><persName type="attested"><name>Νεμηνίδα</name></persName> <w>σύνευνε</w> <w>δῖα</w> <persName type="attested"><name>Κλεοπάτρα</name></persName>
+                        <lb n="2"/><name>Κούφη</name> <w>σεῖο</w> <persName type="attested"><name>Νεμηνίδα</name></persName> <w>γαῖ’</w> <w>ὄστεα</w> <w>κεύθοι</w>
+                        <lb n="3"/><name>Κούφη</name> <w>σ<supplied reason="omitted">ε</supplied>ῖο</w> <w>κέκευθε</w> <persName type="attested"><name>Νεμινίδα</name></persName> <w>ὄστεα</w> <w>γαῖα</w>
+                    </ab>
                 </div>    
             </div>
             <div type="apparatus" resp="#AA">

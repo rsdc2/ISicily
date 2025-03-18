@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -193,11 +193,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AR">
                 <ab>
-                    <lb n="1"/><roleName type="supracivic" subtype="imperator"><supplied reason="lost"><expan><abbr>imp</abbr><ex>eratori</ex></expan></supplied></roleName> <supplied reason="lost"><expan><abbr>caes</abbr><ex>ari</ex></expan></supplied> <supplied reason="lost">divi</supplied> <supplied reason="lost">traiani</supplied>
-                    <lb n="2"/><supplied reason="lost">parthi</supplied>ci <g ref="#interpunct">·</g> <expan><abbr>f</abbr><ex>ilio</ex></expan> <g ref="#interpunct">·</g> <name>Traiano</name> <name>Ha<supplied reason="lost">dri</supplied>
-                    <lb n="3" break="no"/><supplied reason="lost">an</supplied>o</name> <g ref="#interpunct">·</g> <expan><abbr>Aug</abbr><ex>usto</ex></expan> <roleName type="supracivic.religious" subtype="pontifex.maximus"><expan><abbr>pontif</abbr><ex>ici</ex></expan> <g ref="#interpunct">·</g>  <expan><abbr>max</abbr><ex>imo</ex></expan></roleName> <g ref="#interpunct">·</g> <roleName type="supracivic" subtype="tribunicia.potestas"><expan><abbr>trib</abbr><ex>unicia</ex></expan> <g ref="#interpunct">·</g>
-                    <lb n="4"/><expan><abbr>pot</abbr><ex>estate</ex></expan></roleName> <g ref="#interpunct">·</g> <num value="3">III</num> <g ref="#interpunct">·</g> <roleName type="supracivic" subtype="consul"><expan><abbr>co</abbr><ex>n</ex><abbr>s</abbr><ex>uli</ex></expan></roleName> <num value="3">III</num>
-                    <lb n="5"/><expan><abbr><unclear>l</unclear></abbr><ex>ocus</ex></expan> <expan><abbr>d</abbr><ex>atus</ex></expan> <expan><abbr>d</abbr><ex>ecreto</ex></expan> <roleName type="civic" subtype="decurio"><expan><abbr>d</abbr><ex>ecurionum</ex></expan></roleName>
+                    <lb n="1"/><roleName type="supracivic" subtype="imperator"><w><supplied reason="lost"><expan><abbr>imp</abbr><ex>eratori</ex></expan></supplied></w></roleName> <w><supplied reason="lost"><expan><abbr>caes</abbr><ex>ari</ex></expan></supplied></w> <w><supplied reason="lost">divi</supplied></w> <w><supplied reason="lost">traiani</supplied></w>
+                    <lb n="2"/><w><supplied reason="lost">parthi</supplied>ci</w> <g ref="#interpunct">·</g> <w><expan><abbr>f</abbr><ex>ilio</ex></expan></w> <g ref="#interpunct">·</g> <name>Traiano</name> <name>Ha<supplied reason="lost">dri</supplied>
+                    <lb n="3" break="no"/><supplied reason="lost">an</supplied>o</name> <g ref="#interpunct">·</g> <name><expan><abbr>Aug</abbr><ex>usto</ex></expan></name> <roleName type="supracivic.religious" subtype="pontifex.maximus"><w><expan><abbr>pontif</abbr><ex>ici</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>max</abbr><ex>imo</ex></expan></w></roleName> <g ref="#interpunct">·</g> <roleName type="supracivic" subtype="tribunicia.potestas"><w><expan><abbr>trib</abbr><ex>unicia</ex></expan></w> <g ref="#interpunct">·</g>
+                    <lb n="4"/><w><expan><abbr>pot</abbr><ex>estate</ex></expan></w></roleName> <g ref="#interpunct">·</g> <num value="3">III</num> <g ref="#interpunct">·</g> <roleName type="supracivic" subtype="consul"><w><expan><abbr>co</abbr><ex>n</ex><abbr>s</abbr><ex>uli</ex></expan></w></roleName> <num value="3">III</num>
+                    <lb n="5"/><w><expan><abbr><unclear>l</unclear></abbr><ex>ocus</ex></expan></w> <w><expan><abbr>d</abbr><ex>atus</ex></expan></w> <w><expan><abbr>d</abbr><ex>ecreto</ex></expan></w> <roleName type="civic" subtype="decurio"><w><expan><abbr>d</abbr><ex>ecurionum</ex></expan></w></roleName>
                 </ab>
             </div>
             <div type="apparatus">

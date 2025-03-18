@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -199,10 +199,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/><supplied reason="lost">Πόπλιος</supplied> <unclear>Κ</unclear>ορνήλι<supplied reason="lost">ος</supplied> <supplied reason="lost">Ποπλίου</supplied> <supplied reason="lost">υἱὸς</supplied> <supplied reason="lost">Σκιπίων</supplied>
-                    <lb n="2"/><supplied reason="lost">Ἀφρικα</supplied>νὸς <roleName type="supracivic" subtype="consul">ὕπατος</roleName> ἐ<supplied reason="lost">λῶν</supplied> <supplied reason="lost">Καρχηδόνα</supplied> <supplied reason="lost">κατά</supplied>
-                    <lb n="3"/><supplied reason="lost">κρά</supplied><unclear>τ</unclear>ος τοὺς ἐξ Ἱμέρ<supplied reason="lost">ας</supplied> <supplied reason="lost">ἀνδριάντας</supplied>
-                    <lb n="4"/>Ἱμεραίο<supplied reason="lost">ις</supplied><gap reason="lost" unit="character" extent="unknown"/>
+                    <lb n="1"/><w><supplied reason="lost">Πόπλιος</supplied></w> <name><unclear>Κ</unclear>ορνήλι<supplied reason="lost">ος</supplied></name> <name><supplied reason="lost">Ποπλίου</supplied></name> <w><supplied reason="lost">υἱὸς</supplied></w> <name><supplied reason="lost">Σκιπίων</supplied></name>
+                    <lb n="2"/><name><supplied reason="lost">Ἀφρικα</supplied>νὸς</name> <roleName type="supracivic" subtype="consul"><w>ὕπατος</w></roleName> <w>ἐ<supplied reason="lost">λῶν</supplied></w> <name><supplied reason="lost">Καρχηδόνα</supplied></name> <w><supplied reason="lost">κατά</supplied></w>
+                    <lb n="3"/><w><supplied reason="lost">κρά</supplied><unclear>τ</unclear>ος</w> <w>τοὺς</w> <w>ἐξ</w> <name>Ἱμέρ<supplied reason="lost">ας</supplied></name> <w><supplied reason="lost">ἀνδριάντας</supplied></w>
+                    <lb n="4"/><name>Ἱμεραίο<supplied reason="lost">ις</supplied></name> <gap reason="lost" unit="character" extent="unknown"/>
                 </ab>
             </div>
             <div type="apparatus">

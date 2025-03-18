@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -186,12 +186,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1"/><supplied reason="lost"><expan><abbr>Θ</abbr><ex>εοῖς</ex></expan></supplied> <expan><abbr>Κ</abbr><ex>αταχθονίοις</ex>
-                    </expan>
-                    <lb n="2"/><gap reason="lost" unit="character" extent="unknown"/><orig>ΟΣΚΟΙ</orig>
-                    <lb n="3"/><gap reason="lost" unit="character" extent="unknown"/><orig><unclear>Ν</unclear>ΙΚΟΣ</orig>
-                    <lb n="4"/>ἔζηση
-                    <lb n="5"/>ἔτη <num value="70">π</num> <g ref="#interpunct">·</g>
+                    <lb n="1"/><w><supplied reason="lost"><expan><abbr>Θ</abbr><ex>εοῖς</ex></expan></supplied></w> <name><expan><abbr>Κ</abbr><ex>αταχθονίοις</ex></expan></name>
+                    <lb n="2"/><gap reason="lost" unit="character" extent="unknown"/> <orig>ΟΣΚΟΙ</orig>
+                    <lb n="3"/><gap reason="lost" unit="character" extent="unknown"/> <orig><unclear>Ν</unclear>ΙΚΟΣ</orig>
+                    <lb n="4"/><w>ἔζηση</w>
+                    <lb n="5"/><w>ἔτη</w> <num value="70">π</num> <g ref="#interpunct">·</g>
                 </ab>
             </div>
             <div type="apparatus">

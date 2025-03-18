@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -210,49 +210,10 @@
         <body>
             <div type="edition" xml:space="preserve">
                 <ab>
-                    <lb n="1"/>
-                    Φλάβιος Φῆλιξ Εὐμάθιος ὁ <roleName type="paracivic" subtype="clarissimus">λαμπρ<supplied reason="lost">ότατος</supplied></roleName> <roleName type="supracivic" subtype="consularis"><supplied reason="lost">ὑπατικὸς</supplied></roleName> <supplied reason="lost">τῆς</supplied> <supplied reason="lost">Σικελῶν</supplied> <supplied reason="lost">ἐπα</supplied>ρχίας
-                    εἶπεν · αἱ θερμαὶ αἱ Ἀχιλλιαναὶ ἐξ ἀρ<supplied reason="lost">χ</supplied>αίας διατυπώσεως ἀνήλ
-                    <supplied reason="lost" evidence="previouseditor">ω</supplied>
-                    <supplied reason="lost">σαν</supplied> <supplied reason="lost">πήσας</supplied>
-                    <gap reason="lost" extent="unknown" unit="character"/>
-                    <supplied reason="lost" cert="low">καθ’</supplied> <supplied reason="lost" cert="low">ἑκάστην</supplied> <supplied reason="lost" cert="low">ἡμέραν</supplied>
-                    <gap reason="lost" extent="unknown" unit="character"/>
-                    <gap reason="illegible" quantity="1" unit="character"/>ιούσης τῆς ἐπισκευῆς ἐ
-                    <supplied reason="lost" cert="low">πιμελείᾳ</supplied> <supplied reason="lost" cert="low">Φλαβίου</supplied>
-                    <lb n="2"/>
-                    Λιβεραλίου τοῦ <roleName type="supracivic" subtype="devotissimus">εὐκαθωσιώτου</roleName>, ἀνή<supplied reason="lost" cert="low">λωσαν</supplied> <supplied reason="lost" cert="low">ἔλαττον</supplied>. <supplied reason="lost" cert="low">τὸ</supplied> <supplied reason="lost" cert="low">καπνιστήριον
-                </supplied> καθ’ ἑκάστην ἡμέραν πήσας <hi rend="supraline">λβ</hi> ἔλαττον ἔκαυσεν εἰς τὴν
-                    πρόκαυσιν <supplied reason="lost">καὶ</supplied> <supplied reason="lost">εἰς</supplied> <supplied reason="lost">τὴν</supplied> <supplied reason="lost">ὑπόκαυσιν</supplied> <supplied reason="lost">ἔλαττον</supplied> <supplied reason="lost">ἔκαυ</supplied>σεν πήσας <hi rend="supraline">ιη</hi>, ἐ
-                    <supplied reason="lost">π</supplied>
-                    <supplied reason="lost" evidence="previouseditor">ο</supplied>ίει
-                    <expan>
-                        <abbr>νο</abbr>
-                        <ex>μίσματα</ex>
-                    </expan>
-                    <gap reason="lost" extent="unknown" unit="character"/>
-                    <supplied reason="lost" cert="low">. ὅσον</supplied> <supplied reason="lost" cert="low">τὸ</supplied> <supplied reason="lost" cert="low">καπνιστήριον</supplied>
-                    <lb n="3"/>
-                    ἔκαυσεν εἰς τὴν πρόκαυσιν καὶ εἰς τ
-                    <supplied reason="lost">ὴν</supplied> <supplied reason="lost" cert="low">ὑπόκαυσιν</supplied> <supplied reason="lost" cert="low">δι’</supplied> <supplied reason="lost" cert="low">ἡμέρας</supplied>
-                    <gap reason="lost" extent="unknown" unit="character"/>
-                    <supplied reason="lost">, ἔδωκε</supplied>ν ὁ προγραφὶς <roleName type="supracivic" subtype="devotissimus">εὐκαθοσίωτος</roleName> τῶν ε<supplied reason="lost">
-                    ἰ</supplied>δίων ἀναλωμάτων π
-                    <gap reason="illegible" unit="character" quantity="1"/>
-                    <gap reason="lost" extent="unknown" unit="character"/>
-                    το ἐπὶ
-                    <expan>
-                        <abbr>ὑ</abbr>
-                        <ex>πὲρ</ex>
-                    </expan>
-                    Π <supplied reason="lost">νομισ</supplied>ματ
-                    <gap reason="illegible" quantity="1" unit="character"/>
-                    <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="4"/>
-                    τοῦ ἀρχιτέκτονος· μετὰ τὴν <roleName type="supracivic" subtype="consul">ὑπ<supplied reason="lost">ατείαν</supplied></roleName> <supplied reason="lost">τοῦ</supplied> <roleName type="supracivic" subtype="dominus"><supplied reason="lost">δεσπότου</supplied></roleName> <supplied reason="lost">ἡμῶν</supplied> <supplied reason="lost">Θεοδο</supplied>σίου
-                    αἰωνίου Αὐγούστου τὸ διʹ κ<supplied reason="lost" evidence="previouseditor">α</supplied>ὶ Μαξίμου
-                    τοῦ <roleName type="supracivic" subtype="clarissimus">λαμπ
-                    <supplied reason="lost">ροτάτου</supplied></roleName>
+                    <lb n="1"/><w>Φλάβιος</w> <name>Φῆλιξ</name> <name>Εὐμάθιος</name> <w>ὁ</w> <roleName type="paracivic" subtype="clarissimus"><w>λαμπρ</w> <w><supplied reason="lost">ότατος</supplied></w></roleName> <roleName type="supracivic" subtype="consularis"><w><supplied reason="lost">ὑπατικὸς</supplied></w></roleName> <w><supplied reason="lost">τῆς</supplied></w> <name><supplied reason="lost">Σικελῶν</supplied></name> <w><supplied reason="lost">ἐπα</supplied>ρχίας</w> <w>εἶπεν</w> <g ref="#interpunct">·</g> <w>αἱ</w> <w>θερμαὶ</w> <w>αἱ</w> <name>Ἀχιλλιαναὶ</name> <w>ἐξ</w> <w>ἀρ<supplied reason="lost">χ</supplied>αίας</w> <w>διατυπώσεως</w> <w>ἀνήλ</w> <w><supplied reason="lost" evidence="previouseditor">ω</supplied></w> <w><supplied reason="lost">σαν</supplied></w> <w><supplied reason="lost">πήσας</supplied></w> <gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost" cert="low">καθ’</supplied></w> <w><supplied reason="lost" cert="low">ἑκάστην</supplied></w> <w><supplied reason="lost" cert="low">ἡμέραν</supplied></w> <gap reason="lost" extent="unknown" unit="character"/> <gap reason="illegible" quantity="1" unit="character"/> <w>ιούσης</w> <w>τῆς</w> <w>ἐπισκευῆς</w> <w>ἐ</w> <w><supplied reason="lost" cert="low">πιμελείᾳ</supplied></w> <name><supplied reason="lost" cert="low">Φλαβίου</supplied></name>
+                    <lb n="2"/><name>Λιβεραλίου</name> <w>τοῦ</w> <roleName type="supracivic" subtype="devotissimus"><w>εὐκαθωσιώτου</w></roleName>, <w>ἀνή<supplied reason="lost" cert="low">λωσαν</supplied></w> <w><supplied reason="lost" cert="low">ἔλαττον</supplied>.</w> <w><supplied reason="lost" cert="low">τὸ</supplied></w> <w><supplied reason="lost" cert="low">καπνιστήριον</supplied></w> <w>καθ’</w> <w>ἑκάστην</w> <w>ἡμέραν</w> <w>πήσας</w> <w><hi rend="supraline">λβ</hi></w> <w>ἔλαττον</w> <w>ἔκαυσεν</w> <w>εἰς</w> <w>τὴν</w> <w>πρόκαυσιν</w> <w><supplied reason="lost">καὶ</supplied></w> <w><supplied reason="lost">εἰς</supplied></w> <w><supplied reason="lost">τὴν</supplied></w> <w><supplied reason="lost">ὑπόκαυσιν</supplied></w> <w><supplied reason="lost">ἔλαττον</supplied></w> <w><supplied reason="lost">ἔκαυ</supplied>σεν</w> <w>πήσας</w> <w><hi rend="supraline">ιη</hi>,</w> <w>ἐ</w> <w><supplied reason="lost">π</supplied></w> <w><supplied reason="lost" evidence="previouseditor">ο</supplied>ίει</w> <w><expan><abbr>νο</abbr><ex>μίσματα</ex></expan></w> <gap reason="lost" extent="unknown" unit="character"/> <name><supplied reason="lost" cert="low">. ὅσον</supplied></name> <w><supplied reason="lost" cert="low">τὸ</supplied></w> <w><supplied reason="lost" cert="low">καπνιστήριον</supplied></w>
+                    <lb n="3"/><w>ἔκαυσεν</w> <w>εἰς</w> <w>τὴν</w> <w>πρόκαυσιν</w> <w>καὶ</w> <w>εἰς</w> <w>τ</w> <w><supplied reason="lost">ὴν</supplied></w> <w><supplied reason="lost" cert="low">ὑπόκαυσιν</supplied></w> <w><supplied reason="lost" cert="low">δι’</supplied></w> <w><supplied reason="lost" cert="low">ἡμέρας</supplied></w> <gap reason="lost" extent="unknown" unit="character"/> <name><supplied reason="lost">, ἔδωκε</supplied>ν</name> <w>ὁ</w> <w>προγραφὶς</w> <roleName type="supracivic" subtype="devotissimus"><w>εὐκαθοσίωτος</w></roleName> <w>τῶν</w> <w>ε<supplied reason="lost">ἰ</supplied>δίων</w> <w>ἀναλωμάτων</w> <w>π</w> <gap reason="illegible" unit="character" quantity="1"/> <gap reason="lost" extent="unknown" unit="character"/> <w>το</w> <w>ἐπὶ</w> <w><expan><abbr>ὑ</abbr><ex>πὲρ</ex></expan></w> <name>Π</name> <w><supplied reason="lost">νομισ</supplied>ματ</w> <gap reason="illegible" quantity="1" unit="character"/> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="4"/><w>τοῦ</w> <w>ἀρχιτέκτονος·</w> <w>μετὰ</w> <w>τὴν</w> <roleName type="supracivic" subtype="consul"><w>ὑπ</w> <w><supplied reason="lost">ατείαν</supplied></w></roleName> <w><supplied reason="lost">τοῦ</supplied></w> <roleName type="supracivic" subtype="dominus"><w><supplied reason="lost">δεσπότου</supplied></w></roleName> <w><supplied reason="lost">ἡμῶν</supplied></w> <name><supplied reason="lost">Θεοδο</supplied>σίου</name> <w>αἰωνίου</w> <name>Αὐγούστου</name> <w>τὸ</w> <w>διʹ</w> <w>κ<supplied reason="lost" evidence="previouseditor">α</supplied>ὶ</w> <name>Μαξίμου</name> <w>τοῦ</w> <roleName type="supracivic" subtype="clarissimus"><w>λαμπ</w> <w><supplied reason="lost">ροτάτου</supplied></w></roleName>
                 </ab>
             </div>
             <div type="apparatus">

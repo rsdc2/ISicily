@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -264,16 +264,16 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1"/>Ἡ πᾶσι <g ref="#ivy-leaf"/> ἐν βροτοῖσειν
-                    <lb n="2"/>σεμνῶς τὸν βίον ἀνα
-                    <lb n="3" break="no"/>διξαμένη <g ref="#ivy-leaf"/> φίλανδρος
-                    <lb n="4"/>ὡς οὐτ᾿ ἄλλη γυναικῶν.
-                    <lb n="5"/>Εἰρ<hi rend="ligature">ήν</hi>α ἔνθαδε κεῖτε <g ref="#ivy-leaf"/> τέκν<hi rend="stacked">ο</hi>ι
-                    <lb n="6" break="no"/>σι στοργ<hi rend="ligature">ὴν</hi> λαμπρῶς εὐνοησα
-                    <lb n="7" break="no"/>μέ<hi rend="ligature">νη</hi> <g ref="#ivy-leaf"/> τριακοστῷ καὶ δευτέρῳ περι
-                    <lb n="8" break="no"/>πλεκομένῳ ἔτι Μοίρες βουλεύμα
-                    <lb n="9" break="no"/>τι, μετὰ μεγίστου κλέους τέλος
-                    <lb n="10"/>ἔλαχεν <g ref="#ivy-leaf"/> <g ref="#christogram"/> Βωτιβοῖο φιλτ<choice><corr>ά</corr><sic>λ</sic></choice>τη <g ref="#ivy-leaf"/> <g ref="#christogram"/>
+                    <lb n="1"/><w>Ἡ</w> <w>πᾶσι</w> <g ref="#ivy-leaf"/> <w>ἐν</w> <w>βροτοῖσειν</w>
+                    <lb n="2"/><w>σεμνῶς</w> <w>τὸν</w> <w>βίον</w> <w>ἀνα
+                    <lb n="3" break="no"/>διξαμένη</w> <g ref="#ivy-leaf"/> <w>φίλανδρος</w>
+                    <lb n="4"/><w>ὡς</w> <w>οὐτ᾿</w> <w>ἄλλη</w> <w>γυναικῶν.</w>
+                    <lb n="5"/><name>Εἰρ<hi rend="ligature">ήν</hi>α</name> <w>ἔνθαδε</w> <w>κεῖτε</w> <g ref="#ivy-leaf"/> <w>τέκν<hi rend="stacked">ο</hi>ι
+                    <lb n="6" break="no"/>σι</w> <w>στοργ<hi rend="ligature">ὴν</hi></w> <w>λαμπρῶς</w> <w>εὐνοησα
+                    <lb n="7" break="no"/>μέ<hi rend="ligature">νη</hi></w> <g ref="#ivy-leaf"/> <w>τριακοστῷ</w> <w>καὶ</w> <w>δευτέρῳ</w> <w>περι
+                    <lb n="8" break="no"/>πλεκομένῳ</w> <w>ἔτι</w> <name>Μοίρες</name> <w>βουλεύμα
+                    <lb n="9" break="no"/>τι,</w> <w>μετὰ</w> <w>μεγίστου</w> <w>κλέους</w> <w>τέλος</w>
+                    <lb n="10"/><w>ἔλαχεν</w> <g ref="#ivy-leaf"/> <g ref="#christogram"/> <name>Βωτιβοῖο</name> <w>φιλτ<choice><corr>ά</corr><sic>λ</sic></choice>τη</w> <g ref="#ivy-leaf"/> <g ref="#christogram"/>
                 </ab>
             </div>
             <div type="apparatus">

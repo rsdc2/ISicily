@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -188,14 +188,14 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1"/>Γονεῦσιν γλυκυ
-                    <lb n="2" break="no"/>τάτοις ζησάντοις
-                    <lb n="3"/>ἀμέμπτως πρὸς
-                    <lb n="4"/>πάντας φίλους ἐπό
-                    <lb n="5" break="no"/>ησεν <persName type="attested"><name>Τρυφέρα</name></persName> θυγά
-                    <lb n="6" break="no"/>τηρ ζήσαντι <persName type="attested"><name>Ἐλπι
-                    <lb n="7" break="no"/>δηφόρῳ</name></persName> ἔτη <g ref="#ivy-leaf">❦</g><num value="85">πε</num> <g ref="#ivy-leaf">❦</g>
-                    <lb n="8"/><persName type="attested"><name>Νίκῃ</name></persName> ἔτη <g ref="#ivy-leaf">❦</g> <num value="80">π</num> <g ref="#ivy-leaf">❦</g>
+                    <lb n="1"/><w>Γονεῦσιν</w> <w>γλυκυ
+                    <lb n="2" break="no"/>τάτοις</w> <w>ζησάντοις</w>
+                    <lb n="3"/><w>ἀμέμπτως</w> <w>πρὸς</w>
+                    <lb n="4"/><w>πάντας</w> <w>φίλους</w> <w>ἐπό
+                    <lb n="5" break="no"/>ησεν</w> <persName type="attested"><name>Τρυφέρα</name></persName> <w>θυγά
+                    <lb n="6" break="no"/>τηρ</w> <w>ζήσαντι</w> <persName type="attested"><name>Ἐλπι
+                    <lb n="7" break="no"/>δηφόρῳ</name></persName> <w>ἔτη</w> <g ref="#ivy-leaf">❦</g> <num value="85">πε</num> <g ref="#ivy-leaf">❦</g>
+                    <lb n="8"/><persName type="attested"><name>Νίκῃ</name></persName> <w>ἔτη</w> <g ref="#ivy-leaf">❦</g> <num value="80">π</num> <g ref="#ivy-leaf">❦</g>
                 </ab>
             </div>
             <div type="apparatus">

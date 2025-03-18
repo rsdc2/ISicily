@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -193,10 +193,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la">
                 <ab>
-                <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" quantity="2" unit="character" precision="low"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
-                <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost">me</supplied>moria a<gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
-                <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">Ana</supplied>stasi<supplied reason="lost">o</supplied>
-                 <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <roleName type="supracivic" subtype="consul"><expan><abbr>co</abbr><ex>n</ex><supplied reason="lost"><abbr>s</abbr><ex>ulibus</ex></supplied></expan></roleName>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <gap reason="illegible" quantity="2" unit="character"/> <gap reason="lost" quantity="2" unit="character" precision="low"/> <gap reason="illegible" quantity="1" unit="character"/> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">me</supplied>moria</w> <w>a</w> <gap reason="illegible" quantity="1" unit="character"/> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <name><supplied reason="lost">Ana</supplied>stasi<supplied reason="lost">o</supplied></name>
+                    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <roleName type="supracivic" subtype="consul"><w><expan><abbr>co</abbr><ex>n</ex><supplied reason="lost"><abbr>s</abbr><ex>ulibus</ex></supplied></expan></w></roleName>
                 </ab>
             </div>
             <div type="apparatus">

@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -190,10 +190,10 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <div type="textpart" subtype="section" n="a"> <!-- tympanum -->
                     <ab>
-                        <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> ἐπὶ πα<supplied reason="lost" cert="low">ρὰ</supplied>
-                        <lb n="2"/>Παιδέσσι καὶ<supplied reason="lost" cert="low">Ἄννᾳ</supplied>
-                        <lb n="3"/>ἀμ<supplied reason="lost">φ</supplied>ιπόλου <gap reason="lost" extent="unknown" unit="character"/>
-                        <lb n="4"/>ἐπὶ Ἀνία τοῦ <gap reason="lost" extent="unknown" unit="character"/>
+                        <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w>ἐπὶ</w> <w>πα<supplied reason="lost" cert="low">ρὰ</supplied></w>
+                        <lb n="2"/><name>Παιδέσσι</name> <w>καὶ<supplied reason="lost" cert="low">Ἄννᾳ</supplied></w>
+                        <lb n="3"/><w>ἀμ<supplied reason="lost">φ</supplied>ιπόλου</w> <gap reason="lost" extent="unknown" unit="character"/>
+                        <lb n="4"/><w>ἐπὶ</w> <name>Ἀνία</name> <w>τοῦ</w> <gap reason="lost" extent="unknown" unit="character"/>
                     </ab>
                 </div>
                 <div type="textpart" subtype="section" n="b"> <!-- cornice -->
@@ -203,16 +203,16 @@
                 </div>
                 <div type="textpart" subtype="section" n="c"> <!-- specchio -->
                     <ab>
-                        <lb n="6"/>ἱερίας δὲ <orig>ΤΣΥ</orig><gap reason="lost" quantity="2" unit="character"/><orig>ΛΑΣ</orig>
-                        <lb n="7"/><gap reason="lost" extent="unknown" unit="character"/>Μ<gap reason="lost" extent="unknown" unit="character"/>
-                        <lb n="8"/><supplied reason="lost">οἱ</supplied> <supplied reason="lost">παραγενόμ</supplied>ενοι
-                        <lb n="9"/><supplied reason="lost">ποτὶ</supplied> <supplied reason="lost" cert="low">Νύμφας</supplied> <supplied reason="lost">μ</supplied>ηνὸς
+                        <lb n="6"/><w>ἱερίας</w> <w>δὲ</w> <orig>ΤΣΥ</orig><gap reason="lost" quantity="2" unit="character"/> <orig>ΛΑΣ</orig>
+                        <lb n="7"/><gap reason="lost" extent="unknown" unit="character"/> <name>Μ</name> <gap reason="lost" extent="unknown" unit="character"/>
+                        <lb n="8"/><w><supplied reason="lost">οἱ</supplied></w> <w><supplied reason="lost">παραγενόμ</supplied>ενοι</w>
+                        <lb n="9"/><w><supplied reason="lost">ποτὶ</supplied></w> <name><supplied reason="lost" cert="low">Νύμφας</supplied></name> <w><supplied reason="lost">μ</supplied>ηνὸς</w>
                         <lb n="10"/><gap reason="lost" quantity="1" unit="line"/>
                     </ab>
                 </div>
                 <div type="textpart" subtype="section" n="d"> <!-- tympanum edge -->
                     <ab>
-                        <lb n="11"/><orig>ΟΤ</orig><g ref="#interpunct">·</g><orig>Υ</orig><gap reason="lost" extent="unknown" unit="character"/><orig>Δ</orig>
+                        <lb n="11"/><orig>ΟΤ</orig><g ref="#interpunct">·</g> <orig>Υ</orig><gap reason="lost" extent="unknown" unit="character"/> <orig>Δ</orig>
                     </ab>
                 </div>
             </div>

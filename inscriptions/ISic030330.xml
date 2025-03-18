@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -168,7 +168,7 @@
                     <lb n="7"/><persName type="attested"><name type="patronymic">Ἀρι<supplied reason="lost">στο</supplied><unclear>δ</unclear>άμ<unclear>ο</unclear>υ</name></persName>
                     <lb n="8"/><persName type="attested"><name>Ἀριστό<unclear>δα</unclear>μος</name> <persName type="attested"><name type="patronymic"><supplied reason="lost">Σω</supplied>
                     <lb n="9" break="no"/>στ<supplied reason="omitted">ρ</supplied>άτου</name></persName></persName>
-                    <lb n="10"/><orig>ΡΑΤΑ</orig><gap reason="illegible" unit="character" quantity="1"/><orig>ΤΟΥ</orig>
+                    <lb n="10"/><orig>ΡΑΤΑ</orig><gap reason="illegible" unit="character" quantity="1"/> <orig>ΤΟΥ</orig>
                     <lb n="11"/><orig><unclear>Ι</unclear>ΝΟΚΑΙ</orig>
                 </ab>
             </div>

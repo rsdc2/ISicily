@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -193,9 +193,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la">
                 <ab>
-                 <lb n="1"/>Dep<supplied reason="omitted">osi</supplied>
-                  <lb n="2" break="no"/>tus <supplied reason="omitted">Mar</supplied>
-                   <lb n="3" break="no"/>celli<supplied reason="omitted">nus</supplied>
+                    <lb n="1"/><w>Dep<supplied reason="omitted">osi</supplied>
+                    <lb n="2" break="no"/>tus</w> <name><supplied reason="omitted">Mar</supplied>
+                    <lb n="3" break="no"/>celli<supplied reason="omitted">nus</supplied></name>
                 </ab>
             </div>
             <div type="apparatus">

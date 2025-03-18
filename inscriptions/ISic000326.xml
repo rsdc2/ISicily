@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -186,16 +186,16 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
-                    <lb n="1"/>Rogo vos
-                    <lb n="2"/>domini
-                    <lb n="3"/>paucis die
-                    <lb n="4" break="no"/>bus susti
-                    <lb n="5" break="no"/>neatis cau
-                    <lb n="6" break="no"/>sa utilitatis
-                    <lb n="7"/>caementorum
-                    <lb n="8"/>quo citius in
-                    <lb n="9"/>usum vestrum
-                    <lb n="10"/>possit esse
+                    <lb n="1"/><w>Rogo</w> <w>vos</w>
+                    <lb n="2"/><w>domini</w>
+                    <lb n="3"/><w>paucis</w> <w>die
+                    <lb n="4" break="no"/>bus</w> <w>susti
+                    <lb n="5" break="no"/>neatis</w> <w>cau
+                    <lb n="6" break="no"/>sa</w> <w>utilitatis</w>
+                    <lb n="7"/><w>caementorum</w>
+                    <lb n="8"/><w>quo</w> <w>citius</w> <w>in</w>
+                    <lb n="9"/><w>usum</w> <w>vestrum</w>
+                    <lb n="10"/><w>possit</w> <w>esse</w>
                 </ab>
             </div>
             <div type="apparatus">

@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -190,9 +190,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="scx-grc" resp="#JP">
                 <ab>
-                    <lb n="1" style="text-direction:l-to-r"/>οστιυͱαγε<gap reason="illegible" unit="character" quantity="1"/>κ
-                    <lb n="2" style="text-direction:r-to-l"/>ε<gap reason="illegible" unit="character" quantity="2"/>ι<gap reason="illegible" unit="character" quantity="1"/>δ<gap reason="illegible" unit="character" quantity="1"/>
-               </ab>
+                    <lb n="1" style="text-direction:l-to-r"/><w>οστιυͱαγε</w> <gap reason="illegible" unit="character" quantity="1"/> <w>κ</w>
+                    <lb n="2" style="text-direction:r-to-l"/><w>ε</w> <gap reason="illegible" unit="character" quantity="2"/> <w>ι</w> <gap reason="illegible" unit="character" quantity="1"/> <w>δ</w> <gap reason="illegible" unit="character" quantity="1"/>
+                </ab>
             </div>
             <div type="apparatus">
                 <listApp><app><note>Text after Orsi 1900 and Agostiniani 1992</note></app></listApp>

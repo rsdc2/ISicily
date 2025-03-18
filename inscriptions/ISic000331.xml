@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -191,11 +191,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
-                    <lb n="1"/><expan><abbr>D</abbr><ex>is</ex></expan> <expan><abbr>M</abbr><ex>anibus</ex></expan> <expan><abbr>s</abbr><ex>acrum</ex></expan>
-                    <lb n="2"/><name><expan><abbr>L</abbr><ex>ucius</ex></expan></name> <g ref="#interpunct">·</g> <name><expan><abbr>Arr</abbr><ex>ius</ex></expan></name> <g ref="#interpunct">·</g> <name><choice><reg>Logismus</reg><orig>Locismus</orig></choice></name> <g ref="#interpunct">·</g> fecit <g ref="#interpunct">·</g> filiae
+                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <name><expan><abbr>M</abbr><ex>anibus</ex></expan></name> <w><expan><abbr>s</abbr><ex>acrum</ex></expan></w>
+                    <lb n="2"/><name><expan><abbr>L</abbr><ex>ucius</ex></expan></name> <g ref="#interpunct">·</g> <name><expan><abbr>Arr</abbr><ex>ius</ex></expan></name> <g ref="#interpunct">·</g> <name><choice><reg>Logismus</reg><orig>Locismus</orig></choice></name> <g ref="#interpunct">·</g> <w>fecit</w> <g ref="#interpunct">·</g> <w>filiae</w>
                     <lb n="3"/><gap reason="lost" quantity="1" unit="line"/>
-                    <lb n="4"/><expan><abbr>men</abbr><ex>ses</ex></expan> <g ref="#interpunct">·</g> <num value="8">VIII</num> <g ref="#interpunct">·</g> <expan><abbr>d</abbr><ex>ies</ex></expan> <g ref="#interpunct">·</g> <num value="18">XVIII</num> <g ref="#interpunct">·</g> et <g ref="#interpunct">·</g> <name><expan><abbr>Arr</abbr><ex>io</ex></expan></name>
-                    <lb n="5"/><name>Protioni</name> <g ref="#interpunct">·</g> amico <g ref="#interpunct">·</g> <expan><abbr>vix</abbr><ex>it</ex></expan> <g ref="#interpunct">·</g> <expan><abbr>ann</abbr><ex>os</ex></expan>
+                    <lb n="4"/><w><expan><abbr>men</abbr><ex>ses</ex></expan></w> <g ref="#interpunct">·</g> <num value="8">VIII</num> <g ref="#interpunct">·</g> <w><expan><abbr>d</abbr><ex>ies</ex></expan></w> <g ref="#interpunct">·</g> <num value="18">XVIII</num> <g ref="#interpunct">·</g> <w>et</w> <g ref="#interpunct">·</g> <name><expan><abbr>Arr</abbr><ex>io</ex></expan></name>
+                    <lb n="5"/><name>Protioni</name> <g ref="#interpunct">·</g> <w>amico</w> <g ref="#interpunct">·</g> <w><expan><abbr>vix</abbr><ex>it</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>ann</abbr><ex>os</ex></expan></w>
                     <lb n="6"/><num value="25">XXV</num>
                 </ab>
             </div>

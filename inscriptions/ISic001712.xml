@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -175,12 +175,12 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="FP">
                 <ab>
-                    <lb n="1"/><g ref="#ivy-leaf">❦</g><!-- is there a palm branch also? publication unclear -->
+                    <lb n="1"/><g ref="#ivy-leaf">❦</g> <!-- is there a palm branch also? publication unclear -->
                     <lb n="2"/><persName type="attested"><name>Θεόδουλη</name></persName>
-                    <lb n="3"/>χρηστιάνη 
-                    <lb n="4"/>καὶ ἄμεμπ<unclear>τ</unclear><hi rend="small">ος</hi>
-                    <lb n="5"/>ἔζησεν ἔτη <num value="10">ι</num> 
-                    <lb n="6"/>δέκα <expan><abbr><hi rend="ligature">πρ</hi></abbr><ex>ό</ex></expan> <num value="4">δ</num> <expan><abbr>καλ</abbr><ex>ανδῶν</ex></expan> <expan><abbr>ὀκτ</abbr><ex>οβρίων</ex></expan>
+                    <lb n="3"/><w>χρηστιάνη</w>
+                    <lb n="4"/><w>καὶ</w> <w>ἄμεμπ<unclear>τ</unclear><hi rend="small">ος</hi></w>
+                    <lb n="5"/><w>ἔζησεν</w> <w>ἔτη</w> <num value="10">ι</num>
+                    <lb n="6"/><w>δέκα</w> <w><expan><abbr><hi rend="ligature">πρ</hi></abbr><ex>ό</ex></expan></w> <num value="4">δ</num> <w><expan><abbr>καλ</abbr><ex>ανδῶν</ex></expan></w> <w><expan><abbr>ὀκτ</abbr><ex>οβρίων</ex></expan></w>
                 </ab>
             </div>
             <div type="apparatus">

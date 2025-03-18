@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -200,10 +200,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1"/><gap reason="lost" unit="character" quantity="1" cert="low"/><supplied reason="lost">Κλώ</supplied>διος  Ὀρέστας
-                    <lb n="2"/><gap reason="lost" unit="character" quantity="1" cert="low"/><supplied reason="lost">Σ</supplied><unclear>ή</unclear>ιος <g ref="#interpunct">·</g> Β<unclear>άρ</unclear>ηξ
-                    <lb n="3"/><supplied reason="lost">ἀγο</supplied><unclear>ρ</unclear>ανομήσαντες
-                    <lb n="4"/><supplied reason="lost">τὸ βῆ</supplied>μα <g ref="#interpunct">·</g> θησαυροῦ
+                    <lb n="1"/><gap reason="lost" unit="character" quantity="1" cert="low"/> <w><supplied reason="lost">Κλώ</supplied>διος</w> <name>Ὀρέστας</name>
+                    <lb n="2"/><gap reason="lost" unit="character" quantity="1" cert="low"/> <name><supplied reason="lost">Σ</supplied><unclear>ή</unclear>ιος</name> <g ref="#interpunct">·</g> <name>Β<unclear>άρ</unclear>ηξ</name>
+                    <lb n="3"/><w><supplied reason="lost">ἀγο</supplied><unclear>ρ</unclear>ανομήσαντες</w>
+                    <lb n="4"/><w><supplied reason="lost">τὸ βῆ</supplied>μα</w> <g ref="#interpunct">·</g> <w>θησαυροῦ</w>
                 </ab>
             </div>
             <div type="apparatus">

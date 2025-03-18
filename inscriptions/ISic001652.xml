@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -186,18 +186,18 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1"/><supplied reason="lost">ἐνθάδε</supplied> <supplied reason="lost">κῖτε</supplied> <supplied reason="lost">ἡ</supplied> <supplied reason="lost">μακαρία</supplied>
-                    <lb n="2"/><persName type="attested"><name>Ἄπρα</name></persName> <persName type="attested"><name><supplied reason="lost">Κε</supplied>ντιανοῦ</name></persName> θυγάτηρ
-                    <lb n="3"/>καὶ <persName type="attested"><name>Ἀσκληπιαδότ<supplied reason="lost">ης</supplied></name></persName> <supplied reason="lost">δούλη</supplied>
-                    <lb n="4"/><persName type="divine"><name><expan><abbr><hi rend="supraline">Χ</hi></abbr><ex>ριστο</ex><abbr><hi rend="supraline">ῦ</hi></abbr></expan></name></persName> ἀγαθή δένδρο<supplied reason="lost">ν</supplied> <supplied reason="lost">καλῶς</supplied>
-                    <lb n="5"/>ἐν πίστι ἐφυτευμ<supplied reason="lost">ένον</supplied>
-                    <lb n="6" break="no"/>τῇ ὀλυγοχρονίᾳ <supplied reason="lost">ἀποχω</supplied>
-                    <lb n="7"/>ριθῖσα καὶ τῆς τοῦ <supplied reason="lost">κόσμου</supplied>
-                    <lb n="8"/>ἀγάπης λύπην κατ<supplied reason="lost">αλιποῦ</supplied>
-                    <lb n="9" break="no"/>σα τοῖς ἰδίοις. Ἐπλήρ<supplied reason="lost">ωσε</supplied> <supplied reason="lost">τὸ</supplied>
-                    <lb n="10"/>τῆς ψυχῆς δάνος τελε<supplied reason="lost">υτῶσα</supplied>
-                    <lb n="11"/><expan><abbr>καλ</abbr><ex>ένδαις</ex></expan> Ἀπριλίων <roleName type="supracivic" subtype="consul">ὑπατ<supplied reason="lost">ία</supplied>ͅ</roleName> <persName type="attested"><name><supplied reason="lost">Θεοδο</supplied>
-                    <lb n="12" break="no"/>σίου</name></persName> τὸ <num value="15">ει</num> <expan><abbr>κ</abbr><ex>αὶ</ex></expan> <persName type="attested"><name>Βαλεντινιά<supplied reason="lost">νου</supplied></name></persName> <supplied reason="lost">τὸ</supplied>
+                    <lb n="1"/><w><supplied reason="lost">ἐνθάδε</supplied></w> <w><supplied reason="lost">κῖτε</supplied></w> <w><supplied reason="lost">ἡ</supplied></w> <w><supplied reason="lost">μακαρία</supplied></w>
+                    <lb n="2"/><persName type="attested"><name>Ἄπρα</name></persName> <persName type="attested"><name><supplied reason="lost">Κε</supplied>ντιανοῦ</name></persName> <w>θυγάτηρ</w>
+                    <lb n="3"/><w>καὶ</w> <persName type="attested"><name>Ἀσκληπιαδότ<supplied reason="lost">ης</supplied></name></persName> <w><supplied reason="lost">δούλη</supplied></w>
+                    <lb n="4"/><persName type="divine"><name><expan><abbr><hi rend="supraline">Χ</hi></abbr><ex>ριστο</ex><abbr><hi rend="supraline">ῦ</hi></abbr></expan></name></persName> <w>ἀγαθή</w> <w>δένδρο<supplied reason="lost">ν</supplied></w> <w><supplied reason="lost">καλῶς</supplied></w>
+                    <lb n="5"/><w>ἐν</w> <w>πίστι</w> <w>ἐφυτευμ<supplied reason="lost">ένον</supplied>
+                    <lb n="6" break="no"/>τῇ</w> <w>ὀλυγοχρονίᾳ</w> <w><supplied reason="lost">ἀποχω</supplied></w>
+                    <lb n="7"/><w>ριθῖσα</w> <w>καὶ</w> <w>τῆς</w> <w>τοῦ</w> <w><supplied reason="lost">κόσμου</supplied></w>
+                    <lb n="8"/><w>ἀγάπης</w> <w>λύπην</w> <w>κατ<supplied reason="lost">αλιποῦ</supplied>
+                    <lb n="9" break="no"/>σα</w> <w>τοῖς</w> <w>ἰδίοις.</w> <name>Ἐπλήρ<supplied reason="lost">ωσε</supplied></name> <w><supplied reason="lost">τὸ</supplied></w>
+                    <lb n="10"/><w>τῆς</w> <w>ψυχῆς</w> <w>δάνος</w> <w>τελε<supplied reason="lost">υτῶσα</supplied></w>
+                    <lb n="11"/><w><expan><abbr>καλ</abbr><ex>ένδαις</ex></expan></w> <name>Ἀπριλίων</name> <roleName type="supracivic" subtype="consul"><w>ὑπατ</w> <w><supplied reason="lost">ία</supplied></w> <w>ͅ</w></roleName> <persName type="attested"><name><supplied reason="lost">Θεοδο</supplied>
+                    <lb n="12" break="no"/>σίου</name></persName> <w>τὸ</w> <num value="15">ει</num> <w><expan><abbr>κ</abbr><ex>αὶ</ex></expan></w> <persName type="attested"><name>Βαλεντινιά<supplied reason="lost">νου</supplied></name></persName> <w><supplied reason="lost">τὸ</supplied></w>
                     <lb n="13"/><num value="4">δ</num>
                 </ab>
             </div>

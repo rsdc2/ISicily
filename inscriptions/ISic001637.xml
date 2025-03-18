@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -195,21 +195,19 @@
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#VM">
                 <ab>
                     <milestone unit="section" n="a"/>
-                        <lb n="1"/>Superianus
-                        <lb n="2"/><roleName type="paracivic.religious" subtype="clerecus">cl<supplied reason="lost">erecus</supplied></roleName> de
-                        <lb n="3"/>Aq<supplied reason="lost">ileia</supplied> hic
-                        <lb n="4"/>reqescet
-                    <milestone unit="section" n="b"/>
-                        <lb n="1"/>Superia
-                        <lb n="2" break="no"/>nus <roleName type="paracivic.religious" subtype="clerecus">cle
-                        <lb n="3" break="no"/>recus</roleName> de
-                        <lb n="4"/>Aqileia
-                    <milestone unit="section" n="c"/>
-                        <lb n="1"/>Superianus
-                        <lb n="2"/><roleName type="paracivic.religious" subtype="clerecus">c<supplied reason="lost">lerecus</supplied></roleName> <supplied reason="lost">de</supplied>
-                        <lb n="3"/><supplied reason="lost">Aqileia</supplied> <supplied reason="lost">hic</supplied>
-                        <lb n="4"/>reqe<supplied reason="lost">scet qui vix</supplied>
-                        <lb n="5" break="no"/>et an<supplied reason="lost">nos</supplied> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><w>Superianus</w>
+                    <lb n="2"/><roleName type="paracivic.religious" subtype="clerecus"><w>cl</w> <w><supplied reason="lost">erecus</supplied></w></roleName> <w>de</w>
+                    <lb n="3"/><name>Aq<supplied reason="lost">ileia</supplied></name> <w>hic</w>
+                    <lb n="4"/><w>reqescet</w> <milestone unit="section" n="b"/>
+                    <lb n="1"/><name>Superia
+                    <lb n="2" break="no"/>nus</name> <roleName type="paracivic.religious" subtype="clerecus"><w>cle
+                    <lb n="3" break="no"/>recus</w></roleName> <w>de</w>
+                    <lb n="4"/><name>Aqileia</name> <milestone unit="section" n="c"/>
+                    <lb n="1"/><name>Superianus</name>
+                    <lb n="2"/><roleName type="paracivic.religious" subtype="clerecus"><w>c</w> <w><supplied reason="lost">lerecus</supplied></w></roleName> <w><supplied reason="lost">de</supplied></w>
+                    <lb n="3"/><name><supplied reason="lost">Aqileia</supplied></name> <w><supplied reason="lost">hic</supplied></w>
+                    <lb n="4"/><w>reqe<supplied reason="lost">scet qui vix</supplied>
+                    <lb n="5" break="no"/>et</w> <w>an<supplied reason="lost">nos</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>
             <div type="apparatus">

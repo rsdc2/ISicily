@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -196,12 +196,12 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#VM">
                 <ab>
-                    <lb n="1"/>Hic requie<hi rend="reversed">s</hi>cit in p
-                    <lb n="2" break="no"/>acae <expan><abbr><am><g ref="#christogram">☧</g></am></abbr><ex>Christi</ex></expan> infa<supplied reason="omitted">n</supplied><hi rend="reversed">s</hi> Bonipa
-                    <lb n="3"/>tia <choice><corr>q</corr><sic>o</sic></choice><choice><corr>u</corr><sic>y</sic></choice>i <choice><corr>v</corr><sic>y</sic></choice>ixsit in sec
-                    <lb n="4" break="no"/>ec<choice><corr>u</corr><sic>y</sic></choice><choice><corr>l</corr><sic>i</sic></choice>o ann<choice><corr>u</corr><sic>y</sic></choice>s <expan><abbr>p</abbr><ex>lus</ex></expan> <expan><abbr>m</abbr><ex>inus</ex></expan> <num value="11">XI</num> r
-                    <lb n="5" break="no"/>ece<supplied reason="omitted">s</supplied>sit sub die <expan><abbr>ka<choice><corr>l</corr><sic>c</sic></choice></abbr><ex>endarum</ex></expan> <expan><abbr>nove
-                    <lb n="6" break="no"/><hi rend="reversed">m</hi>b</abbr><ex>rium</ex></expan> <expan><abbr>cons<am>s</am></abbr><ex>ulibus</ex></expan> <expan><abbr>d</abbr><ex>omino</ex></expan> <expan><abbr>n</abbr><ex>ostro</ex></expan> <expan><abbr>Theodosi</abbr><ex>o</ex></expan> <expan><abbr>A</abbr><ex>ugusto</ex></expan>
+                    <lb n="1"/><w>Hic</w> <w>requie<hi rend="reversed">s</hi>cit</w> <w>in</w> <w>p
+                    <lb n="2" break="no"/>acae</w> <w><expan><abbr><am><g ref="#christogram">☧</g></am></abbr><ex>Christi</ex></expan></w> <w>infa<supplied reason="omitted">n</supplied><hi rend="reversed">s</hi></w> <name>Bonipa</name>
+                    <lb n="3"/><w>tia</w> <w><choice><corr>q</corr><sic>o</sic></choice><choice><corr>u</corr><sic>y</sic></choice>i</w> <w><choice><corr>v</corr><sic>y</sic></choice>ixsit</w> <w>in</w> <w>sec
+                    <lb n="4" break="no"/>ec<choice><corr>u</corr><sic>y</sic></choice><choice><corr>l</corr><sic>i</sic></choice>o</w> <w>ann<choice><corr>u</corr><sic>y</sic></choice>s</w> <w><expan><abbr>p</abbr><ex>lus</ex></expan></w> <w><expan><abbr>m</abbr><ex>inus</ex></expan></w> <num value="11">XI</num> <w>r
+                    <lb n="5" break="no"/>ece<supplied reason="omitted">s</supplied>sit</w> <w>sub</w> <w>die</w> <w><expan><abbr>ka<choice><corr>l</corr><sic>c</sic></choice></abbr><ex>endarum</ex></expan></w> <w><expan><abbr>nove
+                    <lb n="6" break="no"/><hi rend="reversed">m</hi>b</abbr><ex>rium</ex></expan></w> <w><expan><abbr>cons<am>s</am></abbr><ex>ulibus</ex></expan></w> <w><expan><abbr>d</abbr><ex>omino</ex></expan></w> <w><expan><abbr>n</abbr><ex>ostro</ex></expan></w> <name><expan><abbr>Theodosi</abbr><ex>o</ex></expan></name> <name><expan><abbr>A</abbr><ex>ugusto</ex></expan></name>
                 </ab>
             </div>
             <div type="apparatus">

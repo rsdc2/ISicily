@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -192,10 +192,10 @@
         <body>
            <div type="edition" xml:space="preserve" xml:lang="la" resp="#GC">
                 <ab>
-                    <lb n="1"/><expan><abbr>D</abbr><ex>is</ex></expan> <expan><abbr>m</abbr><ex>anibus</ex></expan> <persName type="attested"><name type="nomen">Claudiae</name> <g ref="#interpunct">·</g> <name type="cognomen">Sabinae</name></persName>
+                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <w><expan><abbr>m</abbr><ex>anibus</ex></expan></w> <persName type="attested"><name type="nomen">Claudiae</name> <g ref="#interpunct">·</g> <name type="cognomen">Sabinae</name></persName>
                     <lb n="2"/><persName type="attested"><name type="praenomen"><expan><abbr>L</abbr><ex>ucius</ex></expan></name> <g ref="#interpunct">·</g> <name type="nomen">Metilius</name> <name type="cognomen">Proculus</name></persName>
-                    <lb n="3"/>coniugi <g ref="#interpunct">·</g> <choice><orig>karissimae</orig><reg>carissimae</reg></choice> <g ref="#interpunct">·</g> <expan><abbr>f</abbr><ex>ecit</ex></expan>
-               </ab>    
+                    <lb n="3"/><w>coniugi</w> <g ref="#interpunct">·</g> <w><choice><orig>karissimae</orig><reg>carissimae</reg></choice></w> <g ref="#interpunct">·</g> <w><expan><abbr>f</abbr><ex>ecit</ex></expan></w>
+                </ab>    
             </div>
             <div type="apparatus">
                 <listApp><app><note>Text after CIL</note></app></listApp>

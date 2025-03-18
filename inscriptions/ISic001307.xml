@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -186,13 +186,13 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1"/><foreign xml:lang="la"><expan><abbr>D</abbr><ex>is</ex></expan> <g ref="#interpunct">·</g> <expan><abbr>m</abbr><ex>anibus</ex></expan> <g ref="#interpunct">·</g> <expan><abbr>s</abbr><ex>acrum</ex></expan> <g ref="#interpunct">·</g></foreign>
+                    <lb n="1"/><foreign xml:lang="la"><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>m</abbr><ex>anibus</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>s</abbr><ex>acrum</ex></expan></w> <g ref="#interpunct">·</g></foreign>
                     <lb n="2"/><persName type="attested"><name>Κλωδία</name> <name>Βαλεντεῖνα</name></persName>
-                    <lb n="3"/>χαῖρε <expan><abbr>ἔζη</abbr><ex>σεν</ex></expan> <expan><abbr>ἔ</abbr><ex>τη</ex></expan> <num value="40"><foreign xml:lang="la">XXXX</foreign></num>
-                    <lb n="4"/>ἐποίησε ἰδίᾳ γυναι
-                    <lb n="5" break="no"/>κὶ <persName type="attested"><name>Ἰγνᾶτις</name> <name>Κάρικος</name></persName>
-                    <lb n="6"/><expan><abbr>μνή</abbr><ex>μης</ex></expan> χάριν
-                    </ab>
+                    <lb n="3"/><w>χαῖρε</w> <w><expan><abbr>ἔζη</abbr><ex>σεν</ex></expan></w> <w><expan><abbr>ἔ</abbr><ex>τη</ex></expan></w> <num value="40"><foreign xml:lang="la">XXXX</foreign></num>
+                    <lb n="4"/><w>ἐποίησε</w> <w>ἰδίᾳ</w> <w>γυναι
+                    <lb n="5" break="no"/>κὶ</w> <persName type="attested"><name>Ἰγνᾶτις</name> <name>Κάρικος</name></persName>
+                    <lb n="6"/><w><expan><abbr>μνή</abbr><ex>μης</ex></expan></w> <w>χάριν</w>
+                </ab>
             </div>
             <div type="apparatus">
                 <listApp><app><note>Text after Kaibel in IG</note></app></listApp>

@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -198,16 +198,16 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#VM">
                 <ab>
-                    <lb n="1"/><expan><abbr>L</abbr><ex>ucio</ex></expan> <g ref="#interpunct">·</g> Acilio <g ref="#interpunct">·</g> <expan><abbr>L</abbr><ex>uci</ex></expan> <g ref="#interpunct">·</g> <expan><abbr>f</abbr><ex>ilio</ex></expan> <g ref="#interpunct">·</g> <expan><abbr>Qui</abbr><ex>rina</ex></expan>
-                    <lb n="2"/>Rufo
-                    <lb n="3"/><roleName type="supracivic" subtype="quaestor.pro.praetore"><expan><abbr>q</abbr><ex>uaestori</ex></expan> <g ref="#interpunct">·</g> pro <g ref="#interpunct">·</g> <expan><abbr>pr</abbr><ex>aetore</ex></expan></roleName> <g ref="#interpunct">·</g> <expan><abbr>provinc</abbr><ex>iae</ex></expan>
-                    <lb n="4"/><expan><abbr>Sicil</abbr><ex>iae</ex></expan> <g ref="#interpunct">·</g> <roleName type="supracivic" subtype="tribunus.plebis"><expan><abbr>tr</abbr><ex>ibuno</ex></expan> <g ref="#interpunct">·</g> <expan><abbr>pl</abbr><ex>ebis</ex></expan></roleName> <g ref="#interpunct">·</g> <roleName type="supracivic" subtype="praetor"><expan><abbr>pr</abbr><ex>raetori</ex></expan></roleName>
-                    <lb n="5"/><roleName type="supracivic" subtype="praefectus.frumenti.dandi"><expan><abbr>praef</abbr><ex>ecto</ex></expan> <g ref="#interpunct">·</g> <expan><abbr>frum</abbr><ex>enti</ex></expan> <g ref="#interpunct">·</g> <expan><abbr>dand</abbr><ex>i</ex></expan></roleName>
-                    <lb n="6"/>ex <g ref="#interpunct">·</g> <expan><abbr>s</abbr><ex>enatus</ex></expan> <g ref="#interpunct">·</g> <expan><abbr>c</abbr><ex>onsulto</ex></expan>
+                    <lb n="1"/><w><expan><abbr>L</abbr><ex>ucio</ex></expan></w> <g ref="#interpunct">·</g> <name>Acilio</name> <g ref="#interpunct">·</g> <name><expan><abbr>L</abbr><ex>uci</ex></expan></name> <g ref="#interpunct">·</g> <w><expan><abbr>f</abbr><ex>ilio</ex></expan></w> <g ref="#interpunct">·</g> <name><expan><abbr>Qui</abbr><ex>rina</ex></expan></name>
+                    <lb n="2"/><name>Rufo</name>
+                    <lb n="3"/><roleName type="supracivic" subtype="quaestor.pro.praetore"><w><expan><abbr>q</abbr><ex>uaestori</ex></expan></w> <g ref="#interpunct">·</g> <w>pro</w> <g ref="#interpunct">·</g> <w><expan><abbr>pr</abbr><ex>aetore</ex></expan></w></roleName> <g ref="#interpunct">·</g> <w><expan><abbr>provinc</abbr><ex>iae</ex></expan></w>
+                    <lb n="4"/><name><expan><abbr>Sicil</abbr><ex>iae</ex></expan></name> <g ref="#interpunct">·</g> <roleName type="supracivic" subtype="tribunus.plebis"><w><expan><abbr>tr</abbr><ex>ibuno</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>pl</abbr><ex>ebis</ex></expan></w></roleName> <g ref="#interpunct">·</g> <roleName type="supracivic" subtype="praetor"><w><expan><abbr>pr</abbr><ex>raetori</ex></expan></w></roleName>
+                    <lb n="5"/><roleName type="supracivic" subtype="praefectus.frumenti.dandi"><w><expan><abbr>praef</abbr><ex>ecto</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>frum</abbr><ex>enti</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>dand</abbr><ex>i</ex></expan></w></roleName>
+                    <lb n="6"/><w>ex</w> <g ref="#interpunct">·</g> <w><expan><abbr>s</abbr><ex>enatus</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>c</abbr><ex>onsulto</ex></expan></w>
                     <lb n="7"/><space extent="1" unit="line"/>
-                    <lb n="8"/>Hispellates <g ref="#interpunct">·</g> <expan><abbr>public</abbr><ex>e</ex></expan>
-                    <lb n="9"/><roleName type="civic" subtype="decurio"><expan><abbr>d</abbr><ex>ecurionum</ex></expan></roleName> <g ref="#interpunct">·</g> <expan><abbr>d</abbr><ex>ecreto</ex></expan>
-                    <lb n="10"/><roleName type="paracivic" subtype="patronus">patrono</roleName>
+                    <lb n="8"/><name>Hispellates</name> <g ref="#interpunct">·</g> <w><expan><abbr>public</abbr><ex>e</ex></expan></w>
+                    <lb n="9"/><roleName type="civic" subtype="decurio"><w><expan><abbr>d</abbr><ex>ecurionum</ex></expan></w></roleName> <g ref="#interpunct">·</g> <w><expan><abbr>d</abbr><ex>ecreto</ex></expan></w>
+                    <lb n="10"/><roleName type="paracivic" subtype="patronus"><w>patrono</w></roleName>
                 </ab>
             </div>
                 <div type="apparatus">

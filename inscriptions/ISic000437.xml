@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -187,11 +187,11 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#TA">
-            <ab>
-                <lb n="1"/><supplied reason="lost">Of</supplied>illia <g ref="#interpunct">·</g> Proba
-                <lb n="2"/>sibi <g ref="#interpunct">·</g> et <g ref="#interpunct">·</g> <expan><abbr>L</abbr><ex>ucio</ex></expan> <g ref="#interpunct">·</g> Ofillio
-                <lb n="3"/>Faust<hi rend="apex">o</hi> <g ref="#interpunct">·</g> patrono
-            </ab>
+                <ab>
+                    <lb n="1"/><w><supplied reason="lost">Of</supplied>illia</w> <g ref="#interpunct">·</g> <name>Proba</name>
+                    <lb n="2"/><w>sibi</w> <g ref="#interpunct">·</g> <w>et</w> <g ref="#interpunct">·</g> <name><expan><abbr>L</abbr><ex>ucio</ex></expan></name> <g ref="#interpunct">·</g> <name>Ofillio</name>
+                    <lb n="3"/><name>Faust<hi rend="apex">o</hi></name> <g ref="#interpunct">·</g> <w>patrono</w>
+                </ab>
             </div>
             <div type="apparatus">
                 <listApp>

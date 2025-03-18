@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -189,9 +189,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
-                    <lb n="1"/><expan><abbr>L</abbr><ex>ucio</ex></expan> Acilio <expan><abbr>L</abbr><ex>uci</ex></expan> <expan><abbr>f</abbr><ex>ilio</ex></expan>
-                    <lb n="2"/>Rufo <roleName type="civic" subtype="duumvir"><num value="2"><hi rend="supraline">I</hi><supplied reason="lost"><hi rend="supraline">I</hi></supplied></num> <supplied reason="lost">viro</supplied></roleName>
-                    <lb n="3"/>co<gap reason="lost" unit="character" quantity="8" precision="low"/> ter<gap reason="lost" unit="character" extent="unknown"/>
+                    <lb n="1"/><w><expan><abbr>L</abbr><ex>ucio</ex></expan></w> <name>Acilio</name> <name><expan><abbr>L</abbr><ex>uci</ex></expan></name> <w><expan><abbr>f</abbr><ex>ilio</ex></expan></w>
+                    <lb n="2"/><name>Rufo</name> <roleName type="civic" subtype="duumvir"><num value="2"><hi rend="supraline">I</hi><supplied reason="lost"><hi rend="supraline">I</hi></supplied></num> <w><supplied reason="lost">viro</supplied></w></roleName>
+                    <lb n="3"/><w>co</w> <gap reason="lost" unit="character" quantity="8" precision="low"/> <w>ter</w> <gap reason="lost" unit="character" extent="unknown"/>
                 </ab>
             </div>
             <div type="apparatus">

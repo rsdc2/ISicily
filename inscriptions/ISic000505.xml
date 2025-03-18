@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -189,11 +189,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
-                    <lb n="1"/>Salvis <g ref="#interpunct">·</g> Plotino <g ref="#interpunct">·</g> et <g ref="#ivy-leaf">❦</g>
-                    <lb n="2"/>Rufae <g ref="#interpunct">·</g> Logus <g ref="#interpunct">·</g> <expan><abbr>serv</abbr><ex>us</ex></expan> <g ref="#interpunct">·</g>
-                    <lb n="3"/><expan><abbr>act</abbr><ex>or</ex></expan> <g ref="#interpunct">·</g> <expan><abbr>port</abbr><ex>us</ex></expan> <g ref="#interpunct">·</g> Lilybit<supplied reason="omitted">a</supplied>ni
-                    <lb n="4"/>hoc sacrarium
-                    <lb n="5"/>ex voto exornavit <g ref="#ivy-leaf">❦</g>
+                    <lb n="1"/><w>Salvis</w> <g ref="#interpunct">·</g> <name>Plotino</name> <g ref="#interpunct">·</g> <w>et</w> <g ref="#ivy-leaf">❦</g>
+                    <lb n="2"/><name>Rufae</name> <g ref="#interpunct">·</g> <name>Logus</name> <g ref="#interpunct">·</g> <w><expan><abbr>serv</abbr><ex>us</ex></expan></w> <g ref="#interpunct">·</g>
+                    <lb n="3"/><w><expan><abbr>act</abbr><ex>or</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>port</abbr><ex>us</ex></expan></w> <g ref="#interpunct">·</g> <name>Lilybit<supplied reason="omitted">a</supplied>ni</name>
+                    <lb n="4"/><w>hoc</w> <w>sacrarium</w>
+                    <lb n="5"/><w>ex</w> <w>voto</w> <w>exornavit</w> <g ref="#ivy-leaf">❦</g>
                 </ab>
             </div>
             <div type="apparatus">

@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -195,12 +195,12 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#VM">
                 <ab>
-                    <lb n="1"/><expan><abbr>D</abbr><ex>is</ex></expan> <expan><abbr>M</abbr><ex>anibus</ex></expan> <expan><abbr>S</abbr><ex>acrum</ex></expan> <g ref="#ivy-leaf">❦</g>
-                    <lb n="2"/>Lollia Irenus
-                    <lb n="3"/><expan><abbr>v</abbr><ex>ixit</ex></expan> <expan><abbr>a</abbr><ex>nnos</ex></expan> <num value="43">XLIII</num>
-                    <lb n="4"/><expan><abbr>L</abbr><ex>ucius</ex></expan> Helvius Copria
-                    <lb n="5" break="no"/>nus
-                    <lb n="6"/>Coniugi <expan><abbr>b</abbr><ex>ene</ex></expan> <expan><abbr>m</abbr><ex>erenti</ex></expan> <expan><abbr>f</abbr><ex>ecit</ex></expan>
+                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <name><expan><abbr>M</abbr><ex>anibus</ex></expan></name> <name><expan><abbr>S</abbr><ex>acrum</ex></expan></name> <g ref="#ivy-leaf">❦</g>
+                    <lb n="2"/><name>Lollia</name> <name>Irenus</name>
+                    <lb n="3"/><w><expan><abbr>v</abbr><ex>ixit</ex></expan></w> <w><expan><abbr>a</abbr><ex>nnos</ex></expan></w> <num value="43">XLIII</num>
+                    <lb n="4"/><name><expan><abbr>L</abbr><ex>ucius</ex></expan></name> <name>Helvius</name> <name>Copria
+                    <lb n="5" break="no"/>nus</name>
+                    <lb n="6"/><name>Coniugi</name> <w><expan><abbr>b</abbr><ex>ene</ex></expan></w> <w><expan><abbr>m</abbr><ex>erenti</ex></expan></w> <w><expan><abbr>f</abbr><ex>ecit</ex></expan></w>
                 </ab>
             </div>
             <div type="apparatus">

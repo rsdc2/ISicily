@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -70,9 +70,9 @@
                                     <material ana="#material.stone.marble" ref="http://www.eagle-network.eu/voc/material/lod/48.html">marble</material>
                                     <objectType ana="#object.plaque" ref="http://www.eagle-network.eu/voc/objtyp/lod/259">plaque</objectType>
                                     <dimensions>
-                                        <height unit="cm"></height>
-                                        <width unit="cm"></width>
-                                        <depth unit="cm"></depth>
+                                        <height unit="cm"/>
+                                        <width unit="cm"/>
+                                        <depth unit="cm"/>
                                     </dimensions>
                                 </support>
                                 <condition ana="#condition.fragment"/>
@@ -85,14 +85,14 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote><p></p>
+                            <handNote><p/>
                                 <locus from="line1" to="line1">Line 1</locus>
                                 <dimensions type="letterHeight">
-                                    <height unit="mm"></height>
+                                    <height unit="mm"/>
                                 </dimensions>
                                 <locus from="line1" to="line2">Interlineation line 1 to 2</locus>
                                 <dimensions type="interlinear">
-                                    <height unit="mm"></height>
+                                    <height unit="mm"/>
                                 </dimensions>
                             </handNote>
                         </handDesc>
@@ -171,7 +171,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <unclear>V</unclear> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w><unclear>V</unclear></w> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
              </div>
             <div type="apparatus">
@@ -181,7 +181,7 @@
                </listApp>
             </div>
             <div type="translation" xml:lang="en" resp="#JP">
-                <p></p>
+                <p/>
             </div>
             <div type="commentary">
                 <p>The fragment appears unpublished, beyond the presentation on the British Museum website, at: <ref target="https://www.britishmuseum.org/collection/object/G_1863-0728-237">https://www.britishmuseum.org/collection/object/G_1863-0728-237</ref>. While it is uncertain whether this is Latin, or indeed a letter V, the use of white marble makes a Latin text of the imperial period much more likely than anything else. The piece appears to be one of a substantial number of minor pieces collected by George Denis in Agrigento prior to 1863 when they were acquired by the Museum.</p>

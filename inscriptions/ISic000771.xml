@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -190,9 +190,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
-                    <lb n="1"/><supplied reason="lost">Lari</supplied>bus Augusteis et Genio Caesa<supplied reason="lost">ris</supplied>
-                    <lb n="2"/><supplied reason="lost">Lib</supplied>erorumque eius <expan><abbr>C</abbr><ex>aius</ex></expan> Publilius
-                    <lb n="3"/><supplied reason="lost">Phil</supplied>argurus <roleName type="civic.religious" subtype="sevir">sevir</roleName> primus et prior
+                    <lb n="1"/><w><supplied reason="lost">Lari</supplied>bus</w> <name>Augusteis</name> <w>et</w> <name>Genio</name> <name>Caesa<supplied reason="lost">ris</supplied></name>
+                    <lb n="2"/><name><supplied reason="lost">Lib</supplied>erorumque</name> <w>eius</w> <name><expan><abbr>C</abbr><ex>aius</ex></expan></name> <name>Publilius</name>
+                    <lb n="3"/><name><supplied reason="lost">Phil</supplied>argurus</name> <roleName type="civic.religious" subtype="sevir"><w>sevir</w></roleName> <w>primus</w> <w>et</w> <w>prior</w>
                 </ab>
             </div>
             <div type="apparatus">

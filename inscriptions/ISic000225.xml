@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -210,7 +210,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#VM #AA">
                 <ab>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><unclear>r</unclear><gap reason="lost" extent="unknown" unit="character"/><unclear>o</unclear><gap reason="lost" extent="unknown" unit="character"/> 
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w><unclear>r</unclear></w> <gap reason="lost" extent="unknown" unit="character"/> <w><unclear>o</unclear></w> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="2"/><persName type="attested"><name>Dionysio</name></persName> <g ref="#interpunct">·</g> <w>et</w> <g ref="#interpunct">·</g>
                     <lb n="3"/><persName type="attested"><name><expan><abbr><supplied reason="lost">C</supplied>n</abbr><ex>aeo</ex></expan></name> <name>Terentio</name> <g ref="#interpunct">·</g> <persName type="attested"><name type="patronym"><expan><abbr>Sp</abbr><ex>uri</ex></expan></name></persName> <g ref="#interpunct">·</g> <w><expan><abbr>f</abbr><ex>ilio</ex></expan></w> <g ref="#interpunct">·</g> <name>Rufo</name></persName>
                     <lb n="4"/><persName type="attested"><name><supplied reason="lost">V</supplied><unclear>i</unclear>bia</name> <g ref="#interpunct">·</g> <persName type="attested"><name type="libertinatio"><expan><abbr>M</abbr><ex>arci</ex></expan></name></persName> <g ref="#interpunct">·</g> <w><expan><abbr>l</abbr><ex>iberta</ex></expan></w> <g ref="#interpunct">·</g> <name type="attested">Ammia</name></persName> <g ref="#interpunct">·</g>

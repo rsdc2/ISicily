@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -191,15 +191,15 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><orig>DAREXITO</orig> <orig><foreign xml:lang="la-Grek">Θ</foreign>UM</orig><gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><orig>MPSIT</orig><gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> natus <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/><orig>VORETO</orig> <orig>CAM</orig><gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/>aurenti <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="6"/><gap reason="lost" extent="unknown" unit="character"/><orig>LAM</orig><gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="7"/><gap reason="lost" extent="unknown" unit="character"/>stasiae <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="8"/><gap reason="lost" extent="unknown" unit="character"/> <roleName type="supracivic" subtype="dominus"><expan><hi rend="supraline"><abbr>d<am>d</am></abbr></hi><ex cert="low">ominis</ex></expan></roleName> <expan><hi rend="supraline"><abbr>n<am>n</am></abbr></hi><ex cert="low">ostris</ex></expan>
-                    <lb n="9"/><gap reason="lost" extent="unknown" unit="character"/><name><supplied reason="lost">Valenti</supplied>niano</name> <num value="4">IIII</num> <supplied reason="lost">et</supplied> <supplied reason="lost"><name>Valente</name></supplied> <supplied reason="lost"><num value="4">IIII</num></supplied> <supplied reason="lost"><roleName type="supracivic" subtype="consul"><expan><abbr>co</abbr><ex>n</ex><abbr>s</abbr><ex>ulibus</ex></expan></roleName></supplied>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <orig>DAREXITO</orig><orig><foreign xml:lang="la-Grek">Θ</foreign>UM</orig><gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <orig>MPSIT</orig><gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <w>natus</w> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <orig>VORETO</orig><orig>CAM</orig><gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/> <w>aurenti</w> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="6"/><gap reason="lost" extent="unknown" unit="character"/> <orig>LAM</orig><gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="7"/><gap reason="lost" extent="unknown" unit="character"/> <w>stasiae</w> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="8"/><gap reason="lost" extent="unknown" unit="character"/> <roleName type="supracivic" subtype="dominus"><w><expan><hi rend="supraline"><abbr>d<am>d</am></abbr></hi><ex cert="low">ominis</ex></expan></w></roleName> <w><expan><hi rend="supraline"><abbr>n<am>n</am></abbr></hi><ex cert="low">ostris</ex></expan></w>
+                    <lb n="9"/><gap reason="lost" extent="unknown" unit="character"/> <name><supplied reason="lost">Valenti</supplied>niano</name> <num value="4">IIII</num> <w><supplied reason="lost">et</supplied></w> <supplied reason="lost"><name>Valente</name></supplied> <supplied reason="lost"><num value="4">IIII</num></supplied> <w><supplied reason="lost"><roleName type="supracivic" subtype="consul"><expan><abbr>co</abbr><ex>n</ex><abbr>s</abbr><ex>ulibus</ex></expan></roleName></supplied></w>
                 </ab>
             </div>
             <div type="apparatus">

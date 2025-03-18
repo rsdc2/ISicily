@@ -195,15 +195,14 @@
                         <lb n="1"/><w>ἀ</w> <w>ὠ</w>
                     </ab>
                 </div>
-                
                 <div type="textpart" subtype="section" n="b" xml:lang="la">
                     <ab>
-                        <lb n="2"/><w>Ausanius</w> 
-                        <lb n="3"/><roleName type="religious" subtype="diaconus"><w>diaconus</w></roleName> 
-                        <lb n="4"/><w>in</w> <w>pace</w> <w><expan><abbr>vix</abbr><ex>it</ex></expan></w> 
-                        <lb n="5"/><w>annis</w> <num value="65">LXV</num> 
-                        <lb n="6"/><w>depositus</w> 
-                        <lb n="7"/><num value="7">VII</num> <w>Idus</w> <w><expan><abbr>Ian</abbr><ex>uaria</ex><abbr>s</abbr></expan></w>
+                        <lb n="2"/><w>Ausanius</w>
+                        <lb n="3"/><roleName type="religious" subtype="diaconus"><w>diaconus</w></roleName>
+                        <lb n="4"/><w>in</w> <w>pace</w> <w><expan><abbr>vix</abbr><ex>it</ex></expan></w>
+                        <lb n="5"/><w>annis</w> <num value="65">LXV</num>
+                        <lb n="6"/><w>depositus</w>
+                        <lb n="7"/><num value="7">VII</num> <name>Idus</name> <name><expan><abbr>Ian</abbr><ex>uaria</ex><abbr>s</abbr></expan></name>
                     </ab>
                 </div>
                 </div>

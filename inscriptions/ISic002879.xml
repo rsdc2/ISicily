@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -189,11 +189,11 @@
         <body>
             <div type="edition" xml:space="preserve" subtype="PHI" n="PHI337234">
                 <ab>
-                    <lb n="1"/>
-
-
-                    Σεκο-<lb n="2"/>ῦνδα.<lb n="3"/>
-                    <lb n="4"/>Οἰκουμε-<lb n="5"/>νία.
+                    <lb n="1"/><w>Σεκο-</w>
+                    <lb n="2"/><w>ῦνδα.</w>
+                    <lb n="3"/>
+                    <lb n="4"/><name>Οἰκουμε-</name>
+                    <lb n="5"/><w>νία.</w>
                     <lb n="6"/>
                 </ab>
             </div>

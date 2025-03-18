@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -204,7 +204,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#TA #JP">
                 <ab>
-                    <lb n="1" xml:id="APAAK"/><w xml:id="APAAU"><expan xml:id="APAAe"><abbr xml:id="APAAo">D</abbr><ex xml:id="APAAy">is</ex></expan></w> <g ref="#interpunct" xml:id="APAAΙ">·</g> <w xml:id="APAAΤ"><expan xml:id="APAAε"><abbr xml:id="APAAο">M</abbr><ex xml:id="APABA">anibus</ex></expan></w> 
+                    <lb n="1" xml:id="APAAK"/><w xml:id="APAAU"><expan xml:id="APAAe"><abbr xml:id="APAAo">D</abbr><ex xml:id="APAAy">is</ex></expan></w> <g ref="#interpunct" xml:id="APAAΙ">·</g> <name xml:id="APAAΤ"><expan xml:id="APAAε"><abbr xml:id="APAAο">M</abbr><ex xml:id="APABA">anibus</ex></expan></name>
                     <lb n="2" xml:id="APABK"/><persName type="attested" xml:id="APABU"><name xml:id="APABe"><expan xml:id="APABo"><abbr xml:id="APABy">T</abbr><ex xml:id="APABΙ">itus</ex></expan></name> <g ref="#interpunct" xml:id="APABΤ">·</g> <name xml:id="APABε">Cestiu<unclear xml:id="APABο">s</unclear></name></persName> <gap reason="lost" extent="unknown" unit="character" xml:id="APACA"/>
                 </ab>
             </div>

@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -196,13 +196,13 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1"/>Θάλπων χαῖρε
-                    <lb n="2"/>χρηστὲ καὶ ἄμε<hi rend="small">μ</hi>
-                    <lb n="3" break="no"/>πτε <g ref="#interpunct">·</g> Θάλπ<unclear>ο</unclear>ν
-                    <lb n="4"/>ἐνθάδε κεῖμαι ἑξα
-                    <lb n="5" break="no"/>ετὴς δὲ θανών
-                    <lb n="6"/>νήπιος ὠκύμορος
-               </ab>
+                    <lb n="1"/><w>Θάλπων</w> <w>χαῖρε</w>
+                    <lb n="2"/><w>χρηστὲ</w> <w>καὶ</w> <w>ἄμε<hi rend="small">μ</hi>
+                    <lb n="3" break="no"/>πτε</w> <g ref="#interpunct">·</g> <name>Θάλπ<unclear>ο</unclear>ν</name>
+                    <lb n="4"/><w>ἐνθάδε</w> <w>κεῖμαι</w> <w>ἑξα
+                    <lb n="5" break="no"/>ετὴς</w> <w>δὲ</w> <w>θανών</w>
+                    <lb n="6"/><w>νήπιος</w> <w>ὠκύμορος</w>
+                </ab>
             </div>
             <div type="apparatus">
                 <listApp><app><note>Text from autopsy</note></app></listApp>

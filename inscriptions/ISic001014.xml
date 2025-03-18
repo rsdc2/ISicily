@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -194,12 +194,12 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/>ἐνθάδε κῖτ<supplied reason="lost">ε</supplied> <supplied reason="lost">ἡ</supplied> <supplied reason="lost">δεῖνα</supplied>
-                    <lb n="2"/>ζήσασα ἔτ<supplied reason="lost">η</supplied> <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">τελευτήσασα</supplied>
-                    <lb n="3"/>τε͂ς <num value="13">ιγ</num> Αὐγο<supplied reason="lost">ύστου</supplied> <supplied reason="lost">ἠγόρα</supplied>
-                    <lb n="4" break="no"/>σεν δὲ τὸ<supplied reason="lost">ν τόπον</supplied>
-                    <lb n="5"/>αὐτῆς Μαρ<gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">παρὰ</supplied> 
-                    <lb n="6"/>τοῦ <orig>Ο</orig><gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><w>ἐνθάδε</w> <w>κῖτ<supplied reason="lost">ε</supplied></w> <w><supplied reason="lost">ἡ</supplied></w> <w><supplied reason="lost">δεῖνα</supplied></w>
+                    <lb n="2"/><w>ζήσασα</w> <w>ἔτ<supplied reason="lost">η</supplied></w> <gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">τελευτήσασα</supplied></w>
+                    <lb n="3"/><w>τε͂ς</w> <num value="13">ιγ</num> <name>Αὐγο<supplied reason="lost">ύστου</supplied></name> <w><supplied reason="lost">ἠγόρα</supplied>
+                    <lb n="4" break="no"/>σεν</w> <w>δὲ</w> <w>τὸ<supplied reason="lost">ν τόπον</supplied></w>
+                    <lb n="5"/><w>αὐτῆς</w> <name>Μαρ</name> <gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">παρὰ</supplied></w>
+                    <lb n="6"/><w>τοῦ</w> <orig>Ο</orig><gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>
             <div type="apparatus">

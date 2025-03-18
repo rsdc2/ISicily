@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -215,10 +215,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
-                    <lb n="1"/><expan><abbr><unclear>L</unclear></abbr><ex>ucio</ex> </expan> · Na<supplied reason="lost">ev</supplied><unclear>i</unclear>o ·  <expan><abbr><unclear>L</unclear></abbr><ex>uci</ex> </expan> ·
-                    <lb n="2"/><expan><abbr>f</abbr><ex>ilio</ex></expan> · <expan><abbr>Rom</abbr><ex>ilia tribu</ex></expan> · Firmi
-                    <lb n="3" break="no"/>no · M<supplied reason="lost">a</supplied>ni<unclear>l</unclear>iano
-                    <lb n="4"/><gap reason="illegible" unit="character" quantity="2"/><gap reason="lost" unit="character" quantity="8" cert="low"/>
+                    <lb n="1"/><w><expan><abbr><unclear>L</unclear></abbr><ex>ucio</ex></expan></w> <g ref="#interpunct">·</g> <name>Na<supplied reason="lost">ev</supplied><unclear>i</unclear>o</name> <g ref="#interpunct">·</g> <name><expan><abbr><unclear>L</unclear></abbr><ex>uci</ex></expan></name> <g ref="#interpunct">·</g>
+                    <lb n="2"/><w><expan><abbr>f</abbr><ex>ilio</ex></expan></w> <g ref="#interpunct">·</g> <name><expan><abbr>Rom</abbr><ex>ilia tribu</ex></expan></name> <g ref="#interpunct">·</g> <name>Firmi
+                    <lb n="3" break="no"/>no</name> <g ref="#interpunct">·</g> <name>M<supplied reason="lost">a</supplied>ni<unclear>l</unclear>iano</name>
+                    <lb n="4"/><gap reason="illegible" unit="character" quantity="2"/> <gap reason="lost" unit="character" quantity="8" cert="low"/>
                 </ab>
             </div>
             <div type="apparatus">

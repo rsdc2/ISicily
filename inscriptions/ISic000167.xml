@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -212,8 +212,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#TA #AA">
                 <ab>
-                    <lb n="1" xml:id="AQΤAK"/><persName type="attested" xml:id="AQΤAU"><name xml:id="AQΤAe">Daphne</name></persName> 
-                    <lb n="2" xml:id="AQΤAo"/><w xml:id="AQΤAy"><expan xml:id="AQΤAΙ"><abbr xml:id="AQΤAΤ">vix</abbr><ex xml:id="AQΤAε">it</ex></expan></w> <g ref="#interpunct" xml:id="AQΤAο">·</g> <w xml:id="AQΤBA"><expan xml:id="AQΤBK"><abbr xml:id="AQΤBU">ann</abbr><ex xml:id="AQΤBe">is</ex></expan></w> <g ref="#interpunct" xml:id="AQΤBo">·</g> <num value="23" xml:id="AQΤBy">XXIII</num> 
+                    <lb n="1" xml:id="AQΤAK"/><persName type="attested" xml:id="AQΤAU"><name xml:id="AQΤAe">Daphne</name></persName>
+                    <lb n="2" xml:id="AQΤAo"/><w xml:id="AQΤAy"><expan xml:id="AQΤAΙ"><abbr xml:id="AQΤAΤ">vix</abbr><ex xml:id="AQΤAε">it</ex></expan></w> <g ref="#interpunct" xml:id="AQΤAο">·</g> <w xml:id="AQΤBA"><expan xml:id="AQΤBK"><abbr xml:id="AQΤBU">ann</abbr><ex xml:id="AQΤBe">is</ex></expan></w> <g ref="#interpunct" xml:id="AQΤBo">·</g> <num value="23" xml:id="AQΤBy">XXIII</num>
                     <lb n="3" xml:id="AQΤBΙ"/><persName type="attested" xml:id="AQΤBΤ"><name xml:id="AQΤBε">Canin<hi rend="tall" xml:id="AQΤBο">i</hi></name> <g ref="#interpunct" xml:id="AQΤCA">·</g> <name xml:id="AQΤCK">Agonis</name></persName>
                 </ab>
             </div>

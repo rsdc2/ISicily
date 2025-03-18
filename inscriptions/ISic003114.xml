@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -191,10 +191,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    <lb n="1"/>ἐσθλὸν ἐν ἀγκοίνησιν ἔχ<supplied reason="lost">ω</supplied> <supplied reason="lost">ξένο</supplied>ν, ὦ παροδίτα
-                    <lb n="2"/>φῶτα Ποσείδερμον, Μασσαλ<supplied reason="lost">ίη</supplied>ς ναέτην
-                    <lb n="3"/>Πυθαγόρεω φίλον υἷα τὸν ἐνθάδ<supplied reason="lost">ε</supplied> <supplied reason="lost">μ</supplied>οῖρα κραταιὴ
-                    <lb n="4"/>πλάγξασα ἐκ πάτρης τῆλε φίλ<supplied reason="lost">ης</supplied> <supplied reason="lost">ὄ</supplied>λεσεν
+                    <lb n="1"/><w>ἐσθλὸν</w> <w>ἐν</w> <w>ἀγκοίνησιν</w> <w>ἔχ<supplied reason="lost">ω</supplied></w> <w><supplied reason="lost">ξένο</supplied>ν,</w> <w>ὦ</w> <w>παροδίτα</w>
+                    <lb n="2"/><w>φῶτα</w> <name>Ποσείδερμον,</name> <name>Μασσαλ<supplied reason="lost">ίη</supplied>ς</name> <w>ναέτην</w>
+                    <lb n="3"/><name>Πυθαγόρεω</name> <w>φίλον</w> <w>υἷα</w> <w>τὸν</w> <w>ἐνθάδ<supplied reason="lost">ε</supplied></w> <w><supplied reason="lost">μ</supplied>οῖρα</w> <w>κραταιὴ</w>
+                    <lb n="4"/><w>πλάγξασα</w> <w>ἐκ</w> <w>πάτρης</w> <w>τῆλε</w> <w>φίλ<supplied reason="lost">ης</supplied></w> <w><supplied reason="lost">ὄ</supplied>λεσεν</w>
                 </ab>
             </div>
             <div type="apparatus">

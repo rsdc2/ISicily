@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -194,12 +194,12 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/>Στέφανος ὁ μακα<supplied reason="lost">ρία</supplied>ς
-                    <lb n="2"/>μνήμης <roleName type="paracivic.religious" subtype="diakonos">διάκονος</roleName>
-                    <lb n="3"/>ἐνθάδε κῖτε ἀναπαυσάμενος
-                    <lb n="4"/>τῇ <hi rend="supraline"><num value="14">δι</num></hi> μηνὶ Ἰουνίου
-                    <lb n="5"/><roleName type="supracivic" subtype="consul">ὑπατίᾳ</roleName> Μοναξίου
-                    <lb n="6"/><g ref="#christogram">☧</g> καὶ Πλίνθα <g ref="#christogram">☧</g>
+                    <lb n="1"/><w>Στέφανος</w> <w>ὁ</w> <w>μακα<supplied reason="lost">ρία</supplied>ς</w>
+                    <lb n="2"/><w>μνήμης</w> <roleName type="paracivic.religious" subtype="diakonos"><w>διάκονος</w></roleName>
+                    <lb n="3"/><w>ἐνθάδε</w> <w>κῖτε</w> <w>ἀναπαυσάμενος</w>
+                    <lb n="4"/><w>τῇ</w> <hi rend="supraline"><num value="14">δι</num></hi><w>μηνὶ</w> <name>Ἰουνίου</name>
+                    <lb n="5"/><roleName type="supracivic" subtype="consul"><w>ὑπατίᾳ</w></roleName> <name>Μοναξίου</name>
+                    <lb n="6"/><g ref="#christogram">☧</g> <w>καὶ</w> <name>Πλίνθα</name> <g ref="#christogram">☧</g>
                 </ab>
             </div>
             <div type="apparatus">

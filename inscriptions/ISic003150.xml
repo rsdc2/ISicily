@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -195,13 +195,13 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
-                    <lb n="1"/><expan><abbr>D</abbr><ex>is</ex></expan> <expan><abbr>M</abbr><ex>anibus</ex></expan> <expan><abbr>s</abbr><ex>acrum</ex></expan>
-                    <lb n="2"/><expan><abbr>Q</abbr><ex>uinto</ex></expan> Pompeio Sosio
-                    <lb n="3"/>Clementiano
-                    <lb n="4"/>filio et ineanti
-                    <lb n="5"/>dulcissimo qui vixit
-                    <lb n="6"/><expan><abbr>mensib</abbr><ex>us</ex></expan> <num value="7">VII</num> <expan><abbr>dieb</abbr><ex>us</ex></expan> <num value="28">XXVIII</num>
-                    <lb n="7"/>parentes
+                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <name><expan><abbr>M</abbr><ex>anibus</ex></expan></name> <w><expan><abbr>s</abbr><ex>acrum</ex></expan></w>
+                    <lb n="2"/><name><expan><abbr>Q</abbr><ex>uinto</ex></expan></name> <name>Pompeio</name> <name>Sosio</name>
+                    <lb n="3"/><name>Clementiano</name>
+                    <lb n="4"/><w>filio</w> <w>et</w> <w>ineanti</w>
+                    <lb n="5"/><w>dulcissimo</w> <w>qui</w> <w>vixit</w>
+                    <lb n="6"/><w><expan><abbr>mensib</abbr><ex>us</ex></expan></w> <num value="7">VII</num> <w><expan><abbr>dieb</abbr><ex>us</ex></expan></w> <num value="28">XXVIII</num>
+                    <lb n="7"/><w>parentes</w>
                 </ab>
             </div>
             <div type="apparatus">

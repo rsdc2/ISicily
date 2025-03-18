@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -189,14 +189,14 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#SS">
                 <ab>
-                    <lb n="1"/><g ref="#cross_uninterpreted"/> Μνήστητη <expan><hi rend="supraline"><abbr>Κ</abbr></hi><ex>ύρι</ex><hi rend="supraline"><abbr>ε</abbr></hi></expan>
-                    <lb n="2"/>τοῦ δούλου σου Ν
-                    <lb n="3" break="no"/>ικολάου κὲ Θεοδ
-                    <lb n="4" break="no"/>οσίας τῆς συμβίου αυτοῦ <note>uncertain restoration</note>
+                    <lb n="1"/><g ref="#cross_uninterpreted"/> <w>Μνήστητη</w> <name><expan><hi rend="supraline"><abbr>Κ</abbr></hi><ex>ύρι</ex><hi rend="supraline"><abbr>ε</abbr></hi></expan></name>
+                    <lb n="2"/><w>τοῦ</w> <w>δούλου</w> <w>σου</w> <name>Ν
+                    <lb n="3" break="no"/>ικολάου</name> <w>κὲ</w> <name>Θεοδ
+                    <lb n="4" break="no"/>οσίας</name> <w>τῆς</w> <w>συμβίου</w> <w>αυτοῦ</w><note>uncertain restoration</note>
                     <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/> Α
-                    <lb n="6" break="no"/>ρκαδίου <gap reason="illegible" extent="unknown" unit="character"/>
-                    <lb n="7"/><gap reason="lost" extent="unknown" unit="character"/> 
+                    <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/> <name>Α
+                    <lb n="6" break="no"/>ρκαδίου</name> <gap reason="illegible" extent="unknown" unit="character"/>
+                    <lb n="7"/><gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>
             <div type="apparatus">

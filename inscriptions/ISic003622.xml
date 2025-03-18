@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -188,18 +188,18 @@
         <body>
             <div type="edition" xml:space="preserve" resp="#JP">
                 <div type="textpart" subtype="section" n="a" xml:lang="la">
-                <ab>
-                    <lb n="1"/><supplied reason="lost"><g ref="#cross_latin">†</g></supplied> <supplied reason="lost">hic</supplied> <supplied reason="lost">requiescit</supplied> <persName type="attested"><name>Basileus</name> senior</persName> e <supplied reason="lost">vita</supplied> <supplied reason="lost">exiens</supplied> <supplied reason="lost">vixi</supplied><unclear>t</unclear> <choice><orig>anos</orig><reg>annos</reg></choice> <num value="76">LXXVI</num>
-                    <lb n="2"/><supplied reason="lost">mense</supplied>s <gap reason="lost" unit="character" quantity="2"/> e<unclear>t</unclear> <supplied reason="lost">die</supplied>s <num value="16">XVI</num>
-                </ab>
+                    <ab>
+                        <lb n="1"/><supplied reason="lost"><g ref="#cross_latin">†</g></supplied> <w><supplied reason="lost">hic</supplied></w> <w><supplied reason="lost">requiescit</supplied></w> <persName type="attested"><name>Basileus</name> <w>senior</w></persName> <w>e</w> <w><supplied reason="lost">vita</supplied></w> <w><supplied reason="lost">exiens</supplied></w> <w><supplied reason="lost">vixi</supplied><unclear>t</unclear></w> <w><choice><orig>anos</orig><reg>annos</reg></choice></w> <num value="76">LXXVI</num>
+                        <lb n="2"/><w><supplied reason="lost">mense</supplied>s</w> <gap reason="lost" unit="character" quantity="2"/> <w>e<unclear>t</unclear></w> <w><supplied reason="lost">die</supplied>s</w> <num value="16">XVI</num>
+                    </ab>
                 </div>
                 <div type="textpart" subtype="section" n="b" xml:lang="grc">
                     <ab>
-                    <lb n="3"/><supplied reason="lost">ἐξελθὼν</supplied> <supplied reason="lost">ἐκ</supplied> τοῦ βίου <persName type="attested"><name>Βασιλεὺς</name></persName>
-                    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost" cert="low">δοῦλος</supplied> Θεοῦ ἤζησεν
-                    <lb n="5"/><supplied reason="lost">ἔτη</supplied> <supplied reason="lost"><num value="76">ος</num></supplied> <supplied reason="lost">μῆνας</supplied> <gap reason="lost" unit="character" quantity="2"/> <supplied reason="lost">ἡμ</supplied><unclear>έρ</unclear>α<supplied reason="lost">ς</supplied> <num value="16">ις</num> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="6"/><gap reason="lost" extent="unknown" unit="character" cert="low"/>
-                </ab>
+                        <lb n="3"/><w><supplied reason="lost">ἐξελθὼν</supplied></w> <w><supplied reason="lost">ἐκ</supplied></w> <w>τοῦ</w> <w>βίου</w> <persName type="attested"><name>Βασιλεὺς</name></persName>
+                        <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost" cert="low">δοῦλος</supplied></w> <name>Θεοῦ</name> <w>ἤζησεν</w>
+                        <lb n="5"/><w><supplied reason="lost">ἔτη</supplied></w> <supplied reason="lost"><num value="76">ος</num></supplied> <w><supplied reason="lost">μῆνας</supplied></w> <gap reason="lost" unit="character" quantity="2"/> <w><supplied reason="lost">ἡμ</supplied><unclear>έρ</unclear>α<supplied reason="lost">ς</supplied></w> <num value="16">ις</num> <gap reason="lost" extent="unknown" unit="character"/>
+                        <lb n="6"/><gap reason="lost" extent="unknown" unit="character" cert="low"/>
+                    </ab>
                 </div>
             </div>
             <div type="apparatus">

@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -193,16 +193,16 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/>αἱ μακάριε παρθένοι
-                    <lb n="2"/>Φωτίνη κὲ Φιλουμενὴ
-                    <lb n="3"/>ἐνθάδε κῖντε σεμνέ ἁγνὲ
-                    <lb n="4"/>παρθένοι ζήσασε βίου κα
-                    <lb n="5" break="no"/>λοῦ ἡ μιζοτέρα ἐτῶν
-                    <lb n="6"/><num value="80">π</num> <g ref="#interpunct">·</g> καὶ ἡ μικροτέρα ἐτῶ<supplied reason="omitted">ν</supplied>
-                    <lb n="7"/><num value="84">πδ</num> ὁρκοῦ σε κατὰ τοῦ θε
-                    <lb n="8" break="no"/>οῦ τοῦ παντοκράτορος
-                    <lb n="9"/>μηδένα αὐτὰς σκῦλέ
-                    <lb n="10"/><g ref="#staurogram">𐆠</g> ποτε <g ref="#staurogram">𐆠</g>
+                    <lb n="1"/><w>αἱ</w> <w>μακάριε</w> <w>παρθένοι</w>
+                    <lb n="2"/><name>Φωτίνη</name> <w>κὲ</w> <name>Φιλουμενὴ</name>
+                    <lb n="3"/><w>ἐνθάδε</w> <w>κῖντε</w> <w>σεμνέ</w> <w>ἁγνὲ</w>
+                    <lb n="4"/><w>παρθένοι</w> <w>ζήσασε</w> <w>βίου</w> <w>κα
+                    <lb n="5" break="no"/>λοῦ</w> <w>ἡ</w> <w>μιζοτέρα</w> <w>ἐτῶν</w>
+                    <lb n="6"/><num value="80">π</num> <g ref="#interpunct">·</g> <w>καὶ</w> <w>ἡ</w> <w>μικροτέρα</w> <w>ἐτῶ<supplied reason="omitted">ν</supplied></w>
+                    <lb n="7"/><num value="84">πδ</num> <w>ὁρκοῦ</w> <w>σε</w> <w>κατὰ</w> <w>τοῦ</w> <w>θε
+                    <lb n="8" break="no"/>οῦ</w> <w>τοῦ</w> <w>παντοκράτορος</w>
+                    <lb n="9"/><w>μηδένα</w> <w>αὐτὰς</w> <w>σκῦλέ</w>
+                    <lb n="10"/><g ref="#staurogram">𐆠</g> <w>ποτε</w> <g ref="#staurogram">𐆠</g>
                 </ab>
             </div>
             <div type="apparatus">

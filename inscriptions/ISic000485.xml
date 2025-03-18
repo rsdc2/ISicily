@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -201,12 +201,12 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AR">
                 <ab>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">pio</supplied>
-                    <lb n="2"/><expan><abbr><supplied reason="lost">f</supplied>el</abbr><ex>ici</ex></expan> <g ref="#interpunct">·</g> <expan><abbr>Aug</abbr><ex>usto</ex></expan>
-                    <lb n="3"/>res <g ref="#interpunct">·</g> <expan><abbr>p</abbr><ex>ublica</ex></expan> <g ref="#interpunct">·</g> <expan><abbr>co<unclear>l</unclear></abbr><ex>olonia</ex></expan> <g ref="#interpunct">·</g> <name><expan><abbr>Hel</abbr><ex>via</ex></expan></name>
-                    <lb n="4"/><name><expan><abbr>Aug</abbr><ex>usta</ex></expan></name> <g ref="#interpunct">·</g> <orgName><expan><abbr>Lilybit</abbr><ex>anorum</ex></expan></orgName>
-                    <lb n="5"/>devota <g ref="#interpunct">·</g> numini
-                    <lb n="6"/>eorum 
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">pio</supplied></w>
+                    <lb n="2"/><w><expan><abbr><supplied reason="lost">f</supplied>el</abbr><ex>ici</ex></expan></w> <g ref="#interpunct">·</g> <name><expan><abbr>Aug</abbr><ex>usto</ex></expan></name>
+                    <lb n="3"/><w>res</w> <g ref="#interpunct">·</g> <w><expan><abbr>p</abbr><ex>ublica</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>co<unclear>l</unclear></abbr><ex>olonia</ex></expan></w> <g ref="#interpunct">·</g> <name><expan><abbr>Hel</abbr><ex>via</ex></expan></name>
+                    <lb n="4"/><name><expan><abbr>Aug</abbr><ex>usta</ex></expan></name> <g ref="#interpunct">·</g> <orgName><name><expan><abbr>Lilybit</abbr><ex>anorum</ex></expan></name></orgName>
+                    <lb n="5"/><w>devota</w> <g ref="#interpunct">·</g> <w>numini</w>
+                    <lb n="6"/><w>eorum</w>
                 </ab>
             </div>
             <div type="apparatus">

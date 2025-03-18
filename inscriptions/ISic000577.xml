@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -191,9 +191,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
-                    <lb n="1"/>hic requiescit in pace
-                    <lb n="2"/><name>Th<foreign xml:lang="la-Grek">ω</foreign>nbr</name> qui vixit <expan><abbr>pl</abbr><ex>us</ex></expan> <expan><abbr>m</abbr><ex>inus</ex></expan> <expan><abbr>a</abbr><ex>nnos</ex></expan>
-                    <lb n="3"/><num value="6">VI</num> <g ref="#interpunct">·</g> deposita Augusta
+                    <lb n="1"/><w>hic</w> <w>requiescit</w> <w>in</w> <w>pace</w>
+                    <lb n="2"/><name>Th<foreign xml:lang="la-Grek">ω</foreign>nbr</name> <w>qui</w> <w>vixit</w> <w><expan><abbr>pl</abbr><ex>us</ex></expan></w> <w><expan><abbr>m</abbr><ex>inus</ex></expan></w> <w><expan><abbr>a</abbr><ex>nnos</ex></expan></w>
+                    <lb n="3"/><num value="6">VI</num> <g ref="#interpunct">·</g> <w>deposita</w> <name>Augusta</name>
                 </ab>
             </div>
             <div type="apparatus">

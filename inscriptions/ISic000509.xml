@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -192,17 +192,17 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la">
                 <ab>
-                    <lb n="1"/><roleName type="supracivic" subtype="imperator"><supplied reason="lost"><expan><abbr>Imp</abbr><ex>eratori</ex></expan></supplied></roleName> <supplied reason="lost">Caesari</supplied>
-                    <lb n="2"/><roleName type="supracivic" subtype="dominus"><expan><abbr>d</abbr><ex>omino</ex></expan></roleName> <expan><abbr>n</abbr><ex>ostro</ex></expan> <expan><abbr>F</abbr><supplied reason="lost"><abbr>l</abbr><ex>avio</ex></supplied></expan> <supplied reason="lost">Valentini</supplied>
-                    <lb n="3" break="no"/>ano pio <supplied reason="lost">felici</supplied>
-                    <lb n="4"/>semper Aug<supplied reason="lost">usto</supplied>
-                    <lb n="5"/><expan><abbr>M</abbr><ex>arcus</ex></expan> Valerius
-                    <lb n="6"/>Quintianus
-                    <lb n="7"/><expan><abbr>v</abbr><ex>ir</ex></expan> <roleName type="supracivic" subtype="clarissimus"><expan><abbr>c</abbr><ex>larissimus</ex></expan></roleName> <roleName type="supracivic" subtype="consularis"><expan><abbr>cons</abbr><ex>ularis</ex></expan></roleName> <expan><abbr>p</abbr><ex>rovinciae</ex></expan> <expan><abbr>S</abbr><ex>iciliae</ex></expan>
-                    <lb n="8"/>clementiae
-                    <lb n="9"/>pietatique eius
-                    <lb n="10"/>semper dicatis
-                    <lb n="11" break="no"/>simus
+                    <lb n="1"/><roleName type="supracivic" subtype="imperator"><w><supplied reason="lost"><expan><abbr>Imp</abbr><ex>eratori</ex></expan></supplied></w></roleName> <name><supplied reason="lost">Caesari</supplied></name>
+                    <lb n="2"/><roleName type="supracivic" subtype="dominus"><w><expan><abbr>d</abbr><ex>omino</ex></expan></w></roleName> <w><expan><abbr>n</abbr><ex>ostro</ex></expan></w> <name><expan><abbr>F</abbr><supplied reason="lost"><abbr>l</abbr><ex>avio</ex></supplied></expan></name> <name><supplied reason="lost">Valentini</supplied>
+                    <lb n="3" break="no"/>ano</name> <w>pio</w> <w><supplied reason="lost">felici</supplied></w>
+                    <lb n="4"/><w>semper</w> <name>Aug<supplied reason="lost">usto</supplied></name>
+                    <lb n="5"/><name><expan><abbr>M</abbr><ex>arcus</ex></expan></name> <name>Valerius</name>
+                    <lb n="6"/><name>Quintianus</name>
+                    <lb n="7"/><w><expan><abbr>v</abbr><ex>ir</ex></expan></w> <roleName type="supracivic" subtype="clarissimus"><w><expan><abbr>c</abbr><ex>larissimus</ex></expan></w></roleName> <roleName type="supracivic" subtype="consularis"><w><expan><abbr>cons</abbr><ex>ularis</ex></expan></w></roleName> <w><expan><abbr>p</abbr><ex>rovinciae</ex></expan></w> <name><expan><abbr>S</abbr><ex>iciliae</ex></expan></name>
+                    <lb n="8"/><w>clementiae</w>
+                    <lb n="9"/><w>pietatique</w> <w>eius</w>
+                    <lb n="10"/><w>semper</w> <w>dicatis
+                    <lb n="11" break="no"/>simus</w>
                 </ab>
             </div>
             <div type="apparatus">

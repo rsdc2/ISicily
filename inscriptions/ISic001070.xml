@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -186,20 +186,20 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <div type="textpart" subtype="section" n="a">
-                <ab>
-                    <lb n="1"/><persName type="attested"><name>Σόσιος</name> <name>Βαχχύλος</name></persName>
-                    <lb n="2"/><roleName type="paracivic.religious" subtype="diakonos">διάκων</roleName> ἐνθάδε
-                    <lb n="3"/>κῖτε <unclear>ἀ</unclear>νεπαύσετο
-                    <lb n="4"/>μηνὶ Νοβενβρίῳ
-                    <lb n="5"/>ἀπὸ <expan><abbr>καλανδῶ</abbr><ex>ν</ex></expan> <g ref="#interpunct">·</g> <num value="13">ιγ</num> <g ref="#interpunct">·</g>
-                </ab>
+                    <ab>
+                        <lb n="1"/><persName type="attested"><name>Σόσιος</name> <name>Βαχχύλος</name></persName>
+                        <lb n="2"/><roleName type="paracivic.religious" subtype="diakonos"><w>διάκων</w></roleName> <w>ἐνθάδε</w>
+                        <lb n="3"/><w>κῖτε</w> <w><unclear>ἀ</unclear>νεπαύσετο</w>
+                        <lb n="4"/><w>μηνὶ</w> <name>Νοβενβρίῳ</name>
+                        <lb n="5"/><w>ἀπὸ</w> <w><expan><abbr>καλανδῶ</abbr><ex>ν</ex></expan></w> <g ref="#interpunct">·</g> <num value="13">ιγ</num> <g ref="#interpunct">·</g>
+                    </ab>
                 </div>
                 <div type="textpart" subtype="section" n="b">
                     <ab>
                         <lb n="1"/><persName type="attested"><name><expan><abbr>Ἀντ</abbr><ex>ωνεία</ex></expan></name> <name>Εὐφ<unclear>ροσ</unclear><supplied reason="lost">ύ</supplied>
-                        <lb n="2" break="no"/>νη</name></persName> <expan><abbr>ἀνεπαύ<supplied reason="lost">σα</supplied>τ</abbr><ex>ο</ex></expan>
-                        <lb n="3"/>τῇ πρὸ <num value="11">ια</num> <expan><abbr>κ</abbr><ex>αλανδῶν</ex></expan> <expan><abbr>Δεκεμβρ</abbr><ex>ίων</ex></expan>
-                </ab>
+                        <lb n="2" break="no"/>νη</name></persName> <w><expan><abbr>ἀνεπαύ<supplied reason="lost">σα</supplied>τ</abbr><ex>ο</ex></expan></w>
+                        <lb n="3"/><w>τῇ</w> <w>πρὸ</w> <num value="11">ια</num> <w><expan><abbr>κ</abbr><ex>αλανδῶν</ex></expan></w> <name><expan><abbr>Δεκεμβρ</abbr><ex>ίων</ex></expan></name>
+                    </ab>
                 </div>
             </div>
             <div type="apparatus">

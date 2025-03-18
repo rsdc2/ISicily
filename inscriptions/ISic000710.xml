@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -206,13 +206,13 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#TNS #JP">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name>Grattia</name> <g ref="#interpunct">·</g> <name><expan><abbr>C</abbr><ex>ai</ex></expan></name> <g ref="#interpunct">·</g> <expan><abbr>f</abbr><ex>ilia</ex></expan><g ref="#interpunct">·</g>
+                    <lb n="1"/><persName type="attested"><name>Grattia</name> <g ref="#interpunct">·</g> <name><expan><abbr>C</abbr><ex>ai</ex></expan></name> <g ref="#interpunct">·</g> <w><expan><abbr>f</abbr><ex>ilia</ex></expan></w> <g ref="#interpunct">·</g>
                     <lb n="2"/><name>Paulla</name></persName>
-                    <lb n="3"/>uxor <g ref="#interpunct">·</g> <persName type="attested"><name><expan><abbr>C</abbr><ex>ai</ex></expan></name> <g ref="#interpunct">·</g> <name>Ofill<hi rend="apex">i</hi></name></persName> <g ref="#interpunct">·</g> ma<hi rend="tall">t</hi>er <g ref="#interpunct">·</g> <persName type="attested"><name><expan><abbr>C</abbr><ex>ai</ex></expan></name> <g ref="#interpunct">·</g> <name>Ofill<supplied reason="lost"><hi rend="apex">i</hi></supplied></name>
-                    <lb n="4"/><name>V<hi rend="apex">e</hi>ri</name></persName> <g ref="#interpunct">·</g> <roleName type="civic" subtype="duumvir">d<hi rend="apex">u</hi>mviralium</roleName>
-                    <lb n="5"/><hi rend="tall">f</hi>unere <g ref="#interpunct">·</g> publico <g ref="#interpunct">·</g> elata <g ref="#interpunct">·</g> e<hi rend="tall">t</hi> <g ref="#interpunct">·</g> l<unclear>o</unclear><supplied reason="lost">co</supplied>
-                    <lb n="6"/>publico <g ref="#interpunct">·</g> sepulta <g ref="#interpunct">·</g> e<hi rend="tall">t</hi> <g ref="#interpunct">·</g> st<unclear>a</unclear><supplied reason="lost">tua</supplied>
-                    <lb n="7"/>data <g ref="#interpunct">·</g> in <g ref="#interpunct">·</g> foro <space unit="character" quantity="2"/> <roleName type="civic" subtype="decurio"><expan><abbr>d</abbr><ex>ecurionum</ex></expan></roleName> <g ref="#interpunct">·</g> <expan><abbr><unclear>d</unclear></abbr><ex>ecreto</ex></expan>
+                    <lb n="3"/><w>uxor</w> <g ref="#interpunct">·</g> <persName type="attested"><name><expan><abbr>C</abbr><ex>ai</ex></expan></name> <g ref="#interpunct">·</g> <name>Ofill<hi rend="apex">i</hi></name></persName> <g ref="#interpunct">·</g> <w>ma<hi rend="tall">t</hi>er</w> <g ref="#interpunct">·</g> <persName type="attested"><name><expan><abbr>C</abbr><ex>ai</ex></expan></name> <g ref="#interpunct">·</g> <name>Ofill<supplied reason="lost"><hi rend="apex">i</hi></supplied></name>
+                    <lb n="4"/><name>V<hi rend="apex">e</hi>ri</name></persName> <g ref="#interpunct">·</g> <roleName type="civic" subtype="duumvir"><w>d<hi rend="apex">u</hi>mviralium</w></roleName>
+                    <lb n="5"/><w><hi rend="tall">f</hi>unere</w> <g ref="#interpunct">·</g> <w>publico</w> <g ref="#interpunct">·</g> <w>elata</w> <g ref="#interpunct">·</g> <w>e<hi rend="tall">t</hi></w> <g ref="#interpunct">·</g> <w>l<unclear>o</unclear><supplied reason="lost">co</supplied></w>
+                    <lb n="6"/><w>publico</w> <g ref="#interpunct">·</g> <w>sepulta</w> <g ref="#interpunct">·</g> <w>e<hi rend="tall">t</hi></w> <g ref="#interpunct">·</g> <w>st<unclear>a</unclear><supplied reason="lost">tua</supplied></w>
+                    <lb n="7"/><w>data</w> <g ref="#interpunct">·</g> <w>in</w> <g ref="#interpunct">·</g> <w>foro</w> <space unit="character" quantity="2"/><roleName type="civic" subtype="decurio"><w><expan><abbr>d</abbr><ex>ecurionum</ex></expan></w></roleName> <g ref="#interpunct">·</g> <w><expan><abbr><unclear>d</unclear></abbr><ex>ecreto</ex></expan></w>
                 </ab>
             </div>
             <div type="apparatus">
@@ -222,7 +222,7 @@
                 <p>Grattia Paulla, daughter of Caius, wife of Caius Ofillius, mother of Caius Ofillius Verus, both holders of the duumvirate, laid out in a public funeral and buried in a public lot, and granted a statue in the forum - by decree of the decurions.</p>
             </div>
             <div type="commentary">
-                <p></p>
+                <p/>
             </div>
             <div type="bibliography">
                 <listBibl type="edition">

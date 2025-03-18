@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -189,12 +189,12 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/>Πρόκλος πιλη
-                    <lb n="2" break="no"/>τάρις ἐνθάδε κῖτε ἔ
-                    <lb n="3" break="no"/>ζησεν ἔτη <num value="30">τριάκον
-                    <lb n="4" break="no"/>τα</num> φήμης καλῆς ἀ
-                    <lb n="5" break="no"/>νεπά<choice><reg>η</reg><orig>ν</orig></choice> ἰδοῖς
-                    <lb n="6"/>Ἰε<surplus>η</surplus><unclear>ν</unclear>ουαρίες
+                    <lb n="1"/><w>Πρόκλος</w> <w>πιλη
+                    <lb n="2" break="no"/>τάρις</w> <w>ἐνθάδε</w> <w>κῖτε</w> <w>ἔ
+                    <lb n="3" break="no"/>ζησεν</w> <w>ἔτη</w> <num value="30">τριάκον
+                    <lb n="4" break="no"/>τα</num> <w>φήμης</w> <w>καλῆς</w> <w>ἀ
+                    <lb n="5" break="no"/>νεπά<choice><reg>η</reg><orig>ν</orig></choice></w> <w>ἰδοῖς</w>
+                    <lb n="6"/><name>Ἰε<surplus>η</surplus><unclear>ν</unclear>ουαρίες</name>
                 </ab>
             </div>
             <div type="apparatus">

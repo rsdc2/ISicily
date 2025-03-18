@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -189,12 +189,12 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/>κα<unclear>ὶ</unclear><gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/>ατθο
-                    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/>μητρὶ
-                    <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/>ψας
-                    <lb n="6"/>βίου τὸ τέλος
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <gap reason="illegible" unit="character" quantity="1"/> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w>κα<unclear>ὶ</unclear></w> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <w>ατθο</w>
+                    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <w>μητρὶ</w>
+                    <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/> <w>ψας</w>
+                    <lb n="6"/><w>βίου</w> <w>τὸ</w> <w>τέλος</w>
                 </ab>
           </div>
           <div type="apparatus" resp="#JP">

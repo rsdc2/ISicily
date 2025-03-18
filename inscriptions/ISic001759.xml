@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -175,12 +175,12 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#FP">
                 <ab>
-                    <lb n="1"/>Ἐνθαδε κῖτε 
-                    <lb n="2"/><persName type="attested"><name>Βενίγνα</name></persName> ζησάσα
-                    <lb n="3"/>καλῶς <g ref="#staurogram">𐆠</g> τελεύ
-                    <lb n="4" break="no"/>τα δὲ πρὸ <expan><abbr>νών</abbr><ex>ας</ex><abbr><am>s</am></abbr></expan> <expan><abbr>Φεβ</abbr><ex>ρουαρί</ex><abbr>α</abbr><ex>ς</ex><abbr><am>s</am></abbr></expan>
-                    <lb n="5"/>ὑπατίᾳ <persName type="attested"><name>Ταύρου</name></persName> κὲ 
-                    <lb n="6"/><persName type="attested"><name>Φήλικος</name></persName> τῶν <expan><abbr><hi rend="ligature small">λα</hi><hi rend="small">μ</hi></abbr><ex>πρότατων</ex></expan>
+                    <lb n="1"/><w>Ἐνθαδε</w> <w>κῖτε</w>
+                    <lb n="2"/><persName type="attested"><name>Βενίγνα</name></persName> <w>ζησάσα</w>
+                    <lb n="3"/><w>καλῶς</w> <g ref="#staurogram">𐆠</g> <w>τελεύ
+                    <lb n="4" break="no"/>τα</w> <w>δὲ</w> <w>πρὸ</w> <w><expan><abbr>νών</abbr><ex>ας</ex><abbr><am>s</am></abbr></expan></w> <name><expan><abbr>Φεβ</abbr><ex>ρουαρί</ex><abbr>α</abbr><ex>ς</ex><abbr><am>s</am></abbr></expan></name>
+                    <lb n="5"/><w>ὑπατίᾳ</w> <persName type="attested"><name>Ταύρου</name></persName> <w>κὲ</w>
+                    <lb n="6"/><persName type="attested"><name>Φήλικος</name></persName> <w>τῶν</w> <w><expan><abbr><hi rend="ligature small">λα</hi><hi rend="small">μ</hi></abbr><ex>πρότατων</ex></expan></w>
                 </ab>
             </div>
             <div type="apparatus">

@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -181,23 +181,23 @@
                 <div type="textpart" subtype="section" n="a">
                     <ab>
                         <milestone unit="face" n="1"/>
-                        	<lb n="1"/><supplied reason="lost">καταδῶ</supplied> Νυμφὶκὲ παρακατατίθεμε τοί τ’ Ἅδ
-                            <lb n="2" break="no"/><supplied reason="lost">ου</supplied> <supplied reason="lost">ἄναξ</supplied> ἐπὶ κτήσιν ἀ<supplied reason="omitted">ΐ</supplied>διον αὐτᾶς τὰ δὲ ἑ Κόρα <unclear>κ</unclear>
-                        <lb n="3"/><supplied reason="lost">Ἐρίνυσ</supplied>ιν ἵνα κατ’ <expan><abbr>ἄκρω</abbr><ex>ν</ex></expan> τ’ <unclear>ἀ</unclear><choice><sic>χω</sic><corr>πό</corr></choice>λ<supplied reason="lost">οι</supplied>το κὲ ἀπάξητ’
-                         <lb n="4"/><supplied reason="lost">αὐτάν</supplied> <supplied reason="lost">τ’</supplied> αὖτε παντάκιστα κὲ κατὰ τᾶ<supplied reason="lost">ς</supplied> χ<supplied reason="lost">θ</supplied>
-                        <lb n="5" break="no"/><supplied reason="lost">όνος</supplied> <supplied reason="lost">Ἐρίν</supplied>υες αὖτε κομ<supplied reason="lost">ίσω</supplied>ντε ἀνθρωπί<supplied reason="lost">σκ</supplied>ον
+                        <lb n="1"/><w><supplied reason="lost">καταδῶ</supplied></w> <name>Νυμφὶκὲ</name> <w>παρακατατίθεμε</w> <w>τοί</w> <w>τ’</w> <name>Ἅδ
+                        <lb n="2" break="no"/><supplied reason="lost">ου</supplied></name> <w><supplied reason="lost">ἄναξ</supplied></w> <w>ἐπὶ</w> <w>κτήσιν</w> <w>ἀ<supplied reason="omitted">ΐ</supplied>διον</w> <w>αὐτᾶς</w> <w>τὰ</w> <w>δὲ</w> <w>ἑ</w> <name>Κόρα</name> <w><unclear>κ</unclear></w>
+                        <lb n="3"/><name><supplied reason="lost">Ἐρίνυσ</supplied>ιν</name> <w>ἵνα</w> <w>κατ’</w> <w><expan><abbr>ἄκρω</abbr><ex>ν</ex></expan></w> <w>τ’</w> <w><unclear>ἀ</unclear><choice><sic>χω</sic><corr>πό</corr></choice>λ<supplied reason="lost">οι</supplied>το</w> <w>κὲ</w> <w>ἀπάξητ’</w>
+                        <lb n="4"/><w><supplied reason="lost">αὐτάν</supplied></w> <w><supplied reason="lost">τ’</supplied></w> <w>αὖτε</w> <w>παντάκιστα</w> <w>κὲ</w> <w>κατὰ</w> <w>τᾶ<supplied reason="lost">ς</supplied></w> <w>χ<supplied reason="lost">θ</supplied>
+                        <lb n="5" break="no"/><supplied reason="lost">όνος</supplied></w> <name><supplied reason="lost">Ἐρίν</supplied>υες</name> <w>αὖτε</w> <w>κομ<supplied reason="lost">ίσω</supplied>ντε</w> <w>ἀνθρωπί<supplied reason="lost">σκ</supplied>ον</w>
                     </ab>
                 </div>
                 <div type="textpart" subtype="section" n="b">
-                <ab>
-                    <milestone unit="face" n="2"/>
-                    <lb n="1"/><supplied reason="lost">καταδῶ</supplied> <supplied reason="lost">Νυ</supplied>μιφὶκε παρακαταθίτομε τοι
-                    <lb n="2"/><supplied reason="lost">Ἑρμεῖα</supplied> <supplied reason="lost">πα</supplied>ντάγι ἵννα αὐτὰν ἀπάξης
-                    <lb n="3"/><supplied reason="lost">κατὰ</supplied> <supplied reason="lost">χθόν</supplied>ος τάχιστα· λάβε αὐτᾶς ἱ
-                    <lb n="4" break="no"/><supplied reason="lost">αρεῖον</supplied> <supplied reason="lost">τρι</supplied>ακάδιν κὲ τρέχε ἵνα αὐτὰν κατὰ
-                    <lb n="5"/><supplied reason="lost">χθόνος</supplied> <supplied reason="lost">κλ</supplied>είσης <supplied reason="lost">κ’</supplied> <supplied reason="lost">ἐν</supplied> ἀνθρώπο<supplied reason="lost">ις</supplied> μηκ<supplied reason="lost">έ</supplied>τ’ ἔα Μεδ
-                    <lb n="6" break="no"/><supplied reason="lost">ούσαν</supplied> <supplied reason="lost">ἄλ</supplied>λαν καταγίνε<supplied reason="lost">σθ</supplied>ε
-                </ab>
+                    <ab>
+                        <milestone unit="face" n="2"/>
+                        <lb n="1"/><w><supplied reason="lost">καταδῶ</supplied></w> <name><supplied reason="lost">Νυ</supplied>μιφὶκε</name> <w>παρακαταθίτομε</w> <w>τοι</w>
+                        <lb n="2"/><name><supplied reason="lost">Ἑρμεῖα</supplied></name> <w><supplied reason="lost">πα</supplied>ντάγι</w> <w>ἵννα</w> <w>αὐτὰν</w> <w>ἀπάξης</w>
+                        <lb n="3"/><w><supplied reason="lost">κατὰ</supplied></w> <w><supplied reason="lost">χθόν</supplied>ος</w> <w>τάχιστα·</w> <w>λάβε</w> <w>αὐτᾶς</w> <w>ἱ
+                        <lb n="4" break="no"/><supplied reason="lost">αρεῖον</supplied></w> <w><supplied reason="lost">τρι</supplied>ακάδιν</w> <w>κὲ</w> <w>τρέχε</w> <w>ἵνα</w> <w>αὐτὰν</w> <w>κατὰ</w>
+                        <lb n="5"/><w><supplied reason="lost">χθόνος</supplied></w> <w><supplied reason="lost">κλ</supplied>είσης</w> <w><supplied reason="lost">κ’</supplied></w> <w><supplied reason="lost">ἐν</supplied></w> <w>ἀνθρώπο<supplied reason="lost">ις</supplied></w> <w>μηκ<supplied reason="lost">έ</supplied>τ’</w> <w>ἔα</w> <name>Μεδ
+                        <lb n="6" break="no"/><supplied reason="lost">ούσαν</supplied></name> <w><supplied reason="lost">ἄλ</supplied>λαν</w> <w>καταγίνε<supplied reason="lost">σθ</supplied>ε</w>
+                    </ab>
                 </div>
             </div>
             <div type="apparatus">

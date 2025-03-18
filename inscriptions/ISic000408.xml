@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -206,9 +206,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="1" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" unit="character" extent="unknown"/>
-                    <lb n="2"/><roleName type="military" subtype="tribunus.militum"><supplied reason="lost">t</supplied><unclear>r</unclear>ibuno</roleName> <g ref="#interpunct">·</g> <unclear>m</unclear><supplied reason="lost">ilitum</supplied> <gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" unit="character" extent="unknown"/>
-                    <lb n="3"/><gap reason="lost" unit="character" extent="unknown"/> <roleName type="military" subtype="praefectus"><supplied reason="lost">p</supplied>raef<supplied reason="lost">ecto</supplied></roleName> <gap reason="lost" unit="character" extent="unknown"/>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <gap reason="illegible" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="illegible" quantity="1" unit="character"/> <gap reason="lost" unit="character" extent="unknown"/>
+                    <lb n="2"/><roleName type="military" subtype="tribunus.militum"><w><supplied reason="lost">t</supplied></w> <w><unclear>r</unclear></w> <w>ibuno</w></roleName> <g ref="#interpunct">·</g> <w><unclear>m</unclear><supplied reason="lost">ilitum</supplied></w> <gap reason="illegible" quantity="1" unit="character"/> <gap reason="lost" unit="character" extent="unknown"/>
+                    <lb n="3"/><gap reason="lost" unit="character" extent="unknown"/> <roleName type="military" subtype="praefectus"><w><supplied reason="lost">p</supplied></w> <w>raef</w> <w><supplied reason="lost">ecto</supplied></w></roleName> <gap reason="lost" unit="character" extent="unknown"/>
                 </ab>
             </div>
             <div type="apparatus">

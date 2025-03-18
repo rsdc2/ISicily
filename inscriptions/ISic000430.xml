@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -193,43 +193,16 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la">
                 <ab>
-                    <lb n="1"/>dis manibus
-                    <lb n="2"/>
-                    <persName type="attested">
-                        <name>Evange
-                            <lb n="3" break="no"/>
-                            <supplied reason="lost">lus</supplied>
-                        </name>
-                    </persName>
-                    <supplied reason="lost">v</supplied>ixit <g ref="#interpunct">·</g>
-                    <expan>
-                        <abbr>an</abbr>
-                        <ex>nis</ex>
-                    </expan>
-                    <lb n="4"/>
-                    <num value="9">VIIII</num>
-                    <lb n="5"/>
-                    <persName type="attested">
-                        <name>Thychicus</name>
-                    </persName>
-                    <lb n="6"/>vixit <g ref="#interpunct">·</g>
-                    <expan>
-                        <abbr>an</abbr>
-                        <ex>nis</ex>
-                    </expan>
-                    <g ref="#interpunct">·</g>
-                    <num value="6">VI</num>
-                    <lb n="7"/>
-                    <persName type="attested">
-                        <name>Thyche</name>
-                    </persName>
-                    <lb n="8"/>mater <g ref="#interpunct">·</g>
-                    <expan>
-                        <abbr>fil</abbr>
-                        <ex>iis</ex>
-                    </expan>
-                    <lb n="9"/>piissimis
-                    <lb n="10"/>fecit
+                    <lb n="1"/><w>dis</w> <w>manibus</w>
+                    <lb n="2"/><persName type="attested"><name>Evange
+                    <lb n="3" break="no"/><supplied reason="lost">lus</supplied></name></persName> <w><supplied reason="lost">v</supplied>ixit</w> <g ref="#interpunct">·</g> <w><expan><abbr>an</abbr><ex>nis</ex></expan></w>
+                    <lb n="4"/><num value="9">VIIII</num>
+                    <lb n="5"/><persName type="attested"><name>Thychicus</name></persName>
+                    <lb n="6"/><w>vixit</w> <g ref="#interpunct">·</g> <w><expan><abbr>an</abbr><ex>nis</ex></expan></w> <g ref="#interpunct">·</g> <num value="6">VI</num>
+                    <lb n="7"/><persName type="attested"><name>Thyche</name></persName>
+                    <lb n="8"/><w>mater</w> <g ref="#interpunct">·</g> <w><expan><abbr>fil</abbr><ex>iis</ex></expan></w>
+                    <lb n="9"/><w>piissimis</w>
+                    <lb n="10"/><w>fecit</w>
                 </ab>
             </div>
             <div type="apparatus">

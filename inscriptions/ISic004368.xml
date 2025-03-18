@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -189,10 +189,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name><expan><abbr>C</abbr><ex>aius</ex></expan></name> <name>Fannius</name> <name><expan><abbr>Min</abbr><ex>ati</ex></expan></name> <expan><abbr>f</abbr><ex>ilius</ex></expan></persName> ceivesq<supplied reason="lost">ue</supplied> <placeName type="ethnic"><unclear>F</unclear>rentran<supplied reason="lost">ei</supplied></placeName> <supplied reason="lost">q</supplied>uei in <placeName><choice><reg>Sicilia</reg><orig>Sicelia</orig></choice></placeName>
-                    <lb n="2"/>colunt <persName type="divine"><name>Hercolei</name> <name type="epithet">Nouritano</name></persName> fanum faciundum
-                    <lb n="3"/><choice><orig>coiraveront</orig><reg>curaverunt</reg></choice>. Pecunia conlata est <expan><abbr>n</abbr><ex>ummi</ex></expan> <expan><abbr><am>HS</am></abbr><ex>sestertii</ex></expan> <num value="643.5">DCXLIIIS</num>
-                    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/><orig>RAC</orig><gap reason="lost" unit="character" quantity="1"/><orig>V</orig><gap reason="lost" unit="character" quantity="2"/><orig>QV</orig><gap reason="lost" unit="character" quantity="2" precision="low"/><orig>DEDE</orig><gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><persName type="attested"><name><expan><abbr>C</abbr><ex>aius</ex></expan></name> <name>Fannius</name> <name><expan><abbr>Min</abbr><ex>ati</ex></expan></name> <w><expan><abbr>f</abbr><ex>ilius</ex></expan></w></persName> <w>ceivesq<supplied reason="lost">ue</supplied></w> <placeName type="ethnic"><name><unclear>F</unclear></name> <w>rentran</w> <w><supplied reason="lost">ei</supplied></w></placeName> <w><supplied reason="lost">q</supplied>uei</w> <w>in</w> <placeName><w><choice><reg>Sicilia</reg><orig>Sicelia</orig></choice></w></placeName>
+                    <lb n="2"/><w>colunt</w> <persName type="divine"><name>Hercolei</name> <name type="epithet">Nouritano</name></persName> <w>fanum</w> <w>faciundum</w>
+                    <lb n="3"/><w><choice><orig>coiraveront</orig><reg>curaverunt</reg></choice>.</w> <name>Pecunia</name> <w>conlata</w> <w>est</w> <w><expan><abbr>n</abbr><ex>ummi</ex></expan></w> <w><expan><abbr><am>HS</am></abbr><ex>sestertii</ex></expan></w> <num value="643.5">DCXLIIIS</num>
+                    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <orig>RAC</orig><gap reason="lost" unit="character" quantity="1"/> <orig>V</orig><gap reason="lost" unit="character" quantity="2"/> <orig>QV</orig><gap reason="lost" unit="character" quantity="2" precision="low"/> <orig>DEDE</orig><gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>
             <div type="apparatus">

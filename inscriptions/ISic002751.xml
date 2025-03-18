@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -197,7 +197,7 @@
                     <lb n="1"/><persName type="attested"><name>Στουδιῶ
                     <lb n="2" break="no"/>σε</name></persName> <g ref="#interpunct">·</g> <w>χρησ<hi rend="ligature">τὲ</hi></w>
                     <lb n="3"/><w>χαῖρε</w> <g ref="#interpunct">·</g> <w>ἔζη
-                    <lb n="4" break="no"/>σε</w> <g ref="#interpunct">·</g> <w>ἔτη</w> <g ref="#interpunct">·</g> <num value="60"><hi rend="supraline">ξ</hi></num>  <g ref="#ivy-leaf">❦</g>
+                    <lb n="4" break="no"/>σε</w> <g ref="#interpunct">·</g> <w>ἔτη</w> <g ref="#interpunct">·</g> <num value="60"><hi rend="supraline">ξ</hi></num> <g ref="#ivy-leaf">❦</g>
                     <lb n="5"/><w>λυδιαστής</w>
                 </ab>
             </div>

@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -283,11 +283,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM #JP">
                 <ab>
-                    <lb n="1"/><supplied reason="undefined" evidence="previouseditor">Βου</supplied><unclear>λ</unclear>κακία
-                    <lb n="2"/><supplied reason="undefined" evidence="previouseditor">Τερεν</supplied>τ<unclear>ία</unclear> <g ref="#interpunct">·</g>
-                    <lb n="3"/>εὐσεβ<supplied reason="undefined" evidence="previouseditor">ὴς</supplied>
-                    <lb n="4"/>καὶ <g ref="#interpunct">·</g> ἀγαθ<unclear>ὴ</unclear>
-                    <lb n="5"/><supplied reason="undefined" evidence="previouseditor">ἔ</supplied>ζησεν ἔ<supplied reason="undefined" evidence="previouseditor">τη</supplied>
+                    <lb n="1"/><w><supplied reason="undefined" evidence="previouseditor">Βου</supplied><unclear>λ</unclear>κακία</w>
+                    <lb n="2"/><name><supplied reason="undefined" evidence="previouseditor">Τερεν</supplied>τ<unclear>ία</unclear></name> <g ref="#interpunct">·</g>
+                    <lb n="3"/><w>εὐσεβ<supplied reason="undefined" evidence="previouseditor">ὴς</supplied></w>
+                    <lb n="4"/><w>καὶ</w> <g ref="#interpunct">·</g> <w>ἀγαθ<unclear>ὴ</unclear></w>
+                    <lb n="5"/><w><supplied reason="undefined" evidence="previouseditor">ἔ</supplied>ζησεν</w> <w>ἔ<supplied reason="undefined" evidence="previouseditor">τη</supplied></w>
                     <lb n="6"/><supplied reason="undefined" evidence="previouseditor"><g ref="#interpunct">·</g></supplied> <num value="40">μ</num> <supplied reason="undefined" evidence="previouseditor"><g ref="#interpunct">·</g></supplied>
                 </ab>
             </div>

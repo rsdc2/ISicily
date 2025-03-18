@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -196,12 +196,12 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/><g ref="#staurogram">𐆠</g> ἐτε<supplied reason="omitted">λε</supplied>ύτησεν <choice><reg>ὁ</reg><orig>ὡ</orig></choice>
-                    <lb n="2"/>υἱοῦς ἡμῶν
-                    <lb n="3"/>Ποτετὰς ἐτέων
-                    <lb n="4"/><num value="8"><choice><orig>ὠκτὼ</orig><reg>ὀκτὼ</reg></choice></num> μηνὶ <expan><abbr>Ἀγόστ</abbr><ex>ῳ</ex></expan>
-                    <lb n="5"/><choice><reg>τῆς</reg><orig>τε͂ς</orig></choice> <num value="17">δεκά καὶ ζ</num> Σε
-                     <lb n="6" break="no"/>λήνῃ <num value="19">ἐνεακε
+                    <lb n="1"/><g ref="#staurogram">𐆠</g> <w>ἐτε<supplied reason="omitted">λε</supplied>ύτησεν</w> <w><choice><reg>ὁ</reg><orig>ὡ</orig></choice></w>
+                    <lb n="2"/><w>υἱοῦς</w> <w>ἡμῶν</w>
+                    <lb n="3"/><name>Ποτετὰς</name> <w>ἐτέων</w>
+                    <lb n="4"/><num value="8"><choice><orig>ὠκτὼ</orig><reg>ὀκτὼ</reg></choice></num> <w>μηνὶ</w> <name><expan><abbr>Ἀγόστ</abbr><ex>ῳ</ex></expan></name>
+                    <lb n="5"/><w><choice><reg>τῆς</reg><orig>τε͂ς</orig></choice></w> <num value="17">δεκά καὶ ζ</num> <name>Σε
+                    <lb n="6" break="no"/>λήνῃ</name> <num value="19">ἐνεακε
                     <lb n="7" break="no"/>δεκάτῃ</num> <g ref="#staurogram">𐆠</g>
                 </ab>
             </div>

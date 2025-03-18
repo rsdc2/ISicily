@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -193,10 +193,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/>Δορυφόρος
-                    <lb n="2"/>ἔζησεν <g ref="#interpunct">·</g> ἐνι
-                    <lb n="3" break="no"/>αυτὸν <g ref="#interpunct">·</g> <expan><abbr>μῆν</abbr><ex>ας</ex></expan> <g ref="#interpunct">·</g> <num value="4"><hi rend="supraline">δ</hi></num>
-                    <lb n="4"/>ἡμέρας <g ref="#interpunct">·</g> <num value="7"><hi rend="supraline">ζ</hi></num>
+                    <lb n="1"/><w>Δορυφόρος</w>
+                    <lb n="2"/><w>ἔζησεν</w> <g ref="#interpunct">·</g> <w>ἐνι
+                    <lb n="3" break="no"/>αυτὸν</w> <g ref="#interpunct">·</g> <w><expan><abbr>μῆν</abbr><ex>ας</ex></expan></w> <g ref="#interpunct">·</g> <num value="4"><hi rend="supraline">δ</hi></num>
+                    <lb n="4"/><w>ἡμέρας</w> <g ref="#interpunct">·</g> <num value="7"><hi rend="supraline">ζ</hi></num>
                 </ab>
             </div>
             <div type="apparatus">

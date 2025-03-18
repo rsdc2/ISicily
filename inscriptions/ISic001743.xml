@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -170,11 +170,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1"/>ἐνθάδε <supplied reason="lost">κεῖται</supplied> <persName type="attested"><name><gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="2" break="no"/>πριανος</name></persName> τελευτή
-                    <lb n="3" break="no"/>σατο <num value="10">δέ<supplied reason="lost">κα</supplied></num> <supplied reason="lost">καὶ</supplied>
-                    <lb n="4"/><num value="5">πέντε</num> μ<supplied reason="lost">ηνὸς</supplied>
-                    <lb n="5"/>Φεβρουαρ<supplied reason="lost">ίου</supplied>
+                    <lb n="1"/><w>ἐνθάδε</w> <w><supplied reason="lost">κεῖται</supplied></w> <persName type="attested"><name><gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2" break="no"/>πριανος</name></persName> <w>τελευτή
+                    <lb n="3" break="no"/>σατο</w> <num value="10">δέ<supplied reason="lost">κα</supplied></num> <w><supplied reason="lost">καὶ</supplied></w>
+                    <lb n="4"/><num value="5">πέντε</num> <w>μ<supplied reason="lost">ηνὸς</supplied></w>
+                    <lb n="5"/><name>Φεβρουαρ<supplied reason="lost">ίου</supplied></name>
                     <lb n="6"/><g ref="#staurogram">𐆠</g>
                 </ab>
             </div>

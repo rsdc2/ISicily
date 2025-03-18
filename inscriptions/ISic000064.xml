@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -191,13 +191,13 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la">
                 <ab>
-                    <lb n="1"/><expan><abbr>M</abbr><ex>arco</ex></expan> <g ref="#interpunct">·</g> Aureli<unclear>o</unclear>
-                    <lb n="2"/>Vero <g ref="#interpunct">·</g> <choice><orig>Caesare</orig><reg>Caesari</reg></choice> <roleName type="supracivic" subtype="consul"><expan><abbr>co</abbr><ex>n</ex><abbr>s</abbr><ex>uli</ex></expan></roleName>
-                    <lb n="3"/><roleName type="supracivic" subtype="imperator"><expan><abbr>Imp</abbr><ex>eratori</ex></expan></roleName>
-                    <lb n="4"/><expan><abbr>T</abbr><ex>iti</ex></expan> <g ref="#interpunct">·</g> Aeli <g ref="#interpunct">·</g> Hadriani
-                    <lb n="5"/>Antonini <g ref="#interpunct">·</g> <expan><abbr>Aug</abbr><ex>usti</ex></expan>
-                    <lb n="6"/>Pii <g ref="#interpunct">·</g> filio
-                    <lb n="7"/><expan><abbr>p</abbr><ex>ecunia</ex></expan> <g ref="#interpunct">·</g> <expan><abbr>p</abbr><ex>ublica</ex></expan> <g ref="#interpunct">·</g> <expan><abbr>d</abbr><ex>ecreto</ex></expan> <g ref="#interpunct">·</g> <roleName type="civic" subtype="decurio"><expan><abbr>d</abbr><ex>ecurionum</ex></expan></roleName>
+                    <lb n="1"/><w><expan><abbr>M</abbr><ex>arco</ex></expan></w> <g ref="#interpunct">·</g> <name>Aureli<unclear>o</unclear></name>
+                    <lb n="2"/><name>Vero</name> <g ref="#interpunct">·</g> <w><choice><orig>Caesare</orig><reg>Caesari</reg></choice></w> <roleName type="supracivic" subtype="consul"><w><expan><abbr>co</abbr><ex>n</ex><abbr>s</abbr><ex>uli</ex></expan></w></roleName>
+                    <lb n="3"/><roleName type="supracivic" subtype="imperator"><name><expan><abbr>Imp</abbr><ex>eratori</ex></expan></name></roleName>
+                    <lb n="4"/><name><expan><abbr>T</abbr><ex>iti</ex></expan></name> <g ref="#interpunct">·</g> <name>Aeli</name> <g ref="#interpunct">·</g> <name>Hadriani</name>
+                    <lb n="5"/><name>Antonini</name> <g ref="#interpunct">·</g> <name><expan><abbr>Aug</abbr><ex>usti</ex></expan></name>
+                    <lb n="6"/><name>Pii</name> <g ref="#interpunct">·</g> <w>filio</w>
+                    <lb n="7"/><w><expan><abbr>p</abbr><ex>ecunia</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>p</abbr><ex>ublica</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>d</abbr><ex>ecreto</ex></expan></w> <g ref="#interpunct">·</g> <roleName type="civic" subtype="decurio"><w><expan><abbr>d</abbr><ex>ecurionum</ex></expan></w></roleName>
                 </ab>
             </div>
             <div type="apparatus">

@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -197,11 +197,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la">
                 <ab>
-                    <lb n="1"/><supplied reason="lost">hic</supplied> <supplied reason="lost">pos</supplied>ita <g ref="#interpunct">·</g> Aurel<hi rend="subscript">i</hi><hi rend="supercript">a</hi>
-                    <lb n="2"/><supplied reason="lost">quae</supplied> <supplied reason="lost">vix</supplied>it annos 
-                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/><num atLeast="3" atMost="99">III</num> <g ref="#interpunct">·</g> bene <g ref="#palm"/>
-                    <lb n="4"/><supplied reason="lost">requies</supplied>ce <g ref="#christogram"/>
-                    <lb n="5"/><supplied reason="lost">in</supplied> <supplied reason="lost">pace</supplied> <supplied reason="lost">Se</supplied>rtoria
+                    <lb n="1"/><w><supplied reason="lost">hic</supplied></w> <w><supplied reason="lost">pos</supplied>ita</w> <g ref="#interpunct">·</g> <name>Aurel<hi rend="subscript">i</hi><hi rend="supercript">a</hi></name>
+                    <lb n="2"/><w><supplied reason="lost">quae</supplied></w> <w><supplied reason="lost">vix</supplied>it</w> <w>annos</w>
+                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <num atLeast="3" atMost="99">III</num> <g ref="#interpunct">·</g> <w>bene</w> <g ref="#palm"/>
+                    <lb n="4"/><w><supplied reason="lost">requies</supplied>ce</w> <g ref="#christogram"/>
+                    <lb n="5"/><w><supplied reason="lost">in</supplied></w> <w><supplied reason="lost">pace</supplied></w> <name><supplied reason="lost">Se</supplied>rtoria</name>
                 </ab>
             </div>
             <div type="apparatus">

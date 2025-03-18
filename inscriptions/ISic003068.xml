@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -195,13 +195,13 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
                     <lb n="0"/><gap reason="lost" extent="unknown" unit="line"/>
-                    <lb n="1"/><orig>ΑΚΕ</orig><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="2"/>Κάλλ<supplied reason="lost">ων</supplied>
-                    <lb n="3" break="no"/>ος τόδ<supplied reason="lost">ε</supplied>
-                    <lb n="4"/>σῆμ<supplied reason="lost">α</supplied> <supplied reason="lost">π</supplied>
+                    <lb n="1"/><orig>ΑΚΕ</orig><gap reason="illegible" quantity="1" unit="character"/> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><w>Κάλλ<supplied reason="lost">ων</supplied>
+                    <lb n="3" break="no"/>ος</w> <w>τόδ<supplied reason="lost">ε</supplied></w>
+                    <lb n="4"/><w>σῆμ<supplied reason="lost">α</supplied></w> <w><supplied reason="lost">π</supplied>
                     <lb n="5" break="no"/>ερίφρ<supplied reason="lost">ον</supplied>
-                    <lb n="6" break="no"/>ος ἤν<supplied reason="lost">υσε</supplied>
-                    <lb n="7"/>μ<unclear>ήτ</unclear><supplied reason="lost">ηρ</supplied>
+                    <lb n="6" break="no"/>ος</w> <w>ἤν<supplied reason="lost">υσε</supplied></w>
+                    <lb n="7"/><w>μ<unclear>ήτ</unclear><supplied reason="lost">ηρ</supplied></w>
                 </ab>
             </div>
             <div type="apparatus">

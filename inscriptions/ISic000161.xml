@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -210,8 +210,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#TA #JP">
                 <ab>
-                    <lb n="1" xml:id="AQKAK"/><w xml:id="AQKAU"><expan xml:id="AQKAe"><abbr xml:id="AQKAo">D</abbr><ex xml:id="AQKAy">is</ex></expan></w> <w xml:id="AQKAΙ"><expan xml:id="AQKAΤ"><abbr xml:id="AQKAε">m</abbr><ex xml:id="AQKAο">anibus</ex></expan></w> 
-                    <lb n="2" xml:id="AQKBA"/><persName type="attested" xml:id="AQKBK"><name xml:id="AQKBU"><expan xml:id="AQKBe"><abbr xml:id="AQKBo">L</abbr><ex xml:id="AQKBy">ucius</ex></expan></name> <name xml:id="AQKBΙ"><expan xml:id="AQKBΤ"><abbr xml:id="AQKBε">Cor</abbr><ex xml:id="AQKBο">nelius</ex></expan></name> <g ref="#ivy-leaf" xml:id="AQKCA">❦</g> <name xml:id="AQKCK">Auc<hi rend="tall" xml:id="AQKCU">t</hi>u<hi rend="superscript" xml:id="AQKCe">s</hi></name></persName> 
+                    <lb n="1" xml:id="AQKAK"/><w xml:id="AQKAU"><expan xml:id="AQKAe"><abbr xml:id="AQKAo">D</abbr><ex xml:id="AQKAy">is</ex></expan></w> <w xml:id="AQKAΙ"><expan xml:id="AQKAΤ"><abbr xml:id="AQKAε">m</abbr><ex xml:id="AQKAο">anibus</ex></expan></w>
+                    <lb n="2" xml:id="AQKBA"/><persName type="attested" xml:id="AQKBK"><name xml:id="AQKBU"><expan xml:id="AQKBe"><abbr xml:id="AQKBo">L</abbr><ex xml:id="AQKBy">ucius</ex></expan></name> <name xml:id="AQKBΙ"><expan xml:id="AQKBΤ"><abbr xml:id="AQKBε">Cor</abbr><ex xml:id="AQKBο">nelius</ex></expan></name> <g ref="#ivy-leaf" xml:id="AQKCA">❦</g> <name xml:id="AQKCK">Auc<hi rend="tall" xml:id="AQKCU">t</hi>u<hi rend="superscript" xml:id="AQKCe">s</hi></name></persName>
                     <lb n="3" xml:id="AQKCo"/><w xml:id="AQKCy"><expan xml:id="AQKCΙ"><abbr xml:id="AQKCΤ">vix</abbr><ex xml:id="AQKCε">it</ex></expan></w> <w xml:id="AQKCο"><expan xml:id="AQKDA"><abbr xml:id="AQKDK">an</abbr><ex xml:id="AQKDU">nis</ex></expan></w> <num value="80" xml:id="AQKDe">LXXX</num>
                 </ab>
             </div>

@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -188,10 +188,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1"/><supplied reason="lost">ἐνθάδε</supplied> κῖται <gap reason="lost" extent="unknown" unit="character"><desc>personal name</desc></gap>
-                    <lb n="2"/><supplied reason="lost">ζ</supplied>ήσας <supplied reason="lost">ἔτη</supplied> <gap reason="lost" extent="unknown" unit="character"><desc>age at death</desc></gap>
-                    <lb n="3"/><supplied reason="lost">τελ</supplied>ευ<supplied reason="lost">τᾷ</supplied> <supplied reason="lost">τῇ</supplied> <supplied reason="lost">πρὸ</supplied> <gap reason="lost" extent="unknown" unit="character"><desc>day of death</desc></gap>
-                    <lb n="4"/><supplied reason="lost">Ἰ</supplied>αν<supplied reason="lost">ουαρίων</supplied>
+                    <lb n="1"/><w><supplied reason="lost">ἐνθάδε</supplied></w> <w>κῖται</w> <gap reason="lost" extent="unknown" unit="character"><desc>personal name</desc></gap>
+                    <lb n="2"/><w><supplied reason="lost">ζ</supplied>ήσας</w> <w><supplied reason="lost">ἔτη</supplied></w> <gap reason="lost" extent="unknown" unit="character"><desc>age at death</desc></gap>
+                    <lb n="3"/><w><supplied reason="lost">τελ</supplied>ευ<supplied reason="lost">τᾷ</supplied></w> <w><supplied reason="lost">τῇ</supplied></w> <w><supplied reason="lost">πρὸ</supplied></w> <gap reason="lost" extent="unknown" unit="character"><desc>day of death</desc></gap>
+                    <lb n="4"/><name><supplied reason="lost">Ἰ</supplied>αν<supplied reason="lost">ουαρίων</supplied></name>
                 </ab>
             </div>
             <div type="apparatus">

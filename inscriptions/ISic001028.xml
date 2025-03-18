@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -195,18 +195,18 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/>ἐπὶ Ἡρακλείου τοῦ
-                    <lb n="2"/>Νυμφοδώρου
-                    <lb n="3"/>προστατεύσαν<supplied reason="omitted">τ</supplied>ες
-                    <lb n="4"/>Ἥραι καὶ Ἀφροδίται
-                    <lb n="5"/>Ἀριστόγειτος
-                    <lb n="6"/>Ἀρτέμων Παυσανία
-                    <lb n="7"/>Διονυσόδωρος
-                    <lb n="8"/>Κρίθων Φιλιστίωνος
-                    <lb n="9"/>Φιλιστίων Σώσιος
-                    <lb n="10"/>Κλέων Νυμφοδώρου
-                    <lb n="11"/><roleName type="civic" subtype="grammateus">γραμματεὺς</roleName>
-                    <lb n="12"/>Φιλιστίων
+                    <lb n="1"/><w>ἐπὶ</w> <name>Ἡρακλείου</name> <w>τοῦ</w>
+                    <lb n="2"/><name>Νυμφοδώρου</name>
+                    <lb n="3"/><w>προστατεύσαν<supplied reason="omitted">τ</supplied>ες</w>
+                    <lb n="4"/><name>Ἥραι</name> <w>καὶ</w> <name>Ἀφροδίται</name>
+                    <lb n="5"/><name>Ἀριστόγειτος</name>
+                    <lb n="6"/><name>Ἀρτέμων</name> <name>Παυσανία</name>
+                    <lb n="7"/><name>Διονυσόδωρος</name>
+                    <lb n="8"/><name>Κρίθων</name> <name>Φιλιστίωνος</name>
+                    <lb n="9"/><name>Φιλιστίων</name> <name>Σώσιος</name>
+                    <lb n="10"/><name>Κλέων</name> <name>Νυμφοδώρου</name>
+                    <lb n="11"/><roleName type="civic" subtype="grammateus"><w>γραμματεὺς</w></roleName>
+                    <lb n="12"/><name>Φιλιστίων</name>
                 </ab>
             </div>
             <div type="apparatus">

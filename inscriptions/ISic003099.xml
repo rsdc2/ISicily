@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -191,12 +191,12 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/><supplied reason="lost">Ἐνθάδ</supplied>ε κῖτε <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">ζ</supplied><unclear>ῆ</unclear>σας ἔτ<unclear>η</unclear> <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">τελευτᾷ</supplied>
-                    <lb n="3"/><supplied reason="lost">μετὰ</supplied> τὴν <roleName type="supracivic" subtype="consul">ὑπ<unclear>α</unclear><supplied reason="lost">τίαν</supplied></roleName>
-                    <lb n="4"/><supplied reason="lost">τοῦ</supplied> <supplied reason="lost">δ</supplied>εσπότου <unclear>ἡ</unclear><supplied reason="lost">μῶν</supplied>
-                    <lb n="5"/><supplied reason="lost">Θεοδ</supplied>οσίου τὸ <num value="6">σ</num>
-                    <lb n="6"/><supplied reason="lost"><expan><abbr>κ</abbr><ex>αὶ</ex></expan></supplied> <supplied reason="lost">Παλλαδίο</supplied><unclear>υ</unclear> <roleName type="supracivic" subtype="clarissimus">λα<unclear>μ</unclear><supplied reason="lost">προτάτων</supplied></roleName>
+                    <lb n="1"/><w><supplied reason="lost">Ἐνθάδ</supplied>ε</w> <w>κῖτε</w> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">ζ</supplied><unclear>ῆ</unclear>σας</w> <w>ἔτ<unclear>η</unclear></w> <gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">τελευτᾷ</supplied></w>
+                    <lb n="3"/><w><supplied reason="lost">μετὰ</supplied></w> <w>τὴν</w> <roleName type="supracivic" subtype="consul"><w>ὑπ</w> <w><unclear>α</unclear></w> <w><supplied reason="lost">τίαν</supplied></w></roleName>
+                    <lb n="4"/><w><supplied reason="lost">τοῦ</supplied></w> <w><supplied reason="lost">δ</supplied>εσπότου</w> <w><unclear>ἡ</unclear><supplied reason="lost">μῶν</supplied></w>
+                    <lb n="5"/><name><supplied reason="lost">Θεοδ</supplied>οσίου</name> <w>τὸ</w> <num value="6">σ</num>
+                    <lb n="6"/><w><supplied reason="lost"><expan><abbr>κ</abbr><ex>αὶ</ex></expan></supplied></w> <name><supplied reason="lost">Παλλαδίο</supplied><unclear>υ</unclear></name> <roleName type="supracivic" subtype="clarissimus"><w>λα</w> <w><unclear>μ</unclear></w> <w><supplied reason="lost">προτάτων</supplied></w></roleName>
                 </ab>
             </div>
             <div type="apparatus">

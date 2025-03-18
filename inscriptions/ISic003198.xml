@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -187,21 +187,11 @@
         <body>
             <div type="edition" xml:space="preserve" subtype="PHI" n="PHI329600">
                 <ab>
-                    <lb n="1"/>
-
-
-                    Πριγομένια <surplus>²⁶Πριμογένια</surplus>²⁶ χρησ-
-                    <lb n="2"/>
-                    <supplied reason="lost">τ</supplied>ὰ <surplus>²⁶χρηστὴ</surplus>²⁶ κὲ ἄμεμπτο<supplied reason="omitted">ς
-                </supplied> κὲ
-                    <lb n="3"/>
-                    <supplied reason="lost">πι</supplied>στὴ
-                    <unclear>κ</unclear>
-                    <supplied reason="lost">ὲ</supplied>
-                    ἀμίμη-
-                    <lb n="4"/>
-                    <surplus>μη</surplus>τος <surplus>²⁶ἀμίμητος</surplus>²⁶, ἔζησε ἔτη <supplied reason="lost">—
-                    —</supplied>.
+                    <lb n="1"/><w>Πριγομένια</w> <w><surplus>²⁶Πριμογένια</surplus>²⁶</w> <w>χρησ-</w>
+                    <lb n="2"/><w><supplied reason="lost">τ</supplied>ὰ</w> <name><surplus>²⁶χρηστὴ</surplus>²⁶</name> <w>κὲ</w> <w>ἄμεμπτο<supplied reason="omitted">ς</supplied></w> <w>κὲ</w>
+                    <lb n="3"/><w><supplied reason="lost">πι</supplied>στὴ</w> <w><unclear>κ</unclear></w> <w><supplied reason="lost">ὲ</supplied></w> <w>ἀμίμη-</w>
+                    <lb n="4"/><w><surplus>μη</surplus>τος</w> <name><surplus>²⁶ἀμίμητος</surplus>²⁶,</name> <w>ἔζησε</w> <w>ἔτη</w> <name><supplied reason="lost">—
+                    —</supplied>.</name>
                     <lb n="5"/>
                 </ab>
             </div>

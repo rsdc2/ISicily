@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -186,13 +186,13 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name>Crescentiae</name></persName> bene m<supplied reason="lost">e</supplied>renti
-                    <lb n="2"/>in pace <choice><sic>que</sic><corr>quae</corr></choice> vixit <expan><abbr>ann</abbr><ex>is</ex></expan>
-                    <lb n="3"/><expan><abbr>p</abbr><ex>lus</ex></expan> <expan><abbr>m</abbr><ex>i</ex><abbr>n</abbr><ex>us</ex></expan> <num value="50">L</num> <expan><abbr>deposit</abbr><ex>a</ex></expan> <num value="3">III</num> <expan><abbr>Kal</abbr><ex>endas</ex></expan>
-                    <lb n="4"/><expan><abbr>Decemb</abbr><ex>res</ex></expan> <expan><abbr><unclear>Fl</unclear></abbr><ex>avio</ex></expan> <unclear>Stilico</unclear>
-                    <lb n="5" break="no"/>ne <roleName type="supracivic" subtype="consul"><expan><abbr>cons</abbr><ex>ule</ex></expan></roleName> se vivi conpa<supplied reason="lost">ra</supplied>
-                    <lb n="6" break="no"/><supplied reason="lost">v</supplied>er<supplied reason="lost">u</supplied>n<supplied reason="lost">t</supplied>
-                  </ab>
+                    <lb n="1"/><persName type="attested"><name>Crescentiae</name></persName> <w>bene</w> <w>m<supplied reason="lost">e</supplied>renti</w>
+                    <lb n="2"/><w>in</w> <w>pace</w> <w><choice><sic>que</sic><corr>quae</corr></choice></w> <w>vixit</w> <w><expan><abbr>ann</abbr><ex>is</ex></expan></w>
+                    <lb n="3"/><w><expan><abbr>p</abbr><ex>lus</ex></expan></w> <w><expan><abbr>m</abbr><ex>i</ex><abbr>n</abbr><ex>us</ex></expan></w> <num value="50">L</num> <w><expan><abbr>deposit</abbr><ex>a</ex></expan></w> <num value="3">III</num> <name><expan><abbr>Kal</abbr><ex>endas</ex></expan></name>
+                    <lb n="4"/><name><expan><abbr>Decemb</abbr><ex>res</ex></expan></name> <name><expan><abbr><unclear>Fl</unclear></abbr><ex>avio</ex></expan></name> <name><unclear>Stilico</unclear>
+                    <lb n="5" break="no"/>ne</name> <roleName type="supracivic" subtype="consul"><w><expan><abbr>cons</abbr><ex>ule</ex></expan></w></roleName> <w>se</w> <w>vivi</w> <w>conpa<supplied reason="lost">ra</supplied>
+                    <lb n="6" break="no"/><supplied reason="lost">v</supplied>er<supplied reason="lost">u</supplied>n<supplied reason="lost">t</supplied></w>
+                </ab>
             </div>
             <div type="apparatus">
               <listApp>

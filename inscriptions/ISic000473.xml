@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -248,13 +248,13 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
-                    <lb n="1"/>Concordiae · <hi rend="apex">A</hi>grigenti
-                    <lb n="2" break="no"/><space quantity="2" unit="character"/>norum<space unit="character" quantity="3"/> sacrum<space quantity="2" unit="character"/>
-                    <lb n="3"/>res publica <hi rend="apex">L</hi>ilybitano
-                    <lb n="4" break="no"/>rum <space unit="character" quantity="3"/> dedicantibus
-                    <lb n="5"/><expan><abbr>M</abbr><ex>arco</ex></expan> · Haterio Candido <roleName type="supracivic" subtype="proconsul"><expan><abbr>pr<hi rend="ligature">oc</hi><hi rend="small">o</hi></abbr><ex>n</ex><abbr>s</abbr><ex>ule</ex></expan></roleName>
-                    <lb n="6"/>et <expan><abbr>L</abbr><ex>ucio</ex></expan> · Cornelio Marcello <space unit="character" quantity="1"/> <roleName type="supracivic" subtype="quaestor.pro.praetore"><expan><abbr><hi rend="supraline">q</hi></abbr><ex>uaestore</ex></expan>
-                    <lb n="7"/><space unit="character" quantity="5"/> <expan><abbr>pr</abbr><ex>o</ex></expan> <space unit="character" quantity="6"/> <expan><abbr>pr</abbr><ex>aetore</ex></expan></roleName> <space unit="character" quantity="5"/>
+                    <lb n="1"/><w>Concordiae</w> <g ref="#interpunct">·</g> <name><hi rend="apex">A</hi>grigenti
+                    <lb n="2" break="no"/><space quantity="2" unit="character"/>norum<space unit="character" quantity="3"/></name> <w>sacrum<space quantity="2" unit="character"/></w>
+                    <lb n="3"/><w>res</w> <w>publica</w> <name><hi rend="apex">L</hi>ilybitano
+                    <lb n="4" break="no"/>rum</name> <space unit="character" quantity="3"/><w>dedicantibus</w>
+                    <lb n="5"/><name><expan><abbr>M</abbr><ex>arco</ex></expan></name> <g ref="#interpunct">·</g> <name>Haterio</name> <name>Candido</name> <roleName type="supracivic" subtype="proconsul"><w><expan><abbr>pr<hi rend="ligature">oc</hi><hi rend="small">o</hi></abbr><ex>n</ex><abbr>s</abbr><ex>ule</ex></expan></w></roleName>
+                    <lb n="6"/><w>et</w> <name><expan><abbr>L</abbr><ex>ucio</ex></expan></name> <g ref="#interpunct">·</g> <name>Cornelio</name> <name>Marcello</name> <space unit="character" quantity="1"/><roleName type="supracivic" subtype="quaestor.pro.praetore"><w><expan><abbr><hi rend="supraline">q</hi></abbr><ex>uaestore</ex></expan></w>
+                    <lb n="7"/><space unit="character" quantity="5"/><w><expan><abbr>pr</abbr><ex>o</ex></expan></w> <space unit="character" quantity="6"/><w><expan><abbr>pr</abbr><ex>aetore</ex></expan></w></roleName> <space unit="character" quantity="5"/>
                 </ab>
             </div>
             <div type="apparatus">

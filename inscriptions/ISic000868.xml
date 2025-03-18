@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -192,10 +192,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/>Φιλάδελφος <g ref="#ivy-leaf">❦</g>
-                    <lb n="2"/>χρηστὸς <g ref="#ivy-leaf">❦</g>
-                    <lb n="3"/>καὶ ἄμεμπτος
-                    <lb n="4"/>ἔτη <g ref="#ivy-leaf">❦</g> <num value="35">λε</num> <g ref="#interpunct">·</g> <expan><abbr>μ</abbr><ex>ῆνας</ex></expan> <g ref="#interpunct">·</g> <num value="6">ϛ</num> 
+                    <lb n="1"/><w>Φιλάδελφος</w> <g ref="#ivy-leaf">❦</g>
+                    <lb n="2"/><w>χρηστὸς</w> <g ref="#ivy-leaf">❦</g>
+                    <lb n="3"/><w>καὶ</w> <w>ἄμεμπτος</w>
+                    <lb n="4"/><w>ἔτη</w> <g ref="#ivy-leaf">❦</g> <num value="35">λε</num> <g ref="#interpunct">·</g> <w><expan><abbr>μ</abbr><ex>ῆνας</ex></expan></w> <g ref="#interpunct">·</g> <num value="6">ϛ</num>
                 </ab>
             </div>
             <div type="apparatus">

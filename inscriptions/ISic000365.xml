@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -191,12 +191,12 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
-                    <lb n="1"/><expan><abbr>d</abbr><ex>is</ex></expan> <g ref="#interpunct">·</g> <expan><abbr>m</abbr><ex>anibus</ex></expan> <g ref="#interpunct">·</g> <expan><abbr>s</abbr><ex>acrum</ex></expan>
+                    <lb n="1"/><w><expan><abbr>d</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>m</abbr><ex>anibus</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>s</abbr><ex>acrum</ex></expan></w>
                     <lb n="2"/><name><expan><abbr>P</abbr><ex>ublius</ex></expan></name> <g ref="#interpunct">·</g> <name>Phonteius</name> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="3"/><name><expan><abbr>Cl</abbr><ex cert="low">audia</ex></expan></name> Million<gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="4"/><expan><abbr>mens</abbr><ex cert="low">ibus</ex></expan> <gap reason="lost" extent="unknown" unit="character"/> <name>Phontei
-                    <lb n="5" break="no"/>a</name> <g ref="#interpunct">·</g> <name>Mercatilla</name> <g ref="#interpunct">·</g> <expan><abbr>fil</abbr><ex>io</ex></expan>
-                    <lb n="6"/>piissimo <g ref="#interpunct">·</g> fecit
+                    <lb n="3"/><name><expan><abbr>Cl</abbr><ex cert="low">audia</ex></expan></name> <name>Million</name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="4"/><w><expan><abbr>mens</abbr><ex cert="low">ibus</ex></expan></w> <gap reason="lost" extent="unknown" unit="character"/> <name>Phontei
+                    <lb n="5" break="no"/>a</name> <g ref="#interpunct">·</g> <name>Mercatilla</name> <g ref="#interpunct">·</g> <w><expan><abbr>fil</abbr><ex>io</ex></expan></w>
+                    <lb n="6"/><w>piissimo</w> <g ref="#interpunct">·</g> <w>fecit</w>
                 </ab>
             </div>
             <div type="apparatus">

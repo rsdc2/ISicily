@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -191,10 +191,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/>εἰκόνι κ<gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">τύ</supplied>πῳ μ’ ἐπ<gap reason="lost" extent="unknown" unit="character"/>σαι
-                    <lb n="2"/>σεμν<choice><corr>ο</corr><sic>α</sic></choice>πρεπῶς βιότοιο χρόνους τε<supplied reason="lost">λέσασαν ἀμέμ</supplied><unclear>π</unclear>τως
-                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/><orig><unclear>Λ</unclear>ΩΧΑ</orig> μοι σοί τε τὰ καί μ<unclear>ε</unclear> <supplied reason="lost">ἀγ</supplied><unclear>απ</unclear>ήσας
-                    <lb n="4"/><orig><unclear cert="low">Σ</unclear></orig><gap reason="lost" extent="unknown" unit="character"/> φιλείης μορφὴν <orig>ΗΙΣ</orig> <supplied reason="omitted">ἔ</supplied><unclear>δε</unclear>ιξεν ὁμοίαν
+                    <lb n="1"/><w>εἰκόνι</w> <w>κ</w> <gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">τύ</supplied>πῳ</w> <w>μ’</w> <w>ἐπ</w> <gap reason="lost" extent="unknown" unit="character"/> <w>σαι</w>
+                    <lb n="2"/><w>σεμν<choice><corr>ο</corr><sic>α</sic></choice>πρεπῶς</w> <w>βιότοιο</w> <w>χρόνους</w> <w>τε<supplied reason="lost">λέσασαν ἀμέμ</supplied><unclear>π</unclear>τως</w>
+                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <orig><unclear>Λ</unclear>ΩΧΑ</orig><w>μοι</w> <w>σοί</w> <w>τε</w> <w>τὰ</w> <w>καί</w> <w>μ<unclear>ε</unclear></w> <w><supplied reason="lost">ἀγ</supplied><unclear>απ</unclear>ήσας</w>
+                    <lb n="4"/><orig><unclear cert="low">Σ</unclear></orig><gap reason="lost" extent="unknown" unit="character"/> <w>φιλείης</w> <w>μορφὴν</w> <orig>ΗΙΣ</orig><w><supplied reason="omitted">ἔ</supplied><unclear>δε</unclear>ιξεν</w> <w>ὁμοίαν</w>
                 </ab>
             </div>
             <div type="apparatus">

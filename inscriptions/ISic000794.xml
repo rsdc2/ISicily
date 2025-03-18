@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -199,10 +199,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#NQ">
                 <ab>
-                    <lb n="1"/>ἐνθάδε κῖτε <g ref="#interpunct">·</g> <persName type="#attested"><name>Καλὴ</name></persName> <expan><abbr><hi rend="ligature">π<unclear>ρ</unclear></hi>ε</abbr><ex>σ</ex><abbr>β</abbr><ex>ῦτις</ex></expan>
-                    <lb n="2"/><expan><abbr>ζήσ</abbr><ex>ασ</ex><abbr>α</abbr></expan> <g ref="#interpunct">·</g> ἔτη <g ref="#interpunct">·</g> <num value="50"><hi rend="supraline">ν</hi></num> <choice><orig>ἀμέπτ<hi rend="inverted">ω</hi>ς</orig><reg>ἀμέμπτως</reg></choice>
-                    <lb n="3"/>τὸν βίον <expan><abbr>τελ</abbr><ex>ευτᾷ</ex></expan> τῇ <expan><abbr>πρ</abbr><ex>ὸ</ex></expan> <num value="19"><hi rend="supraline">ιθ</hi></num> <expan><abbr>κ</abbr><ex>αλα</ex><abbr>ν</abbr><ex>δῶν</ex></expan>
-                    <lb n="4"/>Ὀκτ<hi rend="inverted">ω</hi>βρί<hi rend="inverted">ω</hi>ν <g ref="#staurogram">𐆠</g>
+                    <lb n="1"/><w>ἐνθάδε</w> <w>κῖτε</w> <g ref="#interpunct">·</g> <persName type="#attested"><name>Καλὴ</name></persName> <w><expan><abbr><hi rend="ligature">π<unclear>ρ</unclear></hi>ε</abbr><ex>σ</ex><abbr>β</abbr><ex>ῦτις</ex></expan></w>
+                    <lb n="2"/><w><expan><abbr>ζήσ</abbr><ex>ασ</ex><abbr>α</abbr></expan></w> <g ref="#interpunct">·</g> <w>ἔτη</w> <g ref="#interpunct">·</g> <num value="50"><hi rend="supraline">ν</hi></num> <w><choice><orig>ἀμέπτ<hi rend="inverted">ω</hi>ς</orig><reg>ἀμέμπτως</reg></choice></w>
+                    <lb n="3"/><w>τὸν</w> <w>βίον</w> <w><expan><abbr>τελ</abbr><ex>ευτᾷ</ex></expan></w> <w>τῇ</w> <w><expan><abbr>πρ</abbr><ex>ὸ</ex></expan></w> <num value="19"><hi rend="supraline">ιθ</hi></num> <w><expan><abbr>κ</abbr><ex>αλα</ex><abbr>ν</abbr><ex>δῶν</ex></expan></w>
+                    <lb n="4"/><name>Ὀκτ<hi rend="inverted">ω</hi>βρί<hi rend="inverted">ω</hi>ν</name> <g ref="#staurogram">𐆠</g>
                 </ab>
             </div>
             <div type="apparatus">

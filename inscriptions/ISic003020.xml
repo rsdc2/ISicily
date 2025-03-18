@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -204,10 +204,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/><handShift new="#h1"/><supplied reason="undefined" evidence="previouseditor">ἐπὶ</supplied>
-                    <lb n="2"/><supplied reason="undefined" evidence="previouseditor">ἀμφιπό</supplied>
-                    <lb n="3" break="no"/><supplied reason="undefined" evidence="previouseditor">λου</supplied> <supplied reason="undefined" evidence="previouseditor">ἐν</supplied> <supplied reason="undefined" evidence="previouseditor">Συ</supplied>
-                    <lb n="4" break="no"/><supplied reason="undefined" evidence="previouseditor"><supplied reason="lost">ρακο</supplied>ύσαις</supplied> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><handShift new="#h1"/><w><supplied reason="undefined" evidence="previouseditor">ἐπὶ</supplied></w>
+                    <lb n="2"/><w><supplied reason="undefined" evidence="previouseditor">ἀμφιπό</supplied>
+                    <lb n="3" break="no"/><supplied reason="undefined" evidence="previouseditor">λου</supplied></w> <w><supplied reason="undefined" evidence="previouseditor">ἐν</supplied></w> <name><supplied reason="undefined" evidence="previouseditor">Συ</supplied>
+                    <lb n="4" break="no"/><supplied reason="undefined" evidence="previouseditor"><supplied reason="lost">ρακο</supplied>ύσαις</supplied></name> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="5"/><gap reason="lost" quantity="1" unit="line"/>
                     <lb n="6"/><gap reason="lost" quantity="1" unit="line"/>
                     <lb n="7"/><gap reason="lost" quantity="1" unit="line"/>
@@ -215,12 +215,12 @@
                     <lb n="9"/><gap reason="lost" quantity="1" unit="line"/>
                     <lb n="10"/><gap reason="lost" quantity="1" unit="line"/>
                     <lb n="11"/><gap reason="lost" quantity="1" unit="line"/>
-                    <lb n="12"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="undefined" evidence="previouseditor"><orig>ΠΟ</orig></supplied><gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="13"/><supplied reason="undefined" evidence="previouseditor"><orig>ΓΕΝ</orig></supplied><gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="14"/><supplied reason="undefined" evidence="previouseditor"><orig>ΑΡΤΙΩΝ</orig></supplied><gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="15"/><supplied reason="lost">Ῥ</supplied>ουφίλ<supplied reason="lost" cert="low">λα</supplied>
-                    <lb n="16"/>Φαυστια<supplied reason="lost" cert="low">νός</supplied>
-                    <lb n="17"/><space quantity="1" unit="character"/> Ἀρτέ<supplied reason="lost" cert="low">μων</supplied>
+                    <lb n="12"/><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="undefined" evidence="previouseditor"><orig>ΠΟ</orig></supplied> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="13"/><supplied reason="undefined" evidence="previouseditor"><orig>ΓΕΝ</orig></supplied> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="14"/><supplied reason="undefined" evidence="previouseditor"><orig>ΑΡΤΙΩΝ</orig></supplied> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="15"/><name><supplied reason="lost">Ῥ</supplied>ουφίλ<supplied reason="lost" cert="low">λα</supplied></name>
+                    <lb n="16"/><name>Φαυστια<supplied reason="lost" cert="low">νός</supplied></name>
+                    <lb n="17"/><space quantity="1" unit="character"/><name>Ἀρτέ<supplied reason="lost" cert="low">μων</supplied></name>
                     <lb n="18"/><handShift new="#h2"/><orig>ΙΙΧΡΜΝ</orig><gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>

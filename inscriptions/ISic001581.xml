@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
@@ -194,10 +194,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/>ἀνεπαύσα<supplied reason="lost">το</supplied> <persName type="attested"><name><supplied reason="lost">Θεό</supplied>
-                    <lb n="2"/>δοῦλος</name></persName> <expan><abbr><hi rend="supraline">Ἰ</hi></abbr><ex>ησοῦ</ex><abbr><hi rend="supraline">ς</hi></abbr></expan> <supplied reason="lost"><expan><abbr>Χ</abbr><ex>ριστό</ex><abbr>ς</abbr></expan></supplied>
-                    <lb n="3"/>νώνες Ἀ<gap reason="lost" extent="unknown" unit="character"><desc>month name</desc></gap>
-                    <lb n="4"/>ζήσας ἔ<supplied reason="lost">τη</supplied> <gap reason="lost" extent="unknown" unit="character"><desc>number of years</desc></gap>
+                    <lb n="1"/><w>ἀνεπαύσα<supplied reason="lost">το</supplied></w> <persName type="attested"><name><supplied reason="lost">Θεό</supplied>
+                    <lb n="2"/>δοῦλος</name></persName> <name><expan><abbr><hi rend="supraline">Ἰ</hi></abbr><ex>ησοῦ</ex><abbr><hi rend="supraline">ς</hi></abbr></expan></name> <name><supplied reason="lost"><expan><abbr>Χ</abbr><ex>ριστό</ex><abbr>ς</abbr></expan></supplied></name>
+                    <lb n="3"/><w>νώνες</w> <name>Ἀ</name> <gap reason="lost" extent="unknown" unit="character"><desc>month name</desc></gap>
+                    <lb n="4"/><w>ζήσας</w> <w>ἔ<supplied reason="lost">τη</supplied></w> <gap reason="lost" extent="unknown" unit="character"><desc>number of years</desc></gap>
                 </ab>
             </div>
             <div type="apparatus" resp="#JP">
