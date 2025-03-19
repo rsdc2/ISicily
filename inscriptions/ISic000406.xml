@@ -189,14 +189,14 @@
             <div type="edition" xml:space="preserve">
                 <div type="textpart" subtype="section" n="a" xml:lang="la" resp="#JP">
                     <ab>
-                        <lb n="1"/><w><expan><abbr>Perpenna</abbr><ex>m</ex></expan></w> <name><expan><abbr>Roman</abbr><ex>um</ex></expan></name>
-                        <lb n="2"/><w><expan><abbr>v</abbr><ex>irum</ex></expan></w> <roleName type="supracivic" subtype="clarissimus"><w><expan><abbr>c</abbr><ex>larissimum</ex></expan></w></roleName> <roleName type="supracivic" subtype="consularis"><w><expan><abbr>cons</abbr><ex>ularem</ex></expan></w></roleName> <w><expan><abbr>p</abbr><ex>opulus</ex></expan></w> <name><expan><abbr>Syrac</abbr><ex>usanus</ex></expan></name>
+                        <lb n="1"/><w><expan><abbr>Perpenna</abbr><ex>m</ex></expan></w> <name><w><expan><abbr>Roman</abbr><ex>um</ex></expan></w></name>
+                        <lb n="2"/><w><expan><abbr>v</abbr><ex>irum</ex></expan></w> <roleName type="supracivic" subtype="clarissimus"><w><expan><abbr>c</abbr><ex>larissimum</ex></expan></w></roleName> <roleName type="supracivic" subtype="consularis"><w><expan><abbr>cons</abbr><ex>ularem</ex></expan></w></roleName> <w><expan><abbr>p</abbr><ex>opulus</ex></expan></w> <name><w><expan><abbr>Syrac</abbr><ex>usanus</ex></expan></w></name>
                     </ab>
                 </div>
                 <div type="textpart" subtype="section" n="b" xml:lang="grc" resp="#JP">
                     <ab>
                         <lb n="3"/><w><supplied reason="lost">Ῥ</supplied>ωμανοῦ</w> <w>πραπίδεσσι</w>
-                        <lb n="4"/><name><supplied reason="lost">Συ</supplied>ρηκοσίων</name> <w>τόδε</w> <w>ἄστυ</w>
+                        <lb n="4"/><name><w><supplied reason="lost">Συ</supplied>ρηκοσίων</w></name> <w>τόδε</w> <w>ἄστυ</w>
                         <lb n="5"/><w>ἐκ</w> <w>καμάτων</w> <w>ἀνέπνευσε</w>
                         <lb n="6"/><w>καὶ</w> <w>ἔ<supplied reason="lost">δρα</supplied>κεν</w> <w>ἴα<supplied reason="lost">ρ</supplied>ος</w> <w>ὥρην·</w>
                         <lb n="7"/><w>τοὔνεκα</w> <w>λαινέην</w> <w>μὲν</w>

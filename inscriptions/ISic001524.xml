@@ -191,12 +191,12 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/><w>Ἐ<hi rend="ligature">τε</hi>λεύ<hi rend="ligature">τη</hi>σεν</w> <name>Πορ
-                    <lb n="2" break="no"/>φύριος</name> <w><hi rend="ligature">μην</hi>ὶ</w> <name><hi rend="ligature">Μα</hi>ρτίῳ</name>
-                    <lb n="3"/><w>ταῖς</w> <num value="5"><hi rend="ligature">πέ</hi>ν<hi rend="ligature">τε</hi></num> <w>ἐτ<hi rend="ligature">ῶν</hi></w> <num value="20"><hi rend="supraline">κ</hi></num> <w>καὶ</w>
-                    <lb n="4"/><w><hi rend="ligature">μην</hi>ός</w> <name><hi rend="ligature">Μνησ</hi>θῇ</name> <w>σου</w> <w>ὁ</w> <w><hi rend="ligature">θε</hi>ὸς</w> <w>καὶ</w>
-                    <lb n="5"/><w>ὁ</w> <name>Χριστός</name> <w>καὶ</w> <w>τὸ</w> <w>ἅγειος</w>
-                    <lb n="6"/><w><hi rend="ligature">πνε</hi>ῦμα</w> <name>Εὐμυρω<surplus>υ</surplus>δίς</name>
+                    <lb n="1"/><w>Ἐ<hi rend="ligature">τε</hi>λεύ<hi rend="ligature">τη</hi>σεν</w> <name><w>Πορ
+                    <lb n="2" break="no"/>φύριος</w></name> <w><hi rend="ligature">μην</hi>ὶ</w> <name><w><hi rend="ligature">Μα</hi>ρτίῳ</w></name>
+                    <lb n="3"/><w>ταῖς</w> <num value="5"><w><hi rend="ligature">πέ</hi>ν<hi rend="ligature">τε</hi></w></num> <w>ἐτ<hi rend="ligature">ῶν</hi></w> <num value="20"><w><hi rend="supraline">κ</hi></w></num> <w>καὶ</w>
+                    <lb n="4"/><w><hi rend="ligature">μην</hi>ός</w> <name><w><hi rend="ligature">Μνησ</hi>θῇ</w></name> <w>σου</w> <w>ὁ</w> <w><hi rend="ligature">θε</hi>ὸς</w> <w>καὶ</w>
+                    <lb n="5"/><w>ὁ</w> <name><w>Χριστός</w></name> <w>καὶ</w> <w>τὸ</w> <w>ἅγειος</w>
+                    <lb n="6"/><w><hi rend="ligature">πνε</hi>ῦμα</w> <name><w>Εὐμυρω<surplus>υ</surplus>δίς</w></name>
                     <lb n="7"/><w>ἀ<hi rend="ligature">θά</hi><hi rend="ligature">να</hi>τος</w> <w>α</w> <g ref="#christogram">☧</g> <w>ω</w>
                 </ab>
             </div>

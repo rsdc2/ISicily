@@ -195,10 +195,10 @@
             <div type="edition" xml:space="preserve" xml:lang="la">
                 <ab>
                     <lb n="1"/><w><expan><abbr>d</abbr><ex>is</ex></expan></w> <w><expan><abbr>m</abbr><ex>anibus</ex></expan></w> <w><expan><abbr>s</abbr><ex>acrum</ex></expan></w>
-                    <lb n="2"/><name>Antonia</name> <name>Rufina</name>
-                    <lb n="3"/><w><expan><abbr>vix</abbr><ex>it</ex></expan></w> <w><expan><abbr>ann</abbr><ex>is</ex></expan></w> <num value="48">XLVIII</num>
-                    <lb n="4"/><w><expan><abbr>men</abbr><ex>sibus</ex></expan></w> <num value="6">VI</num> <w><expan><abbr>d</abbr><ex>iebus</ex></expan></w> <num value="15">XV</num> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="5"/><name>Ant<supplied reason="lost" cert="low">oni</supplied></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><name><w>Antonia</w></name> <name><w>Rufina</w></name>
+                    <lb n="3"/><w><expan><abbr>vix</abbr><ex>it</ex></expan></w> <w><expan><abbr>ann</abbr><ex>is</ex></expan></w> <num value="48"><w>XLVIII</w></num>
+                    <lb n="4"/><w><expan><abbr>men</abbr><ex>sibus</ex></expan></w> <num value="6"><w>VI</w></num> <w><expan><abbr>d</abbr><ex>iebus</ex></expan></w> <num value="15"><w>XV</w></num> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="5"/><name><w>Ant<supplied reason="lost" cert="low">oni</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="6"/><gap reason="lost" extent="unknown" unit="line"/>
                 </ab>
             </div>

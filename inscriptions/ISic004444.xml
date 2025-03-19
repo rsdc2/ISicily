@@ -187,8 +187,8 @@
                 <ab>
                     <lb n="1"/><w>Gaudiosus</w>
                     <lb n="2"/><w>in</w> <w>pace</w> <w>vixit</w>
-                    <lb n="3"/><w>annos</w> <num value="16"><foreign xml:lang="grc">χϛ</foreign></num> <w>et</w> <w>me
-                    <lb n="4" break="no"/>ses</w> <num value="3">tres</num>
+                    <lb n="3"/><w>annos</w> <num value="16"><w><foreign xml:lang="grc">χϛ</foreign></w></num> <w>et</w> <w>me
+                    <lb n="4" break="no"/>ses</w> <num value="3"><w>tres</w></num>
                 </ab>
                </div>
             <div type="apparatus">

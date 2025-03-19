@@ -190,9 +190,9 @@
             <div type="edition" xml:space="preserve" subtype="PHI" n="PHI334617">
                 <ab>
                     <lb n="1"/><w>Φιλήτου</w>
-                    <lb n="2"/><w>ΚΑϹΚΥΜΝΟ|Υ</w> <name>{²⁷κα</name> <w><supplied reason="omitted">ὶ</supplied></w> <name><expan><abbr>Σκύμνου</abbr><ex>?</ex></expan></name> <name>}²⁷</name>
-                    <lb n="3"/><name>Σωτηρία</name>
-                    <lb n="4"/><w><unclear>Ν</unclear>Ω</w> <name><supplied reason="lost">— —</supplied></name>
+                    <lb n="2"/><w>ΚΑϹΚΥΜΝΟ|Υ</w> <name><w>{²⁷κα</w></name> <w><supplied reason="omitted">ὶ</supplied></w> <name><w><expan><abbr>Σκύμνου</abbr><ex>?</ex></expan></w></name> <name><w>}²⁷</w></name>
+                    <lb n="3"/><name><w>Σωτηρία</w></name>
+                    <lb n="4"/><w><unclear>Ν</unclear>Ω</w> <name><w><supplied reason="lost">— —</supplied></w></name>
                     <lb n="5"/>
                 </ab>
             </div>

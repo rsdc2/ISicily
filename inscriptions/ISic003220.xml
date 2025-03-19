@@ -194,10 +194,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <name><expan><abbr>M</abbr><ex>anibus</ex></expan></name> <w><expan><abbr>s</abbr><ex>acrum</ex></expan></w>
-                    <lb n="2"/><name>Atilio</name> <g ref="#interpunct">·</g> <name>Ones<supplied reason="lost" cert="high">imo</supplied></name>
-                    <lb n="3"/><w><expan><abbr>vix</abbr><ex>it</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>ann</abbr><ex>is</ex></expan></w> <name><unclear>C</unclear></name> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="4"/><num value="40">XL</num> <g ref="#interpunct">·</g> <name>Rufio</name> <g ref="#interpunct">·</g> <w>f<supplied reason="lost" cert="low">ecit</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <name><w><expan><abbr>M</abbr><ex>anibus</ex></expan></w></name> <w><expan><abbr>s</abbr><ex>acrum</ex></expan></w>
+                    <lb n="2"/><name><w>Atilio</w></name> <g ref="#interpunct">·</g> <name><w>Ones<supplied reason="lost" cert="high">imo</supplied></w></name>
+                    <lb n="3"/><w><expan><abbr>vix</abbr><ex>it</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>ann</abbr><ex>is</ex></expan></w> <name><w><unclear>C</unclear></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="4"/><num value="40"><w>XL</w></num> <g ref="#interpunct">·</g> <name><w>Rufio</w></name> <g ref="#interpunct">·</g> <w>f<supplied reason="lost" cert="low">ecit</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>
             <div type="apparatus">

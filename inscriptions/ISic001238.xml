@@ -191,8 +191,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#AL">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name type="idionym">Παφιανὸς</name> <placeName type="ethnic"><name>Πάφι
-                    <lb n="2" break="no"/>ος</name></placeName></persName> <w>τῇδ'</w> <w>ὑπὸ</w> <w>γῇ</w>
+                    <lb n="1"/><persName type="attested"><name type="idionym"><w>Παφιανὸς</w></name> <placeName type="ethnic"><name><w>Πάφι
+                    <lb n="2" break="no"/>ος</w></name></placeName></persName> <w>τῇδ'</w> <w>ὑπὸ</w> <w>γῇ</w>
                     <lb n="3"/><w>λέλυμαι</w> <w>κωμῳ
                     <lb n="4" break="no"/>δὸς</w> <w>λιφθεὶς</w>
                     <lb n="5"/><w>τὸν</w> <w>βιότου</w> <w>στέ

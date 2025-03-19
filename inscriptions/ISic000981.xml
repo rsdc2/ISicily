@@ -193,11 +193,11 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
                     <lb n="0"/><gap reason="lost" quantity="1" unit="line"/>
-                    <lb n="1"/><w>υἱὸς</w> <name>Παύλου</name>
-                    <lb n="2"/><w><supplied reason="lost">ζή</supplied>σας</w> <w>ἔτη</w> <num value="8">ὀκτώ</num>
+                    <lb n="1"/><w>υἱὸς</w> <name><w>Παύλου</w></name>
+                    <lb n="2"/><w><supplied reason="lost">ζή</supplied>σας</w> <w>ἔτη</w> <num value="8"><w>ὀκτώ</w></num>
                     <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <w>ἀνεπαύσατο</w>
-                    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <w>ιου</w> <name>Θεοδω</name>
-                    <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/> <name><unclear>Α</unclear>ων</name> <num value="10">δεκα</num>
+                    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <w>ιου</w> <name><w>Θεοδω</w></name>
+                    <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/> <name><w><unclear>Α</unclear>ων</w></name> <num value="10"><w>δεκα</w></num>
                     <lb n="6"/><gap reason="lost" extent="unknown" unit="character"/> <w>ωφιτεσσ<unclear>Α</unclear></w>
                 </ab>
             </div>

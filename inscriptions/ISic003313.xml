@@ -196,7 +196,7 @@
                 <ab>
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <gap reason="illegible" quantity="2" unit="character"/> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="2"/><w>FE</w> <g ref="#interpunct">·</g> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="3"/><w>CON</w> <g ref="#interpunct">·</g> <name>I</name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="3"/><w>CON</w> <g ref="#interpunct">·</g> <name><w>I</w></name> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>
             <div type="apparatus">

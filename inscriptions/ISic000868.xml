@@ -195,7 +195,7 @@
                     <lb n="1"/><w>Φιλάδελφος</w> <g ref="#ivy-leaf">❦</g>
                     <lb n="2"/><w>χρηστὸς</w> <g ref="#ivy-leaf">❦</g>
                     <lb n="3"/><w>καὶ</w> <w>ἄμεμπτος</w>
-                    <lb n="4"/><w>ἔτη</w> <g ref="#ivy-leaf">❦</g> <num value="35">λε</num> <g ref="#interpunct">·</g> <w><expan><abbr>μ</abbr><ex>ῆνας</ex></expan></w> <g ref="#interpunct">·</g> <num value="6">ϛ</num>
+                    <lb n="4"/><w>ἔτη</w> <g ref="#ivy-leaf">❦</g> <num value="35"><w>λε</w></num> <g ref="#interpunct">·</g> <w><expan><abbr>μ</abbr><ex>ῆνας</ex></expan></w> <g ref="#interpunct">·</g> <num value="6"><w>ϛ</w></num>
                 </ab>
             </div>
             <div type="apparatus">

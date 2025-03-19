@@ -203,17 +203,17 @@
                 <div type="textpart" subtype="section" n="a">
                     <ab>
                         <lb n="1"/><g ref="#cross_uninterpreted">☩</g> <w>Hic</w> <w>requiescit</w> <w>in</w> <w>pa<supplied reason="lost">ce</supplied></w>
-                        <lb n="2"/><w><expan><abbr>b</abbr><ex>o</ex><abbr>n</abbr><ex>ae</ex></expan></w> <w><expan><abbr>m</abbr><ex>emoriae</ex></expan></w> <name>Busiridis</name> <w>su<supplied reason="lost">b</supplied></w> <w><supplied reason="lost">die</supplied></w>
-                        <lb n="3"/><num value="17"><supplied reason="lost">X</supplied>VII</num> <w><expan><abbr>kal</abbr><ex>endas</ex></expan></w> <w>septemb<supplied reason="lost">res</supplied></w>
-                        <lb n="4"/><w><expan><abbr><supplied reason="lost">i</supplied>nd</abbr><ex>ictione</ex></expan></w> <num value="7">septima</num> <roleName type="supracivic" subtype="consul"><w>con</w> <w><supplied reason="lost">sulatu</supplied></w></roleName> <name><supplied reason="lost">Probi</supplied></name>
+                        <lb n="2"/><w><expan><abbr>b</abbr><ex>o</ex><abbr>n</abbr><ex>ae</ex></expan></w> <w><expan><abbr>m</abbr><ex>emoriae</ex></expan></w> <name><w>Busiridis</w></name> <w>su<supplied reason="lost">b</supplied></w> <w><supplied reason="lost">die</supplied></w>
+                        <lb n="3"/><num value="17"><w><supplied reason="lost">X</supplied>VII</w></num> <w><expan><abbr>kal</abbr><ex>endas</ex></expan></w> <w>septemb<supplied reason="lost">res</supplied></w>
+                        <lb n="4"/><w><expan><abbr><supplied reason="lost">i</supplied>nd</abbr><ex>ictione</ex></expan></w> <num value="7"><w>septima</w></num> <roleName type="supracivic" subtype="consul"><w>con</w> <w><supplied reason="lost">sulatu</supplied></w></roleName> <name><w><supplied reason="lost">Probi</supplied></w></name>
                     </ab>
                 </div>
                 <div type="textpart" subtype="section" n="b">
                     <ab>
                         <lb n="1"/><g ref="#cross_uninterpreted">☩</g> <w>Hic</w> <w>requiescit</w> <w>in</w> <w>pace</w> <w><supplied reason="lost"><expan><abbr>b</abbr><ex>o</ex><abbr>n</abbr><ex>ae</ex></expan></supplied></w> <w><supplied reason="lost"><expan><abbr>m</abbr><ex>emoriae</ex></expan></supplied></w>
-                        <lb n="2"/><name><supplied reason="lost">S</supplied>erpentius</name> <w>qui</w> <w><supplied reason="lost">e</supplied>t</w> <w><supplied reason="lost">depo</supplied>
-                        <lb n="3" break="no"/><supplied reason="lost">s</supplied>itus</w> <w>est</w> <w><expan><abbr>su</abbr><ex>b</ex></expan></w> <w><expan><abbr>d</abbr><ex>ie</ex></expan></w> <num value="10">X</num> <w><expan><abbr>ka<supplied reason="lost">l</supplied></abbr><ex>endas</ex></expan></w> <w><supplied reason="lost">iuni</supplied>
-                        <lb n="4" break="no"/><supplied reason="lost">a</supplied>s</w> <roleName type="supracivic" subtype="consul"><w><expan><abbr>con</abbr><ex>sulatu</ex></expan></w></roleName> <name>Agapiti</name> <w><expan><abbr>ind</abbr><ex>ictione</ex></expan></w> <num value="10">de<supplied reason="lost">cima</supplied></num>
+                        <lb n="2"/><name><w><supplied reason="lost">S</supplied>erpentius</w></name> <w>qui</w> <w><supplied reason="lost">e</supplied>t</w> <w><supplied reason="lost">depo</supplied>
+                        <lb n="3" break="no"/><supplied reason="lost">s</supplied>itus</w> <w>est</w> <w><expan><abbr>su</abbr><ex>b</ex></expan></w> <w><expan><abbr>d</abbr><ex>ie</ex></expan></w> <num value="10"><w>X</w></num> <w><expan><abbr>ka<supplied reason="lost">l</supplied></abbr><ex>endas</ex></expan></w> <w><supplied reason="lost">iuni</supplied>
+                        <lb n="4" break="no"/><supplied reason="lost">a</supplied>s</w> <roleName type="supracivic" subtype="consul"><w><expan><abbr>con</abbr><ex>sulatu</ex></expan></w></roleName> <name><w>Agapiti</w></name> <w><expan><abbr>ind</abbr><ex>ictione</ex></expan></w> <num value="10"><w>de<supplied reason="lost">cima</supplied></w></num>
                     </ab>
                 </div>
             </div>

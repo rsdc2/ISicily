@@ -196,7 +196,7 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#martaf #AA">
                 <ab>
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w><unclear>α</unclear></w> <w>δ</w>' <w>ἀπέδω<supplied reason="lost">κ</supplied><gap reason="lost" quantity="1" unit="character"/></w> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="2"/><w><gap reason="lost" extent="unknown" unit="character"/>τρον</w> <persName type="attested"><name>Διοδω<supplied reason="lost">ρ</supplied><gap reason="lost" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/></name></persName>
+                    <lb n="2"/><w><gap reason="lost" extent="unknown" unit="character"/>τρον</w> <persName type="attested"><name><w>Διοδω<supplied reason="lost">ρ</supplied><gap reason="lost" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/></w></name></persName>
                     <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <w>πολλὰ</w> <w>καμ<unclear>ὼ</unclear><supplied reason="lost">ν</supplied><gap reason="lost" extent="unknown" unit="character"/></w>
                     <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <gap reason="illegible" quantity="1" unit="character"/> <orig>ΚΥΠΑΛ<unclear>Λ</unclear></orig><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/> <gap reason="illegible" quantity="1" unit="character"/> <orig>Ι</orig><gap reason="illegible" quantity="1" unit="character"/> <gap reason="lost" extent="unknown" unit="character"/>

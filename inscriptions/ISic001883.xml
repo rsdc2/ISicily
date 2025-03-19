@@ -184,8 +184,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1" style="text-direction:circular-anticlockwise"/><persName type="attested"><name>Διονύσιος</name> <persName type="attested"><name>Ἀπολλοδώρου</name></persName></persName>
-                    <lb n="2" style="text-direction:circular-anticlockwise"/><persName type="divine"><name>Ἀφροδίτα</name></persName> <w>ἀνέθηκε</w>
+                    <lb n="1" style="text-direction:circular-anticlockwise"/><persName type="attested"><name><w>Διονύσιος</w></name> <persName type="attested"><name><w>Ἀπολλοδώρου</w></name></persName></persName>
+                    <lb n="2" style="text-direction:circular-anticlockwise"/><persName type="divine"><name><w>Ἀφροδίτα</w></name></persName> <w>ἀνέθηκε</w>
                 </ab>
             </div>
             <div type="apparatus">

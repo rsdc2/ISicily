@@ -196,7 +196,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>M</abbr><ex>arcus</ex></expan></w> <name>Antonius</name> <name>Callistus</name>
+                    <lb n="1"/><w><expan><abbr>M</abbr><ex>arcus</ex></expan></w> <name><w>Antonius</w></name> <name><w>Callistus</w></name>
                 </ab> 
             </div>
             <div type="apparatus">

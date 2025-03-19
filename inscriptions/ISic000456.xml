@@ -204,7 +204,7 @@
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <seg xml:lang="grc">ω</seg><space quantity="4" unit="character"/>
                     <lb n="2"/><gap reason="lost" quantity="4" unit="character" precision="low"/> <gap reason="illegible" quantity="1" unit="character"/> <w>as<hi rend="supraline">i</hi>i</w>
                     <lb n="3"/><gap reason="lost" quantity="3" unit="character" precision="low"/> <w><supplied reason="lost">a</supplied>nnis</w>
-                    <lb n="4"/><w><supplied reason="lost">mens</supplied>es</w> <g ref="#interpunct">·</g> <num value="11">XI</num> <g ref="#interpunct">·</g>
+                    <lb n="4"/><w><supplied reason="lost">mens</supplied>es</w> <g ref="#interpunct">·</g> <num value="11"><w>XI</w></num> <g ref="#interpunct">·</g>
                     <lb n="5"/><gap reason="lost" quantity="4" unit="character" precision="low"/> <w><unclear>v</unclear>exivit</w>
                     <lb n="6"/><gap reason="lost" quantity="4" unit="character" precision="low"/> <w>viono</w>
                     <lb n="7"/><gap reason="lost" quantity="4" unit="character" precision="low"/> <orig>VSDE<gap reason="illegible" quantity="1" unit="character"/>r</orig>

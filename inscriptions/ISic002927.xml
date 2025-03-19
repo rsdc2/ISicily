@@ -193,9 +193,9 @@
                 <ab>
                     <lb n="1"/><g ref="#cross_uninterpreted"/> <w><hi rend="supraline">Mem</hi>o<supplied reason="lost">ria</supplied></w>
                     <lb n="1a"/><space extent="unknown" unit="line"/>
-                    <lb n="2"/><name>Ianua
-                    <lb n="3" break="no"/>rii</name> <w><expan><abbr>d</abbr><ex>omni</ex></expan></w> <w><expan><abbr>n</abbr><ex>ostri</ex></expan></w> <name>Gen
-                    <lb n="4" break="no"/>tionis</name> <w><supplied reason="subaudible">servi</supplied></w>
+                    <lb n="2"/><name><w>Ianua
+                    <lb n="3" break="no"/>rii</w></name> <w><expan><abbr>d</abbr><ex>omni</ex></expan></w> <w><expan><abbr>n</abbr><ex>ostri</ex></expan></w> <name><w>Gen
+                    <lb n="4" break="no"/>tionis</w></name> <w><supplied reason="subaudible">servi</supplied></w>
                 </ab>
             </div>
             <div type="apparatus">

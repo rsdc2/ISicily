@@ -186,11 +186,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>Θ</abbr><ex>εοῖς</ex></expan></w> <name><expan><abbr>Κ</abbr><ex>αταχθονίοις</ex></expan></name> <name><expan><abbr>Δ</abbr><ex>αίμοσιν</ex></expan></name>
-                    <lb n="2"/><name>Πεσκν</name> <gap reason="lost" quantity="3" unit="character"/> <name>Σικέλη</name> <name>Δρεπαν<supplied reason="lost">ὶς</supplied></name>
+                    <lb n="1"/><w><expan><abbr>Θ</abbr><ex>εοῖς</ex></expan></w> <name><w><expan><abbr>Κ</abbr><ex>αταχθονίοις</ex></expan></w></name> <name><w><expan><abbr>Δ</abbr><ex>αίμοσιν</ex></expan></w></name>
+                    <lb n="2"/><name><w>Πεσκν</w></name> <gap reason="lost" quantity="3" unit="character"/> <name><w>Σικέλη</w></name> <name><w>Δρεπαν<supplied reason="lost">ὶς</supplied></w></name>
                     <lb n="3"/><w>χριστὴ</w> <w>ἀμέμπτως</w>
                     <lb n="4"/><w>ἔζησ<supplied reason="lost">εν</supplied></w> <w>ἔτη</w> <gap reason="lost" unit="character" quantity="2"/>
-                    <lb n="5"/><name>Αὐρέλιος</name> <w>σίμβιος</w>
+                    <lb n="5"/><name><w>Αὐρέλιος</w></name> <w>σίμβιος</w>
                     <lb n="6"/><w>σινβίῳ</w> <w>εἰδίᾳ</w>
                     <lb n="7"/><w>εὐσεβεστάτῃ</w>
                     <lb n="8"/><w>ἐποίησε</w>

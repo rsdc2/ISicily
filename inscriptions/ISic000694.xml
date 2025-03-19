@@ -193,10 +193,10 @@
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
                     <lb n="1"/><g ref="#interpunct">·</g> <w><expan><abbr>d</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>m</abbr><ex>anibus</ex></expan></w> <g ref="#interpunct">·</g>
-                    <lb n="2"/><name>Asinia</name> <name>Char
-                    <lb n="3" break="no"/>mosyne</name> <g ref="#interpunct">·</g> <w><expan><abbr>v</abbr><ex>ixit</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>a</abbr><ex>nnis</ex></expan></w> <g ref="#interpunct">·</g>
-                    <lb n="4"/><num value="65">LXV</num> <g ref="#interpunct">·</g> <w><expan><abbr>mens</abbr><ex>ibus</ex></expan></w> <g ref="#interpunct">·</g> <g ref="#interpunct">·</g> <hi rend="supraline"><num value="7">VII</num></hi><g ref="#interpunct">·</g>
-                    <lb n="5"/><name><expan><abbr>M</abbr><ex>arcus</ex></expan></name> <name>Allianus</name>
+                    <lb n="2"/><name><w>Asinia</w></name> <name><w>Char
+                    <lb n="3" break="no"/>mosyne</w></name> <g ref="#interpunct">·</g> <w><expan><abbr>v</abbr><ex>ixit</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>a</abbr><ex>nnis</ex></expan></w> <g ref="#interpunct">·</g>
+                    <lb n="4"/><num value="65"><w>LXV</w></num> <g ref="#interpunct">·</g> <w><expan><abbr>mens</abbr><ex>ibus</ex></expan></w> <g ref="#interpunct">·</g> <g ref="#interpunct">·</g> <hi rend="supraline"><num value="7"><w>VII</w></num></hi><g ref="#interpunct">·</g>
+                    <lb n="5"/><name><w><expan><abbr>M</abbr><ex>arcus</ex></expan></w></name> <name><w>Allianus</w></name>
                     <lb n="6"/><w><expan><abbr>fil</abbr><ex>ius</ex></expan></w> <w><expan><abbr>fec</abbr><ex>it</ex></expan></w>
                 </ab>
             </div>

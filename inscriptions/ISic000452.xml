@@ -194,10 +194,10 @@
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#TA #JP">
                 <ab>
                     <lb n="1"/><w><unclear>F</unclear>lorentina</w> <g ref="#interpunct">·</g> <w>pia</w> <g ref="#interpunct">·</g> <w>bona</w> <g ref="#interpunct">·</g> <w><choice><orig>crestiana</orig><reg>christiana</reg></choice></w>
-                    <lb n="2"/><w>dulcissimae</w> <w><choice><reg>coniugi</reg><orig>coiugi</orig></choice></w> <w>ego</w> <name>Maius</name> <w>fec<supplied reason="lost">i</supplied></w>
-                    <lb n="3"/><w>que</w> <g ref="#interpunct">·</g> <w>vixit</w> <g ref="#interpunct">·</g> <w>mecum</w> <w><expan><abbr>a<am><g ref="#interpunct">·</g></am>n</abbr><ex>nis</ex></expan></w> <g ref="#interpunct">·</g> <num value="23">XXIII</num> <g ref="#interpunct">·</g> <w><expan><abbr>me</abbr><ex>nsibus</ex></expan></w> <num value="4">IIII</num> <g ref="#interpunct">·</g> <w><expan><abbr>di</abbr><ex>ebus</ex></expan></w> <g ref="#interpunct">·</g> <num value="5">V</num>
+                    <lb n="2"/><w>dulcissimae</w> <w><choice><reg>coniugi</reg><orig>coiugi</orig></choice></w> <w>ego</w> <name><w>Maius</w></name> <w>fec<supplied reason="lost">i</supplied></w>
+                    <lb n="3"/><w>que</w> <g ref="#interpunct">·</g> <w>vixit</w> <g ref="#interpunct">·</g> <w>mecum</w> <w><expan><abbr>a<am><g ref="#interpunct">·</g></am>n</abbr><ex>nis</ex></expan></w> <g ref="#interpunct">·</g> <num value="23"><w>XXIII</w></num> <g ref="#interpunct">·</g> <w><expan><abbr>me</abbr><ex>nsibus</ex></expan></w> <num value="4"><w>IIII</w></num> <g ref="#interpunct">·</g> <w><expan><abbr>di</abbr><ex>ebus</ex></expan></w> <g ref="#interpunct">·</g> <num value="5"><w>V</w></num>
                     <lb n="4"/><w><choice><reg>sine</reg><orig>sene</orig></choice></w> <g ref="#interpunct">·</g> <w><choice><orig>nula</orig><reg>nulla</reg></choice></w> <w><choice><orig>querela</orig><reg>querella</reg></choice></w> <g ref="#interpunct">·</g> <w><choice><orig>seper</orig><reg>semper</reg></choice></w> <g ref="#interpunct">·</g> <w>in</w> <w><choice><reg>pace</reg><orig>pake</orig></choice></w>
-                    <lb n="5"/><w><expan><abbr>dep</abbr><ex>osita</ex></expan></w> <w><expan><abbr>non</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <name><expan><abbr>Iun</abbr><ex>iis</ex></expan></name>
+                    <lb n="5"/><w><expan><abbr>dep</abbr><ex>osita</ex></expan></w> <w><expan><abbr>non</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <name><w><expan><abbr>Iun</abbr><ex>iis</ex></expan></w></name>
                 </ab>
             </div>
             <div type="apparatus">

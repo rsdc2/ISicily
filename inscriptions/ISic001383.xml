@@ -194,8 +194,8 @@
                 <ab>
                     <lb/><gap reason="lost" quantity="1" unit="line"/>
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <orig>ΣΙΑ</orig><gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="2"/><w>ἔτη</w> <num value="3">γ</num>
-                    <lb n="3"/><w><supplied reason="lost"><expan><abbr>τελ</abbr><ex>ευτᾷ</ex></expan>δὲ τῇ</supplied></w> <w><hi rend="ligature">πρ</hi>ὸ</w> <num value="6"><hi rend="supraline">ς</hi></num> <w>καλ<supplied reason="lost">ανδῶν</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><w>ἔτη</w> <num value="3"><w>γ</w></num>
+                    <lb n="3"/><w><supplied reason="lost"><expan><abbr>τελ</abbr><ex>ευτᾷ</ex></expan>δὲ τῇ</supplied></w> <w><hi rend="ligature">πρ</hi>ὸ</w> <num value="6"><w><hi rend="supraline">ς</hi></w></num> <w>καλ<supplied reason="lost">ανδῶν</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <w>βρίῳ</w> <orig>ΜΝ</orig><gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>

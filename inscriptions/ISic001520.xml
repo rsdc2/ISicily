@@ -190,13 +190,13 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
                     <lb n="1"/><w>Ἀλεξάνδρο
-                    <lb n="2" break="no"/>υ</w> <w>κὲ</w> <name>Ῥοδόπης</name>
+                    <lb n="2" break="no"/>υ</w> <w>κὲ</w> <name><w>Ῥοδόπης</w></name>
                     <lb n="3"/><w>μνημίων</w> <w>ἐνγ
                     <lb n="4" break="no"/>ὺς</w> <roleName type="paracivic.religious" subtype="episkopos"><w>ἐπισκόπου</w></roleName> <w>ὁ</w>
-                    <lb n="5"/><name>Χεπερίωνος</name> <w>ὃ</w> <w>ἐ
-                    <lb n="6" break="no"/>πώλησεν</w> <name>Ἑρμιό
-                    <lb n="7" break="no"/>νη</name> <w>ἡ</w> <w>θυγάτηρ</w> <name>Κε
-                    <lb n="8" break="no"/>σαρίου</name>
+                    <lb n="5"/><name><w>Χεπερίωνος</w></name> <w>ὃ</w> <w>ἐ
+                    <lb n="6" break="no"/>πώλησεν</w> <name><w>Ἑρμιό
+                    <lb n="7" break="no"/>νη</w></name> <w>ἡ</w> <w>θυγάτηρ</w> <name><w>Κε
+                    <lb n="8" break="no"/>σαρίου</w></name>
                 </ab>
             </div>
             <div type="apparatus">

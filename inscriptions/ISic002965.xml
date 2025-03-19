@@ -198,20 +198,20 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/><w>ἐπὶ</w> <name>Φιλο
-                    <lb n="2" break="no"/>κράτεος</name>
-                    <lb n="3"/><orig>ΑΝΑΥ</orig><name>Θεόδ
-                    <lb n="4" break="no"/>ωρος</name> <name>Ἀρ<unclear>τ</unclear>
-                    <lb n="5" break="no"/>έμωνος</name>
+                    <lb n="1"/><w>ἐπὶ</w> <name><w>Φιλο
+                    <lb n="2" break="no"/>κράτεος</w></name>
+                    <lb n="3"/><orig>ΑΝΑΥ</orig><name><w>Θεόδ
+                    <lb n="4" break="no"/>ωρος</w></name> <name><w>Ἀρ<unclear>τ</unclear>
+                    <lb n="5" break="no"/>έμωνος</w></name>
                     <lb n="6"/><w><expan><abbr>λογ</abbr><ex>ιστάς</ex></expan></w>
-                    <lb n="7"/><w>ἐπὶ</w> <name>Ἀπ<unclear>έλ</unclear><supplied reason="lost">λιος</supplied></name>
-                    <lb n="8"/><w>τοῦ</w> <name>Ἀρτε<unclear>μ</unclear><supplied reason="lost" cert="low">ᾶ</supplied></name>
-                    <lb n="9"/><orig>ΑΝ</orig><name>Ἀρτέμ
-                    <lb n="10" break="no"/>ων</name> <name>Ἀρτέμω
-                    <lb n="11" break="no"/>νος</name> <w><expan><abbr>λογ</abbr><ex>ιστάς</ex></expan></w>
-                    <lb n="12"/><w><unclear>ἐπ</unclear>ὶ</w> <name>Ἀπέλλιος</name>
-                    <lb n="13"/><w><supplied reason="lost">ἐπὶ</supplied></w> <name><unclear>Δ</unclear>ιονυσίου</name>
-                    <lb n="14"/><w><supplied reason="lost">τοῦ</supplied></w> <name><supplied reason="lost">Ἡ</supplied>ρακλείου</name>
+                    <lb n="7"/><w>ἐπὶ</w> <name><w>Ἀπ<unclear>έλ</unclear><supplied reason="lost">λιος</supplied></w></name>
+                    <lb n="8"/><w>τοῦ</w> <name><w>Ἀρτε<unclear>μ</unclear><supplied reason="lost" cert="low">ᾶ</supplied></w></name>
+                    <lb n="9"/><orig>ΑΝ</orig><name><w>Ἀρτέμ
+                    <lb n="10" break="no"/>ων</w></name> <name><w>Ἀρτέμω
+                    <lb n="11" break="no"/>νος</w></name> <w><expan><abbr>λογ</abbr><ex>ιστάς</ex></expan></w>
+                    <lb n="12"/><w><unclear>ἐπ</unclear>ὶ</w> <name><w>Ἀπέλλιος</w></name>
+                    <lb n="13"/><w><supplied reason="lost">ἐπὶ</supplied></w> <name><w><unclear>Δ</unclear>ιονυσίου</w></name>
+                    <lb n="14"/><w><supplied reason="lost">τοῦ</supplied></w> <name><w><supplied reason="lost">Ἡ</supplied>ρακλείου</w></name>
                     <lb n="15"/><gap reason="lost" extent="unknown" unit="character"/> <w><unclear>ά</unclear>γαθ<supplied reason="lost">ο</supplied>ς</w> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="16"/><gap reason="lost" extent="unknown" unit="character"/> <orig>Τ<unclear>Η</unclear></orig><gap reason="lost" extent="unknown" unit="character"/>
                 </ab>

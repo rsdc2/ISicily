@@ -188,9 +188,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#SN">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name type="idionym">Ἄθ<unclear>λ</unclear><supplied reason="lost">ο̄</supplied><unclear>ν</unclear>ος</name>
-                    <lb n="2"/><persName type="attested"><name type="patronym"><gap reason="lost" quantity="3" unit="character"/><seg part="F">νιεους</seg></name></persName></persName> <space extent="unknown" unit="character"/>
-                    <lb n="3"/><persName type="attested"><name type="idionym">Ἄνκισσκος</name></persName>
+                    <lb n="1"/><persName type="attested"><name type="idionym"><w>Ἄθ<unclear>λ</unclear><supplied reason="lost">ο̄</supplied><unclear>ν</unclear>ος</w></name>
+                    <lb n="2"/><persName type="attested"><name type="patronym"><w><gap reason="lost" quantity="3" unit="character"/><seg part="F">νιεους</seg></w></name></persName></persName> <space extent="unknown" unit="character"/>
+                    <lb n="3"/><persName type="attested"><name type="idionym"><w>Ἄνκισσκος</w></name></persName>
                 </ab>
             </div>
             <div type="apparatus">

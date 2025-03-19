@@ -200,19 +200,19 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la"><!-- text needs checking against photo and editing into epidoc -->
                 <ab>
-                    <lb n="1"/><w>Iuliae</w> <name>Florentinae</name> <w>infan(t)i</w> <w>dulcissimae</w> <w>atq(ue)</w> <w>in-
+                    <lb n="1"/><w>Iuliae</w> <name><w>Florentinae</w></name> <w>infan(t)i</w> <w>dulcissimae</w> <w>atq(ue)</w> <w>in-
                     <lb n="2" break="no"/>nocentissimae</w> <w>fideli</w> <w>factae</w> <w>parens</w> <w>conlocavit</w>
-                    <lb n="3"/><w>quae</w> <w>pridie</w> <name>Nonas</name> <name>Martias</name> <w>ante</w> <w>lucem</w> <w>pagana</w>
-                    <lb n="4"/><w>nata</w> <name>Zoilo</name> <roleName type="supracivic" subtype="corrector"><w>corr(ectore)</w></roleName> <w>p(rovinciae)</w> <w>mense</w> <w>octavo</w> <w>decimo</w> <w>et</w> <w>vices(i)-
+                    <lb n="3"/><w>quae</w> <w>pridie</w> <name><w>Nonas</w></name> <name><w>Martias</w></name> <w>ante</w> <w>lucem</w> <w>pagana</w>
+                    <lb n="4"/><w>nata</w> <name><w>Zoilo</w></name> <roleName type="supracivic" subtype="corrector"><w>corr(ectore)</w></roleName> <w>p(rovinciae)</w> <w>mense</w> <w>octavo</w> <w>decimo</w> <w>et</w> <w>vices(i)-
                     <lb n="5" break="no"/>ma</w> <w>secunda</w> <w>die</w> <w>completis</w> <w>fidelis</w> <w>facta</w> <w>hora</w> <w>no-
                     <lb n="6" break="no"/>ctis</w> <w>octava</w> <w>ultimum</w> <w>spiritum</w> <w>agens</w> <w>supervixit</w>
                     <lb n="7"/><w>horis</w> <w>quattuor</w> <w>ita</w> <w>ut</w> <w>consueta</w> <w>repeteret</w> <w>ac</w> <w>de-
-                    <lb n="8" break="no"/>functa</w> <name>Hyble</name> <w>hora</w> <w>die(i)</w> <w>prima</w> <w>septimum</w> <name>Kal(endas)</name>
-                    <lb n="9"/><name>Octobres</name> <w>cuius</w> <w>occasum</w> <w>cum</w> <w>uterq(ue)</w> <w>parens</w> <w>om-
+                    <lb n="8" break="no"/>functa</w> <name><w>Hyble</w></name> <w>hora</w> <w>die(i)</w> <w>prima</w> <w>septimum</w> <name><w>Kal(endas)</w></name>
+                    <lb n="9"/><name><w>Octobres</w></name> <w>cuius</w> <w>occasum</w> <w>cum</w> <w>uterq(ue)</w> <w>parens</w> <w>om-
                     <lb n="10" break="no"/>ni</w> <w>momento</w> <w>fleret</w> <w>per</w> <w>noctem</w> <w>maiestatis</w>
                     <lb n="11"/><w>vox</w> <w>extitit</w> <w>quae</w> <w>defunctam</w> <w>lamen(t)ari</w> <w>prohi-
-                    <lb n="12" break="no"/>beret</w> <w>cuius</w> <w>corpus</w> <w>pro</w> <w>foribus</w> <w>mart(yrorum)</w> <name>Chr(istian)orum</name> <w>cum</w>
-                    <lb n="13"/><w>loculo</w> <w>suo</w> <w>per</w> <roleName type="paracivic.religious" subtype="presbyter"><w>prosbiterum</w></roleName> <w>humatu(m)</w> <w>e(st)</w> <w>IIII</w> <name>Non(as)</name> <name>Oct(o)br(es)</name>
+                    <lb n="12" break="no"/>beret</w> <w>cuius</w> <w>corpus</w> <w>pro</w> <w>foribus</w> <w>mart(yrorum)</w> <name><w>Chr(istian)orum</w></name> <w>cum</w>
+                    <lb n="13"/><w>loculo</w> <w>suo</w> <w>per</w> <roleName type="paracivic.religious" subtype="presbyter"><w>prosbiterum</w></roleName> <w>humatu(m)</w> <w>e(st)</w> <w>IIII</w> <name><w>Non(as)</w></name> <name><w>Oct(o)br(es)</w></name>
                 </ab>
             </div>
             <div type="apparatus">

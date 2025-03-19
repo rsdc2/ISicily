@@ -173,17 +173,17 @@
       <body>
          <div type="edition" xml:space="preserve" xml:lang="grc" resp="#RDS">
                 <ab>
-                    <lb n="1"/><w>Ἐπὶ</w> <name>Ἀρκα<unclear>γ</unclear>άθ<supplied reason="omitted">ο</supplied>υ</name> <name>Γελωίου</name> <w>ἕκται</w> <w>ἐπ<supplied reason="lost">ὶ</supplied></w> <w>δέκα</w> <gap reason="lost" quantity="1" unit="character"/> <w>ων</w> <gap reason="lost" atLeast="1" atMost="5" unit="character"/>
+                    <lb n="1"/><w>Ἐπὶ</w> <name><w>Ἀρκα<unclear>γ</unclear>άθ<supplied reason="omitted">ο</supplied>υ</w></name> <name><w>Γελωίου</w></name> <w>ἕκται</w> <w>ἐπ<supplied reason="lost">ὶ</supplied></w> <w>δέκα</w> <gap reason="lost" quantity="1" unit="character"/> <w>ων</w> <gap reason="lost" atLeast="1" atMost="5" unit="character"/>
                     <lb n="2"/><w>νος</w> <w><expan><abbr>πέμ</abbr><ex>πτα</ex></expan></w> <w><expan><abbr>πρῶ</abbr><ex>τα</ex></expan></w> <w>ἐπρίατο</w> <w>τὸγ</w> <w>γύαν</w> <w>τὸν</w> <w>ἐμ</w> <gap reason="lost" atLeast="1" atMost="5" unit="character"/>
                     <lb n="3"/><w>τύαις</w> <w>δίσχοινον</w> <w>τὸ</w> <w>εὖρος</w> <w>τὸ</w> <w>δὲ</w> <w>μᾶκος</w> <w>ἀπ<supplied reason="lost">ὸ</supplied></w> <w>το<supplied reason="lost">ῦ</supplied></w>
-                    <lb n="4"/><w>ῥόου</w> <w>τοῦ</w> <name>Κογχοκραναίου</name> <w>ἕστε</w> <w>πὸτ</w> <w>τὰς</w> <w>ῥάπα<supplied reason="lost">ς</supplied></w>
-                    <lb n="5"/><w>κυλλὰς</w> <w>πὰρ</w> <name>Ἀθάνιος</name> <w>τοῦ</w> <name>Βασία</name> <w>ἑνὸς</w> <w>ἴκατι</w>
-                    <lb n="6"/><w>ταλάντων</w> <name>Ἄμποχοι</name> <name>Θευδόσιος</name> <name>Θευδώρου</name> <w>ἕκτα</w>
-                    <lb n="7"/><name>Θεότιμος</name> <name>Λαμίσκου</name> <name>Ἀμείνων</name> <name>Δαματρίου</name>
-                    <lb n="8"/><name>Νυμφόδωρος</name> <name>Δάμωνος</name> <name>Θεόδωρος</name> <name>Ἀριστο
-                    <lb n="9" break="no"/>γένεος</name> <name>Ἀρταμίδωρος</name> <name>Θεοδοσίου</name>
-                    <lb n="10"/><name>Μύσκων</name> <name>Ἄνδρωνος</name> <name>Πρόδοξος</name> <name>Σωσ<supplied reason="lost">ία</supplied></name>
-                    <lb n="11"/><w><space quantity="5" unit="character"/><unclear>Ἀ</unclear>ἴνησι<supplied reason="lost">ς Θ</supplied>άλλου</w> <name>Ὄρθων</name>
+                    <lb n="4"/><w>ῥόου</w> <w>τοῦ</w> <name><w>Κογχοκραναίου</w></name> <w>ἕστε</w> <w>πὸτ</w> <w>τὰς</w> <w>ῥάπα<supplied reason="lost">ς</supplied></w>
+                    <lb n="5"/><w>κυλλὰς</w> <w>πὰρ</w> <name><w>Ἀθάνιος</w></name> <w>τοῦ</w> <name><w>Βασία</w></name> <w>ἑνὸς</w> <w>ἴκατι</w>
+                    <lb n="6"/><w>ταλάντων</w> <name><w>Ἄμποχοι</w></name> <name><w>Θευδόσιος</w></name> <name><w>Θευδώρου</w></name> <w>ἕκτα</w>
+                    <lb n="7"/><name><w>Θεότιμος</w></name> <name><w>Λαμίσκου</w></name> <name><w>Ἀμείνων</w></name> <name><w>Δαματρίου</w></name>
+                    <lb n="8"/><name><w>Νυμφόδωρος</w></name> <name><w>Δάμωνος</w></name> <name><w>Θεόδωρος</w></name> <name><w>Ἀριστο
+                    <lb n="9" break="no"/>γένεος</w></name> <name><w>Ἀρταμίδωρος</w></name> <name><w>Θεοδοσίου</w></name>
+                    <lb n="10"/><name><w>Μύσκων</w></name> <name><w>Ἄνδρωνος</w></name> <name><w>Πρόδοξος</w></name> <name><w>Σωσ<supplied reason="lost">ία</supplied></w></name>
+                    <lb n="11"/><w><space quantity="5" unit="character"/><unclear>Ἀ</unclear>ἴνησι<supplied reason="lost">ς Θ</supplied>άλλου</w> <name><w>Ὄρθων</w></name>
                     <lb n="12"/><w><space unit="character" extent="unknown"/>λλου</w>
                 </ab>
          </div>

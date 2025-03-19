@@ -192,12 +192,12 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#VM">
                 <ab>
-                    <lb n="1"/><w>In</w> <name><expan><abbr>N</abbr><ex>omine</ex></expan></name> <name><expan><abbr>D</abbr><ex>omi</ex><abbr>ni</abbr></expan></name> <name><expan><abbr>I</abbr><ex>e</ex><abbr>h</abbr><ex>s</ex><abbr>u</abbr></expan></name>
+                    <lb n="1"/><w>In</w> <name><w><expan><abbr>N</abbr><ex>omine</ex></expan></w></name> <name><w><expan><abbr>D</abbr><ex>omi</ex><abbr>ni</abbr></expan></w></name> <name><w><expan><abbr>I</abbr><ex>e</ex><abbr>h</abbr><ex>s</ex><abbr>u</abbr></expan></w></name>
                     <lb n="2"/><w><expan><abbr><foreign xml:lang="grc">ΧΡ</foreign></abbr><ex>ist</ex><abbr>i</abbr></expan></w> <w>hoc</w>
                     <lb n="3"/><w>sepulc
                     <lb n="4" break="no"/>rum</w> <w>anastas
                     <lb n="5" break="no"/>i</w> <w>trapezitae</w>
-                    <lb n="6"/><foreign xml:lang="grc"><name><expan><abbr>Χ</abbr><ex>ριστός</ex></expan></name> <name><expan><abbr>Μ</abbr><ex>αρίας</ex></expan></name> <name><expan><abbr>Γ</abbr><ex>ενόμενος</ex></expan></name></foreign>
+                    <lb n="6"/><foreign xml:lang="grc"><name><w><expan><abbr>Χ</abbr><ex>ριστός</ex></expan></w></name> <name><w><expan><abbr>Μ</abbr><ex>αρίας</ex></expan></w></name> <name><w><expan><abbr>Γ</abbr><ex>ενόμενος</ex></expan></w></name></foreign>
                 </ab>
             </div>
             <div type="apparatus">

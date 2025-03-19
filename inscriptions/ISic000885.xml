@@ -199,10 +199,10 @@
                     <lb n="4"/><w>ἡ</w> <w>θεο
                     <lb n="5" break="no"/>κοίμ
                     <lb n="6" break="no"/>ητος</w>
-                    <lb n="7"/><name>Αἰγεία</name> <w>αἰ
-                    <lb n="8" break="no"/>τῶν</w> <num value="40"><hi rend="supraline">μ</hi></num> <w>τῇ</w>
-                    <lb n="9"/><w><hi rend="ligature">πρὸ</hi></w> <num value="3">γ</num> <w><expan><abbr>καλ</abbr><ex>ανδῶν</ex></expan></w> <name>Φεβρα
-                    <lb n="10" break="no"/>ρίων</name>
+                    <lb n="7"/><name><w>Αἰγεία</w></name> <w>αἰ
+                    <lb n="8" break="no"/>τῶν</w> <num value="40"><w><hi rend="supraline">μ</hi></w></num> <w>τῇ</w>
+                    <lb n="9"/><w><hi rend="ligature">πρὸ</hi></w> <num value="3"><w>γ</w></num> <w><expan><abbr>καλ</abbr><ex>ανδῶν</ex></expan></w> <name><w>Φεβρα
+                    <lb n="10" break="no"/>ρίων</w></name>
                 </ab>
             </div>
             <div type="apparatus">

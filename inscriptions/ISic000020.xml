@@ -194,9 +194,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#TA">
                 <ab>
-                    <lb n="1"/><roleName type="supracivic" subtype="imperator"><w><expan><abbr>Imp</abbr><ex>eratori</ex></expan></w></roleName> <g ref="#interpunct">·</g> <name><expan><abbr>Caes</abbr><ex>ari</ex></expan></name>
-                    <lb n="2"/><w>divi</w> <g ref="#interpunct">·</g> <name>Severi</name> <g ref="#interpunct">·</g> <name>Pii</name>
-                    <lb n="3"/><w><del rend="erasure"><expan><abbr>nep</abbr><ex>oti</ex></expan></del></w> <g ref="#interpunct">·</g> <w>divi</w> <g ref="#interpunct">·</g> <name><expan><abbr>Magn</abbr><ex>i</ex></expan></name>
+                    <lb n="1"/><roleName type="supracivic" subtype="imperator"><w><expan><abbr>Imp</abbr><ex>eratori</ex></expan></w></roleName> <g ref="#interpunct">·</g> <name><w><expan><abbr>Caes</abbr><ex>ari</ex></expan></w></name>
+                    <lb n="2"/><w>divi</w> <g ref="#interpunct">·</g> <name><w>Severi</w></name> <g ref="#interpunct">·</g> <name><w>Pii</w></name>
+                    <lb n="3"/><w><del rend="erasure"><expan><abbr>nep</abbr><ex>oti</ex></expan></del></w> <g ref="#interpunct">·</g> <w>divi</w> <g ref="#interpunct">·</g> <name><w><expan><abbr>Magn</abbr><ex>i</ex></expan></w></name>
                     <lb n="4"/><gap reason="lost" extent="unknown" unit="line"/>
                 </ab>
             </div>

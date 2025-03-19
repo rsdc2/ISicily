@@ -191,11 +191,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>Χ</abbr><ex>ριστό</ex><abbr>ς</abbr></expan></w> <name>Μαρκελλῖνα</name>
+                    <lb n="1"/><w><expan><abbr>Χ</abbr><ex>ριστό</ex><abbr>ς</abbr></expan></w> <name><w>Μαρκελλῖνα</w></name>
                     <lb n="2"/><w>ἐνθάδε</w> <w>κῖτε</w> <w>ζή
-                    <lb n="3" break="no"/>σασα</w> <w>ἔτη</w> <num value="50">ν</num> <name><expan><abbr>Χ</abbr><ex>ριστό</ex><abbr>ς</abbr></expan></name>
+                    <lb n="3" break="no"/>σασα</w> <w>ἔτη</w> <num value="50"><w>ν</w></num> <name><w><expan><abbr>Χ</abbr><ex>ριστό</ex><abbr>ς</abbr></expan></w></name>
                     <lb n="4"/><w>ἐτελεύτησεν</w>
-                    <lb n="5"/><w>δὲ</w> <w>τῇ</w> <w>πρὸ</w> <num value="4">δ</num> <w><expan><abbr>καλ</abbr><ex>ανδῶν</ex></expan></w>
+                    <lb n="5"/><w>δὲ</w> <w>τῇ</w> <w>πρὸ</w> <num value="4"><w>δ</w></num> <w><expan><abbr>καλ</abbr><ex>ανδῶν</ex></expan></w>
                     <lb n="5a"/><gap reason="lost" extent="unknown" unit="line"/>
                 </ab>
             </div>

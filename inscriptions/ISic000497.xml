@@ -192,7 +192,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
-                    <lb n="1"/><name><expan><abbr>M</abbr><ex>arco</ex></expan></name> <g ref="#interpunct">·</g> <name>Marcello</name>
+                    <lb n="1"/><name><w><expan><abbr>M</abbr><ex>arco</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w>Marcello</w></name>
                     <lb n="2"/><orig>CIARIC</orig><orig>BIO</orig><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="3"/><orig>SEM</orig><gap reason="lost" extent="unknown" unit="character"/>
                 </ab>

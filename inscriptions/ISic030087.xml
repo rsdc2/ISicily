@@ -187,7 +187,7 @@
                     <ab>
                         <milestone unit="face" n="a"/>
                         <lb n="1"/><w>θεά</w>
-                        <lb n="2"/><persName type="attested"><name type="idionym">Κ<unclear>λ</unclear>εοννο̄́</name></persName>
+                        <lb n="2"/><persName type="attested"><name type="idionym"><w>Κ<unclear>λ</unclear>εοννο̄́</w></name></persName>
                         <lb n="3"/><w><unclear>ͱ</unclear>ότι</w> <w>κα</w> <w>λ
                         <lb n="4" break="no"/><unclear>ο͂</unclear>ν<unclear>τ</unclear><supplied reason="lost">ι</supplied></w>
                     </ab>
@@ -195,8 +195,8 @@
                 <div type="textpart" subtype="section" n="b">
                     <ab>
                         <milestone unit="face" n="b"/>
-                        <lb n="1"/><persName type="attested"><name type="idionym">Ἀθο̄́νυμος</name></persName>
-                        <lb n="2"/><persName type="attested"><name type="idionym">Συλιν</name> <persName type="attested"><name type="patronym">Σίμο̄</name></persName></persName>
+                        <lb n="1"/><persName type="attested"><name type="idionym"><w>Ἀθο̄́νυμος</w></name></persName>
+                        <lb n="2"/><persName type="attested"><name type="idionym"><w>Συλιν</w></name> <persName type="attested"><name type="patronym"><w>Σίμο̄</w></name></persName></persName>
                     </ab>
                 </div>
             </div>

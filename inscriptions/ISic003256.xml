@@ -194,10 +194,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <name><expan><abbr>M</abbr><ex>anibus</ex></expan></name> <g ref="#interpunct">·</g> <w><expan><abbr>s</abbr><ex>acrum</ex></expan></w> <g ref="#interpunct">·</g>
+                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <name><w><expan><abbr>M</abbr><ex>anibus</ex></expan></w></name> <g ref="#interpunct">·</g> <w><expan><abbr>s</abbr><ex>acrum</ex></expan></w> <g ref="#interpunct">·</g>
                     <lb n="2"/><w><expan><abbr>L</abbr><ex>ucius</ex></expan>Státius</w>
-                    <lb n="3"/><name>Zosimus</name>
-                    <lb n="4"/><w><expan><abbr>v</abbr><ex>ixit</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>a</abbr><ex>nnis</ex></expan></w> <g ref="#interpunct">·</g> <num value="65">LXV</num>
+                    <lb n="3"/><name><w>Zosimus</w></name>
+                    <lb n="4"/><w><expan><abbr>v</abbr><ex>ixit</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>a</abbr><ex>nnis</ex></expan></w> <g ref="#interpunct">·</g> <num value="65"><w>LXV</w></num>
                 </ab>
             </div>
             <div type="apparatus">

@@ -191,9 +191,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#MH">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <name><expan><abbr>M</abbr><ex>anibus</ex></expan></name> <g ref="#interpunct">·</g> <name><expan><abbr>S</abbr><ex>acrum</ex></expan></name>
-                    <lb n="2"/><name><expan><abbr>L</abbr><ex>ucius</ex></expan></name> <g ref="#interpunct">·</g> <name>Arrius</name>
-                    <lb n="3"/><name>Primullus</name>
+                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <name><w><expan><abbr>M</abbr><ex>anibus</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w><expan><abbr>S</abbr><ex>acrum</ex></expan></w></name>
+                    <lb n="2"/><name><w><expan><abbr>L</abbr><ex>ucius</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w>Arrius</w></name>
+                    <lb n="3"/><name><w>Primullus</w></name>
                     <lb n="4"/><w><choice><orig>vivos</orig><reg>vivus</reg></choice></w> <g ref="#interpunct">·</g> <w>sibi</w>
                     <lb n="5"/><w>et</w> <g ref="#interpunct">·</g> <w>suis</w>
                     <lb n="5"/><w>fecit</w>

@@ -193,9 +193,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/><w>τόπος</w> <name>Νοκερίας</name> <name>Νασειτεί
-                    <lb n="2" break="no"/>δος</name> <w>ἐνθάδε</w> <w>κεῖτε·</w>
-                    <lb n="3"/><w>ἀγορασίᾳ</w> <name>Πύθα</name>
+                    <lb n="1"/><w>τόπος</w> <name><w>Νοκερίας</w></name> <name><w>Νασειτεί
+                    <lb n="2" break="no"/>δος</w></name> <w>ἐνθάδε</w> <w>κεῖτε·</w>
+                    <lb n="3"/><w>ἀγορασίᾳ</w> <name><w>Πύθα</w></name>
                     <lb n="4"/><w>δυῶν</w> <w>τόπων</w>
                 </ab>
             </div>

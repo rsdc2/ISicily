@@ -184,8 +184,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>Cn</abbr><ex>aeus</ex></expan></w> <name><expan><abbr>Octavio</abbr><ex>s</ex></expan></name> <name><expan><abbr>A</abbr><ex>uli</ex></expan></name> <w><expan><abbr>f</abbr><ex>ilius</ex></expan></w> <roleName type="paracivic" subtype="minister"><w><expan><abbr>mini</abbr><ex>ster</ex></expan></w></roleName> <w><expan><abbr>cohor</abbr><ex>tis</ex></expan></w> <w><expan><abbr>bolonar</abbr><ex>um</ex></expan></w>
-                    <lb n="2"/><w><expan><abbr>velic</abbr><ex>us</ex></expan></w> <name><expan><abbr>Vener</abbr><ex>is</ex></expan></name> <name><expan><abbr>Taric</abbr><ex>hinae</ex></expan></name> <w>pavimentum</w> <w>sedi
+                    <lb n="1"/><w><expan><abbr>Cn</abbr><ex>aeus</ex></expan></w> <name><w><expan><abbr>Octavio</abbr><ex>s</ex></expan></w></name> <name><w><expan><abbr>A</abbr><ex>uli</ex></expan></w></name> <w><expan><abbr>f</abbr><ex>ilius</ex></expan></w> <roleName type="paracivic" subtype="minister"><w><expan><abbr>mini</abbr><ex>ster</ex></expan></w></roleName> <w><expan><abbr>cohor</abbr><ex>tis</ex></expan></w> <w><expan><abbr>bolonar</abbr><ex>um</ex></expan></w>
+                    <lb n="2"/><w><expan><abbr>velic</abbr><ex>us</ex></expan></w> <name><w><expan><abbr>Vener</abbr><ex>is</ex></expan></w></name> <name><w><expan><abbr>Taric</abbr><ex>hinae</ex></expan></w></name> <w>pavimentum</w> <w>sedi
                     <lb n="3" break="no"/>lia</w> <w>fecit</w> <w>aedemque</w> <w><expan><abbr>reficiend</abbr><ex>am</ex></expan></w> <w><expan><abbr>coir</abbr><ex>avit</ex></expan></w>
                 </ab>
             </div>

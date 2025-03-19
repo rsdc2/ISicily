@@ -191,8 +191,8 @@
         <body>
             <div type="edition" xml:space="preserve" subtype="PHI" n="PHI334693">
                 <ab>
-                    <lb n="1"/><w><unclear>Θ</unclear>ΕΤ#⁷</w> <name><supplied reason="lost">— — —</supplied></name>
-                    <lb n="2"/><w>ΝΕΜ</w> <name><supplied reason="lost">— — —</supplied></name>
+                    <lb n="1"/><w><unclear>Θ</unclear>ΕΤ#⁷</w> <name><w><supplied reason="lost">— — —</supplied></w></name>
+                    <lb n="2"/><w>ΝΕΜ</w> <name><w><supplied reason="lost">— — —</supplied></w></name>
                     <lb n="3"/>
                 </ab>
             </div>

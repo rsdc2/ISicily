@@ -191,11 +191,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="osc-Grek" resp="#KMcD">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name><supplied reason="undefined" evidence="parallel">στενις</supplied></name> <name><supplied reason="undefined" evidence="parallel">καλινις</supplied></name> <persName type="attested"><name type="patronym"><supplied reason="undefined" evidence="parallel">σ</supplied>ταττιηις</name></persName></persName>
-                    <lb n="2"/><persName type="attested"><name><supplied reason="undefined" evidence="parallel">μαρασ</supplied></name> <name><supplied reason="undefined" evidence="parallel">πομπτιες</supplied></name> <persName type="attested"><name type="patronym">νιυμσδιηις</name></persName></persName>
+                    <lb n="1"/><persName type="attested"><name><w><supplied reason="undefined" evidence="parallel">στενις</supplied></w></name> <name><w><supplied reason="undefined" evidence="parallel">καλινις</supplied></w></name> <persName type="attested"><name type="patronym"><w><supplied reason="undefined" evidence="parallel">σ</supplied>ταττιηις</w></name></persName></persName>
+                    <lb n="2"/><persName type="attested"><name><w><supplied reason="undefined" evidence="parallel">μαρασ</supplied></w></name> <name><w><supplied reason="undefined" evidence="parallel">πομπτιες</supplied></w></name> <persName type="attested"><name type="patronym"><w>νιυμσδιηις</w></name></persName></persName>
                     <lb n="3"/><w><supplied reason="undefined" evidence="parallel">μεδδειξ</supplied></w> <w><supplied reason="undefined" evidence="parallel">ο</supplied><unclear>υ</unclear><supplied reason="undefined" evidence="parallel">π</supplied><unclear>σ</unclear>ενς</w>
                     <lb n="4"/><w><supplied reason="undefined" evidence="parallel">εινειμ</supplied></w> <w><supplied reason="undefined" evidence="parallel">τωϝτo</supplied></w> <placeName type="ethnic"><w><unclear>μ</unclear></w> <w>αμερτινο</w></placeName>
-                    <lb n="5"/><persName type="divine"><name><supplied reason="undefined" evidence="parallel">αππελλο</supplied><unclear>υ</unclear>νηι</name></persName> <w>σακορο</w>
+                    <lb n="5"/><persName type="divine"><name><w><supplied reason="undefined" evidence="parallel">αππελλο</supplied><unclear>υ</unclear>νηι</w></name></persName> <w>σακορο</w>
                 </ab>
             </div>
             <div type="apparatus" resp="#KMcD">

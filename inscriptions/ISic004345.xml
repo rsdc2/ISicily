@@ -194,9 +194,9 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#SS">
                 <ab>
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <gap reason="illegible" unit="character" quantity="4"/> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w>ης</w> <g ref="#interpunct">·</g> <w>ἔτη</w> <g ref="#interpunct">·</g> <num value="65">ξε</num> <g ref="#interpunct">·</g> <gap reason="lost" extent="unknown" unit="character" cert="low"/>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w>ης</w> <g ref="#interpunct">·</g> <w>ἔτη</w> <g ref="#interpunct">·</g> <num value="65"><w>ξε</w></num> <g ref="#interpunct">·</g> <gap reason="lost" extent="unknown" unit="character" cert="low"/>
                     <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <w>στις</w> <g ref="#interpunct">·</g> <w>σύμβιος</w> <gap reason="illegible" unit="character" quantity="1"/> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <num atLeast="15" atMost="915"><gap reason="lost" extent="unknown" unit="character"/><hi rend="supraline">ιε</hi></num> <g ref="#interpunct">·</g> <gap reason="illegible" unit="character" quantity="2"/> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <num atLeast="15" atMost="915"><w><gap reason="lost" extent="unknown" unit="character"/><hi rend="supraline">ιε</hi></w></num> <g ref="#interpunct">·</g> <gap reason="illegible" unit="character" quantity="2"/> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>
             <div type="apparatus" resp="#JP">

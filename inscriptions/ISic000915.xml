@@ -190,11 +190,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/><w>ἐνθάδε</w> <w>κῖτε</w> <name>Δι
-                    <lb n="2" break="no"/>ονυσία</name> <w>τελευτή
-                    <lb n="3" break="no"/>σα<supplied reason="omitted">σα</supplied></w> <w>τῇ</w> <w>πρὸ</w> <num value="7">ζ</num> <w><expan><abbr>κα</abbr><ex>λανδῶν</ex></expan></w> <name>Σεπτε
-                    <lb n="4" break="no"/>βρήον</name> <w>ἐνθάδε</w>
-                    <lb n="5"/><w>κῖτε</w> <w>ὁ</w> <name>Κτησίβις</name>
+                    <lb n="1"/><w>ἐνθάδε</w> <w>κῖτε</w> <name><w>Δι
+                    <lb n="2" break="no"/>ονυσία</w></name> <w>τελευτή
+                    <lb n="3" break="no"/>σα<supplied reason="omitted">σα</supplied></w> <w>τῇ</w> <w>πρὸ</w> <num value="7"><w>ζ</w></num> <w><expan><abbr>κα</abbr><ex>λανδῶν</ex></expan></w> <name><w>Σεπτε
+                    <lb n="4" break="no"/>βρήον</w></name> <w>ἐνθάδε</w>
+                    <lb n="5"/><w>κῖτε</w> <w>ὁ</w> <name><w>Κτησίβις</w></name>
                 </ab>
             </div>
             <div type="apparatus">

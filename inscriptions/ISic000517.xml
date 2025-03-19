@@ -198,19 +198,19 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
-                    <lb n="1"/><name><expan><abbr>M</abbr><ex>arco</ex></expan></name> <g ref="#interpunct">·</g> <name>Marcio</name> <g ref="#interpunct">·</g> <name><expan><abbr>M</abbr><ex>arci</ex></expan></name> <g ref="#interpunct">·</g> <w><expan><abbr>f</abbr><ex>ilio</ex></expan></w>
-                    <lb n="2"/><orgName><name><expan><abbr>Cla</abbr><ex>udia</ex></expan></name></orgName> <g ref="#interpunct">·</g> <name>Bieti</name> <g ref="#interpunct">·</g> <name>Glauco</name> <w>patri</w>
+                    <lb n="1"/><name><w><expan><abbr>M</abbr><ex>arco</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w>Marcio</w></name> <g ref="#interpunct">·</g> <name><w><expan><abbr>M</abbr><ex>arci</ex></expan></w></name> <g ref="#interpunct">·</g> <w><expan><abbr>f</abbr><ex>ilio</ex></expan></w>
+                    <lb n="2"/><orgName><name><w><expan><abbr>Cla</abbr><ex>udia</ex></expan></w></name></orgName> <g ref="#interpunct">·</g> <name><w>Bieti</w></name> <g ref="#interpunct">·</g> <name><w>Glauco</w></name> <w>patri</w>
                     <lb n="3"/><roleName type="supracivic" subtype="senator"><w>senatoris</w></roleName> <g ref="#interpunct">·</g> <w>equo</w> <g ref="#interpunct">·</g> <w>pu
                     <lb n="4" break="no"/>blico</w> <g ref="#interpunct">·</g> <w>exornato</w> <g ref="#interpunct">·</g> <roleName type="paracivic" subtype="patronus"><w>pa
                     <lb n="5" break="no"/>trono</w></roleName> <g ref="#interpunct">·</g> <w>ob</w> <g ref="#interpunct">·</g> <w>merita</w> <g ref="#interpunct">·</g> <w>eius</w>
                     <lb n="6"/><w>quae</w> <g ref="#interpunct">·</g> <w>in</w> <g ref="#interpunct">·</g> <roleName type="civic" subtype="civis"><w>cives</w></roleName> <g ref="#interpunct">·</g> <w>suos</w>
                     <lb n="7"/><w>confert</w> <g ref="#interpunct">·</g> <roleName type="supracivic" subtype="clarissimus"><w><expan><abbr>c</abbr><ex>larissimo</ex></expan></w></roleName> <g ref="#interpunct">·</g> <w><expan><abbr>v</abbr><ex>iro</ex></expan></w> <g ref="#interpunct">·</g> <w>adlecto</w>
                     <lb n="8"/><w>inter</w> <g ref="#interpunct">·</g> <roleName type="supracivic" subtype="tribunicius"><w>tribunicios</w></roleName>
-                    <lb n="9"/><w>ab</w> <g ref="#interpunct">·</g> <roleName type="supracivic" subtype="imperator"><name><expan><abbr>Imp</abbr><ex>eratore</ex></expan></name></roleName> <g ref="#interpunct">·</g> <name>Caesare</name>
-                    <lb n="10"/><del rend="erasure"><name><expan><abbr>M</abbr><ex>arco</ex></expan></name> <g ref="#interpunct">·</g> <name><expan><abbr>Aur</abbr><ex>elio</ex></expan></name> <g ref="#interpunct">·</g> <name>Commodo</name> <g ref="#interpunct">·</g></del><name>Anto
-                    <lb n="11" break="no"/>nino</name> <g ref="#interpunct">·</g> <name>Pio</name> <g ref="#interpunct">·</g> <name>Felice</name>
-                    <lb n="12"/><name><expan><abbr>Aug</abbr><ex>usto</ex></expan></name> <g ref="#interpunct">·</g> <w>tribules</w> <g ref="#interpunct">·</g> <w><expan><abbr>t<hi rend="ligature">ri</hi>b</abbr><ex>us</ex></expan></w>
-                    <lb n="13"/><name>Iovis</name> <g ref="#interpunct">·</g> <name><expan><abbr>Aug</abbr><ex>usti</ex></expan></name> <g ref="#interpunct">·</g> <w>pecu<hi rend="ligature">ni</hi>a</w>
+                    <lb n="9"/><w>ab</w> <g ref="#interpunct">·</g> <roleName type="supracivic" subtype="imperator"><name><w><expan><abbr>Imp</abbr><ex>eratore</ex></expan></w></name></roleName> <g ref="#interpunct">·</g> <name><w>Caesare</w></name>
+                    <lb n="10"/><del rend="erasure"><name><w><expan><abbr>M</abbr><ex>arco</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w><expan><abbr>Aur</abbr><ex>elio</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w>Commodo</w></name> <g ref="#interpunct">·</g></del><name><w>Anto
+                    <lb n="11" break="no"/>nino</w></name> <g ref="#interpunct">·</g> <name><w>Pio</w></name> <g ref="#interpunct">·</g> <name><w>Felice</w></name>
+                    <lb n="12"/><name><w><expan><abbr>Aug</abbr><ex>usto</ex></expan></w></name> <g ref="#interpunct">·</g> <w>tribules</w> <g ref="#interpunct">·</g> <w><expan><abbr>t<hi rend="ligature">ri</hi>b</abbr><ex>us</ex></expan></w>
+                    <lb n="13"/><name><w>Iovis</w></name> <g ref="#interpunct">·</g> <name><w><expan><abbr>Aug</abbr><ex>usti</ex></expan></w></name> <g ref="#interpunct">·</g> <w>pecu<hi rend="ligature">ni</hi>a</w>
                     <lb n="14"/><w>sua</w> <g ref="#interpunct">·</g> <w><expan><abbr>l</abbr><ex>ocus</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>p</abbr><ex>ublice</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>d</abbr><ex>atus</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>d</abbr><ex>ecreto</ex></expan></w> <g ref="#interpunct">·</g> <roleName type="civic" subtype="decurio"><w><expan><abbr>d</abbr><ex>ecurionum</ex></expan></w></roleName>
                 </ab>
             </div>

@@ -192,7 +192,7 @@
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#VM">
                 <ab>
                     <lb n="1"/><g ref="#cross_uninterpreted"/> <w>Hi<unclear>c</unclear></w> <w>e</w> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="2"/><name>Pauli<supplied reason="lost">nus</supplied></name> <w><supplied reason="lost">re</supplied>
+                    <lb n="2"/><name><w>Pauli<supplied reason="lost">nus</supplied></w></name> <w><supplied reason="lost">re</supplied>
                     <lb n="3" break="no"/>cept<unclear>u</unclear><supplied reason="lost">s</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>

@@ -193,8 +193,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#TA #JP">
                 <ab>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w>p</w> <g ref="#interpunct">·</g> <num atLeast="3" atMost="4">III</num> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="2"/><roleName type="civic.religious" subtype="sevir" cert="low"><num value="6"><hi rend="supraline">V</hi><supplied reason="lost">I</supplied></num> <w><supplied reason="lost">v</supplied></w> <w>ir</w></roleName> <w>de</w> <w>suo</w> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w>p</w> <g ref="#interpunct">·</g> <num atLeast="3" atMost="4"><w>III</w></num> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><roleName type="civic.religious" subtype="sevir" cert="low"><num value="6"><w><hi rend="supraline">V</hi><supplied reason="lost">I</supplied></w></num> <w><supplied reason="lost">v</supplied></w> <w>ir</w></roleName> <w>de</w> <w>suo</w> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>
             <div type="apparatus">

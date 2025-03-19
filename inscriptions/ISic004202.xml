@@ -178,9 +178,9 @@
         <body>
             <div type="edition" xml:space="preserve" subtype="PHI" n="PHI334760">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>Α</abbr><ex>ὔλου</ex></expan></w> <g ref="#interpunct">∙</g> <name>Ἀλλιήνο-</name>
-                    <lb n="2"/><w>υ</w> <name>Ἔνωνος</name> <w><surplus>²⁶Αἴνωνος</surplus>²⁶</w>
-                    <lb n="3"/><name>Φιλέρως.</name>
+                    <lb n="1"/><w><expan><abbr>Α</abbr><ex>ὔλου</ex></expan></w> <g ref="#interpunct">∙</g> <name><w>Ἀλλιήνο-</w></name>
+                    <lb n="2"/><w>υ</w> <name><w>Ἔνωνος</w></name> <w><surplus>²⁶Αἴνωνος</surplus>²⁶</w>
+                    <lb n="3"/><name><w>Φιλέρως.</w></name>
                     <lb n="4"/>
                 </ab>
             </div>

@@ -199,9 +199,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#AA">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name>Εὐφρο<hi rend="ligature">σύ</hi>
-                    <lb n="2" break="no"/>νη</name> <persName type="attested"><name type="patronym"><hi rend="ligature">Στ</hi>άκ<unclear>τ</unclear>
-                    <lb n="3" break="no"/>ης</name></persName></persName> <w>φιλοδ
+                    <lb n="1"/><persName type="attested"><name><w>Εὐφρο<hi rend="ligature">σύ</hi>
+                    <lb n="2" break="no"/>νη</w></name> <persName type="attested"><name type="patronym"><w><hi rend="ligature">Στ</hi>άκ<unclear>τ</unclear>
+                    <lb n="3" break="no"/>ης</w></name></persName></persName> <w>φιλοδ
                     <lb n="4" break="no"/>ε<hi rend="ligature">σπ</hi>ότου</w>
                 </ab>
             </div>

@@ -176,7 +176,7 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <div type="textpart" subtype="section" n="a">
                     <ab>
-                        <lb n="1"/><num cert="low" value="80">π</num> <g ref="#sign_uninterpreted"/> <num value="4">τέτορες</num> <g ref="#sign_uninterpreted"/> <g ref="#sign_uninterpreted"/> <g ref="#sign_uninterpreted"/>
+                        <lb n="1"/><num cert="low" value="80"><w>π</w></num> <g ref="#sign_uninterpreted"/> <num value="4"><w>τέτορες</w></num> <g ref="#sign_uninterpreted"/> <g ref="#sign_uninterpreted"/> <g ref="#sign_uninterpreted"/>
                     </ab>
                 </div>
                 <div type="textpart" subtype="section" n="b">

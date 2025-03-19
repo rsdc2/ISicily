@@ -194,14 +194,14 @@
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
                     <lb n="1"/><w><supplied reason="lost" cert="low">iussu</supplied></w>
-                    <lb n="2"/><supplied reason="lost"><name><expan><abbr>M</abbr><ex>arci</ex></expan></name></supplied> <name>Albi</name>
-                    <lb n="3"/><name><expan><abbr>M</abbr><ex>arci</ex></expan></name> <g ref="#interpunct">·</g> <w><expan><abbr>f</abbr><ex>ilii</ex></expan></w> <g ref="#interpunct">·</g> <orgName><name><expan><abbr>Ouf</abbr><ex>entina</ex></expan></name></orgName>
-                    <lb n="4"/><name>Pollionis</name>
-                    <lb n="5"/><w><expan><abbr>oper</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <name><expan><abbr>C</abbr><ex>ai</ex></expan></name> <g ref="#interpunct">·</g> <name>Domiti</name>
-                    <lb n="6"/><name><expan><abbr>C</abbr><ex>ai</ex></expan></name> <g ref="#interpunct">·</g> <w><expan><abbr>f</abbr><ex>ilii</ex></expan></w> <g ref="#interpunct">·</g> <name><expan><abbr>Vot</abbr><ex>uria</ex></expan></name> <g ref="#interpunct">·</g> <name>Rufi</name>
+                    <lb n="2"/><supplied reason="lost"><name><w><expan><abbr>M</abbr><ex>arci</ex></expan></w></name></supplied> <name><w>Albi</w></name>
+                    <lb n="3"/><name><w><expan><abbr>M</abbr><ex>arci</ex></expan></w></name> <g ref="#interpunct">·</g> <w><expan><abbr>f</abbr><ex>ilii</ex></expan></w> <g ref="#interpunct">·</g> <orgName><name><w><expan><abbr>Ouf</abbr><ex>entina</ex></expan></w></name></orgName>
+                    <lb n="4"/><name><w>Pollionis</w></name>
+                    <lb n="5"/><w><expan><abbr>oper</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <name><w><expan><abbr>C</abbr><ex>ai</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w>Domiti</w></name>
+                    <lb n="6"/><name><w><expan><abbr>C</abbr><ex>ai</ex></expan></w></name> <g ref="#interpunct">·</g> <w><expan><abbr>f</abbr><ex>ilii</ex></expan></w> <g ref="#interpunct">·</g> <name><w><expan><abbr>Vot</abbr><ex>uria</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w>Rufi</w></name>
                     <lb n="7"/><orig>ALYPUS</orig><g ref="#interpunct">·</g> <orig>SIMBUL</orig>
-                    <lb n="8"/><name>Mercurio</name>
-                    <lb n="9"/><name>Augusto</name>
+                    <lb n="8"/><name><w>Mercurio</w></name>
+                    <lb n="9"/><name><w>Augusto</w></name>
                 </ab>
             </div>
             <div type="apparatus">

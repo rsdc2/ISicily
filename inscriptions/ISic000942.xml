@@ -192,9 +192,9 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
                     <lb n="1"/><w>ἐνθάδε</w> <w>κεῖτε</w>
-                    <lb n="2"/><name>Ἰουβῖνος</name> <w>ἔζησεν</w>
-                    <lb n="3"/><w>ἔτη</w> <num value="15"><hi rend="supraline">ιε</hi></num> <w>μηνὶ</w> <name>Ὀκ<supplied reason="omitted">τ</supplied>ωβ<choice><corr>ρί</corr><sic>ιρ</sic></choice><supplied reason="omitted">ῳ</supplied></name>
-                    <lb n="4"/><w>α</w> <g ref="#cross_uninterpreted">☩</g> <num value="17">ιζ</num> <w>ω</w>
+                    <lb n="2"/><name><w>Ἰουβῖνος</w></name> <w>ἔζησεν</w>
+                    <lb n="3"/><w>ἔτη</w> <num value="15"><w><hi rend="supraline">ιε</hi></w></num> <w>μηνὶ</w> <name><w>Ὀκ<supplied reason="omitted">τ</supplied>ωβ<choice><corr>ρί</corr><sic>ιρ</sic></choice><supplied reason="omitted">ῳ</supplied></w></name>
+                    <lb n="4"/><w>α</w> <g ref="#cross_uninterpreted">☩</g> <num value="17"><w>ιζ</w></num> <w>ω</w>
                 </ab>
             </div>
             <div type="apparatus">

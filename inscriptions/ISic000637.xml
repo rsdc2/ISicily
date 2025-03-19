@@ -193,8 +193,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#TA">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>Π</abbr><ex>ούβλιε</ex></expan></w> <g ref="#interpunct">·</g> <name>Κλώδιε</name>
-                    <lb n="2"/><name>Κορνηλιανὲ</name>
+                    <lb n="1"/><w><expan><abbr>Π</abbr><ex>ούβλιε</ex></expan></w> <g ref="#interpunct">·</g> <name><w>Κλώδιε</w></name>
+                    <lb n="2"/><name><w>Κορνηλιανὲ</w></name>
                     <lb n="3"/><w>εὐσεβῆ</w> <g ref="#interpunct">·</g> <w><choice><orig>χαέρε</orig><reg>χαῖρε</reg></choice></w>
                 </ab>
             </div>

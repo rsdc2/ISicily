@@ -196,11 +196,11 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#AA">
                 <ab>
                     <lb n="1"/><w>Μνησθοῖ</w>
-                    <lb n="2"/><name>Ἐνκάρπιν</name>
+                    <lb n="2"/><name><w>Ἐνκάρπιν</w></name>
                     <lb n="3"/><w>χρηστὴ</w> <w>καὶ</w>
                     <lb n="4"/><w>ἄμεμπτος</w>
                     <lb n="5"/><w>ἔζησεν</w> <w>ἔτη</w>
-                    <lb n="6"/><num value="50">νʹ</num>
+                    <lb n="6"/><num value="50"><w>νʹ</w></num>
                 </ab>
             </div>
             <div type="apparatus">

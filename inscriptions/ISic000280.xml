@@ -193,7 +193,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#TA #JP">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>Aug</abbr><ex>ustus</ex></expan></w> <g ref="#interpunct">·</g> <roleName type="supracivic.religious" subtype="pontifex.maximus"><w><expan><abbr>po<hi rend="ligature">nt</hi></abbr><ex>ifex</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>max</abbr><ex>imus</ex></expan></w></roleName> <roleName type="supracivic" subtype="tribunicia.potestas"><w><expan><abbr>trib</abbr><ex>unicia</ex></expan></w> <w><expan><abbr>pot</abbr><ex>estate</ex></expan></w></roleName> <g ref="#interpunct">·</g> <num atLeast="11" atMost="14"><unclear>XI</unclear><gap reason="lost" extent="unknown" unit="character"/></num>
+                    <lb n="1"/><w><expan><abbr>Aug</abbr><ex>ustus</ex></expan></w> <g ref="#interpunct">·</g> <roleName type="supracivic.religious" subtype="pontifex.maximus"><w><expan><abbr>po<hi rend="ligature">nt</hi></abbr><ex>ifex</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>max</abbr><ex>imus</ex></expan></w></roleName> <roleName type="supracivic" subtype="tribunicia.potestas"><w><expan><abbr>trib</abbr><ex>unicia</ex></expan></w> <w><expan><abbr>pot</abbr><ex>estate</ex></expan></w></roleName> <g ref="#interpunct">·</g> <num atLeast="11" atMost="14"><w><unclear>XI</unclear><gap reason="lost" extent="unknown" unit="character"/></w></num>
                 </ab>
             </div>
             <div type="apparatus">

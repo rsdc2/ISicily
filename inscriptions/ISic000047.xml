@@ -192,9 +192,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la">
                 <ab>
-                    <lb n="1"/><w>Fulviae</w> <name>Plautillae</name> <g ref="#ivy-leaf"/> <name><expan><abbr>Aug</abbr><ex>ustae</ex></expan></name> <g ref="#ivy-leaf"/>
-                    <lb n="2"/><name>Antonini</name> <g ref="#ivy-leaf"/> <name><expan><abbr>Aug</abbr><ex>usti</ex></expan></name> <g ref="#ivy-leaf"/>
-                    <lb n="3"/><w>res</w> <g ref="#ivy-leaf"/> <w><expan><abbr>p</abbr><ex>ublica</ex></expan></w> <g ref="#ivy-leaf"/> <name><expan><abbr>Soluntinor</abbr><ex>um</ex></expan></name> <g ref="#ivy-leaf"/> <w><expan><abbr>d</abbr><ex>ecreto</ex></expan></w> <g ref="#ivy-leaf"/> <roleName type="civic" subtype="decurio"><w><expan><abbr>d</abbr><ex>ecurionum</ex></expan></w></roleName>
+                    <lb n="1"/><w>Fulviae</w> <name><w>Plautillae</w></name> <g ref="#ivy-leaf"/> <name><w><expan><abbr>Aug</abbr><ex>ustae</ex></expan></w></name> <g ref="#ivy-leaf"/>
+                    <lb n="2"/><name><w>Antonini</w></name> <g ref="#ivy-leaf"/> <name><w><expan><abbr>Aug</abbr><ex>usti</ex></expan></w></name> <g ref="#ivy-leaf"/>
+                    <lb n="3"/><w>res</w> <g ref="#ivy-leaf"/> <w><expan><abbr>p</abbr><ex>ublica</ex></expan></w> <g ref="#ivy-leaf"/> <name><w><expan><abbr>Soluntinor</abbr><ex>um</ex></expan></w></name> <g ref="#ivy-leaf"/> <w><expan><abbr>d</abbr><ex>ecreto</ex></expan></w> <g ref="#ivy-leaf"/> <roleName type="civic" subtype="decurio"><w><expan><abbr>d</abbr><ex>ecurionum</ex></expan></w></roleName>
                 </ab>
             </div>
             <div type="apparatus">

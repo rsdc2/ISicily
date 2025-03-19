@@ -193,8 +193,8 @@
                 <ab>
                     <lb n="0"/><gap reason="lost" extent="unknown" unit="line"/>
                     <lb n="1"/><orig>ΓΗΙΙ<unclear>ΑΟ</unclear></orig><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost"><roleName type="supracivic" subtype="consul">ὑπατίᾳ</roleName></supplied></w>
-                    <lb n="2"/><w>τοῦ</w> <w>δεσπ<supplied reason="lost">ότου</supplied></w> <name><supplied reason="lost">Θεο</supplied>
-                    <lb n="3" break="no"/>δοσίου</name> <w><supplied reason="lost"><expan><abbr>κ</abbr><ex>αὶ</ex></expan></supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><w>τοῦ</w> <w>δεσπ<supplied reason="lost">ότου</supplied></w> <name><w><supplied reason="lost">Θεο</supplied>
+                    <lb n="3" break="no"/>δοσίου</w></name> <w><supplied reason="lost"><expan><abbr>κ</abbr><ex>αὶ</ex></expan></supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>
             <div type="apparatus">

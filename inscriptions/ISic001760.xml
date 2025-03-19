@@ -170,8 +170,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name>Βικτωρία</name></persName> <w>καὶ</w> <persName type="attested"><name>Πασ
-                    <lb n="2" break="no"/>κάσις</name></persName> <w>καὶ</w> <w>παιδίον</w>
+                    <lb n="1"/><persName type="attested"><name><w>Βικτωρία</w></name></persName> <w>καὶ</w> <persName type="attested"><name><w>Πασ
+                    <lb n="2" break="no"/>κάσις</w></name></persName> <w>καὶ</w> <w>παιδίον</w>
                     <lb n="3"/><w>αὐτῶν</w> <w>ἐνθάδε</w> <w>κεῖν
                     <lb n="4" break="no"/>ται</w>
                 </ab>

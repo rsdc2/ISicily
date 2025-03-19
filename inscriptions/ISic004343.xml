@@ -187,9 +187,9 @@
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
                     <cb n="1"/>
-                    <lb n="1"/><w><expan><abbr>P</abbr><ex>ublius</ex></expan></w> <name>Manlius</name>
-                    <lb n="2"/><name>Felix</name> <cb n="2"/>
-                    <lb n="3"/><name>Licinia</name>
+                    <lb n="1"/><w><expan><abbr>P</abbr><ex>ublius</ex></expan></w> <name><w>Manlius</w></name>
+                    <lb n="2"/><name><w>Felix</w></name> <cb n="2"/>
+                    <lb n="3"/><name><w>Licinia</w></name>
                 </ab>
             </div>
             <div type="apparatus">

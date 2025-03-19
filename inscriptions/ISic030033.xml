@@ -186,8 +186,8 @@
                 <div type="textpart" subtype="section" n="a">
                     <ab>
                         <milestone unit="face" n="a"/>
-                        <lb n="1"/><persName type="attested"><name type="idionym">Λάκαινα</name></persName> <persName type="attested"><name type="idionym">Δαμαρέτα</name></persName> <persName type="attested"><name type="idionym">Άναξιμένη</name></persName>
-                        <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="attested"><name type="idionym"><supplied reason="lost">Δαμ</supplied><seg part="F">αρέτα</seg></name></persName> <orig>ΚΥΤΑΣ</orig>
+                        <lb n="1"/><persName type="attested"><name type="idionym"><w>Λάκαινα</w></name></persName> <persName type="attested"><name type="idionym"><w>Δαμαρέτα</w></name></persName> <persName type="attested"><name type="idionym"><w>Άναξιμένη</w></name></persName>
+                        <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="attested"><name type="idionym"><w><supplied reason="lost">Δαμ</supplied><seg part="F">αρέτα</seg></w></name></persName> <orig>ΚΥΤΑΣ</orig>
                     </ab>
                 </div>
                 <div type="textpart" subtype="section" n="b">

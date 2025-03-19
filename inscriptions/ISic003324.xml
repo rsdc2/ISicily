@@ -244,16 +244,16 @@
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <div type="textpart" subtype="frontface">
                     <ab>
-                        <lb n="1"/><w><expan><abbr>P</abbr><ex>ublius</ex></expan></w> <g ref="#interpunct">·</g> <w><supplied reason="subaudible">et</supplied></w> <name><expan><abbr>M</abbr><ex>arcus</ex></expan></name> <g ref="#interpunct">·</g> <name>Anniei</name> <g ref="#interpunct">·</g> <name><expan><abbr>P</abbr><ex>ubli</ex></expan></name> <g ref="#interpunct">·</g> <w><expan><abbr>f</abbr><ex>ilii</ex></expan></w>
-                        <lb n="2"/><name><expan><abbr>Vot</abbr><ex>uria tribu</ex></expan></name>
-                        <lb n="3"/><name>Caesaris</name> <g ref="#interpunct">·</g> <w>filio</w>
+                        <lb n="1"/><w><expan><abbr>P</abbr><ex>ublius</ex></expan></w> <g ref="#interpunct">·</g> <w><supplied reason="subaudible">et</supplied></w> <name><w><expan><abbr>M</abbr><ex>arcus</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w>Anniei</w></name> <g ref="#interpunct">·</g> <name><w><expan><abbr>P</abbr><ex>ubli</ex></expan></w></name> <g ref="#interpunct">·</g> <w><expan><abbr>f</abbr><ex>ilii</ex></expan></w>
+                        <lb n="2"/><name><w><expan><abbr>Vot</abbr><ex>uria tribu</ex></expan></w></name>
+                        <lb n="3"/><name><w>Caesaris</w></name> <g ref="#interpunct">·</g> <w>filio</w>
                     </ab>
                 </div>
                 <div type="textpart" subtype="rearface" resp="#JP">
                     <ab>
-                        <lb n="1"/><w><expan><abbr>P</abbr><ex>ublius</ex></expan></w> <g ref="#interpunct">·</g> <w><supplied reason="subaudible">et</supplied></w> <name><expan><abbr>M</abbr><ex>arcus</ex></expan></name> <g ref="#interpunct">·</g> <name>Anniei</name> <g ref="#interpunct">·</g> <name><expan><abbr>P</abbr><ex>ubli</ex></expan></name> <g ref="#interpunct">·</g> <w><expan><abbr>f</abbr><ex>ilii</ex></expan></w>
-                        <lb n="2"/><name><expan><abbr>Vot</abbr><ex>uria tribu</ex></expan></name>
-                        <lb n="3"/><name><expan><abbr>C</abbr><ex>aio</ex></expan></name> <g ref="#interpunct">·</g> <name>Caesari</name> <g ref="#interpunct">·</g> <name><expan><abbr>August</abbr><ex>i</ex></expan></name> <g ref="#interpunct">·</g> <w><expan><abbr>f</abbr><ex>ilio</ex></expan></w>
+                        <lb n="1"/><w><expan><abbr>P</abbr><ex>ublius</ex></expan></w> <g ref="#interpunct">·</g> <w><supplied reason="subaudible">et</supplied></w> <name><w><expan><abbr>M</abbr><ex>arcus</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w>Anniei</w></name> <g ref="#interpunct">·</g> <name><w><expan><abbr>P</abbr><ex>ubli</ex></expan></w></name> <g ref="#interpunct">·</g> <w><expan><abbr>f</abbr><ex>ilii</ex></expan></w>
+                        <lb n="2"/><name><w><expan><abbr>Vot</abbr><ex>uria tribu</ex></expan></w></name>
+                        <lb n="3"/><name><w><expan><abbr>C</abbr><ex>aio</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w>Caesari</w></name> <g ref="#interpunct">·</g> <name><w><expan><abbr>August</abbr><ex>i</ex></expan></w></name> <g ref="#interpunct">·</g> <w><expan><abbr>f</abbr><ex>ilio</ex></expan></w>
                     </ab>
                 </div>
             </div>

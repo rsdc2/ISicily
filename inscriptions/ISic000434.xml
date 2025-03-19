@@ -192,9 +192,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#TA">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name type="praenomen"><expan><abbr>L</abbr><ex>ucius</ex></expan></name> <g ref="#interpunct">·</g> <name type="nomen">Licinius</name>
-                    <lb n="2"/><persName type="attested"><name type="libertinatio"><expan><abbr>L</abbr><ex>ucii</ex></expan></name></persName> <g ref="#interpunct">·</g> <w><expan><abbr>l</abbr><ex>ibertus</ex></expan></w> <g ref="#interpunct">·</g> <name type="cognomen">Daphnus</name></persName>
-                    <lb n="3"/><w><expan><abbr>vix</abbr><ex>it</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>a</abbr><ex>nnos</ex></expan></w> <g ref="#interpunct">·</g> <num value="35">XXXV</num>
+                    <lb n="1"/><persName type="attested"><name type="praenomen"><w><expan><abbr>L</abbr><ex>ucius</ex></expan></w></name> <g ref="#interpunct">·</g> <name type="nomen"><w>Licinius</w></name>
+                    <lb n="2"/><persName type="attested"><name type="libertinatio"><w><expan><abbr>L</abbr><ex>ucii</ex></expan></w></name></persName> <g ref="#interpunct">·</g> <w><expan><abbr>l</abbr><ex>ibertus</ex></expan></w> <g ref="#interpunct">·</g> <name type="cognomen"><w>Daphnus</w></name></persName>
+                    <lb n="3"/><w><expan><abbr>vix</abbr><ex>it</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>a</abbr><ex>nnos</ex></expan></w> <g ref="#interpunct">·</g> <num value="35"><w>XXXV</w></num>
                 </ab>
             </div>
             <div type="apparatus">

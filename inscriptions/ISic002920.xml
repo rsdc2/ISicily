@@ -191,8 +191,8 @@
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#VM">
                 <ab>
                     <lb n="0"/><gap reason="lost" extent="unknown" unit="line"/>
-                    <lb n="1"/><w><supplied reason="lost">deposit</supplied>us</w> <num value="3">tertiu<supplied reason="omitted">s</supplied></num> <name><expan><abbr>Ka<supplied reason="lost">l</supplied></abbr><ex>endas</ex></expan></name> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">indicti</supplied>one</w> <num value="9">nona</num> <roleName type="supracivic" subtype="imperator"><name><expan><abbr><hi rend="supraline">Imp</hi></abbr><ex>eratore</ex></expan></name></roleName> <roleName type="supracivic" subtype="dominus"><w><expan><abbr>d</abbr><ex>omino</ex></expan></w></roleName> <w><supplied reason="lost"><expan><abbr>n</abbr><ex>ostro</ex></expan></supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><w><supplied reason="lost">deposit</supplied>us</w> <num value="3"><w>tertiu<supplied reason="omitted">s</supplied></w></num> <name><w><expan><abbr>Ka<supplied reason="lost">l</supplied></abbr><ex>endas</ex></expan></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">indicti</supplied>one</w> <num value="9"><w>nona</w></num> <roleName type="supracivic" subtype="imperator"><name><w><expan><abbr><hi rend="supraline">Imp</hi></abbr><ex>eratore</ex></expan></w></name></roleName> <roleName type="supracivic" subtype="dominus"><w><expan><abbr>d</abbr><ex>omino</ex></expan></w></roleName> <w><supplied reason="lost"><expan><abbr>n</abbr><ex>ostro</ex></expan></supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>
             <div type="apparatus">

@@ -190,9 +190,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/><w><supplied reason="lost">τῇ</supplied></w> <w><supplied reason="lost">πρ</supplied>ὸ</w> <num value="1">α</num> <w>καλ<supplied reason="lost">ανδῶν</supplied></w>
-                    <lb n="2"/><name><supplied reason="lost">Ἰενου</supplied>αρίων</name> <w><supplied reason="lost">τῇ</supplied></w> <w><supplied reason="lost"><roleName type="supracivic" subtype="consul">ὑπατίᾳ</roleName></supplied></w>
-                    <lb n="3"/><name><supplied reason="lost">Ἀρκα</supplied>δίου</name> <w><expan><abbr>κ</abbr><ex>αὶ</ex></expan></w> <name>Ὁν<supplied reason="lost">ωρίου</supplied></name> <w><supplied reason="lost">τὸ</supplied></w> <supplied reason="lost"><num value="5">ε</num></supplied>
+                    <lb n="1"/><w><supplied reason="lost">τῇ</supplied></w> <w><supplied reason="lost">πρ</supplied>ὸ</w> <num value="1"><w>α</w></num> <w>καλ<supplied reason="lost">ανδῶν</supplied></w>
+                    <lb n="2"/><name><w><supplied reason="lost">Ἰενου</supplied>αρίων</w></name> <w><supplied reason="lost">τῇ</supplied></w> <w><supplied reason="lost"><roleName type="supracivic" subtype="consul">ὑπατίᾳ</roleName></supplied></w>
+                    <lb n="3"/><name><w><supplied reason="lost">Ἀρκα</supplied>δίου</w></name> <w><expan><abbr>κ</abbr><ex>αὶ</ex></expan></w> <name><w>Ὁν<supplied reason="lost">ωρίου</supplied></w></name> <w><supplied reason="lost">τὸ</supplied></w> <supplied reason="lost"><num value="5"><w>ε</w></num></supplied>
                     <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <orig><unclear>Τ</unclear></orig><gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>

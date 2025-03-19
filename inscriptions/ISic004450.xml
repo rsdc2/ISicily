@@ -186,9 +186,9 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#IG">
                 <ab>
                     <lb n="1"/><g ref="#alpha">Α</g> <g ref="#staurogram">𐆠</g> <g ref="#omega">Ω</g> <w>Ἐνθάδε</w>
-                    <lb n="2"/><w>κῖτε</w> <name>Κατέλ
-                    <lb n="3" break="no"/>λα</name> <w>ζήσασα</w>
-                    <lb n="4"/><w>ἔτη</w> <num value="35"><hi rend="supraline">λε</hi></num> <g ref="#alpha">Α</g> <g ref="#staurogram">𐆠</g> <supplied reason="lost"><g ref="#omega">Ω</g></supplied>
+                    <lb n="2"/><w>κῖτε</w> <name><w>Κατέλ
+                    <lb n="3" break="no"/>λα</w></name> <w>ζήσασα</w>
+                    <lb n="4"/><w>ἔτη</w> <num value="35"><w><hi rend="supraline">λε</hi></w></num> <g ref="#alpha">Α</g> <g ref="#staurogram">𐆠</g> <supplied reason="lost"><g ref="#omega">Ω</g></supplied>
                 </ab>
                </div>
             <div type="apparatus">

@@ -193,10 +193,10 @@
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#TA #JP">
                 <ab>
                     <lb n="1"/><w>Dis</w> <w>manibus</w>
-                    <lb n="2"/><persName type="attested"><name>Euodia</name> <persName type="attested"><name type="patronym"><expan><abbr>Saluta
-                    <lb n="3" break="no"/>ri</abbr><ex>s</ex></expan></name></persName> <w>filia</w></persName> <w>vixit</w> <w>an
-                    <lb n="4" break="no"/>nis</w> <num value="3">III</num> <w>mensi
-                    <lb n="5" break="no"/>bus</w> <num value="2">II</num>
+                    <lb n="2"/><persName type="attested"><name><w>Euodia</w></name> <persName type="attested"><name type="patronym"><w><expan><abbr>Saluta
+                    <lb n="3" break="no"/>ri</abbr><ex>s</ex></expan></w></name></persName> <w>filia</w></persName> <w>vixit</w> <w>an
+                    <lb n="4" break="no"/>nis</w> <num value="3"><w>III</w></num> <w>mensi
+                    <lb n="5" break="no"/>bus</w> <num value="2"><w>II</w></num>
                 </ab>
             </div>
             <div type="apparatus">

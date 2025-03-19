@@ -194,8 +194,8 @@
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#TA">
                 <ab>
                     <lb n="1"/><orig>VAPIOAS</orig><g ref="#interpunct">·</g> <orig>I</orig><gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="2"/><orig>AIIS</orig><num value="3">III</num> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="3"/><num cert="low"><hi rend="supraline underline">IXVVV</hi></num> <g ref="#interpunct">·</g> <orig>SA</orig><gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><orig>AIIS</orig><num value="3"><w>III</w></num> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="3"/><num cert="low"><w><hi rend="supraline underline">IXVVV</hi></w></num> <g ref="#interpunct">·</g> <orig>SA</orig><gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>
             <div type="apparatus">

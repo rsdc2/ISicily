@@ -230,7 +230,7 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
                     <lb n="1" xml:id="DΡΙAK"/><w xml:id="DΡΙAU"><space unit="character" quantity="1" xml:id="DΡΙAe"/>Σερά<unclear xml:id="DΡΙAo">π</unclear><supplied reason="lost" xml:id="DΡΙAy">ιδι</supplied></w> <w xml:id="DΡΙAΙ"><supplied reason="lost" cert="low" xml:id="DΡΙAΤ">και Ἴσιδι</supplied></w>
-                    <lb n="2" xml:id="DΡΙAε"/><name xml:id="DΡΙAο">Θεόδωρο<supplied reason="lost" xml:id="DΡΙBA">ς</supplied></name> <gap reason="lost" extent="unknown" unit="character" xml:id="DΡΙBK"/>
+                    <lb n="2" xml:id="DΡΙAε"/><name xml:id="DΡΙAο"><w>Θεόδωρο<supplied reason="lost" xml:id="DΡΙBA">ς</supplied></w></name> <gap reason="lost" extent="unknown" unit="character" xml:id="DΡΙBK"/>
                     <lb n="3" xml:id="DΡΙBU"/><space unit="character" quantity="4" xml:id="DΡΙBe"/><orig xml:id="DΡΙBo">M</orig><gap reason="lost" extent="unknown" unit="character" xml:id="DΡΙBy"/>
                 </ab>
             </div>

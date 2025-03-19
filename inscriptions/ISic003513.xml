@@ -190,10 +190,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>Θ</abbr><ex>εοῖς</ex></expan></w> <g ref="#interpunct">·</g> <name><expan><abbr>Χ</abbr><ex>θωνίοις</ex></expan></name> <g ref="#interpunct">·</g>
-                    <lb n="2"/><name>Ἀβιανία</name> <g ref="#interpunct">·</g> <name>Σαβεν<supplied reason="lost">α</supplied></name>
+                    <lb n="1"/><w><expan><abbr>Θ</abbr><ex>εοῖς</ex></expan></w> <g ref="#interpunct">·</g> <name><w><expan><abbr>Χ</abbr><ex>θωνίοις</ex></expan></w></name> <g ref="#interpunct">·</g>
+                    <lb n="2"/><name><w>Ἀβιανία</w></name> <g ref="#interpunct">·</g> <name><w>Σαβεν<supplied reason="lost">α</supplied></w></name>
                     <lb n="3"/><w>ἔζησεν</w> <g ref="#interpunct">·</g> <w>ἔτη</w>
-                    <lb n="4"/><g ref="#interpunct">·</g> <num value="35">λε</num> <g ref="#interpunct">·</g>
+                    <lb n="4"/><g ref="#interpunct">·</g> <num value="35"><w>λε</w></num> <g ref="#interpunct">·</g>
                 </ab>
             </div>
             <div type="apparatus">

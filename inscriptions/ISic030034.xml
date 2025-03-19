@@ -184,14 +184,14 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#SN">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name type="idionym">Ναιρογένε̄ς</name></persName> <orig>ΦΥ</orig>
-                    <lb n="2"/><orig>ET</orig><persName type="attested"><name type="patronym">Εύκλείδα</name></persName>
-                    <lb n="3"/><persName type="attested"><name type="idionym"><supplied reason="lost" cert="low">Φ</supplied><seg part="F">άυλλος</seg></name></persName> <persName type="attested"><name type="idionym"><seg part="I">Γέλ</seg><supplied reason="lost">ων</supplied></name></persName>
-                    <lb n="4"/><orig>ΣΟΝ<g ref="#dash">‒</g>Ο</orig><persName type="attested"><name type="idionym">Φάνονος</name>
-                    <lb n="5"/><persName type="attested"><name type="patronym">Άρατίο</name></persName></persName>
-                    <lb n="6"/><persName type="attested"><name type="idionym"><supplied reason="lost">hε̄</supplied><seg part="F">ρακλείδας</seg></name> <persName type="attested"><name type="patronym">Νικία</name></persName></persName>
-                    <lb n="7"/><persName type="attested"><name type="idionym"><supplied reason="lost">Σ</supplied><seg part="F">κύθας</seg></name></persName>
-                    <lb n="8"/><persName type="attested"><name type="idionym">Λύκ<supplied reason="lost" cert="low">ι</supplied>ς</name></persName>
+                    <lb n="1"/><persName type="attested"><name type="idionym"><w>Ναιρογένε̄ς</w></name></persName> <orig>ΦΥ</orig>
+                    <lb n="2"/><orig>ET</orig><persName type="attested"><name type="patronym"><w>Εύκλείδα</w></name></persName>
+                    <lb n="3"/><persName type="attested"><name type="idionym"><w><supplied reason="lost" cert="low">Φ</supplied><seg part="F">άυλλος</seg></w></name></persName> <persName type="attested"><name type="idionym"><w><seg part="I">Γέλ</seg><supplied reason="lost">ων</supplied></w></name></persName>
+                    <lb n="4"/><orig>ΣΟΝ<g ref="#dash">‒</g>Ο</orig><persName type="attested"><name type="idionym"><w>Φάνονος</w></name>
+                    <lb n="5"/><persName type="attested"><name type="patronym"><w>Άρατίο</w></name></persName></persName>
+                    <lb n="6"/><persName type="attested"><name type="idionym"><w><supplied reason="lost">hε̄</supplied><seg part="F">ρακλείδας</seg></w></name> <persName type="attested"><name type="patronym"><w>Νικία</w></name></persName></persName>
+                    <lb n="7"/><persName type="attested"><name type="idionym"><w><supplied reason="lost">Σ</supplied><seg part="F">κύθας</seg></w></name></persName>
+                    <lb n="8"/><persName type="attested"><name type="idionym"><w>Λύκ<supplied reason="lost" cert="low">ι</supplied>ς</w></name></persName>
                 </ab>
             </div>
             <div type="apparatus">

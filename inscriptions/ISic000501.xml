@@ -199,7 +199,7 @@
                     <lb n="6"/><gap reason="lost" extent="unknown" unit="character"/> <orig>LAM</orig><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="7"/><gap reason="lost" extent="unknown" unit="character"/> <w>stasiae</w> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="8"/><gap reason="lost" extent="unknown" unit="character"/> <roleName type="supracivic" subtype="dominus"><w><expan><hi rend="supraline"><abbr>d<am>d</am></abbr></hi><ex cert="low">ominis</ex></expan></w></roleName> <w><expan><hi rend="supraline"><abbr>n<am>n</am></abbr></hi><ex cert="low">ostris</ex></expan></w>
-                    <lb n="9"/><gap reason="lost" extent="unknown" unit="character"/> <name><supplied reason="lost">Valenti</supplied>niano</name> <num value="4">IIII</num> <w><supplied reason="lost">et</supplied></w> <supplied reason="lost"><name>Valente</name></supplied> <supplied reason="lost"><num value="4">IIII</num></supplied> <w><supplied reason="lost"><roleName type="supracivic" subtype="consul"><expan><abbr>co</abbr><ex>n</ex><abbr>s</abbr><ex>ulibus</ex></expan></roleName></supplied></w>
+                    <lb n="9"/><gap reason="lost" extent="unknown" unit="character"/> <name><w><supplied reason="lost">Valenti</supplied>niano</w></name> <num value="4"><w>IIII</w></num> <w><supplied reason="lost">et</supplied></w> <supplied reason="lost"><name><w>Valente</w></name></supplied> <supplied reason="lost"><num value="4"><w>IIII</w></num></supplied> <w><supplied reason="lost"><roleName type="supracivic" subtype="consul"><expan><abbr>co</abbr><ex>n</ex><abbr>s</abbr><ex>ulibus</ex></expan></roleName></supplied></w>
                 </ab>
             </div>
             <div type="apparatus">

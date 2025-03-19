@@ -171,7 +171,7 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <orig>ΙΑΩ</orig>
-                    <lb n="2"/><persName type="attested"><name><supplied reason="lost">Ε</supplied>ὐκαρπία</name></persName>
+                    <lb n="2"/><persName type="attested"><name><w><supplied reason="lost">Ε</supplied>ὐκαρπία</w></name></persName>
                 </ab>
             </div>
             <div type="apparatus" resp="#JP">

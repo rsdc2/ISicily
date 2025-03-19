@@ -186,25 +186,25 @@
                 <div type="textpart" subtype="section" n="a">
                     <ab>
                         <milestone unit="face" subtype="recto"/>
-                        <lb n="1" style="text-direction:r-to-l"/><persName type="attested"><name>Πίθα<supplied reason="lost">ϙος</supplied></name></persName> <gap reason="lost" extent="unknown" unit="character"/> <w><unclear>ο</unclear>ς</w> <persName type="attested"><name>Ἀφαι
-                        <lb n="2" break="no" style="text-direction:r-to-l"/>στίο<unclear>ν</unclear></name></persName> <persName type="attested"><name><gap reason="lost" extent="unknown" unit="character"/>σ<unclear>α</unclear><gap reason="illegible" quantity="1" unit="character"/>τας</name></persName>
-                        <lb n="3" style="text-direction:r-to-l"/><persName type="attested"><name>Ἐρίφιλος</name> <persName type="attested"><name type="patronymic">Τ<unclear>ε</unclear>ρπε
-                        <lb n="4" break="no" style="text-direction:r-to-l"/>φίλο</name></persName></persName> <persName type="attested"><name><unclear>Ματυ</unclear>λας</name> <persName type="attested"><name type="patronymic"><choice><reg>Κα<unclear>λ</unclear>λέ
-                        <lb n="5" break="no" style="text-direction:r-to-l"/>ος</reg><orig>Κα<unclear>λ</unclear>έος</orig></choice></name></persName></persName> <space extent="unknown" unit="character"/>
-                        <lb n="6" style="text-direction:r-to-l"/><persName type="attested"><name>Θοπύλος</name> <persName type="attested"><name type="patronymic">Ξένονος</name></persName></persName>
-                        <lb n="7" style="text-direction:r-to-l"/><persName type="attested"><name><unclear>Ἄ</unclear>θανις</name> <persName type="attested"><name type="patronymic">Ἀντάνδρο</name></persName></persName>
-                        <lb n="8" style="text-direction:r-to-l"/><persName type="attested"><name><unclear>Χ</unclear>άρον</name> <persName type="attested"><name type="patronymic">Ηαγ<supplied reason="lost">εσ</supplied>άρχο</name></persName></persName>
-                        <lb n="9" style="text-direction:r-to-l"/><persName type="attested"><name><unclear>Σιλ</unclear>ανος</name> <persName type="attested"><name type="patronymic">Ηαγεσάρχο</name></persName></persName>
-                        <lb n="10" style="text-direction:r-to-l"/><persName type="attested"><name><unclear>Ἄθαν</unclear><supplied reason="lost" cert="low">ις</supplied></name></persName> <space extent="unknown" unit="character"/>
-                        <lb n="11" style="text-direction:r-to-l"/><persName type="attested"><name>Ξένον</name> <persName type="attested"><name type="patronymic">Ηινύϙο</name></persName></persName>
-                        <lb n="12" style="text-direction:r-to-l"/><persName type="attested"><name>Ηαγίας</name> <persName type="attested"><name type="patronymic">Φιλοδάμο</name></persName></persName>
-                        <lb n="13" style="text-direction:r-to-l"/><persName type="attested"><name>Δεινίας</name> <persName type="attested"><name type="patronymic">Σφυρᾶ</name></persName></persName>
+                        <lb n="1" style="text-direction:r-to-l"/><persName type="attested"><name><w>Πίθα<supplied reason="lost">ϙος</supplied></w></name></persName> <gap reason="lost" extent="unknown" unit="character"/> <w><unclear>ο</unclear>ς</w> <persName type="attested"><name><w>Ἀφαι
+                        <lb n="2" break="no" style="text-direction:r-to-l"/>στίο<unclear>ν</unclear></w></name></persName> <persName type="attested"><name><w><gap reason="lost" extent="unknown" unit="character"/>σ<unclear>α</unclear><gap reason="illegible" quantity="1" unit="character"/>τας</w></name></persName>
+                        <lb n="3" style="text-direction:r-to-l"/><persName type="attested"><name><w>Ἐρίφιλος</w></name> <persName type="attested"><name type="patronymic"><w>Τ<unclear>ε</unclear>ρπε
+                        <lb n="4" break="no" style="text-direction:r-to-l"/>φίλο</w></name></persName></persName> <persName type="attested"><name><w><unclear>Ματυ</unclear>λας</w></name> <persName type="attested"><name type="patronymic"><w><choice><reg>Κα<unclear>λ</unclear>λέ
+                        <lb n="5" break="no" style="text-direction:r-to-l"/>ος</reg><orig>Κα<unclear>λ</unclear>έος</orig></choice></w></name></persName></persName> <space extent="unknown" unit="character"/>
+                        <lb n="6" style="text-direction:r-to-l"/><persName type="attested"><name><w>Θοπύλος</w></name> <persName type="attested"><name type="patronymic"><w>Ξένονος</w></name></persName></persName>
+                        <lb n="7" style="text-direction:r-to-l"/><persName type="attested"><name><w><unclear>Ἄ</unclear>θανις</w></name> <persName type="attested"><name type="patronymic"><w>Ἀντάνδρο</w></name></persName></persName>
+                        <lb n="8" style="text-direction:r-to-l"/><persName type="attested"><name><w><unclear>Χ</unclear>άρον</w></name> <persName type="attested"><name type="patronymic"><w>Ηαγ<supplied reason="lost">εσ</supplied>άρχο</w></name></persName></persName>
+                        <lb n="9" style="text-direction:r-to-l"/><persName type="attested"><name><w><unclear>Σιλ</unclear>ανος</w></name> <persName type="attested"><name type="patronymic"><w>Ηαγεσάρχο</w></name></persName></persName>
+                        <lb n="10" style="text-direction:r-to-l"/><persName type="attested"><name><w><unclear>Ἄθαν</unclear><supplied reason="lost" cert="low">ις</supplied></w></name></persName> <space extent="unknown" unit="character"/>
+                        <lb n="11" style="text-direction:r-to-l"/><persName type="attested"><name><w>Ξένον</w></name> <persName type="attested"><name type="patronymic"><w>Ηινύϙο</w></name></persName></persName>
+                        <lb n="12" style="text-direction:r-to-l"/><persName type="attested"><name><w>Ηαγίας</w></name> <persName type="attested"><name type="patronymic"><w>Φιλοδάμο</w></name></persName></persName>
+                        <lb n="13" style="text-direction:r-to-l"/><persName type="attested"><name><w>Δεινίας</w></name> <persName type="attested"><name type="patronymic"><w>Σφυρᾶ</w></name></persName></persName>
                     </ab>
                 </div>
                 <div type="textpart" subtype="section" n="b">
                     <ab>
                         <milestone unit="face" subtype="verso"/>
-                        <lb n="1"/><persName type="attested"><name type="patronymic">Φιλονο<supplied reason="lost">ς</supplied></name> <persName type="attested"><name>Ναϙοι</name></persName></persName>
+                        <lb n="1"/><persName type="attested"><name type="patronymic"><w>Φιλονο<supplied reason="lost">ς</supplied></w></name> <persName type="attested"><name><w>Ναϙοι</w></name></persName></persName>
                     </ab>
                 </div>
             </div>

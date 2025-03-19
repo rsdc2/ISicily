@@ -194,10 +194,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <name><expan><abbr>M</abbr><ex>anibus</ex></expan></name> <w><expan><abbr>s</abbr><ex>acrum</ex></expan></w>
-                    <lb n="2"/><name>Domitius</name> <g ref="#ivy-leaf"/> <name>Suces
-                    <lb n="3" break="no"/>sus</name> <g ref="#ivy-leaf"/> <w>vixit</w> <g ref="#interpunct">·</g> <w><expan><abbr>an</abbr><ex>nis</ex></expan></w> <num value="30">XXX</num>
-                    <lb n="4"/><name>Domitia</name> <g ref="#ivy-leaf"/> <name>Cosmi</name>
+                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <name><w><expan><abbr>M</abbr><ex>anibus</ex></expan></w></name> <w><expan><abbr>s</abbr><ex>acrum</ex></expan></w>
+                    <lb n="2"/><name><w>Domitius</w></name> <g ref="#ivy-leaf"/> <name><w>Suces
+                    <lb n="3" break="no"/>sus</w></name> <g ref="#ivy-leaf"/> <w>vixit</w> <g ref="#interpunct">·</g> <w><expan><abbr>an</abbr><ex>nis</ex></expan></w> <num value="30"><w>XXX</w></num>
+                    <lb n="4"/><name><w>Domitia</w></name> <g ref="#ivy-leaf"/> <name><w>Cosmi</w></name>
                     <lb n="5"/><w>ce</w> <g ref="#ivy-leaf"/> <w>uxor</w> <w>feci<supplied reason="undefined" evidence="previouseditor">t</supplied></w>
                     <lb n="6"/><w>viro</w> <w>merenti</w>
                 </ab>

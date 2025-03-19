@@ -175,8 +175,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#FP">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name>Αὐρηλί
-                    <lb n="2" break="no"/>ου</name></persName> <w>ἀγο
+                    <lb n="1"/><persName type="attested"><name><w>Αὐρηλί
+                    <lb n="2" break="no"/>ου</w></name></persName> <w>ἀγο
                     <lb n="3" break="no"/>ρασία</w>
                 </ab>
             </div>

@@ -205,8 +205,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM #AA">
                 <ab>
-                    <lb n="1" xml:id="BPAAK"/><persName type="attested" xml:id="BPAAU"><name xml:id="BPAAe">Ὦλε</name> <name xml:id="BPAAo">Πά<unclear xml:id="BPAAy">π</unclear><supplied reason="undefined" evidence="previouseditor" xml:id="BPAAΙ">ιε</supplied></name>
-                    <lb n="2" xml:id="BPAAΤ"/><name xml:id="BPAAε">Ἀγάθαρχε</name></persName>
+                    <lb n="1" xml:id="BPAAK"/><persName type="attested" xml:id="BPAAU"><name xml:id="BPAAe"><w>Ὦλε</w></name> <name xml:id="BPAAo"><w>Πά<unclear xml:id="BPAAy">π</unclear><supplied reason="undefined" evidence="previouseditor" xml:id="BPAAΙ">ιε</supplied></w></name>
+                    <lb n="2" xml:id="BPAAΤ"/><name xml:id="BPAAε"><w>Ἀγάθαρχε</w></name></persName>
                     <lb n="3" xml:id="BPAAο"/><w xml:id="BPABA">χαῖρε</w>
                 </ab>
             </div>

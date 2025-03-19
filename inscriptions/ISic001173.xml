@@ -204,8 +204,8 @@
         <body>
               <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name>Σώσι</name> <name>Νύμφων</name>
-                    <lb n="2"/><name>Κραφάγε</name></persName> <w>χαῖρε</w>
+                    <lb n="1"/><persName type="attested"><name><w>Σώσι</w></name> <name><w>Νύμφων</w></name>
+                    <lb n="2"/><name><w>Κραφάγε</w></name></persName> <w>χαῖρε</w>
                 </ab>
             </div>
             <div type="apparatus">

@@ -195,7 +195,7 @@
                 <ab>
                     <lb n="0"/><gap reason="lost" extent="unknown" unit="line"/>
                     <lb n="1"/><w><supplied reason="lost">pr</supplied>idie</w> <w>kal
-                    <lb n="2" break="no"/><supplied reason="lost">endarum</supplied></w> <name>Iuniarum</name>
+                    <lb n="2" break="no"/><supplied reason="lost">endarum</supplied></w> <name><w>Iuniarum</w></name>
                     <lb n="3"/><w><supplied reason="lost">indicti</supplied>one</w> <w><expan><abbr>tert</abbr><ex>ia</ex></expan></w>
                 </ab>
             </div>

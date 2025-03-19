@@ -205,11 +205,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name>Κοπρία</name></persName>
+                    <lb n="1"/><persName type="attested"><name><w>Κοπρία</w></name></persName>
                     <lb n="2"/><w>χρηστὰ</w> <g ref="#ivy-leaf">❦</g> <w>καὶ</w>
                     <lb n="3"/><w>ἄμεμπτε</w>
                     <lb n="4"/><w>χαῖρε</w> <g ref="#ivy-leaf">❦</g> <w>ἔζη
-                    <lb n="5" break="no"/>σεν</w> <w>ἔτη</w> <num value="30">λ</num>
+                    <lb n="5" break="no"/>σεν</w> <w>ἔτη</w> <num value="30"><w>λ</w></num>
                 </ab>
             </div>
             <div type="apparatus" resp="#JP">

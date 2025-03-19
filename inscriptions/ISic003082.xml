@@ -190,10 +190,10 @@
                 <ab>
                     <lb n="1"/><w><surplus>²columna (pagina) a sinistra parte plane detrita est</surplus>²</w>
                     <lb n="2"/>
-                    <lb n="3"/><name><surplus>²10 versus non leguntur</surplus>²</name>
-                    <lb n="4"/><name><supplied reason="lost">— — — — —</supplied>κόσια</name> <w>τρισχίλια</w> <w>τάλαντα</w> <w>vacat</w>
-                    <lb n="5"/><name>Καρνείου·</name> <w><supplied reason="lost"><roleName type="civic" subtype="proboulos">πρ(όβουλος)</roleName>— —</supplied>ου</w> <name>Οιτ.</name> <roleName type="civic.religious" subtype="hieromnamon"><w>ἱερομναμόνοις</w></roleName>
-                    <lb n="6"/><w>ἔσοδος</w> <name><supplied reason="lost">— — — — — — — — — — — — — — — — —</supplied></name>
+                    <lb n="3"/><name><w><surplus>²10 versus non leguntur</surplus>²</w></name>
+                    <lb n="4"/><name><w><supplied reason="lost">— — — — —</supplied>κόσια</w></name> <w>τρισχίλια</w> <w>τάλαντα</w> <w>vacat</w>
+                    <lb n="5"/><name><w>Καρνείου·</w></name> <w><supplied reason="lost"><roleName type="civic" subtype="proboulos">πρ(όβουλος)</roleName>— —</supplied>ου</w> <name><w>Οιτ.</w></name> <roleName type="civic.religious" subtype="hieromnamon"><w>ἱερομναμόνοις</w></roleName>
+                    <lb n="6"/><w>ἔσοδος</w> <name><w><supplied reason="lost">— — — — — — — — — — — — — — — — —</supplied></w></name>
                     <lb n="7"/>
                 </ab>
             </div>

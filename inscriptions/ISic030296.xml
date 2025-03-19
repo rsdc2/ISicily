@@ -184,15 +184,15 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1"/><w>ἐπὶ</w> <name>Λευκίου</name> <w>τοῦ</w> <name>Καισίου</name> <w>καὶ</w> <name>Φιλωνίδα</name> <name>Φι<unclear>λ</unclear></name> <gap reason="lost" unit="character" atLeast="3" atMost="5"/>
-                    <lb n="2"/><name>Ἀδωνίου</name> <w>τετάρται</w> <w>ἱσταμένου</w> <w>ἔδοξε</w>
+                    <lb n="1"/><w>ἐπὶ</w> <name><w>Λευκίου</w></name> <w>τοῦ</w> <name><w>Καισίου</w></name> <w>καὶ</w> <name><w>Φιλωνίδα</w></name> <name><w>Φι<unclear>λ</unclear></w></name> <gap reason="lost" unit="character" atLeast="3" atMost="5"/>
+                    <lb n="2"/><name><w>Ἀδωνίου</w></name> <w>τετάρται</w> <w>ἱσταμένου</w> <w>ἔδοξε</w>
                     <lb n="3"/><w>τᾶι</w> <w>ἁλίαι</w> <w>καθὰ</w> <w>καὶ</w> <w>τᾶι</w> <w>βουλᾶι</w> <w>ἐπειδὴ</w> <w>τᾶς</w>
                     <lb n="4"/><w>τύχας</w> <w>καλῶς</w> <w>προαγημένας</w> <w>διώρθωται</w> <w>τὰ</w> <w><unclear>κ</unclear>ο<supplied reason="lost">ιν</supplied><unclear>ὰ</unclear></w>
-                    <lb n="5"/><w>τῶν</w> <name>Νακων<unclear>α</unclear>ίω<unclear>ν</unclear></name> <w>συμφέρει</w> <w>δὲ</w> <w>καὶ</w> <w>ἐς</w> <w>τὸν</w> <w>λοιπὸν</w> <w>χρόνον</w> <w>ὁ<unclear>μ</unclear>ο<unclear>ν</unclear><supplied reason="lost">ο</supplied>
-                    <lb n="6" break="no"/>οῦντας</w> <w>πολιτεύεσθαι</w> <w>πρέσβεις</w> <w>τε</w> <name>Ἐγεσταίων</name> <w>παργενα<unclear>θέν</unclear>
-                    <lb n="7" break="no"/>τες</w> <name>Ἀπέλλ<unclear>ι</unclear>χος</name> <name>Ἀλείδα</name> <name>Ἀττικὸς</name> <name>Πίστωνος</name> <name>Διονύσιος</name> <name>Δ<unclear>ε</unclear>κ<supplied reason="lost">ί</supplied>
-                    <lb n="8" break="no"/>ου</name> <w>ὑπὲρ</w> <w>τῶν</w> <w>κοινᾶι</w> <w>συμφερόντω<hi rend="stacked">ν</hi></w> <w><hi rend="stacked">π</hi>ᾶσι</w> <w>τοῖς</w> <w>πολίταις</w> <w>συ<unclear>ν</unclear>εβ<unclear>ο</unclear><supplied reason="lost">ύ</supplied>
-                    <lb n="9" break="no"/>λευσαν</w> <w>δεδόχθαι</w> <w>τοῦ</w> <name>Ἀδωνίου</name> <w>τᾶι</w> <w>τετάρται</w> <w>ἱσταμένου</w> <w><unclear>ἁλίαν</unclear></w>
+                    <lb n="5"/><w>τῶν</w> <name><w>Νακων<unclear>α</unclear>ίω<unclear>ν</unclear></w></name> <w>συμφέρει</w> <w>δὲ</w> <w>καὶ</w> <w>ἐς</w> <w>τὸν</w> <w>λοιπὸν</w> <w>χρόνον</w> <w>ὁ<unclear>μ</unclear>ο<unclear>ν</unclear><supplied reason="lost">ο</supplied>
+                    <lb n="6" break="no"/>οῦντας</w> <w>πολιτεύεσθαι</w> <w>πρέσβεις</w> <w>τε</w> <name><w>Ἐγεσταίων</w></name> <w>παργενα<unclear>θέν</unclear>
+                    <lb n="7" break="no"/>τες</w> <name><w>Ἀπέλλ<unclear>ι</unclear>χος</w></name> <name><w>Ἀλείδα</w></name> <name><w>Ἀττικὸς</w></name> <name><w>Πίστωνος</w></name> <name><w>Διονύσιος</w></name> <name><w>Δ<unclear>ε</unclear>κ<supplied reason="lost">ί</supplied>
+                    <lb n="8" break="no"/>ου</w></name> <w>ὑπὲρ</w> <w>τῶν</w> <w>κοινᾶι</w> <w>συμφερόντω<hi rend="stacked">ν</hi></w> <w><hi rend="stacked">π</hi>ᾶσι</w> <w>τοῖς</w> <w>πολίταις</w> <w>συ<unclear>ν</unclear>εβ<unclear>ο</unclear><supplied reason="lost">ύ</supplied>
+                    <lb n="9" break="no"/>λευσαν</w> <w>δεδόχθαι</w> <w>τοῦ</w> <name><w>Ἀδωνίου</w></name> <w>τᾶι</w> <w>τετάρται</w> <w>ἱσταμένου</w> <w><unclear>ἁλίαν</unclear></w>
                     <lb n="10"/><w>τῶμ</w> <w>πολιτᾶν</w> <w>συναγαγεῖν</w> <w>καὶ</w> <w>ὅσσοις</w> <w>ἁ</w> <w>διαφορὰ</w> <w>τῶμ</w> <w>πολιτ<supplied reason="lost">ᾶν</supplied></w>
                     <lb n="11"/><w>γέγονε</w> <w>ὑπὲρ</w> <w>τῶν</w> <w>κοινῶν</w> <w>ἀγωνιζομένοις</w> <w>ἀνακληθέντας</w> <w>ἐς</w>
                     <lb n="12"/><w>τὰν</w> <w>ἁλίαν</w> <w>διάλυσιν</w> <w>ποιήσασθαι</w> <w>αὐτοὺς</w> <w>ποτ᾿</w> <w>αὐτοὺς</w> <w>προγρα
@@ -214,10 +214,10 @@
                     <lb n="28"/><w>θυόντ<unclear>ω</unclear></w> <w>α<unclear>ἶγ</unclear>α</w> <w>λευκάν</w> <w>καὶ</w> <w>τὰ</w> <w>ποτὶ</w> <w>τ<unclear>ὰ</unclear>ν</w> <w>θυσί<unclear>α</unclear>ν</w> <w>ὅσων</w> <w>χρεία</w> <w>ἑστὶ</w>
                     <lb n="29"/><w>ὁ</w> <w>ταμίας</w> <w>παρεχέτω</w> <w>ὁμοίως</w> <w>δὲ</w> <w>καὶ</w> <w>αἱ</w> <w>κατὰ</w> <w>πόδας</w> <w>ἀρχαὶ</w>
                     <lb n="30"/><w>πᾶσαι</w> <w>θυόντω</w> <w>καθ᾿</w> <w>ἕκαστον</w> <w>ἐνιαυτὸν</w> <w>ταύται</w> <w>τᾶι</w> <w>ἁμέ<unclear>ρ</unclear>α<unclear>ι</unclear></w> <w>τοῖ<unclear>ς</unclear></w>
-                    <lb n="31"/><w>γενετόρεσσι</w> <w>καὶ</w> <w>τᾶ<unclear>ι</unclear></w> <name>Ὁμ<unclear>ο</unclear>νο<unclear>ί</unclear>α<unclear>ι</unclear></name> <w>ἱερεῖον</w> <w>ἑκατέροις</w> <w>ὅ</w> <w>κα</w> <w>δοκιμάζ<unclear>ων</unclear>
+                    <lb n="31"/><w>γενετόρεσσι</w> <w>καὶ</w> <w>τᾶ<unclear>ι</unclear></w> <name><w>Ὁμ<unclear>ο</unclear>νο<unclear>ί</unclear>α<unclear>ι</unclear></w></name> <w>ἱερεῖον</w> <w>ἑκατέροις</w> <w>ὅ</w> <w>κα</w> <w>δοκιμάζ<unclear>ων</unclear>
                     <lb n="32" break="no"/>τι</w> <w>καὶ</w> <w>οἱ</w> <w>πολῖται</w> <w>πάντες</w> <w>ἑορταζόντω</w> <w>παρ’</w> <w>ἀλλάλοις</w>
                     <lb n="33"/><w>κατὰ</w> <w>τὰ<hi rend="stacked">ς</hi></w> <w><hi rend="stacked">ἀ</hi>δελφοθετίας</w> <w>τὸ</w> <w>δὲ</w> <w>ἁλίασμα</w> <w>τόδε</w> <w>κολαψάμε
-                    <lb n="34" break="no"/>νοι</w> <w>οἱ</w> <w>ἄρχοντ<choice><corr>ε</corr><sic>ο</sic></choice>ς</w> <w>ές</w> <w>χάλκωμα</w> <w>ές</w> <w>τὸ</w> <w>πρόναον</w> <w>του</w> <name>Διὸς</name> <w><unclear>τοῦ</unclear></w> <name><unclear>Ὀλ</unclear>υμπί<supplied reason="lost">ου</supplied></name>
+                    <lb n="34" break="no"/>νοι</w> <w>οἱ</w> <w>ἄρχοντ<choice><corr>ε</corr><sic>ο</sic></choice>ς</w> <w>ές</w> <w>χάλκωμα</w> <w>ές</w> <w>τὸ</w> <w>πρόναον</w> <w>του</w> <name><w>Διὸς</w></name> <w><unclear>τοῦ</unclear></w> <name><w><unclear>Ὀλ</unclear>υμπί<supplied reason="lost">ου</supplied></w></name>
                     <lb n="35"/><w>ἀναθέντω</w> <space unit="character" extent="unknown"/>
                 </ab>
             </div>

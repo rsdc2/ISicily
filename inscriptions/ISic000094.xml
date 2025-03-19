@@ -189,10 +189,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>M</abbr><ex>arco</ex></expan></w> <g ref="#interpunct">·</g> <name>Cestio</name> <g ref="#interpunct">·</g> <name><expan><abbr>P</abbr><ex>ubli</ex></expan></name> <g ref="#interpunct">·</g> <w><expan><abbr>f</abbr><ex>ilio</ex></expan></w> <g ref="#interpunct">·</g> <name><expan><abbr>Cla</abbr><ex>udia</ex></expan></name> <w><supplied reason="subaudible">tribu</supplied></w>
+                    <lb n="1"/><w><expan><abbr>M</abbr><ex>arco</ex></expan></w> <g ref="#interpunct">·</g> <name><w>Cestio</w></name> <g ref="#interpunct">·</g> <name><w><expan><abbr>P</abbr><ex>ubli</ex></expan></w></name> <g ref="#interpunct">·</g> <w><expan><abbr>f</abbr><ex>ilio</ex></expan></w> <g ref="#interpunct">·</g> <name><w><expan><abbr>Cla</abbr><ex>udia</ex></expan></w></name> <w><supplied reason="subaudible">tribu</supplied></w>
                     <lb n="2"/><roleName type="military" subtype="primipilus"><w>primo<hi rend="tall">i</hi>lo</w> <g ref="#interpunct">·</g> <w>p</w></roleName> <g ref="#interpunct">·</g> <roleName type="military" subtype="praefectus.fabrum"><w><expan><abbr>praef</abbr><ex>ecto</ex></expan></w>
                     <lb n="3"/><w>fabrum</w></roleName> <g ref="#interpunct">·</g> <roleName type="military" subtype="tribunus.militum"><w><expan><abbr>trib</abbr><ex>uno</ex></expan></w> <w><expan><abbr>mil</abbr><ex>itum</ex></expan></w></roleName>
-                    <lb n="4"/><roleName type="civic" subtype="duumvir"><w><expan><abbr><num value="2"><hi rend="supraline">II</hi></num>vir</abbr><ex>o</ex></expan></w></roleName> <g ref="#interpunct">·</g> <w>ex</w> <g ref="#interpunct">·</g> <w><expan><abbr>d</abbr><ex>ecreto</ex></expan></w> <g ref="#interpunct">·</g> <roleName type="civic" subtype="decurio"><w><expan><abbr>d</abbr><ex>ecurionum</ex></expan></w></roleName>
+                    <lb n="4"/><roleName type="civic" subtype="duumvir"><w><expan><abbr><num value="2"><w><hi rend="supraline">II</hi></w></num>vir</abbr><ex>o</ex></expan></w></roleName> <g ref="#interpunct">·</g> <w>ex</w> <g ref="#interpunct">·</g> <w><expan><abbr>d</abbr><ex>ecreto</ex></expan></w> <g ref="#interpunct">·</g> <roleName type="civic" subtype="decurio"><w><expan><abbr>d</abbr><ex>ecurionum</ex></expan></w></roleName>
                 </ab>
             </div>
                 <div type="apparatus">

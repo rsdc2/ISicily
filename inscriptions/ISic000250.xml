@@ -196,7 +196,7 @@
                     <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w>us</w> <w>est</w> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <w>am</w> <w>mu</w> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <w>SIVM</w> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="5"/><w><expan><abbr>d</abbr><ex>efunctus</ex></expan></w> <w><expan><abbr>m</abbr><ex>ensium</ex></expan></w> <num value="11">XI</num>
+                    <lb n="5"/><w><expan><abbr>d</abbr><ex>efunctus</ex></expan></w> <w><expan><abbr>m</abbr><ex>ensium</ex></expan></w> <num value="11"><w>XI</w></num>
                 </ab>
             </div>
             <div type="apparatus">

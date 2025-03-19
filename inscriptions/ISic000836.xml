@@ -189,9 +189,9 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
                     <lb n="1"/><w>ἐνθάδε</w> <w>κεῖτε</w>
-                    <lb n="2"/><name>Ἀγαλματὶς</name> <w>καὶ</w>
-                    <lb n="3"/><name>Τριανὸς</name> <w>δοῦλο<supplied reason="omitted" cert="low">ι</supplied></w>
-                    <lb n="4"/><name>Σοφίας</name> <roleName type="supracivic" subtype="clarissima"><w>λα</w> <w><choice><reg>μ</reg><orig>ω</orig></choice></w> <w>πρ
+                    <lb n="2"/><name><w>Ἀγαλματὶς</w></name> <w>καὶ</w>
+                    <lb n="3"/><name><w>Τριανὸς</w></name> <w>δοῦλο<supplied reason="omitted" cert="low">ι</supplied></w>
+                    <lb n="4"/><name><w>Σοφίας</w></name> <roleName type="supracivic" subtype="clarissima"><w>λα</w> <w><choice><reg>μ</reg><orig>ω</orig></choice></w> <w>πρ
                     <lb n="5" break="no"/></w> <w><supplied reason="lost" cert="low">οτάτης</supplied></w></roleName> <w><supplied reason="lost" cert="low">γυναικός</supplied></w>
                 </ab>
             </div>

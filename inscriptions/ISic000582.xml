@@ -198,9 +198,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
-                    <lb n="1"/><roleName type="supracivic" subtype="imperator"><w><expan><abbr>Imp</abbr><ex>eratori</ex></expan></w></roleName> <g ref="#interpunct">·</g> <name>Caesarei</name> <g ref="#interpunct">·</g>
-                    <lb n="2"/><name>Divi</name> <g ref="#interpunct">·</g> <w><expan><abbr>f</abbr><ex>ilio</ex></expan></w> <g ref="#interpunct">·</g>
-                    <lb n="3"/><name>Augusto</name> <g ref="#interpunct">·</g> <roleName type="supracivic.religious" subtype="pontifex.maximus"><w><expan><abbr>p</abbr><ex>ontifici</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr><unclear>m</unclear></abbr><ex>aximi</ex></expan></w></roleName> <w><supplied reason="lost" cert="low">·</supplied></w>
+                    <lb n="1"/><roleName type="supracivic" subtype="imperator"><w><expan><abbr>Imp</abbr><ex>eratori</ex></expan></w></roleName> <g ref="#interpunct">·</g> <name><w>Caesarei</w></name> <g ref="#interpunct">·</g>
+                    <lb n="2"/><name><w>Divi</w></name> <g ref="#interpunct">·</g> <w><expan><abbr>f</abbr><ex>ilio</ex></expan></w> <g ref="#interpunct">·</g>
+                    <lb n="3"/><name><w>Augusto</w></name> <g ref="#interpunct">·</g> <roleName type="supracivic.religious" subtype="pontifex.maximus"><w><expan><abbr>p</abbr><ex>ontifici</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr><unclear>m</unclear></abbr><ex>aximi</ex></expan></w></roleName> <w><supplied reason="lost" cert="low">·</supplied></w>
                     <lb n="4"/><w>municipium</w>
                 </ab>
             </div>

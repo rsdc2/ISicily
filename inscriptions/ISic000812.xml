@@ -204,11 +204,11 @@
                 </div>
                 <div type="textpart" subtype="section" n="b" xml:lang="grc">
                     <ab>
-                        <lb n="3"/><w>Ἀλπείνιον</w> <name>Μάγνον</name>
+                        <lb n="3"/><w>Ἀλπείνιον</w> <name><w>Μάγνον</w></name>
                         <lb n="4"/><w>τὸν</w> <roleName type="supracivic" subtype="clarissimus"><w>λαμπρότατον</w></roleName> <roleName type="supracivic" subtype="consularis"><w><expan><abbr>ὑπατ</abbr><ex>ικὸν</ex></expan></w></roleName>
                         <lb n="5"/><w>καὶ</w> <w>ἁγνότατον</w> <roleName type="civic" subtype="dikastes"><w>δικαστὴν</w></roleName>
                         <lb n="6"/><w>βουλὴ</w> <w>καὶ</w> <w>δῆμος</w>
-                        <lb n="7"/><name>Λιλυβαειτῶν</name> <w>διὰ</w> <w>τὰς</w>
+                        <lb n="7"/><name><w>Λιλυβαειτῶν</w></name> <w>διὰ</w> <w>τὰς</w>
                         <lb n="8"/><w>περὶ</w> <w>τὴν</w> <w>πατρίδα</w>
                         <lb n="9"/><w>εὐεργεσίας</w> <w>τὸν</w>
                         <lb n="10"/><roleName type="paracivic" subtype="patron"><w>πάτρωνα</w></roleName> <w><choice><orig>ἠμίψατο</orig><reg>ἠμείψατο</reg></choice></w>

@@ -193,8 +193,8 @@
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
                     <lb n="1"/><w>Osiae</w> <g ref="#interpunct">·</g>
-                    <lb n="2"/><w><expan><abbr>vix</abbr><ex>it</ex></expan></w> <g ref="#interpunct">·</g> <w><surplus>a</surplus></w> <g ref="#interpunct">·</g> <w><choice><reg>anu</reg><orig>anno</orig></choice></w> <g ref="#interpunct">·</g> <num value="1">1</num> <g ref="#interpunct">·</g>
-                    <lb n="3"/><w><choice><orig>mexe</orig><reg>mensibus</reg></choice></w> <num value="9">VIIII</num>
+                    <lb n="2"/><w><expan><abbr>vix</abbr><ex>it</ex></expan></w> <g ref="#interpunct">·</g> <w><surplus>a</surplus></w> <g ref="#interpunct">·</g> <w><choice><reg>anu</reg><orig>anno</orig></choice></w> <g ref="#interpunct">·</g> <num value="1"><w>1</w></num> <g ref="#interpunct">·</g>
+                    <lb n="3"/><w><choice><orig>mexe</orig><reg>mensibus</reg></choice></w> <num value="9"><w>VIIII</w></num>
                 </ab>
             </div>
             <div type="apparatus">

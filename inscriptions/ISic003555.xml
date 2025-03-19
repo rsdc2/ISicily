@@ -186,8 +186,8 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
                     <lb n="1"/><g ref="#alpha">Α</g>
-                    <lb n="2"/><w>Ἰησοῦς</w> <name>Χριστὸς</name> <w>θεοῦ</w>
-                    <lb n="3"/><w>υἱὸς</w> <name>Σωτὴρ</name> <w>καὶ</w>
+                    <lb n="2"/><w>Ἰησοῦς</w> <name><w>Χριστὸς</w></name> <w>θεοῦ</w>
+                    <lb n="3"/><w>υἱὸς</w> <name><w>Σωτὴρ</w></name> <w>καὶ</w>
                     <lb n="4"/><w>σταυρωθε<supplied reason="lost">ίς</supplied></w>
                     <lb n="5"/><g ref="#omega">Ω</g>
                 </ab>

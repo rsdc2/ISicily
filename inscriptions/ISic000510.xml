@@ -195,13 +195,13 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#GC">
                 <ab>
-                    <lb n="1"/><roleName type="supracivic" subtype="imperator"><w><expan><abbr><supplied reason="lost">I</supplied>mp</abbr><ex>eratori</ex></expan></w></roleName> <g ref="#interpunct">·</g> <name>Caesari</name>
-                    <lb n="2"/><roleName type="supracivic" subtype="dominus"><w><expan><abbr>d</abbr><ex>omino</ex></expan></w></roleName> <w><expan><abbr>n</abbr><ex>ostro</ex></expan></w> <name><expan><abbr>Fl</abbr><ex>avio</ex></expan></name> <name>Valenti</name>
-                    <lb n="3"/><name>Pio</name> <name>Felici</name> <w>semper</w>
-                    <lb n="4"/><name>Augusto</name>
-                    <lb n="5"/><name><expan><abbr>M</abbr><ex>arcus</ex></expan></name> <g ref="#interpunct">·</g> <name>Valerius</name>
-                    <lb n="6"/><name>Quintianus</name>
-                    <lb n="7"/><w><expan><abbr>v</abbr><ex>ir</ex></expan></w> <g ref="#interpunct">·</g> <roleName type="supracivic" subtype="clarissimus"><w><expan><abbr>c</abbr><ex>larissimus</ex></expan></w></roleName> <g ref="#interpunct">·</g> <roleName type="supracivic" subtype="consularis"><w><expan><abbr>cons</abbr><ex>ularis</ex></expan></w></roleName> <g ref="#interpunct">·</g> <w><expan><abbr>p</abbr><ex>rovinciae</ex></expan></w> <g ref="#interpunct">·</g> <name><expan><abbr>S</abbr><ex>iciliae</ex></expan></name>
+                    <lb n="1"/><roleName type="supracivic" subtype="imperator"><w><expan><abbr><supplied reason="lost">I</supplied>mp</abbr><ex>eratori</ex></expan></w></roleName> <g ref="#interpunct">·</g> <name><w>Caesari</w></name>
+                    <lb n="2"/><roleName type="supracivic" subtype="dominus"><w><expan><abbr>d</abbr><ex>omino</ex></expan></w></roleName> <w><expan><abbr>n</abbr><ex>ostro</ex></expan></w> <name><w><expan><abbr>Fl</abbr><ex>avio</ex></expan></w></name> <name><w>Valenti</w></name>
+                    <lb n="3"/><name><w>Pio</w></name> <name><w>Felici</w></name> <w>semper</w>
+                    <lb n="4"/><name><w>Augusto</w></name>
+                    <lb n="5"/><name><w><expan><abbr>M</abbr><ex>arcus</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w>Valerius</w></name>
+                    <lb n="6"/><name><w>Quintianus</w></name>
+                    <lb n="7"/><w><expan><abbr>v</abbr><ex>ir</ex></expan></w> <g ref="#interpunct">·</g> <roleName type="supracivic" subtype="clarissimus"><w><expan><abbr>c</abbr><ex>larissimus</ex></expan></w></roleName> <g ref="#interpunct">·</g> <roleName type="supracivic" subtype="consularis"><w><expan><abbr>cons</abbr><ex>ularis</ex></expan></w></roleName> <g ref="#interpunct">·</g> <w><expan><abbr>p</abbr><ex>rovinciae</ex></expan></w> <g ref="#interpunct">·</g> <name><w><expan><abbr>S</abbr><ex>iciliae</ex></expan></w></name>
                     <lb n="8"/><w>clementiae</w>
                     <lb n="9"/><w>pietatisque</w> <w>eius</w>
                     <lb n="10"/><w>semper</w> <w>dicatis

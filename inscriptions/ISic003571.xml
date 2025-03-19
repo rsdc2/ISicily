@@ -224,8 +224,8 @@
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">La</supplied>pironi</w>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <roleName type="military" subtype="praefectus.fabrum"><w><expan><abbr><supplied reason="lost">pr</supplied>aef</abbr><ex>ecto</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>fabr</abbr><ex>um</ex></expan></w></roleName> <g ref="#interpunct">·</g> <num value="10"><hi rend="supraline">X</hi></num>
-                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost" cert="low"><roleName type="civic.religious" subtype="flamen">flamini</roleName></supplied></w> <name><supplied reason="lost">Aug</supplied>usti</name> <g ref="#interpunct">·</g> <name>Caesaris</name>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <roleName type="military" subtype="praefectus.fabrum"><w><expan><abbr><supplied reason="lost">pr</supplied>aef</abbr><ex>ecto</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>fabr</abbr><ex>um</ex></expan></w></roleName> <g ref="#interpunct">·</g> <num value="10"><w><hi rend="supraline">X</hi></w></num>
+                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost" cert="low"><roleName type="civic.religious" subtype="flamen">flamini</roleName></supplied></w> <name><w><supplied reason="lost">Aug</supplied>usti</w></name> <g ref="#interpunct">·</g> <name><w>Caesaris</w></name>
                     <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost" cert="low">perpet</supplied><unclear>u</unclear>o<space unit="character" quantity="10"/></w>
                     <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">pecu</supplied>nia</w> <g ref="#interpunct">·</g> <w>publica</w>
                 </ab>

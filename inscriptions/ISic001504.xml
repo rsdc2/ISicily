@@ -196,10 +196,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#AL">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name type="praenomen">Κύϊντος</name>
-                    <lb n="2"/><name type="nomen">Βαλέριος</name> <name type="cognomen">Νί
-                    <lb n="3" break="no"/>γερ</name> <persName type="attested"><name type="patronym">Ἀρτεμι
-                    <lb n="4" break="no"/>σίου</name></persName> <w>υ
+                    <lb n="1"/><persName type="attested"><name type="praenomen"><w>Κύϊντος</w></name>
+                    <lb n="2"/><name type="nomen"><w>Βαλέριος</w></name> <name type="cognomen"><w>Νί
+                    <lb n="3" break="no"/>γερ</w></name> <persName type="attested"><name type="patronym"><w>Ἀρτεμι
+                    <lb n="4" break="no"/>σίου</w></name></persName> <w>υ
                     <lb n="5" break="no"/>ἱός</w></persName>
                 </ab>
             </div>

@@ -187,7 +187,7 @@
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="undefined" evidence="previouseditor">IO</supplied></w> <w><supplied reason="undefined" evidence="previouseditor">VII</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <name><supplied reason="lost">Ca</supplied>ecilia</name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <name><w><supplied reason="lost">Ca</supplied>ecilia</w></name> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <w>iss<unclear>im</unclear>a</w> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>

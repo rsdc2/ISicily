@@ -191,8 +191,8 @@
             <div type="edition" xml:space="preserve" xml:lang="la">
                 <ab>
                     <lb n="1"/><gap reason="illegible" quantity="1" unit="character"/> <w>anllius</w>
-                    <lb n="2"/><name><expan><abbr>Sp</abbr><ex>uri</ex></expan></name> <g ref="#interpunct">·</g> <w><expan><abbr>f</abbr><ex>ilius</ex></expan></w> <g ref="#interpunct">·</g> <name><expan><abbr>Fal</abbr><ex>erna tribu</ex></expan></name>
-                    <lb n="3"/><name>Rufus</name>
+                    <lb n="2"/><name><w><expan><abbr>Sp</abbr><ex>uri</ex></expan></w></name> <g ref="#interpunct">·</g> <w><expan><abbr>f</abbr><ex>ilius</ex></expan></w> <g ref="#interpunct">·</g> <name><w><expan><abbr>Fal</abbr><ex>erna tribu</ex></expan></w></name>
+                    <lb n="3"/><name><w>Rufus</w></name>
                 </ab>
             </div>
             <div type="apparatus">

@@ -197,8 +197,8 @@
                 <ab>
                     <lb n="0a"/><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <orig>A</orig>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="attested"><name><supplied reason="lost" cert="low">Ἰο</supplied>υλι
-                    <lb n="3" break="no"/><gap reason="lost" extent="unknown" unit="character"/></name></persName> <w><supplied reason="lost" cert="low">ἒζησ</supplied>εν</w>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="attested"><name><w><supplied reason="lost" cert="low">Ἰο</supplied>υλι
+                    <lb n="3" break="no"/><gap reason="lost" extent="unknown" unit="character"/></w></name></persName> <w><supplied reason="lost" cert="low">ἒζησ</supplied>εν</w>
                     <lb n="0b"/><gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>

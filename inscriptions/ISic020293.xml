@@ -176,7 +176,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="xly-Grek">
                 <ab>
-                    <lb n="1"/><w>ΚΕΛΕΤ</w> <name><hi rend="tall"><unclear>Α</unclear></hi></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><w>ΚΕΛΕΤ</w> <name><w><hi rend="tall"><unclear>Α</unclear></hi></w></name> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>
             <div type="edition" xml:space="preserve" subtype="transliteration" xml:lang="xly-Latn">

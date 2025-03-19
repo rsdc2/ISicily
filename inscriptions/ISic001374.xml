@@ -191,9 +191,9 @@
                     <lb n="1"/><w><supplied reason="lost">ἐνθάδε</supplied></w> <w><supplied reason="lost">κατάκεινται</supplied></w>
                     <lb n="2"/><w><supplied reason="lost">ἡ</supplied></w> <w><supplied reason="lost">μακαρία</supplied>ς</w> <w>μνήμης</w>
                     <lb n="3"/><gap reason="lost" extent="unknown" unit="character"><desc>female name</desc></gap> <w><supplied reason="lost">διὰ</supplied></w> <w>καλοῦ</w> <w>βίου</w>
-                    <lb n="4"/><w><supplied reason="lost">ἐλθοῦσα</supplied></w> <w><supplied reason="lost"><expan><abbr>κ</abbr><ex>αὶ</ex></expan></supplied></w> <name><supplied reason="lost">Ἰο</supplied>ῦστος</name> <w>πιστός</w>
-                    <lb n="5"/><w><supplied reason="lost">ἠγόρασαν</supplied></w> <w>παρὰ</w> <name>Ἀλε
-                    <lb n="6" break="no"/><supplied reason="lost">ξάνδρου</supplied></name> <w><supplied reason="lost">εὐ</supplied>μοιρειτῶν</w>
+                    <lb n="4"/><w><supplied reason="lost">ἐλθοῦσα</supplied></w> <w><supplied reason="lost"><expan><abbr>κ</abbr><ex>αὶ</ex></expan></supplied></w> <name><w><supplied reason="lost">Ἰο</supplied>ῦστος</w></name> <w>πιστός</w>
+                    <lb n="5"/><w><supplied reason="lost">ἠγόρασαν</supplied></w> <w>παρὰ</w> <name><w>Ἀλε
+                    <lb n="6" break="no"/><supplied reason="lost">ξάνδρου</supplied></w></name> <w><supplied reason="lost">εὐ</supplied>μοιρειτῶν</w>
                 </ab>
             </div>
             <div type="apparatus" resp="#JP">

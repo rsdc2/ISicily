@@ -179,10 +179,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1"/><w>Ιμυλχ</w> <name><supplied reason="lost" evidence="previouseditor">Ιμι</supplied>λχωνος</name>
-                    <lb n="2"/><name>Ινιβαλος</name> <name>Χλωρὸς</name> <w>ξενίαν</w>
-                    <lb n="3"/><w>ἐποήσατο</w> <w>πρὸς</w> <name>Λύσων</name>
-                    <lb n="4"/><name>Διογνήτου</name> <w>καὶ</w> <w>τῶν</w> <w>ἐγγόνων</w>
+                    <lb n="1"/><w>Ιμυλχ</w> <name><w><supplied reason="lost" evidence="previouseditor">Ιμι</supplied>λχωνος</w></name>
+                    <lb n="2"/><name><w>Ινιβαλος</w></name> <name><w>Χλωρὸς</w></name> <w>ξενίαν</w>
+                    <lb n="3"/><w>ἐποήσατο</w> <w>πρὸς</w> <name><w>Λύσων</w></name>
+                    <lb n="4"/><name><w>Διογνήτου</w></name> <w>καὶ</w> <w>τῶν</w> <w>ἐγγόνων</w>
                 </ab>
             </div>
             <div type="apparatus" resp="#JP">

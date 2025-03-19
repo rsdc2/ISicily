@@ -198,8 +198,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#SS">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name>Ἀπολλόδω
-                    <lb n="2" break="no"/>ρε</name></persName> <w>χρηστὲ</w>
+                    <lb n="1"/><persName type="attested"><name><w>Ἀπολλόδω
+                    <lb n="2" break="no"/>ρε</w></name></persName> <w>χρηστὲ</w>
                     <lb n="3"/><w>χαῖρε</w>
                 </ab>
             </div>

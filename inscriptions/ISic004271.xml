@@ -178,12 +178,12 @@
         <body>
             <div type="edition" xml:space="preserve" subtype="PHI" n="PHI334868">
                 <ab>
-                    <lb n="1"/><w>Dis</w> <name><expan><abbr>Manib</abbr><ex>us</ex></expan></name>
-                    <lb n="2"/><name>Aphrodisi</name> <w><unclear>a</unclear></w> <name><supplied reason="lost">— —</supplied></name>
-                    <lb n="3"/><name>Sozomen</name> <name><supplied reason="lost">— —</supplied></name>
-                    <lb n="4"/><orig>DOM</orig><name><supplied reason="lost">— — — —</supplied></name>
-                    <lb n="5"/><name>S#⁷</name> <name><supplied reason="lost">— — — — —</supplied></name>
-                    <lb n="6"/><name><supplied reason="lost">— — — — — —</supplied></name>
+                    <lb n="1"/><w>Dis</w> <name><w><expan><abbr>Manib</abbr><ex>us</ex></expan></w></name>
+                    <lb n="2"/><name><w>Aphrodisi</w></name> <w><unclear>a</unclear></w> <name><w><supplied reason="lost">— —</supplied></w></name>
+                    <lb n="3"/><name><w>Sozomen</w></name> <name><w><supplied reason="lost">— —</supplied></w></name>
+                    <lb n="4"/><orig>DOM</orig><name><w><supplied reason="lost">— — — —</supplied></w></name>
+                    <lb n="5"/><name><w>S#⁷</w></name> <name><w><supplied reason="lost">— — — — —</supplied></w></name>
+                    <lb n="6"/><name><w><supplied reason="lost">— — — — — —</supplied></w></name>
                     <lb n="7"/>
                 </ab>
             </div>

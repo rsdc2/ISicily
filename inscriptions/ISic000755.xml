@@ -194,8 +194,8 @@
                 <ab>
                     <gap reason="lost" quantity="2" unit="line"/>
                     <lb n="1"/><w>Dis</w> <w>Co<unclear>n</unclear><supplied reason="lost">sentibus et Laribus</supplied></w>
-                    <lb n="2"/><name><supplied reason="lost">Au</supplied>gustis</name> <space extent="unknown" unit="character"/><name><expan><abbr><supplied reason="lost">I</supplied><unclear>m</unclear>p</abbr><ex>eratori</ex></expan></name> <name>Co<supplied reason="lost">mmodo</supplied></name> <supplied reason="lost"><num value="3">III</num></supplied>
-                    <lb n="3"/><w><supplied reason="lost">et</supplied></w> <name><supplied reason="lost">A</supplied>ntistio</name> <name>Byrro</name> <w><supplied reason="lost"><roleName type="supracivic" subtype="consul"><expan><abbr>co</abbr><ex>n</ex><abbr>s</abbr><ex>ulibu</ex><abbr>s</abbr></expan></roleName></supplied></w>
+                    <lb n="2"/><name><w><supplied reason="lost">Au</supplied>gustis</w></name> <space extent="unknown" unit="character"/><name><w><expan><abbr><supplied reason="lost">I</supplied><unclear>m</unclear>p</abbr><ex>eratori</ex></expan></w></name> <name><w>Co<supplied reason="lost">mmodo</supplied></w></name> <supplied reason="lost"><num value="3"><w>III</w></num></supplied>
+                    <lb n="3"/><w><supplied reason="lost">et</supplied></w> <name><w><supplied reason="lost">A</supplied>ntistio</w></name> <name><w>Byrro</w></name> <w><supplied reason="lost"><roleName type="supracivic" subtype="consul"><expan><abbr>co</abbr><ex>n</ex><abbr>s</abbr><ex>ulibu</ex><abbr>s</abbr></expan></roleName></supplied></w>
                 </ab>
             </div>
             <div type="apparatus">

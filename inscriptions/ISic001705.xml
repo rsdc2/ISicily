@@ -170,7 +170,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
-                    <lb n="1"/><w>municipium</w> <name>Alaesinum</name>
+                    <lb n="1"/><w>municipium</w> <name><w>Alaesinum</w></name>
                 </ab>
             </div>
             <div type="apparatus">

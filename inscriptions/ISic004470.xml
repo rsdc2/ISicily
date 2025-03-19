@@ -183,7 +183,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name><supplied reason="lost" cert="low">Ἀγαθ</supplied><unclear>ω</unclear>πος</name></persName> <w>χα<unclear>ῖρ</unclear><supplied reason="lost" cert="low">ε</supplied></w>
+                    <lb n="1"/><persName type="attested"><name><w><supplied reason="lost" cert="low">Ἀγαθ</supplied><unclear>ω</unclear>πος</w></name></persName> <w>χα<unclear>ῖρ</unclear><supplied reason="lost" cert="low">ε</supplied></w>
                     <lb n="2"/><gap reason="lost" extent="unknown" unit="character" cert="low"/> <orig>ΡΑ</orig><w>ἐνθάδε</w>
                     <lb n="3"/><w>κέτε</w>
                 </ab>

@@ -193,12 +193,12 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM #JP">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name>Ζώσιμε</name></persName> <w>χρηστὲ</w> <w>καὶ</w>
+                    <lb n="1"/><persName type="attested"><name><w>Ζώσιμε</w></name></persName> <w>χρηστὲ</w> <w>καὶ</w>
                     <lb n="2"/><w>ἄμενπτε</w> <w>χαῖρε</w>
                     <lb n="3"/><w>ἔζησας</w> <w>ἔτη</w>
-                    <lb n="4"/><g ref="#interpunct">·</g> <num value="14">ιδ</num> <g ref="#interpunct">·</g>
-                    <lb n="5"/><w>μῆνας</w> <num value="5">πέντε</num>
-                    <lb n="6"/><g ref="#interpunct">·</g> <num value="1">μίαν</num> <w>ἡμέραν</w> <g ref="#interpunct">·</g>
+                    <lb n="4"/><g ref="#interpunct">·</g> <num value="14"><w>ιδ</w></num> <g ref="#interpunct">·</g>
+                    <lb n="5"/><w>μῆνας</w> <num value="5"><w>πέντε</w></num>
+                    <lb n="6"/><g ref="#interpunct">·</g> <num value="1"><w>μίαν</w></num> <w>ἡμέραν</w> <g ref="#interpunct">·</g>
                 </ab>
             </div>
             <div type="apparatus" resp="#JP">

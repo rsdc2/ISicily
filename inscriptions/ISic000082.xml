@@ -195,8 +195,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>M</abbr><ex>assa</ex></expan></w> <name><expan><abbr>Pician</abbr><ex>ensis</ex></expan></name>
-                    <lb n="2"/><name><supplied reason="lost">P</supplied>etri</name> <w><expan><abbr>bac</abbr><ex>u</ex><abbr>l</abbr><ex>um</ex></expan></w> <name>.</name>
+                    <lb n="1"/><w><expan><abbr>M</abbr><ex>assa</ex></expan></w> <name><w><expan><abbr>Pician</abbr><ex>ensis</ex></expan></w></name>
+                    <lb n="2"/><name><w><supplied reason="lost">P</supplied>etri</w></name> <w><expan><abbr>bac</abbr><ex>u</ex><abbr>l</abbr><ex>um</ex></expan></w> <name><w>.</w></name>
                 </ab>
             </div>
             <div type="apparatus">

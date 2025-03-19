@@ -196,7 +196,7 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#martaf #AA">
                 <ab>
                     <lb n="1"/><w>Κυρία</w>
-                    <lb n="2"/><persName type="attested"><name>Ἐ<choice><corr>λ</corr><sic>ν</sic></choice>πιδία</name></persName>
+                    <lb n="2"/><persName type="attested"><name><w>Ἐ<choice><corr>λ</corr><sic>ν</sic></choice>πιδία</w></name></persName>
                     <lb n="3"/><w>εὐψύχει</w>
                 </ab>
             </div>

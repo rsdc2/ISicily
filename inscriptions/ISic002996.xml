@@ -199,12 +199,12 @@
                     <lb n="1"/><w>Π
                     <lb n="2" break="no"/>αίδ
                     <lb n="3" break="no"/>εσσι</w> <w>κ
-                    <lb n="4" break="no"/><supplied reason="lost">αὶ</supplied></w> <name><supplied reason="lost">Ἄννᾳ</supplied></name>
+                    <lb n="4" break="no"/><supplied reason="lost">αὶ</supplied></w> <name><w><supplied reason="lost">Ἄννᾳ</supplied></w></name>
                     <lb n="5"/><w>ἐπὶ</w> <w>ἀμφι
                     <lb n="6" break="no"/>πόλου</w> <w>τᾶ
-                    <lb n="7" break="no"/>ν</w> <name>Παίδων</name>
-                    <lb n="8"/><w>καὶ</w> <w>τᾶς</w> <name>Ἄ
-                    <lb n="9" break="no"/>ννας</name>
+                    <lb n="7" break="no"/>ν</w> <name><w>Παίδων</w></name>
+                    <lb n="8"/><w>καὶ</w> <w>τᾶς</w> <name><w>Ἄ
+                    <lb n="9" break="no"/>ννας</w></name>
                     <lb n="10"/><orig>ΑΠ</orig><gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>

@@ -191,19 +191,19 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#VM">
                 <ab>
-                    <lb n="1"/><w>Dum</w> <w>esset</w> <roleName type="civic.religious" subtype="sacerdos.syriae.deae"><w>sacerdos</w> <name>Syriae</name> <w>deae</w></roleName>
-                    <lb n="2"/><name>Tiberius</name> <name>Tiberii</name> <w><expan><abbr>f</abbr><ex>ilius</ex></expan></w>
-                    <lb n="3"/><roleName type="civic.religious" subtype="pontifex"><w>pontifex</w></roleName> <w><expan><abbr>fil</abbr><ex>ius</ex></expan></w> <name>Dapsili</name>
-                    <lb n="4"/><name>Amphilobi</name> <w>vero</w> <name>Paeadia</name> <w>qui</w> <w>fuit</w> <name>Theodori</name> <w>qui</w> <w>fuit</w>
-                    <lb n="5"/><name>Morrecini</name> <w>qui</w> <w>iusta</w> <w>fecere</w>
-                    <lb n="6"/><roleName type="civic.religious" subtype="praeses"><w>praesides</w></roleName> <name>Syriae</name> <w>deae</w> <w>singulis</w> <w>annis</w>
-                    <lb n="7"/><name><expan><abbr>P</abbr><ex>ublius</ex></expan></name> <w>plonus</w> <name><expan><abbr>P</abbr><ex>ubli</ex></expan></name> <w>filius</w>
-                    <lb n="8"/><name><expan><abbr>M</abbr><ex>arcus</ex></expan></name> <name>Pomponius</name> <w>di</w> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="9"/><name><expan><abbr>L</abbr><ex>ucius</ex></expan></name> <name>Lucinius</name> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="10"/><name><expan><abbr>L</abbr><ex>ucius</ex></expan></name> <name>Octavius</name> <name>L</name> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="11"/><name><expan><abbr>T</abbr><ex>itus</ex></expan></name> <name>Phaecius</name> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="12"/><name>Attale</name> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="13"/><name>Eutich</name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><w>Dum</w> <w>esset</w> <roleName type="civic.religious" subtype="sacerdos.syriae.deae"><w>sacerdos</w> <name><w>Syriae</w></name> <w>deae</w></roleName>
+                    <lb n="2"/><name><w>Tiberius</w></name> <name><w>Tiberii</w></name> <w><expan><abbr>f</abbr><ex>ilius</ex></expan></w>
+                    <lb n="3"/><roleName type="civic.religious" subtype="pontifex"><w>pontifex</w></roleName> <w><expan><abbr>fil</abbr><ex>ius</ex></expan></w> <name><w>Dapsili</w></name>
+                    <lb n="4"/><name><w>Amphilobi</w></name> <w>vero</w> <name><w>Paeadia</w></name> <w>qui</w> <w>fuit</w> <name><w>Theodori</w></name> <w>qui</w> <w>fuit</w>
+                    <lb n="5"/><name><w>Morrecini</w></name> <w>qui</w> <w>iusta</w> <w>fecere</w>
+                    <lb n="6"/><roleName type="civic.religious" subtype="praeses"><w>praesides</w></roleName> <name><w>Syriae</w></name> <w>deae</w> <w>singulis</w> <w>annis</w>
+                    <lb n="7"/><name><w><expan><abbr>P</abbr><ex>ublius</ex></expan></w></name> <w>plonus</w> <name><w><expan><abbr>P</abbr><ex>ubli</ex></expan></w></name> <w>filius</w>
+                    <lb n="8"/><name><w><expan><abbr>M</abbr><ex>arcus</ex></expan></w></name> <name><w>Pomponius</w></name> <w>di</w> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="9"/><name><w><expan><abbr>L</abbr><ex>ucius</ex></expan></w></name> <name><w>Lucinius</w></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="10"/><name><w><expan><abbr>L</abbr><ex>ucius</ex></expan></w></name> <name><w>Octavius</w></name> <name><w>L</w></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="11"/><name><w><expan><abbr>T</abbr><ex>itus</ex></expan></w></name> <name><w>Phaecius</w></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="12"/><name><w>Attale</w></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="13"/><name><w>Eutich</w></name> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>
             <div type="apparatus">

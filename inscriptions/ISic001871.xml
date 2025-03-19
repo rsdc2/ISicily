@@ -204,11 +204,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name>Γαμική</name></persName> <w>χρη
+                    <lb n="1"/><persName type="attested"><name><w>Γαμική</w></name></persName> <w>χρη
                     <lb n="2" break="no"/>στὰ</w> <w>καὶ</w> <w>ἄ
                     <lb n="3" break="no"/>μεμπτε</w>
                     <lb n="4"/><w>χαῖρε</w> <space unit="character" quantity="1"/><w>ἔζη
-                    <lb n="5" break="no"/>σε</w> <space unit="character" quantity="1"/><w>ἔτη</w> <num value="26">κς</num>
+                    <lb n="5" break="no"/>σε</w> <space unit="character" quantity="1"/><w>ἔτη</w> <num value="26"><w>κς</w></num>
                 </ab>
             </div>
             <div type="apparatus" resp="#JP">

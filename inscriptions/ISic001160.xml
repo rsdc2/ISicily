@@ -194,9 +194,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM #AA">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name>Ζώπυρε</name></persName>
-                    <lb n="2"/><persName type="attested"><name type="patronym">Ἀρτέμωνος</name></persName>
-                    <lb n="3"/><name>Ὠκιδία</name> <w>χαῖρε</w>
+                    <lb n="1"/><persName type="attested"><name><w>Ζώπυρε</w></name></persName>
+                    <lb n="2"/><persName type="attested"><name type="patronym"><w>Ἀρτέμωνος</w></name></persName>
+                    <lb n="3"/><name><w>Ὠκιδία</w></name> <w>χαῖρε</w>
                 </ab>
             </div>
             <div type="apparatus">

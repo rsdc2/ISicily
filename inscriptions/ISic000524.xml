@@ -193,7 +193,7 @@
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#GC">
                 <ab>
                     <lb n="1"/><gap reason="lost" quantity="4" unit="character"/> <w>rus</w>
-                    <lb n="2"/><name>Flaviae</name>
+                    <lb n="2"/><name><w>Flaviae</w></name>
                     <lb n="3"/><w>bene</w> <w>mer<supplied reason="lost">enti</supplied></w>
                 </ab>
             </div>

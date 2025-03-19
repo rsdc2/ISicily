@@ -194,12 +194,12 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <g ref="#ivy-leaf"/> <name><expan><abbr>M</abbr><ex>anibus</ex></expan></name> <g ref="#ivy-leaf"/>
-                    <lb n="2"/><name>Er<hi rend="apex">o</hi>ti</name> <g ref="#interpunct">·</g> <name>Iuni</name> <g ref="#interpunct">·</g> <name>Iuli<hi rend="apex">a</hi>ni</name> <roleName type="supracivic" subtype="proconsul"><w>pro</w>
+                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <g ref="#ivy-leaf"/> <name><w><expan><abbr>M</abbr><ex>anibus</ex></expan></w></name> <g ref="#ivy-leaf"/>
+                    <lb n="2"/><name><w>Er<hi rend="apex">o</hi>ti</w></name> <g ref="#interpunct">·</g> <name><w>Iuni</w></name> <g ref="#interpunct">·</g> <name><w>Iuli<hi rend="apex">a</hi>ni</w></name> <roleName type="supracivic" subtype="proconsul"><w>pro</w>
                     <lb n="3"/><w><expan><abbr>c<hi rend="apex">o</hi></abbr><ex>n</ex><abbr>s</abbr><ex>ulis</ex></expan></w></roleName> <g ref="#interpunct">·</g> <w><expan><abbr>ser</abbr><ex>vo</ex></expan></w> <w>cubiculari<hi rend="apex">o</hi></w>
-                    <lb n="4"/><name>Iunius</name> <name>Alcibiades</name> <w>bene</w>
+                    <lb n="4"/><name><w>Iunius</w></name> <name><w>Alcibiades</w></name> <w>bene</w>
                     <lb n="5"/><w>merenti</w> <w>f<hi rend="apex">e</hi>cit</w>
-                    <lb n="6"/><w>vixit</w> <g ref="#interpunct">·</g> <w>annis</w> <g ref="#interpunct">·</g> <num value="20"><hi rend="supraline">XX</hi></num>
+                    <lb n="6"/><w>vixit</w> <g ref="#interpunct">·</g> <w>annis</w> <g ref="#interpunct">·</g> <num value="20"><w><hi rend="supraline">XX</hi></w></num>
                 </ab>
             </div>
             <div type="apparatus">

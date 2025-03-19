@@ -185,8 +185,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#DEE">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name type="praenomen"><expan><abbr>C</abbr><ex>aius</ex></expan></name> <g ref="#interpunct">·</g> <name type="nomen">Publicius</name> <name type="cognomen">Clarus</name>
-                    <lb n="2"/><name type="supernomen.cognomen">Auctus</name></persName>
+                    <lb n="1"/><persName type="attested"><name type="praenomen"><w><expan><abbr>C</abbr><ex>aius</ex></expan></w></name> <g ref="#interpunct">·</g> <name type="nomen"><w>Publicius</w></name> <name type="cognomen"><w>Clarus</w></name>
+                    <lb n="2"/><name type="supernomen.cognomen"><w>Auctus</w></name></persName>
                 </ab>
             </div>
             <div type="apparatus">

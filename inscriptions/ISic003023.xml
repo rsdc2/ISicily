@@ -188,7 +188,7 @@
         <body>
             <div type="edition" xml:space="preserve" subtype="PHI" n="PHI332346">
                 <ab>
-                    <lb n="1"/><w>Νυμφόδωρος</w> <w>κεχαρισμένα</w> <w><supplied reason="lost">ν</supplied></w> <name><surplus>²piscis</surplus>²</name> <w>ταριχ<supplied reason="lost">ο</supplied>πώλας</w> <w><supplied reason="lost">ἐ</supplied>πύγιζε</w> <name>Δάμυλιν.</name>
+                    <lb n="1"/><w>Νυμφόδωρος</w> <w>κεχαρισμένα</w> <w><supplied reason="lost">ν</supplied></w> <name><w><surplus>²piscis</surplus>²</w></name> <w>ταριχ<supplied reason="lost">ο</supplied>πώλας</w> <w><supplied reason="lost">ἐ</supplied>πύγιζε</w> <name><w>Δάμυλιν.</w></name>
                     <lb n="2"/>
                 </ab>
             </div>

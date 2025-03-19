@@ -197,12 +197,12 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#martaf">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>Θ</abbr><ex>εοῖς</ex></expan></w> <g ref="#ivy-leaf">❦</g> <name><expan><abbr>Κ</abbr><ex>αταχθονίοις</ex></expan></name> <g ref="#ivy-leaf">❦</g>
-                    <lb n="2"/><persName type="attested"><name>Πεσκένν<hi rend="tall">ι</hi>ς</name>
-                    <lb n="3"/><name>Καλάτιχος</name></persName> <g ref="#ivy-leaf">❦</g> <w>ἔζη
-                    <lb n="4" break="no"/>σεν</w> <g ref="#ivy-leaf">❦</g> <w><choice><corr>ἔ</corr><sic>σ</sic></choice>τη</w> <g ref="#ivy-leaf"/> <num value="73">ο <g ref="#ivy-leaf">❦</g>γ</num> <g ref="#ivy-leaf">❦</g> <w><expan><abbr>μ</abbr><ex>ῆνας</ex></expan></w> <num value="3">γ</num> <g ref="#ivy-leaf">❦</g>
-                    <lb n="5"/><persName type="attested"><name>Πεσκ<choice><corr>ε</corr><sic>σ</sic></choice>ννί<choice><corr>α</corr><sic>λ</sic></choice></name> <g ref="#ivy-leaf">❦</g>
-                    <lb n="6"/><name>Γ<choice><corr>α</corr><sic>λ</sic></choice>μι·κὴ</name></persName> <g ref="#long-vertical-bar">|</g> <w><choice><corr>ἀ</corr><sic>χ</sic></choice>νδρί</w>
+                    <lb n="1"/><w><expan><abbr>Θ</abbr><ex>εοῖς</ex></expan></w> <g ref="#ivy-leaf">❦</g> <name><w><expan><abbr>Κ</abbr><ex>αταχθονίοις</ex></expan></w></name> <g ref="#ivy-leaf">❦</g>
+                    <lb n="2"/><persName type="attested"><name><w>Πεσκένν<hi rend="tall">ι</hi>ς</w></name>
+                    <lb n="3"/><name><w>Καλάτιχος</w></name></persName> <g ref="#ivy-leaf">❦</g> <w>ἔζη
+                    <lb n="4" break="no"/>σεν</w> <g ref="#ivy-leaf">❦</g> <w><choice><corr>ἔ</corr><sic>σ</sic></choice>τη</w> <g ref="#ivy-leaf"/> <num value="73"><w>ο <g ref="#ivy-leaf">❦</g>γ</w></num> <g ref="#ivy-leaf">❦</g> <w><expan><abbr>μ</abbr><ex>ῆνας</ex></expan></w> <num value="3"><w>γ</w></num> <g ref="#ivy-leaf">❦</g>
+                    <lb n="5"/><persName type="attested"><name><w>Πεσκ<choice><corr>ε</corr><sic>σ</sic></choice>ννί<choice><corr>α</corr><sic>λ</sic></choice></w></name> <g ref="#ivy-leaf">❦</g>
+                    <lb n="6"/><name><w>Γ<choice><corr>α</corr><sic>λ</sic></choice>μι·κὴ</w></name></persName> <g ref="#long-vertical-bar">|</g> <w><choice><corr>ἀ</corr><sic>χ</sic></choice>νδρί</w>
                 </ab>
             </div>
             <div type="apparatus" resp="#martaf">

@@ -191,10 +191,10 @@
                 <ab>
                     <lb n="1"/><w>Πρόκλος</w> <w>πιλη
                     <lb n="2" break="no"/>τάρις</w> <w>ἐνθάδε</w> <w>κῖτε</w> <w>ἔ
-                    <lb n="3" break="no"/>ζησεν</w> <w>ἔτη</w> <num value="30">τριάκον
-                    <lb n="4" break="no"/>τα</num> <w>φήμης</w> <w>καλῆς</w> <w>ἀ
+                    <lb n="3" break="no"/>ζησεν</w> <w>ἔτη</w> <num value="30"><w>τριάκον
+                    <lb n="4" break="no"/>τα</w></num> <w>φήμης</w> <w>καλῆς</w> <w>ἀ
                     <lb n="5" break="no"/>νεπά<choice><reg>η</reg><orig>ν</orig></choice></w> <w>ἰδοῖς</w>
-                    <lb n="6"/><name>Ἰε<surplus>η</surplus><unclear>ν</unclear>ουαρίες</name>
+                    <lb n="6"/><name><w>Ἰε<surplus>η</surplus><unclear>ν</unclear>ουαρίες</w></name>
                 </ab>
             </div>
             <div type="apparatus">

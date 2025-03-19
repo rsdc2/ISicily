@@ -192,7 +192,7 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
                     <lb n="1"/><w>Μ<hi rend="ligature">νήσ</hi>θητι</w> <w>κ<supplied reason="omitted">ύρι</supplied>ε</w> <w>τοῦ</w> <w>δούλου</w>
-                    <lb n="2"/><w>σοῦ</w> <name>Καλλιτύχου</name> <w>τοῦ</w> <w>χρ<supplied reason="lost">ησ</supplied></w>
+                    <lb n="2"/><w>σοῦ</w> <name><w>Καλλιτύχου</w></name> <w>τοῦ</w> <w>χρ<supplied reason="lost">ησ</supplied></w>
                     <lb n="3"/><w>τιανοῦ</w> <gap reason="lost" quantity="5" unit="character"/> <w>ἐτελεύτ<supplied reason="lost">ησεν</supplied></w>
                     <lb n="4"/><w>τῇ</w> <w>πρὸ</w> <gap reason="lost" quantity="3" unit="character"/> <w>καλανδῶν</w>
                     <lb n="5"/><gap reason="lost" quantity="1" unit="line"/>

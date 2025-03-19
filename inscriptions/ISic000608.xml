@@ -191,12 +191,12 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <name><expan><abbr>M</abbr><ex>anibus</ex></expan></name> <g ref="#interpunct">·</g> <w><expan><abbr>s</abbr><ex>acrum</ex></expan></w>
-                    <lb n="2"/><name>Narcissus</name>
-                    <lb n="3"/><w>vixit</w> <g ref="#interpunct">·</g> <w><expan><abbr>ann</abbr><ex>is</ex></expan></w> <num value="3"><hi rend="supraline">III</hi></num>
-                    <lb n="4"/><w><expan><abbr>dieb</abbr><ex>us</ex></expan></w> <g ref="#interpunct">·</g> <num value="28">XXVIII</num>
-                    <lb n="5"/><name>Thallus</name> <g ref="#interpunct">·</g> <w>et</w>
-                    <lb n="6"/><name>Pannychis</name>
+                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <name><w><expan><abbr>M</abbr><ex>anibus</ex></expan></w></name> <g ref="#interpunct">·</g> <w><expan><abbr>s</abbr><ex>acrum</ex></expan></w>
+                    <lb n="2"/><name><w>Narcissus</w></name>
+                    <lb n="3"/><w>vixit</w> <g ref="#interpunct">·</g> <w><expan><abbr>ann</abbr><ex>is</ex></expan></w> <num value="3"><w><hi rend="supraline">III</hi></w></num>
+                    <lb n="4"/><w><expan><abbr>dieb</abbr><ex>us</ex></expan></w> <g ref="#interpunct">·</g> <num value="28"><w>XXVIII</w></num>
+                    <lb n="5"/><name><w>Thallus</w></name> <g ref="#interpunct">·</g> <w>et</w>
+                    <lb n="6"/><name><w>Pannychis</w></name>
                     <lb n="7"/><w>filio</w> <g ref="#interpunct">·</g> <w>dulcis
                     <lb n="8" break="no"/><supplied reason="lost">si</supplied>mo</w> <g ref="#interpunct">·</g> <w><expan><abbr>fecer</abbr><ex>unt</ex></expan></w>
                     <lb n="9"/><w><expan><abbr>s</abbr><ex>it</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>t</abbr><ex>ibi</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>t</abbr><ex>erra</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>l</abbr><ex>evis</ex></expan></w>

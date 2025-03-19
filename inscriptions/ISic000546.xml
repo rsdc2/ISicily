@@ -189,10 +189,10 @@
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#NCash">
                 <ab>
                     <lb n="0"/><gap reason="lost" extent="unknown" unit="line" cert="low"/>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w><unclear>et</unclear></w> <name><expan><abbr>Q</abbr><ex>uinti</ex></expan></name> <g ref="#interpunct">·</g> <name>Fabi</name> <g ref="#interpunct">·</g> <name>Caesili</name> <g ref="#interpunct">·</g> <name>Titiani</name>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w>avo</w> <g ref="#interpunct">·</g> <name><expan><abbr>Q</abbr><ex>uinto</ex></expan></name> <g ref="#interpunct">·</g> <name>Aquilio</name> <g ref="#interpunct">·</g> <name>Nigro</name>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w><unclear>et</unclear></w> <name><w><expan><abbr>Q</abbr><ex>uinti</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w>Fabi</w></name> <g ref="#interpunct">·</g> <name><w>Caesili</w></name> <g ref="#interpunct">·</g> <name><w>Titiani</w></name>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w>avo</w> <g ref="#interpunct">·</g> <name><w><expan><abbr>Q</abbr><ex>uinto</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w>Aquilio</w></name> <g ref="#interpunct">·</g> <name><w>Nigro</w></name>
                     <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <roleName type="supracivic" subtype="proconsul"><w><supplied reason="lost">p</supplied></w> <w>ro</w> <g ref="#interpunct">·</g> <w><expan><abbr>c<hi rend="supraline">o</hi></abbr><ex>n</ex><abbr>s</abbr><ex>uli</ex></expan></w></roleName>
-                    <lb n="4"/><name>Si<supplied reason="lost">cili</supplied>ae</name>
+                    <lb n="4"/><name><w>Si<supplied reason="lost">cili</supplied>ae</w></name>
                 </ab>
             </div>
             <div type="apparatus" resp="#JP">

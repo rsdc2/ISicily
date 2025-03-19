@@ -195,9 +195,9 @@
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#VM">
                 <ab>
                     <lb n="1"/><w>Νέων</w>
-                    <lb n="2"/><name>Δόνακος</name>
-                    <lb n="3"/><name>Νέων</name> <space quantity="2" unit="character"/><orig>Σ</orig>
-                    <lb n="4"/><name>Δόνα<supplied reason="lost">κ</supplied>ος</name>
+                    <lb n="2"/><name><w>Δόνακος</w></name>
+                    <lb n="3"/><name><w>Νέων</w></name> <space quantity="2" unit="character"/><orig>Σ</orig>
+                    <lb n="4"/><name><w>Δόνα<supplied reason="lost">κ</supplied>ος</w></name>
                     <lb n="5"/><space quantity="2" unit="character"/><orig><hi rend="reversed">Ε</hi></orig><space quantity="3" unit="character"/><orig>Κ</orig>
                     <lb n="6"/><orig>Δ</orig><space quantity="6" unit="character"/>
                     <lb n="7"/><space quantity="1" unit="line"/>

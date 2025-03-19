@@ -193,9 +193,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>Cn</abbr><ex>aeo</ex></expan></w> <name>Caninio</name>
-                    <lb n="2"/><name>Aniceto</name>
-                    <lb n="3"/><name>Tertius</name> <w>patri</w>
+                    <lb n="1"/><w><expan><abbr>Cn</abbr><ex>aeo</ex></expan></w> <name><w>Caninio</w></name>
+                    <lb n="2"/><name><w>Aniceto</w></name>
+                    <lb n="3"/><name><w>Tertius</w></name> <w>patri</w>
                     <lb n="4"/><w>suo</w> <w>fecit</w>
                 </ab>
             </div>

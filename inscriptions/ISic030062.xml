@@ -171,12 +171,12 @@
       <body>
          <div type="edition" xml:space="preserve" xml:lang="grc" resp="#RDS">
                 <ab>
-                    <lb n="1"/><w>Ἐπὶ</w> <name>Θέωνος</name> <gap reason="illegible" quantity="2" unit="character"/> <orig>Α</orig>
+                    <lb n="1"/><w>Ἐπὶ</w> <name><w>Θέωνος</w></name> <gap reason="illegible" quantity="2" unit="character"/> <orig>Α</orig>
                     <lb n="2"/><w>οἰκίας</w> <w>ὠ<unclear>ν</unclear>εῖται</w> <w>πέ<supplied reason="lost">ντε</supplied></w>
-                    <lb n="3"/><name>Παντίμε</name> <name>Λυκίσκου</name> <gap reason="illegible" quantity="1" unit="character"/>
-                    <lb n="4"/><name>Φί<unclear>ν</unclear>των</name> <name>Λυκί<supplied reason="lost">σ</supplied>κου</name> <w>φυλακ<supplied reason="lost">ός</supplied></w>
-                    <lb n="5"/><name>Σ<supplied reason="lost">ω</supplied><unclear>σί</unclear>ας</name> <name>Φιλωνίδας</name>
-                    <lb n="6"/><name>Ἡρ<unclear>α</unclear><supplied reason="lost">κ</supplied>λείδας</name> <name>Ἄ<unclear>ν</unclear>τα<supplied reason="lost">λλος</supplied></name>
+                    <lb n="3"/><name><w>Παντίμε</w></name> <name><w>Λυκίσκου</w></name> <gap reason="illegible" quantity="1" unit="character"/>
+                    <lb n="4"/><name><w>Φί<unclear>ν</unclear>των</w></name> <name><w>Λυκί<supplied reason="lost">σ</supplied>κου</w></name> <w>φυλακ<supplied reason="lost">ός</supplied></w>
+                    <lb n="5"/><name><w>Σ<supplied reason="lost">ω</supplied><unclear>σί</unclear>ας</w></name> <name><w>Φιλωνίδας</w></name>
+                    <lb n="6"/><name><w>Ἡρ<unclear>α</unclear><supplied reason="lost">κ</supplied>λείδας</w></name> <name><w>Ἄ<unclear>ν</unclear>τα<supplied reason="lost">λλος</supplied></w></name>
                 </ab>
          </div>
          <div type="apparatus" resp="#RDS">

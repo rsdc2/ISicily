@@ -195,9 +195,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <name><expan><abbr>M</abbr><ex>anibus</ex></expan></name> <g ref="#interpunct">·</g> <w><expan><abbr>s</abbr><ex>acrum</ex></expan></w>
-                    <lb n="2"/><persName type="attested"><name>Vipsanius</name> <g ref="#interpunct">·</g>
-                    <lb n="3"/><name>Atticus</name></persName> <g ref="#interpunct">·</g>
+                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <name><w><expan><abbr>M</abbr><ex>anibus</ex></expan></w></name> <g ref="#interpunct">·</g> <w><expan><abbr>s</abbr><ex>acrum</ex></expan></w>
+                    <lb n="2"/><persName type="attested"><name><w>Vipsanius</w></name> <g ref="#interpunct">·</g>
+                    <lb n="3"/><name><w>Atticus</w></name></persName> <g ref="#interpunct">·</g>
                     <lb n="4"/><w>vivos</w> <g ref="#interpunct">·</g> <w>sib<hi rend="tall">i</hi></w> <g ref="#interpunct">·</g>
                     <lb n="5"/><w>et</w> <g ref="#interpunct">·</g> <w>suis</w>
                 </ab>

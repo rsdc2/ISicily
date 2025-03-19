@@ -191,8 +191,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#GC">
                 <ab>
-                    <lb n="1"/><w><supplied reason="lost">Κάρ</supplied>πιμος</w> <name>Ἀρίστωνο<supplied reason="lost">ς</supplied></name>
-                    <lb n="2"/><name><supplied reason="lost">Ἀ</supplied>φροδίται</name> <name>Ἐρυκίν<supplied reason="lost">αι</supplied>.</name>
+                    <lb n="1"/><w><supplied reason="lost">Κάρ</supplied>πιμος</w> <name><w>Ἀρίστωνο<supplied reason="lost">ς</supplied></w></name>
+                    <lb n="2"/><name><w><supplied reason="lost">Ἀ</supplied>φροδίται</w></name> <name><w>Ἐρυκίν<supplied reason="lost">αι</supplied>.</w></name>
                 </ab>
             </div>
             <div type="apparatus">

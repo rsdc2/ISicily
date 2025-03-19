@@ -186,7 +186,7 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
                     <lb n="1"/><g ref="#cross_greek">🞣</g>
-                    <lb n="2"/><persName type="attested"><name>Ἀσυλλις</name></persName>
+                    <lb n="2"/><persName type="attested"><name><w>Ἀσυλλις</w></name></persName>
                 </ab>
             </div>
             <div type="apparatus">

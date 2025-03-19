@@ -176,13 +176,13 @@
                 <div type="textpart" subtype="section" n="a">
                     <ab>
                         <milestone unit="face" n="a"/>
-                        <lb n="1"/><persName type="attested"><name type="idionym"><supplied reason="lost">Γλ</supplied>υκῖνος</name> <persName type="attested"><name type="patronym">Σιμία</name></persName></persName>
+                        <lb n="1"/><persName type="attested"><name type="idionym"><w><supplied reason="lost">Γλ</supplied>υκῖνος</w></name> <persName type="attested"><name type="patronym"><w>Σιμία</w></name></persName></persName>
                     </ab>
                 </div>
                 <div type="textpart" subtype="section" n="b">
                     <ab>
                         <milestone unit="face" n="b"/>
-                        <lb n="1"/><persName type="attested"><name type="idionym"><supplied reason="lost">Γλ</supplied>υκῖνος</name> <persName type="attested"><name type="patronym">Σιμία</name></persName></persName>
+                        <lb n="1"/><persName type="attested"><name type="idionym"><w><supplied reason="lost">Γλ</supplied>υκῖνος</w></name> <persName type="attested"><name type="patronym"><w>Σιμία</w></name></persName></persName>
                     </ab>
                 </div>
             </div>

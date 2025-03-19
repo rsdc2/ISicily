@@ -196,7 +196,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>C</abbr><ex>ai</ex></expan></w> <g ref="#interpunct">·</g> <name>Sexti</name>
+                    <lb n="1"/><w><expan><abbr>C</abbr><ex>ai</ex></expan></w> <g ref="#interpunct">·</g> <name><w>Sexti</w></name>
                     <lb n="2"/><w><expan><abbr>sal</abbr><ex>ve</ex></expan></w>
                 </ab>
             </div>

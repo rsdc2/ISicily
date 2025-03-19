@@ -174,8 +174,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/><w>hι<unclear>αρ</unclear>ὰ</w> <persName type="divine"><name><unclear>Θεσ</unclear>μοφόρο̄</name></persName>
-                    <lb n="2"/><w>ἐκ</w> <w>τᾶς</w> <persName type="attested"><name>Δικαιο͂ς</name></persName> <w>σκᾱνᾶς</w>
+                    <lb n="1"/><w>hι<unclear>αρ</unclear>ὰ</w> <persName type="divine"><name><w><unclear>Θεσ</unclear>μοφόρο̄</w></name></persName>
+                    <lb n="2"/><w>ἐκ</w> <w>τᾶς</w> <persName type="attested"><name><w>Δικαιο͂ς</w></name></persName> <w>σκᾱνᾶς</w>
                 </ab>
             </div>
             <div type="apparatus">

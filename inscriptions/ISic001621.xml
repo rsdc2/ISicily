@@ -191,8 +191,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="osc-Grek" resp="#KMcD">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name><supplied reason="lost">μ</supplied>αμε<unclear>ρ</unclear>εκσ</name> <name>κλαϝδισ</name>
-                    <lb n="2"/><persName type="attested"><name type="patronym">μαμε<unclear>ρ</unclear><supplied reason="undefined" evidence="previouseditor">εκ</supplied>ηισ</name></persName></persName>
+                    <lb n="1"/><persName type="attested"><name><w><supplied reason="lost">μ</supplied>αμε<unclear>ρ</unclear>εκσ</w></name> <name><w>κλαϝδισ</w></name>
+                    <lb n="2"/><persName type="attested"><name type="patronym"><w>μαμε<unclear>ρ</unclear><supplied reason="undefined" evidence="previouseditor">εκ</supplied>ηισ</w></name></persName></persName>
                     <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>

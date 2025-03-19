@@ -187,8 +187,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1"/><w>ἡμέ<hi rend="stacked">ρᾳ</hi></w> <name><expan><abbr>Σαβ</abbr><ex>βά</ex><abbr>τ</abbr><ex>ου</ex></expan></name>
-                    <lb n="2"/><persName type="attested"><name>Ἰαγάθη</name></persName>
+                    <lb n="1"/><w>ἡμέ<hi rend="stacked">ρᾳ</hi></w> <name><w><expan><abbr>Σαβ</abbr><ex>βά</ex><abbr>τ</abbr><ex>ου</ex></expan></w></name>
+                    <lb n="2"/><persName type="attested"><name><w>Ἰαγάθη</w></name></persName>
                 </ab>
             </div>
             <div type="apparatus">

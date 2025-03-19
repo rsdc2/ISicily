@@ -195,7 +195,7 @@
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
                     <lb n="1"/><gap reason="illegible" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="illegible" quantity="1" unit="character"/> <gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">vixit</supplied></w> <w><supplied reason="lost">an</supplied>
-                    <lb n="2" break="no"/>nos</w> <num value="20">XX</num> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2" break="no"/>nos</w> <num value="20"><w>XX</w></num> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="3"/><w>rosuit</w> <w><unclear>c</unclear><supplied reason="lost" cert="low">ompa</supplied>
                     <lb n="4" break="no"/>ri</w> <w>dul<supplied reason="lost">cissim</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>

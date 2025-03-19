@@ -192,11 +192,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>Κ</abbr><ex>οῖντε</ex></expan></w> <g ref="#interpunct">·</g> <name>Κορνιφίκι</name> <g ref="http://sicily.classics.ox.ac.uk/alists/listglyph.xml#heart"/>
-                    <lb n="2"/><name>Στεφα<hi rend="ligature">νη</hi>φόρε</name> <g ref="http://sicily.classics.ox.ac.uk/alists/listglyph.xml#heart"/>
+                    <lb n="1"/><w><expan><abbr>Κ</abbr><ex>οῖντε</ex></expan></w> <g ref="#interpunct">·</g> <name><w>Κορνιφίκι</w></name> <g ref="http://sicily.classics.ox.ac.uk/alists/listglyph.xml#heart"/>
+                    <lb n="2"/><name><w>Στεφα<hi rend="ligature">νη</hi>φόρε</w></name> <g ref="http://sicily.classics.ox.ac.uk/alists/listglyph.xml#heart"/>
                     <lb n="3"/><w>χρηστὲ</w> <g ref="#interpunct">·</g> <w>καὶ</w> <g ref="#interpunct">·</g> <w>ἄμενπτε</w>
                     <lb n="4"/><w>χαῖρε</w> <g ref="http://sicily.classics.ox.ac.uk/alists/listglyph.xml#heart"/>
-                    <lb n="5"/><w><supplied reason="lost">ἔ</supplied>ζησε</w> <g ref="#interpunct">·</g> <w>ἔτη</w> <g ref="#interpunct">·</g> <num value="12">ιβ</num> <g ref="#interpunct">·</g> <w><expan><abbr>μῆ</abbr><ex>νας</ex></expan></w> <g ref="#interpunct">·</g> <num value="9">θ</num> <g ref="#interpunct">·</g>
+                    <lb n="5"/><w><supplied reason="lost">ἔ</supplied>ζησε</w> <g ref="#interpunct">·</g> <w>ἔτη</w> <g ref="#interpunct">·</g> <num value="12"><w>ιβ</w></num> <g ref="#interpunct">·</g> <w><expan><abbr>μῆ</abbr><ex>νας</ex></expan></w> <g ref="#interpunct">·</g> <num value="9"><w>θ</w></num> <g ref="#interpunct">·</g>
                 </ab>
             </div>
             <div type="apparatus">

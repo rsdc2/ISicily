@@ -188,7 +188,7 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w>ω</w> <gap reason="illegible" unit="character" quantity="1"/> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="2"/><name><supplied reason="lost">Γ</supplied><unclear>ε</unclear>ρόντιου</name>
+                    <lb n="2"/><name><w><supplied reason="lost">Γ</supplied><unclear>ε</unclear>ρόντιου</w></name>
                 </ab>
             </div>
             <div type="apparatus">

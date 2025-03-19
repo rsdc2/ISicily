@@ -216,7 +216,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
-                    <lb n="1"/><w><supplied reason="lost" evidence="previouseditor">Liviae</supplied></w> <w><supplied reason="lost" evidence="previouseditor">·</supplied></w> <name><supplied reason="lost" evidence="previouseditor">A</supplied>ugusti</name>
+                    <lb n="1"/><w><supplied reason="lost" evidence="previouseditor">Liviae</supplied></w> <w><supplied reason="lost" evidence="previouseditor">·</supplied></w> <name><w><supplied reason="lost" evidence="previouseditor">A</supplied>ugusti</w></name>
                     <lb n="2"/><w><supplied reason="lost" evidence="previouseditor">deae</supplied></w>
                     <lb n="3"/><w><supplied reason="lost" evidence="previouseditor">municipium</supplied></w>
                 </ab>

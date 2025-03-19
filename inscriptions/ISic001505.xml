@@ -197,10 +197,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#AL">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name type="nomen">Φλαμενί
-                    <lb n="2" break="no"/><choice><corr>α</corr><sic>λ</sic></choice>ς</name></persName> <w>καὶ</w> <persName type="attested"><name type="nomen">Αὐρη
-                    <lb n="3" break="no"/>λίου</name> <name type="cognomen">Ἀντιόχ
-                    <lb n="4" break="no"/>ου</name></persName>
+                    <lb n="1"/><persName type="attested"><name type="nomen"><w>Φλαμενί
+                    <lb n="2" break="no"/><choice><corr>α</corr><sic>λ</sic></choice>ς</w></name></persName> <w>καὶ</w> <persName type="attested"><name type="nomen"><w>Αὐρη
+                    <lb n="3" break="no"/>λίου</w></name> <name type="cognomen"><w>Ἀντιόχ
+                    <lb n="4" break="no"/>ου</w></name></persName>
                 </ab>
             </div>
             <div type="apparatus">

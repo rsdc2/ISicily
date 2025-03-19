@@ -225,8 +225,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
-                    <lb n="1"/><w>Cereri</w> <w><expan><abbr>sacr</abbr><ex>um</ex></expan></w> <space unit="character" quantity="1"/><name>Iulius</name> <name>Acilius</name> <name>Her
-                    <lb n="2" break="no"/>mes</name> <g ref="#interpunct">·</g> <w>pro</w> <w><expan><abbr>honor</abbr><ex>e</ex></expan></w> <roleName type="civic.religious" subtype="seviratus"><w>seviratus</w></roleName> <g ref="#ivy-leaf">❦</g> <w><expan><abbr>d</abbr><ex>eae</ex></expan></w> <w><expan><abbr>d</abbr><ex>onum</ex></expan></w> <w><expan><abbr>d</abbr><ex>edit</ex></expan></w>
+                    <lb n="1"/><w>Cereri</w> <w><expan><abbr>sacr</abbr><ex>um</ex></expan></w> <space unit="character" quantity="1"/><name><w>Iulius</w></name> <name><w>Acilius</w></name> <name><w>Her
+                    <lb n="2" break="no"/>mes</w></name> <g ref="#interpunct">·</g> <w>pro</w> <w><expan><abbr>honor</abbr><ex>e</ex></expan></w> <roleName type="civic.religious" subtype="seviratus"><w>seviratus</w></roleName> <g ref="#ivy-leaf">❦</g> <w><expan><abbr>d</abbr><ex>eae</ex></expan></w> <w><expan><abbr>d</abbr><ex>onum</ex></expan></w> <w><expan><abbr>d</abbr><ex>edit</ex></expan></w>
                 </ab>
             </div>
             <div type="apparatus">

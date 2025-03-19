@@ -192,21 +192,21 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    <lb n="1"/><w>Ἐπὶ</w> <roleName type="civic.religious" subtype="amphipolos"><w>ἀμφιπόλου</w></roleName> <name>(?)</name> <w>e.g.</w> <w>᾿Απολλωνίο]υ</w> <w>τοῦ̣</w> <name>Ἀπολλοδώρου̣</name>
-                    <lb n="2"/><w>[᾿Ελωρείου</w> <name>(?)</name> <w>μηνὸς</w> <w>ἑν]δεκάται</w> <roleName type="civic" subtype="prostates"><w>προστ(άτας)</w></roleName>
-                    <lb n="3"/><name>[τᾶς</name> <w>βουλᾶς</w> <w>e.g.</w> <name>Ξένι]ς</name> <name>Ξενίσκου</name> <name>Πλη·</name>
-                    <lb n="4"/><name>[ἔδοξε</name> <w>τᾶι</w> <w>ἁλίαι</w> <w>καθὰ</w> <w>κ]αὶ</w> <w>τᾶι</w> <w>συγκλήτωι</w> <w>καὶ</w> <w>τᾶι</w> <w>βουλᾶι·</w>
-                    <lb n="5"/><name>[ἐπειδὴ?</name> <name>--]ι̣ς</name> <name>Ἄνδρου</name> <name>Τηλ</name> <w>φανερός</w> <w>ἐστι</w> <w>ἁμῶν</w>
-                    <lb n="6"/><name>[φίλος,</name> <w>ἄξια</w> <w>πράσσων]</w> <w>καὶ</w> <w>λόγωι</w> <w>καὶ</w> <w>ἔργωι,</w> <w>δίκαιον</w> <w>δέ</w>
-                    <lb n="7"/><name>[ἐστι</name> <w>διαμένειν</w> <w>αὐ]τ̣οῦ̣</w> <w>μνάμαν,</w> <w>ποιεῖσθαι</w> <w>δὲ</w> <w>ὅσα</w> <w>τὰ̣</w>
-                    <lb n="8"/><name>[?</name> <w>νόμιμα</w> <w>καὶ</w> <roleName type="paracivic" subtype="euergetes"><w>εὐεργ]έ̣ταν</w></roleName> <w>αὐτὸν</w> <w>εἴμειν</w> <w>τοῦ</w> <w>δάμου,</w>
-                    <lb n="9"/><name>[ὅπως</name> <w>φανερὸν</w> <w>ἦι</w> <w>πᾶσι]</w> <w>τοῖς</w> <w>ἐπιγινο[μέν]οις,</w> <w>ὅτι</w> <name>[τ]ο[ῖς]</name>
-                    <lb n="10"/><name>[</name> <roleName type="paracivic" subtype="euergetes"><w>εὐεργετεῖν</w></roleName> <w>αἱρουμέν]οις</w> <w>τὸ</w> <w>κοινὸν</w> <w>δύναται</w> <w>χάριτας</w>
-                    <lb n="11"/><name>[καὶ</name> <w>τιμὰς</w> <w>ἀπονέμειν]</w> <w>τὰς</w> <w>καταξίας·</w> <w>τὸ</w> <w>δὲ</w> <w>ἁλίασμα</w>
-                    <lb n="12"/><name>[ἐπιγράψασθαι</name> <w>εἰς</w> <w>χαλκ]ώ̣ματα</w> <w>δύο</w> <w>καὶ</w> <w>ἀναθέμειν</w>
-                    <lb n="13"/><name>[τὸ</name> <w>μὲν</w> <w>ἐν</w> <w>τῶι</w> <w>ἱερῶι</w> <w>τοῦ</w> <name>Ἀ]πόλλωνος,</name> <w>τὸ</w> <w>δὲ</w> <w>δόμειν̣</w>
-                    <lb n="14"/><name>[αὐτῶι</name> <w>ὑπόμναμα</w> <w>τᾶς</w> <w>πο]τὶ</w> <w>τὸν</w> <w>δᾶμον</w> <w>εὐ[νοίας·</w> <w>τοὺς</w> <w>δὲ]</w>
-                    <lb n="15"/><name>[</name> <roleName type="civic" subtype="tamias"><w>ταμίας</w></roleName> <w>ἐξοδιάξαι</w> <name>-----------------------------------------------]</name>
+                    <lb n="1"/><w>Ἐπὶ</w> <roleName type="civic.religious" subtype="amphipolos"><w>ἀμφιπόλου</w></roleName> <name><w>(?)</w></name> <w>e.g.</w> <w>᾿Απολλωνίο]υ</w> <w>τοῦ̣</w> <name><w>Ἀπολλοδώρου̣</w></name>
+                    <lb n="2"/><w>[᾿Ελωρείου</w> <name><w>(?)</w></name> <w>μηνὸς</w> <w>ἑν]δεκάται</w> <roleName type="civic" subtype="prostates"><w>προστ(άτας)</w></roleName>
+                    <lb n="3"/><name><w>[τᾶς</w></name> <w>βουλᾶς</w> <w>e.g.</w> <name><w>Ξένι]ς</w></name> <name><w>Ξενίσκου</w></name> <name><w>Πλη·</w></name>
+                    <lb n="4"/><name><w>[ἔδοξε</w></name> <w>τᾶι</w> <w>ἁλίαι</w> <w>καθὰ</w> <w>κ]αὶ</w> <w>τᾶι</w> <w>συγκλήτωι</w> <w>καὶ</w> <w>τᾶι</w> <w>βουλᾶι·</w>
+                    <lb n="5"/><name><w>[ἐπειδὴ?</w></name> <name><w>--]ι̣ς</w></name> <name><w>Ἄνδρου</w></name> <name><w>Τηλ</w></name> <w>φανερός</w> <w>ἐστι</w> <w>ἁμῶν</w>
+                    <lb n="6"/><name><w>[φίλος,</w></name> <w>ἄξια</w> <w>πράσσων]</w> <w>καὶ</w> <w>λόγωι</w> <w>καὶ</w> <w>ἔργωι,</w> <w>δίκαιον</w> <w>δέ</w>
+                    <lb n="7"/><name><w>[ἐστι</w></name> <w>διαμένειν</w> <w>αὐ]τ̣οῦ̣</w> <w>μνάμαν,</w> <w>ποιεῖσθαι</w> <w>δὲ</w> <w>ὅσα</w> <w>τὰ̣</w>
+                    <lb n="8"/><name><w>[?</w></name> <w>νόμιμα</w> <w>καὶ</w> <roleName type="paracivic" subtype="euergetes"><w>εὐεργ]έ̣ταν</w></roleName> <w>αὐτὸν</w> <w>εἴμειν</w> <w>τοῦ</w> <w>δάμου,</w>
+                    <lb n="9"/><name><w>[ὅπως</w></name> <w>φανερὸν</w> <w>ἦι</w> <w>πᾶσι]</w> <w>τοῖς</w> <w>ἐπιγινο[μέν]οις,</w> <w>ὅτι</w> <name><w>[τ]ο[ῖς]</w></name>
+                    <lb n="10"/><name><w>[</w></name> <roleName type="paracivic" subtype="euergetes"><w>εὐεργετεῖν</w></roleName> <w>αἱρουμέν]οις</w> <w>τὸ</w> <w>κοινὸν</w> <w>δύναται</w> <w>χάριτας</w>
+                    <lb n="11"/><name><w>[καὶ</w></name> <w>τιμὰς</w> <w>ἀπονέμειν]</w> <w>τὰς</w> <w>καταξίας·</w> <w>τὸ</w> <w>δὲ</w> <w>ἁλίασμα</w>
+                    <lb n="12"/><name><w>[ἐπιγράψασθαι</w></name> <w>εἰς</w> <w>χαλκ]ώ̣ματα</w> <w>δύο</w> <w>καὶ</w> <w>ἀναθέμειν</w>
+                    <lb n="13"/><name><w>[τὸ</w></name> <w>μὲν</w> <w>ἐν</w> <w>τῶι</w> <w>ἱερῶι</w> <w>τοῦ</w> <name><w>Ἀ]πόλλωνος,</w></name> <w>τὸ</w> <w>δὲ</w> <w>δόμειν̣</w>
+                    <lb n="14"/><name><w>[αὐτῶι</w></name> <w>ὑπόμναμα</w> <w>τᾶς</w> <w>πο]τὶ</w> <w>τὸν</w> <w>δᾶμον</w> <w>εὐ[νοίας·</w> <w>τοὺς</w> <w>δὲ]</w>
+                    <lb n="15"/><name><w>[</w></name> <roleName type="civic" subtype="tamias"><w>ταμίας</w></roleName> <w>ἐξοδιάξαι</w> <name><w>-----------------------------------------------]</w></name>
                 </ab>
             </div>
             <div type="apparatus">

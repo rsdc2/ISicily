@@ -194,10 +194,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w>N</w> <gap reason="lost" quantity="1" unit="character"/> <w>VR</w> <gap reason="lost" quantity="1" unit="character"/> <name>A</name> <gap reason="illegible" quantity="1" unit="character"/>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <name>Stephan<supplied reason="lost">u</supplied><unclear>s</unclear></name>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w>N</w> <gap reason="lost" quantity="1" unit="character"/> <w>VR</w> <gap reason="lost" quantity="1" unit="character"/> <name><w>A</w></name> <gap reason="illegible" quantity="1" unit="character"/>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <name><w>Stephan<supplied reason="lost">u</supplied><unclear>s</unclear></w></name>
                     <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">vi</supplied>xit</w> <w>annis</w>
-                    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <hi rend="supraline"><num>II</num></hi>
+                    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <hi rend="supraline"><num><w>II</w></num></hi>
                 </ab>
             </div>
             <div type="apparatus">

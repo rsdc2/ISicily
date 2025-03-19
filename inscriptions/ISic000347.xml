@@ -191,11 +191,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#MH">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <name><expan><abbr>M</abbr><ex>anibus</ex></expan></name>
-                    <lb n="2"/><name>Decimia</name> <g ref="#interpunct">·</g> <name>Gamice</name>
-                    <lb n="3"/><w><hi rend="ligature">et</hi></w> <g ref="#interpunct">·</g> <name>Decimius</name> <g ref="#interpunct">·</g> <name>Aga
-                    <lb n="4" break="no"/>pomenus</name> <g ref="#interpunct">·</g> <w>piis
-                    <lb n="5" break="no"/>simae</w> <g ref="#interpunct">·</g> <w><expan><abbr>colliber</abbr><ex>tae</ex></expan></w> <name>.</name>
+                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <name><w><expan><abbr>M</abbr><ex>anibus</ex></expan></w></name>
+                    <lb n="2"/><name><w>Decimia</w></name> <g ref="#interpunct">·</g> <name><w>Gamice</w></name>
+                    <lb n="3"/><w><hi rend="ligature">et</hi></w> <g ref="#interpunct">·</g> <name><w>Decimius</w></name> <g ref="#interpunct">·</g> <name><w>Aga
+                    <lb n="4" break="no"/>pomenus</w></name> <g ref="#interpunct">·</g> <w>piis
+                    <lb n="5" break="no"/>simae</w> <g ref="#interpunct">·</g> <w><expan><abbr>colliber</abbr><ex>tae</ex></expan></w> <name><w>.</w></name>
                 </ab>
             </div>
             <div type="apparatus">

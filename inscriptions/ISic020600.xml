@@ -180,7 +180,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1" xml:id="UΙAAK"/><persName type="divine" xml:id="UΙAAU"><name xml:id="UΙAAe">ͱε̄ρακλεῖ</name></persName>
+                    <lb n="1" xml:id="UΙAAK"/><persName type="divine" xml:id="UΙAAU"><name xml:id="UΙAAe"><w>ͱε̄ρακλεῖ</w></name></persName>
                 </ab>
             </div>
             <div type="apparatus">

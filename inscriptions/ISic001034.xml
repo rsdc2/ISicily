@@ -202,10 +202,10 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w><unclear>Χ</unclear></w>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w><unclear>π</unclear>ος</w> <name>Ἀρι</name> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="3"/><name><supplied reason="lost">Ἀρ</supplied>χωνίδας</name> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="4"/><name><supplied reason="lost">Ἡρ</supplied>ακλείδα<unclear>ς</unclear></name> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="5"/><name><supplied reason="lost">Πο</supplied>λύαρχος</name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w><unclear>π</unclear>ος</w> <name><w>Ἀρι</w></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="3"/><name><w><supplied reason="lost">Ἀρ</supplied>χωνίδας</w></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="4"/><name><w><supplied reason="lost">Ἡρ</supplied>ακλείδα<unclear>ς</unclear></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="5"/><name><w><supplied reason="lost">Πο</supplied>λύαρχος</w></name> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="5a"/><gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>

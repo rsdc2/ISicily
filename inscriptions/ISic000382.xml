@@ -188,9 +188,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name type="nomen"><supplied reason="lost">Vi</supplied>bullius</name>
-                    <lb n="2"/><name type="cognomen"><supplied reason="lost">Fort</supplied>unatus</name></persName>
-                    <lb n="3"/><w><supplied reason="lost">vixi</supplied>t</w> <w><expan><abbr>an</abbr><ex>nis</ex></expan></w> <num value="60">LX</num>
+                    <lb n="1"/><persName type="attested"><name type="nomen"><w><supplied reason="lost">Vi</supplied>bullius</w></name>
+                    <lb n="2"/><name type="cognomen"><w><supplied reason="lost">Fort</supplied>unatus</w></name></persName>
+                    <lb n="3"/><w><supplied reason="lost">vixi</supplied>t</w> <w><expan><abbr>an</abbr><ex>nis</ex></expan></w> <num value="60"><w>LX</w></num>
                     <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <orig xml:lang="la">L</orig><orig xml:lang="grc">ΙΙΛΣΛΛ</orig><orig xml:lang="la">RI</orig>
                     <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/> <orig xml:lang="grc">ΙΗΣ</orig>
                 </ab>

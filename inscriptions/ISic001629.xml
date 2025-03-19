@@ -193,10 +193,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    <lb n="1"/><w>Ἐνθ<supplied reason="omitted">ά</supplied>δε</w> <w>κεῖτε</w> <name>Ἰε
-                    <lb n="2" break="no"/>ναρὶς</name> <w>υἱὸς</w> <name>Πρίμου</name>
+                    <lb n="1"/><w>Ἐνθ<supplied reason="omitted">ά</supplied>δε</w> <w>κεῖτε</w> <name><w>Ἰε
+                    <lb n="2" break="no"/>ναρὶς</w></name> <w>υἱὸς</w> <name><w>Πρίμου</w></name>
                     <lb n="3"/><w>τελευτᾆ</w> <w>τᾖ</w> <w>πρὸ</w> <w>θ'</w> <w><expan><abbr>καλ</abbr><ex>ανδῶν</ex></expan></w>
-                    <lb n="4"/><name>Άπριλίων</name> <w><expan><abbr>ζήσ</abbr><ex>ας</ex></expan></w> <w>ἔτη</w> <w>η'</w>
+                    <lb n="4"/><name><w>Άπριλίων</w></name> <w><expan><abbr>ζήσ</abbr><ex>ας</ex></expan></w> <w>ἔτη</w> <w>η'</w>
                     <lb n="5"/><w><expan><abbr>μήν</abbr><ex>ης</ex></expan></w> <w>ς'</w> <w>κεῖτε</w> <w>μετὰ</w>
                     <lb n="6"/><w>τῆς</w> <w>μάμη</w> <w><supplied reason="omitted">ς</supplied></w>
                 </ab>

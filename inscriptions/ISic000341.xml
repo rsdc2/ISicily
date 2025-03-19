@@ -198,10 +198,10 @@
             <div type="edition" xml:space="preserve" xml:lang="la">
                 <ab>
                     <lb n="1"/><w><expan><abbr>d</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>m</abbr><ex>anibus</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>s</abbr><ex>acrum</ex></expan></w>
-                    <lb n="2"/><name>Ce<g ref="#interpunct">·</g>pa<g ref="#interpunct">·</g>ri<g ref="#interpunct">·</g>us</name>
-                    <lb n="3"/><name>Nym<g ref="#interpunct">·</g>phi<g ref="#interpunct">·</g>di<g ref="#interpunct">·</g>a</name> <name><g ref="#interpunct">·</g>
-                    <lb n="4" break="no"/>nus</name> <g ref="#interpunct">·</g> <w>vi<g ref="#interpunct">·</g>xit</w>
-                    <lb n="5"/><w>an<g ref="#interpunct">·</g>nis</w> <num value="33">XXXIII</num> <g ref="#interpunct">·</g>
+                    <lb n="2"/><name><w>Ce<g ref="#interpunct">·</g>pa<g ref="#interpunct">·</g>ri<g ref="#interpunct">·</g>us</w></name>
+                    <lb n="3"/><name><w>Nym<g ref="#interpunct">·</g>phi<g ref="#interpunct">·</g>di<g ref="#interpunct">·</g>a</w></name> <name><w><g ref="#interpunct">·</g>
+                    <lb n="4" break="no"/>nus</w></name> <g ref="#interpunct">·</g> <w>vi<g ref="#interpunct">·</g>xit</w>
+                    <lb n="5"/><w>an<g ref="#interpunct">·</g>nis</w> <num value="33"><w>XXXIII</w></num> <g ref="#interpunct">·</g>
                     <lb n="6"/><w>mater</w> <g ref="#interpunct">·</g> <w><choice><orig>phe<g ref="#interpunct">·</g>cit</orig><reg>fecit</reg></choice></w> <g ref="#interpunct">·</g>
                 </ab>
             </div>

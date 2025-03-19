@@ -193,11 +193,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la">
                 <ab>
-                    <lb n="1"/><w>Fulvius</w> <g ref="#interpunct">·</g> <name>Nic<supplied reason="lost">o</supplied></name>
-                    <lb n="2"/><w>vixit</w> <g ref="#interpunct">·</g> <w>annis</w> <g ref="#interpunct">·</g> <num value="50">L</num> <g ref="#interpunct">·</g>
-                    <lb n="3"/><name>Fulvius</name> <g ref="#interpunct">·</g> <name>Ianuarius</name>
-                    <lb n="4"/><w>vixit</w> <g ref="#interpunct">·</g> <w>annum</w> <g ref="#interpunct">·</g> <num value="1"><hi rend="supraline">I</hi></num> <g ref="#interpunct">·</g>
-                    <lb n="5"/><w>menses</w> <g ref="#interpunct">·</g> <num value="3"><hi rend="supraline">III</hi></num>
+                    <lb n="1"/><w>Fulvius</w> <g ref="#interpunct">·</g> <name><w>Nic<supplied reason="lost">o</supplied></w></name>
+                    <lb n="2"/><w>vixit</w> <g ref="#interpunct">·</g> <w>annis</w> <g ref="#interpunct">·</g> <num value="50"><w>L</w></num> <g ref="#interpunct">·</g>
+                    <lb n="3"/><name><w>Fulvius</w></name> <g ref="#interpunct">·</g> <name><w>Ianuarius</w></name>
+                    <lb n="4"/><w>vixit</w> <g ref="#interpunct">·</g> <w>annum</w> <g ref="#interpunct">·</g> <num value="1"><w><hi rend="supraline">I</hi></w></num> <g ref="#interpunct">·</g>
+                    <lb n="5"/><w>menses</w> <g ref="#interpunct">·</g> <num value="3"><w><hi rend="supraline">III</hi></w></num>
                 </ab>
             </div>
             <div type="apparatus">

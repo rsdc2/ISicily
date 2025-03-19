@@ -191,12 +191,12 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
                     <lb n="1"/><w>ἐνθάδε</w> <w>κεῖ
-                    <lb n="2" break="no"/>τε</w> <name>Ἰλάσιος</name>
-                    <lb n="3"/><w>ζήσας</w> <w>ἔτη</w> <num value="30">λ</num> <w>ἔ
-                    <lb n="4" break="no"/>κοιμήθη</w> <w><expan><abbr>πρ</abbr><ex>ὸ</ex></expan></w> <num value="3">γ</num> <w>εἰδῶ<supplied reason="omitted">ν</supplied></w>
-                    <lb n="5"/><name>Σεπτεμβρί
-                    <lb n="6" break="no"/>ων</name> <w><choice><orig>εἰιρήνη</orig><reg>εἰρήνη</reg></choice></w>
-                    <lb n="7"/><w>σοι</w> <w>ἐν</w> <name><expan><abbr>Χρ</abbr><ex>ιστ</ex><abbr>ῷ</abbr></expan></name>
+                    <lb n="2" break="no"/>τε</w> <name><w>Ἰλάσιος</w></name>
+                    <lb n="3"/><w>ζήσας</w> <w>ἔτη</w> <num value="30"><w>λ</w></num> <w>ἔ
+                    <lb n="4" break="no"/>κοιμήθη</w> <w><expan><abbr>πρ</abbr><ex>ὸ</ex></expan></w> <num value="3"><w>γ</w></num> <w>εἰδῶ<supplied reason="omitted">ν</supplied></w>
+                    <lb n="5"/><name><w>Σεπτεμβρί
+                    <lb n="6" break="no"/>ων</w></name> <w><choice><orig>εἰιρήνη</orig><reg>εἰρήνη</reg></choice></w>
+                    <lb n="7"/><w>σοι</w> <w>ἐν</w> <name><w><expan><abbr>Χρ</abbr><ex>ιστ</ex><abbr>ῷ</abbr></expan></w></name>
                 </ab>
             </div>
             <div type="apparatus">

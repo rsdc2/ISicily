@@ -191,10 +191,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#MH">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <name><expan><abbr>M</abbr><ex>anibus</ex></expan></name> <name><expan><abbr>S</abbr><ex>acrum</ex></expan></name>
-                    <lb n="2"/><name><expan><abbr>C</abbr><ex>aio</ex></expan></name> <g ref="#interpunct">·</g> <name>Iulio</name> <g ref="#interpunct">·</g> <w><choice><sic>Hep</sic><corr>Her</corr></choice>
+                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <name><w><expan><abbr>M</abbr><ex>anibus</ex></expan></w></name> <name><w><expan><abbr>S</abbr><ex>acrum</ex></expan></w></name>
+                    <lb n="2"/><name><w><expan><abbr>C</abbr><ex>aio</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w>Iulio</w></name> <g ref="#interpunct">·</g> <w><choice><sic>Hep</sic><corr>Her</corr></choice>
                     <lb n="3" break="no"/>meti</w>
-                    <lb n="4"/><name><expan><abbr>C</abbr><ex>aius</ex></expan></name> <name>Iulius</name> <name>C</name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="4"/><name><w><expan><abbr>C</abbr><ex>aius</ex></expan></w></name> <name><w>Iulius</w></name> <name><w>C</w></name> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="0"/><gap reason="lost" extent="unknown" unit="line"/>
                 </ab>                
             </div>

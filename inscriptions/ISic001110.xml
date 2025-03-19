@@ -188,8 +188,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w><unclear>ι</unclear>α</w> <name>Σωτηρίδ
-                    <lb n="2" break="no"/><supplied reason="lost">α</supplied></name> <gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">εὐν</supplied><unclear>ο</unclear>ίας</w> <w>χάριν</w>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w><unclear>ι</unclear>α</w> <name><w>Σωτηρίδ
+                    <lb n="2" break="no"/><supplied reason="lost">α</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">εὐν</supplied><unclear>ο</unclear>ίας</w> <w>χάριν</w>
                 </ab>
             </div>
             <div type="apparatus">

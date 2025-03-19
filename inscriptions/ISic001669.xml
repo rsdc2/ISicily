@@ -187,9 +187,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
-                    <lb n="1"/><g ref="#cross_uninterpreted">☩</g> <w>Memori</w> <name><g ref="#interpunct">·</g>
-                    <lb n="2" break="no"/>a</name> <name>Ianuar
-                    <lb n="3" break="no"/>i</name> <w><choice><orig>Eclesie</orig><reg>Ecclesiae</reg></choice></w>
+                    <lb n="1"/><g ref="#cross_uninterpreted">☩</g> <w>Memori</w> <name><w><g ref="#interpunct">·</g>
+                    <lb n="2" break="no"/>a</w></name> <name><w>Ianuar
+                    <lb n="3" break="no"/>i</w></name> <w><choice><orig>Eclesie</orig><reg>Ecclesiae</reg></choice></w>
                 </ab>
             </div>
             <div type="apparatus" resp="#JP">

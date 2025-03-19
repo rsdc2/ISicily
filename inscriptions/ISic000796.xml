@@ -199,11 +199,11 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
                     <lb n="1"/><g ref="#christogram"/> <w>ἐνθάδε</w> <w>κῖτε</w> <w>μακαρία<supplied reason="omitted">ς</supplied></w>
-                    <lb n="2"/><w>μνήμης</w> <name>Καλλιτύχη·</name> <w>ἔζη
-                    <lb n="3" break="no"/>σεν</w> <w>ἔτη</w> <g ref="#palm">⸙</g> <w><hi rend="supraline"><num value="88">πη</num></hi>ἐτελεύτ<supplied reason="lost">η</supplied>
-                    <lb n="4" break="no"/><supplied reason="lost">σ</supplied>εν</w> <w>δὲ</w> <w>τῇ</w> <w>πρὸ</w> <w><hi rend="supraline"><num value="15">ιε</num></hi>καλα<supplied reason="lost">ν</supplied>
-                    <lb n="5" break="no"/><supplied reason="lost">δ</supplied>ῶν</w> <name>Φεβρουαρίων</name> <w>ἡμέ
-                    <lb n="6" break="no"/><supplied reason="lost">ρ</supplied>ᾳ</w> <name>Σαββάτῳ</name> <g ref="#palm">⸙</g>
+                    <lb n="2"/><w>μνήμης</w> <name><w>Καλλιτύχη·</w></name> <w>ἔζη
+                    <lb n="3" break="no"/>σεν</w> <w>ἔτη</w> <g ref="#palm">⸙</g> <w><hi rend="supraline"><num value="88"><w>πη</w></num></hi>ἐτελεύτ<supplied reason="lost">η</supplied>
+                    <lb n="4" break="no"/><supplied reason="lost">σ</supplied>εν</w> <w>δὲ</w> <w>τῇ</w> <w>πρὸ</w> <w><hi rend="supraline"><num value="15"><w>ιε</w></num></hi>καλα<supplied reason="lost">ν</supplied>
+                    <lb n="5" break="no"/><supplied reason="lost">δ</supplied>ῶν</w> <name><w>Φεβρουαρίων</w></name> <w>ἡμέ
+                    <lb n="6" break="no"/><supplied reason="lost">ρ</supplied>ᾳ</w> <name><w>Σαββάτῳ</w></name> <g ref="#palm">⸙</g>
                 </ab>
             </div>
             <div type="apparatus">

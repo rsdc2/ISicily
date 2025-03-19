@@ -188,7 +188,7 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
                     <lb n="1"/><w>ἄρχουσιν</w>
-                    <lb n="2"/><name><supplied reason="lost">Σ</supplied>κρειβωνίοις</name> <name>Νωμεντανῷ</name> <w>καὶ</w> <name>Μοδέστῳ</name>
+                    <lb n="2"/><name><w><supplied reason="lost">Σ</supplied>κρειβωνίοις</w></name> <name><w>Νωμεντανῷ</w></name> <w>καὶ</w> <name><w>Μοδέστῳ</w></name>
                     <lb n="0"/><gap reason="lost" unit="line" extent="unknown"/>
                     <lb n="3"/><gap reason="illegible" unit="character" extent="unknown"/>
                     <lb n="4"/><gap reason="illegible" unit="character" extent="unknown"/>

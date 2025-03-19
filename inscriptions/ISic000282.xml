@@ -198,7 +198,7 @@
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#TA #JP">
                 <ab>
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w>Mevius</w> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <roleName type="civic.religious" subtype="pontifex"><w><expan><abbr><supplied reason="lost">p</supplied>ont</abbr><ex>ifex</ex></expan></w></roleName> <g ref="#interpunct">·</g> <roleName type="civic" subtype="duumvir"><num value="2"><hi rend="supraline">II</hi></num> <w><supplied reason="lost">vir</supplied></w></roleName> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <roleName type="civic.religious" subtype="pontifex"><w><expan><abbr><supplied reason="lost">p</supplied>ont</abbr><ex>ifex</ex></expan></w></roleName> <g ref="#interpunct">·</g> <roleName type="civic" subtype="duumvir"><num value="2"><w><hi rend="supraline">II</hi></w></num> <w><supplied reason="lost">vir</supplied></w></roleName> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="3"/><gap reason="lost" extent="unknown" unit="line"/>
                 </ab>
             </div>

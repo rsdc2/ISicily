@@ -178,8 +178,8 @@
         <body>
             <div type="edition" xml:space="preserve" subtype="PHI" n="PHI334777">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>Π</abbr><ex>οπλίου</ex></expan></w> <name><supplied reason="lost">Γ</supplied>ρανίου</name>
-                    <lb n="2"/><name><unclear>Μ</unclear>οσχᾶ.</name>
+                    <lb n="1"/><w><expan><abbr>Π</abbr><ex>οπλίου</ex></expan></w> <name><w><supplied reason="lost">Γ</supplied>ρανίου</w></name>
+                    <lb n="2"/><name><w><unclear>Μ</unclear>οσχᾶ.</w></name>
                     <lb n="3"/>
                 </ab>
             </div>

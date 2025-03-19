@@ -193,15 +193,15 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>L</abbr><ex>ucius</ex></expan></w> <g ref="#interpunct">·</g> <name>Baebius</name> <g ref="#interpunct">·</g> <name><expan><abbr>L</abbr><ex>uci</ex></expan></name> <w><expan><abbr>f</abbr><ex>ilius</ex></expan></w>
-                    <lb n="2"/><name><expan><abbr>Gal</abbr><ex>eria</ex></expan></name> <g ref="#interpunct">·</g> <name>Iuncinus</name>
+                    <lb n="1"/><w><expan><abbr>L</abbr><ex>ucius</ex></expan></w> <g ref="#interpunct">·</g> <name><w>Baebius</w></name> <g ref="#interpunct">·</g> <name><w><expan><abbr>L</abbr><ex>uci</ex></expan></w></name> <w><expan><abbr>f</abbr><ex>ilius</ex></expan></w>
+                    <lb n="2"/><name><w><expan><abbr>Gal</abbr><ex>eria</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w>Iuncinus</w></name>
                     <lb n="3"/><roleName type="military" subtype="praefectus.fabrum"><w><expan><abbr>praef</abbr><ex>ectus</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>fabr</abbr><ex>um</ex></expan></w></roleName> <roleName type="military" subtype="praefectus.cohortis"><w><expan><abbr>praef</abbr><ex>ectus</ex></expan></w>
-                    <lb n="4"/><w><expan><abbr>coh</abbr><ex>ortis</ex></expan></w></roleName> <num value="4">IIII</num> <g ref="#interpunct">·</g> <name>Raetorum</name>
-                    <lb n="5"/><roleName type="military" subtype="tribunus.militum"><w><expan><abbr>trib</abbr><ex>unus</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>milit</abbr><ex>um</ex></expan></w></roleName> <g ref="#interpunct">·</g> <w><expan><abbr>leg</abbr><ex>ionis</ex></expan></w> <g ref="#interpunct">·</g> <num value="22">XXII</num>
-                    <lb n="6"/><name>Deiotarianae</name>
-                    <lb n="7"/><roleName type="military" subtype="praefectus.alae"><w><expan><abbr>praef</abbr><ex>ectus</ex></expan></w> <g ref="#interpunct">·</g> <w>alae</w></roleName> <g ref="#interpunct">·</g> <name>Astyrum</name>
+                    <lb n="4"/><w><expan><abbr>coh</abbr><ex>ortis</ex></expan></w></roleName> <num value="4"><w>IIII</w></num> <g ref="#interpunct">·</g> <name><w>Raetorum</w></name>
+                    <lb n="5"/><roleName type="military" subtype="tribunus.militum"><w><expan><abbr>trib</abbr><ex>unus</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>milit</abbr><ex>um</ex></expan></w></roleName> <g ref="#interpunct">·</g> <w><expan><abbr>leg</abbr><ex>ionis</ex></expan></w> <g ref="#interpunct">·</g> <num value="22"><w>XXII</w></num>
+                    <lb n="6"/><name><w>Deiotarianae</w></name>
+                    <lb n="7"/><roleName type="military" subtype="praefectus.alae"><w><expan><abbr>praef</abbr><ex>ectus</ex></expan></w> <g ref="#interpunct">·</g> <w>alae</w></roleName> <g ref="#interpunct">·</g> <name><w>Astyrum</w></name>
                     <lb n="8"/><roleName type="military" subtype="praefectus.vehiculorum"><w><expan><abbr>praef</abbr><ex>ectus</ex></expan></w> <g ref="#interpunct">·</g> <w>vehiculorum</w></roleName>
-                    <lb n="9"/><roleName type="supracivic" subtype="iuridicus.aegypti"><w>iuridicus</w> <g ref="#interpunct">·</g> <name>Aegypti</name></roleName>
+                    <lb n="9"/><roleName type="supracivic" subtype="iuridicus.aegypti"><w>iuridicus</w> <g ref="#interpunct">·</g> <name><w>Aegypti</w></name></roleName>
                 </ab>
             </div>
             <div type="apparatus">

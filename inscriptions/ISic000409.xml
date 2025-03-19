@@ -191,9 +191,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
-                    <lb n="1"/><w>Dis</w> <g ref="#interpunct">·</g> <name><expan><abbr>Ma<hi rend="ligature">ni</hi>b</abbr><ex>us</ex></expan></name> <g ref="#interpunct">·</g>
-                    <lb n="2"/><name><expan><abbr>C</abbr><ex>aius</ex></expan></name> <g ref="#interpunct">·</g> <name>Iul<hi rend="ligature">iu</hi>s</name> <g ref="#interpunct">·</g> <name>P<hi rend="ligature">ri</hi><hi rend="ligature">mi</hi><hi rend="superscript">o</hi></name>
-                    <lb n="3"/><name>Isidis</name> <g ref="#interpunct">·</g> <roleName type="paracivic.religious" subtype="scoparius"><w><expan><abbr>scop<hi rend="ligature">ar</hi></abbr><ex>ius</ex></expan></w></roleName>
+                    <lb n="1"/><w>Dis</w> <g ref="#interpunct">·</g> <name><w><expan><abbr>Ma<hi rend="ligature">ni</hi>b</abbr><ex>us</ex></expan></w></name> <g ref="#interpunct">·</g>
+                    <lb n="2"/><name><w><expan><abbr>C</abbr><ex>aius</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w>Iul<hi rend="ligature">iu</hi>s</w></name> <g ref="#interpunct">·</g> <name><w>P<hi rend="ligature">ri</hi><hi rend="ligature">mi</hi><hi rend="superscript">o</hi></w></name>
+                    <lb n="3"/><name><w>Isidis</w></name> <g ref="#interpunct">·</g> <roleName type="paracivic.religious" subtype="scoparius"><w><expan><abbr>scop<hi rend="ligature">ar</hi></abbr><ex>ius</ex></expan></w></roleName>
                     <lb n="4"/><w><expan><abbr>vix</abbr><ex>it</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>ann</abbr><ex>os</ex></expan></w> <g ref="#interpunct">·</g> <w>LXXX</w>
                     <lb n="5"/><w>pie</w> <g ref="#interpunct">·</g> <w>salve</w>
                 </ab>

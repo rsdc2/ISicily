@@ -208,7 +208,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#TA #JP">
                 <ab>
-                    <lb n="1" xml:id="AMoAK"/><persName type="attested" xml:id="AMoAU"><name xml:id="AMoAe">Afric<hi rend="ligature" xml:id="AMoAo">an</hi>us</name></persName>
+                    <lb n="1" xml:id="AMoAK"/><persName type="attested" xml:id="AMoAU"><name xml:id="AMoAe"><w>Afric<hi rend="ligature" xml:id="AMoAo">an</hi>us</w></name></persName>
                     <lb n="2" xml:id="AMoAy"/><w xml:id="AMoAΙ">ave</w> <g ref="#interpunct" xml:id="AMoAΤ">·</g> <w xml:id="AMoAε">et</w> <g ref="#interpunct" xml:id="AMoAο">·</g> <w xml:id="AMoBA">vale</w>
                 </ab>
             </div>

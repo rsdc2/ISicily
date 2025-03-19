@@ -185,10 +185,10 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#IG">
                 <ab>
                     <lb n="1"/><w>Ἐτε<surplus>υ</surplus>λεύ
-                    <lb n="2" break="no"/>τησε</w> <persName type="attested"><name>Ἀφρο
-                    <lb n="3" break="no"/>δ<choice><corr>ι</corr><sic>ρ</sic></choice>σ<supplied reason="omitted">ί</supplied>α</name></persName> <w><choice><reg>ἐ</reg><orig>αἰ</orig></choice>τ<surplus>ε</surplus>
-                    <lb n="4" break="no"/>ῶν</w> <num value="10">ι</num> <w>μή
-                    <lb n="5" break="no"/>νων</w> <num value="19">ιθ</num>
+                    <lb n="2" break="no"/>τησε</w> <persName type="attested"><name><w>Ἀφρο
+                    <lb n="3" break="no"/>δ<choice><corr>ι</corr><sic>ρ</sic></choice>σ<supplied reason="omitted">ί</supplied>α</w></name></persName> <w><choice><reg>ἐ</reg><orig>αἰ</orig></choice>τ<surplus>ε</surplus>
+                    <lb n="4" break="no"/>ῶν</w> <num value="10"><w>ι</w></num> <w>μή
+                    <lb n="5" break="no"/>νων</w> <num value="19"><w>ιθ</w></num>
                 </ab>
                </div>
             <div type="apparatus">

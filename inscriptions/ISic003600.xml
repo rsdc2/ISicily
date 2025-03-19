@@ -188,9 +188,9 @@
                 <ab>
                     <lb n="1"/><g ref="#cross_latin">†</g>
                     <lb n="2"/><w>Εἰρήνα</w> <w>ἔζη
-                    <lb n="3" break="no"/>σεν</w> <w>ἔτη</w> <num value="22">κβ</num>
+                    <lb n="3" break="no"/>σεν</w> <w>ἔτη</w> <num value="22"><w>κβ</w></num>
                     <lb n="4"/><w><supplied reason="lost">κ</supplied>αὶ</w> <w>ἀπέθανεν</w>
-                    <lb n="5"/><w>ἐν</w> <name>Κυρ<supplied reason="lost">ίῳ</supplied></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="5"/><w>ἐν</w> <name><w>Κυρ<supplied reason="lost">ίῳ</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>
             <div type="apparatus">

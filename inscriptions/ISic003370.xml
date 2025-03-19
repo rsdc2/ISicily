@@ -189,7 +189,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/><w>Αὖλε</w> <name>Νόμμιε</name>
+                    <lb n="1"/><w>Αὖλε</w> <name><w>Νόμμιε</w></name>
                     <lb n="2"/><w>ἐπιγόν<surplus>ι</surplus>ων</w>
                     <lb n="3"/><w>χρηστὲ</w>
                     <lb n="4"/><w><unclear>χαῖρε</unclear></w>

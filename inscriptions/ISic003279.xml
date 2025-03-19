@@ -196,7 +196,7 @@
                 <ab>
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w>simae</w>
                     <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w>imi</w> <g ref="#interpunct">·</g> <w>que</w>
-                    <lb n="3"/><w><supplied reason="lost">vixit</supplied></w> <gap reason="lost" extent="unknown" unit="character"/> <num>III</num> <w>diem</w> <num value="1">I</num>
+                    <lb n="3"/><w><supplied reason="lost">vixit</supplied></w> <gap reason="lost" extent="unknown" unit="character"/> <num><w>III</w></num> <w>diem</w> <num value="1"><w>I</w></num>
                     <lb n="4"/><w><supplied reason="lost" cert="low"><expan><abbr>dep</abbr><ex>osita</ex></expan></supplied></w> <gap reason="lost" extent="unknown" unit="character"/> <w>iano</w> <roleName type="supracivic" subtype="consul"><w><expan><abbr>cons</abbr><ex>ulibus</ex></expan></w></roleName>
                 </ab>
             </div>

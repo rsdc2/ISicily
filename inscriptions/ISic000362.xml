@@ -193,10 +193,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
-                    <lb n="1"/><w>Dis</w> <g ref="#interpunct">·</g> <name><expan><abbr>M</abbr><ex>anibus</ex></expan></name> <g ref="#interpunct">·</g>
-                    <lb n="2"/><name>Numonia</name> <g ref="#interpunct">·</g>
-                    <lb n="3"/><name>Alexandrea</name> <g ref="#interpunct">·</g>
-                    <lb n="4"/><w><expan><abbr>vix</abbr><ex>it</ex></expan></w> <w><expan><abbr>ann</abbr><ex>is</ex></expan></w> <num value="25">XXV</num>
+                    <lb n="1"/><w>Dis</w> <g ref="#interpunct">·</g> <name><w><expan><abbr>M</abbr><ex>anibus</ex></expan></w></name> <g ref="#interpunct">·</g>
+                    <lb n="2"/><name><w>Numonia</w></name> <g ref="#interpunct">·</g>
+                    <lb n="3"/><name><w>Alexandrea</w></name> <g ref="#interpunct">·</g>
+                    <lb n="4"/><w><expan><abbr>vix</abbr><ex>it</ex></expan></w> <w><expan><abbr>ann</abbr><ex>is</ex></expan></w> <num value="25"><w>XXV</w></num>
                 </ab>
             </div>
             <div type="apparatus">

@@ -199,10 +199,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#NQ">
                 <ab>
-                    <lb n="1"/><w>ἐνθάδε</w> <w>κῖτε</w> <g ref="#interpunct">·</g> <persName type="#attested"><name>Καλὴ</name></persName> <w><expan><abbr><hi rend="ligature">π<unclear>ρ</unclear></hi>ε</abbr><ex>σ</ex><abbr>β</abbr><ex>ῦτις</ex></expan></w>
-                    <lb n="2"/><w><expan><abbr>ζήσ</abbr><ex>ασ</ex><abbr>α</abbr></expan></w> <g ref="#interpunct">·</g> <w>ἔτη</w> <g ref="#interpunct">·</g> <num value="50"><hi rend="supraline">ν</hi></num> <w><choice><orig>ἀμέπτ<hi rend="inverted">ω</hi>ς</orig><reg>ἀμέμπτως</reg></choice></w>
-                    <lb n="3"/><w>τὸν</w> <w>βίον</w> <w><expan><abbr>τελ</abbr><ex>ευτᾷ</ex></expan></w> <w>τῇ</w> <w><expan><abbr>πρ</abbr><ex>ὸ</ex></expan></w> <num value="19"><hi rend="supraline">ιθ</hi></num> <w><expan><abbr>κ</abbr><ex>αλα</ex><abbr>ν</abbr><ex>δῶν</ex></expan></w>
-                    <lb n="4"/><name>Ὀκτ<hi rend="inverted">ω</hi>βρί<hi rend="inverted">ω</hi>ν</name> <g ref="#staurogram">𐆠</g>
+                    <lb n="1"/><w>ἐνθάδε</w> <w>κῖτε</w> <g ref="#interpunct">·</g> <persName type="#attested"><name><w>Καλὴ</w></name></persName> <w><expan><abbr><hi rend="ligature">π<unclear>ρ</unclear></hi>ε</abbr><ex>σ</ex><abbr>β</abbr><ex>ῦτις</ex></expan></w>
+                    <lb n="2"/><w><expan><abbr>ζήσ</abbr><ex>ασ</ex><abbr>α</abbr></expan></w> <g ref="#interpunct">·</g> <w>ἔτη</w> <g ref="#interpunct">·</g> <num value="50"><w><hi rend="supraline">ν</hi></w></num> <w><choice><orig>ἀμέπτ<hi rend="inverted">ω</hi>ς</orig><reg>ἀμέμπτως</reg></choice></w>
+                    <lb n="3"/><w>τὸν</w> <w>βίον</w> <w><expan><abbr>τελ</abbr><ex>ευτᾷ</ex></expan></w> <w>τῇ</w> <w><expan><abbr>πρ</abbr><ex>ὸ</ex></expan></w> <num value="19"><w><hi rend="supraline">ιθ</hi></w></num> <w><expan><abbr>κ</abbr><ex>αλα</ex><abbr>ν</abbr><ex>δῶν</ex></expan></w>
+                    <lb n="4"/><name><w>Ὀκτ<hi rend="inverted">ω</hi>βρί<hi rend="inverted">ω</hi>ν</w></name> <g ref="#staurogram">𐆠</g>
                 </ab>
             </div>
             <div type="apparatus">

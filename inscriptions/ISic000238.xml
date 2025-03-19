@@ -199,7 +199,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#VM #AA">
                 <ab>
-                    <lb n="1"/><persName type="divine"><name>D<hi rend="tall">i</hi>s</name> <g ref="#interpunct">·</g> <name>M<supplied reason="lost">anibus</supplied></name></persName>
+                    <lb n="1"/><persName type="divine"><name><w>D<hi rend="tall">i</hi>s</w></name> <g ref="#interpunct">·</g> <name><w>M<supplied reason="lost">anibus</supplied></w></name></persName>
                     <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <gap reason="illegible" quantity="1" unit="character"/> <w>iae</w> <gap reason="illegible" quantity="1" unit="character"/> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>

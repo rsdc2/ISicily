@@ -203,13 +203,13 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/><w>ἐνθ<supplied reason="lost">ά</supplied>δε</w> <w>κῖτε</w> <name>Μαρκι<hi rend="ligature">λίν</hi>η</name>
+                    <lb n="1"/><w>ἐνθ<supplied reason="lost">ά</supplied>δε</w> <w>κῖτε</w> <name><w>Μαρκι<hi rend="ligature">λίν</hi>η</w></name>
                     <lb n="2"/><g ref="#staurogram">𐆠</g> <w>σεμνὴ</w> <w><supplied reason="lost"><expan><abbr>κ</abbr><ex>αὶ</ex></expan></supplied></w> <w>ἄμεμπτος</w> <w>βιώσα<supplied reason="omitted">σα</supplied></w>
                     <lb n="3"/><w>ἰς</w> <w>τὸν</w> <w>κόσμον</w> <w>τοῦτον</w> <w>ἀπε<surplus>κ</surplus>
-                    <lb n="4" break="no"/>χώρι</w> <w>πρὸς</w> <w><supplied reason="omitted">τὸν</supplied></w> <name><supplied reason="omitted">Κ</supplied>ύριον</name> <w>ἐτῶν</w>
-                    <lb n="5"/><g ref="#alpha">α</g> <g ref="#staurogram">𐆠</g> <g ref="#omega">ω</g> <num value="17">ιζ</num> <orig>Α<hi rend="supraline">Ι</hi>ΧΗΝ</orig><w>πράττουσα</w> <w>τῇ</w>
-                    <lb n="6"/><w>πρὸ</w> <num value="9">θ</num> <w><expan><abbr>καλ</abbr><ex>ανδῶν</ex></expan></w> <name>Ἰανουαρί
-                    <lb n="7" break="no"/>ων</name> <w>τὸν</w> <w>δὲ</w> <w>θεόν</w> <w>σε</w> <w>φίλε</w>
+                    <lb n="4" break="no"/>χώρι</w> <w>πρὸς</w> <w><supplied reason="omitted">τὸν</supplied></w> <name><w><supplied reason="omitted">Κ</supplied>ύριον</w></name> <w>ἐτῶν</w>
+                    <lb n="5"/><g ref="#alpha">α</g> <g ref="#staurogram">𐆠</g> <g ref="#omega">ω</g> <num value="17"><w>ιζ</w></num> <orig>Α<hi rend="supraline">Ι</hi>ΧΗΝ</orig><w>πράττουσα</w> <w>τῇ</w>
+                    <lb n="6"/><w>πρὸ</w> <num value="9"><w>θ</w></num> <w><expan><abbr>καλ</abbr><ex>ανδῶν</ex></expan></w> <name><w>Ἰανουαρί
+                    <lb n="7" break="no"/>ων</w></name> <w>τὸν</w> <w>δὲ</w> <w>θεόν</w> <w>σε</w> <w>φίλε</w>
                     <lb n="8"/><w>μή</w> <w>μου</w> <w>σκύλῃς</w> <w>τὸν</w> <w><unclear>β</unclear>όθ
                     <lb n="9" break="no"/>ρον</w> <w>μή</w> <w>μοι</w> <w>δίξῃς</w> <w>φῶς</w>
                     <lb n="10"/><w>ἂ<supplied reason="omitted">ν</supplied></w> <w>δὲ</w> <w>θελήσῃς</w> <w>φῶς</w> <w>μοι</w>

@@ -174,7 +174,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="scx-Grek">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name type="idionym">Ευνο</name></persName>
+                    <lb n="1"/><persName type="attested"><name type="idionym"><w>Ευνο</w></name></persName>
                 </ab>
             </div>
             <div type="edition" xml:space="preserve" subtype="transliteration" xml:lang="scx-Latn">

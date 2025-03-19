@@ -187,9 +187,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name type="praenomen"><expan><abbr>Γν</abbr><ex>αῖος</ex></expan></name> <name type="nomen">Πονπώ
-                    <lb n="2" break="no"/>νις</name> <name type="cognomen">Ἐπαφρόδι
-                    <lb n="3" break="no"/>τος</name></persName>
+                    <lb n="1"/><persName type="attested"><name type="praenomen"><w><expan><abbr>Γν</abbr><ex>αῖος</ex></expan></w></name> <name type="nomen"><w>Πονπώ
+                    <lb n="2" break="no"/>νις</w></name> <name type="cognomen"><w>Ἐπαφρόδι
+                    <lb n="3" break="no"/>τος</w></name></persName>
                 </ab>
             </div>
             <div type="apparatus">

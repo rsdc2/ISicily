@@ -202,11 +202,11 @@
       <div type="edition" xml:space="preserve" xml:lang="la">
                 <ab>
                     <lb n="1"/><w><expan><abbr>d</abbr><ex>is</ex></expan></w> <w><expan><abbr>m</abbr><ex>anibus</ex></expan></w> <w><supplied reason="lost"><expan><abbr>s</abbr><ex>acrum</ex></expan></supplied></w>
-                    <lb n="2"/><name>Arria</name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><name><w>Arria</w></name> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="3"/><w><expan><abbr>vix</abbr><ex>it</ex></expan></w> <w><supplied reason="lost"><expan><abbr>ann</abbr><ex>is</ex></expan></supplied></w>
-                    <lb n="4"/><num atLeast="45" atMost="49">XLV</num> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="5"/><name>Arriu<supplied reason="lost">s</supplied></name> <name><supplied reason="lost">Epityn</supplied>
-                    <lb n="6" break="no"/>chan<supplied reason="lost">us</supplied></name> <gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost"><expan><abbr>f</abbr><ex>ecit</ex></expan></supplied></w>
+                    <lb n="4"/><num atLeast="45" atMost="49"><w>XLV</w></num> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="5"/><name><w>Arriu<supplied reason="lost">s</supplied></w></name> <name><w><supplied reason="lost">Epityn</supplied>
+                    <lb n="6" break="no"/>chan<supplied reason="lost">us</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost"><expan><abbr>f</abbr><ex>ecit</ex></expan></supplied></w>
                 </ab>
       </div>
       <div type="apparatus">  

@@ -190,7 +190,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="scx-Grek">
                 <ab>
-                    <lb n="1" xml:id="UΙeAK"/><w xml:id="UΙeAU">δοͱιτ</w> <w xml:id="UΙeAe">ιμ</w> <persName cert="low" xml:id="UΙeAo"><name xml:id="UΙeAy">Ρυκες</name> <name xml:id="UΙeAΙ">ͱαζσυιε<supplied reason="lost" xml:id="UΙeAΤ">ς</supplied></name></persName>
+                    <lb n="1" xml:id="UΙeAK"/><w xml:id="UΙeAU">δοͱιτ</w> <w xml:id="UΙeAe">ιμ</w> <persName cert="low" xml:id="UΙeAo"><name xml:id="UΙeAy"><w>Ρυκες</w></name> <name xml:id="UΙeAΙ"><w>ͱαζσυιε<supplied reason="lost" xml:id="UΙeAΤ">ς</supplied></w></name></persName>
                 </ab>
             </div>
             <div type="edition" xml:space="preserve" subtype="transliteration" xml:lang="scx-Latn">

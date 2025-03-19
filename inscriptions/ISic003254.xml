@@ -194,10 +194,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <name><expan><abbr>M</abbr><ex>anibus</ex></expan></name>
-                    <lb n="2"/><name>Rubriae</name> <name>Sozusae</name>
-                    <lb n="3"/><w><expan><abbr>vix</abbr><ex>it</ex></expan></w> <w><expan><abbr>an</abbr><ex>nis</ex></expan></w> <num value="30">XXX</num>
-                    <lb n="4"/><name><expan><abbr>M</abbr><ex>arcus</ex></expan></name> <name>Refrius</name> <name>Dubitatus</name>
+                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <name><w><expan><abbr>M</abbr><ex>anibus</ex></expan></w></name>
+                    <lb n="2"/><name><w>Rubriae</w></name> <name><w>Sozusae</w></name>
+                    <lb n="3"/><w><expan><abbr>vix</abbr><ex>it</ex></expan></w> <w><expan><abbr>an</abbr><ex>nis</ex></expan></w> <num value="30"><w>XXX</w></num>
+                    <lb n="4"/><name><w><expan><abbr>M</abbr><ex>arcus</ex></expan></w></name> <name><w>Refrius</w></name> <name><w>Dubitatus</w></name>
                     <lb n="5"/><w>uxori</w> <w>kar<supplied reason="undefined" evidence="previouseditor">i</supplied>ssimae</w>
                 </ab>
             </div>

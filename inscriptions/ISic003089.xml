@@ -196,9 +196,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1"/><w>ὁ</w> <w>δᾶμο<supplied reason="lost">ς</supplied></w> <placeName type="ethnic"><w><supplied reason="lost">τῶν</supplied></w> <name><supplied reason="lost">Κεφαλοιδιτᾶν</supplied></name></placeName>
-                    <lb n="2"/><persName type="attested"><name type="praenomen">Λεύκιον</name> <space unit="character" quantity="2"/><name type="nomen"><seg part="I">Δ<unclear>ο</unclear></seg><gap reason="lost" extent="unknown" unit="character"/></name> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="3"/><persName type="attested"><name type="papponym">Γναίου</name> <w>υἱωνὸ</w> <w><supplied reason="lost">ν</supplied></w></persName></persName> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><w>ὁ</w> <w>δᾶμο<supplied reason="lost">ς</supplied></w> <placeName type="ethnic"><w><supplied reason="lost">τῶν</supplied></w> <name><w><supplied reason="lost">Κεφαλοιδιτᾶν</supplied></w></name></placeName>
+                    <lb n="2"/><persName type="attested"><name type="praenomen"><w>Λεύκιον</w></name> <space unit="character" quantity="2"/><name type="nomen"><w><seg part="I">Δ<unclear>ο</unclear></seg><gap reason="lost" extent="unknown" unit="character"/></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="3"/><persName type="attested"><name type="papponym"><w>Γναίου</w></name> <w>υἱωνὸ</w> <w><supplied reason="lost">ν</supplied></w></persName></persName> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="4"/><w>εὐνοίας</w> <w>ἕνεκα</w> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>

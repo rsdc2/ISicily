@@ -197,10 +197,10 @@
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#MH">
                 <ab>
                     <lb n="0"/><gap reason="lost" extent="unknown" unit="line"/>
-                    <lb n="1"/><w><supplied reason="lost">a</supplied>nn<supplied reason="lost">is</supplied></w> <num value="16">XVI</num> <w><expan><abbr>d</abbr><ex>iebus</ex></expan></w>
-                    <lb n="2"/><num value="21">XXI</num> <g ref="#interpunct">·</g> <w>fecit</w> <g ref="#interpunct">·</g> <name><expan><abbr>Iuli</abbr><ex>us</ex></expan></name> <g ref="#interpunct">·</g>
-                    <lb n="3"/><name>Pancarpus</name> <g ref="#interpunct">·</g> <w>et</w> <g ref="#interpunct">·</g>
-                    <lb n="4"/><name>Iulia</name> <g ref="#interpunct">·</g> <name>Euty</name> <foreign xml:lang="la-Grek"><w>χ</w></foreign>i <foreign xml:lang="la-Grek"><w>ς</w></foreign> <g ref="#interpunct">·</g> <w><expan><abbr>ma</abbr><ex>ter</ex></expan></w>
+                    <lb n="1"/><w><supplied reason="lost">a</supplied>nn<supplied reason="lost">is</supplied></w> <num value="16"><w>XVI</w></num> <w><expan><abbr>d</abbr><ex>iebus</ex></expan></w>
+                    <lb n="2"/><num value="21"><w>XXI</w></num> <g ref="#interpunct">·</g> <w>fecit</w> <g ref="#interpunct">·</g> <name><w><expan><abbr>Iuli</abbr><ex>us</ex></expan></w></name> <g ref="#interpunct">·</g>
+                    <lb n="3"/><name><w>Pancarpus</w></name> <g ref="#interpunct">·</g> <w>et</w> <g ref="#interpunct">·</g>
+                    <lb n="4"/><name><w>Iulia</w></name> <g ref="#interpunct">·</g> <name><w>Euty</w></name> <foreign xml:lang="la-Grek"><w>χ</w></foreign>i <foreign xml:lang="la-Grek"><w>ς</w></foreign> <g ref="#interpunct">·</g> <w><expan><abbr>ma</abbr><ex>ter</ex></expan></w>
                 </ab>              
             </div>
             <div type="apparatus">

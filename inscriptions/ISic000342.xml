@@ -191,7 +191,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#MH">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <name><expan><abbr>M</abbr><ex>anibus</ex></expan></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <name><w><expan><abbr>M</abbr><ex>anibus</ex></expan></w></name> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="2"/><orig>CHL</orig><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="3"/><w>vix<supplied reason="lost">it</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="0"/><gap reason="lost" extent="unknown" unit="line"/>

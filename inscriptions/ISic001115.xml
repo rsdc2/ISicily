@@ -190,10 +190,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#GC">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>Δ</abbr><ex>αίμοσι</ex></expan></w> <name><expan><abbr>Χ</abbr><ex>θονίοις</ex></expan></name> <name>.</name>
-                    <lb n="2"/><name>Δόμνα</name> <w><choice><orig>ἔζεσεν</orig><reg>ἔζησεν</reg></choice></w> <w><supplied reason="lost">ἔτη</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="3"/><w><expan><abbr>μ<unclear>ῆ</unclear>ν</abbr><ex>ας</ex></expan></w> <num value="8">η</num> <name>Βόττος</name> <w><supplied reason="lost">καὶ</supplied></w> <name><supplied reason="lost">Με</supplied>
-                    <lb n="4"/>λιτίν<unclear>η</unclear></name> <w>τέκνῳ</w> <w>γλ<supplied reason="lost">υκυτάτῳ</supplied></w>
+                    <lb n="1"/><w><expan><abbr>Δ</abbr><ex>αίμοσι</ex></expan></w> <name><w><expan><abbr>Χ</abbr><ex>θονίοις</ex></expan></w></name> <name><w>.</w></name>
+                    <lb n="2"/><name><w>Δόμνα</w></name> <w><choice><orig>ἔζεσεν</orig><reg>ἔζησεν</reg></choice></w> <w><supplied reason="lost">ἔτη</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="3"/><w><expan><abbr>μ<unclear>ῆ</unclear>ν</abbr><ex>ας</ex></expan></w> <num value="8"><w>η</w></num> <name><w>Βόττος</w></name> <w><supplied reason="lost">καὶ</supplied></w> <name><w><supplied reason="lost">Με</supplied>
+                    <lb n="4"/>λιτίν<unclear>η</unclear></w></name> <w>τέκνῳ</w> <w>γλ<supplied reason="lost">υκυτάτῳ</supplied></w>
                     <lb n="5"/><w>ἐπ<supplied reason="lost">οίησαν</supplied></w>
                 </ab>
             </div>

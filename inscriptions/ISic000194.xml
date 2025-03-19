@@ -229,9 +229,9 @@
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#VM #JP">
                 <ab>
                     <lb n="1"/><w>dis</w> <w><unclear>m</unclear><supplied reason="lost">anibus</supplied></w>
-                    <lb n="2"/><name>Marciae</name> <g ref="#interpunct">·</g> <gap reason="illegible" unit="character" quantity="2"/> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="3"/><w>piae</w> <g ref="#ivy-leaf">❦</g> <w><expan><abbr>v</abbr><ex>ixit</ex></expan></w> <g ref="#ivy-leaf">❦</g> <w><expan><abbr>a</abbr><ex>nnis</ex></expan></w> <g ref="#ivy-leaf">❦</g> <num value="20">XX</num> <gap reason="lost" extent="unknown" unit="character" cert="low"/>
-                    <lb n="4"/><name><expan><abbr>L</abbr><ex>ucius</ex></expan></name> <g ref="#ivy-leaf">❦</g> <name>Mammius</name> <g ref="#ivy-leaf">❦</g> <name>V</name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><name><w>Marciae</w></name> <g ref="#interpunct">·</g> <gap reason="illegible" unit="character" quantity="2"/> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="3"/><w>piae</w> <g ref="#ivy-leaf">❦</g> <w><expan><abbr>v</abbr><ex>ixit</ex></expan></w> <g ref="#ivy-leaf">❦</g> <w><expan><abbr>a</abbr><ex>nnis</ex></expan></w> <g ref="#ivy-leaf">❦</g> <num value="20"><w>XX</w></num> <gap reason="lost" extent="unknown" unit="character" cert="low"/>
+                    <lb n="4"/><name><w><expan><abbr>L</abbr><ex>ucius</ex></expan></w></name> <g ref="#ivy-leaf">❦</g> <name><w>Mammius</w></name> <g ref="#ivy-leaf">❦</g> <name><w>V</w></name> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="5"/><w>uxor<hi rend="tall">i</hi></w> <g ref="#ivy-leaf">❦</g> <w>cas<unclear>t</unclear><supplied reason="lost">issimae</supplied></w>
                 </ab>
             </div>

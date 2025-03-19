@@ -192,7 +192,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/><w><supplied reason="lost"><expan><abbr>Θ</abbr><ex>εοῖς</ex></expan></supplied></w> <name><expan><abbr>Κ</abbr><ex>αταχθονίοις</ex></expan></name> <g ref="#ivy-leaf">❦</g>
+                    <lb n="1"/><w><supplied reason="lost"><expan><abbr>Θ</abbr><ex>εοῖς</ex></expan></supplied></w> <name><w><expan><abbr>Κ</abbr><ex>αταχθονίοις</ex></expan></w></name> <g ref="#ivy-leaf">❦</g>
                     <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <orig>ΤΙΜΟ</orig><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="2a"/><gap reason="lost" extent="unknown" unit="character"/>
                 </ab>

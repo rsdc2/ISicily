@@ -209,12 +209,12 @@
         <body>
             <div type="edition" xml:space="preserve" subtype="EDR" n="EDR080558" xml:lang="la">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>T</abbr><ex>ito</ex></expan></w> <name>Quarto</name>
-                    <lb n="2"/><name>Masculo</name>
-                    <lb n="3"/><name><expan><abbr>T</abbr><ex>iti</ex></expan></name> <name>Quarti</name> <name>Cres
-                    <lb n="4" break="no"/>centinii</name> <g ref="#interpunct">·</g> <name><expan><abbr>Q</abbr><ex>ui</ex><abbr>r</abbr><ex>ina</ex></expan></name> <g ref="#interpunct">·</g>
+                    <lb n="1"/><w><expan><abbr>T</abbr><ex>ito</ex></expan></w> <name><w>Quarto</w></name>
+                    <lb n="2"/><name><w>Masculo</w></name>
+                    <lb n="3"/><name><w><expan><abbr>T</abbr><ex>iti</ex></expan></w></name> <name><w>Quarti</w></name> <name><w>Cres
+                    <lb n="4" break="no"/>centinii</w></name> <g ref="#interpunct">·</g> <name><w><expan><abbr>Q</abbr><ex>ui</ex><abbr>r</abbr><ex>ina</ex></expan></w></name> <g ref="#interpunct">·</g>
                     <lb n="5"/><w><expan><abbr>fil</abbr><ex>io</ex></expan></w> <w><expan><abbr>dec</abbr><ex>urioni</ex></expan></w> <w><expan><abbr>spl</abbr><ex>endidissimae</ex></expan></w>
-                    <lb n="6"/><w><expan><abbr>col</abbr><ex>oniae</ex></expan></w> <name><expan><abbr>Aug</abbr><ex>ustae</ex></expan></name> <w><choice><sic><expan><abbr>Lilib</abbr><ex>itanorum</ex></expan></sic><corr>Lilybitanorum</corr></choice></w>
+                    <lb n="6"/><w><expan><abbr>col</abbr><ex>oniae</ex></expan></w> <name><w><expan><abbr>Aug</abbr><ex>ustae</ex></expan></w></name> <w><choice><sic><expan><abbr>Lilib</abbr><ex>itanorum</ex></expan></sic><corr>Lilybitanorum</corr></choice></w>
                     <lb n="7"/><w><expan><abbr>q</abbr><ex>uestori</ex></expan></w> <w><expan><abbr>p</abbr><ex>ecuniae</ex></expan></w> <w><expan><abbr>p</abbr><ex>ublicae</ex></expan></w> <w><expan><abbr>cur</abbr><ex>atori</ex></expan></w> <w><expan><abbr>f</abbr><ex>rumenti</ex></expan></w> <w><expan><abbr>p</abbr><ex>ublici</ex></expan></w>
                     <lb n="8"/><gap reason="lost" extent="unknown" unit="line"/>
                 </ab>

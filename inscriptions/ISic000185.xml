@@ -208,9 +208,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP #AA">
                 <ab>
-                    <lb n="1" xml:id="ASyAK"/><persName type="attested" xml:id="ASyAU"><name xml:id="ASyAe">Ignatia</name>
-                    <lb n="2" xml:id="ASyAo"/><name xml:id="ASyAy">Athanais</name></persName>
-                    <lb n="3" xml:id="ASyAΙ"/><w xml:id="ASyAΤ"><expan xml:id="ASyAε"><abbr xml:id="ASyAο">vix</abbr><ex xml:id="ASyBA">it</ex></expan></w> <w xml:id="ASyBK"><expan xml:id="ASyBU"><abbr xml:id="ASyBe">a</abbr><ex xml:id="ASyBo">nnis</ex></expan></w> <num value="70" xml:id="ASyBy">LXX</num>
+                    <lb n="1" xml:id="ASyAK"/><persName type="attested" xml:id="ASyAU"><name xml:id="ASyAe"><w>Ignatia</w></name>
+                    <lb n="2" xml:id="ASyAo"/><name xml:id="ASyAy"><w>Athanais</w></name></persName>
+                    <lb n="3" xml:id="ASyAΙ"/><w xml:id="ASyAΤ"><expan xml:id="ASyAε"><abbr xml:id="ASyAο">vix</abbr><ex xml:id="ASyBA">it</ex></expan></w> <w xml:id="ASyBK"><expan xml:id="ASyBU"><abbr xml:id="ASyBe">a</abbr><ex xml:id="ASyBo">nnis</ex></expan></w> <num value="70" xml:id="ASyBy"><w>LXX</w></num>
                 </ab>
             </div>
             <div type="apparatus">

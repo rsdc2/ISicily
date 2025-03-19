@@ -191,7 +191,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#MB">
                 <ab>
-                    <lb n="1"/><persName><name><supplied reason="lost" cert="low">Παυ</supplied>λ<supplied reason="lost">ὲ</supplied>νος</name></persName>
+                    <lb n="1"/><persName><name><w><supplied reason="lost" cert="low">Παυ</supplied>λ<supplied reason="lost">ὲ</supplied>νος</w></name></persName>
                     <lb n="2"/><w><supplied reason="lost">αὐτ</supplied>ῷ</w> <w>ζωῂ</w>
                     <lb n="3"/><w><supplied reason="lost">αἰώνι</supplied>ος</w>
                 </ab>

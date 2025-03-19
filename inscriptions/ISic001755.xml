@@ -175,7 +175,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#MLH">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name>Ba<hi rend="ligature">de</hi>i</name></persName>
+                    <lb n="1"/><persName type="attested"><name><w>Ba<hi rend="ligature">de</hi>i</w></name></persName>
                 </ab>
             </div>
             <div type="apparatus">

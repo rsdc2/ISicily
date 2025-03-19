@@ -189,11 +189,11 @@
         <body>
             <div type="edition" xml:space="preserve" subtype="PHI" n="PHI334796">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>Γ</abbr><ex>αΐου</ex></expan></w> <g ref="#interpunct">∙</g> <name>Κλωδίου</name>
-                    <lb n="2"/><name>Μύστη</name>
+                    <lb n="1"/><w><expan><abbr>Γ</abbr><ex>αΐου</ex></expan></w> <g ref="#interpunct">∙</g> <name><w>Κλωδίου</w></name>
+                    <lb n="2"/><name><w>Μύστη</w></name>
                     <lb n="3"/>
-                    <lb n="4"/><name>Α</name>
-                    <lb n="5"/><name>☩</name>
+                    <lb n="4"/><name><w>Α</w></name>
+                    <lb n="5"/><name><w>☩</w></name>
                     <lb n="6"/>
                 </ab>
             </div>

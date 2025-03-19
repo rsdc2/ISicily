@@ -181,8 +181,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="'#JP">
                 <ab>
-                    <lb n="1"/><w>M</w> <g ref="#interpunct">·</g> <name><unclear>A</unclear></name> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="2"/><name>C</name> <g ref="#interpunct">·</g> <w><unclear>f</unclear></w> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><w>M</w> <g ref="#interpunct">·</g> <name><w><unclear>A</unclear></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><name><w>C</w></name> <g ref="#interpunct">·</g> <w><unclear>f</unclear></w> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>
             <div type="apparatus">

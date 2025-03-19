@@ -199,8 +199,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#VM #AA">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name><expan><abbr>M</abbr><ex>arco</ex></expan></name> <g ref="#interpunct">·</g> <name>Voluscio</name>
-                    <lb n="2"/><persName><name type="patronym"><expan><abbr>M</abbr><ex>arci</ex></expan></name></persName> <g ref="#interpunct">·</g> <w><expan><abbr>f</abbr><ex>ilio</ex></expan></w> <g ref="#interpunct">·</g> <name>Felici</name></persName>
+                    <lb n="1"/><persName type="attested"><name><w><expan><abbr>M</abbr><ex>arco</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w>Voluscio</w></name>
+                    <lb n="2"/><persName><name type="patronym"><w><expan><abbr>M</abbr><ex>arci</ex></expan></w></name></persName> <g ref="#interpunct">·</g> <w><expan><abbr>f</abbr><ex>ilio</ex></expan></w> <g ref="#interpunct">·</g> <name><w>Felici</w></name></persName>
                 </ab>
             </div>
             <div type="apparatus">

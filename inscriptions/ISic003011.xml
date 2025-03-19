@@ -194,8 +194,8 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
                     <lb n="1"/><w>σπέ<supplied reason="lost">νδεται</supplied></w>
-                    <lb n="2"/><name>Πῦρ</name>
-                    <lb n="3"/><name>Ἄρκο</name>
+                    <lb n="2"/><name><w>Πῦρ</w></name>
+                    <lb n="3"/><name><w>Ἄρκο</w></name>
                 </ab>
             </div>
                     <!--  create a new record for lines 4-6

@@ -190,7 +190,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#MB">
                 <ab>
-                    <lb n="1"/><persName><name>Θεόδωρε</name></persName>
+                    <lb n="1"/><persName><name><w>Θεόδωρε</w></name></persName>
                     <lb n="2"/><w>χρηστὲ</w> <w>καὶ</w>
                     <lb n="3"/><w>ἄμεμπτε</w>
                 </ab>

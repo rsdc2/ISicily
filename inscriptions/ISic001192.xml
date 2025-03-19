@@ -193,8 +193,8 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#MH">
                 <ab>
                     <lb n="1"/><w>οἱ</w> <w>ἀλειφόμε<supplied reason="lost">νοι</supplied></w>
-                    <lb n="2"/><persName type="attested"><name>Ἀγάθαρχον</name>
-                    <lb n="3"/><persName type="attested"><name type="patronym">Ἡρακλείου</name></persName></persName>
+                    <lb n="2"/><persName type="attested"><name><w>Ἀγάθαρχον</w></name>
+                    <lb n="3"/><persName type="attested"><name type="patronym"><w>Ἡρακλείου</w></name></persName></persName>
                 </ab>
             </div>
             <div type="apparatus">

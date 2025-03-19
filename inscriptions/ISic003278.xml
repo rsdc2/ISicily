@@ -196,9 +196,9 @@
                 <ab>
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">D</supplied>onatia</w> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">vi</supplied>xit</w> <w>ann<supplied reason="lost">is</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="3"/><w><supplied reason="lost"><expan><abbr>dep</abbr><ex>osit</ex></expan></supplied></w> <gap reason="lost" extent="unknown" unit="character"/> <name><supplied reason="lost">No</supplied><expan><abbr>n</abbr><ex>as</ex></expan></name> <name>Mar<supplied reason="lost"><expan><abbr>t</abbr><ex>ias</ex></expan></supplied></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="3"/><w><supplied reason="lost"><expan><abbr>dep</abbr><ex>osit</ex></expan></supplied></w> <gap reason="lost" extent="unknown" unit="character"/> <name><w><supplied reason="lost">No</supplied><expan><abbr>n</abbr><ex>as</ex></expan></w></name> <name><w>Mar<supplied reason="lost"><expan><abbr>t</abbr><ex>ias</ex></expan></supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <roleName type="supracivic" subtype="consul"><w><supplied reason="lost">consul</supplied></w> <w>atu</w></roleName> <roleName type="supracivic" subtype="dominus"><w><expan><abbr>d<am>d</am></abbr><ex>ominis</ex></expan></w></roleName> <w><supplied reason="lost"><expan><abbr>n<am>n</am></abbr><ex>ostris</ex></expan></supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/> <name><supplied reason="lost">Hon</supplied>o<supplied reason="lost">r</supplied>io</name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/> <name><w><supplied reason="lost">Hon</supplied>o<supplied reason="lost">r</supplied>io</w></name> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>
             <div type="apparatus">

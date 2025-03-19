@@ -199,8 +199,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#SW">
                 <ab>
-                    <lb n="1"/><w><supplied reason="lost"><expan><abbr>Θ</abbr><ex>εοῖς</ex></expan></supplied></w> <g ref="#interpunct">·</g> <name><expan><abbr>Κ</abbr><ex>αταχθονίοις</ex></expan></name>
-                    <lb n="2"/><name><expan><abbr>Κ</abbr><ex>λαυδία</ex></expan></name> <g ref="#interpunct">·</g> <name>Σωτή<supplied reason="lost">ρ</supplied>ις</name>
+                    <lb n="1"/><w><supplied reason="lost"><expan><abbr>Θ</abbr><ex>εοῖς</ex></expan></supplied></w> <g ref="#interpunct">·</g> <name><w><expan><abbr>Κ</abbr><ex>αταχθονίοις</ex></expan></w></name>
+                    <lb n="2"/><name><w><expan><abbr>Κ</abbr><ex>λαυδία</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w>Σωτή<supplied reason="lost">ρ</supplied>ις</w></name>
                     <lb n="3"/><w>χρηστὰ</w> <w><unclear>κ</unclear><unclear>α</unclear>ὶ</w>
                     <lb n="4"/><w>ἄ<hi rend="ligature">με</hi><hi rend="ligature">μπ</hi>τ<hi rend="ligature">ος</hi></w> <w><expan><abbr>ἔζ</abbr><ex>ησεν</ex></expan></w>
                     <lb n="5"/><w>ἔ<hi rend="ligature">τη</hi></w> <g ref="#interpunct">·</g> <w>ξγ’</w> <g ref="#interpunct">·</g> <w><expan><abbr><hi rend="ligature">μῆ</hi></abbr><ex>νας</ex></expan></w> <g ref="#interpunct">·</g> <w>γ’</w> <g ref="#interpunct">·</g> <w><expan><abbr><hi rend="ligature">ἡμέ</hi></abbr><ex>ρας</ex></expan></w> <w>θ’</w>

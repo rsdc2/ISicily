@@ -178,10 +178,10 @@
         <body>
             <div type="edition" xml:space="preserve" subtype="PHI" n="PHI334849">
                 <ab>
-                    <lb n="1"/><w>Θεοῖς</w> <name>Οἰκεί-</name>
-                    <lb n="2"/><w>οις</w> <name>Σκριβώνιος</name> <name>Ἄνθος</name>
+                    <lb n="1"/><w>Θεοῖς</w> <name><w>Οἰκεί-</w></name>
+                    <lb n="2"/><w>οις</w> <name><w>Σκριβώνιος</w></name> <name><w>Ἄνθος</w></name>
                     <lb n="3"/><w><supplied reason="lost">ἔζη</supplied>σεν</w> <w>ἔτη</w> <w>ξεʹ</w> <w><expan><abbr>μ</abbr><ex>ῆνας</ex></expan></w> <w>ζ</w>
-                    <lb n="4"/><w><supplied reason="lost">ἐ</supplied>ποίησεν</w> <name>Ἀνθὶς</name>
+                    <lb n="4"/><w><supplied reason="lost">ἐ</supplied>ποίησεν</w> <name><w>Ἀνθὶς</w></name>
                     <lb n="5"/><w><supplied reason="lost">συζ</supplied></w> <w><unclear>ύ</unclear>γῳ</w> <w>καλῶς</w> <w>ζήσαν<supplied reason="omitted">τι</supplied>.</w>
                     <lb n="6"/>
                 </ab>

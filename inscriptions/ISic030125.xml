@@ -175,10 +175,10 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
                     <milestone unit="face" n="a"/>
-                    <lb n="1"/><del rend="erasure"><gap reason="lost" extent="unknown" unit="character"/></del><persName type="attested"><name type="idionym">Δαικράτε̄ς</name> <persName type="attested"><name type="patronym">Λυκίσ
-                    <lb n="2" break="no"/>κο̄</name></persName></persName> <milestone unit="face" n="b"/>
-                    <lb n="3"/><w>φράτρα</w> <num value="5">πέμ
-                    <lb n="4" break="no"/>πτ<unclear>α</unclear></num>
+                    <lb n="1"/><del rend="erasure"><gap reason="lost" extent="unknown" unit="character"/></del><persName type="attested"><name type="idionym"><w>Δαικράτε̄ς</w></name> <persName type="attested"><name type="patronym"><w>Λυκίσ
+                    <lb n="2" break="no"/>κο̄</w></name></persName></persName> <milestone unit="face" n="b"/>
+                    <lb n="3"/><w>φράτρα</w> <num value="5"><w>πέμ
+                    <lb n="4" break="no"/>πτ<unclear>α</unclear></w></num>
                 </ab>
             </div>
             <div type="apparatus">

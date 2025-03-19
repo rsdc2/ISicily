@@ -188,13 +188,13 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
                     <lb n="1"/><w>οἴκος</w> <w>αἰώνος</w> <w>ἐν</w> <w><expan><abbr><am><g ref="#christogram">☧</g></am></abbr><ex>Χριστ</ex><abbr>ῷ</abbr></expan></w>
-                    <lb n="2"/><name>Μακαρία</name> <name>Εὐανγέλις</name>
+                    <lb n="2"/><name><w>Μακαρία</w></name> <name><w>Εὐανγέλις</w></name>
                     <lb n="3"/><w>πιστὴ</w> <w>ἐν</w> <w><expan><abbr><am><g ref="#christogram">☧</g></am></abbr><ex>Χριστ</ex><abbr>ῷ</abbr></expan></w> <w>ἔζησεν</w> <w>ἄ
-                    <lb n="4" break="no"/>μεμπτος</w> <w>ἔτη</w> <num value="20"><hi rend="supraline">κ</hi></num> <w>μῆ
-                    <lb n="5" break="no"/>νας</w> <num value="9">θ</num> <w>ἡμέρας</w> <num value="17"><hi rend="supraline">ιζ</hi></num>. <w>παρ
+                    <lb n="4" break="no"/>μεμπτος</w> <w>ἔτη</w> <num value="20"><w><hi rend="supraline">κ</hi></w></num> <w>μῆ
+                    <lb n="5" break="no"/>νας</w> <num value="9"><w>θ</w></num> <w>ἡμέρας</w> <num value="17"><w><hi rend="supraline">ιζ</hi></w></num>. <w>παρ
                     <lb n="6" break="no"/>θένος</w> <w>ἁγνοτάτη</w> <w>νυνφευ
                     <lb n="7" break="no"/><supplied reason="lost">θεῖσα ἐν γα</supplied>μῷ</w> <w>νομίμῳ</w>
-                    <lb n="8"/><w><supplied reason="lost">ἐτελεύτη</supplied>σεν</w> <w><hi rend="ligature">πρ</hi>ὸ</w> <num value="1">α</num> <w>καλανδῶν</w>
+                    <lb n="8"/><w><supplied reason="lost">ἐτελεύτη</supplied>σεν</w> <w><hi rend="ligature">πρ</hi>ὸ</w> <num value="1"><w>α</w></num> <w>καλανδῶν</w>
                     <lb n="9"/><gap reason="lost" extent="unknown" unit="character"/> <w>εἰς</w> <w>εἰρήνην</w> <w>ἡ</w> <w>κοί
                     <lb n="10" break="no"/><supplied reason="lost">μησίς σου</supplied></w>
                 </ab>

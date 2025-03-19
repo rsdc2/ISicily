@@ -186,8 +186,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1"/><w>Νεωτέρας</w> <w>κατὰ</w> <w>βάτρια</w> <space unit="character" quantity="3"/><name>Ἀρχύται</name>
-                    <lb n="2"/><name><unclear>Ν</unclear>στιοδώρου</name> <name>Σάνγρα</name> <w>τὸν</w> <w>ναὸν</w> <w>καὶ</w> <w>τὸ</w>
+                    <lb n="1"/><w>Νεωτέρας</w> <w>κατὰ</w> <w>βάτρια</w> <space unit="character" quantity="3"/><name><w>Ἀρχύται</w></name>
+                    <lb n="2"/><name><w><unclear>Ν</unclear>στιοδώρου</w></name> <name><w>Σάνγρα</w></name> <w>τὸν</w> <w>ναὸν</w> <w>καὶ</w> <w>τὸ</w>
                     <lb n="3"/><w>ἄγαλμα</w> <w><choice><orig>ἐπόησε</orig><reg>ἐπόιησε</reg></choice></w>
                     <lb n="4"/><w>ἐκ</w> <w>τῶν</w> <w>ἰδίων</w>
                 </ab>

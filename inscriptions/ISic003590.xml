@@ -211,8 +211,8 @@
                 <ab>
                     <lb/><gap reason="lost" extent="unknown" unit="line"/>
                     <lb n="1"/><w><expan><abbr>Aug</abbr><ex>usto</ex></expan></w> <g ref="#interpunct">·</g>
-                    <lb n="2"/><name>Res</name> <g ref="#interpunct">·</g> <name><expan><abbr>P</abbr><ex>ublica</ex></expan></name> <g ref="#interpunct">·</g> <name><expan><abbr>Hal</abbr><ex>aesinorum</ex></expan></name> <g ref="#interpunct">·</g>
-                    <lb n="3"/><name><space extent="unknown" unit="character"/><expan><abbr>D</abbr><ex>ecreto</ex></expan></name> <g ref="#interpunct">·</g> <roleName type="civic" subtype="decurio"><name><expan><abbr>D</abbr><ex>ecurionum</ex></expan></name></roleName> <g ref="#interpunct">·</g> <space extent="unknown" unit="character"/>
+                    <lb n="2"/><name><w>Res</w></name> <g ref="#interpunct">·</g> <name><w><expan><abbr>P</abbr><ex>ublica</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w><expan><abbr>Hal</abbr><ex>aesinorum</ex></expan></w></name> <g ref="#interpunct">·</g>
+                    <lb n="3"/><name><w><space extent="unknown" unit="character"/><expan><abbr>D</abbr><ex>ecreto</ex></expan></w></name> <g ref="#interpunct">·</g> <roleName type="civic" subtype="decurio"><name><w><expan><abbr>D</abbr><ex>ecurionum</ex></expan></w></name></roleName> <g ref="#interpunct">·</g> <space extent="unknown" unit="character"/>
                     <lb/><space unit="line" quantity="3"/>
                 </ab>
             </div>

@@ -193,9 +193,9 @@
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#GC">
                 <ab>
                     <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>m</abbr><ex>anibus</ex></expan></w>
-                    <lb n="2"/><name><expan><abbr>M</abbr><ex>arcus</ex></expan></name> <g ref="#interpunct">·</g> <name>Aurelius</name>
-                    <lb n="3"/><name>Ermeros</name> <g ref="#interpunct">·</g> <name><expan><abbr>M</abbr><ex>arco</ex></expan></name> <g ref="#interpunct">·</g> <name><expan><abbr>A</abbr><ex>urelio</ex></expan></name>
-                    <lb n="4"/><name>Callinico</name> <g ref="#interpunct">·</g> <w>pa
+                    <lb n="2"/><name><w><expan><abbr>M</abbr><ex>arcus</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w>Aurelius</w></name>
+                    <lb n="3"/><name><w>Ermeros</w></name> <g ref="#interpunct">·</g> <name><w><expan><abbr>M</abbr><ex>arco</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w><expan><abbr>A</abbr><ex>urelio</ex></expan></w></name>
+                    <lb n="4"/><name><w>Callinico</w></name> <g ref="#interpunct">·</g> <w>pa
                     <lb n="5" break="no"/>trono</w> <g ref="#interpunct">·</g> <w>opti
                     <lb n="6" break="no"/>mo</w> <g ref="#interpunct">·</g> <w><expan><abbr>b</abbr><ex>ene</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>m</abbr><ex>erenti</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>f</abbr><ex>ecit</ex></expan></w>
                 </ab>

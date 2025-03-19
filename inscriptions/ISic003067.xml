@@ -184,7 +184,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1"/><w><supplied reason="lost">Ἄν</supplied>ταλλος</w> <name>Ἀσκλάπου</name> <name><unclear>Ὀ</unclear><supplied reason="lost">ρνιχᾶ</supplied>ς</name>
+                    <lb n="1"/><w><supplied reason="lost">Ἄν</supplied>ταλλος</w> <name><w>Ἀσκλάπου</w></name> <name><w><unclear>Ὀ</unclear><supplied reason="lost">ρνιχᾶ</supplied>ς</w></name>
                     <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="3"/><w><supplied reason="lost">σ</supplied><unclear>τ</unclear>ρῶ<unclear>σ</unclear><supplied reason="lost">ιν</supplied></w> <w>ἐκ</w> <w>τ<unclear>ο</unclear>ῦ</w> <w>ἰδ<supplied reason="lost">ίου</supplied></w>
                 </ab>

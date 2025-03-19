@@ -187,8 +187,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>Sex</abbr><ex>to</ex></expan></w> <g ref="#interpunct">·</g> <name>Raecio</name> <g ref="#ivy-leaf">❦</g>
-                    <lb n="2"/><name><expan><abbr>Sex</abbr><ex>ti</ex></expan></name> <g ref="#interpunct">·</g> <w><expan><abbr>l</abbr><ex>iberto</ex></expan></w> <g ref="#interpunct">·</g> <name>Stephano</name>
+                    <lb n="1"/><w><expan><abbr>Sex</abbr><ex>to</ex></expan></w> <g ref="#interpunct">·</g> <name><w>Raecio</w></name> <g ref="#ivy-leaf">❦</g>
+                    <lb n="2"/><name><w><expan><abbr>Sex</abbr><ex>ti</ex></expan></w></name> <g ref="#interpunct">·</g> <w><expan><abbr>l</abbr><ex>iberto</ex></expan></w> <g ref="#interpunct">·</g> <name><w>Stephano</w></name>
                     <lb n="3"/><w>amici</w> <g ref="#interpunct">·</g> <w>de</w> <g ref="#interpunct">·</g> <w>suo</w>
                 </ab>
               </div>

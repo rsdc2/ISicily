@@ -192,8 +192,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#GC">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name>Δεινίας</name> <persName type="attested"><name type="patronym">Κηφ<supplied reason="lost">ισο</supplied>δότου</name></persName> <name>Βουτάδης</name></persName>
-                    <lb n="2"/><roleName type="civic" subtype="thesmothete"><w>θεσμοθετήσας</w></roleName> <w>ἐπὶ</w> <name>Φειδοστράτου</name>
+                    <lb n="1"/><persName type="attested"><name><w>Δεινίας</w></name> <persName type="attested"><name type="patronym"><w>Κηφ<supplied reason="lost">ισο</supplied>δότου</w></name></persName> <name><w>Βουτάδης</w></name></persName>
+                    <lb n="2"/><roleName type="civic" subtype="thesmothete"><w>θεσμοθετήσας</w></roleName> <w>ἐπὶ</w> <name><w>Φειδοστράτου</w></name>
                     <lb n="3"/><roleName type="civic" subtype="archon"><w>ἄρχοντος</w></roleName> <w>ἀνέθηκεν</w>
                     <lb n="4"/><w><supplied reason="lost">ἡ</supplied></w> <w><supplied reason="lost">βουλή</supplied></w> <w>ὁ</w> <w>δῆμος</w>
                 </ab>

@@ -191,8 +191,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JH">
                 <ab>
-                    <lb n="1"/><name>Hercolei</name>
-                    <lb n="2"/><name>Tesorus</name>
+                    <lb n="1"/><name><w>Hercolei</w></name>
+                    <lb n="2"/><name><w>Tesorus</w></name>
                 </ab>
             </div>
             <div type="apparatus" resp="#JH">

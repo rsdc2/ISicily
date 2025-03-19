@@ -198,16 +198,16 @@
                 <ab>
                     <milestone unit="face" n="a"/>
                     <lb n="1"/><g ref="#sign_uninterpreted"/> <gap reason="lost" quantity="1" unit="character"/> <g ref="#sign_uninterpreted"/> <g ref="#sign_uninterpreted"/>
-                    <lb n="2"/><w>⳨</w> <w>ἐν</w> <w>ὀνόματι</w> <w>τοῦ</w> <name><expan><abbr>Κ</abbr><ex>υρίο</ex><abbr>υ</abbr></expan></name> <name><expan><abbr><unclear>Ἰ</unclear></abbr><ex>ησο</ex><abbr><unclear>ῦ</unclear></abbr></expan></name> <name><expan><abbr><unclear>Χ</unclear></abbr><ex>ριστοῦ</ex></expan></name>
+                    <lb n="2"/><w>⳨</w> <w>ἐν</w> <w>ὀνόματι</w> <w>τοῦ</w> <name><w><expan><abbr>Κ</abbr><ex>υρίο</ex><abbr>υ</abbr></expan></w></name> <name><w><expan><abbr><unclear>Ἰ</unclear></abbr><ex>ησο</ex><abbr><unclear>ῦ</unclear></abbr></expan></w></name> <name><w><expan><abbr><unclear>Χ</unclear></abbr><ex>ριστοῦ</ex></expan></w></name>
                     <lb n="3"/><w>ἅγιοι</w> <w><choice><reg>ἄγγελοι</reg><orig>ἄγελυ</orig></choice></w> <orig>Ο</orig><w>ἐπιγ<supplied reason="lost">ρ</supplied>άφ
                     <lb n="4" break="no"/>οντες</w> <w>ὑλιστίριον</w> <orig>ΤΟΤΟ</orig>
                     <lb n="5"/><orig>ΑΝΠΙ</orig><gap reason="lost" quantity="1" unit="character"/> <orig>ΕΛΟΣΕΡΓΟΝΙΤΑ</orig>
                     <lb n="6"/><w><choice><reg>βοήθει</reg><orig>βοΐθι</orig></choice></w> <w><choice><reg>μοι</reg><orig>μυ</orig></choice></w> <w><choice><reg>εἰς</reg><orig>ἰς</orig></choice></w> <w>τὸν</w> <w>καρπὸ<supplied reason="omitted">ν</supplied></w>
                     <lb n="7"/><w><expan><abbr>π</abbr><ex>νεύματο</ex><abbr>ς</abbr></expan></w> <orig>ΠΕΛΟΝΑΝ</orig><w>τὸ<supplied reason="omitted">ν</supplied></w> <w><expan><abbr>θ</abbr><ex>εο</ex><abbr>ῦ</abbr></expan></w>
                     <lb n="8"/><g ref="#sign_uninterpreted"/> <g ref="#star"/> <g ref="#sign_uninterpreted"/> <g ref="#sign_uninterpreted"/> <w><expan><abbr>θ</abbr><ex>εό</ex><abbr>ς</abbr></expan></w> <milestone unit="face" n="b"/>
-                    <lb n="1"/><g ref="#star"/> <w><expan><abbr>θ</abbr><ex>εό</ex><abbr>ς</abbr></expan></w> <name><expan><abbr>Κ</abbr><ex>ύριο</ex><abbr>ς</abbr></expan></name> <g ref="#sign_uninterpreted"/>
-                    <lb n="2"/><name><expan><abbr>Γαυ</abbr><ex>ρι</ex><abbr>ὶλ</abbr></expan></name> <name>Μιχ
-                    <lb n="3" break="no"/><unclear>α</unclear>ί<unclear>λ</unclear></name>
+                    <lb n="1"/><g ref="#star"/> <w><expan><abbr>θ</abbr><ex>εό</ex><abbr>ς</abbr></expan></w> <name><w><expan><abbr>Κ</abbr><ex>ύριο</ex><abbr>ς</abbr></expan></w></name> <g ref="#sign_uninterpreted"/>
+                    <lb n="2"/><name><w><expan><abbr>Γαυ</abbr><ex>ρι</ex><abbr>ὶλ</abbr></expan></w></name> <name><w>Μιχ
+                    <lb n="3" break="no"/><unclear>α</unclear>ί<unclear>λ</unclear></w></name>
                 </ab>
             </div>
             <div type="apparatus">

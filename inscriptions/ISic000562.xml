@@ -191,9 +191,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
-                    <lb n="1"/><name><expan><abbr>L</abbr><ex>ucius</ex></expan></name> <g ref="#interpunct">·</g> <name>Mallius</name>
+                    <lb n="1"/><name><w><expan><abbr>L</abbr><ex>ucius</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w>Mallius</w></name>
                     <lb n="2"/><orig>MOL</orig>
-                    <lb n="3"/><name>Philargyrus</name>
+                    <lb n="3"/><name><w>Philargyrus</w></name>
                 </ab>
             </div>
             <div type="apparatus">

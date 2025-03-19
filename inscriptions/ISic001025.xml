@@ -195,10 +195,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/><w>Διονύσου</w> <w>καὶ</w> <name>Σ</name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><w>Διονύσου</w> <w>καὶ</w> <name><w>Σ</w></name> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="2"/><w>ἱερατεύοντος</w> <gap reason="lost" extent="unknown" unit="character"/><note>personal name</note><w><supplied reason="lost">τοῦ</supplied></w>
-                    <lb n="3"/><name>Ἀρίστωνος</name> <name>Θεο</name> <gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">ς</supplied></w>
-                    <lb n="4"/><name>Καλλιγένιαν</name> <orig>ΚΑΣΤ</orig><gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="3"/><name><w>Ἀρίστωνος</w></name> <name><w>Θεο</w></name> <gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">ς</supplied></w>
+                    <lb n="4"/><name><w>Καλλιγένιαν</w></name> <orig>ΚΑΣΤ</orig><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="5"/><w>εὐχὰν</w> <w><supplied reason="lost">ἀνέθηκε</supplied></w>
                 </ab>
             </div>

@@ -189,20 +189,20 @@
                 <div type="textpart" subtype="section" n="a">
                     <ab>
                         <milestone unit="face" n="a"/>
-                        <lb n="1"/><persName type="attested"><name type="idionym">Μένον</name> <persName type="attested"><name type="patronym">Δαμέα</name></persName></persName> <g ref="#dash">‒</g> <persName type="attested"><name type="idionym">Ἐ<unclear>χ</unclear><supplied reason="lost">εκρατ</supplied>είδαν</name> <g ref="#dash">‒</g> <persName type="attested"><name type="patronym"><unclear>Ἀρ</unclear>χεδάμο</name></persName></persName>
-                        <lb n="2"/><persName type="attested"><name type="idionym">Ἀριστόδαμον</name> <persName type="attested"><name type="patronym">Χαιρί<supplied reason="omitted">π</supplied>ο</name></persName></persName> <persName type="attested"><name type="idionym">Ἀ<supplied reason="lost">ρχ</supplied>εθάλες</name> <persName type="attested"><name type="patronym">Χίρονος</name></persName></persName>
-                        <lb n="3"/><persName type="attested"><orgName><name>Hɛρακλείδα</name></orgName> <name type="idionym">Ἀ<unclear>ρχ</unclear>ύ<unclear>τ</unclear>αν</name></persName> <g ref="#interpunct">·</g>
-                        <lb n="4"/><persName type="attested"><name type="idionym">Σοσίας</name> <g ref="#dash">‒</g> <persName type="attested"><name type="patronym">Ἀ<unclear>ρ</unclear>χο̄νίδᾱ</name></persName></persName>
-                        <lb n="5"/><persName type="attested"><name type="idionym">Σοσίας</name> <g ref="#dash">‒</g> <persName type="attested"><name type="patronym">Ἀρχία</name></persName></persName>
-                        <lb n="6"/><persName type="attested"><name type="idionym">Συμ<unclear>α</unclear>ρία</name> <persName type="attested"><name type="matronym">Σικανᾶς</name></persName></persName>
-                        <lb n="7"/><persName type="attested"><name type="idionym">Τιμοκράτειαν</name></persName>
-                        <lb n="8"/><persName type="attested"><name type="idionym">Πολεμαίνετον</name> <g ref="#dash">‒</g> <persName type="attested"><name type="patronym">Προδόξο</name></persName></persName>
+                        <lb n="1"/><persName type="attested"><name type="idionym"><w>Μένον</w></name> <persName type="attested"><name type="patronym"><w>Δαμέα</w></name></persName></persName> <g ref="#dash">‒</g> <persName type="attested"><name type="idionym"><w>Ἐ<unclear>χ</unclear><supplied reason="lost">εκρατ</supplied>είδαν</w></name> <g ref="#dash">‒</g> <persName type="attested"><name type="patronym"><w><unclear>Ἀρ</unclear>χεδάμο</w></name></persName></persName>
+                        <lb n="2"/><persName type="attested"><name type="idionym"><w>Ἀριστόδαμον</w></name> <persName type="attested"><name type="patronym"><w>Χαιρί<supplied reason="omitted">π</supplied>ο</w></name></persName></persName> <persName type="attested"><name type="idionym"><w>Ἀ<supplied reason="lost">ρχ</supplied>εθάλες</w></name> <persName type="attested"><name type="patronym"><w>Χίρονος</w></name></persName></persName>
+                        <lb n="3"/><persName type="attested"><orgName><name><w>Hɛρακλείδα</w></name></orgName> <name type="idionym"><w>Ἀ<unclear>ρχ</unclear>ύ<unclear>τ</unclear>αν</w></name></persName> <g ref="#interpunct">·</g>
+                        <lb n="4"/><persName type="attested"><name type="idionym"><w>Σοσίας</w></name> <g ref="#dash">‒</g> <persName type="attested"><name type="patronym"><w>Ἀ<unclear>ρ</unclear>χο̄νίδᾱ</w></name></persName></persName>
+                        <lb n="5"/><persName type="attested"><name type="idionym"><w>Σοσίας</w></name> <g ref="#dash">‒</g> <persName type="attested"><name type="patronym"><w>Ἀρχία</w></name></persName></persName>
+                        <lb n="6"/><persName type="attested"><name type="idionym"><w>Συμ<unclear>α</unclear>ρία</w></name> <persName type="attested"><name type="matronym"><w>Σικανᾶς</w></name></persName></persName>
+                        <lb n="7"/><persName type="attested"><name type="idionym"><w>Τιμοκράτειαν</w></name></persName>
+                        <lb n="8"/><persName type="attested"><name type="idionym"><w>Πολεμαίνετον</w></name> <g ref="#dash">‒</g> <persName type="attested"><name type="patronym"><w>Προδόξο</w></name></persName></persName>
                     </ab>
                 </div>
                 <div type="textpart" subtype="section" n="b">
                     <ab>
                         <milestone unit="face" n="b"/>
-                        <lb n="1"/><persName type="attested"><name type="idionym">Μένο̄ν</name> <persName type="attested"><name type="patronym">Δα<supplied reason="omitted">μέα</supplied></name></persName></persName>
+                        <lb n="1"/><persName type="attested"><name type="idionym"><w>Μένο̄ν</w></name> <persName type="attested"><name type="patronym"><w>Δα<supplied reason="omitted">μέα</supplied></w></name></persName></persName>
                     </ab>
                 </div>
             </div>

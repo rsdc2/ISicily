@@ -174,8 +174,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="attested"><name type="patronym"><gap reason="lost" extent="unknown" unit="character"/><seg part="F">έμονο
-                    <lb n="2" break="no"/>ς</seg></name></persName>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="attested"><name type="patronym"><w><gap reason="lost" extent="unknown" unit="character"/><seg part="F">έμονο
+                    <lb n="2" break="no"/>ς</seg></w></name></persName>
                 </ab>
             </div>
             <div type="apparatus">

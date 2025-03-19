@@ -191,8 +191,8 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <orig>ΕΠΑΙΣ</orig><gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost"><roleName type="supracivic" subtype="consul"><expan><abbr>ὑπ</abbr><ex>ατίᾳ</ex></expan></roleName></supplied></w> <w><supplied reason="lost">τῶν</supplied></w> <w>κυρίων</w> <w>ἡμ<supplied reason="lost">ῶν</supplied></w> <name><supplied reason="lost">Ὁνωρίου</supplied></name> <w><supplied reason="lost">τὸ</supplied></w> <num value="13"><supplied reason="lost">ιγ</supplied></num>
-                    <lb n="3"/><w><supplied reason="lost">καὶ</supplied></w> <name><supplied reason="lost">Θεοδο</supplied>σίου</name> <w>τὸ</w> <num value="10">ι</num> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost"><roleName type="supracivic" subtype="consul"><expan><abbr>ὑπ</abbr><ex>ατίᾳ</ex></expan></roleName></supplied></w> <w><supplied reason="lost">τῶν</supplied></w> <w>κυρίων</w> <w>ἡμ<supplied reason="lost">ῶν</supplied></w> <name><w><supplied reason="lost">Ὁνωρίου</supplied></w></name> <w><supplied reason="lost">τὸ</supplied></w> <num value="13"><w><supplied reason="lost">ιγ</supplied></w></num>
+                    <lb n="3"/><w><supplied reason="lost">καὶ</supplied></w> <name><w><supplied reason="lost">Θεοδο</supplied>σίου</w></name> <w>τὸ</w> <num value="10"><w>ι</w></num> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>
             <div type="apparatus">

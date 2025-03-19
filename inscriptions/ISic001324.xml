@@ -192,11 +192,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#AL">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name type="praenomen">Κούιντος</name> <name type="cognomen">Σόσσις</name></persName>
-                    <lb n="2"/><w>καὶ</w> <persName type="attested"><name type="nomen">Πετρονία</name>
-                    <lb n="3"/><name type="cognomen">Σοσσία</name></persName> <persName type="attested"><name type="idionym">Χείᾳ</name></persName>
+                    <lb n="1"/><persName type="attested"><name type="praenomen"><w>Κούιντος</w></name> <name type="cognomen"><w>Σόσσις</w></name></persName>
+                    <lb n="2"/><w>καὶ</w> <persName type="attested"><name type="nomen"><w>Πετρονία</w></name>
+                    <lb n="3"/><name type="cognomen"><w>Σοσσία</w></name></persName> <persName type="attested"><name type="idionym"><w>Χείᾳ</w></name></persName>
                     <lb n="4"/><w><hi rend="ligature">τῇ</hi></w> <w><hi rend="ligature">θυ</hi>γατρί</w> <w>ζησάσῃ</w>
-                    <lb n="5"/><w>ἔ<hi rend="ligature">τη</hi></w> <g ref="#interpunct">·</g> <num value="10">ι</num> <g ref="#interpunct">·</g> <w>ἡμέρα<supplied reason="omitted">ς</supplied></w> <g ref="#interpunct">·</g> <num value="22">κ <g ref="#interpunct">·</g>β</num>
+                    <lb n="5"/><w>ἔ<hi rend="ligature">τη</hi></w> <g ref="#interpunct">·</g> <num value="10"><w>ι</w></num> <g ref="#interpunct">·</g> <w>ἡμέρα<supplied reason="omitted">ς</supplied></w> <g ref="#interpunct">·</g> <num value="22"><w>κ <g ref="#interpunct">·</g>β</w></num>
                 </ab>
             </div>
             <div type="apparatus">

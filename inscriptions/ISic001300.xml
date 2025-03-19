@@ -197,10 +197,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#martaf">
                 <ab>
-                    <lb n="1"/><g ref="#interpunct">•</g> <w><expan><abbr>Θ</abbr><ex>εοῖς</ex></expan></w> <name><supplied reason="lost"><expan><abbr>Κ</abbr><ex>ατακθονίοις</ex></expan></supplied></name>
-                    <lb n="2"/><persName type="attested"><name>Θρεπτύλο<supplied reason="lost">ς</supplied></name></persName> <w><supplied reason="lost">ἔζησεν</supplied></w>
-                    <lb n="3"/><w>μῆνας</w> <num><gap reason="lost" extent="unknown" unit="character"/></num>
-                    <lb n="4"/><g ref="#interpunct">•</g> <persName type="attested"><name>Εὐφροσύνη</name></persName> <g ref="#interpunct">•</g> <w>μήτηρ</w>
+                    <lb n="1"/><g ref="#interpunct">•</g> <w><expan><abbr>Θ</abbr><ex>εοῖς</ex></expan></w> <name><w><supplied reason="lost"><expan><abbr>Κ</abbr><ex>ατακθονίοις</ex></expan></supplied></w></name>
+                    <lb n="2"/><persName type="attested"><name><w>Θρεπτύλο<supplied reason="lost">ς</supplied></w></name></persName> <w><supplied reason="lost">ἔζησεν</supplied></w>
+                    <lb n="3"/><w>μῆνας</w> <num><w><gap reason="lost" extent="unknown" unit="character"/></w></num>
+                    <lb n="4"/><g ref="#interpunct">•</g> <persName type="attested"><name><w>Εὐφροσύνη</w></name></persName> <g ref="#interpunct">•</g> <w>μήτηρ</w>
                 </ab>
             </div>
             <div type="apparatus" resp="#martaf">

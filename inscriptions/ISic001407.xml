@@ -193,7 +193,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#AL">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name type="idionym">Διόδωρος</name> <g ref="#interpunct">·</g> <persName type="attested"><name type="patronymic">Ἀπολλωνίου</name></persName></persName>
+                    <lb n="1"/><persName type="attested"><name type="idionym"><w>Διόδωρος</w></name> <g ref="#interpunct">·</g> <persName type="attested"><name type="patronymic"><w>Ἀπολλωνίου</w></name></persName></persName>
                 </ab>
             </div>
             <div type="apparatus">

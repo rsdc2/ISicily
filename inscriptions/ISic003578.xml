@@ -207,8 +207,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
-                    <lb n="1"/><w>Heiae</w> <g ref="#interpunct">·</g> <name>Melponi</name> <g ref="#interpunct">·</g>
-                    <lb n="2"/><roleName type="civic.religious" subtype="sacerdos.augustae"><name>Sacerdoti<hi rend="ligature">st</hi></name> <g ref="#interpunct">·</g> <w>augu</w> <w><unclear>ae</unclear></w></roleName>
+                    <lb n="1"/><w>Heiae</w> <g ref="#interpunct">·</g> <name><w>Melponi</w></name> <g ref="#interpunct">·</g>
+                    <lb n="2"/><roleName type="civic.religious" subtype="sacerdos.augustae"><name><w>Sacerdoti<hi rend="ligature">st</hi></w></name> <g ref="#interpunct">·</g> <w>augu</w> <w><unclear>ae</unclear></w></roleName>
                 </ab>
             </div>
             <div type="apparatus">

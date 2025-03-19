@@ -198,11 +198,11 @@
                 <ab>
                     <lb n="1"/><g ref="#staurogram">𐆠</g> <w>Ἐνθάδε</w> <w>κῖτε</w> <w><choice><reg>Ἀριάδνη</reg><orig>Ἀριάγνη</orig></choice></w> <g ref="#staurogram">𐆠</g>
                     <lb n="2"/><w>μόνανδρος</w> <w>τελευτᾷ</w>
-                    <lb n="3"/><w>ἐτῶν</w> <num value="75">ἑβδομήκοντα πέντε</num>. <name>Ὁ</name> <w>δὲ</w>
-                    <lb n="4"/><name>Θεὸς</name> <w><choice><reg>καὶ</reg><orig>κὲ</orig></choice></w> <w>ὁ</w> <name>Χριστὸς</name> <w>αὐτ<unclear>ο</unclear>ῦ</w> <w><supplied reason="lost"><choice><reg>καὶ</reg><orig>κὲ</orig></choice>τὸ</supplied></w>
-                    <lb n="5"/><name>Ἅγιον</name> <name>Πνεῦμα</name> <w>ἀν<unclear>α</unclear><supplied reason="lost" cert="low">ψύξαιεν</supplied></w>
-                    <lb n="6"/><w>αὐτῆς</w> <w>τὸ</w> <w>ψυχάρι<supplied reason="omitted">ο</supplied>ν.</w> <name><supplied reason="lost" cert="low">Ἐκοιμήθη</supplied></name>
-                    <lb n="7"/><w><expan><abbr><hi rend="ligature">πρ</hi></abbr><ex>ὸ</ex></expan></w> <num value="15">ιε</num> <g type="interpunct">·</g> <w><expan><abbr>καλ</abbr><ex>ανδῶν</ex></expan></w> <g type="interpunct">·</g> <name>Ὀ<supplied reason="lost">κ</supplied>τωβ<supplied reason="lost">ρίων</supplied></name>
+                    <lb n="3"/><w>ἐτῶν</w> <num value="75"><w>ἑβδομήκοντα πέντε</w></num>. <name><w>Ὁ</w></name> <w>δὲ</w>
+                    <lb n="4"/><name><w>Θεὸς</w></name> <w><choice><reg>καὶ</reg><orig>κὲ</orig></choice></w> <w>ὁ</w> <name><w>Χριστὸς</w></name> <w>αὐτ<unclear>ο</unclear>ῦ</w> <w><supplied reason="lost"><choice><reg>καὶ</reg><orig>κὲ</orig></choice>τὸ</supplied></w>
+                    <lb n="5"/><name><w>Ἅγιον</w></name> <name><w>Πνεῦμα</w></name> <w>ἀν<unclear>α</unclear><supplied reason="lost" cert="low">ψύξαιεν</supplied></w>
+                    <lb n="6"/><w>αὐτῆς</w> <w>τὸ</w> <w>ψυχάρι<supplied reason="omitted">ο</supplied>ν.</w> <name><w><supplied reason="lost" cert="low">Ἐκοιμήθη</supplied></w></name>
+                    <lb n="7"/><w><expan><abbr><hi rend="ligature">πρ</hi></abbr><ex>ὸ</ex></expan></w> <num value="15"><w>ιε</w></num> <g type="interpunct">·</g> <w><expan><abbr>καλ</abbr><ex>ανδῶν</ex></expan></w> <g type="interpunct">·</g> <name><w>Ὀ<supplied reason="lost">κ</supplied>τωβ<supplied reason="lost">ρίων</supplied></w></name>
                 </ab>
             </div>
             <div type="apparatus">

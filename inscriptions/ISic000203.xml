@@ -191,10 +191,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#VM">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <name><expan><abbr>M</abbr><ex>anibus</ex></expan></name>
-                    <lb n="2"/><name><expan><abbr>Cn</abbr><ex>aeus</ex></expan></name> <name>Octavius</name>
-                    <lb n="3"/><name>Martialis</name>
-                    <lb n="4"/><w><expan><abbr>v</abbr><ex>ixit</ex></expan></w> <w><expan><abbr>a</abbr><ex>nnis</ex></expan></w> <num value="80">LXXX</num>
+                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <name><w><expan><abbr>M</abbr><ex>anibus</ex></expan></w></name>
+                    <lb n="2"/><name><w><expan><abbr>Cn</abbr><ex>aeus</ex></expan></w></name> <name><w>Octavius</w></name>
+                    <lb n="3"/><name><w>Martialis</w></name>
+                    <lb n="4"/><w><expan><abbr>v</abbr><ex>ixit</ex></expan></w> <w><expan><abbr>a</abbr><ex>nnis</ex></expan></w> <num value="80"><w>LXXX</w></num>
                 </ab>
             </div>
             <div type="apparatus">

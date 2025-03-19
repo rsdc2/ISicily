@@ -186,10 +186,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1"/><w><choice><orig>Ἀρχηγέτει</orig><reg>Ἀρχηγέτηι</reg></choice></w> <w>εὐχὴ</w> <name>Ἡρακλεῖ</name> <name>Θαλλοφόρῳ</name>
-                    <lb n="2"/><w>ἱερῷ</w> <w><choice><orig>εὐαπσεστάτωα</orig><reg>εὐαγεστάτῳ</reg></choice></w> <name><supplied reason="omitted"><expan><abbr>Λ</abbr><ex>ούκιος</ex></expan></supplied></name> <name>Κορνήλιος</name> <name><expan><abbr>Λ</abbr><ex>ουκίου</ex></expan></name>
-                    <lb n="3"/><name>Κορνηλίου</name> <w>υἱὸς</w> <orig>ΠΑΝ</orig><name>Τερεντιανὸς</name>
-                    <lb n="4"/><w>καὶ</w> <name>Λήμνιος</name> <w>ἀπελεύθερος</w> <w>ἐποίησαν</w>
+                    <lb n="1"/><w><choice><orig>Ἀρχηγέτει</orig><reg>Ἀρχηγέτηι</reg></choice></w> <w>εὐχὴ</w> <name><w>Ἡρακλεῖ</w></name> <name><w>Θαλλοφόρῳ</w></name>
+                    <lb n="2"/><w>ἱερῷ</w> <w><choice><orig>εὐαπσεστάτωα</orig><reg>εὐαγεστάτῳ</reg></choice></w> <name><w><supplied reason="omitted"><expan><abbr>Λ</abbr><ex>ούκιος</ex></expan></supplied></w></name> <name><w>Κορνήλιος</w></name> <name><w><expan><abbr>Λ</abbr><ex>ουκίου</ex></expan></w></name>
+                    <lb n="3"/><name><w>Κορνηλίου</w></name> <w>υἱὸς</w> <orig>ΠΑΝ</orig><name><w>Τερεντιανὸς</w></name>
+                    <lb n="4"/><w>καὶ</w> <name><w>Λήμνιος</w></name> <w>ἀπελεύθερος</w> <w>ἐποίησαν</w>
                     <lb n="5"/><orig><abbr>Π</abbr> <abbr>Π</abbr></orig>
                 </ab>
             </div>

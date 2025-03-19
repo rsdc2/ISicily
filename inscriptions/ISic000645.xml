@@ -191,7 +191,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    <lb n="1"/><w>ἐνθάδε</w> <w>τίς</w> <name>Μον</name> <w><supplied reason="lost">ο</supplied>
+                    <lb n="1"/><w>ἐνθάδε</w> <w>τίς</w> <name><w>Μον</w></name> <w><supplied reason="lost">ο</supplied>
                     <lb n="6" break="no"/>χον</w> <w>προλιπὼν</w> <w>καὶ</w> <w>ν
                     <lb n="8" break="no"/>νέτας</w> <w>ὀλοφυρο
                     <lb n="11" break="no"/>μένους</w> <w>ὅτι</w> <w>οἱ</w> <w>νεο

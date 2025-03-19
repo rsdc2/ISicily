@@ -177,8 +177,8 @@
                     <ab>
                         <milestone unit="face" n="a"/>
                         <lb n="1"/><w>ͱενά<supplied reason="lost">τας</supplied></w>
-                        <lb n="2"/><persName type="attested"><name type="idionym">Ἀριστίο̄ν</name> <persName type="attested"><name type="patronym">Δεινία</name></persName></persName>
-                        <lb n="3"/><persName type="attested"><name type="idionym"><supplied reason="lost">Τ</supplied>ίμο̄ν</name> <persName type="attested"><name type="patronym">Φ<supplied reason="omitted">ι</supplied>λίνο̄</name></persName></persName>
+                        <lb n="2"/><persName type="attested"><name type="idionym"><w>Ἀριστίο̄ν</w></name> <persName type="attested"><name type="patronym"><w>Δεινία</w></name></persName></persName>
+                        <lb n="3"/><persName type="attested"><name type="idionym"><w><supplied reason="lost">Τ</supplied>ίμο̄ν</w></name> <persName type="attested"><name type="patronym"><w>Φ<supplied reason="omitted">ι</supplied>λίνο̄</w></name></persName></persName>
                     </ab>
                 </div>
                 <div type="textpart" subtype="section" n="b">

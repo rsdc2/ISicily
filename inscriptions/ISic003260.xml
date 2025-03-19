@@ -258,10 +258,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#martaf #AA">
                 <ab>
-                    <lb n="1"/><g ref="#ivy-leaf">❦</g> <w><expan><abbr>Θ</abbr><ex>εοῖς</ex></expan></w> <g ref="#ivy-leaf">❦</g> <name><expan><abbr>Κ</abbr><ex>αταχθονίοις</ex></expan></name> <g ref="#ivy-leaf">❦</g>
-                    <lb n="2"/><persName type="attested"><name>Οὐρβᾶνα</name></persName> <w><expan><abbr>ἔζησ</abbr><ex>εν</ex></expan></w> <w>ἔτη</w>
-                    <lb n="3"/><g ref="#interpunct">·</g> <hi rend="supraline"><num value="4">δ</num></hi><g ref="#interpunct">·</g> <w><expan><abbr>μῆν</abbr><ex>ας</ex></expan></w> <g ref="#interpunct">·</g> <hi rend="supraline"><num value="6">ς</num></hi><g ref="#interpunct">·</g> <w><expan><abbr>ἡμέρ</abbr><ex>ας</ex></expan></w> <g ref="#interpunct">·</g> <hi rend="supraline"><num value="18">ιη</num></hi>
-                    <lb n="4"/><persName type="attested"><name>Οὐρβικὸς</name></persName> <g ref="#interpunct">·</g> <w>καὶ</w> <persName type="attested"><name><unclear>Ν</unclear>ίκη</name></persName>
+                    <lb n="1"/><g ref="#ivy-leaf">❦</g> <w><expan><abbr>Θ</abbr><ex>εοῖς</ex></expan></w> <g ref="#ivy-leaf">❦</g> <name><w><expan><abbr>Κ</abbr><ex>αταχθονίοις</ex></expan></w></name> <g ref="#ivy-leaf">❦</g>
+                    <lb n="2"/><persName type="attested"><name><w>Οὐρβᾶνα</w></name></persName> <w><expan><abbr>ἔζησ</abbr><ex>εν</ex></expan></w> <w>ἔτη</w>
+                    <lb n="3"/><g ref="#interpunct">·</g> <hi rend="supraline"><num value="4"><w>δ</w></num></hi><g ref="#interpunct">·</g> <w><expan><abbr>μῆν</abbr><ex>ας</ex></expan></w> <g ref="#interpunct">·</g> <hi rend="supraline"><num value="6"><w>ς</w></num></hi><g ref="#interpunct">·</g> <w><expan><abbr>ἡμέρ</abbr><ex>ας</ex></expan></w> <g ref="#interpunct">·</g> <hi rend="supraline"><num value="18"><w>ιη</w></num></hi>
+                    <lb n="4"/><persName type="attested"><name><w>Οὐρβικὸς</w></name></persName> <g ref="#interpunct">·</g> <w>καὶ</w> <persName type="attested"><name><w><unclear>Ν</unclear>ίκη</w></name></persName>
                     <lb n="5"/><w>γονεῖς</w> <g ref="#interpunct">·</g> <w>τέκνῳ</w> <w>γλυ
                     <lb n="6" break="no"/>κυτάτῳ</w> <g type="#interpunct">·</g> <w>ἐποίη<supplied reason="undefined" evidence="previouseditor">σ</supplied>αν</w>
                 </ab>

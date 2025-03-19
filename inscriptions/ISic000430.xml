@@ -194,12 +194,12 @@
             <div type="edition" xml:space="preserve" xml:lang="la">
                 <ab>
                     <lb n="1"/><w>dis</w> <w>manibus</w>
-                    <lb n="2"/><persName type="attested"><name>Evange
-                    <lb n="3" break="no"/><supplied reason="lost">lus</supplied></name></persName> <w><supplied reason="lost">v</supplied>ixit</w> <g ref="#interpunct">·</g> <w><expan><abbr>an</abbr><ex>nis</ex></expan></w>
-                    <lb n="4"/><num value="9">VIIII</num>
-                    <lb n="5"/><persName type="attested"><name>Thychicus</name></persName>
-                    <lb n="6"/><w>vixit</w> <g ref="#interpunct">·</g> <w><expan><abbr>an</abbr><ex>nis</ex></expan></w> <g ref="#interpunct">·</g> <num value="6">VI</num>
-                    <lb n="7"/><persName type="attested"><name>Thyche</name></persName>
+                    <lb n="2"/><persName type="attested"><name><w>Evange
+                    <lb n="3" break="no"/><supplied reason="lost">lus</supplied></w></name></persName> <w><supplied reason="lost">v</supplied>ixit</w> <g ref="#interpunct">·</g> <w><expan><abbr>an</abbr><ex>nis</ex></expan></w>
+                    <lb n="4"/><num value="9"><w>VIIII</w></num>
+                    <lb n="5"/><persName type="attested"><name><w>Thychicus</w></name></persName>
+                    <lb n="6"/><w>vixit</w> <g ref="#interpunct">·</g> <w><expan><abbr>an</abbr><ex>nis</ex></expan></w> <g ref="#interpunct">·</g> <num value="6"><w>VI</w></num>
+                    <lb n="7"/><persName type="attested"><name><w>Thyche</w></name></persName>
                     <lb n="8"/><w>mater</w> <g ref="#interpunct">·</g> <w><expan><abbr>fil</abbr><ex>iis</ex></expan></w>
                     <lb n="9"/><w>piissimis</w>
                     <lb n="10"/><w>fecit</w>

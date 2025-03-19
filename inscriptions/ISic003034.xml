@@ -190,7 +190,7 @@
             <div type="edition" xml:space="preserve" subtype="PHI" n="PHI332353">
                 <ab>
                     <lb n="1"/><w>Θόας</w>
-                    <lb n="2"/><name><supplied reason="lost">—</supplied></name> <w><expan><abbr>ΧΙ</abbr><ex>?</ex></expan></w> <name><supplied reason="lost">—</supplied>.</name>
+                    <lb n="2"/><name><w><supplied reason="lost">—</supplied></w></name> <w><expan><abbr>ΧΙ</abbr><ex>?</ex></expan></w> <name><w><supplied reason="lost">—</supplied>.</w></name>
                     <lb n="3"/>
                 </ab>
             </div>

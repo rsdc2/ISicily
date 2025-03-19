@@ -194,10 +194,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/><w>hο</w> <name>Μιλίχιος</name> <w>τᾶ
+                    <lb n="1"/><w>hο</w> <name><w>Μιλίχιος</w></name> <w>τᾶ
                     <lb n="2" break="no"/>ς</w> <w>πατριᾶς</w> <w>τᾶν</w> <w><expan><abbr>h</abbr><ex>ε</ex><abbr>ρ</abbr></expan>
                     <lb n="3" break="no"/>μίο̄</w> <w>παίδο̄ν</w> <w>καὶ</w>
-                    <lb n="4"/><w>τᾶν</w> <name>Εὐκλέα</name> <w>παί
+                    <lb n="4"/><w>τᾶν</w> <name><w>Εὐκλέα</w></name> <w>παί
                     <lb n="5" break="no"/>δ<supplied reason="omitted">ο̄</supplied>ν</w>
                 </ab>
             </div>

@@ -192,10 +192,10 @@
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
                     <milestone unit="face" n="a"/>
-                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <name><expan><abbr>M</abbr><ex>anibus</ex></expan></name> <w><supplied reason="lost"><expan><abbr>s</abbr><ex>acrum</ex></expan></supplied></w>
-                    <lb n="2"/><name>Vibia</name> <g ref="#interpunct">·</g> <name>Arete</name> <w>vix<supplied reason="lost">it</supplied></w> <w><supplied reason="lost">annis</supplied></w>
-                    <lb n="3"/><num value="30">XXX</num> <milestone unit="face" n="b"/>
-                    <lb n="4"/><name>Vibius</name> <g ref="#interpunct">·</g> <name><expan><abbr>Aptitian</abbr><ex>us</ex></expan></name> <w>pi<supplied reason="lost" cert="low">ae</supplied></w> <w><supplied reason="lost" cert="low"><expan><abbr>fec</abbr><ex>it</ex></expan></supplied></w>
+                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <name><w><expan><abbr>M</abbr><ex>anibus</ex></expan></w></name> <w><supplied reason="lost"><expan><abbr>s</abbr><ex>acrum</ex></expan></supplied></w>
+                    <lb n="2"/><name><w>Vibia</w></name> <g ref="#interpunct">·</g> <name><w>Arete</w></name> <w>vix<supplied reason="lost">it</supplied></w> <w><supplied reason="lost">annis</supplied></w>
+                    <lb n="3"/><num value="30"><w>XXX</w></num> <milestone unit="face" n="b"/>
+                    <lb n="4"/><name><w>Vibius</w></name> <g ref="#interpunct">·</g> <name><w><expan><abbr>Aptitian</abbr><ex>us</ex></expan></w></name> <w>pi<supplied reason="lost" cert="low">ae</supplied></w> <w><supplied reason="lost" cert="low"><expan><abbr>fec</abbr><ex>it</ex></expan></supplied></w>
                 </ab>
             </div>
             <div type="apparatus">

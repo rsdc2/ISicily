@@ -195,11 +195,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#IG #VM">
                 <ab>
-                    <lb n="1"/><w>Ἐνθάδε</w> <w>κῖτε</w> <name>Σα
-                    <lb n="2" break="no"/>λατε</name> <w><choice><reg>Πορφυρεωνίτης</reg><orig>Πορφυρο
+                    <lb n="1"/><w>Ἐνθάδε</w> <w>κῖτε</w> <name><w>Σα
+                    <lb n="2" break="no"/>λατε</w></name> <w><choice><reg>Πορφυρεωνίτης</reg><orig>Πορφυρο
                     <lb n="3" break="no"/>νίτες</orig></choice></w> <w><choice><reg>καλῆς</reg><orig>καλε͂ς</orig></choice></w>
                     <lb n="4"/><w><choice><reg>μνήμης</reg><orig>μνέμης</orig></choice></w> <w>ζήσας</w>
-                    <lb n="5"/><w><choice><reg>ἔτη</reg><orig>ἔτε</orig></choice></w> <num value="60"><choice><reg>ἑξήκοντα</reg><orig>ἑξέ<supplied reason="omitted">κο</supplied>ντα</orig></choice></num> <g ref="#staurogram">𐆠</g>
+                    <lb n="5"/><w><choice><reg>ἔτη</reg><orig>ἔτε</orig></choice></w> <num value="60"><w><choice><reg>ἑξήκοντα</reg><orig>ἑξέ<supplied reason="omitted">κο</supplied>ντα</orig></choice></w></num> <g ref="#staurogram">𐆠</g>
                     <lb n="6"/><w><choice><reg>εἰρήνη</reg><orig>ιερήνε</orig></choice></w>
                 </ab>
             </div>

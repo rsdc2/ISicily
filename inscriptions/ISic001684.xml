@@ -182,11 +182,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name><supplied reason="lost">Φῆ</supplied>λιξ</name></persName> <w><choice><orig>χρητὸς</orig><reg>χρηστὸς</reg></choice></w> <w>κα</w>
+                    <lb n="1"/><persName type="attested"><name><w><supplied reason="lost">Φῆ</supplied>λιξ</w></name></persName> <w><choice><orig>χρητὸς</orig><reg>χρηστὸς</reg></choice></w> <w>κα</w>
                     <lb n="2"/><w><supplied reason="lost">ἄμ</supplied>εμπτος</w> <w>ἔζησεν</w>
                     <lb n="3"/><w><supplied reason="lost">ἔτη</supplied></w> <w><choice><reg><supplied reason="lost">ἑ</supplied>πτὰ</reg><orig><supplied reason="lost">ἑ</supplied>ντὰ</orig></choice></w> <w>μῆνες</w> <w>δ<supplied reason="lost">ύο</supplied></w>
                     <lb n="4"/><w><supplied reason="lost">ἡμέρ</supplied>ας</w> <w>πέντε</w> <w>χαῖρε</w>
-                    <lb n="5"/><orig>ΠΡΙΑ</orig><gap reason="illegible" unit="character" quantity="2"/> <name><unclear>Α</unclear></name> <gap reason="illegible" unit="character" quantity="1"/> <orig>ΡΗ</orig>
+                    <lb n="5"/><orig>ΠΡΙΑ</orig><gap reason="illegible" unit="character" quantity="2"/> <name><w><unclear>Α</unclear></w></name> <gap reason="illegible" unit="character" quantity="1"/> <orig>ΡΗ</orig>
                     <lb/><gap reason="lost" unit="line" extent="unknown" cert="low"/>
                 </ab>
             </div>

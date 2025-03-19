@@ -191,8 +191,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#GC">
                 <ab>
-                    <lb n="1"/><w>Restitutori</w> <name>Romani</name>
-                    <lb n="2"/><name>Imperii</name> <g ref="#interpunct">·</g> <w>libertatisque</w>
+                    <lb n="1"/><w>Restitutori</w> <name><w>Romani</w></name>
+                    <lb n="2"/><name><w>Imperii</w></name> <g ref="#interpunct">·</g> <w>libertatisque</w>
                 </ab>
             </div>
             <div type="apparatus">

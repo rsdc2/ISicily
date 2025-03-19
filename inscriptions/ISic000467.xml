@@ -191,9 +191,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>T</abbr><ex>iti</ex></expan></w> <g ref="#interpunct">·</g> <name>Flavi</name> <g ref="#interpunct">·</g> <name><expan><abbr>Aug</abbr><ex>usti</ex></expan></name> <g ref="#interpunct">·</g> <w><expan><abbr>lib</abbr><ex>erti</ex></expan></w>
-                    <lb n="2"/><name>Diadumeni</name>
-                    <lb n="3"/><name>Flavia</name> <g ref="#interpunct">·</g> <name>Victorina</name>
+                    <lb n="1"/><w><expan><abbr>T</abbr><ex>iti</ex></expan></w> <g ref="#interpunct">·</g> <name><w>Flavi</w></name> <g ref="#interpunct">·</g> <name><w><expan><abbr>Aug</abbr><ex>usti</ex></expan></w></name> <g ref="#interpunct">·</g> <w><expan><abbr>lib</abbr><ex>erti</ex></expan></w>
+                    <lb n="2"/><name><w>Diadumeni</w></name>
+                    <lb n="3"/><name><w>Flavia</w></name> <g ref="#interpunct">·</g> <name><w>Victorina</w></name>
                     <lb n="4"/><w>patri</w> <g ref="#interpunct">·</g> <w>pissimo</w>
                 </ab>
             </div>

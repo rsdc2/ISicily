@@ -187,9 +187,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <gap reason="illegible" unit="character" quantity="1"/> <num atLeast="200">CC</num> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <gap reason="illegible" unit="character" quantity="1"/> <num atLeast="200"><w>CC</w></num> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w>ex</w> <g ref="#interpunct">·</g> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <num atLeast="24"><unclear>X</unclear>XIIII</num> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <num atLeast="24"><w><unclear>X</unclear>XIIII</w></num> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>
             <div type="apparatus" resp="#JP">

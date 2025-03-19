@@ -197,29 +197,29 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1" xml:id="BDKAK"/><w xml:id="BDKAU"><supplied reason="lost" xml:id="BDKAe">ἐπὶ</supplied></w> <name xml:id="BDKAo"><supplied reason="lost" xml:id="BDKAy">Φ</supplied>ι<unclear xml:id="BDKAΙ">λ</unclear>οκ<supplied reason="lost" xml:id="BDKAΤ">ρ</supplied>ά<unclear xml:id="BDKAε">τ</unclear><supplied reason="lost" xml:id="BDKAο">εο</supplied><unclear xml:id="BDKBA">ς</unclear></name> <name xml:id="BDKBK">Ἀφρο<unclear xml:id="BDKBU">δίτα</unclear><supplied reason="lost" xml:id="BDKBe">ι</supplied></name> <cb n="1" xml:id="BDKBo"/>
+                    <lb n="1" xml:id="BDKAK"/><w xml:id="BDKAU"><supplied reason="lost" xml:id="BDKAe">ἐπὶ</supplied></w> <name xml:id="BDKAo"><w><supplied reason="lost" xml:id="BDKAy">Φ</supplied>ι<unclear xml:id="BDKAΙ">λ</unclear>οκ<supplied reason="lost" xml:id="BDKAΤ">ρ</supplied>ά<unclear xml:id="BDKAε">τ</unclear><supplied reason="lost" xml:id="BDKAο">εο</supplied><unclear xml:id="BDKBA">ς</unclear></w></name> <name xml:id="BDKBK"><w>Ἀφρο<unclear xml:id="BDKBU">δίτα</unclear><supplied reason="lost" xml:id="BDKBe">ι</supplied></w></name> <cb n="1" xml:id="BDKBo"/>
                     <lb n="2" xml:id="BDKBy"/><roleName type="civic" subtype="agoranomos" xml:id="BDKBΙ"><w xml:id="BDKBΤ">ἀγορανόμοι</w></roleName>
-                    <lb n="3" xml:id="BDKBε"/><name xml:id="BDKBο">Διονυσόδωρος</name> <name xml:id="BDKCA">Ζωπύρου</name>
-                    <lb n="4" xml:id="BDKCK"/><name xml:id="BDKCU">Εὐφραῖος</name> <name xml:id="BDKCe">Καλλικράτεος</name>
+                    <lb n="3" xml:id="BDKBε"/><name xml:id="BDKBο"><w>Διονυσόδωρος</w></name> <name xml:id="BDKCA"><w>Ζωπύρου</w></name>
+                    <lb n="4" xml:id="BDKCK"/><name xml:id="BDKCU"><w>Εὐφραῖος</w></name> <name xml:id="BDKCe"><w>Καλλικράτεος</w></name>
                     <lb n="5" xml:id="BDKCo"/><roleName type="civic" subtype="triakadarchos" xml:id="BDKCy"><w xml:id="BDKCΙ">τριακάδαρχοι</w></roleName>
-                    <lb n="6" xml:id="BDKCΤ"/><name xml:id="BDKCε">Δαμοκράτης</name> <name xml:id="BDKCο">Ἀριστοκράτεος</name>
-                    <lb n="7" xml:id="BDKDA"/><name xml:id="BDKDK">Ἀγέας</name> <name xml:id="BDKDU">Ἀγέα</name>
-                    <lb n="8" xml:id="BDKDe"/><name xml:id="BDKDo">Ἀπολλώνιος</name> <name xml:id="BDKDy">Ἀγάθωνος</name>
-                    <lb n="9" xml:id="BDKDΙ"/><name xml:id="BDKDΤ">Ἕλωρις</name> <name xml:id="BDKDε">Ἀπολλωνίου</name>
-                    <lb n="10" xml:id="BDKDο"/><name xml:id="BDKEA">Ἀριστοφάνης</name> <name xml:id="BDKEK">Ἀρχαγάθου</name>
-                    <lb n="11" xml:id="BDKEU"/><name xml:id="BDKEe">Ἡρακλείδας</name> <name xml:id="BDKEo">Δαματρίου</name>
-                    <lb n="12" xml:id="BDKEy"/><name xml:id="BDKEΙ">Ἀριστέας</name> <name xml:id="BDKEΤ">Ξένωνος</name> <cb n="2" xml:id="BDKEε"/>
-                    <lb n="13" xml:id="BDKEο"/><name xml:id="BDKFA">Κρίτων</name> <name xml:id="BDKFK">Κρίτωνος</name>
-                    <lb n="14" xml:id="BDKFU"/><name xml:id="BDKFe">Ἐπίγονος</name> <name xml:id="BDKFo">Ἐπιγόνου</name>
+                    <lb n="6" xml:id="BDKCΤ"/><name xml:id="BDKCε"><w>Δαμοκράτης</w></name> <name xml:id="BDKCο"><w>Ἀριστοκράτεος</w></name>
+                    <lb n="7" xml:id="BDKDA"/><name xml:id="BDKDK"><w>Ἀγέας</w></name> <name xml:id="BDKDU"><w>Ἀγέα</w></name>
+                    <lb n="8" xml:id="BDKDe"/><name xml:id="BDKDo"><w>Ἀπολλώνιος</w></name> <name xml:id="BDKDy"><w>Ἀγάθωνος</w></name>
+                    <lb n="9" xml:id="BDKDΙ"/><name xml:id="BDKDΤ"><w>Ἕλωρις</w></name> <name xml:id="BDKDε"><w>Ἀπολλωνίου</w></name>
+                    <lb n="10" xml:id="BDKDο"/><name xml:id="BDKEA"><w>Ἀριστοφάνης</w></name> <name xml:id="BDKEK"><w>Ἀρχαγάθου</w></name>
+                    <lb n="11" xml:id="BDKEU"/><name xml:id="BDKEe"><w>Ἡρακλείδας</w></name> <name xml:id="BDKEo"><w>Δαματρίου</w></name>
+                    <lb n="12" xml:id="BDKEy"/><name xml:id="BDKEΙ"><w>Ἀριστέας</w></name> <name xml:id="BDKEΤ"><w>Ξένωνος</w></name> <cb n="2" xml:id="BDKEε"/>
+                    <lb n="13" xml:id="BDKEο"/><name xml:id="BDKFA"><w>Κρίτων</w></name> <name xml:id="BDKFK"><w>Κρίτωνος</w></name>
+                    <lb n="14" xml:id="BDKFU"/><name xml:id="BDKFe"><w>Ἐπίγονος</w></name> <name xml:id="BDKFo"><w>Ἐπιγόνου</w></name>
                     <lb n="15" xml:id="BDKFy"/><roleName type="civic" subtype="grammateus" xml:id="BDKFΙ"><w xml:id="BDKFΤ">γραμματεὺς</w></roleName> <w xml:id="BDKFε">καὶ</w>
                     <lb n="16" xml:id="BDKFο"/><roleName type="civic" subtype="phradater" xml:id="BDKGA"><w xml:id="BDKGK">φραδατὴρ</w></roleName>
-                    <lb n="17" xml:id="BDKGU"/><name xml:id="BDKGe"><unclear xml:id="BDKGo">Π</unclear>ύρριχος</name> <name xml:id="BDKGy">Ἀριστογείτου</name>
+                    <lb n="17" xml:id="BDKGU"/><name xml:id="BDKGe"><w><unclear xml:id="BDKGo">Π</unclear>ύρριχος</w></name> <name xml:id="BDKGy"><w>Ἀριστογείτου</w></name>
                     <lb n="18" xml:id="BDKGΙ"/><roleName type="civic" subtype="hypographeus" xml:id="BDKGΤ"><w xml:id="BDKGε">ὑπογραφεύς</w></roleName>
-                    <lb n="19" xml:id="BDKGο"/><name xml:id="BDKHA">Δαμοκράτης</name> <name xml:id="BDKHK">Φιλίου</name>
+                    <lb n="19" xml:id="BDKGο"/><name xml:id="BDKHA"><w>Δαμοκράτης</w></name> <name xml:id="BDKHK"><w>Φιλίου</w></name>
                     <lb n="20" xml:id="BDKHU"/><w xml:id="BDKHe">ὑπηρέτας</w>
-                    <lb n="21" xml:id="BDKHo"/><name xml:id="BDKHy">Ἀριστομένης</name> <name xml:id="BDKHΙ">Ζωπύρο<unclear xml:id="BDKHΤ">υ</unclear></name>
+                    <lb n="21" xml:id="BDKHo"/><name xml:id="BDKHy"><w>Ἀριστομένης</w></name> <name xml:id="BDKHΙ"><w>Ζωπύρο<unclear xml:id="BDKHΤ">υ</unclear></w></name>
                     <lb n="22" xml:id="BDKHε"/><roleName type="civic" subtype="keryx" xml:id="BDKHο"><w xml:id="BDKIA">κᾶρυξ</w></roleName>
-                    <lb n="23" xml:id="BDKIK"/><name xml:id="BDKIU">Μενεκράτης</name> <name xml:id="BDKIe">Σώσιος</name>
+                    <lb n="23" xml:id="BDKIK"/><name xml:id="BDKIU"><w>Μενεκράτης</w></name> <name xml:id="BDKIe"><w>Σώσιος</w></name>
                 </ab>
             </div>
             <div type="apparatus">

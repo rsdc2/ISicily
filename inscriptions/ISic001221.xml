@@ -193,7 +193,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#AL">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name type="idionym">Πολυξένου</name></persName>
+                    <lb n="1"/><persName type="attested"><name type="idionym"><w>Πολυξένου</w></name></persName>
                 </ab>
             </div>
             <div type="apparatus">

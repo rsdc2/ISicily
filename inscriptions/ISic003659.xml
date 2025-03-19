@@ -189,15 +189,15 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#MB">
                 <ab>
-                    <lb n="1"/><num value="17">XVII</num> <name><expan><abbr>K</abbr><ex>alendas</ex></expan></name> <name><expan><abbr>Septemb</abbr><ex>res</ex></expan></name>
-                    <lb n="2"/><persName><name>Feridius</name> <persName><name>Cereris</name></persName> <w>dominae</w> <w><supplied reason="lost"><expan><abbr>s</abbr><ex>ervus</ex></expan></supplied></w></persName>
+                    <lb n="1"/><num value="17"><w>XVII</w></num> <name><w><expan><abbr>K</abbr><ex>alendas</ex></expan></w></name> <name><w><expan><abbr>Septemb</abbr><ex>res</ex></expan></w></name>
+                    <lb n="2"/><persName><name><w>Feridius</w></name> <persName><name><w>Cereris</w></name></persName> <w>dominae</w> <w><supplied reason="lost"><expan><abbr>s</abbr><ex>ervus</ex></expan></supplied></w></persName>
                     <lb n="3"/><w>hic</w> <w>sibi</w> <w><choice><reg>suaviter</reg><orig>suabiter</orig></choice></w> <w><expan><abbr>fec</abbr><ex>it</ex></expan></w> <w>e<supplied reason="lost">o</supplied>
                     <lb n="4" break="no"/>rum</w> <w>tres</w> <w>adulescentes</w>
                     <lb n="5"/><w>quorum</w> <w>nomina</w> <w>lege</w>
-                    <lb n="6"/><persName><name>Onesimus</name></persName> <w>et</w> <persName><name><expan><abbr>L</abbr><ex>ucius</ex></expan></name> <name>Valerius</name>
-                    <lb n="7"/><name><choice><reg>Cassianus</reg><orig>Casianus</orig></choice></name></persName> <w>et</w> <persName><name>Filumenus</name></persName>
+                    <lb n="6"/><persName><name><w>Onesimus</w></name></persName> <w>et</w> <persName><name><w><expan><abbr>L</abbr><ex>ucius</ex></expan></w></name> <name><w>Valerius</w></name>
+                    <lb n="7"/><name><w><choice><reg>Cassianus</reg><orig>Casianus</orig></choice></w></name></persName> <w>et</w> <persName><name><w>Filumenus</w></name></persName>
                     <lb n="8"/><w>unus</w> <w>cum</w> <w><choice><reg>muliere</reg><orig>mulierae</orig></choice></w> <w>ea</w>
-                    <lb n="9"/><persName><name>Taurus</name></persName> <w>multis</w> <w>annis</w> <w><choice><reg>have</reg><orig>habe</orig></choice></w> <w><expan><abbr>facian</abbr><ex>t</ex></expan></w>
+                    <lb n="9"/><persName><name><w>Taurus</w></name></persName> <w>multis</w> <w>annis</w> <w><choice><reg>have</reg><orig>habe</orig></choice></w> <w><expan><abbr>facian</abbr><ex>t</ex></expan></w>
                     <lb n="10"/><w><choice><reg>coniunximus</reg><orig>coiuximus</orig></choice></w>
                     <lb n="11"/><w>propitiam</w>
                 </ab>

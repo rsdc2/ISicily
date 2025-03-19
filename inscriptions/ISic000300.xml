@@ -192,7 +192,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#TA">
                 <ab>
-                    <lb n="1"/><w>Annia</w> <g ref="#interpunct">·</g> <name>Zosima</name>
+                    <lb n="1"/><w>Annia</w> <g ref="#interpunct">·</g> <name><w>Zosima</w></name>
                     <lb n="2"/><w>votum</w>
                     <lb n="3"/><w>lucernam</w>
                 </ab>

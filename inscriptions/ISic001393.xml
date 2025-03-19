@@ -187,11 +187,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1"/><w><supplied reason="lost">ἐ</supplied>πὶ</w> <name>Ἡρακλείου</name> <w>τοῦ</w> <name>Α</name> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w>ο<unclear>υ</unclear></w> <name>Ἀριστονίκου</name>
-                    <lb n="3"/><name>Διὶ</name> <name>Ὠρίῳ</name> <w>ἀνφιπολεύσας</w>
-                    <lb n="4"/><name><supplied reason="lost">Ἀρ</supplied><unclear>τ</unclear>εμίσκος</name> <name>Νύμ<unclear>φ</unclear>ωνος</name>
-                    <lb n="5"/><name>Κάβαλλος</name> <w>ἐκ</w> <w>τῶν</w> <w>αὑτοῦ</w>
+                    <lb n="1"/><w><supplied reason="lost">ἐ</supplied>πὶ</w> <name><w>Ἡρακλείου</w></name> <w>τοῦ</w> <name><w>Α</w></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w>ο<unclear>υ</unclear></w> <name><w>Ἀριστονίκου</w></name>
+                    <lb n="3"/><name><w>Διὶ</w></name> <name><w>Ὠρίῳ</w></name> <w>ἀνφιπολεύσας</w>
+                    <lb n="4"/><name><w><supplied reason="lost">Ἀρ</supplied><unclear>τ</unclear>εμίσκος</w></name> <name><w>Νύμ<unclear>φ</unclear>ωνος</w></name>
+                    <lb n="5"/><name><w>Κάβαλλος</w></name> <w>ἐκ</w> <w>τῶν</w> <w>αὑτοῦ</w>
                 </ab>
             </div>
             <div type="apparatus" resp="#JP">

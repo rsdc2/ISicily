@@ -193,9 +193,9 @@
                 <div type="edition" xml:space="preserve" xml:lang="la">
                 <ab>
                     <lb n="1"/><w><supplied reason="undefined" evidence="previouseditor"><expan><abbr>D</abbr><ex>is</ex></expan></supplied></w> <w><g ref="#interpunct">·</g><expan><abbr>M</abbr><ex>anibus</ex></expan></w>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w>aeli</w> <g ref="#interpunct">·</g> <name>Eutychionis</name>
-                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <w>ius</w> <g ref="#interpunct">·</g> <name>Aelius</name> <g ref="#interpunct">·</g> <name>Eutychio</name> <g ref="#interpunct">·</g> <w>et</w>
-                    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <name>Aelia</name> <name>Gemella</name> <g ref="#interpunct">·</g> <w>parentes</w>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w>aeli</w> <g ref="#interpunct">·</g> <name><w>Eutychionis</w></name>
+                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <w>ius</w> <g ref="#interpunct">·</g> <name><w>Aelius</w></name> <g ref="#interpunct">·</g> <name><w>Eutychio</w></name> <g ref="#interpunct">·</g> <w>et</w>
+                    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <name><w>Aelia</w></name> <name><w>Gemella</w></name> <g ref="#interpunct">·</g> <w>parentes</w>
                     <lb n="5"/><w><supplied reason="lost">filio</supplied></w> <w><supplied reason="lost">d</supplied>ulcissimo</w> <g ref="#interpunct">·</g> <w>fecerunt</w> <g ref="#interpunct">·</g> <w>qui</w>
                     <lb n="6"/><w><supplied reason="lost"><expan><abbr>vix</abbr><ex>it</ex></expan></supplied></w> <w><expan><abbr><supplied reason="lost">an</supplied>n</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <w>VIII</w> <g ref="#interpunct">·</g> <w><expan><abbr>mens</abbr><ex>ibus</ex></expan></w> <g ref="#interpunct">·</g> <w>IIII</w> <g ref="#interpunct">·</g> <w><expan><abbr>dieb</abbr><ex>us</ex></expan></w> <g ref="#interpunct">·</g> <w>XXVII</w>
                 </ab>

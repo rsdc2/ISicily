@@ -208,9 +208,9 @@
         <body>
             <div type="edition" xml:space="preserve" subtype="EDR" n="EDR074417" xml:lang="la">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>C</abbr><ex>aio</ex></expan></w> <name>Mevio</name> <name><expan><abbr>Q</abbr><ex>uinti</ex></expan></name> <w><expan><abbr>f</abbr><ex>ilio</ex></expan></w> <name>Donato</name>
-                    <lb n="2"/><name>Iuniano</name> <roleName type="supracivic" subtype="quaestor.pro.praetore"><w><expan><abbr>q</abbr><ex>uaestori</ex></expan></w> <w>pro</w> <w><expan><abbr>pr</abbr><ex>aetore</ex></expan></w></roleName>
-                    <lb n="3"/><w><expan><abbr>provinc</abbr><ex>iae</ex></expan></w> <name>Siciliae</name>
+                    <lb n="1"/><w><expan><abbr>C</abbr><ex>aio</ex></expan></w> <name><w>Mevio</w></name> <name><w><expan><abbr>Q</abbr><ex>uinti</ex></expan></w></name> <w><expan><abbr>f</abbr><ex>ilio</ex></expan></w> <name><w>Donato</w></name>
+                    <lb n="2"/><name><w>Iuniano</w></name> <roleName type="supracivic" subtype="quaestor.pro.praetore"><w><expan><abbr>q</abbr><ex>uaestori</ex></expan></w> <w>pro</w> <w><expan><abbr>pr</abbr><ex>aetore</ex></expan></w></roleName>
+                    <lb n="3"/><w><expan><abbr>provinc</abbr><ex>iae</ex></expan></w> <name><w>Siciliae</w></name>
                     <lb n="4"/><w>optimo</w> <w>et</w> <w><expan><abbr>humaniss</abbr><ex>imo</ex></expan></w>
                     <lb n="5"/><w>XII</w> <w><expan><abbr>trib</abbr><ex>us</ex></expan></w> <roleName type="paracivic" subtype="patronus"><w>patrono</w></roleName>
                 </ab>

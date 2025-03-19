@@ -196,15 +196,15 @@
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#GC">
                 <ab>
                     <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <w><expan><abbr>m</abbr><ex>anibus</ex></expan></w>
-                    <lb n="2"/><name><expan><abbr>Tac</abbr><ex>itio</ex></expan></name> <g ref="#interpunct">·</g> <name>Iulia
-                    <lb n="3" break="no"/>no</name> <g ref="#interpunct">·</g> <w><expan><choice><orig><abbr>evok</abbr></orig><reg><abbr>evoc</abbr></reg></choice><ex>ato</ex></expan></w>
+                    <lb n="2"/><name><w><expan><abbr>Tac</abbr><ex>itio</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w>Iulia
+                    <lb n="3" break="no"/>no</w></name> <g ref="#interpunct">·</g> <w><expan><choice><orig><abbr>evok</abbr></orig><reg><abbr>evoc</abbr></reg></choice><ex>ato</ex></expan></w>
                     <lb n="4"/><w>quondam</w>
-                    <lb n="5"/><name><expan><abbr>Aur</abbr><ex>elia</ex></expan></name> <g ref="#interpunct">·</g> <name>Lucil
-                    <lb n="6" break="no"/>la</name> <g ref="#interpunct">·</g> <w>coniu
+                    <lb n="5"/><name><w><expan><abbr>Aur</abbr><ex>elia</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w>Lucil
+                    <lb n="6" break="no"/>la</w></name> <g ref="#interpunct">·</g> <w>coniu
                     <lb n="7" break="no"/>gi</w> <g ref="#interpunct">·</g> <w><choice><orig>karissi
-                    <lb n="8" break="no"/>mo</orig><reg>carissimo</reg></choice></w> <g ref="#interpunct">·</g> <w>et</w> <g ref="#interpunct">·</g> <name>Iuli
-                    <lb n="9" break="no"/>us</name> <g ref="#interpunct">·</g> <name>Tacitia
-                    <lb n="10" break="no"/>nus</name> <g ref="#interpunct">·</g> <w>filius</w>
+                    <lb n="8" break="no"/>mo</orig><reg>carissimo</reg></choice></w> <g ref="#interpunct">·</g> <w>et</w> <g ref="#interpunct">·</g> <name><w>Iuli
+                    <lb n="9" break="no"/>us</w></name> <g ref="#interpunct">·</g> <name><w>Tacitia
+                    <lb n="10" break="no"/>nus</w></name> <g ref="#interpunct">·</g> <w>filius</w>
                     <lb n="11"/><w>heredes</w>
                     <lb n="12"/><w>posuerunt</w>
                     <lb n="13"/><w>merenti</w>

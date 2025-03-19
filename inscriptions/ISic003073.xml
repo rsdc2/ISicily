@@ -191,13 +191,13 @@
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#VM">
                 <div type="textpart" n="A">
                     <ab>
-                        <lb n="1"/><w><choice><reg>ἐ</reg><orig>Η</orig></choice>ν</w> <name><expan><abbr>Θ</abbr><ex>εῷ</ex></expan></name> <name><expan><abbr><am><g ref="#christogram">☧</g></am></abbr><ex>χριστῷ</ex></expan></name> <seg style="text-direction:r-to-l"><choice><reg>ἐ</reg><orig>Η</orig></choice>ν <expan><abbr>Θ</abbr><ex>εῷ</ex></expan></seg>
+                        <lb n="1"/><w><choice><reg>ἐ</reg><orig>Η</orig></choice>ν</w> <name><w><expan><abbr>Θ</abbr><ex>εῷ</ex></expan></w></name> <name><w><expan><abbr><am><g ref="#christogram">☧</g></am></abbr><ex>χριστῷ</ex></expan></w></name> <seg style="text-direction:r-to-l"><choice><reg>ἐ</reg><orig>Η</orig></choice>ν <expan><abbr>Θ</abbr><ex>εῷ</ex></expan></seg>
                     </ab>
                 </div>
                 <div type="textpart" n="B">
                     <ab>
                         <lb n="1"/><g ref="#staurogram">𐆠</g> <w>ἐτελεύτη<supplied reason="omitted">σεν</supplied></w>
-                        <lb n="2"/><name>Μακεδονία</name> <g ref="#staurogram">𐆠</g>
+                        <lb n="2"/><name><w>Μακεδονία</w></name> <g ref="#staurogram">𐆠</g>
                         <lb n="3"/><w>τῇ</w> <w>πρὸς</w> <w>νοβεμ
                         <lb n="4" break="no"/>βρίων</w> <w>ἡμέρα</w> <w>πέν
                         <lb n="5" break="no"/>της</w> <w>ὥρᾳ</w> <orig>ΑΙΤΕΝΟΥ</orig>

@@ -191,8 +191,8 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#IG">
                 <ab>
                     <lb n="1"/><w>Πρεῖμος</w> <w>οἰκονόμος</w>
-                    <lb n="2"/><w>ἔζησε</w> <w>ἔτη</w> <num value="70"><hi rend="supraline">ο</hi></num>
-                    <lb n="3"/><w>καὶ</w> <w>τρ<supplied reason="omitted">ε</supplied>ῖς</w> <w>ὥ<del rend="erasure">ν</del>ρας.</w> <name><expan><abbr><hi rend="supraline">Θ</hi></abbr><ex>άνατος</ex></expan></name>
+                    <lb n="2"/><w>ἔζησε</w> <w>ἔτη</w> <num value="70"><w><hi rend="supraline">ο</hi></w></num>
+                    <lb n="3"/><w>καὶ</w> <w>τρ<supplied reason="omitted">ε</supplied>ῖς</w> <w>ὥ<del rend="erasure">ν</del>ρας.</w> <name><w><expan><abbr><hi rend="supraline">Θ</hi></abbr><ex>άνατος</ex></expan></w></name>
                     <lb n="4"/><g ref="#ivy-leaf">❦</g> <g ref="#ivy-leaf">❦</g>
                 </ab>
                   </div>

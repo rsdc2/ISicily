@@ -192,13 +192,13 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <name><expan><abbr>M</abbr><ex>anibus</ex></expan></name>
-                    <lb n="2"/><name><expan><abbr>M</abbr><ex>arco</ex></expan></name> <g ref="#interpunct">·</g> <name>Virginio</name>
-                    <lb n="3"/><name>Pompeio</name> <g ref="#interpunct">·</g> <w><expan><abbr>fil</abbr><ex>io</ex></expan></w>
+                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <name><w><expan><abbr>M</abbr><ex>anibus</ex></expan></w></name>
+                    <lb n="2"/><name><w><expan><abbr>M</abbr><ex>arco</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w>Virginio</w></name>
+                    <lb n="3"/><name><w>Pompeio</w></name> <g ref="#interpunct">·</g> <w><expan><abbr>fil</abbr><ex>io</ex></expan></w>
                     <lb n="4"/><w>bene</w> <g ref="#interpunct">·</g> <w>merenti</w>
-                    <lb n="5"/><w>vixit</w> <g ref="#interpunct">·</g> <w>annis</w> <g ref="#interpunct">·</g> <num value="25">XXV</num>
-                    <lb n="6"/><name>Pompeia</name>
-                    <lb n="7"/><name>Atti<supplied reason="lost">cill</supplied>a</name> <g ref="#interpunct">·</g> <w>mater</w>
+                    <lb n="5"/><w>vixit</w> <g ref="#interpunct">·</g> <w>annis</w> <g ref="#interpunct">·</g> <num value="25"><w>XXV</w></num>
+                    <lb n="6"/><name><w>Pompeia</w></name>
+                    <lb n="7"/><name><w>Atti<supplied reason="lost">cill</supplied>a</w></name> <g ref="#interpunct">·</g> <w>mater</w>
                 </ab>
             </div>
             <div type="apparatus">

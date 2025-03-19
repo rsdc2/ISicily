@@ -196,7 +196,7 @@
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <orig>IAELS</orig><orig>PA</orig><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <orig>ACATAC</orig><orig>PIE</orig><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <w>filiorum</w> <orig>IG</orig><gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <w>sub</w> <num value="50004"><hi rend="supraline">L</hi>IIII</num> <orig>T<unclear>M</unclear></orig><gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <w>sub</w> <num value="50004"><w><hi rend="supraline">L</hi>IIII</w></num> <orig>T<unclear>M</unclear></orig><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/> <orig>NNO</orig><gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>

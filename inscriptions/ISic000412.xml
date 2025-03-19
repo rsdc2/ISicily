@@ -193,7 +193,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la">
                 <ab>
-                    <lb n="1"/><placeName type="ancient"><w>Syracusae</w></placeName> <w>colonia</w> <name>Augusta</name>
+                    <lb n="1"/><placeName type="ancient"><w>Syracusae</w></placeName> <w>colonia</w> <name><w>Augusta</w></name>
                 </ab>
             </div>
             <div type="apparatus">

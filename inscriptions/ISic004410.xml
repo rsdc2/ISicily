@@ -188,8 +188,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w><unclear>C</unclear>n</w> <g ref="#interpunct">·</g> <w><expan><abbr>f</abbr><ex>ilius</ex></expan></w> <g ref="#interpunct">·</g> <name>F</name> <gap reason="illegible" unit="character" quantity="1"/> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <gap reason="illegible" unit="character" quantity="1"/> <name><unclear>V</unclear></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w><unclear>C</unclear>n</w> <g ref="#interpunct">·</g> <w><expan><abbr>f</abbr><ex>ilius</ex></expan></w> <g ref="#interpunct">·</g> <name><w>F</w></name> <gap reason="illegible" unit="character" quantity="1"/> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <gap reason="illegible" unit="character" quantity="1"/> <name><w><unclear>V</unclear></w></name> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>
             <div type="apparatus">

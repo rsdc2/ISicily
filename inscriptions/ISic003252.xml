@@ -196,10 +196,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#martaf #AA">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>Θ</abbr><ex>εοῖς</ex></expan></w> <name><expan><abbr>Κ</abbr><ex>ατα</ex><abbr>χ</abbr><ex>θονίοις</ex></expan></name>
-                    <lb n="2"/><persName type="attested"><name>Ῥωσκία</name> <name>Νίκη</name></persName>
-                    <lb n="3"/><w>ἔζησεν</w> <w>ἔτη</w> <g ref="#interpunct">·</g> <num value="43">μ <g ref="#interpunct">·</g>γ</num>
-                    <lb n="4"/><persName type="attested"><name>Οὐρβικὸς</name></persName> <name> ἰδίᾳ</name>
+                    <lb n="1"/><w><expan><abbr>Θ</abbr><ex>εοῖς</ex></expan></w> <name><w><expan><abbr>Κ</abbr><ex>ατα</ex><abbr>χ</abbr><ex>θονίοις</ex></expan></w></name>
+                    <lb n="2"/><persName type="attested"><name><w>Ῥωσκία</w></name> <name><w>Νίκη</w></name></persName>
+                    <lb n="3"/><w>ἔζησεν</w> <w>ἔτη</w> <g ref="#interpunct">·</g> <num value="43"><w>μ <g ref="#interpunct">·</g>γ</w></num>
+                    <lb n="4"/><persName type="attested"><name><w>Οὐρβικὸς</w></name></persName> <name><w> ἰδίᾳ</w></name>
                     <lb n="5"/><w>γυναικί</w>
                 </ab>
             </div>

@@ -193,15 +193,15 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
                     <lb n="1"/><w>ἐνθάδε</w> <w>κεῖτε</w>
-                    <lb n="2"/><name>Εὐτέρπη</name> <w>ἡ</w> <w>τῶν</w>
-                    <lb n="3"/><name>Μουσῶν</name> <w>σύντροφος</w>
+                    <lb n="2"/><name><w>Εὐτέρπη</w></name> <w>ἡ</w> <w>τῶν</w>
+                    <lb n="3"/><name><w>Μουσῶν</w></name> <w>σύντροφος</w>
                     <lb n="4"/><w>βιώσασα</w> <w>ἁγνῶς</w> <w>καὶ</w>
                     <lb n="5"/><w>ὁσείως</w> <w>καὶ</w> <w>ἀμέμ
                     <lb n="6" break="no"/>πτως</w> <w>ἐπὶ</w> <w>ἔτε</w>
-                    <lb n="7"/><w><choice><corr>σ</corr><sic>ε</sic></choice>ιν</w> <num value="22"><hi rend="supraline">κβ</hi></num> <w><expan><abbr>μῆν</abbr><ex>ας</ex></expan></w> <num value="3"><hi rend="supraline">γ</hi></num> <g ref="#interpunct">·</g>
-                    <lb n="8"/><w><expan><abbr>ἐτελε</abbr><ex>ύτησεν</ex></expan></w> <w>τῇ</w> <w>πρὸ</w> <num value="5"><hi rend="supraline">ε</hi></num> <w><expan><abbr>καλ</abbr><ex>ανδῶν</ex></expan></w>
-                    <lb n="9"/><name><expan><abbr><choice><corr>Δ</corr><sic>α</sic></choice>εκεμβ</abbr><ex>ρίων</ex></expan></name> <roleName type="supracivic" subtype="consul"><w>ὑπατίᾳ</w></roleName>
-                    <lb n="10"/><w>τῶν</w> <w><expan><abbr><hi rend="supraline">κυ</hi></abbr><ex>ρίων</ex></expan></w> <w>τὸ</w> <num value="10"><hi rend="supraline">ι</hi></num> <w>καὶ</w> <w>τὸ</w> <num value="3"><hi rend="supraline">γ</hi></num>
+                    <lb n="7"/><w><choice><corr>σ</corr><sic>ε</sic></choice>ιν</w> <num value="22"><w><hi rend="supraline">κβ</hi></w></num> <w><expan><abbr>μῆν</abbr><ex>ας</ex></expan></w> <num value="3"><w><hi rend="supraline">γ</hi></w></num> <g ref="#interpunct">·</g>
+                    <lb n="8"/><w><expan><abbr>ἐτελε</abbr><ex>ύτησεν</ex></expan></w> <w>τῇ</w> <w>πρὸ</w> <num value="5"><w><hi rend="supraline">ε</hi></w></num> <w><expan><abbr>καλ</abbr><ex>ανδῶν</ex></expan></w>
+                    <lb n="9"/><name><w><expan><abbr><choice><corr>Δ</corr><sic>α</sic></choice>εκεμβ</abbr><ex>ρίων</ex></expan></w></name> <roleName type="supracivic" subtype="consul"><w>ὑπατίᾳ</w></roleName>
+                    <lb n="10"/><w>τῶν</w> <w><expan><abbr><hi rend="supraline">κυ</hi></abbr><ex>ρίων</ex></expan></w> <w>τὸ</w> <num value="10"><w><hi rend="supraline">ι</hi></w></num> <w>καὶ</w> <w>τὸ</w> <num value="3"><w><hi rend="supraline">γ</hi></w></num>
                 </ab>
             </div>
             <div type="apparatus">

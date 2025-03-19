@@ -193,10 +193,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/><w>Κλώδι<hi rend="ligature">ος</hi></w> <name>Ῥω
-                    <lb n="2" break="no"/>μαν<hi rend="ligature">ὸς</hi></name> <w>ἔζη
-                    <lb n="3" break="no"/>σεν</w> <w>ἔτη</w> <g ref="#interpunct">·</g> <num value="19"><hi rend="supraline">ι<g ref="#interpunct">·</g>θ</hi></num> <g ref="#interpunct">·</g>
-                    <lb n="4"/><w>ἡμέρας</w> <g ref="#interpunct">·</g> <num value="4">δ</num> <g ref="#interpunct">·</g>
+                    <lb n="1"/><w>Κλώδι<hi rend="ligature">ος</hi></w> <name><w>Ῥω
+                    <lb n="2" break="no"/>μαν<hi rend="ligature">ὸς</hi></w></name> <w>ἔζη
+                    <lb n="3" break="no"/>σεν</w> <w>ἔτη</w> <g ref="#interpunct">·</g> <num value="19"><w><hi rend="supraline">ι<g ref="#interpunct">·</g>θ</hi></w></num> <g ref="#interpunct">·</g>
+                    <lb n="4"/><w>ἡμέρας</w> <g ref="#interpunct">·</g> <num value="4"><w>δ</w></num> <g ref="#interpunct">·</g>
                     <lb n="5"/><w>ἀμέμπτως</w> <w><expan><abbr>τ<hi rend="supraline">ὸ</hi></abbr><ex>ν</ex></expan></w>
                     <lb n="6"/><w>βίον</w> <w>ψυχὴ</w> <w>χαί
                     <lb n="7" break="no"/>ρει</w> <g ref="#interpunct">·</g> <w>α<supplied reason="omitted">ἰ</supplied><g ref="#interpunct">·</g>ώνι<hi rend="ligature">ος</hi></w>

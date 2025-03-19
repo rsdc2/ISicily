@@ -176,8 +176,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#FC">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name><expan><abbr>Τ</abbr><ex>ιτος</ex></expan></name> <name>Μα<unclear>ρ</unclear>σύλλι</name>
-                    <lb n="2"/><name>Ἀβάσκαντε</name></persName>
+                    <lb n="1"/><persName type="attested"><name><w><expan><abbr>Τ</abbr><ex>ιτος</ex></expan></w></name> <name><w>Μα<unclear>ρ</unclear>σύλλι</w></name>
+                    <lb n="2"/><name><w>Ἀβάσκαντε</w></name></persName>
                     <lb n="3"/><w><choice><orig>χρεστὲ</orig><reg>χρηστὲ</reg></choice></w> <w>καὶ</w> <w>ἄμεμτε</w>
                 </ab>
             </div>

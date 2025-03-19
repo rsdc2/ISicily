@@ -273,9 +273,9 @@
         <body>
             <div type="edition" xml:space="preserve" resp="#martaf" xml:lang="grc">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name><gap reason="lost" extent="unknown" unit="character"/><seg part="F">ιος</seg></name> <g ref="#ivy-leaf">❦</g> <name>Φιλο
-                    <lb n="2" break="no"/><supplied reason="undefined" evidence="previouseditor">ζ<gap reason="illegible" unit="character" quantity="1"/>ας</supplied></name></persName> <w>καὶ</w> <persName type="attested"><name>Αὐρη
-                    <lb n="3" break="no"/><supplied reason="undefined" evidence="previouseditor">λια</supplied></name> <supplied reason="undefined" evidence="previouseditor"><g ref="#ivy-leaf">❦</g></supplied> <name>Κλωδία</name></persName> <w>ἡ</w>
+                    <lb n="1"/><persName type="attested"><name><w><gap reason="lost" extent="unknown" unit="character"/><seg part="F">ιος</seg></w></name> <g ref="#ivy-leaf">❦</g> <name><w>Φιλο
+                    <lb n="2" break="no"/><supplied reason="undefined" evidence="previouseditor">ζ<gap reason="illegible" unit="character" quantity="1"/>ας</supplied></w></name></persName> <w>καὶ</w> <persName type="attested"><name><w>Αὐρη
+                    <lb n="3" break="no"/><supplied reason="undefined" evidence="previouseditor">λια</supplied></w></name> <supplied reason="undefined" evidence="previouseditor"><g ref="#ivy-leaf">❦</g></supplied> <name><w>Κλωδία</w></name></persName> <w>ἡ</w>
                     <lb n="4"/><w>σύνβιος</w> <w>μου</w> <w>ἐ
                     <lb n="5" break="no"/>κτησάμε<unclear>θ</unclear>α</w> <w>χώραν</w>
                     <lb n="6"/><w>καθαρὰν</w> <w>καὶ</w> <w>ἐθεμε<unclear>λ</unclear><supplied reason="lost">ιώ</supplied>

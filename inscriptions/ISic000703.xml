@@ -197,7 +197,7 @@
                 <ab>
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w>aelio</w> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w>mo</w> <w>ma</w> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <w><unclear>ci</unclear>lio</w> <g ref="#interpunct">·</g> <name>St</name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <w><unclear>ci</unclear>lio</w> <g ref="#interpunct">·</g> <name><w>St</w></name> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>
             <div type="apparatus">

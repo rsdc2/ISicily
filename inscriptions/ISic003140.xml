@@ -190,11 +190,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/><w>π<hi rend="stacked">ρ</hi>ὸ</w> <num value="16">ιϛ</num> <w>καλανδῶν</w>
-                    <lb n="2"/><name>Ἀπρι<hi rend="ligature">λί</hi>ω<supplied reason="omitted">ν</supplied></name> <w>ἐτελεύ
+                    <lb n="1"/><w>π<hi rend="stacked">ρ</hi>ὸ</w> <num value="16"><w>ιϛ</w></num> <w>καλανδῶν</w>
+                    <lb n="2"/><name><w>Ἀπρι<hi rend="ligature">λί</hi>ω<supplied reason="omitted">ν</supplied></w></name> <w>ἐτελεύ
                     <lb n="3" break="no"/>τησεν</w> <w>καλώνυ
-                    <lb n="4" break="no"/>μος</w> <name>Ἐλευθερίων</name>
-                    <lb n="5"/><w>ἐτέων</w> <num value="65">εξ</num>
+                    <lb n="4" break="no"/>μος</w> <name><w>Ἐλευθερίων</w></name>
+                    <lb n="5"/><w>ἐτέων</w> <num value="65"><w>εξ</w></num>
                 </ab>
             </div>
             <div type="apparatus">

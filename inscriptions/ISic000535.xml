@@ -191,9 +191,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
-                    <lb n="1"/><w><supplied reason="lost">Ven</supplied>erei</w> <g ref="#interpunct">·</g> <name><expan><abbr>Erucin</abbr><ex>ae</ex></expan></name>
+                    <lb n="1"/><w><supplied reason="lost">Ven</supplied>erei</w> <g ref="#interpunct">·</g> <name><w><expan><abbr>Erucin</abbr><ex>ae</ex></expan></w></name>
                     <lb n="2"/><w><supplied reason="lost">s</supplied>acrom</w>
-                    <lb n="3"/><name><gap reason="lost" extent="unknown" unit="character"/>ltinius</name> <g ref="#interpunct">·</g> <name><expan><abbr>P</abbr><ex>ubli</ex></expan></name> <g ref="#interpunct">·</g> <w><expan><abbr>f</abbr><ex>ilius</ex></expan></w>
+                    <lb n="3"/><name><w><gap reason="lost" extent="unknown" unit="character"/>ltinius</w></name> <g ref="#interpunct">·</g> <name><w><expan><abbr>P</abbr><ex>ubli</ex></expan></w></name> <g ref="#interpunct">·</g> <w><expan><abbr>f</abbr><ex>ilius</ex></expan></w>
                 </ab>
             </div>
             <div type="apparatus">

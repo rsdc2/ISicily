@@ -199,7 +199,7 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#AA">
                 <ab>
                     <lb n="1"/><w><supplied reason="lost">ἐνθ</supplied>άδε</w> <w>κῖτε</w>
-                    <lb n="2"/><name><supplied reason="lost">Εὐσ</supplied><seg part="F">έβιος</seg></name> <w>πρεσ
+                    <lb n="2"/><name><w><supplied reason="lost">Εὐσ</supplied><seg part="F">έβιος</seg></w></name> <w>πρεσ
                     <lb n="3" break="no"/><supplied reason="lost">βύτ</supplied><unclear>ε</unclear>ρο<unclear>ς</unclear></w> <w>πατὴρ</w>
                 </ab>
             </div>

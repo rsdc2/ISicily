@@ -178,7 +178,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name>Διόδωρος</name> <persName type="attested"><name type="patronym">Τιττελου</name></persName> <name>Ἀππειραῖος</name></persName>
+                    <lb n="1"/><persName type="attested"><name><w>Διόδωρος</w></name> <persName type="attested"><name type="patronym"><w>Τιττελου</w></name></persName> <name><w>Ἀππειραῖος</w></name></persName>
                     <lb n="2"/><w><space unit="character" quantity="1"/>τὰν</w> <w>εἰκόνα</w> <w>τοῦ</w> <w>πατρὸς</w>
                     <lb n="3"/><w>ἐκ</w> <w>τῶν</w> <w>ἰδίων</w> <w>ἀνέθηκε</w>
                     <lb n="4"/><roleName type="civic" subtype="gymnasiarchos"><w>γυμνασιαρχέσαντος</w></roleName>

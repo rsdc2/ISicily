@@ -195,9 +195,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#martaf #AA">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name>Ἐπαφρό<supplied reason="omitted">δ</supplied>ειτος</name></persName>
+                    <lb n="1"/><persName type="attested"><name><w>Ἐπαφρό<supplied reason="omitted">δ</supplied>ειτος</w></name></persName>
                     <lb n="2"/><w>ἔζησεν</w>
-                    <lb n="3"/><w>ἔτη</w> <g ref="#interpunct">·</g> <num value="60">ξ</num> <g ref="#interpunct">·</g>
+                    <lb n="3"/><w>ἔτη</w> <g ref="#interpunct">·</g> <num value="60"><w>ξ</w></num> <g ref="#interpunct">·</g>
                 </ab>
             </div>
             <div type="apparatus" resp="#martaf">

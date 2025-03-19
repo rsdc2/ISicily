@@ -191,7 +191,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#AA">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name><gap reason="lost" extent="unknown" unit="character"/><seg part="F">E<unclear>I</unclear></seg></name></persName>
+                    <lb n="1"/><persName type="attested"><name><w><gap reason="lost" extent="unknown" unit="character"/><seg part="F">E<unclear>I</unclear></seg></w></name></persName>
                     <lb n="2"/><gap reason="lost" quantity="1" unit="line"/>
                 </ab>
             </div>

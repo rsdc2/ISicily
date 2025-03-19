@@ -193,13 +193,13 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <name><expan><abbr>M</abbr><ex>anibus</ex></expan></name>
-                    <lb n="2"/><name><expan><abbr>M</abbr><ex>arcus</ex></expan></name> <g ref="#interpunct">·</g> <name>Aemilius</name>
-                    <lb n="3"/><name>Felicianus</name>
+                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <name><w><expan><abbr>M</abbr><ex>anibus</ex></expan></w></name>
+                    <lb n="2"/><name><w><expan><abbr>M</abbr><ex>arcus</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w>Aemilius</w></name>
+                    <lb n="3"/><name><w>Felicianus</w></name>
                     <lb n="4"/><w>scriba</w> <g ref="#interpunct">·</g> <w><expan><abbr>pub</abbr><ex>licus</ex></expan></w>
                     <lb n="5"/><w>fidelissimus</w>
-                    <lb n="6"/><w><expan><abbr>v</abbr><ex>ixit</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>a</abbr><ex>nnis</ex></expan></w> <g ref="#interpunct">·</g> <num value="43">XLIII</num>
-                    <lb n="7"/><name>Nonia</name> <name>Zosima</name>
+                    <lb n="6"/><w><expan><abbr>v</abbr><ex>ixit</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>a</abbr><ex>nnis</ex></expan></w> <g ref="#interpunct">·</g> <num value="43"><w>XLIII</w></num>
+                    <lb n="7"/><name><w>Nonia</w></name> <name><w>Zosima</w></name>
                     <lb n="8"/><w>marito</w> <g ref="#interpunct">·</g> <w><expan><abbr>b</abbr><ex>ene</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>m</abbr><ex>erenti</ex></expan></w>
                 </ab>
             </div>

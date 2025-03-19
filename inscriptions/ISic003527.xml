@@ -191,7 +191,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AL">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name type="praenomen"><expan><abbr>L</abbr><ex>ucius</ex></expan></name> <g ref="#interpunct">·</g> <name type="nomen">Avi<supplied reason="lost">llius</supplied></name></persName>
+                    <lb n="1"/><persName type="attested"><name type="praenomen"><w><expan><abbr>L</abbr><ex>ucius</ex></expan></w></name> <g ref="#interpunct">·</g> <name type="nomen"><w>Avi<supplied reason="lost">llius</supplied></w></name></persName>
                     <lb n="2"/><w>vi<unclear>v</unclear><supplied reason="lost">us</supplied></w>
                 </ab>
             </div>

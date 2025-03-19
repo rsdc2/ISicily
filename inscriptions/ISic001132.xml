@@ -252,13 +252,13 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1" xml:id="BNUAK"/><persName type="attested"><name><name xml:id="BNUAU">Δωρόθεος</name></name> <name><name part="I" xml:id="BNUAe">Λυσ</name><gap reason="lost" unit="character" atLeast="4" atMost="6" xml:id="BNUAo"/></name></persName>
-                    <lb n="2" xml:id="BNUAy"/><persName type="attested"><name><name xml:id="BNUAΙ">Ἄνταλλος</name></name> <name><name xml:id="BNUAΤ">Νύμφ<supplied reason="lost" xml:id="BNUAε">ωνος</supplied></name></name></persName>
+                    <lb n="1" xml:id="BNUAK"/><persName type="attested"><name><w><name xml:id="BNUAU"><w>Δωρόθεος</w></name></w></name> <name><w><name part="I" xml:id="BNUAe"><w>Λυσ</w></name><gap reason="lost" unit="character" atLeast="4" atMost="6" xml:id="BNUAo"/></w></name></persName>
+                    <lb n="2" xml:id="BNUAy"/><persName type="attested"><name><w><name xml:id="BNUAΙ"><w>Ἄνταλλος</w></name></w></name> <name><w><name xml:id="BNUAΤ"><w>Νύμφ<supplied reason="lost" xml:id="BNUAε">ωνος</supplied></w></name></w></name></persName>
                     <lb n="3" xml:id="BNUAο"/><roleName type="civic" subtype="agoranomos" xml:id="BNUBA"><w xml:id="BNUBK">ἀγορανομήσαν<supplied reason="lost" xml:id="BNUBe">τες</supplied></w></roleName>
-                    <lb n="4" xml:id="BNUBo"/><persName type="divine"><name><name xml:id="BNUBy">Ἀφροδίται</name></name></persName>
+                    <lb n="4" xml:id="BNUBo"/><persName type="divine"><name><w><name xml:id="BNUBy"><w>Ἀφροδίται</w></name></w></name></persName>
                     <lb n="5" xml:id="BNUBΙ"/><del rend="erasure" xml:id="BNUBΤ"><w xml:id="BNUBε">ἐκ</w> <w xml:id="BNUBκ">τοῦ</w> <w xml:id="BNUBλ"><unclear>δ</unclear><supplied reason="lost">ήμ</supplied>ο<supplied reason="lost">υ</supplied></w></del>
                     <lb n="6" xml:id="BNUBο"/><roleName type="civic" subtype="grammateus" xml:id="BNUCA"><w xml:id="BNUCK">γραμματεὺς</w></roleName>
-                    <lb n="7" xml:id="BNUCo"/><persName type="attested"><name><name xml:id="BNUCy">Ἀπο<unclear xml:id="BNUCΙ">λ</unclear>λόδωρος</name></name> <space unit="character" quantity="1"/><name><name xml:id="BNUCΤ">Φαλάκρου</name></name></persName>
+                    <lb n="7" xml:id="BNUCo"/><persName type="attested"><name><w><name xml:id="BNUCy"><w>Ἀπο<unclear xml:id="BNUCΙ">λ</unclear>λόδωρος</w></name></w></name> <space unit="character" quantity="1"/><name><w><name xml:id="BNUCΤ"><w>Φαλάκρου</w></name></w></name></persName>
                 </ab>
             </div>
             <div type="apparatus">

@@ -191,10 +191,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
-                    <lb n="1"/><w><supplied reason="lost">hic qu</supplied>iescet</w> <g ref="#interpunct">·</g> <w>puella</w> <name>Campana</name>
-                    <lb n="2"/><w><supplied reason="lost"><expan><abbr>qu</abbr><ex>a</ex><abbr>e</abbr></expan>vix</supplied>i<supplied reason="lost">t</supplied></w> <g ref="#interpunct">·</g> <w>annos</w> <g ref="#interpunct">·</g> <num value="16">sedecim</num> <g ref="#interpunct">·</g> <w>et</w>
-                    <lb n="3"/><w>dies</w> <g ref="#interpunct">·</g> <num value="21">XXI</num> <w>die</w> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="4"/><orig><hi rend="reversed">C</hi>C</orig><g ref="#interpunct">·</g> <orig>P</orig><orig>V</orig><name><expan><abbr>Kal</abbr><ex>endas</ex></expan></name> <g ref="#interpunct">·</g> <name>Augustas</name>
+                    <lb n="1"/><w><supplied reason="lost">hic qu</supplied>iescet</w> <g ref="#interpunct">·</g> <w>puella</w> <name><w>Campana</w></name>
+                    <lb n="2"/><w><supplied reason="lost"><expan><abbr>qu</abbr><ex>a</ex><abbr>e</abbr></expan>vix</supplied>i<supplied reason="lost">t</supplied></w> <g ref="#interpunct">·</g> <w>annos</w> <g ref="#interpunct">·</g> <num value="16"><w>sedecim</w></num> <g ref="#interpunct">·</g> <w>et</w>
+                    <lb n="3"/><w>dies</w> <g ref="#interpunct">·</g> <num value="21"><w>XXI</w></num> <w>die</w> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="4"/><orig><hi rend="reversed">C</hi>C</orig><g ref="#interpunct">·</g> <orig>P</orig><orig>V</orig><name><w><expan><abbr>Kal</abbr><ex>endas</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w>Augustas</w></name>
                 </ab>
             </div>
             <div type="apparatus">

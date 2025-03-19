@@ -187,11 +187,11 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
                     <lb n="1"/><supplied reason="lost"><g ref="#cross_latin">†</g></supplied> <w><supplied reason="lost">ἐνθ</supplied>άδε</w> <w>κῖτε</w> <w>ἡ</w> <w>πολ
-                    <lb n="2" break="no"/><supplied reason="lost">λῆς</supplied></w> <w><supplied reason="lost">μ</supplied>νήμης</w> <persName type="attested"><name>Σεβηρῖνα</name></persName>
-                    <lb n="3"/><w><supplied reason="lost">ἔζησ</supplied>ε</w> <num value="1">α</num> <w>ἔτη</w> <w><expan><abbr>πλέω</abbr><ex>ν</ex></expan></w> <w><expan><abbr>ἤ</abbr><ex>λα</ex><abbr>τ
+                    <lb n="2" break="no"/><supplied reason="lost">λῆς</supplied></w> <w><supplied reason="lost">μ</supplied>νήμης</w> <persName type="attested"><name><w>Σεβηρῖνα</w></name></persName>
+                    <lb n="3"/><w><supplied reason="lost">ἔζησ</supplied>ε</w> <num value="1"><w>α</w></num> <w>ἔτη</w> <w><expan><abbr>πλέω</abbr><ex>ν</ex></expan></w> <w><expan><abbr>ἤ</abbr><ex>λα</ex><abbr>τ
                     <lb n="4" break="no"/><supplied reason="lost">τον</supplied></abbr></expan></w> <w><unclear>ἐ</unclear>τελεύτα</w> <w>τῇ</w>
-                    <lb n="5"/><w><supplied reason="lost" cert="low">πρὸ</supplied></w> <foreign xml:lang="la"><num value="17"><supplied reason="lost">ΙΙ</supplied><unclear>Ι</unclear>ΧΧ</num></foreign> <w>καλανδῶν</w>
-                    <lb n="6"/><name><expan><abbr><supplied reason="lost" cert="low">Ὀκ</supplied>το</abbr><ex>β</ex><abbr>ρίων</abbr></expan></name>
+                    <lb n="5"/><w><supplied reason="lost" cert="low">πρὸ</supplied></w> <foreign xml:lang="la"><num value="17"><w><supplied reason="lost">ΙΙ</supplied><unclear>Ι</unclear>ΧΧ</w></num></foreign> <w>καλανδῶν</w>
+                    <lb n="6"/><name><w><expan><abbr><supplied reason="lost" cert="low">Ὀκ</supplied>το</abbr><ex>β</ex><abbr>ρίων</abbr></expan></w></name>
                 </ab>
             </div>
             <div type="apparatus">

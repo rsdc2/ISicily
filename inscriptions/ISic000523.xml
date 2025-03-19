@@ -191,9 +191,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#GC">
                 <ab>
-                    <lb n="1"/><name><expan><abbr>C</abbr><ex>aio</ex></expan></name> <g ref="#interpunct">·</g> <name>Curtio</name>
-                    <lb n="2"/><name>Threpto</name> <g ref="#interpunct">·</g> <w>filio</w>
-                    <lb n="3"/><name><expan><abbr>C</abbr><ex>aius</ex></expan></name> <g ref="#interpunct">·</g> <name>Curtius</name> <name>Threptu<supplied reason="lost">s</supplied></name>
+                    <lb n="1"/><name><w><expan><abbr>C</abbr><ex>aio</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w>Curtio</w></name>
+                    <lb n="2"/><name><w>Threpto</w></name> <g ref="#interpunct">·</g> <w>filio</w>
+                    <lb n="3"/><name><w><expan><abbr>C</abbr><ex>aius</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w>Curtius</w></name> <name><w>Threptu<supplied reason="lost">s</supplied></w></name>
                     <lb n="4"/><w>pater</w> <g ref="#interpunct">·</g> <w><expan><abbr>l</abbr><ex>oco</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>d</abbr><ex>ato</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>d</abbr><ex>ecreto</ex></expan></w> <g ref="#interpunct">·</g> <roleName type="civic" subtype="decurio"><w><expan><abbr>d</abbr><ex>ecurionum</ex></expan></w></roleName>
                 </ab>
             </div>

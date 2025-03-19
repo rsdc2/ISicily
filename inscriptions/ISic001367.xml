@@ -194,12 +194,12 @@
                 <ab>
                     <lb n="0"/><g ref="#staurogram">𐆠</g> <g ref="#staurogram">𐆠</g> <g ref="#staurogram">𐆠</g>
                     <lb n="1"/><w>Ἐνθάδε</w> <w>κῖτε</w>
-                    <lb n="2"/><name>Ῥοδίνη</name> <w>ἔζησεν</w>
+                    <lb n="2"/><name><w>Ῥοδίνη</w></name> <w>ἔζησεν</w>
                     <lb n="3"/><w>ἔτη</w> <w>εἴ<supplied reason="lost">κ</supplied>οσι</w> <w><expan><abbr>πέν</abbr><ex>τε</ex></expan></w>
                     <lb n="4"/><w>ἐτελεύτησεν</w>
-                    <lb n="5"/><w>δὲ</w> <w>τῇ</w> <w>πρὸ</w> <g ref="#interpunct">·</g> <num value="11"><hi rend="supraline">ι</hi><g ref="#interpunct">·</g><hi rend="supraline">α</hi></num> <g ref="#interpunct">·</g> <w>εἰ
-                    <lb n="6" break="no"/>δῶν</w> <name>Νοβεμβρί
-                    <lb n="7" break="no"/>ων</name> <space quantity="4" unit="character"/><g ref="#alpha">Α</g> <g ref="#christogram">☧</g> <g ref="#omega">Ω</g>
+                    <lb n="5"/><w>δὲ</w> <w>τῇ</w> <w>πρὸ</w> <g ref="#interpunct">·</g> <num value="11"><w><hi rend="supraline">ι</hi><g ref="#interpunct">·</g><hi rend="supraline">α</hi></w></num> <g ref="#interpunct">·</g> <w>εἰ
+                    <lb n="6" break="no"/>δῶν</w> <name><w>Νοβεμβρί
+                    <lb n="7" break="no"/>ων</w></name> <space quantity="4" unit="character"/><g ref="#alpha">Α</g> <g ref="#christogram">☧</g> <g ref="#omega">Ω</g>
                 </ab>
             </div>
             <div type="apparatus" resp="#JP">

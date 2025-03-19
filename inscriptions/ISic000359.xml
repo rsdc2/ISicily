@@ -195,10 +195,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#MH">
                 <ab>
-                    <lb n="1"/><w>Dis</w> <g ref="#interpunct">·</g> <name><expan><abbr>M</abbr><ex>anibus</ex></expan></name> <g ref="#interpunct">·</g> <w><expan><abbr>sac</abbr><ex>rum</ex></expan></w>
-                    <lb n="2"/><name><expan><abbr>L</abbr><ex>ucius</ex></expan></name> <g ref="#interpunct">·</g> <name>Luscius</name> <name><expan><abbr>Blast</abbr><ex>us</ex></expan></name>
+                    <lb n="1"/><w>Dis</w> <g ref="#interpunct">·</g> <name><w><expan><abbr>M</abbr><ex>anibus</ex></expan></w></name> <g ref="#interpunct">·</g> <w><expan><abbr>sac</abbr><ex>rum</ex></expan></w>
+                    <lb n="2"/><name><w><expan><abbr>L</abbr><ex>ucius</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w>Luscius</w></name> <name><w><expan><abbr>Blast</abbr><ex>us</ex></expan></w></name>
                     <lb n="3"/><w>primae</w> <w><expan><abbr>mat</abbr><ex>ri</ex></expan></w> <orig>B</orig>
-                    <lb n="4"/><w><expan><abbr>vix</abbr><ex>it</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>an</abbr><ex>nos</ex></expan></w> <g ref="#interpunct">·</g> <num value="45">XLV</num>
+                    <lb n="4"/><w><expan><abbr>vix</abbr><ex>it</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>an</abbr><ex>nos</ex></expan></w> <g ref="#interpunct">·</g> <num value="45"><w>XLV</w></num>
                 </ab>
             </div>
             <div type="apparatus">

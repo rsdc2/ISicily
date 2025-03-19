@@ -223,10 +223,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <name><expan><abbr>M</abbr><ex>anibus</ex></expan></name> <g ref="#interpunct">·</g>
-                    <lb n="2"/><persName type="attested"><name>Calbentius</name> <name>Motho</name></persName> <g ref="#interpunct">·</g> <w><expan><abbr>vix</abbr><ex>it</ex></expan></w> <g ref="#interpunct">·</g>
-                    <lb n="3"/><w>annos</w> <g ref="#interpunct">·</g> <num value="40">XXXX</num> <g ref="#interpunct">·</g> <persName type="attested"><name>Calbentia</name> <g ref="#ivy-leaf">❦</g>
-                    <lb n="4"/><name>Fortunata</name></persName> <g ref="#interpunct">·</g> <w>fratri</w> <g ref="#ivy-leaf">❦</g>
+                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <name><w><expan><abbr>M</abbr><ex>anibus</ex></expan></w></name> <g ref="#interpunct">·</g>
+                    <lb n="2"/><persName type="attested"><name><w>Calbentius</w></name> <name><w>Motho</w></name></persName> <g ref="#interpunct">·</g> <w><expan><abbr>vix</abbr><ex>it</ex></expan></w> <g ref="#interpunct">·</g>
+                    <lb n="3"/><w>annos</w> <g ref="#interpunct">·</g> <num value="40"><w>XXXX</w></num> <g ref="#interpunct">·</g> <persName type="attested"><name><w>Calbentia</w></name> <g ref="#ivy-leaf">❦</g>
+                    <lb n="4"/><name><w>Fortunata</w></name></persName> <g ref="#interpunct">·</g> <w>fratri</w> <g ref="#ivy-leaf">❦</g>
                     <lb n="5"/><w>suo</w> <g ref="#ivy-leaf">❦</g> <w>fecit</w> <g ref="#ivy-leaf">❦</g>
                 </ab>
              </div>

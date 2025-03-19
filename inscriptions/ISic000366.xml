@@ -212,9 +212,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>C</abbr><ex>ai</ex></expan></w> <g ref="#interpunct">·</g> <name>Po<unclear>m</unclear>pei</name> <name>Felic<hi rend="small">i</hi>s</name>
-                    <lb n="2"/><w>et</w> <name>Sc<unclear>r</unclear><supplied reason="lost">ib</supplied>oniae</name> <g ref="#interpunct">·</g> <name>Resti
-                    <lb n="3" break="no"/><unclear>t</unclear>utae</name> <g ref="#interpunct">·</g>
+                    <lb n="1"/><w><expan><abbr>C</abbr><ex>ai</ex></expan></w> <g ref="#interpunct">·</g> <name><w>Po<unclear>m</unclear>pei</w></name> <name><w>Felic<hi rend="small">i</hi>s</w></name>
+                    <lb n="2"/><w>et</w> <name><w>Sc<unclear>r</unclear><supplied reason="lost">ib</supplied>oniae</w></name> <g ref="#interpunct">·</g> <name><w>Resti
+                    <lb n="3" break="no"/><unclear>t</unclear>utae</w></name> <g ref="#interpunct">·</g>
                 </ab>
             </div>
             <div type="apparatus">

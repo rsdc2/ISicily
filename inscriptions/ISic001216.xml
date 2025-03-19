@@ -205,8 +205,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#MH #AA">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name>Ἐπαφρᾶ</name>
-                    <lb n="2"/><persName type="attested"><name type="libertinatio">Ἱρτιανο<unclear>ῦ</unclear></name></persName></persName>
+                    <lb n="1"/><persName type="attested"><name><w>Ἐπαφρᾶ</w></name>
+                    <lb n="2"/><persName type="attested"><name type="libertinatio"><w>Ἱρτιανο<unclear>ῦ</unclear></w></name></persName></persName>
                     <lb n="3"/><w><unclear>ἀπ</unclear>ελευ
                     <lb n="4" break="no"/><supplied reason="lost">θέρ</supplied><unclear>ου</unclear></w>
                 </ab>

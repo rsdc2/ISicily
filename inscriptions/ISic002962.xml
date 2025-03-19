@@ -193,8 +193,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>Q</abbr><ex>uintus</ex></expan></w> <g ref="#interpunct">·</g> <name><expan><abbr>Cornifici</abbr><ex>us</ex></expan></name> <g ref="#interpunct">·</g>
-                    <lb n="2"/><name><expan><abbr>Q</abbr><ex>uinti</ex></expan></name> <g ref="#interpunct">·</g> <w><expan><abbr>l<hi rend="apex">i</hi>b</abbr><ex>ertus</ex></expan></w> <g ref="#interpunct">·</g> <name>Hermes</name> <g ref="#interpunct">·</g>
+                    <lb n="1"/><w><expan><abbr>Q</abbr><ex>uintus</ex></expan></w> <g ref="#interpunct">·</g> <name><w><expan><abbr>Cornifici</abbr><ex>us</ex></expan></w></name> <g ref="#interpunct">·</g>
+                    <lb n="2"/><name><w><expan><abbr>Q</abbr><ex>uinti</ex></expan></w></name> <g ref="#interpunct">·</g> <w><expan><abbr>l<hi rend="apex">i</hi>b</abbr><ex>ertus</ex></expan></w> <g ref="#interpunct">·</g> <name><w>Hermes</w></name> <g ref="#interpunct">·</g>
                     <lb n="3"/><w>pie</w> <g ref="#interpunct">·</g> <w>salve</w> <g ref="#interpunct">·</g>
                 </ab>
             </div>

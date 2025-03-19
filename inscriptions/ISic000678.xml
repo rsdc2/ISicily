@@ -195,9 +195,9 @@
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
                     <lb n="0"/><gap reason="lost" extent="unknown" unit="line"/>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w>di<supplied reason="lost">vi</supplied></w> <supplied reason="lost"><name><expan><abbr>M</abbr><ex>arci</ex></expan></name></supplied> <supplied reason="lost"><name><expan><abbr>Aur</abbr><ex>eli</ex></expan></name></supplied>
-                    <lb n="2"/><name><supplied reason="lost">Anton</supplied>ini</name> <name>Pii</name> <name><expan><abbr>Germ</abbr><ex>anici</ex></expan></name> <name><supplied reason="lost"><expan><abbr>Sarm</abbr><ex>atici</ex></expan></supplied></name>
-                    <lb n="3"/><w><supplied reason="lost" cert="low"><expan><abbr>fil</abbr><ex>ii</ex></expan></supplied></w> <w><supplied reason="lost">divi</supplied></w> <name><supplied reason="lost">A</supplied>ntonini</name> <name>P<supplied reason="lost">ii</supplied></name> <w><supplied reason="lost"><expan><abbr cert="low">nep</abbr><ex>otis</ex></expan></supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w>di<supplied reason="lost">vi</supplied></w> <supplied reason="lost"><name><w><expan><abbr>M</abbr><ex>arci</ex></expan></w></name></supplied> <supplied reason="lost"><name><w><expan><abbr>Aur</abbr><ex>eli</ex></expan></w></name></supplied>
+                    <lb n="2"/><name><w><supplied reason="lost">Anton</supplied>ini</w></name> <name><w>Pii</w></name> <name><w><expan><abbr>Germ</abbr><ex>anici</ex></expan></w></name> <name><w><supplied reason="lost"><expan><abbr>Sarm</abbr><ex>atici</ex></expan></supplied></w></name>
+                    <lb n="3"/><w><supplied reason="lost" cert="low"><expan><abbr>fil</abbr><ex>ii</ex></expan></supplied></w> <w><supplied reason="lost">divi</supplied></w> <name><w><supplied reason="lost">A</supplied>ntonini</w></name> <name><w>P<supplied reason="lost">ii</supplied></w></name> <w><supplied reason="lost"><expan><abbr cert="low">nep</abbr><ex>otis</ex></expan></supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="0"/><gap reason="lost" extent="unknown" unit="line"/>
                 </ab>
             </div>

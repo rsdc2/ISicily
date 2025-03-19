@@ -175,7 +175,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="attested"><name><seg part="F">νδᾱι</seg></name></persName> <w>εἰμὶ</w> <w>καριμαίο̄ι</w>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="attested"><name><w><seg part="F">νδᾱι</seg></w></name></persName> <w>εἰμὶ</w> <w>καριμαίο̄ι</w>
                 </ab>
             </div>
             <div type="apparatus">

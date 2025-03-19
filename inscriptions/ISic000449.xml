@@ -197,11 +197,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la">
                 <ab>
-                    <lb n="1"/><w><supplied reason="lost">hic</supplied></w> <w><supplied reason="lost">pos</supplied>ita</w> <g ref="#interpunct">·</g> <name>Aurel<hi rend="subscript">i</hi><hi rend="supercript">a</hi></name>
+                    <lb n="1"/><w><supplied reason="lost">hic</supplied></w> <w><supplied reason="lost">pos</supplied>ita</w> <g ref="#interpunct">·</g> <name><w>Aurel<hi rend="subscript">i</hi><hi rend="supercript">a</hi></w></name>
                     <lb n="2"/><w><supplied reason="lost">quae</supplied></w> <w><supplied reason="lost">vix</supplied>it</w> <w>annos</w>
-                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <num atLeast="3" atMost="99">III</num> <g ref="#interpunct">·</g> <w>bene</w> <g ref="#palm"/>
+                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <num atLeast="3" atMost="99"><w>III</w></num> <g ref="#interpunct">·</g> <w>bene</w> <g ref="#palm"/>
                     <lb n="4"/><w><supplied reason="lost">requies</supplied>ce</w> <g ref="#christogram"/>
-                    <lb n="5"/><w><supplied reason="lost">in</supplied></w> <w><supplied reason="lost">pace</supplied></w> <name><supplied reason="lost">Se</supplied>rtoria</name>
+                    <lb n="5"/><w><supplied reason="lost">in</supplied></w> <w><supplied reason="lost">pace</supplied></w> <name><w><supplied reason="lost">Se</supplied>rtoria</w></name>
                 </ab>
             </div>
             <div type="apparatus">

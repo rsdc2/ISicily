@@ -174,7 +174,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/><w>Μολ</w> <gap reason="lost" extent="unknown" unit="character"/> <gap reason="illegible" quantity="1" unit="character"/> <persName type="attested"><name>Πόλυς</name></persName>
+                    <lb n="1"/><w>Μολ</w> <gap reason="lost" extent="unknown" unit="character"/> <gap reason="illegible" quantity="1" unit="character"/> <persName type="attested"><name><w>Πόλυς</w></name></persName>
                 </ab>
             </div>
             <div type="apparatus">

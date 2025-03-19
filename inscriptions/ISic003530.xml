@@ -190,10 +190,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1"/><w><supplied reason="lost"><expan><abbr>Θ</abbr><ex>εοῖς</ex></expan></supplied></w> <space unit="character" extent="unknown"/><name><expan><abbr>Κ</abbr><ex>αταχθονίοις</ex></expan></name>
-                    <lb n="2"/><name><supplied reason="lost" cert="low"><expan><abbr>Κλ</abbr><ex>ώδιος</ex></expan></supplied></name> <name><unclear>Ῥ</unclear>ωμανὸς</name>
-                    <lb n="3"/><w><expan><abbr>ἔζ</abbr><ex>ησεν</ex></expan></w> <g ref="#ivy-leaf">❦</g> <w><expan><abbr><supplied reason="lost">ἔ</supplied>τ</abbr><ex>η</ex></expan></w> <g ref="#ivy-leaf">❦</g> <num value="1">α</num> <g ref="#ivy-leaf">❦</g> <w><expan><abbr>μ</abbr><ex>ῆνας</ex></expan></w> <g ref="#ivy-leaf">❦</g> <num atLeast="1" atMost="12"><gap reason="illegible" unit="character" quantity="1"/></num> <g ref="#ivy-leaf">❦</g> <w><expan><abbr>ἡ</abbr><ex>μέρας</ex></expan></w> <g ref="#ivy-leaf">❦</g> <num value="28">κη</num>
-                    <lb n="4"/><name><expan><abbr>Κλ</abbr><ex>ώδιος</ex></expan></name> <g ref="#ivy-leaf">❦</g> <name>Θησεὺς</name> <g ref="#ivy-leaf">❦</g> <w>πατ<hi rend="ligature">ὴρ</hi></w>
+                    <lb n="1"/><w><supplied reason="lost"><expan><abbr>Θ</abbr><ex>εοῖς</ex></expan></supplied></w> <space unit="character" extent="unknown"/><name><w><expan><abbr>Κ</abbr><ex>αταχθονίοις</ex></expan></w></name>
+                    <lb n="2"/><name><w><supplied reason="lost" cert="low"><expan><abbr>Κλ</abbr><ex>ώδιος</ex></expan></supplied></w></name> <name><w><unclear>Ῥ</unclear>ωμανὸς</w></name>
+                    <lb n="3"/><w><expan><abbr>ἔζ</abbr><ex>ησεν</ex></expan></w> <g ref="#ivy-leaf">❦</g> <w><expan><abbr><supplied reason="lost">ἔ</supplied>τ</abbr><ex>η</ex></expan></w> <g ref="#ivy-leaf">❦</g> <num value="1"><w>α</w></num> <g ref="#ivy-leaf">❦</g> <w><expan><abbr>μ</abbr><ex>ῆνας</ex></expan></w> <g ref="#ivy-leaf">❦</g> <num atLeast="1" atMost="12"><w><gap reason="illegible" unit="character" quantity="1"/></w></num> <g ref="#ivy-leaf">❦</g> <w><expan><abbr>ἡ</abbr><ex>μέρας</ex></expan></w> <g ref="#ivy-leaf">❦</g> <num value="28"><w>κη</w></num>
+                    <lb n="4"/><name><w><expan><abbr>Κλ</abbr><ex>ώδιος</ex></expan></w></name> <g ref="#ivy-leaf">❦</g> <name><w>Θησεὺς</w></name> <g ref="#ivy-leaf">❦</g> <w>πατ<hi rend="ligature">ὴρ</hi></w>
                     <lb n="5"/><supplied reason="lost"><space unit="character" quantity="3"/></supplied> <w><expan><abbr>τέκ</abbr><ex>νῳ</ex></expan></w> <g ref="#ivy-leaf">❦</g> <w><expan><abbr>γλυκυτάτ</abbr><ex>ῳ</ex></expan></w>
                 </ab>
             </div>

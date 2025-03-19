@@ -205,8 +205,8 @@
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#VM #AA">
                 <ab>
                     <lb n="1"/><w>ex</w> <g ref="#interpunct">·</g> <w><expan><abbr>d</abbr><ex>ecreto</ex></expan></w> <g ref="#interpunct">·</g> <roleName type="civic" subtype="decurio"><w><expan><abbr>d</abbr><ex>ecurionum</ex></expan></w></roleName>
-                    <lb n="2"/><w><expan><abbr>l</abbr><ex>ocus</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>p</abbr><ex>ublice</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>d</abbr><ex>atus</ex></expan></w> <persName type="attested"><name><expan><abbr>P</abbr><ex>ublio</ex></expan></name> <name>Lo<gap reason="lost" extent="unknown" unit="character"/></name></persName>
-                    <lb n="3"/><num value="35">XXXV</num>
+                    <lb n="2"/><w><expan><abbr>l</abbr><ex>ocus</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>p</abbr><ex>ublice</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>d</abbr><ex>atus</ex></expan></w> <persName type="attested"><name><w><expan><abbr>P</abbr><ex>ublio</ex></expan></w></name> <name><w>Lo<gap reason="lost" extent="unknown" unit="character"/></w></name></persName>
+                    <lb n="3"/><num value="35"><w>XXXV</w></num>
                 </ab>
             </div>
             <div type="apparatus">

@@ -193,9 +193,9 @@
             <div type="edition" xml:space="preserve" xml:lang="la">
                 <ab>
                     <lb n="1"/><gap reason="lost" quantity="1" unit="line"/>
-                    <lb n="2"/><w><expan><abbr>D</abbr><ex>ecimus</ex></expan></w> <g ref="#interpunct">·</g> <name>Vi<unclear>b</unclear></name> <gap reason="lost" extent="unknown" unit="character"/> <w>i</w>
+                    <lb n="2"/><w><expan><abbr>D</abbr><ex>ecimus</ex></expan></w> <g ref="#interpunct">·</g> <name><w>Vi<unclear>b</unclear></w></name> <gap reason="lost" extent="unknown" unit="character"/> <w>i</w>
                     <lb n="3"/><w>vix<unclear>i</unclear><supplied reason="lost">t</supplied></w>
-                    <lb n="4"/><w>annos</w> <gap reason="lost" extent="unknown" unit="character"/> <g ref="#interpunct">·</g> <gap reason="lost" extent="unknown" unit="character"/> <num value="33">X<supplied reason="lost">X</supplied>XIII</num>
+                    <lb n="4"/><w>annos</w> <gap reason="lost" extent="unknown" unit="character"/> <g ref="#interpunct">·</g> <gap reason="lost" extent="unknown" unit="character"/> <num value="33"><w>X<supplied reason="lost">X</supplied>XIII</w></num>
                 </ab>
             </div>
             <div type="apparatus">

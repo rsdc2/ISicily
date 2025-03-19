@@ -193,11 +193,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la">
                 <ab>
-                    <lb n="1"/><w>hic</w> <g ref="#interpunct">·</g> <w>posita</w> <g ref="#interpunct">·</g> <w>est</w> <name>Silbana</name>
+                    <lb n="1"/><w>hic</w> <g ref="#interpunct">·</g> <w>posita</w> <g ref="#interpunct">·</g> <w>est</w> <name><w>Silbana</w></name>
                     <lb n="2"/><w>quae</w> <w>quiescit</w> <w>in</w> <w>pace</w>
-                    <lb n="3"/><w>deposita</w> <w>est</w> <g ref="#interpunct">·</g> <num value="11">XI</num> <name><expan><abbr>Kal</abbr><ex>enda</ex><abbr>s</abbr></expan></name>
-                    <lb n="4"/><w><choice><orig>decebris</orig><reg>decembres</reg></choice></w> <w><expan><abbr>c<am><g ref="#interpunct">·</g>c</am></abbr><ex>on</ex><abbr><am><g ref="#interpunct">·</g>s</am>s</abbr><ex>ulibus</ex></expan></w> <g ref="#interpunct">·</g> <name><expan><abbr>Fl</abbr><ex>a</ex><abbr>b</abbr><ex>iis</ex></expan></name>
-                    <lb n="5"/><name>Basso</name> <g ref="#interpunct">·</g> <w>et</w> <name>Anthioco</name> <g ref="#interpunct">·</g> <w><expan><abbr>v<am>v</am></abbr><ex>iris</ex></expan></w> <g ref="#interpunct">·</g> <roleName type="supracivic" subtype="clarissimus"><w><expan><abbr>c<am>c</am></abbr><ex>larissimis</ex></expan></w></roleName> <g ref="#interpunct">·</g>
+                    <lb n="3"/><w>deposita</w> <w>est</w> <g ref="#interpunct">·</g> <num value="11"><w>XI</w></num> <name><w><expan><abbr>Kal</abbr><ex>enda</ex><abbr>s</abbr></expan></w></name>
+                    <lb n="4"/><w><choice><orig>decebris</orig><reg>decembres</reg></choice></w> <w><expan><abbr>c<am><g ref="#interpunct">·</g>c</am></abbr><ex>on</ex><abbr><am><g ref="#interpunct">·</g>s</am>s</abbr><ex>ulibus</ex></expan></w> <g ref="#interpunct">·</g> <name><w><expan><abbr>Fl</abbr><ex>a</ex><abbr>b</abbr><ex>iis</ex></expan></w></name>
+                    <lb n="5"/><name><w>Basso</w></name> <g ref="#interpunct">·</g> <w>et</w> <name><w>Anthioco</w></name> <g ref="#interpunct">·</g> <w><expan><abbr>v<am>v</am></abbr><ex>iris</ex></expan></w> <g ref="#interpunct">·</g> <roleName type="supracivic" subtype="clarissimus"><w><expan><abbr>c<am>c</am></abbr><ex>larissimis</ex></expan></w></roleName> <g ref="#interpunct">·</g>
                 </ab>
             </div>
             <div type="apparatus">

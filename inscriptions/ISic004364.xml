@@ -194,11 +194,11 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
                     <lb n="1"/><w><expan><abbr>θ</abbr><ex>εοῖς</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>κ</abbr><ex>αταχθονίοις</ex></expan></w> <g ref="#interpunct">·</g>
-                    <lb n="2"/><persName type="attested"><name>Σόλων</name></persName>
+                    <lb n="2"/><persName type="attested"><name><w>Σόλων</w></name></persName>
                     <lb n="3"/><w>χρηστὲ</w> <g ref="#interpunct">·</g>
                     <lb n="4"/><w>χαῖρε</w> <g ref="#interpunct">·</g> <w>ἔζη
                     <lb n="5" break="no"/>σες</w> <w>ἔτη</w>
-                    <lb n="6"/><g ref="#interpunct">·</g> <num value="18">ιη</num> <g ref="#interpunct">·</g>
+                    <lb n="6"/><g ref="#interpunct">·</g> <num value="18"><w>ιη</w></num> <g ref="#interpunct">·</g>
                 </ab>
             </div>
             <div type="apparatus" resp="#JP">

@@ -191,11 +191,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
-                    <lb n="1"/><name>Licinia</name> <g ref="#interpunct">·</g> <name>Mecisto</name>
-                    <lb n="2"/><name><expan><abbr>Q</abbr><ex>uinto</ex></expan></name> <g ref="#interpunct">·</g> <name>Manlio</name> <g ref="#interpunct">·</g> <name>Viro</name>
-                    <lb n="3"/><name><expan><abbr>Q</abbr><ex>uinto</ex></expan></name> <g ref="#interpunct">·</g> <name>Manlio</name> <g ref="#interpunct">·</g> <name>Fron
-                    <lb n="4" break="no"/>toni</name> <g ref="#interpunct">·</g> <name><expan><abbr>f</abbr><ex>iliis</ex></expan></name> <g ref="#interpunct">·</g> <name>Manli<hi rend="ligature">ae</hi></name>
-                    <lb n="5"/><name><expan><abbr>f</abbr><ex>iliae</ex></expan></name>
+                    <lb n="1"/><name><w>Licinia</w></name> <g ref="#interpunct">·</g> <name><w>Mecisto</w></name>
+                    <lb n="2"/><name><w><expan><abbr>Q</abbr><ex>uinto</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w>Manlio</w></name> <g ref="#interpunct">·</g> <name><w>Viro</w></name>
+                    <lb n="3"/><name><w><expan><abbr>Q</abbr><ex>uinto</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w>Manlio</w></name> <g ref="#interpunct">·</g> <name><w>Fron
+                    <lb n="4" break="no"/>toni</w></name> <g ref="#interpunct">·</g> <name><w><expan><abbr>f</abbr><ex>iliis</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w>Manli<hi rend="ligature">ae</hi></w></name>
+                    <lb n="5"/><name><w><expan><abbr>f</abbr><ex>iliae</ex></expan></w></name>
                 </ab>
             </div>
             <div type="apparatus">

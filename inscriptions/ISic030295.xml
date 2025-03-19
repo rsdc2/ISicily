@@ -180,13 +180,13 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
                     <lb n="1"/><w>ἐπὶ</w> <w>ἱερομνάμονος</w>
-                    <lb n="2"/><persName type="attested"><name>Λευκίου</name> <w>τοῦ</w> <persName type="attested"><name type="patronym">Πακκίου</name></persName></persName>
-                    <lb n="3"/><name>Εὐμενιδείου</name> <w>ἕκται</w> <w>ἐφ᾿</w> <w>ἱκάδα</w>
+                    <lb n="2"/><persName type="attested"><name><w>Λευκίου</w></name> <w>τοῦ</w> <persName type="attested"><name type="patronym"><w>Πακκίου</w></name></persName></persName>
+                    <lb n="3"/><name><w>Εὐμενιδείου</w></name> <w>ἕκται</w> <w>ἐφ᾿</w> <w>ἱκάδα</w>
                     <lb n="4"/><w>ἔδοξε</w> <w>τᾶι</w> <w>ἁλίαι</w> <w>καθὰ</w> <w>καὶ</w> <w>τᾶι</w> <w>βου
-                    <lb n="5" break="no"/>λᾶι</w> <w>ἐπειδὴ</w> <w>οἱ</w> <placeName type="ethnic"><name>Γελῶιοι</name></placeName> <w>ὅκα</w> <w>τε</w> <w>τὸ</w>
+                    <lb n="5" break="no"/>λᾶι</w> <w>ἐπειδὴ</w> <w>οἱ</w> <placeName type="ethnic"><name><w>Γελῶιοι</w></name></placeName> <w>ὅκα</w> <w>τε</w> <w>τὸ</w>
                     <lb n="6"/><w>πρότερον</w> <w>τὰμ</w> <w>πόλιν</w> <w>ταύταν</w> <w>ὠ<supplied reason="lost">ι</supplied>
                     <lb n="7" break="no"/><unclear>κ</unclear>έομες</w> <w>πολέμου</w> <w>κατασταθέν
-                    <lb n="8" break="no"/>τος</w> <w>ποτὶ</w> <placeName type="ethnic"><name>Καρχαδονίους</name></placeName> <w>ἐβοαθό
+                    <lb n="8" break="no"/>τος</w> <w>ποτὶ</w> <placeName type="ethnic"><name><w>Καρχαδονίους</w></name></placeName> <w>ἐβοαθό
                     <lb n="9" break="no"/>ησαν</w> <w>τᾶι</w> <w>πόλει</w> <w>τᾶι</w> <w>ἁμᾶι</w> <w>ἱππέεσ
                     <lb n="10" break="no"/>σι</w> <w>καὶ</w> <w>πεζοῖς</w> <w>ἐνόρκιοί</w> <w>τε</w> <w>ἐγένον
                     <lb n="11" break="no"/>το</w> <w>καὶ</w> <w>συνεβάλοντο</w> <w>συμμαχίαν</w>
@@ -195,17 +195,17 @@
                     <lb n="14" break="no"/>οῦντι</w> <w>ὅτι</w> <w>μέμνανται</w> <w>τᾶς</w> <w>φιλίας</w>
                     <lb n="15"/><w>καὶ</w> <w>εὐνοίας</w> <w>τᾶς</w> <w>ποτὶ</w> <w>ἁμέ</w> <w>δεδό
                     <lb n="16" break="no"/>χθαι</w> <w>ἀναθέμειν</w> <w>εἰς</w> <w>χάλκωμα</w>
-                    <lb n="17"/><w>γράψαντας</w> <w>εἰς</w> <w>τὸ</w> <w>ἱερὸν</w> <w>τᾶς</w> <name>Ἱστ<supplied reason="lost">ί</supplied>
-                    <lb n="18" break="no"/><unclear>α</unclear>ς</name> <w>τὰν</w> <w>εὔνοιαν</w> <w>καὶ</w> <w>συμμαχί
+                    <lb n="17"/><w>γράψαντας</w> <w>εἰς</w> <w>τὸ</w> <w>ἱερὸν</w> <w>τᾶς</w> <name><w>Ἱστ<supplied reason="lost">ί</supplied>
+                    <lb n="18" break="no"/><unclear>α</unclear>ς</w></name> <w>τὰν</w> <w>εὔνοιαν</w> <w>καὶ</w> <w>συμμαχί
                     <lb n="19" break="no"/>αν</w> <w>τὰν</w> <w>ὑπάρχουσαν</w> <w>ἁμῖν</w> <w>ποτὶ</w>
-                    <lb n="20"/><w>τοὺς</w> <placeName type="ethnic"><name>Γελώιους</name></placeName> <w>καὶ</w> <w>κατακαλεῖ
+                    <lb n="20"/><w>τοὺς</w> <placeName type="ethnic"><name><w>Γελώιους</w></name></placeName> <w>καὶ</w> <w>κατακαλεῖ
                     <lb n="21" break="no"/>σθαι</w> <w>αὐτοὺς</w> <w>εἰς</w> <w>τοὺς</w> <w>ἀγῶνας</w> <w>καὶ</w>
                     <lb n="22"/><w>συνθύειν</w> <w>αὐτοῖς</w> <w>ὅπως</w> <w>εἰς</w> <w>τὸ</w> <w>ἐμ
                     <lb n="23" break="no"/>φανὲς</w> <w>ποιῶμες</w> <w>τοῖς</w> <w>ἐπιγινομέ
                     <lb n="24" break="no"/><supplied reason="lost">νοι</supplied>ς</w> <w>ὅ<supplied reason="lost">τ</supplied>ι</w> <w>μνάμαν</w> <w>ἔχομες</w> <w>τῶν</w> <w>τᾶι</w>
                     <lb n="25"/><w>πόλει</w> <w>τᾶι</w> <w>ἁμᾶι</w> <w>τὰς</w> <w>χρείας</w> <w>παρ
                     <lb n="26" break="no"/>ισχημένων</w>
-                    <lb n="27"/><space unit="character" quantity="4"/><placeName type="ethnic"><name>Γελώιων</name></placeName>
+                    <lb n="27"/><space unit="character" quantity="4"/><placeName type="ethnic"><name><w>Γελώιων</w></name></placeName>
                 </ab>
             </div>
             <div type="apparatus" resp="#JP">

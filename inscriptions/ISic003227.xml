@@ -195,8 +195,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
-                    <lb n="1"/><w>Diis</w> <name>Ma<supplied reason="lost">nibus</supplied></name>
-                    <lb n="2"/><name>Domitiae</name> <g ref="#interpunct">·</g> <name><expan><abbr>L</abbr><ex>uci</ex></expan></name> <g ref="#interpunct">·</g> <gap reason="illegible" quantity="1" unit="character"/> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><w>Diis</w> <name><w>Ma<supplied reason="lost">nibus</supplied></w></name>
+                    <lb n="2"/><name><w>Domitiae</w></name> <g ref="#interpunct">·</g> <name><w><expan><abbr>L</abbr><ex>uci</ex></expan></w></name> <g ref="#interpunct">·</g> <gap reason="illegible" quantity="1" unit="character"/> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>
             <div type="apparatus">

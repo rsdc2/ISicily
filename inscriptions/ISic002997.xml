@@ -206,22 +206,22 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/><w>ἐπὶ</w> <roleName type="supracivic" subtype="consul"><w>ὑπάτων</w></roleName> <name><expan><abbr>Γ</abbr><ex>αΐου</ex></expan></name> <g ref="#interpunct">·</g> <name>Κεστί
-                    <lb n="2" break="no"/>ου</name> <name><expan><abbr>Μ</abbr><ex>άρκου</ex></expan></name> <name>Σερουιλίου</name> <name>Νω
-                    <lb n="3" break="no"/>νιανοῦ</name> <g ref="#interpunct">·</g> <roleName type="civic.religious" subtype="amphipolos"><w>ἀμφιπόλου</w></roleName> <w>δὲ</w>
-                    <lb n="4"/><w>ἐν</w> <name>Συρακούσαις</name> <g ref="#interpunct">·</g> <name><expan><abbr>Α</abbr><ex>ὔλου</ex></expan></name> <g ref="#interpunct">·</g> <name>Βαλερί
-                    <lb n="5" break="no"/>ου</name> <name>Ἀραβικοῦ</name> <w>τᾶν</w> <w>δὲ</w> <name>Παί
-                    <lb n="6" break="no"/>δων</name> <g ref="#interpunct">·</g> <name><expan><abbr>Λ</abbr><ex>ουκίου</ex></expan></name> <g ref="#interpunct">·</g> <name>Βηβηίου</name> <name>Κλάδου</name>
-                    <lb n="7"/><roleName type="civic.religious" subtype="hiereus"><w>ἱερείας</w></roleName> <w>δὲ</w> <name>Κλωδίας</name> <name>Πώλ
-                    <lb n="8" break="no"/>λας</name> <w>μηνὸς</w> <name>Πανάμου
-                    <lb n="9" break="no"/></name> <num value="26">ϛκ</num> <w>παρεγένοντο</w> <w>πρὸς</w>
-                    <lb n="10"/><w>τὰς</w> <name>Παῖδας</name> <w>μετὰ</w> <name>Αὐλί<supplied reason="lost">ας</supplied></name>
-                    <lb n="11"/><name>Τίτου</name> <w>θυγατέρ<supplied reason="lost">ος</supplied></w> <name>Φαβία</name>
-                    <lb n="12"/><name>Σφονγέος</name> <w>ἡ</w> <w>μήτη<supplied reason="lost">ρ</supplied></w> <w>καὶ</w> <name>Φ<supplied reason="lost">άβιλ</supplied>
-                    <lb n="13" break="no"/>λα</name> <w>θυγάτηρ</w> <w>καὶ</w> <name>Ἀπία</name> <w><supplied reason="lost">τῇ</supplied></w>
+                    <lb n="1"/><w>ἐπὶ</w> <roleName type="supracivic" subtype="consul"><w>ὑπάτων</w></roleName> <name><w><expan><abbr>Γ</abbr><ex>αΐου</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w>Κεστί
+                    <lb n="2" break="no"/>ου</w></name> <name><w><expan><abbr>Μ</abbr><ex>άρκου</ex></expan></w></name> <name><w>Σερουιλίου</w></name> <name><w>Νω
+                    <lb n="3" break="no"/>νιανοῦ</w></name> <g ref="#interpunct">·</g> <roleName type="civic.religious" subtype="amphipolos"><w>ἀμφιπόλου</w></roleName> <w>δὲ</w>
+                    <lb n="4"/><w>ἐν</w> <name><w>Συρακούσαις</w></name> <g ref="#interpunct">·</g> <name><w><expan><abbr>Α</abbr><ex>ὔλου</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w>Βαλερί
+                    <lb n="5" break="no"/>ου</w></name> <name><w>Ἀραβικοῦ</w></name> <w>τᾶν</w> <w>δὲ</w> <name><w>Παί
+                    <lb n="6" break="no"/>δων</w></name> <g ref="#interpunct">·</g> <name><w><expan><abbr>Λ</abbr><ex>ουκίου</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w>Βηβηίου</w></name> <name><w>Κλάδου</w></name>
+                    <lb n="7"/><roleName type="civic.religious" subtype="hiereus"><w>ἱερείας</w></roleName> <w>δὲ</w> <name><w>Κλωδίας</w></name> <name><w>Πώλ
+                    <lb n="8" break="no"/>λας</w></name> <w>μηνὸς</w> <name><w>Πανάμου
+                    <lb n="9" break="no"/></w></name> <num value="26"><w>ϛκ</w></num> <w>παρεγένοντο</w> <w>πρὸς</w>
+                    <lb n="10"/><w>τὰς</w> <name><w>Παῖδας</w></name> <w>μετὰ</w> <name><w>Αὐλί<supplied reason="lost">ας</supplied></w></name>
+                    <lb n="11"/><name><w>Τίτου</w></name> <w>θυγατέρ<supplied reason="lost">ος</supplied></w> <name><w>Φαβία</w></name>
+                    <lb n="12"/><name><w>Σφονγέος</w></name> <w>ἡ</w> <w>μήτη<supplied reason="lost">ρ</supplied></w> <w>καὶ</w> <name><w>Φ<supplied reason="lost">άβιλ</supplied>
+                    <lb n="13" break="no"/>λα</w></name> <w>θυγάτηρ</w> <w>καὶ</w> <name><w>Ἀπία</w></name> <w><supplied reason="lost">τῇ</supplied></w>
                     <lb n="14"/><w>τριακάδι</w> <w>εὐφρανθ<supplied reason="lost">έντες</supplied></w>
-                    <lb n="15"/><w>καὶ</w> <w>εὐχαριστοῦ<supplied reason="omitted">ν</supplied>τες</w> <name>Ἀ<supplied reason="lost">πόλ</supplied>
-                    <lb n="16" break="no"/>λωνι</name> <w>καὶ</w> <name>Παίδε<supplied reason="lost">σσι</supplied></name>
+                    <lb n="15"/><w>καὶ</w> <w>εὐχαριστοῦ<supplied reason="omitted">ν</supplied>τες</w> <name><w>Ἀ<supplied reason="lost">πόλ</supplied>
+                    <lb n="16" break="no"/>λωνι</w></name> <w>καὶ</w> <name><w>Παίδε<supplied reason="lost">σσι</supplied></w></name>
                 </ab>
             </div>
             <div type="apparatus">

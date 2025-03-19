@@ -188,9 +188,9 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
                     <lb n="1"/><w><supplied reason="lost">πρ</supplied>ὸ</w> <w>ὀκτὼ</w> <w>καλανδῶν</w>
-                    <lb n="2"/><name><hi rend="ligature">Ἰε</hi>ναρίων</name> <w>ἡ<unclear>μ</unclear><supplied reason="lost">έρ</supplied>ᾳ</w> <name>Σε<supplied reason="lost">λ</supplied></name>
+                    <lb n="2"/><name><w><hi rend="ligature">Ἰε</hi>ναρίων</w></name> <w>ἡ<unclear>μ</unclear><supplied reason="lost">έρ</supplied>ᾳ</w> <name><w>Σε<supplied reason="lost">λ</supplied></w></name>
                     <lb n="3"/><w>ήνης</w> <w>ἐτελεύτησεν</w>
-                    <lb n="4"/><persName type="attested"><name>Εὐάγριος</name></persName> <w>ἐτῶν</w> <w><choice><orig><num value="20">ἴκοσι</num></orig><reg>εἴκοσι</reg></choice>ἡμε<supplied reason="lost">ρῶν</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="4"/><persName type="attested"><name><w>Εὐάγριος</w></name></persName> <w>ἐτῶν</w> <w><choice><orig><num value="20"><w>ἴκοσι</w></num></orig><reg>εἴκοσι</reg></choice>ἡμε<supplied reason="lost">ρῶν</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>
             <div type="apparatus" resp="#JP">

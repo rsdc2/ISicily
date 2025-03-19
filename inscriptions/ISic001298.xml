@@ -194,7 +194,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#martaf">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name>Εὐπορίου</name></persName>
+                    <lb n="1"/><persName type="attested"><name><w>Εὐπορίου</w></name></persName>
                 </ab>
             </div>
             <div type="apparatus" resp="#martaf">

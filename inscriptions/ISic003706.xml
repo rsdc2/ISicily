@@ -187,8 +187,8 @@
         <body>
             <div type="edition" xml:space="preserve" subtype="PHI" n="PHI178091">
                 <ab>
-                    <lb n="1"/><w>Βώηθο[ς</w> <w><surplus>²⁶Βόηθος</surplus>²⁶</w> <name>—</name> <name>—]</name>
-                    <lb n="2"/><name><supplied reason="lost">— — — — — — — — — — — —</supplied></name>
+                    <lb n="1"/><w>Βώηθο[ς</w> <w><surplus>²⁶Βόηθος</surplus>²⁶</w> <name><w>—</w></name> <name><w>—]</w></name>
+                    <lb n="2"/><name><w><supplied reason="lost">— — — — — — — — — — — —</supplied></w></name>
                     <lb n="3"/>
                 </ab>
             </div>

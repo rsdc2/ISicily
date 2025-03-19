@@ -195,18 +195,18 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
                     <lb n="1" xml:id="DiyAK"/><w xml:id="DiyAU"><supplied reason="lost" xml:id="DiyAe">Θ</supplied>εοδο</w> <gap reason="lost" extent="unknown" unit="character" xml:id="DiyAo"/>
-                    <lb n="2" xml:id="DiyAy"/><name xml:id="DiyAΙ">Ἀρτε</name> <gap reason="lost" extent="unknown" unit="character" xml:id="DiyAΤ"/>
-                    <lb n="3" xml:id="DiyAε"/><name xml:id="DiyAο">Ἀρισ<unclear xml:id="DiyBA">τ</unclear></name> <gap reason="lost" extent="unknown" unit="character" xml:id="DiyBK"/>
-                    <lb n="4" xml:id="DiyBU"/><name xml:id="DiyBe"><unclear xml:id="DiyBo">Ἀ</unclear>σκλα</name> <gap reason="lost" extent="unknown" unit="character" xml:id="DiyBy"/>
-                    <lb n="5" xml:id="DiyBΙ"/><name xml:id="DiyBΤ">Θεαντο</name> <gap reason="lost" extent="unknown" unit="character" xml:id="DiyBε"/>
-                    <lb n="6" xml:id="DiyBο"/><name xml:id="DiyCA">Φαινιππ</name> <gap reason="lost" extent="unknown" unit="character" xml:id="DiyCK"/>
-                    <lb n="7" xml:id="DiyCU"/><name xml:id="DiyCe">Δαμα<unclear xml:id="DiyCo">τ</unclear></name> <gap reason="lost" extent="unknown" unit="character" xml:id="DiyCy"/>
-                    <lb n="8" xml:id="DiyCΙ"/><name xml:id="DiyCΤ">Δεινομ</name> <gap reason="lost" extent="unknown" unit="character" xml:id="DiyCε"/>
-                    <lb n="9" xml:id="DiyCο"/><name xml:id="DiyDA">Διοδωρ</name> <gap reason="lost" extent="unknown" unit="character" xml:id="DiyDK"/>
-                    <lb n="10" xml:id="DiyDU"/><name xml:id="DiyDe">Νικωμαχ</name> <gap reason="lost" extent="unknown" unit="character" xml:id="DiyDo"/>
-                    <lb n="11" xml:id="DiyDy"/><name xml:id="DiyDΙ">Μολοσσ</name> <gap reason="lost" extent="unknown" unit="character" xml:id="DiyDΤ"/>
-                    <lb n="12" xml:id="DiyDε"/><name xml:id="DiyDο">Ἀρ<unclear xml:id="DiyEA">ισ</unclear>το<unclear xml:id="DiyEK">μ</unclear></name> <gap reason="lost" extent="unknown" unit="character" xml:id="DiyEU"/>
-                    <lb n="13" xml:id="DiyEe"/><name xml:id="DiyEo">Εὐκλῆς</name> <gap reason="lost" extent="unknown" unit="character" xml:id="DiyEy"/>
+                    <lb n="2" xml:id="DiyAy"/><name xml:id="DiyAΙ"><w>Ἀρτε</w></name> <gap reason="lost" extent="unknown" unit="character" xml:id="DiyAΤ"/>
+                    <lb n="3" xml:id="DiyAε"/><name xml:id="DiyAο"><w>Ἀρισ<unclear xml:id="DiyBA">τ</unclear></w></name> <gap reason="lost" extent="unknown" unit="character" xml:id="DiyBK"/>
+                    <lb n="4" xml:id="DiyBU"/><name xml:id="DiyBe"><w><unclear xml:id="DiyBo">Ἀ</unclear>σκλα</w></name> <gap reason="lost" extent="unknown" unit="character" xml:id="DiyBy"/>
+                    <lb n="5" xml:id="DiyBΙ"/><name xml:id="DiyBΤ"><w>Θεαντο</w></name> <gap reason="lost" extent="unknown" unit="character" xml:id="DiyBε"/>
+                    <lb n="6" xml:id="DiyBο"/><name xml:id="DiyCA"><w>Φαινιππ</w></name> <gap reason="lost" extent="unknown" unit="character" xml:id="DiyCK"/>
+                    <lb n="7" xml:id="DiyCU"/><name xml:id="DiyCe"><w>Δαμα<unclear xml:id="DiyCo">τ</unclear></w></name> <gap reason="lost" extent="unknown" unit="character" xml:id="DiyCy"/>
+                    <lb n="8" xml:id="DiyCΙ"/><name xml:id="DiyCΤ"><w>Δεινομ</w></name> <gap reason="lost" extent="unknown" unit="character" xml:id="DiyCε"/>
+                    <lb n="9" xml:id="DiyCο"/><name xml:id="DiyDA"><w>Διοδωρ</w></name> <gap reason="lost" extent="unknown" unit="character" xml:id="DiyDK"/>
+                    <lb n="10" xml:id="DiyDU"/><name xml:id="DiyDe"><w>Νικωμαχ</w></name> <gap reason="lost" extent="unknown" unit="character" xml:id="DiyDo"/>
+                    <lb n="11" xml:id="DiyDy"/><name xml:id="DiyDΙ"><w>Μολοσσ</w></name> <gap reason="lost" extent="unknown" unit="character" xml:id="DiyDΤ"/>
+                    <lb n="12" xml:id="DiyDε"/><name xml:id="DiyDο"><w>Ἀρ<unclear xml:id="DiyEA">ισ</unclear>το<unclear xml:id="DiyEK">μ</unclear></w></name> <gap reason="lost" extent="unknown" unit="character" xml:id="DiyEU"/>
+                    <lb n="13" xml:id="DiyEe"/><name xml:id="DiyEo"><w>Εὐκλῆς</w></name> <gap reason="lost" extent="unknown" unit="character" xml:id="DiyEy"/>
                     <lb xml:id="DiyEΙ"/><space unit="line" quantity="1" xml:id="DiyEΤ"/>
                 </ab>
             </div>

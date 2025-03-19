@@ -197,10 +197,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost"><expan><abbr>nob</abbr><ex>ilissimus</ex></expan></supplied></w> <name>Caesar</name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost"><expan><abbr>nob</abbr><ex>ilissimus</ex></expan></supplied></w> <name><w>Caesar</w></name> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <space extent="1" unit="line"/>
-                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <w>chus</w> <g ref="#interpunct">·</g> <w><expan><abbr>v</abbr><ex>ir</ex></expan></w> <roleName type="supracivic" subtype="clarissimus"><w><expan><abbr>c</abbr><ex>larissimus</ex></expan></w></roleName> <g ref="#interpunct">·</g> <roleName type="supracivic" subtype="consularis"><w>consulari</w> <w><unclear>s</unclear></w></roleName> <w><supplied reason="lost" cert="low"><expan><abbr>p</abbr><ex>rovinciae</ex></expan></supplied></w> <name><supplied reason="lost" cert="low"><expan><abbr>S</abbr><ex>icilae</ex></expan></supplied></name>
-                    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <name><supplied reason="lost">Ve</supplied>nantius</name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <w>chus</w> <g ref="#interpunct">·</g> <w><expan><abbr>v</abbr><ex>ir</ex></expan></w> <roleName type="supracivic" subtype="clarissimus"><w><expan><abbr>c</abbr><ex>larissimus</ex></expan></w></roleName> <g ref="#interpunct">·</g> <roleName type="supracivic" subtype="consularis"><w>consulari</w> <w><unclear>s</unclear></w></roleName> <w><supplied reason="lost" cert="low"><expan><abbr>p</abbr><ex>rovinciae</ex></expan></supplied></w> <name><w><supplied reason="lost" cert="low"><expan><abbr>S</abbr><ex>icilae</ex></expan></supplied></w></name>
+                    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <name><w><supplied reason="lost">Ve</supplied>nantius</w></name> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>
             <div type="apparatus">

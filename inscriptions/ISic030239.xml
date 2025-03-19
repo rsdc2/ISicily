@@ -183,15 +183,15 @@
                 <div type="textpart" subtype="section" n="a">
                     <ab>
                         <milestone unit="face" n="a"/>
-                        <lb n="1"/><handShift new="#h1"/><persName type="attested"><name type="idionym">Δ<supplied reason="lost">ικα</supplied>ίαρχος</name>
-                        <lb n="2"/><persName type="attested"><name type="patronym">Hιπ<supplied reason="lost">π</supplied>ία</name></persName></persName>
-                        <lb n="3"/><num value="6">hέκτα</num> <w>φράτρα</w>
+                        <lb n="1"/><handShift new="#h1"/><persName type="attested"><name type="idionym"><w>Δ<supplied reason="lost">ικα</supplied>ίαρχος</w></name>
+                        <lb n="2"/><persName type="attested"><name type="patronym"><w>Hιπ<supplied reason="lost">π</supplied>ία</w></name></persName></persName>
+                        <lb n="3"/><num value="6"><w>hέκτα</w></num> <w>φράτρα</w>
                     </ab>
                 </div>
                 <div type="textpart" subtype="section" n="b">
                     <ab>
                         <milestone unit="face" n="b"/>
-                        <lb n="1"/><handShift new="#h2"/><num value="6">hέκτας</num> <w>φράτρα</w>
+                        <lb n="1"/><handShift new="#h2"/><num value="6"><w>hέκτας</w></num> <w>φράτρα</w>
                     </ab>
                 </div>
             </div>

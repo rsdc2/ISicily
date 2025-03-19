@@ -207,8 +207,8 @@
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
                     <lb n="1"/><w><unclear>Buro</unclear></w> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="2"/><name><expan><abbr>T</abbr><ex>itus</ex></expan></name> <g ref="#interpunct">·</g> <name><seg part="I">Flav</seg></name> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="3"/><name>Caelia</name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><name><w><expan><abbr>T</abbr><ex>itus</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w><seg part="I">Flav</seg></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="3"/><name><w>Caelia</w></name> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="4"/><w>sib<hi rend="tall">i</hi></w> <g ref="#interpunct">·</g> <space extent="unknown" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>

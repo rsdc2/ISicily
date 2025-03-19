@@ -190,8 +190,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#SS">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name>Ἀγάθων
-                    <lb n="2" break="no"/>ος</name></persName>
+                    <lb n="1"/><persName type="attested"><name><w>Ἀγάθων
+                    <lb n="2" break="no"/>ος</w></name></persName>
                 </ab>
             </div>
             <div type="apparatus">

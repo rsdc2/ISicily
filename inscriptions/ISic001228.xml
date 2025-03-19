@@ -190,9 +190,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#GC">
                 <ab>
-                    <lb n="1"/><name>Αἰλίῳ</name> <name>Ἀδριανῷ</name>
-                    <lb n="2"/><name>Ἀντωνείνωι</name>
-                    <lb n="3"/><name>Σεβαστῷ</name> <name>Εὐσεβεῖ</name>
+                    <lb n="1"/><name><w>Αἰλίῳ</w></name> <name><w>Ἀδριανῷ</w></name>
+                    <lb n="2"/><name><w>Ἀντωνείνωι</w></name>
+                    <lb n="3"/><name><w>Σεβαστῷ</w></name> <name><w>Εὐσεβεῖ</w></name>
                     <lb n="4"/><roleName type="supracivic" subtype="pater.patriae"><w><expan><abbr>π</abbr><ex>ατρὶ</ex></expan></w> <w><expan><abbr>π</abbr><ex>ατρίδος</ex></expan></w></roleName>
                 </ab>
             </div>

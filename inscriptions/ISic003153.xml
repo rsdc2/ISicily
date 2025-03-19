@@ -205,11 +205,11 @@
                     <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <w>o</w> <w>darem</w> <w>et</w> <w>decr<supplied reason="lost">e</supplied>ver</w> <w><supplied reason="lost">unt</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">u</supplied>t</w> <w>inarentur</w> <w><expan><abbr>utq</abbr><ex>ue</ex></expan></w> <w>ev</w> <w><supplied reason="lost">eherentur</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/> <w>nec</w> <w>sola</w> <w>haec</w> <w>erogata</w> <w>s</w> <w><supplied reason="lost">unt</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="6"/><gap reason="lost" extent="unknown" unit="character"/> <name>E</name> <g ref="#sestertius">sestertios
+                    <lb n="6"/><gap reason="lost" extent="unknown" unit="character"/> <name><w>E</w></name> <g ref="#sestertius">sestertios
                 </g> <w>C̅C̅L</w> <w><expan><abbr>m</abbr><ex>ilia</ex></expan></w> <w><expan><abbr>n</abbr><ex>ummum</ex></expan></w> <w>summi</w> <w><supplied reason="lost">nistrata sunt</supplied></w>
                     <lb n="7"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">i</supplied>mpedirentur</w> <w>ego</w> <w>de</w> <w>m</w> <w><supplied reason="lost">eo supplevi</supplied></w>
                     <lb n="8"/><gap reason="lost" extent="unknown" unit="character"/> <gap reason="illegible" quantity="1" unit="character"/> <w>trecentoru</w> <w><supplied reason="lost">m</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="9"/><gap reason="lost" extent="unknown" unit="character"/> <name><supplied reason="lost">Aug</supplied>usteum</name> <w>opus</w> <w><supplied reason="lost" cert="low">defueret</supplied></w>
+                    <lb n="9"/><gap reason="lost" extent="unknown" unit="character"/> <name><w><supplied reason="lost">Aug</supplied>usteum</w></name> <w>opus</w> <w><supplied reason="lost" cert="low">defueret</supplied></w>
                     <lb n="10"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">consensum</supplied></w> <roleName type="civic" subtype="decurio"><w><supplied reason="lost">decurionu</supplied></w> <w>m</w></roleName> <w>expugn</w> <w><supplied reason="lost">avi</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
                 <!--This EDR text 081506 originally came via the Europeana EAGLE project, http://www.eagle-network.eu/-->

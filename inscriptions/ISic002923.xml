@@ -192,8 +192,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#VM">
                 <ab>
-                    <lb n="1"/><g ref="#cross_uninterpreted"/> <w><expan><abbr><hi rend="supraline">M</hi></abbr><ex>emoria</ex></expan></w> <name>Anto</name>
-                    <lb n="2"/><w>ni</w> <w>figuli</w> <w>e<supplied reason="omitted">t</supplied></w> <name>Leonti<supplied reason="omitted">a</supplied>e</name> <g ref="#cross_uninterpreted"/>
+                    <lb n="1"/><g ref="#cross_uninterpreted"/> <w><expan><abbr><hi rend="supraline">M</hi></abbr><ex>emoria</ex></expan></w> <name><w>Anto</w></name>
+                    <lb n="2"/><w>ni</w> <w>figuli</w> <w>e<supplied reason="omitted">t</supplied></w> <name><w>Leonti<supplied reason="omitted">a</supplied>e</w></name> <g ref="#cross_uninterpreted"/>
                 </ab>
             </div>
             <div type="apparatus">

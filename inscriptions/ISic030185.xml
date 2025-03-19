@@ -175,10 +175,10 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
                     <milestone unit="face" n="a"/>
-                    <lb n="1"/><persName type="attested"><name type="idionym"><supplied reason="lost">Σι</supplied>κανὸς</name>
-                    <lb n="2"/><name type="patronym"><supplied reason="lost">Ἀπ</supplied>ελλίο̄νος</name></persName> <milestone unit="face" n="b"/>
-                    <lb n="3"/><num value="14"><supplied reason="lost">τε</supplied>τάρτας
-                    <lb n="4"/><supplied reason="lost">ἐπὶ</supplied>δέκα</num>
+                    <lb n="1"/><persName type="attested"><name type="idionym"><w><supplied reason="lost">Σι</supplied>κανὸς</w></name>
+                    <lb n="2"/><name type="patronym"><w><supplied reason="lost">Ἀπ</supplied>ελλίο̄νος</w></name></persName> <milestone unit="face" n="b"/>
+                    <lb n="3"/><num value="14"><w><supplied reason="lost">τε</supplied>τάρτας
+                    <lb n="4"/><supplied reason="lost">ἐπὶ</supplied>δέκα</w></num>
                 </ab>
             </div>
             <div type="apparatus">

@@ -187,9 +187,9 @@
         <body>
             <div type="edition" xml:space="preserve" subtype="PHI" n="PHI178090">
                 <ab>
-                    <lb n="1"/><w>τόπος</w> <name>Διονυσίας</name> <g ref="#interpunct">∙</g>
-                    <lb n="2"/><w>ἡ</w> <w>κὲ</w> <name>Εἰρήνας</name> <g ref="#interpunct">∙</g>
-                    <lb n="3"/><name><surplus>²menorah</surplus>²</name>
+                    <lb n="1"/><w>τόπος</w> <name><w>Διονυσίας</w></name> <g ref="#interpunct">∙</g>
+                    <lb n="2"/><w>ἡ</w> <w>κὲ</w> <name><w>Εἰρήνας</w></name> <g ref="#interpunct">∙</g>
+                    <lb n="3"/><name><w><surplus>²menorah</surplus>²</w></name>
                     <lb n="4"/>
                 </ab>
             </div>

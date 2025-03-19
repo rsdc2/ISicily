@@ -198,12 +198,12 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#AA #JP">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name>Στάτειος</name>
-                    <lb n="2"/><name>Εὐτύχης</name></persName>
+                    <lb n="1"/><persName type="attested"><name><w>Στάτειος</w></name>
+                    <lb n="2"/><name><w>Εὐτύχης</w></name></persName>
                     <lb n="3"/><w>ἔζησε</w> <w><choice><orig>ἀμέμ
-                    <lb n="4" break="no"/>πτως</orig><reg>ἀμέμπτως</reg></choice></w> <w>ἔτη</w> <g ref="#interpunct">·</g> <hi rend="supraline"><num value="16">ιϛ</num></hi>
-                    <lb n="5"/><w>μῆνες</w> <space unit="character" quantity="1"/><hi rend="supraline"><num value="3">γ</num></hi>
-                    <lb n="6"/><w>ἡμέρας</w> <g ref="#interpunct">·</g> <num value="7"><hi rend="supraline">ζ</hi></num>
+                    <lb n="4" break="no"/>πτως</orig><reg>ἀμέμπτως</reg></choice></w> <w>ἔτη</w> <g ref="#interpunct">·</g> <hi rend="supraline"><num value="16"><w>ιϛ</w></num></hi>
+                    <lb n="5"/><w>μῆνες</w> <space unit="character" quantity="1"/><hi rend="supraline"><num value="3"><w>γ</w></num></hi>
+                    <lb n="6"/><w>ἡμέρας</w> <g ref="#interpunct">·</g> <num value="7"><w><hi rend="supraline">ζ</hi></w></num>
                 </ab>
             </div>
             <div type="apparatus">

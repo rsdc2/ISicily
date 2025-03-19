@@ -194,10 +194,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <name><expan><abbr>M</abbr><ex>anibus</ex></expan></name>
-                    <lb n="2"/><name>Accaeae</name> <name>Calliope</name>
-                    <lb n="3"/><name><expan><abbr>Q</abbr><ex>uintus</ex></expan></name> <name>Rupilius</name> <name>Onesi
-                    <lb n="4" break="no"/>mus</name> <w>coiugi</w>
+                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <name><w><expan><abbr>M</abbr><ex>anibus</ex></expan></w></name>
+                    <lb n="2"/><name><w>Accaeae</w></name> <name><w>Calliope</w></name>
+                    <lb n="3"/><name><w><expan><abbr>Q</abbr><ex>uintus</ex></expan></w></name> <name><w>Rupilius</w></name> <name><w>Onesi
+                    <lb n="4" break="no"/>mus</w></name> <w>coiugi</w>
                     <lb n="5"/><w>bene</w> <w>de</w> <w>se</w>
                     <lb n="6"/><w>meritae</w>
                 </ab>

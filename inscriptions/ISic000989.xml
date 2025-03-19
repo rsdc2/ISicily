@@ -192,9 +192,9 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
                     <lb n="1"/><w>ἐτελεύτησεν</w>
-                    <lb n="2"/><name>Στιβαδίων</name> <w>τῇ</w> <w><hi rend="ligature">πρ</hi>ὸ</w>
-                    <lb n="3"/><g ref="#interpunct"/> <num value="12">ιβ</num> <g ref="#interpunct"/> <w><expan><abbr>καλ</abbr><ex>ανδῶν</ex></expan></w> <g ref="#interpunct"/> <name><expan><abbr>Σεπτεμβ</abbr><ex>ρίων</ex></expan></name> <g ref="#interpunct"/>
-                    <lb n="4"/><w>ἐτῶν</w> <g ref="#interpunct"/> <num value="40">μ</num> <g ref="#interpunct"/> <orig>ΝΜ</orig><gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><name><w>Στιβαδίων</w></name> <w>τῇ</w> <w><hi rend="ligature">πρ</hi>ὸ</w>
+                    <lb n="3"/><g ref="#interpunct"/> <num value="12"><w>ιβ</w></num> <g ref="#interpunct"/> <w><expan><abbr>καλ</abbr><ex>ανδῶν</ex></expan></w> <g ref="#interpunct"/> <name><w><expan><abbr>Σεπτεμβ</abbr><ex>ρίων</ex></expan></w></name> <g ref="#interpunct"/>
+                    <lb n="4"/><w>ἐτῶν</w> <g ref="#interpunct"/> <num value="40"><w>μ</w></num> <g ref="#interpunct"/> <orig>ΝΜ</orig><gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>
             <div type="apparatus">

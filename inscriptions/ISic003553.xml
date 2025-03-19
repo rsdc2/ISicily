@@ -188,7 +188,7 @@
                 <ab>
                     <lb n="1"/><w>κε͂τε</w> <g ref="#interpunct">·</g> <w>ἐνθάδε</w> <gap reason="lost" unit="character" quantity="3"/>
                     <lb n="2"/><w>ἄμεμπτε</w> <w>καὶ</w> <gap reason="lost" unit="character" quantity="2"/>
-                    <lb n="3"/><w><choice><reg>γυνὴ</reg><orig>πυνε</orig></choice></w> <gap reason="lost" unit="character" quantity="2"/> <name>Ἁδριανα</name> <gap reason="lost" unit="character" quantity="3"/>
+                    <lb n="3"/><w><choice><reg>γυνὴ</reg><orig>πυνε</orig></choice></w> <gap reason="lost" unit="character" quantity="2"/> <name><w>Ἁδριανα</w></name> <gap reason="lost" unit="character" quantity="3"/>
                     <lb n="4"/><w>ἀνδρὶ</w> <w>εὐσεβ<supplied reason="lost">εῖ</supplied>.</w>
                 </ab>
             </div>

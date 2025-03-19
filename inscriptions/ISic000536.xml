@@ -192,7 +192,7 @@
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <orig><unclear>A</unclear>GNA <unclear>I</unclear></orig><gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w part="F"><unclear>a</unclear>na</w> <g ref="#interpunct">·</g> <name><abbr>L</abbr></name> <g ref="#interpunct">·</g> <name part="I">M</name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w part="F"><unclear>a</unclear>na</w> <g ref="#interpunct">·</g> <name><w><abbr>L</abbr></w></name> <g ref="#interpunct">·</g> <name part="I"><w>M</w></name> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>
             <div type="apparatus">

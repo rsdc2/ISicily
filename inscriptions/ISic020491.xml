@@ -174,7 +174,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/><persName type="divine"><name><seg part="I">Δαματ</seg><gap reason="illegible" quantity="2" unit="character"/></name></persName>
+                    <lb n="1"/><persName type="divine"><name><w><seg part="I">Δαματ</seg><gap reason="illegible" quantity="2" unit="character"/></w></name></persName>
                 </ab>
             </div>
             <div type="apparatus">

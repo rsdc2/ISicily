@@ -192,11 +192,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#VM">
                 <ab>
-                    <lb n="1"/><w>Dis</w> <g ref="#ivy-leaf"/> <name><expan><abbr>Manib</abbr><ex>us</ex></expan></name>
-                    <lb n="2"/><name>Trebonia</name> <name><expan><abbr>C</abbr><ex>ai</ex></expan></name> <g ref="#interpunct">·</g> <w><expan><abbr>f</abbr><ex>ilia</ex></expan></w> <name>Modia</name>
-                    <lb n="3"/><w>vixit</w> <g ref="#interpunct">·</g> <w><expan><abbr>ann</abbr><ex>is</ex></expan></w> <num value="11">XI</num> <w><expan><abbr>m</abbr><ex>ensibus</ex></expan></w> <num value="3">III</num> <g ref="#ivy-leaf"/>
-                    <lb n="4"/><name><expan><abbr>C</abbr><ex>aius</ex></expan></name> <name>Trebonius</name> <unclear><g ref="#ivy-leaf"/></unclear> <name>Zmaragdus</name> <g ref="#ivy-leaf"/>
-                    <lb n="5"/><w>et</w> <name>Modia</name> <name>Hesione</name> <g ref="#ivy-leaf"/>
+                    <lb n="1"/><w>Dis</w> <g ref="#ivy-leaf"/> <name><w><expan><abbr>Manib</abbr><ex>us</ex></expan></w></name>
+                    <lb n="2"/><name><w>Trebonia</w></name> <name><w><expan><abbr>C</abbr><ex>ai</ex></expan></w></name> <g ref="#interpunct">·</g> <w><expan><abbr>f</abbr><ex>ilia</ex></expan></w> <name><w>Modia</w></name>
+                    <lb n="3"/><w>vixit</w> <g ref="#interpunct">·</g> <w><expan><abbr>ann</abbr><ex>is</ex></expan></w> <num value="11"><w>XI</w></num> <w><expan><abbr>m</abbr><ex>ensibus</ex></expan></w> <num value="3"><w>III</w></num> <g ref="#ivy-leaf"/>
+                    <lb n="4"/><name><w><expan><abbr>C</abbr><ex>aius</ex></expan></w></name> <name><w>Trebonius</w></name> <unclear><g ref="#ivy-leaf"/></unclear> <name><w>Zmaragdus</w></name> <g ref="#ivy-leaf"/>
+                    <lb n="5"/><w>et</w> <name><w>Modia</w></name> <name><w>Hesione</w></name> <g ref="#ivy-leaf"/>
                     <lb n="6"/><w>piissimae</w> <g ref="#ivy-leaf"/> <w>filiae</w> <g ref="#ivy-leaf"/>
                 </ab> 
             </div>

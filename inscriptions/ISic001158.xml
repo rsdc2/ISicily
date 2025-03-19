@@ -195,10 +195,10 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w>λία</w>
-                    <lb n="2"/><name><supplied reason="lost">Σπ</supplied>αρτείνα</name>
-                    <lb n="3"/><name><supplied reason="lost">Λι</supplied>λυβαῖτις</name>
+                    <lb n="2"/><name><w><supplied reason="lost">Σπ</supplied>αρτείνα</w></name>
+                    <lb n="3"/><name><w><supplied reason="lost">Λι</supplied>λυβαῖτις</w></name>
                     <lb n="4"/><w><supplied reason="lost">ἔζη</supplied>σεν</w> <w>ἔτη</w>
-                    <lb n="5"/><num value="22">κβ</num>
+                    <lb n="5"/><num value="22"><w>κβ</w></num>
                 </ab>
             </div>
             <div type="apparatus" resp="#JP">

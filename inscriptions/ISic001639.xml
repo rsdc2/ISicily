@@ -193,7 +193,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#VM">
                 <ab>
-                    <lb n="1"/><g ref="#christogram">☧</g> <w>Flavius</w> <name>Pacius</name> <roleName type="military" subtype="veteranus"><w>b</w> <w><unclear>eter</unclear></w> <w>anus</w></roleName> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><g ref="#christogram">☧</g> <w>Flavius</w> <name><w>Pacius</w></name> <roleName type="military" subtype="veteranus"><w>b</w> <w><unclear>eter</unclear></w> <w>anus</w></roleName> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>
             <div type="apparatus">

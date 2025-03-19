@@ -191,12 +191,12 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#MH">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>Q</abbr><ex>uinto</ex></expan></w> <g ref="#interpunct">·</g> <name>M<supplied reason="lost">an</supplied></name> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="2"/><name>Lup</name> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="3"/><name><expan><abbr>Q</abbr><ex>uinto</ex></expan></name> <g ref="#interpunct">·</g> <name>Man</name> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="4"/><name>Lup</name> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="5"/><name>Domitia</name>
-                    <lb n="6"/><name>Pia</name>
+                    <lb n="1"/><w><expan><abbr>Q</abbr><ex>uinto</ex></expan></w> <g ref="#interpunct">·</g> <name><w>M<supplied reason="lost">an</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><name><w>Lup</w></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="3"/><name><w><expan><abbr>Q</abbr><ex>uinto</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w>Man</w></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="4"/><name><w>Lup</w></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="5"/><name><w>Domitia</w></name>
+                    <lb n="6"/><name><w>Pia</w></name>
                 </ab>               
             </div>
             <div type="apparatus">

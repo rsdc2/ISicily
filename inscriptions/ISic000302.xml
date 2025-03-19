@@ -195,8 +195,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#EK">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>Q</abbr><ex>uintus</ex></expan></w> <name>Lusius</name>
-                    <lb n="2"/><name>Laberius</name>
+                    <lb n="1"/><w><expan><abbr>Q</abbr><ex>uintus</ex></expan></w> <name><w>Lusius</w></name>
+                    <lb n="2"/><name><w>Laberius</w></name>
                     <lb n="3"/><roleName type="supracivic" subtype="proconsul"><w>proconsul</w></roleName>
                     <lb n="4"/><w>thermas</w>
                 </ab>

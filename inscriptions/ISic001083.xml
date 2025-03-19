@@ -197,10 +197,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>Θ</abbr><ex>εοῖς</ex></expan></w> <name><expan><abbr>Κ</abbr><ex>αταχθονίοις</ex></expan></name> <name>.</name>
-                    <lb n="2"/><name>Θεανὼ</name> <w>ἔζησεν</w>
+                    <lb n="1"/><w><expan><abbr>Θ</abbr><ex>εοῖς</ex></expan></w> <name><w><expan><abbr>Κ</abbr><ex>αταχθονίοις</ex></expan></w></name> <name><w>.</w></name>
+                    <lb n="2"/><name><w>Θεανὼ</w></name> <w>ἔζησεν</w>
                     <lb n="3"/><w>ἔτη</w> <g ref="#interpunct">·</g> <w><hi rend="supraline">ιθ</hi></w> <g ref="#interpunct">·</g> <w><expan><abbr><hi rend="supraline">μ</hi></abbr><ex>ῆνας</ex></expan></w> <g ref="#interpunct">·</g> <w>βʹ</w> <g ref="#interpunct">·</g> <w><expan><abbr>ἡμέρ</abbr><ex>ας</ex></expan></w> <g ref="#interpunct">·</g> <w><hi rend="supraline">ιβ</hi></w> <g ref="#interpunct">·</g>
-                    <lb n="4"/><name>Σαβεῖνα</name> <w>μήτηρ</w> <w>θυ
+                    <lb n="4"/><name><w>Σαβεῖνα</w></name> <w>μήτηρ</w> <w>θυ
                     <lb n="5" break="no"/>γατρὶ</w> <w>παρθένῳ</w> <w>ἀμο
                     <lb n="6" break="no"/>λύντῳ</w> <w>γλυκυτάτῃ</w>
                 </ab>

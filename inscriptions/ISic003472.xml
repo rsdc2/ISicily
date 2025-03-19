@@ -188,13 +188,13 @@
         <body>
             <div type="edition" xml:space="preserve" subtype="PHI" n="PHI336061">
                 <ab>
-                    <lb n="1"/><w><supplied reason="lost">— — —</supplied>ΕΤΙΑΙΤΕΙΔΕΚΥ</w> <name><supplied reason="lost">— — —</supplied></name>
-                    <lb n="2"/><w><supplied reason="lost">— — —</supplied>ΝΤΩΓΓΝΗ</w> <name><supplied reason="lost">— — — — —</supplied></name>
-                    <lb n="3"/><w><supplied reason="lost">— — —</supplied>ΝΤΩΜΠΑ</w> <name><supplied reason="lost">— — — — —</supplied></name>
-                    <lb n="4"/><w><supplied reason="lost">— — —</supplied>Κ․ΑΣΤΟΣ</w> <name><supplied reason="lost">— — — — —</supplied></name>
-                    <lb n="5"/><w><supplied reason="lost">— — —</supplied>ΜΙΥΠΟΚΑΚ</w> <name><supplied reason="lost">— — — —</supplied></name>
-                    <lb n="6"/><w><supplied reason="lost">— — —</supplied>ΙΣΟΡΟΦΑΝΕΔ</w> <name><supplied reason="lost">— — —</supplied></name>
-                    <lb n="7"/><w><supplied reason="lost">— — —</supplied>ΚΛΕΠΤΟΣΑΝΕ</w> <name><supplied reason="lost">— — —</supplied></name>
+                    <lb n="1"/><w><supplied reason="lost">— — —</supplied>ΕΤΙΑΙΤΕΙΔΕΚΥ</w> <name><w><supplied reason="lost">— — —</supplied></w></name>
+                    <lb n="2"/><w><supplied reason="lost">— — —</supplied>ΝΤΩΓΓΝΗ</w> <name><w><supplied reason="lost">— — — — —</supplied></w></name>
+                    <lb n="3"/><w><supplied reason="lost">— — —</supplied>ΝΤΩΜΠΑ</w> <name><w><supplied reason="lost">— — — — —</supplied></w></name>
+                    <lb n="4"/><w><supplied reason="lost">— — —</supplied>Κ․ΑΣΤΟΣ</w> <name><w><supplied reason="lost">— — — — —</supplied></w></name>
+                    <lb n="5"/><w><supplied reason="lost">— — —</supplied>ΜΙΥΠΟΚΑΚ</w> <name><w><supplied reason="lost">— — — —</supplied></w></name>
+                    <lb n="6"/><w><supplied reason="lost">— — —</supplied>ΙΣΟΡΟΦΑΝΕΔ</w> <name><w><supplied reason="lost">— — —</supplied></w></name>
+                    <lb n="7"/><w><supplied reason="lost">— — —</supplied>ΚΛΕΠΤΟΣΑΝΕ</w> <name><w><supplied reason="lost">— — —</supplied></w></name>
                     <lb n="8"/><w><supplied reason="lost">— — —</supplied>ΑΣ.</w> <w>vacat</w>
                     <lb n="9"/>
                 </ab>

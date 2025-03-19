@@ -201,7 +201,7 @@
                 <div type="textpart" subtype="fragment-physical" n="b">
                     <ab>
                         <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w>Νεικ<unclear>αν</unclear><supplied reason="lost">δρ</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
-                        <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <name><unclear>Σ</unclear>τασιμο</name> <gap reason="lost" extent="unknown" unit="character"/>
+                        <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <name><w><unclear>Σ</unclear>τασιμο</w></name> <gap reason="lost" extent="unknown" unit="character"/>
                     </ab>
                 </div>
             </div>

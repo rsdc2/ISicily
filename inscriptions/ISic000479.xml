@@ -195,11 +195,11 @@
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AR">
                 <ab>
                     <lb n="1"/><w>memoriae</w>
-                    <lb n="2"/><name>Vegelae</name>
+                    <lb n="2"/><name><w>Vegelae</w></name>
                     <lb n="3"/><w>infelicissimae</w>
                     <lb n="4"/><w>quae</w> <g ref="#interpunct">·</g> <w>vixit</w> <g ref="#interpunct">·</g> <w>annis</w>
-                    <lb n="5"/><num value="21">XXI</num> <g ref="#interpunct">·</g> <w><expan><abbr>m</abbr><ex>ensibus</ex></expan></w> <g ref="#interpunct">·</g> <num value="3">III</num> <g ref="#interpunct">·</g> <w><expan><abbr>dieb</abbr><ex>us</ex></expan></w> <g ref="#interpunct">·</g> <num value="17">XVII</num>
-                    <lb n="6"/><name>Parthenopeus</name>
+                    <lb n="5"/><num value="21"><w>XXI</w></num> <g ref="#interpunct">·</g> <w><expan><abbr>m</abbr><ex>ensibus</ex></expan></w> <g ref="#interpunct">·</g> <num value="3"><w>III</w></num> <g ref="#interpunct">·</g> <w><expan><abbr>dieb</abbr><ex>us</ex></expan></w> <g ref="#interpunct">·</g> <num value="17"><w>XVII</w></num>
+                    <lb n="6"/><name><w>Parthenopeus</w></name>
                     <lb n="7"/><w>coniugi</w> <g ref="#interpunct">·</g> <w>dul
                     <lb n="8" break="no"/>cissimae</w>
                 </ab>

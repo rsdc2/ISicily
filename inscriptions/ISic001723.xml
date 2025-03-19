@@ -176,10 +176,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#FC">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name><gap reason="lost" extent="unknown" unit="character"/><seg part="F">ερυτη</seg></name></persName> <w>ἐνθάδε</w> <w><supplied reason="lost">κατα</supplied></w>
+                    <lb n="1"/><persName type="attested"><name><w><gap reason="lost" extent="unknown" unit="character"/><seg part="F">ερυτη</seg></w></name></persName> <w>ἐνθάδε</w> <w><supplied reason="lost">κατα</supplied></w>
                     <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w>κῖτε</w> <w>ζήσασα</w>
                     <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <orig>ΗΠΓ</orig><w>ἐτελε<supplied reason="lost">ύτησεν</supplied></w>
-                    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <orig>ΗΕΝ</orig><w><supplied reason="omitted">τ</supplied>ῃ</w> <w>πρὸ</w> <num value="5">ε</num>
+                    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <orig>ΗΕΝ</orig><w><supplied reason="omitted">τ</supplied>ῃ</w> <w>πρὸ</w> <num value="5"><w>ε</w></num>
                     <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/> <orig>ΜΛΛ</orig>
                     <lb n="6"/><gap reason="lost" extent="unknown" unit="character"/> <orig>ΔΕΚ</orig>
                 </ab>

@@ -262,8 +262,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name> <supplied reason="lost">Ν</supplied><unclear>ι</unclear>κασίς</name>
-                    <lb n="2"/><persName type="attested"><name>Ἀριστοκρατέος</name></persName></persName>
+                    <lb n="1"/><persName type="attested"><name><w> <supplied reason="lost">Ν</supplied><unclear>ι</unclear>κασίς</w></name>
+                    <lb n="2"/><persName type="attested"><name><w>Ἀριστοκρατέος</w></name></persName></persName>
                 </ab>
             </div>
             <div type="apparatus">

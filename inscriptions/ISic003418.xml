@@ -193,7 +193,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/><w>Εἰρῆνα</w> <name>Νύμφη</name>
+                    <lb n="1"/><w>Εἰρῆνα</w> <name><w>Νύμφη</w></name>
                     <lb n="2"/><w>ὧδε</w> <w>κεῖται</w>
                     <lb n="3"/><w>κατὰ</w> <w>τοῦ</w> <w>μυστηρί
                     <lb n="4" break="no"/>ου</w> <w>οὖν</w> <w>τούτου</w> <w>μη

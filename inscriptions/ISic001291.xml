@@ -198,12 +198,12 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#martaf">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>Θ</abbr><ex>εοῖς</ex></expan></w> <name><expan><abbr>Κ</abbr><ex>αταχθονίοις</ex></expan></name>
-                    <lb n="2"/><persName type="attested"><name>Γαλάτης</name></persName>
+                    <lb n="1"/><w><expan><abbr>Θ</abbr><ex>εοῖς</ex></expan></w> <name><w><expan><abbr>Κ</abbr><ex>αταχθονίοις</ex></expan></w></name>
+                    <lb n="2"/><persName type="attested"><name><w>Γαλάτης</w></name></persName>
                     <lb n="3"/><w>ἔζησε</w> <w>ἔτη</w>
-                    <lb n="4"/><g ref="#interpunct">·</g> <num value="80">π</num> <g ref="#interpunct">·</g> <w>ἐποίη
+                    <lb n="4"/><g ref="#interpunct">·</g> <num value="80"><w>π</w></num> <g ref="#interpunct">·</g> <w>ἐποίη
                     <lb n="5" break="no"/>σεν</w> <w>υἱὸς</w>
-                    <lb n="6"/><persName type="attested"><name>Πριμιγένης</name></persName>
+                    <lb n="6"/><persName type="attested"><name><w>Πριμιγένης</w></name></persName>
                 </ab>
             </div>
             <div type="apparatus" resp="#martaf">

@@ -192,7 +192,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#AA">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name><seg part="I">Ἀ</seg><supplied reason="lost">πο</supplied><seg part="M"><unclear>λλ</unclear></seg><supplied reason="lost">ω</supplied><seg part="F"><unclear>ν</unclear>ίου</seg></name></persName>
+                    <lb n="1"/><persName type="attested"><name><w><seg part="I">Ἀ</seg><supplied reason="lost">πο</supplied><seg part="M"><unclear>λλ</unclear></seg><supplied reason="lost">ω</supplied><seg part="F"><unclear>ν</unclear>ίου</seg></w></name></persName>
                 </ab>
             </div>
             <div type="apparatus">

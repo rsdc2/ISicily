@@ -192,9 +192,9 @@
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#GC">
                 <ab>
                     <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>m</abbr><ex>anibus</ex></expan></w>
-                    <lb n="2"/><name>Suetia</name> <g ref="#interpunct">·</g> <name>Tyndaris</name>
-                    <lb n="3"/><w><expan><abbr>vix</abbr><ex>it</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>an</abbr><ex>nis</ex></expan></w> <g ref="#interpunct">·</g> <num value="61">LXI</num>
-                    <lb n="4"/><w>menses</w> <g ref="#interpunct">·</g> <num value="1">I</num> <g ref="#interpunct">·</g> <w>dies</w> <g ref="#interpunct">·</g> <num value="18">XVIII</num>
+                    <lb n="2"/><name><w>Suetia</w></name> <g ref="#interpunct">·</g> <name><w>Tyndaris</w></name>
+                    <lb n="3"/><w><expan><abbr>vix</abbr><ex>it</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>an</abbr><ex>nis</ex></expan></w> <g ref="#interpunct">·</g> <num value="61"><w>LXI</w></num>
+                    <lb n="4"/><w>menses</w> <g ref="#interpunct">·</g> <num value="1"><w>I</w></num> <g ref="#interpunct">·</g> <w>dies</w> <g ref="#interpunct">·</g> <num value="18"><w>XVIII</w></num>
                 </ab> 
             </div>
             <div type="apparatus">

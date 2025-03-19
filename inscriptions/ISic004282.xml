@@ -185,11 +185,11 @@
         <body>
             <div type="edition" xml:space="preserve" subtype="PHI" n="PHI334883">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <g ref="#interpunct">❦</g> <name><supplied reason="lost"><expan><abbr>M</abbr><ex>anibus</ex></expan></supplied></name>
-                    <lb n="2"/><name>Nearchia</name> <w><supplied reason="lost">e — — —</supplied></w>
-                    <lb n="3"/><w>CHEDONI</w> <g ref="#interpunct">❦</g> <name><expan><abbr>T</abbr><ex>itus</ex></expan></name> <g ref="#interpunct">❦</g> <name><supplied reason="lost">(nomen)</supplied></name>
-                    <lb n="4"/><name>Polyclet</name> <w><supplied reason="lost">us — — —</supplied></w>
-                    <lb n="5"/><w><expan><abbr>b</abbr><ex>ene</ex></expan></w> <g ref="#interpunct">❦</g> <w><expan><abbr>m</abbr><ex>erenti</ex></expan></w> <name>.</name>
+                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <g ref="#interpunct">❦</g> <name><w><supplied reason="lost"><expan><abbr>M</abbr><ex>anibus</ex></expan></supplied></w></name>
+                    <lb n="2"/><name><w>Nearchia</w></name> <w><supplied reason="lost">e — — —</supplied></w>
+                    <lb n="3"/><w>CHEDONI</w> <g ref="#interpunct">❦</g> <name><w><expan><abbr>T</abbr><ex>itus</ex></expan></w></name> <g ref="#interpunct">❦</g> <name><w><supplied reason="lost">(nomen)</supplied></w></name>
+                    <lb n="4"/><name><w>Polyclet</w></name> <w><supplied reason="lost">us — — —</supplied></w>
+                    <lb n="5"/><w><expan><abbr>b</abbr><ex>ene</ex></expan></w> <g ref="#interpunct">❦</g> <w><expan><abbr>m</abbr><ex>erenti</ex></expan></w> <name><w>.</w></name>
                     <lb n="6"/>
                 </ab>
             </div>

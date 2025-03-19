@@ -191,8 +191,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
-                    <lb n="1"/><supplied reason="lost"><name><expan><abbr>M</abbr><ex>arcus</ex></expan></name></supplied> <name><supplied reason="lost">Aureli</supplied>u<supplied reason="lost">s</supplied></name> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <name><supplied reason="lost">P</supplied>art<supplied reason="lost">hicus</supplied></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><supplied reason="lost"><name><w><expan><abbr>M</abbr><ex>arcus</ex></expan></w></name></supplied> <name><w><supplied reason="lost">Aureli</supplied>u<supplied reason="lost">s</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <name><w><supplied reason="lost">P</supplied>art<supplied reason="lost">hicus</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>
             <div type="apparatus">

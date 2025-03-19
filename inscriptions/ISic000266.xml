@@ -195,11 +195,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
-                    <lb n="1"/><w>Dis</w> <g ref="#interpunct">·</g> <name>Man<supplied reason="undefined" evidence="previouseditor">ibus</supplied></name>
-                    <lb n="2"/><name>Epitynch<supplied reason="undefined" evidence="previouseditor">ani</supplied></name> <g ref="#interpunct">·</g> <name><expan><abbr><supplied reason="undefined" evidence="previouseditor">Caes</supplied></abbr><ex>aris</ex></expan></name>
-                    <lb n="3"/><w><expan><abbr>n</abbr><ex>ostri</ex></expan></w> <g ref="#ivy-leaf"/> <w><expan><abbr>ser</abbr><ex>vi</ex></expan></w> <g ref="#ivy-leaf"/> <name><expan><abbr>Cand<supplied reason="undefined" evidence="previouseditor">idian</supplied></abbr><ex>i</ex></expan></name>
+                    <lb n="1"/><w>Dis</w> <g ref="#interpunct">·</g> <name><w>Man<supplied reason="undefined" evidence="previouseditor">ibus</supplied></w></name>
+                    <lb n="2"/><name><w>Epitynch<supplied reason="undefined" evidence="previouseditor">ani</supplied></w></name> <g ref="#interpunct">·</g> <name><w><expan><abbr><supplied reason="undefined" evidence="previouseditor">Caes</supplied></abbr><ex>aris</ex></expan></w></name>
+                    <lb n="3"/><w><expan><abbr>n</abbr><ex>ostri</ex></expan></w> <g ref="#ivy-leaf"/> <w><expan><abbr>ser</abbr><ex>vi</ex></expan></w> <g ref="#ivy-leaf"/> <name><w><expan><abbr>Cand<supplied reason="undefined" evidence="previouseditor">idian</supplied></abbr><ex>i</ex></expan></w></name>
                     <lb n="4"/><w>qui</w> <w>exiebat</w> <g ref="#interpunct">·</g> <w>i<supplied reason="undefined" evidence="previouseditor">n</supplied></w> <w><supplied reason="undefined" evidence="previouseditor">officio</supplied></w>
-                    <lb n="5"/><name>Asiae</name> <g ref="#interpunct">·</g> <roleName type="supracivic" subtype="arkarius"><w><expan><abbr>ark</abbr><ex>arii</ex></expan></w></roleName> <g ref="#ivy-leaf"/> <w><hi rend="supraline">XX</hi></w> <w><supplied reason="undefined" evidence="previouseditor">·</supplied></w> <w><expan><abbr><supplied reason="undefined" evidence="previouseditor">hered</supplied></abbr><ex>itatium</ex></expan></w>
+                    <lb n="5"/><name><w>Asiae</w></name> <g ref="#interpunct">·</g> <roleName type="supracivic" subtype="arkarius"><w><expan><abbr>ark</abbr><ex>arii</ex></expan></w></roleName> <g ref="#ivy-leaf"/> <w><hi rend="supraline">XX</hi></w> <w><supplied reason="undefined" evidence="previouseditor">·</supplied></w> <w><expan><abbr><supplied reason="undefined" evidence="previouseditor">hered</supplied></abbr><ex>itatium</ex></expan></w>
                 </ab>
                 <!--The initial basis for the text came from EDR text 033598, via the Europeana EAGLE project, http://www.eagle-network.eu/-->
             </div>

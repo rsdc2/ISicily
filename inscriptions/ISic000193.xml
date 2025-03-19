@@ -192,7 +192,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#VM">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name>Lucia</name></persName> <g ref="#interpunct">·</g> <name><expan><abbr><am><g ref="#mulieris">Ↄ</g></am></abbr><ex>mulieris</ex></expan></name> <g ref="#interpunct">·</g> <w><expan><abbr>l</abbr><ex>iberta</ex></expan></w> <g ref="#interpunct">·</g>
+                    <lb n="1"/><persName type="attested"><name><w>Lucia</w></name></persName> <g ref="#interpunct">·</g> <name><w><expan><abbr><am><g ref="#mulieris">Ↄ</g></am></abbr><ex>mulieris</ex></expan></w></name> <g ref="#interpunct">·</g> <w><expan><abbr>l</abbr><ex>iberta</ex></expan></w> <g ref="#interpunct">·</g>
                     <lb n="2"/><w>hic</w> <g ref="#interpunct">·</g> <w>sita</w>
                 </ab>
             </div>

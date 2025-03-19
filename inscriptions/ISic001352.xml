@@ -199,9 +199,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#martaf">
                 <ab>
-                    <lb n="1"/><w>Ἐνθάδε</w> <name> κ<supplied reason="lost">εῖται</supplied></name>
-                    <lb n="2"/><persName type="attested"><name>Εὔπλουτ<supplied reason="lost">ος</supplied></name></persName> <w><supplied reason="lost">ζήσας</supplied></w>
-                    <lb n="3"/><w>ἔτη</w> <num value="10">δεκ<supplied reason="lost">α</supplied></num> <gap reason="lost" extent="unknown" unit="character" cert="low"/>
+                    <lb n="1"/><w>Ἐνθάδε</w> <name><w> κ<supplied reason="lost">εῖται</supplied></w></name>
+                    <lb n="2"/><persName type="attested"><name><w>Εὔπλουτ<supplied reason="lost">ος</supplied></w></name></persName> <w><supplied reason="lost">ζήσας</supplied></w>
+                    <lb n="3"/><w>ἔτη</w> <num value="10"><w>δεκ<supplied reason="lost">α</supplied></w></num> <gap reason="lost" extent="unknown" unit="character" cert="low"/>
                 </ab>
             </div>
             <div type="apparatus" resp="#martaf">

@@ -192,9 +192,9 @@
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
                     <lb n="1"/><w><expan><abbr>d</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>m</abbr><ex>anibus</ex></expan></w>
-                    <lb n="2"/><name><expan><abbr>M</abbr><ex>arcus</ex></expan></name> <g ref="#interpunct">·</g> <name><expan><abbr>Volumni</abbr><ex>us</ex></expan></name> <name>Eratus</name>
-                    <lb n="3"/><w><expan><abbr>v</abbr><ex>ixit</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>a</abbr><ex>nnos</ex></expan></w> <g ref="#interpunct">·</g> <num value="37">XXXVII</num> <g ref="#interpunct">·</g> <w><expan><abbr>m</abbr><ex>enses</ex></expan></w> <g ref="#interpunct">·</g> <num value="7">VII</num>
-                    <lb n="4"/><name><expan><abbr>C</abbr><ex>aius</ex></expan></name> <g ref="#interpunct">·</g> <name>Ancitus</name> <g ref="#interpunct">·</g> <w><hi rend="ligature">am</hi>ico</w> <g ref="#interpunct">·</g> <w><expan><abbr><hi rend="ligature" xml:id="h1"><am>m</am></hi></abbr><ex>emoriam</ex></expan></w> <w><expan><abbr><hi rend="ligature" xml:id="h2"><am>p</am></hi></abbr><ex>osuit</ex></expan></w> <link target="#h1 #h2"/>
+                    <lb n="2"/><name><w><expan><abbr>M</abbr><ex>arcus</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w><expan><abbr>Volumni</abbr><ex>us</ex></expan></w></name> <name><w>Eratus</w></name>
+                    <lb n="3"/><w><expan><abbr>v</abbr><ex>ixit</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>a</abbr><ex>nnos</ex></expan></w> <g ref="#interpunct">·</g> <num value="37"><w>XXXVII</w></num> <g ref="#interpunct">·</g> <w><expan><abbr>m</abbr><ex>enses</ex></expan></w> <g ref="#interpunct">·</g> <num value="7"><w>VII</w></num>
+                    <lb n="4"/><name><w><expan><abbr>C</abbr><ex>aius</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w>Ancitus</w></name> <g ref="#interpunct">·</g> <w><hi rend="ligature">am</hi>ico</w> <g ref="#interpunct">·</g> <w><expan><abbr><hi rend="ligature" xml:id="h1"><am>m</am></hi></abbr><ex>emoriam</ex></expan></w> <w><expan><abbr><hi rend="ligature" xml:id="h2"><am>p</am></hi></abbr><ex>osuit</ex></expan></w> <link target="#h1 #h2"/>
                 </ab>
             </div>
             <div type="apparatus">

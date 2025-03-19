@@ -194,7 +194,7 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
                     <lb n="1"/><w>Ἰεναρία</w>
-                    <lb n="2"/><name>Κυριακός</name> <w><expan><abbr><am>Σ</am><am><g ref="#christogram">☧</g></am><am>Ω</am></abbr><ex>χριστὸς</ex><ex>σωτήρ</ex></expan></w>
+                    <lb n="2"/><name><w>Κυριακός</w></name> <w><expan><abbr><am>Σ</am><am><g ref="#christogram">☧</g></am><am>Ω</am></abbr><ex>χριστὸς</ex><ex>σωτήρ</ex></expan></w>
                     <lb n="2a"/><g ref="#figure_zoomorphic"/>
                 </ab>
             </div>

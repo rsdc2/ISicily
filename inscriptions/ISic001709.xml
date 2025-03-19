@@ -176,8 +176,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JMP">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name>Ἑρμιόνη</name>
-                    <lb n="2"/><persName type="attested"><name type="patronym">Μάξιμοῦ</name></persName></persName>
+                    <lb n="1"/><persName type="attested"><name><w>Ἑρμιόνη</w></name>
+                    <lb n="2"/><persName type="attested"><name type="patronym"><w>Μάξιμοῦ</w></name></persName></persName>
                 </ab>
             </div>
             <div type="apparatus">

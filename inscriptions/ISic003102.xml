@@ -191,10 +191,10 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
                     <lb n="1"/><w><supplied reason="lost">Ἐτ</supplied>ελεύτησεν</w>
-                    <lb n="2"/><name><supplied reason="lost">Βενο</supplied>ῦστος</name>
+                    <lb n="2"/><name><w><supplied reason="lost">Βενο</supplied>ῦστος</w></name>
                     <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <w><expan><abbr><supplied reason="lost">ὀκ</supplied>τωβ</abbr><ex>ρίων</ex></expan></w>
-                    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost"><roleName type="supracivic" subtype="consul">ὑπατίᾳ</roleName></supplied></w> <name>Ἀλβεί
-                    <lb n="5" break="no"/><supplied reason="lost">νου</supplied></name> <w><supplied reason="lost">ζ</supplied>ῆσας</w>
+                    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost"><roleName type="supracivic" subtype="consul">ὑπατίᾳ</roleName></supplied></w> <name><w>Ἀλβεί
+                    <lb n="5" break="no"/><supplied reason="lost">νου</supplied></w></name> <w><supplied reason="lost">ζ</supplied>ῆσας</w>
                     <lb n="6"/><gap reason="lost" extent="unknown" unit="character"/> <orig>ΗΝΛΣΙ</orig>
                 </ab>
             </div>

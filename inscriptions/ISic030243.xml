@@ -177,7 +177,7 @@
                     <milestone unit="face" n="a"/>
                     <lb n="1"/><orig>ΗΕ<unclear>Σ</unclear>ΑΡ</orig><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="2"/><orig>Μ<gap reason="illegible" quantity="1" unit="character"/>Δ</orig><milestone unit="face" n="b"/>
-                    <lb n="3"/><num value="5">πέν<supplied reason="lost">πτα</supplied></num>
+                    <lb n="3"/><num value="5"><w>πέν<supplied reason="lost">πτα</supplied></w></num>
                 </ab>
             </div>
             <div type="apparatus">

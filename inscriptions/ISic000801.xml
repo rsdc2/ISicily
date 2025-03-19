@@ -203,7 +203,7 @@
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w>CILIV</w> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <name>R</name> <g ref="#interpunct">·</g> <name>S</name> <g ref="#interpunct">·</g> <name>P</name> <g ref="#interpunct">·</g> <w>IN<unclear>O</unclear></w> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <name><w>R</w></name> <g ref="#interpunct">·</g> <name><w>S</w></name> <g ref="#interpunct">·</g> <name><w>P</w></name> <g ref="#interpunct">·</g> <w>IN<unclear>O</unclear></w> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>
             <div type="apparatus">

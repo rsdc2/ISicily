@@ -187,8 +187,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#AA">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name>Δομεστι
-                    <lb n="2" break="no"/>κὰ</name></persName> <w>χαῖρε</w>
+                    <lb n="1"/><persName type="attested"><name><w>Δομεστι
+                    <lb n="2" break="no"/>κὰ</w></name></persName> <w>χαῖρε</w>
                 </ab>
             </div>
             <div type="apparatus">

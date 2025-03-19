@@ -187,10 +187,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name><expan><abbr>L</abbr><ex>ucius</ex></expan></name> <g ref="#interpunct">·</g> <name>Iulius</name> <g ref="#interpunct">·</g> <persName type="attested"><name type="patronym"><expan><abbr>L</abbr><ex>uci</ex></expan></name></persName> <g ref="#interpunct">·</g> <w><expan><abbr>f</abbr><ex>ilius</ex></expan></w> <g ref="#interpunct">·</g> <orgName><name><expan><abbr>Quir</abbr><ex>ina</ex></expan></name></orgName> <w><supplied reason="subaudible">tribu</supplied></w>
-                    <lb n="2"/><name>Attilianus</name></persName>
-                    <lb n="3"/><w><expan><abbr>vix</abbr><ex>it</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>an</abbr><ex>nis</ex></expan></w> <g ref="#interpunct">·</g> <num value="19">XIX</num>
-                    <lb n="4"/><w><expan><abbr>mens</abbr><ex>ibus</ex></expan></w> <g ref="#interpunct">·</g> <num value="7">VII</num> <g ref="#interpunct">·</g> <w><expan><abbr>d</abbr><ex>iebus</ex></expan></w> <g ref="#interpunct">·</g> <num value="14">XIIII</num>
+                    <lb n="1"/><persName type="attested"><name><w><expan><abbr>L</abbr><ex>ucius</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w>Iulius</w></name> <g ref="#interpunct">·</g> <persName type="attested"><name type="patronym"><w><expan><abbr>L</abbr><ex>uci</ex></expan></w></name></persName> <g ref="#interpunct">·</g> <w><expan><abbr>f</abbr><ex>ilius</ex></expan></w> <g ref="#interpunct">·</g> <orgName><name><w><expan><abbr>Quir</abbr><ex>ina</ex></expan></w></name></orgName> <w><supplied reason="subaudible">tribu</supplied></w>
+                    <lb n="2"/><name><w>Attilianus</w></name></persName>
+                    <lb n="3"/><w><expan><abbr>vix</abbr><ex>it</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>an</abbr><ex>nis</ex></expan></w> <g ref="#interpunct">·</g> <num value="19"><w>XIX</w></num>
+                    <lb n="4"/><w><expan><abbr>mens</abbr><ex>ibus</ex></expan></w> <g ref="#interpunct">·</g> <num value="7"><w>VII</w></num> <g ref="#interpunct">·</g> <w><expan><abbr>d</abbr><ex>iebus</ex></expan></w> <g ref="#interpunct">·</g> <num value="14"><w>XIIII</w></num>
                 </ab>
             </div>
             <div type="apparatus">

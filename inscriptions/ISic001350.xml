@@ -192,16 +192,16 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#AA">
                 <ab>
-                    <lb n="1"/><name><expan><abbr>Βονιφα</abbr><ex>τίου</ex></expan></name> <g ref="#staurogram">⳨</g> <w>μ<hi rend="ligature">νε</hi>μνῖον</w>
+                    <lb n="1"/><name><w><expan><abbr>Βονιφα</abbr><ex>τίου</ex></expan></w></name> <g ref="#staurogram">⳨</g> <w>μ<hi rend="ligature">νε</hi>μνῖον</w>
                     <lb n="2"/><w>ἡ</w> <w>τῶν</w> <w><choice><orig>πολῶν</orig><reg>πολλῶν</reg></choice></w> <w>θλίψεων</w> <w>ὑπωμο<hi rend="ligature">νὴ</hi></w> <w>ἐλπίδα</w>
                     <lb n="3"/><w>σωτηρίας</w> <w>κατεργάζετε</w> <w>πᾶσιν</w> <w>οὖ<hi rend="ligature" xml:id="lig1">ν</hi></w> <w><hi rend="ligature" xml:id="lig2">ἡμ</hi>ῖν</w> <w>τοῖς</w> <w>πο<link target="#lig1 #lig2"/>
                     <lb n="4" break="no"/>θοῦσιν</w> <w>ζωῆς</w> <w>αἰωνίου</w> <w>τυχῖν</w> <w>προσκίσθω</w> <w>καὶ</w> <w>ἡ</w> <w>τῆς</w>
                     <lb n="5"/><w>ὑπομο<hi rend="ligature">νῆ</hi>ς</w> <w>πρᾶξις</w> <w>δι’</w> <w>ἧς</w> <w><expan><abbr><hi rend="tail">κ</hi></abbr><ex>αὶ</ex></expan></w> <w>πολλοὶ</w> <w>ζωῆς</w> <w>οὐρανίου</w> <w>ἒτυχον</w>
-                    <lb n="6"/><w>ὅθεν</w> <w>κἀγὼ</w> <w>ὁ</w> <w>πάμπαν</w> <w>ἁμαρτωλὸς</w> <w>ηὐξά<hi rend="ligature">μνη</hi></w> <w>τοῦ</w> <name>Βίου</name>
+                    <lb n="6"/><w>ὅθεν</w> <w>κἀγὼ</w> <w>ὁ</w> <w>πάμπαν</w> <w>ἁμαρτωλὸς</w> <w>ηὐξά<hi rend="ligature">μνη</hi></w> <w>τοῦ</w> <name><w>Βίου</w></name>
                     <lb n="7"/><w>τούτου</w> <w>τ<hi rend="ligature">ὴν</hi></w> <w>παροικίαν</w> <w><supplied reason="omitted" cert="low">τ</supplied>ά<supplied reason="omitted" cert="low">χ</supplied>ιον</w> <w>ἐκφυγῖν</w> <w><expan><abbr>κ</abbr><ex>αί</ex></expan></w> <w>γε</w> <w>εὐξά
                     <lb n="8" break="no"/>μενος</w> <w>τούτου</w> <w>ἒτυχον</w> <w>μ<supplied reason="omitted">ετ</supplied>ὰ</w> <w>τ<hi rend="ligature">ὴν</hi></w> <w>ἐκ</w> <w>τοῦ</w> <w>βίου</w> <w>ἐπὶ</w> <w>τ<hi rend="ligature">ὴν</hi></w>
                     <lb n="9"/><w>δικαιωσύ<hi rend="ligature">νην</hi></w> <w>μεταβολ<hi rend="ligature">ὴν</hi></w> <w>ἀ<supplied reason="omitted">π</supplied>ὸ</w> <w>παντὸς</w> <w>τοὶνυν</w> <w>τοῦ</w>
-                    <lb n="10"/><w>ἀνεσθήτου</w> <w>βίου</w> <w>ἡ</w> <w><supplied reason="omitted">κ</supplied>οίμα<supplied reason="omitted">σι</supplied>ς</w> <w>δοθήτω</w> <w>μετὰ</w> <w>τῆς</w> <w>ἐν</w> <name><expan><abbr>Χρ</abbr><ex>ιστ</ex><abbr>ῷ</abbr></expan></name>
+                    <lb n="10"/><w>ἀνεσθήτου</w> <w>βίου</w> <w>ἡ</w> <w><supplied reason="omitted">κ</supplied>οίμα<supplied reason="omitted">σι</supplied>ς</w> <w>δοθήτω</w> <w>μετὰ</w> <w>τῆς</w> <w>ἐν</w> <name><w><expan><abbr>Χρ</abbr><ex>ιστ</ex><abbr>ῷ</abbr></expan></w></name>
                     <lb n="11"/><w>συνδούλης</w> <w>μου</w> <w><expan><abbr><hi rend="tail">κ</hi></abbr><ex>αὶ</ex></expan></w> <w><supplied reason="omitted">γ</supplied>λυ<supplied reason="lost">κυ</supplied>τά<hi rend="ligature">τη</hi>ς</w> <w>μου</w> <w><hi rend="ligature">μη</hi>τρός</w> <g ref="#staurogram">⳨</g>
                 </ab>
             </div>

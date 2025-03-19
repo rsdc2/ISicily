@@ -195,12 +195,12 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <name><expan><abbr>M</abbr><ex>anibus</ex></expan></name> <w><expan><abbr>s</abbr><ex>acrum</ex></expan></w>
-                    <lb n="2"/><name>Aihrodisia</name>
-                    <lb n="3"/><w>vixit</w> <w><expan><abbr>ann</abbr><ex>is</ex></expan></w> <num value="12">XII</num>
-                    <lb n="4"/><name>Quarta</name> <g ref="#interpunct">·</g> <w>vixii</w>
-                    <lb n="5"/><w><expan><abbr>ann</abbr><ex>is</ex></expan></w> <num value="14">XIIII</num> <w><expan><abbr>fec</abbr><ex>it</ex></expan></w>
-                    <lb n="6"/><name>Eutychia</name> <w>mater</w>
+                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <name><w><expan><abbr>M</abbr><ex>anibus</ex></expan></w></name> <w><expan><abbr>s</abbr><ex>acrum</ex></expan></w>
+                    <lb n="2"/><name><w>Aihrodisia</w></name>
+                    <lb n="3"/><w>vixit</w> <w><expan><abbr>ann</abbr><ex>is</ex></expan></w> <num value="12"><w>XII</w></num>
+                    <lb n="4"/><name><w>Quarta</w></name> <g ref="#interpunct">·</g> <w>vixii</w>
+                    <lb n="5"/><w><expan><abbr>ann</abbr><ex>is</ex></expan></w> <num value="14"><w>XIIII</w></num> <w><expan><abbr>fec</abbr><ex>it</ex></expan></w>
+                    <lb n="6"/><name><w>Eutychia</w></name> <w>mater</w>
                 </ab>
             </div>
             <div type="apparatus">

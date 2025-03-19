@@ -186,9 +186,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="scx-Grek" resp="#VM">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name type="idionym">Δαμαίνε
-                    <lb n="2"/>τος</name> <persName type="attested"><name type="patronym">Μνα
-                    <lb n="3"/>σία</name></persName></persName>
+                    <lb n="1"/><persName type="attested"><name type="idionym"><w>Δαμαίνε
+                    <lb n="2"/>τος</w></name> <persName type="attested"><name type="patronym"><w>Μνα
+                    <lb n="3"/>σία</w></name></persName></persName>
                 </ab>
             </div>
             <div type="edition" xml:space="preserve" subtype="transliteration" xml:lang="scx-Latn">

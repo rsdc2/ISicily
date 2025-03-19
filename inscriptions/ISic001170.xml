@@ -220,8 +220,8 @@
                 <div type="textpart" subtype="section" n="b">
                     <ab>
                         <cb n="2"/>
-                        <lb n="1"/><persName type="attested"><name>Ἡραΐ</name>
-                        <lb n="2"/><persName><name type="patronym">Ἡρύλου</name></persName>
+                        <lb n="1"/><persName type="attested"><name><w>Ἡραΐ</w></name>
+                        <lb n="2"/><persName><name type="patronym"><w>Ἡρύλου</w></name></persName>
                         <lb n="3"/><w>θυγάτηρ</w></persName>
                         <lb n="4"/><w>χαῖρε</w>
                     </ab>

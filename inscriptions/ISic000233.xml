@@ -193,7 +193,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#VM">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>D</abbr><ex>ecimus</ex></expan></w> <g ref="#interpunct">·</g> <name>Vibius</name> <g ref="#interpunct">·</g> <name><expan><abbr>C</abbr><ex>ai</ex></expan></name> <g ref="#interpunct">·</g> <w><expan><abbr>f</abbr><ex>ilius</ex></expan></w> <g ref="#interpunct">·</g> <name><expan><abbr>Cla</abbr><ex>udia</ex></expan></name> <g ref="#interpunct">·</g> <name><unclear>Tu</unclear>scu<supplied reason="lost">s</supplied></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><w><expan><abbr>D</abbr><ex>ecimus</ex></expan></w> <g ref="#interpunct">·</g> <name><w>Vibius</w></name> <g ref="#interpunct">·</g> <name><w><expan><abbr>C</abbr><ex>ai</ex></expan></w></name> <g ref="#interpunct">·</g> <w><expan><abbr>f</abbr><ex>ilius</ex></expan></w> <g ref="#interpunct">·</g> <name><w><expan><abbr>Cla</abbr><ex>udia</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w><unclear>Tu</unclear>scu<supplied reason="lost">s</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>
             <div type="apparatus">

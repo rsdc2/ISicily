@@ -231,14 +231,14 @@
       <body>
          <div type="edition" xml:space="preserve" xml:lang="grc" resp="#RDS">
                 <ab>
-                    <lb n="1"/><handShift new="#m1"/><w><unclear>ἐ</unclear>π<unclear>ὶ</unclear></w> <w>ἱαραπ<supplied reason="lost">όλ</supplied>ο<supplied reason="lost">υ</supplied></w> <gap reason="lost" extent="7" unit="character" precision="medium"/> <w><supplied reason="lost">τ</supplied>οῦ</w> <name>Διογένεο<hi rend="stacked">ς</hi></name>
-                    <lb n="2"/><w>μη<subst><del rend="corrected">ο</del><add place="overstrike">ν</add></subst>ὸς</w> <name>Ἀπελλαίου</name> <num value="11">ἑνδ<supplied reason="lost">εκ</supplied>άτ<unclear>αι</unclear></num> <w>ἱσταμένου</w>
-                    <lb n="3"/><name>Κληναγόρα</name> <name>Ἀρίστωνο<supplied reason="lost">ς</supplied></name> <w><supplied reason="lost">ο</supplied>ἰκήαν</w> <w>πρίατο</w> <w>πὰρ</w> <name>Ἀγα<surplus>σ</surplus>
-                    <lb n="4" break="no"/>τετόρων</name> <w>ταλάντων</w> <space extent="unknown" unit="character"/>
-                    <lb n="5"/><w>θοκλέος</w> <g type="interpunct">·</g> <name><unclear>Ἄ</unclear><supplied reason="lost">μπο</supplied>χοι</name> <g type="interpunct">·</g> <handShift new="#m2"/><name>Λίσσος</name> <name>Θαρσύνοντος</name>
-                    <lb n="6"/><handShift new="#m3"/><name>Ἱάρων</name> <name>Ἀγα<unclear>θά</unclear>ρχο<subst><del rend="corrected">ι</del><add place="overstrike">υ</add></subst></name> <handShift new="#m4"/><name>Τίμων</name> <name>Ξένωνος</name> <space unit="character" quantity="3"/>
-                    <lb n="7"/><handShift new="#m5"/><name>Διονύσιος</name> <name>Φιλίνου</name> <space unit="character" extent="unknown"/>
-                    <lb n="8"/><handShift new="#m6"/><name>Ἱπποσ<supplied reason="omitted">θ</supplied>ένης</name> <name>Πράτωνος</name> <space unit="character" extent="unknown"/>
+                    <lb n="1"/><handShift new="#m1"/><w><unclear>ἐ</unclear>π<unclear>ὶ</unclear></w> <w>ἱαραπ<supplied reason="lost">όλ</supplied>ο<supplied reason="lost">υ</supplied></w> <gap reason="lost" extent="7" unit="character" precision="medium"/> <w><supplied reason="lost">τ</supplied>οῦ</w> <name><w>Διογένεο<hi rend="stacked">ς</hi></w></name>
+                    <lb n="2"/><w>μη<subst><del rend="corrected">ο</del><add place="overstrike">ν</add></subst>ὸς</w> <name><w>Ἀπελλαίου</w></name> <num value="11"><w>ἑνδ<supplied reason="lost">εκ</supplied>άτ<unclear>αι</unclear></w></num> <w>ἱσταμένου</w>
+                    <lb n="3"/><name><w>Κληναγόρα</w></name> <name><w>Ἀρίστωνο<supplied reason="lost">ς</supplied></w></name> <w><supplied reason="lost">ο</supplied>ἰκήαν</w> <w>πρίατο</w> <w>πὰρ</w> <name><w>Ἀγα<surplus>σ</surplus>
+                    <lb n="4" break="no"/>τετόρων</w></name> <w>ταλάντων</w> <space extent="unknown" unit="character"/>
+                    <lb n="5"/><w>θοκλέος</w> <g type="interpunct">·</g> <name><w><unclear>Ἄ</unclear><supplied reason="lost">μπο</supplied>χοι</w></name> <g type="interpunct">·</g> <handShift new="#m2"/><name><w>Λίσσος</w></name> <name><w>Θαρσύνοντος</w></name>
+                    <lb n="6"/><handShift new="#m3"/><name><w>Ἱάρων</w></name> <name><w>Ἀγα<unclear>θά</unclear>ρχο<subst><del rend="corrected">ι</del><add place="overstrike">υ</add></subst></w></name> <handShift new="#m4"/><name><w>Τίμων</w></name> <name><w>Ξένωνος</w></name> <space unit="character" quantity="3"/>
+                    <lb n="7"/><handShift new="#m5"/><name><w>Διονύσιος</w></name> <name><w>Φιλίνου</w></name> <space unit="character" extent="unknown"/>
+                    <lb n="8"/><handShift new="#m6"/><name><w>Ἱπποσ<supplied reason="omitted">θ</supplied>ένης</w></name> <name><w>Πράτωνος</w></name> <space unit="character" extent="unknown"/>
                     <lb n="9"/><space unit="line" extent="unknown"/>
                 </ab>
          </div>

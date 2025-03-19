@@ -181,8 +181,8 @@
                 </div>
                 <div type="textpart" subtype="section" n="2">
                     <ab>
-                        <lb n="1"/><persName><name type="idionym">Σ<supplied reason="lost">ο̄</supplied>σία<supplied reason="lost">ς</supplied></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
-                        <lb n="2"/><num value="3">τρίτα<supplied reason="lost">ς</supplied></num>
+                        <lb n="1"/><persName><name type="idionym"><w>Σ<supplied reason="lost">ο̄</supplied>σία<supplied reason="lost">ς</supplied></w></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
+                        <lb n="2"/><num value="3"><w>τρίτα<supplied reason="lost">ς</supplied></w></num>
                         <lb n="3"/><w>ἀπὸ</w> <w>νε̄́<supplied reason="lost">τας</supplied></w>
                     </ab>
                 </div>
@@ -190,7 +190,7 @@
                 <milestone unit="face" n="b"/>
                 <div type="textpart" subtype="section" n="b">
                     <ab>
-                        <lb n="1"/><num value="3"><supplied reason="lost">τρί</supplied>τας</num>
+                        <lb n="1"/><num value="3"><w><supplied reason="lost">τρί</supplied>τας</w></num>
                         <lb n="2"/><w><supplied reason="lost">ἀπὸ</supplied></w> <w>νε̄́<supplied reason="lost">τας</supplied></w>
                         <lb n="3"/><w><supplied reason="lost">τέ</supplied>θνα<supplied reason="lost">κε</supplied></w>
                     </ab>

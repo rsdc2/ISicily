@@ -194,16 +194,16 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/><w><supplied reason="lost">ἐπὶ</supplied></w> <w><supplied reason="lost">τοῦ</supplied></w> <gap reason="lost" extent="unknown" unit="character"/> <w>διος</w> <name>Ἀφροδίται</name>
-                    <lb n="2"/><w>ἄρχοντες</w> <name>Ἐπιτ</name> <gap reason="lost" extent="unknown" unit="character"/> <orig>Χ</orig><gap reason="lost" extent="unknown" unit="character"/> <orig>Σ</orig>
-                    <lb n="3"/><name>Ἀρχάγαθος</name> <w>κ<supplied reason="lost">αὶ</supplied></w> <name>Ἡρακλείδας</name> <name>Ἡρακλείδα</name>
-                    <lb n="4"/><name>Ἀγάθαρχος</name> <name>Δαμοκλῆς</name> <name>Ἀρτέμωνος</name>
-                    <lb n="5"/><name>Φίντων</name> <name>Φιλι</name> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="6"/><name>Διονύσιος</name> <name>Ἡρακλείδα</name>
-                    <lb n="7"/><name>Σῶσις</name> <name>Ἀριστοκλέος</name>
-                    <lb n="8"/><name>Ἡρακλείδας</name> <name>Διόδωρος</name> <name>Διοδώρου</name>
-                    <lb n="9"/><name>Ἀπο</name> <gap reason="lost" extent="unknown" unit="character"/> <orig>ΥΣΜΙ</orig><gap reason="lost" extent="unknown" unit="character"/> <orig>Α</orig>
-                    <lb n="10"/><name>Δαμοκλῆς</name> <name>Δαματρίου</name>
+                    <lb n="1"/><w><supplied reason="lost">ἐπὶ</supplied></w> <w><supplied reason="lost">τοῦ</supplied></w> <gap reason="lost" extent="unknown" unit="character"/> <w>διος</w> <name><w>Ἀφροδίται</w></name>
+                    <lb n="2"/><w>ἄρχοντες</w> <name><w>Ἐπιτ</w></name> <gap reason="lost" extent="unknown" unit="character"/> <orig>Χ</orig><gap reason="lost" extent="unknown" unit="character"/> <orig>Σ</orig>
+                    <lb n="3"/><name><w>Ἀρχάγαθος</w></name> <w>κ<supplied reason="lost">αὶ</supplied></w> <name><w>Ἡρακλείδας</w></name> <name><w>Ἡρακλείδα</w></name>
+                    <lb n="4"/><name><w>Ἀγάθαρχος</w></name> <name><w>Δαμοκλῆς</w></name> <name><w>Ἀρτέμωνος</w></name>
+                    <lb n="5"/><name><w>Φίντων</w></name> <name><w>Φιλι</w></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="6"/><name><w>Διονύσιος</w></name> <name><w>Ἡρακλείδα</w></name>
+                    <lb n="7"/><name><w>Σῶσις</w></name> <name><w>Ἀριστοκλέος</w></name>
+                    <lb n="8"/><name><w>Ἡρακλείδας</w></name> <name><w>Διόδωρος</w></name> <name><w>Διοδώρου</w></name>
+                    <lb n="9"/><name><w>Ἀπο</w></name> <gap reason="lost" extent="unknown" unit="character"/> <orig>ΥΣΜΙ</orig><gap reason="lost" extent="unknown" unit="character"/> <orig>Α</orig>
+                    <lb n="10"/><name><w>Δαμοκλῆς</w></name> <name><w>Δαματρίου</w></name>
                     <lb n="11"/><gap reason="lost" extent="unknown" unit="character"/> <orig>ΟΡΘΩ</orig><gap reason="lost" extent="unknown" unit="character"/> <orig>Λ</orig><gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>

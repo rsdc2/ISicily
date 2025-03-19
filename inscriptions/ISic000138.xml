@@ -212,9 +212,9 @@
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#TA #JP">
                 <ab>
                     <lb n="1" xml:id="ANεAK"/><w xml:id="ANεAU"><expan xml:id="ANεAe"><abbr xml:id="ANεAo">d</abbr><ex xml:id="ANεAy">is</ex></expan></w> <g ref="#ivy-leaf" xml:id="ANεAΙ">❦</g> <w xml:id="ANεAΤ"><expan xml:id="ANεAε"><abbr xml:id="ANεAο">m</abbr><ex xml:id="ANεBA">anibus</ex></expan></w>
-                    <lb n="2" xml:id="ANεBK"/><name xml:id="ANεBU">Caecin<unclear xml:id="ANεBe">i</unclear><supplied reason="lost" xml:id="ANεBo">a</supplied></name>
-                    <lb n="3" xml:id="ANεBy"/><name xml:id="ANεBΙ">Sozus<supplied reason="lost" xml:id="ANεBΤ">a</supplied></name>
-                    <lb n="4" xml:id="ANεBε"/><w xml:id="ANεBο"><expan xml:id="ANεCA"><abbr xml:id="ANεCK">v</abbr><ex xml:id="ANεCU">ixit</ex></expan></w> <g ref="#ivy-leaf" xml:id="ANεCe">❦</g> <w xml:id="ANεCo"><expan xml:id="ANεCy"><abbr xml:id="ANεCΙ">a</abbr><ex xml:id="ANεCΤ">nnis</ex></expan></w> <g ref="#ivy-leaf" xml:id="ANεCε">❦</g> <num atLeast="55" xml:id="ANεCο">L<unclear xml:id="ANεDA">X</unclear></num> <gap reason="lost" extent="unknown" unit="character" cert="low" xml:id="ANεDK"/>
+                    <lb n="2" xml:id="ANεBK"/><name xml:id="ANεBU"><w>Caecin<unclear xml:id="ANεBe">i</unclear><supplied reason="lost" xml:id="ANεBo">a</supplied></w></name>
+                    <lb n="3" xml:id="ANεBy"/><name xml:id="ANεBΙ"><w>Sozus<supplied reason="lost" xml:id="ANεBΤ">a</supplied></w></name>
+                    <lb n="4" xml:id="ANεBε"/><w xml:id="ANεBο"><expan xml:id="ANεCA"><abbr xml:id="ANεCK">v</abbr><ex xml:id="ANεCU">ixit</ex></expan></w> <g ref="#ivy-leaf" xml:id="ANεCe">❦</g> <w xml:id="ANεCo"><expan xml:id="ANεCy"><abbr xml:id="ANεCΙ">a</abbr><ex xml:id="ANεCΤ">nnis</ex></expan></w> <g ref="#ivy-leaf" xml:id="ANεCε">❦</g> <num atLeast="55" xml:id="ANεCο"><w>L<unclear xml:id="ANεDA">X</unclear></w></num> <gap reason="lost" extent="unknown" unit="character" cert="low" xml:id="ANεDK"/>
                 </ab>
             </div>
             <div type="apparatus" resp="#JP">

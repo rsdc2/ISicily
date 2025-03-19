@@ -190,7 +190,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="scx-Grek" resp="#VM">
                 <ab>
-                    <lb n="1"/><persName cert="low"><name type="idionym">Μαιο</name></persName>
+                    <lb n="1"/><persName cert="low"><name type="idionym"><w>Μαιο</w></name></persName>
                 </ab>
             </div>
             <div type="edition" xml:space="preserve" subtype="transliteration" xml:lang="scx-Latn">

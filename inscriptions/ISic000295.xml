@@ -191,8 +191,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#TNS">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <name><expan><abbr>M</abbr><ex>anibus</ex></expan></name> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="2"/><name>Thre<gap reason="lost" extent="unknown" unit="character"/></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <name><w><expan><abbr>M</abbr><ex>anibus</ex></expan></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><name><w>Thre<gap reason="lost" extent="unknown" unit="character"/></w></name> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="3"/><g ref="#sign_uninterpreted"/>
                 </ab>
             </div>

@@ -191,8 +191,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#VM #JP">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>C</abbr><ex>aio</ex></expan></w> <g ref="#interpunct">·</g> <name>Valerio</name> <g ref="#interpunct">·</g> <name><expan><abbr>C</abbr><ex>ai</ex></expan></name> <g ref="#interpunct">·</g> <w><expan><abbr>f</abbr><ex>ilio</ex></expan></w> <g ref="#interpunct">·</g> <name><expan><abbr><unclear>Q</unclear><supplied reason="lost">uir</supplied></abbr><supplied reason="lost"><ex>ina</ex></supplied></expan></name> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="2"/><name>Sepull<unclear>ae</unclear></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><w><expan><abbr>C</abbr><ex>aio</ex></expan></w> <g ref="#interpunct">·</g> <name><w>Valerio</w></name> <g ref="#interpunct">·</g> <name><w><expan><abbr>C</abbr><ex>ai</ex></expan></w></name> <g ref="#interpunct">·</g> <w><expan><abbr>f</abbr><ex>ilio</ex></expan></w> <g ref="#interpunct">·</g> <name><w><expan><abbr><unclear>Q</unclear><supplied reason="lost">uir</supplied></abbr><supplied reason="lost"><ex>ina</ex></supplied></expan></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><name><w>Sepull<unclear>ae</unclear></w></name> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="3"/><orig>TR</orig><gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>

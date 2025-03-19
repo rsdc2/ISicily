@@ -191,11 +191,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#VM">
                 <ab>
-                    <lb n="1"/><w><supplied reason="lost"><expan><abbr>D</abbr><ex>is</ex></expan></supplied></w> <name><expan><abbr>M</abbr><ex>anibus</ex></expan></name>
+                    <lb n="1"/><w><supplied reason="lost"><expan><abbr>D</abbr><ex>is</ex></expan></supplied></w> <name><w><expan><abbr>M</abbr><ex>anibus</ex></expan></w></name>
                     <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w>lius</w>
                     <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <w>lianus</w>
-                    <lb n="4"/><w><supplied reason="lost"><expan><abbr>vix</abbr><ex>it</ex></expan></supplied></w> <w><supplied reason="lost"><expan><abbr>ann</abbr><ex>is</ex></expan></supplied></w> <num value="22"> XXII</num>
-                    <lb n="5"/><w><expan><abbr><supplied reason="lost">men</supplied>s</abbr><ex>ibus</ex></expan></w> <g ref="#interpunct">·</g> <num value="9">VIIII</num>
+                    <lb n="4"/><w><supplied reason="lost"><expan><abbr>vix</abbr><ex>it</ex></expan></supplied></w> <w><supplied reason="lost"><expan><abbr>ann</abbr><ex>is</ex></expan></supplied></w> <num value="22"><w> XXII</w></num>
+                    <lb n="5"/><w><expan><abbr><supplied reason="lost">men</supplied>s</abbr><ex>ibus</ex></expan></w> <g ref="#interpunct">·</g> <num value="9"><w>VIIII</w></num>
                 </ab>
             </div>
             <div type="apparatus">

@@ -212,10 +212,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1" xml:id="DAοAK"/><w xml:id="DAοAU">Δά<unclear xml:id="DAοAe">μ</unclear><supplied reason="lost" xml:id="DAοAo">ατρι</supplied></w> <w xml:id="DAοAy"><supplied reason="lost" xml:id="DAοAΙ">καὶ</supplied></w> <name xml:id="DAοAΤ"><supplied reason="lost" xml:id="DAοAε">Κόραι</supplied></name>
-                    <lb n="2" xml:id="DAοAο"/><roleName type="supracivic" subtype="basileus" xml:id="DAοBA"><w xml:id="DAοBK">βασιλ</w> <w xml:id="DAοBU"><supplied reason="lost" xml:id="DAοBe">έα</supplied></w></roleName> <name xml:id="DAοBo"><supplied reason="lost" xml:id="DAοBy">Ἱερώνυμον</supplied></name>
-                    <lb n="3" xml:id="DAοBΙ"/><roleName type="supracivic" subtype="basileus" xml:id="DAοBΤ"><w xml:id="DAοBε">βασι</w> <w xml:id="DAοBο"><supplied reason="lost" xml:id="DAοCA">λέος</supplied></w></roleName> <name xml:id="DAοCK"><supplied reason="lost" xml:id="DAοCU">Γέλωνος</supplied></name>
-                    <lb n="4" xml:id="DAοCe"/><name xml:id="DAοCo"><supplied reason="lost" xml:id="DAοCy">Συρακόσιοι</supplied></name>
+                    <lb n="1" xml:id="DAοAK"/><w xml:id="DAοAU">Δά<unclear xml:id="DAοAe">μ</unclear><supplied reason="lost" xml:id="DAοAo">ατρι</supplied></w> <w xml:id="DAοAy"><supplied reason="lost" xml:id="DAοAΙ">καὶ</supplied></w> <name xml:id="DAοAΤ"><w><supplied reason="lost" xml:id="DAοAε">Κόραι</supplied></w></name>
+                    <lb n="2" xml:id="DAοAο"/><roleName type="supracivic" subtype="basileus" xml:id="DAοBA"><w xml:id="DAοBK">βασιλ</w> <w xml:id="DAοBU"><supplied reason="lost" xml:id="DAοBe">έα</supplied></w></roleName> <name xml:id="DAοBo"><w><supplied reason="lost" xml:id="DAοBy">Ἱερώνυμον</supplied></w></name>
+                    <lb n="3" xml:id="DAοBΙ"/><roleName type="supracivic" subtype="basileus" xml:id="DAοBΤ"><w xml:id="DAοBε">βασι</w> <w xml:id="DAοBο"><supplied reason="lost" xml:id="DAοCA">λέος</supplied></w></roleName> <name xml:id="DAοCK"><w><supplied reason="lost" xml:id="DAοCU">Γέλωνος</supplied></w></name>
+                    <lb n="4" xml:id="DAοCe"/><name xml:id="DAοCo"><w><supplied reason="lost" xml:id="DAοCy">Συρακόσιοι</supplied></w></name>
                 </ab>
             </div>
             <div type="apparatus">

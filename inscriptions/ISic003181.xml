@@ -190,7 +190,7 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
                     <lb n="0"/><gap reason="lost" extent="unknown" unit="line"/>
-                    <lb n="1"/><w>πατρίδος</w> <name>Τριπόλεως</name>
+                    <lb n="1"/><w>πατρίδος</w> <name><w>Τριπόλεως</w></name>
                     <lb n="2"/><gap reason="lost" quantity="1" unit="character"/> <w>ΕΠΠΙΣΑΕΝ</w> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>

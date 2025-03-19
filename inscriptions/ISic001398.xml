@@ -192,10 +192,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#AL">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name type="idionym">Ἑρμᾶ</name></persName> <w>χρη
+                    <lb n="1"/><persName type="attested"><name type="idionym"><w>Ἑρμᾶ</w></name></persName> <w>χρη
                     <lb n="2" break="no"/>στὲ</w> <space quantity="1" unit="character"/><w>χαῖρε</w>
                     <lb n="3"/><w>ἔζησες</w> <g ref="#ivy-leaf">❦</g>
-                    <lb n="4"/><w>ἔτη</w> <num value="28"><hi rend="supraline">κη</hi></num>
+                    <lb n="4"/><w>ἔτη</w> <num value="28"><w><hi rend="supraline">κη</hi></w></num>
                 </ab>
             </div>
             <div type="apparatus">

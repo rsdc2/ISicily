@@ -194,12 +194,12 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
                     <lb n="1"/><w>ἐτελεύτη<g ref="#ivy-leaf">❦</g>
-                    <lb n="2" break="no"/>σεν</w> <g ref="#interpunct">·</g> <name>Μαρκιανὸς</name> <g ref="#interpunct">·</g>
-                    <lb n="3"/><w>μηνὶ</w> <name>Ὀκτωβρίῳ</name> <g ref="#interpunct">·</g>
+                    <lb n="2" break="no"/>σεν</w> <g ref="#interpunct">·</g> <name><w>Μαρκιανὸς</w></name> <g ref="#interpunct">·</g>
+                    <lb n="3"/><w>μηνὶ</w> <name><w>Ὀκτωβρίῳ</w></name> <g ref="#interpunct">·</g>
                     <lb n="4"/><w>κῖτε</w> <w>πυλῶνι</w>
-                    <lb n="5"/><num value="3">τρίτῳ</num> <g ref="#interpunct">·</g> <w>λανῷ</w>
-                    <lb n="6"/><num value="5">πένπτῃ</num> <w><surplus>σ</surplus></w> <w>ἐτῶν</w>
-                    <lb n="7"/><num value="37">λζ</num>
+                    <lb n="5"/><num value="3"><w>τρίτῳ</w></num> <g ref="#interpunct">·</g> <w>λανῷ</w>
+                    <lb n="6"/><num value="5"><w>πένπτῃ</w></num> <w><surplus>σ</surplus></w> <w>ἐτῶν</w>
+                    <lb n="7"/><num value="37"><w>λζ</w></num>
                 </ab>
             </div>
             <div type="apparatus">

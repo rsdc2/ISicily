@@ -186,13 +186,13 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>Θ</abbr><ex>εοῖ</ex><abbr>ς</abbr></expan></w> <g ref="#interpunct">·</g> <name><expan><abbr>Κα</abbr><ex>ταχθονίοις</ex></expan></name> <g ref="#interpunct">·</g>
+                    <lb n="1"/><w><expan><abbr>Θ</abbr><ex>εοῖ</ex><abbr>ς</abbr></expan></w> <g ref="#interpunct">·</g> <name><w><expan><abbr>Κα</abbr><ex>ταχθονίοις</ex></expan></w></name> <g ref="#interpunct">·</g>
                     <lb n="2"/><w>ἰδίῳ</w> <w>συμβίῳ</w> <gap reason="lost" unit="character" quantity="4"/>
                     <lb n="3"/><w>ὃς</w> <w>ἔζησ<supplied reason="lost">εν</supplied></w> <w>ἔτη</w> <gap reason="lost" unit="character" quantity="2"/> <orig>ΟΓ</orig>
                     <lb n="4"/><w>τὸν</w> <w>μνημόσυνον</w>
                     <lb n="5"/><w>ἐποίησε</w> <w>εὐνοίας</w>
                     <lb n="6"/><w>καὶ</w> <w>μνήμης</w> <w>ἕνεκεν</w>
-                    <lb n="7"/><name>Ἰουλία</name> <w><choice><orig>Γλμικὴ</orig><reg>Γαμικὴ</reg></choice></w> <w><choice><reg>Ἰχνατία</reg><orig>Ἰχνδτι</orig></choice></w>
+                    <lb n="7"/><name><w>Ἰουλία</w></name> <w><choice><orig>Γλμικὴ</orig><reg>Γαμικὴ</reg></choice></w> <w><choice><reg>Ἰχνατία</reg><orig>Ἰχνδτι</orig></choice></w>
                 </ab>
             </div>
             <div type="apparatus">

@@ -192,10 +192,10 @@
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#GC">
                 <ab>
                     <lb n="1"/><w>Memoriae</w>
-                    <lb n="2"/><name><expan><abbr>M</abbr><ex>arci</ex></expan></name> <g ref="#interpunct">·</g> <name>Aebuti</name> <g ref="#interpunct">·</g> <name>Vernae</name>
+                    <lb n="2"/><name><w><expan><abbr>M</abbr><ex>arci</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w>Aebuti</w></name> <g ref="#interpunct">·</g> <name><w>Vernae</w></name>
                     <lb n="3"/><w>rarissimi</w>
                     <lb n="4"/><w>exempli</w> <g ref="#interpunct">·</g> <w>amici</w>
-                    <lb n="5"/><name><expan><abbr>T</abbr><ex>itus</ex></expan></name> <g ref="#interpunct">·</g> <name>Aelius</name> <g ref="#interpunct">·</g> <name>Vernae</name>
+                    <lb n="5"/><name><w><expan><abbr>T</abbr><ex>itus</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w>Aelius</w></name> <g ref="#interpunct">·</g> <name><w>Vernae</w></name>
                     <lb n="6"/><w>amicus.</w>
                 </ab>
             </div>

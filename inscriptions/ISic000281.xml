@@ -195,7 +195,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#TA #JP">
                 <ab>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <name><supplied reason="lost" cert="low">Aur</supplied>elio</name>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <name><w><supplied reason="lost" cert="low">Aur</supplied>elio</w></name>
                     <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w part="F">rio</w>
                     <lb n="3"/><gap reason="lost" extent="unknown" unit="line"/>
                 </ab>

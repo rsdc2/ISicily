@@ -191,7 +191,7 @@
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#DEE">
                 <ab>
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="line"/>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="attested"><name type="praenomen"><expan><abbr>D</abbr><ex>ecimus</ex></expan></name> <name type="nomen">Antoniu<supplied reason="lost">s</supplied></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="attested"><name type="praenomen"><w><expan><abbr>D</abbr><ex>ecimus</ex></expan></w></name> <name type="nomen"><w>Antoniu<supplied reason="lost">s</supplied></w></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="3"/><gap reason="lost" extent="unknown" unit="line"/>
                 </ab>
             </div>

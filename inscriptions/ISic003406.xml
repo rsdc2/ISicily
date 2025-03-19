@@ -187,7 +187,7 @@
                 <ab>
                     <lb n="1"/><gap reason="illegible" unit="character" extent="unknown"/>
                     <lb n="2"/><gap reason="illegible" unit="character" quantity="2"/> <orig>Ν</orig><w>ἔζη
-                    <lb n="3" break="no"/>σεν</w> <w><choice><corr>ἔ</corr><sic>σ</sic></choice><hi rend="ligature">τη</hi></w> <num value="50"><hi rend="supraline">ν</hi></num>
+                    <lb n="3" break="no"/>σεν</w> <w><choice><corr>ἔ</corr><sic>σ</sic></choice><hi rend="ligature">τη</hi></w> <num value="50"><w><hi rend="supraline">ν</hi></w></num>
                 </ab>
             </div>
             <div type="apparatus">

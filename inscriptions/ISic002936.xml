@@ -191,8 +191,8 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
                     <lb n="1"/><roleName type="gymnasiarchos"><w>Γυμνασιάρχης</w></roleName>
-                    <lb n="2"/><name>Εὐβουλίδας</name>
-                    <lb n="3"/><name>Ἡρακλείου</name>
+                    <lb n="2"/><name><w>Εὐβουλίδας</w></name>
+                    <lb n="3"/><name><w>Ἡρακλείου</w></name>
                 </ab>
             </div>
             <div type="apparatus">

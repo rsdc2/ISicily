@@ -181,11 +181,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/><handShift new="#h1"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">Μ</supplied>υσκο̄ν</w> <g type="dipunct">:</g> <name>Δάμιος</name> <g type="dipunct">:</g> <w>τοῦ</w> <name>Κοβέτου</name>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <name><supplied reason="lost">Ἀνθ</supplied>εμόκριτος</name> <g type="dipunct">:</g> <w>ἐφίετο</w> <name>Ἄπελιν</name> <w>ἐνγυάσασθαι</w>
-                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <w><unclear>μ</unclear>α</w> <w>δὲ</w> <w>ἔφα</w> <w>εἴμειν</w> <w>κατελάζετο</w> <w>το͂ν</w> <name>Λεοντίνο̄ν</name> <w>ξε
-                    <lb n="4" break="no"/></w> <gap reason="lost" extent="unknown" unit="character"/> <name>Μύσκο̄να</name> <g type="dipunct">:</g> <w>ἐν</w> <w>τᾶι</w> <w>πλατείαι</w> <w>θο̄κέοντας</w> <gap reason="lost" extent="unknown" unit="character"/> <w>ἀργύριον</w> <w>ἔχο̄ν</w> <w>hῖκε</w> <w>βοο͂ν</w> <w>τιμάν</w> <w>οὐκ</w> <w>ἐπρίατο</w>
-                    <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/> <w><unclear>αι</unclear></w> <w>ποτ’</w> <name>Ἐνπεδοκλε͂</name> <w>τὸν</w> <name>Μνασιμάχου</name> <w>ποτε̄́νθετο</w>
+                    <lb n="1"/><handShift new="#h1"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">Μ</supplied>υσκο̄ν</w> <g type="dipunct">:</g> <name><w>Δάμιος</w></name> <g type="dipunct">:</g> <w>τοῦ</w> <name><w>Κοβέτου</w></name>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <name><w><supplied reason="lost">Ἀνθ</supplied>εμόκριτος</w></name> <g type="dipunct">:</g> <w>ἐφίετο</w> <name><w>Ἄπελιν</w></name> <w>ἐνγυάσασθαι</w>
+                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <w><unclear>μ</unclear>α</w> <w>δὲ</w> <w>ἔφα</w> <w>εἴμειν</w> <w>κατελάζετο</w> <w>το͂ν</w> <name><w>Λεοντίνο̄ν</w></name> <w>ξε
+                    <lb n="4" break="no"/></w> <gap reason="lost" extent="unknown" unit="character"/> <name><w>Μύσκο̄να</w></name> <g type="dipunct">:</g> <w>ἐν</w> <w>τᾶι</w> <w>πλατείαι</w> <w>θο̄κέοντας</w> <gap reason="lost" extent="unknown" unit="character"/> <w>ἀργύριον</w> <w>ἔχο̄ν</w> <w>hῖκε</w> <w>βοο͂ν</w> <w>τιμάν</w> <w>οὐκ</w> <w>ἐπρίατο</w>
+                    <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/> <w><unclear>αι</unclear></w> <w>ποτ’</w> <name><w>Ἐνπεδοκλε͂</w></name> <w>τὸν</w> <name><w>Μνασιμάχου</w></name> <w>ποτε̄́νθετο</w>
                     <lb n="6"/><handShift new="#h2"/><gap reason="lost" extent="unknown" unit="character"/> <w>γενέσθο̄</w> <w>ἐν<supplied reason="lost">γ</supplied>υάσασθαι</w>
                 </ab>
             </div>

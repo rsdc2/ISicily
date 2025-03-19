@@ -184,11 +184,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#IG">
                 <ab>
-                    <lb n="1"/><g ref="#star">*</g> <w>Ἐνθάδε</w> <w><choice><reg>κῖτε</reg><orig>κῖται</orig></choice></w> <name>Ἀρίστων</name>
-                    <lb n="2"/><name><expan><abbr>Κω<supplied reason="omitted">ν</supplied>σταντινοπολίτ</abbr><ex>ες</ex></expan></name> <g type="S">S</g> <!-- interpunction to be added to the list IG -->
-                    <lb n="3"/><w>τελευτᾷ</w> <w>δὲ</w> <w>ταῖς</w> <num value="7"><hi rend="supraline">ζ</hi></num>
-                    <lb n="4"/><w>τοῦ</w> <name>Αὐγούστου</name>
-                    <lb n="5"/><g ref="#alpha">Α</g> <g ref="#staurogram">𐆠</g> <g ref="#omega">Ω</g> <g corresp="#decoration.figure">pitcher</g> <w>ζήσας</w> <w>ἔτη</w> <num value="60"><hi rend="supraline">ξ</hi></num> <g corresp="#decoration.figure.animal">dove</g> <g ref="#cross_greek">🞣</g> <g corresp="#decoration.figure.animal">dove</g>
+                    <lb n="1"/><g ref="#star">*</g> <w>Ἐνθάδε</w> <w><choice><reg>κῖτε</reg><orig>κῖται</orig></choice></w> <name><w>Ἀρίστων</w></name>
+                    <lb n="2"/><name><w><expan><abbr>Κω<supplied reason="omitted">ν</supplied>σταντινοπολίτ</abbr><ex>ες</ex></expan></w></name> <g type="S">S</g> <!-- interpunction to be added to the list IG -->
+                    <lb n="3"/><w>τελευτᾷ</w> <w>δὲ</w> <w>ταῖς</w> <num value="7"><w><hi rend="supraline">ζ</hi></w></num>
+                    <lb n="4"/><w>τοῦ</w> <name><w>Αὐγούστου</w></name>
+                    <lb n="5"/><g ref="#alpha">Α</g> <g ref="#staurogram">𐆠</g> <g ref="#omega">Ω</g> <g corresp="#decoration.figure">pitcher</g> <w>ζήσας</w> <w>ἔτη</w> <num value="60"><w><hi rend="supraline">ξ</hi></w></num> <g corresp="#decoration.figure.animal">dove</g> <g ref="#cross_greek">🞣</g> <g corresp="#decoration.figure.animal">dove</g>
                 </ab>
                </div>
             <div type="apparatus">

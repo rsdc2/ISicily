@@ -192,10 +192,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#VM">
                 <ab>
-                    <lb n="1"/><w>D<hi rend="tall">i</hi>s</w> <name>Manibus</name>
-                    <lb n="2"/><name>Veronice</name> <w><expan><abbr>vix</abbr><ex>it</ex></expan></w>
-                    <lb n="3"/><w><expan><abbr>ann</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <num value="3">III</num> <g ref="#interpunct">·</g> <w><expan><abbr>m</abbr><ex>ensibus</ex></expan></w> <num value="3">III</num>
-                    <lb n="4"/><name>Damatria</name> <w><expan><abbr>mat</abbr><ex>er</ex></expan></w>
+                    <lb n="1"/><w>D<hi rend="tall">i</hi>s</w> <name><w>Manibus</w></name>
+                    <lb n="2"/><name><w>Veronice</w></name> <w><expan><abbr>vix</abbr><ex>it</ex></expan></w>
+                    <lb n="3"/><w><expan><abbr>ann</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <num value="3"><w>III</w></num> <g ref="#interpunct">·</g> <w><expan><abbr>m</abbr><ex>ensibus</ex></expan></w> <num value="3"><w>III</w></num>
+                    <lb n="4"/><name><w>Damatria</w></name> <w><expan><abbr>mat</abbr><ex>er</ex></expan></w>
                     <lb n="5"/><w><expan><abbr>fil</abbr><ex>iae</ex></expan></w> <g ref="#interpunct">·</g> <w>pi<hi rend="tall">i</hi>ssimae</w>
                 </ab>
             </div>

@@ -191,10 +191,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JH">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <name><expan><abbr>M</abbr><ex>anibus</ex></expan></name>
-                    <lb n="2"/><name><expan><abbr>L</abbr><ex>ucius</ex></expan></name> <g ref="#interpunct">·</g> <name>Silius</name> <g ref="#interpunct">·</g> <name>Dius</name>
-                    <lb n="3"/><w>fecit</w> <g ref="#interpunct">·</g> <name>Siliae</name>
-                    <lb n="4"/><name>Tychen<supplied reason="lost">i</supplied></name> <w>ma
+                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <name><w><expan><abbr>M</abbr><ex>anibus</ex></expan></w></name>
+                    <lb n="2"/><name><w><expan><abbr>L</abbr><ex>ucius</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w>Silius</w></name> <g ref="#interpunct">·</g> <name><w>Dius</w></name>
+                    <lb n="3"/><w>fecit</w> <g ref="#interpunct">·</g> <name><w>Siliae</w></name>
+                    <lb n="4"/><name><w>Tychen<supplied reason="lost">i</supplied></w></name> <w>ma
                     <lb n="5" break="no"/>tri</w> <g ref="#interpunct">·</g> <w>carissim<supplied reason="omitted">a</supplied>e</w>
                     <lb n="6"/><w><expan><abbr>b</abbr><ex>ene</ex></expan></w> <g ref="#ivy-leaf">❦</g> <w><expan><abbr>m</abbr><ex>erenti</ex></expan></w>
                 </ab>

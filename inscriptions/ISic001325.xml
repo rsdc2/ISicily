@@ -197,9 +197,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#martaf">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name>Σοσίᾳ</name> <space quantity="2" unit="character"/><name>Ἐλάτῃ</name></persName>
+                    <lb n="1"/><persName type="attested"><name><w>Σοσίᾳ</w></name> <space quantity="2" unit="character"/><name><w>Ἐλάτῃ</w></name></persName>
                     <lb n="2"/><w>γλυκυτάτῃ</w>
-                    <lb n="3"/><persName type="attested"><name>Ἀφροδείσιος</name></persName>
+                    <lb n="3"/><persName type="attested"><name><w>Ἀφροδείσιος</w></name></persName>
                     <lb n="4"/><w>σύμβιος</w>
                 </ab>
             </div>

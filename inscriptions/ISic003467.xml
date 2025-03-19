@@ -191,9 +191,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
-                    <lb n="1"/><name><expan><abbr>Q</abbr><ex>uintus</ex></expan></name> <g ref="#interpunct">·</g> <name>Lutatius</name> <g ref="#leaf">❦</g> <name><expan><abbr>Q</abbr><ex>uinti</ex></expan></name> <g ref="#leaf">❦</g> <w><expan><abbr>f</abbr><ex>ilius</ex></expan></w> <g ref="#leaf">❦</g> <name><expan><abbr>Quir</abbr><ex>ina</ex></expan></name>
-                    <lb n="2"/><name>Longinus</name> <g ref="#leaf">❦</g> <w><choice><reg>vivus</reg><orig>vivos</orig></choice></w> <w>sibi</w> <w>et</w>
-                    <lb n="3"/><name>Iuniae</name> <g ref="#leaf">❦</g> <name><expan><abbr>C</abbr><ex>ai</ex></expan></name> <g ref="#leaf">❦</g> <w><expan><abbr>f</abbr><ex>iliae</ex></expan></w> <g ref="#leaf">❦</g> <name>Verae</name>
+                    <lb n="1"/><name><w><expan><abbr>Q</abbr><ex>uintus</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w>Lutatius</w></name> <g ref="#leaf">❦</g> <name><w><expan><abbr>Q</abbr><ex>uinti</ex></expan></w></name> <g ref="#leaf">❦</g> <w><expan><abbr>f</abbr><ex>ilius</ex></expan></w> <g ref="#leaf">❦</g> <name><w><expan><abbr>Quir</abbr><ex>ina</ex></expan></w></name>
+                    <lb n="2"/><name><w>Longinus</w></name> <g ref="#leaf">❦</g> <w><choice><reg>vivus</reg><orig>vivos</orig></choice></w> <w>sibi</w> <w>et</w>
+                    <lb n="3"/><name><w>Iuniae</w></name> <g ref="#leaf">❦</g> <name><w><expan><abbr>C</abbr><ex>ai</ex></expan></w></name> <g ref="#leaf">❦</g> <w><expan><abbr>f</abbr><ex>iliae</ex></expan></w> <g ref="#leaf">❦</g> <name><w>Verae</w></name>
                     <lb n="4"/><w>uxori</w> <g ref="#leaf">❦</g> <w>sanctissimae</w> <g ref="#leaf">❦</g> <w>fecit</w>
                 </ab>
             </div>

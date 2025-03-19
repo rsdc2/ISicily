@@ -192,10 +192,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la">
                 <ab>
-                    <lb n="1"/><g ref="#cross_latin"/> <w>hic</w> <w>requiescit</w> <w>in</w> <w>pace</w> <name>Munatia</name> <name>Eul<supplied reason="lost">alia</supplied></name>
+                    <lb n="1"/><g ref="#cross_latin"/> <w>hic</w> <w>requiescit</w> <w>in</w> <w>pace</w> <name><w>Munatia</w></name> <name><w>Eul<supplied reason="lost">alia</supplied></w></name>
                     <lb n="2"/><w>religiosa</w> <w>femina</w> <w>quae</w> <w>vixit</w> <w>anno<supplied reason="lost">s</supplied></w>
-                    <lb n="3"/><w><expan><abbr>pl</abbr><ex>us</ex></expan></w> <w><expan><abbr>m</abbr><ex>inus</ex></expan></w> <num value="70">LXX</num> <w>deposita</w> <w>sub</w> <w>die</w> <w>pridie</w> <w><expan><abbr>nona</abbr><ex>s</ex></expan></w>
-                    <lb n="4"/><w>februarias</w> <name>Dydamio</name> <name>Sieidio</name> <w><expan><abbr>v<am>v</am></abbr><ex>iris</ex></expan></w> <roleName type="supracivic" subtype="clarissimus"><w><expan><abbr>c<am>c</am></abbr><ex>larissimis</ex></expan></w></roleName>
+                    <lb n="3"/><w><expan><abbr>pl</abbr><ex>us</ex></expan></w> <w><expan><abbr>m</abbr><ex>inus</ex></expan></w> <num value="70"><w>LXX</w></num> <w>deposita</w> <w>sub</w> <w>die</w> <w>pridie</w> <w><expan><abbr>nona</abbr><ex>s</ex></expan></w>
+                    <lb n="4"/><w>februarias</w> <name><w>Dydamio</w></name> <name><w>Sieidio</w></name> <w><expan><abbr>v<am>v</am></abbr><ex>iris</ex></expan></w> <roleName type="supracivic" subtype="clarissimus"><w><expan><abbr>c<am>c</am></abbr><ex>larissimis</ex></expan></w></roleName>
                 </ab>
             </div>
             <div type="apparatus">

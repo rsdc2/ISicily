@@ -204,8 +204,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM #AA">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name>Κ<supplied reason="omitted">α</supplied>νυλ
-                    <lb n="2" break="no"/>ηία</name></persName>
+                    <lb n="1"/><persName type="attested"><name><w>Κ<supplied reason="omitted">α</supplied>νυλ
+                    <lb n="2" break="no"/>ηία</w></name></persName>
                     <lb n="3"/><gap reason="lost" quantity="1" unit="character" precision="low"/> <w><unclear>ω</unclear>τη</w>
                 </ab>
             </div>

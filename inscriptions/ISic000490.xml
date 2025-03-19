@@ -189,8 +189,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>L</abbr><ex>ucio</ex></expan></w> <name>Acilio</name> <name><expan><abbr>L</abbr><ex>uci</ex></expan></name> <w><expan><abbr>f</abbr><ex>ilio</ex></expan></w>
-                    <lb n="2"/><name>Rufo</name> <roleName type="civic" subtype="duumvir"><num value="2"><hi rend="supraline">I</hi><supplied reason="lost"><hi rend="supraline">I</hi></supplied></num> <w><supplied reason="lost">viro</supplied></w></roleName>
+                    <lb n="1"/><w><expan><abbr>L</abbr><ex>ucio</ex></expan></w> <name><w>Acilio</w></name> <name><w><expan><abbr>L</abbr><ex>uci</ex></expan></w></name> <w><expan><abbr>f</abbr><ex>ilio</ex></expan></w>
+                    <lb n="2"/><name><w>Rufo</w></name> <roleName type="civic" subtype="duumvir"><num value="2"><w><hi rend="supraline">I</hi><supplied reason="lost"><hi rend="supraline">I</hi></supplied></w></num> <w><supplied reason="lost">viro</supplied></w></roleName>
                     <lb n="3"/><w>co</w> <gap reason="lost" unit="character" quantity="8" precision="low"/> <w>ter</w> <gap reason="lost" unit="character" extent="unknown"/>
                 </ab>
             </div>

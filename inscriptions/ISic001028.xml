@@ -195,18 +195,18 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/><w>ἐπὶ</w> <name>Ἡρακλείου</name> <w>τοῦ</w>
-                    <lb n="2"/><name>Νυμφοδώρου</name>
+                    <lb n="1"/><w>ἐπὶ</w> <name><w>Ἡρακλείου</w></name> <w>τοῦ</w>
+                    <lb n="2"/><name><w>Νυμφοδώρου</w></name>
                     <lb n="3"/><w>προστατεύσαν<supplied reason="omitted">τ</supplied>ες</w>
-                    <lb n="4"/><name>Ἥραι</name> <w>καὶ</w> <name>Ἀφροδίται</name>
-                    <lb n="5"/><name>Ἀριστόγειτος</name>
-                    <lb n="6"/><name>Ἀρτέμων</name> <name>Παυσανία</name>
-                    <lb n="7"/><name>Διονυσόδωρος</name>
-                    <lb n="8"/><name>Κρίθων</name> <name>Φιλιστίωνος</name>
-                    <lb n="9"/><name>Φιλιστίων</name> <name>Σώσιος</name>
-                    <lb n="10"/><name>Κλέων</name> <name>Νυμφοδώρου</name>
+                    <lb n="4"/><name><w>Ἥραι</w></name> <w>καὶ</w> <name><w>Ἀφροδίται</w></name>
+                    <lb n="5"/><name><w>Ἀριστόγειτος</w></name>
+                    <lb n="6"/><name><w>Ἀρτέμων</w></name> <name><w>Παυσανία</w></name>
+                    <lb n="7"/><name><w>Διονυσόδωρος</w></name>
+                    <lb n="8"/><name><w>Κρίθων</w></name> <name><w>Φιλιστίωνος</w></name>
+                    <lb n="9"/><name><w>Φιλιστίων</w></name> <name><w>Σώσιος</w></name>
+                    <lb n="10"/><name><w>Κλέων</w></name> <name><w>Νυμφοδώρου</w></name>
                     <lb n="11"/><roleName type="civic" subtype="grammateus"><w>γραμματεὺς</w></roleName>
-                    <lb n="12"/><name>Φιλιστίων</name>
+                    <lb n="12"/><name><w>Φιλιστίων</w></name>
                 </ab>
             </div>
             <div type="apparatus">

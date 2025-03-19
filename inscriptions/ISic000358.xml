@@ -196,10 +196,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#EK">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>L</abbr><ex>ucius</ex></expan></w> <g ref="#interpunct">·</g> <name>Lollius</name> <g ref="#interpunct">·</g>
-                    <lb n="2"/><name>Daphnus</name>
+                    <lb n="1"/><w><expan><abbr>L</abbr><ex>ucius</ex></expan></w> <g ref="#interpunct">·</g> <name><w>Lollius</w></name> <g ref="#interpunct">·</g>
+                    <lb n="2"/><name><w>Daphnus</w></name>
                     <lb n="3"/><w>hic</w> <w>situs</w> <g ref="#interpunct">·</g> <w>est</w> <g ref="#interpunct">·</g>
-                    <lb n="4"/><w>vixit</w> <w>an<hi rend="ligature">ni</hi>s</w> <g ref="#interpunct">·</g> <num value="50">L</num> <g ref="#interpunct">·</g>
+                    <lb n="4"/><w>vixit</w> <w>an<hi rend="ligature">ni</hi>s</w> <g ref="#interpunct">·</g> <num value="50"><w>L</w></num> <g ref="#interpunct">·</g>
                 </ab>
             </div>
             <div type="apparatus">

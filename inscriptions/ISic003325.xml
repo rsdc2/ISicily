@@ -188,8 +188,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name type="praenomen"><expan><abbr>L</abbr><ex>ucius</ex></expan></name> <g ref="#interpunct">·</g> <name type="nomen">Caecilius</name> <g ref="#interpunct">·</g> <persName type="attested"><name type="patronym"><expan><abbr>A</abbr><ex>uli</ex></expan></name></persName> <g ref="#interpunct">·</g> <w><expan><abbr>f</abbr><ex>ilius</ex></expan></w> <g ref="#interpunct">·</g> <name type="cognomen">Martiales</name>
-                    <lb n="2"/><name type="cognomen"><choice><orig>Apetaius</orig><reg>Aretaius</reg></choice></name></persName> <g ref="#interpunct">·</g> <roleName type="supracivic" subtype="praefectus"><w>praefectus</w></roleName>
+                    <lb n="1"/><persName type="attested"><name type="praenomen"><w><expan><abbr>L</abbr><ex>ucius</ex></expan></w></name> <g ref="#interpunct">·</g> <name type="nomen"><w>Caecilius</w></name> <g ref="#interpunct">·</g> <persName type="attested"><name type="patronym"><w><expan><abbr>A</abbr><ex>uli</ex></expan></w></name></persName> <g ref="#interpunct">·</g> <w><expan><abbr>f</abbr><ex>ilius</ex></expan></w> <g ref="#interpunct">·</g> <name type="cognomen"><w>Martiales</w></name>
+                    <lb n="2"/><name type="cognomen"><w><choice><orig>Apetaius</orig><reg>Aretaius</reg></choice></w></name></persName> <g ref="#interpunct">·</g> <roleName type="supracivic" subtype="praefectus"><w>praefectus</w></roleName>
                     <lb n="3"/><w>deos</w> <g ref="#interpunct">·</g> <w>forenses</w> <g ref="#interpunct">·</g> <w>reposuit</w> <w>templum
                     <lb n="4" break="no"/>que</w> <g ref="#interpunct">·</g> <w>eis</w> <g ref="#interpunct">·</g> <w>sua</w> <g ref="#interpunct">·</g> <w><choice><orig>pequnia</orig><reg>pecunia</reg></choice></w> <g ref="#interpunct">·</g> <w>adornavit</w>
                 </ab>

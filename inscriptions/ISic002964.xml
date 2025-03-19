@@ -192,15 +192,15 @@
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
                     <lb n="1"/><w><expan><abbr>d</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>m</abbr><ex>anibus</ex></expan></w>
-                    <lb n="2"/><name>Valeria</name> <g ref="#interpunct">·</g> <name><expan><abbr>M</abbr><ex>arci</ex></expan></name> <g ref="#interpunct">·</g> <w><expan><abbr>fil</abbr><ex>ia</ex></expan></w> <g ref="#interpunct">·</g>
-                    <lb n="3"/><name>Marcia</name>
-                    <lb n="4"/><name>Germanae</name>
+                    <lb n="2"/><name><w>Valeria</w></name> <g ref="#interpunct">·</g> <name><w><expan><abbr>M</abbr><ex>arci</ex></expan></w></name> <g ref="#interpunct">·</g> <w><expan><abbr>fil</abbr><ex>ia</ex></expan></w> <g ref="#interpunct">·</g>
+                    <lb n="3"/><name><w>Marcia</w></name>
+                    <lb n="4"/><name><w>Germanae</w></name>
                     <lb n="5"/><w>delicatae</w> <g ref="#interpunct">·</g> <w>suae</w> <g ref="#interpunct">·</g> <w><expan><abbr>fil</abbr><ex>iae</ex></expan></w> <g ref="#interpunct">·</g>
-                    <lb n="6"/><name>Marcio</name> <name>Iusto</name>
+                    <lb n="6"/><name><w>Marcio</w></name> <name><w>Iusto</w></name>
                     <lb n="7"/><w>alumno</w> <w>suo</w>
                     <lb n="8"/><w>sarcophagum</w> <w>posuit</w>
-                    <lb n="9"/><w>vixit</w> <w><expan><abbr>ann</abbr><ex>is</ex></expan></w> <num value="24">XXIIII</num> <w><expan><abbr>men</abbr><ex>se</ex></expan></w> <num value="1">uno</num>
-                    <lb n="10"/><w><expan><abbr>dieb</abbr><ex>us</ex></expan></w> <num value="10">X</num>
+                    <lb n="9"/><w>vixit</w> <w><expan><abbr>ann</abbr><ex>is</ex></expan></w> <num value="24"><w>XXIIII</w></num> <w><expan><abbr>men</abbr><ex>se</ex></expan></w> <num value="1"><w>uno</w></num>
+                    <lb n="10"/><w><expan><abbr>dieb</abbr><ex>us</ex></expan></w> <num value="10"><w>X</w></num>
                 </ab>
             </div>
             <div type="apparatus">

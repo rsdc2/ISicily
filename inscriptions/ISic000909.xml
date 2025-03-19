@@ -195,7 +195,7 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM #JP">
                 <ab>
                     <lb n="1"/><w>ἐνθάδε</w> <w>κεῖτε</w>
-                    <lb n="2"/><persName type="attested"><name>Δάφρος</name></persName> <g ref="#staurogram">𐆠</g>
+                    <lb n="2"/><persName type="attested"><name><w>Δάφρος</w></name></persName> <g ref="#staurogram">𐆠</g>
                     <lb n="3"/><w><expan><abbr>σ<am><g ref="#staurogram">𐆠</g></am>ω</abbr><ex>τήρ</ex></expan></w>
                 </ab>
             </div>

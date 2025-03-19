@@ -176,12 +176,12 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#AP">
                 <ab>
                     <lb n="1"/><w>ἐτελεύτησεν</w>
-                    <lb n="2"/><persName type="attested"><name>Παῦλος</name> <placeName type="ethnic"><name>Ἐφέ
-                    <lb n="3" break="no"/>σιος</name></placeName></persName> <w>ἐτῶν</w>
-                    <lb n="4"/><num value="50">πεντήκοντα</num>
-                    <lb n="5"/><w>τῇ</w> <w>πρό</w> <num value="3">γ</num> <w><expan><abbr>καλ</abbr><ex>ανδῶν</ex></expan></w>
-                    <lb n="6"/><name>Νοβενβρί
-                    <lb n="7" break="no"/>ων</name>
+                    <lb n="2"/><persName type="attested"><name><w>Παῦλος</w></name> <placeName type="ethnic"><name><w>Ἐφέ
+                    <lb n="3" break="no"/>σιος</w></name></placeName></persName> <w>ἐτῶν</w>
+                    <lb n="4"/><num value="50"><w>πεντήκοντα</w></num>
+                    <lb n="5"/><w>τῇ</w> <w>πρό</w> <num value="3"><w>γ</w></num> <w><expan><abbr>καλ</abbr><ex>ανδῶν</ex></expan></w>
+                    <lb n="6"/><name><w>Νοβενβρί
+                    <lb n="7" break="no"/>ων</w></name>
                 </ab>
             </div>
             <div type="apparatus">

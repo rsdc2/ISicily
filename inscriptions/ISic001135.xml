@@ -194,9 +194,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/><w>Ἀριστόδαμος</w> <name>Νεμηνίδα</name> <name>Πέρσιος</name> <w>ποιητὰς</w>
+                    <lb n="1"/><w>Ἀριστόδαμος</w> <name><w>Νεμηνίδα</w></name> <name><w>Πέρσιος</w></name> <w>ποιητὰς</w>
                     <lb n="2"/><w>τοὺς</w> <w>γονέας</w> <w>καὶ</w> <w>τὸν</w> <roleName type="paracivic" subtype="euergetes"><w>εὐεργέταν</w></roleName> <w>αὐτῶντα</w>
-                    <lb n="3"/><name>Ἀριστόδαμον</name> <name>Σιμία</name> <w>καὶ</w> <w>τὰν</w> <w>γυναῖκα</w> <w>αὐτοῦ</w>
+                    <lb n="3"/><name><w>Ἀριστόδαμον</w></name> <name><w>Σιμία</w></name> <w>καὶ</w> <w>τὰν</w> <w>γυναῖκα</w> <w>αὐτοῦ</w>
                     <lb n="4"/><w>καὶ</w> <w>τὰν</w> <w>ἰδίαν</w> <w>ἀνέστασε</w>
                 </ab>
             </div>

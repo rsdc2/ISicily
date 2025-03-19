@@ -178,7 +178,7 @@
         <body>
             <div type="edition" xml:space="preserve" subtype="PHI" n="PHI334815">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>Μ</abbr><ex>αρκίας</ex></expan></w> <g ref="#interpunct">∙</g> <name>Ἐπιγε-</name>
+                    <lb n="1"/><w><expan><abbr>Μ</abbr><ex>αρκίας</ex></expan></w> <g ref="#interpunct">∙</g> <name><w>Ἐπιγε-</w></name>
                     <lb n="2"/><w>νέας.</w>
                     <lb n="3"/>
                 </ab>

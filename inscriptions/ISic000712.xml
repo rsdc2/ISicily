@@ -186,7 +186,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <num atLeast="1360"><foreign xml:lang="grc">Χ</foreign>CCC<g ref="#early-Roman-fifty">ↆ</g><unclear>X</unclear></num> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <num atLeast="1360"><w><foreign xml:lang="grc">Χ</foreign>CCC<g ref="#early-Roman-fifty">ↆ</g><unclear>X</unclear></w></num> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>
             <div type="apparatus">

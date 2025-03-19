@@ -175,7 +175,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="xly-Grek">
                 <ab>
-                    <lb n="1"/><w><abbr>ΘΑ</abbr></w> <num value="1">Ι</num><note>uncertain interpretation</note>
+                    <lb n="1"/><w><abbr>ΘΑ</abbr></w> <num value="1"><w>Ι</w></num><note>uncertain interpretation</note>
                 </ab>
             </div>
             <div type="edition" xml:space="preserve" subtype="transliteration" xml:lang="xly-Latn">

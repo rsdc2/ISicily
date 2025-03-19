@@ -193,11 +193,11 @@
                 <ab>
                     <lb n="1"/><w>Ἐνθάδε</w> <w>κῖτε</w> <w>ὁ</w> <w>μα
                     <lb n="2" break="no"/>καρίας</w> <w>μνήμης</w>
-                    <lb n="3"/><name>Ἰωάννιος</name> <w>ὁ</w> <w>ἄμεν
+                    <lb n="3"/><name><w>Ἰωάννιος</w></name> <w>ὁ</w> <w>ἄμεν
                     <lb n="4" break="no"/>πτος</w> <w>χρηστιανὸς</w> <w>ζή
-                    <lb n="5" break="no"/>σας</w> <w><expan><abbr><hi rend="supraline">καλ</hi></abbr><ex>ῶς</ex></expan></w> <w>ἔτη</w> <num value="22"><hi rend="supraline">κβ</hi></num>
-                    <lb n="6"/><gap reason="lost" extent="unknown" unit="character"/> <w>τελευτᾷ</w> <w>πρὸ</w> <num value="3">γ</num>
-                    <lb n="7"/><w><expan><abbr>καλ</abbr><ex>άνδαις</ex></expan></w> <name>Σεπτεμβρίω<supplied reason="omitted">ν</supplied></name>
+                    <lb n="5" break="no"/>σας</w> <w><expan><abbr><hi rend="supraline">καλ</hi></abbr><ex>ῶς</ex></expan></w> <w>ἔτη</w> <num value="22"><w><hi rend="supraline">κβ</hi></w></num>
+                    <lb n="6"/><gap reason="lost" extent="unknown" unit="character"/> <w>τελευτᾷ</w> <w>πρὸ</w> <num value="3"><w>γ</w></num>
+                    <lb n="7"/><w><expan><abbr>καλ</abbr><ex>άνδαις</ex></expan></w> <name><w>Σεπτεμβρίω<supplied reason="omitted">ν</supplied></w></name>
                     <lb n="8"/><w>ἐν</w> <w>ἰρήνῃ</w>
                 </ab>
             </div>

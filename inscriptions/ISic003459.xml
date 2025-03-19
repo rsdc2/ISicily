@@ -207,9 +207,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name> <expan><abbr>P</abbr><ex>ublius</ex></expan></name> <name>Stertinius</name>
-                    <lb n="2"/><name>Threptus</name></persName>
-                    <lb n="3"/><w><choice><reg>plateam</reg><orig>platiam</orig></choice></w> <name>Aeliam</name>
+                    <lb n="1"/><persName type="attested"><name><w> <expan><abbr>P</abbr><ex>ublius</ex></expan></w></name> <name><w>Stertinius</w></name>
+                    <lb n="2"/><name><w>Threptus</w></name></persName>
+                    <lb n="3"/><w><choice><reg>plateam</reg><orig>platiam</orig></choice></w> <name><w>Aeliam</w></name>
                     <lb n="4"/><w>sua</w> <w>pecunia</w>
                     <lb n="5"/><w>stravit</w>
                 </ab>

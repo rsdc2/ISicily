@@ -192,12 +192,12 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#AL">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name type="praenomen"><expan><abbr>Μ</abbr><ex>ᾶρκος</ex></expan></name> <name type="nomen">Βαλήρις</name>
-                    <lb n="2"/><name type="cognomen">Μαρ<unclear>κ</unclear>α
-                    <lb n="3" break="no"/>ρίων</name></persName> <w>ἔ
+                    <lb n="1"/><persName type="attested"><name type="praenomen"><w><expan><abbr>Μ</abbr><ex>ᾶρκος</ex></expan></w></name> <name type="nomen"><w>Βαλήρις</w></name>
+                    <lb n="2"/><name type="cognomen"><w>Μαρ<unclear>κ</unclear>α
+                    <lb n="3" break="no"/>ρίων</w></name></persName> <w>ἔ
                     <lb n="4" break="no"/>ζησ<supplied reason="lost">ε</supplied></w>
-                    <lb n="5"/><w>ἔτη</w> <num value="50">νʹ</num> <w><supplied reason="lost">μῆ</supplied>
-                    <lb n="6" break="no"/>νες</w> <num value="8">ηʹ</num> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="5"/><w>ἔτη</w> <num value="50"><w>νʹ</w></num> <w><supplied reason="lost">μῆ</supplied>
+                    <lb n="6" break="no"/>νες</w> <num value="8"><w>ηʹ</w></num> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>
             <div type="apparatus">

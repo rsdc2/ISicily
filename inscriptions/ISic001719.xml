@@ -174,11 +174,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name>Πασκεντία</name></persName> <w>ἐν</w>
+                    <lb n="1"/><persName type="attested"><name><w>Πασκεντία</w></name></persName> <w>ἐν</w>
                     <lb n="2"/><w>εἰρήνῃ</w> <w>ἐνθάδε</w>
                     <lb n="3"/><w>κῖτε</w> <w>ζήσασα</w>
                     <lb n="4"/><w>σεμνῶς</w> <w>πα<unclear>ρ</unclear>
-                    <lb n="5" break="no"/>θένος</w> <w>ἔτη</w> <num value="50">ν</num>
+                    <lb n="5" break="no"/>θένος</w> <w>ἔτη</w> <num value="50"><w>ν</w></num>
                     <lb n="6"/><g ref="#staurogram"> 𐆠</g>
                 </ab>
             </div>

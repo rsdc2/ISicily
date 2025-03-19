@@ -193,30 +193,30 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <div type="textpart" subtype="section" n="a">
                     <ab>
-                        <lb n="1" xml:id="BwyAU"/><persName xml:id="BwyAe"><name xml:id="BwyAo">Τίναξ</name></persName>
-                        <lb n="2" xml:id="BwyAy"/><persName xml:id="BwyAΙ"><name xml:id="BwyAΤ">Σινθ<unclear xml:id="BwyAε">ι</unclear>ς</name></persName>
+                        <lb n="1" xml:id="BwyAU"/><persName xml:id="BwyAe"><name xml:id="BwyAo"><w>Τίναξ</w></name></persName>
+                        <lb n="2" xml:id="BwyAy"/><persName xml:id="BwyAΙ"><name xml:id="BwyAΤ"><w>Σινθ<unclear xml:id="BwyAε">ι</unclear>ς</w></name></persName>
                     </ab>
                 </div>
                 <div type="textpart" subtype="section" n="b">
                     <ab>
-                        <lb n="2" xml:id="BwyBK"/><persName xml:id="BwyBU"><name xml:id="BwyBe">Σιμτ<unclear xml:id="BwyBo">ε</unclear>ς</name></persName>
-                        <lb n="3" xml:id="BwyBy"/><persName xml:id="BwyBΙ"><name xml:id="BwyBΤ">Καποσος</name></persName>
-                        <lb n="4" xml:id="BwyBε"/><persName xml:id="BwyBο"><name xml:id="BwyCA">Δᾱ́μο̄ν</name></persName>
-                        <lb n="5" xml:id="BwyCK"/><persName xml:id="BwyCU"><name xml:id="BwyCe">Σο̄σίας</name></persName>
+                        <lb n="2" xml:id="BwyBK"/><persName xml:id="BwyBU"><name xml:id="BwyBe"><w>Σιμτ<unclear xml:id="BwyBo">ε</unclear>ς</w></name></persName>
+                        <lb n="3" xml:id="BwyBy"/><persName xml:id="BwyBΙ"><name xml:id="BwyBΤ"><w>Καποσος</w></name></persName>
+                        <lb n="4" xml:id="BwyBε"/><persName xml:id="BwyBο"><name xml:id="BwyCA"><w>Δᾱ́μο̄ν</w></name></persName>
+                        <lb n="5" xml:id="BwyCK"/><persName xml:id="BwyCU"><name xml:id="BwyCe"><w>Σο̄σίας</w></name></persName>
                     </ab>
                 </div>
                 <div type="textpart" subtype="section" n="c">
                     <ab>
-                        <lb n="6" xml:id="BwyCΙ"/><persName xml:id="BwyCΤ"><name xml:id="BwyCε">Νειάδας</name></persName>
-                        <lb n="7" xml:id="BwyCο"/><persName xml:id="BwyDA"><name xml:id="BwyDK">Ἀλκίας</name></persName>
-                        <lb n="8" xml:id="BwyDU"/><persName xml:id="BwyDe"><name xml:id="BwyDo">Βίο<unclear xml:id="BwyDy">τ</unclear>ος</name></persName>
+                        <lb n="6" xml:id="BwyCΙ"/><persName xml:id="BwyCΤ"><name xml:id="BwyCε"><w>Νειάδας</w></name></persName>
+                        <lb n="7" xml:id="BwyCο"/><persName xml:id="BwyDA"><name xml:id="BwyDK"><w>Ἀλκίας</w></name></persName>
+                        <lb n="8" xml:id="BwyDU"/><persName xml:id="BwyDe"><name xml:id="BwyDo"><w>Βίο<unclear xml:id="BwyDy">τ</unclear>ος</w></name></persName>
                         <lb n="9" xml:id="BwyDΙ"/><orig xml:id="BwyDΤ">ΙΙΝΣ</orig>
                     </ab>
                 </div>
                 <div type="textpart" subtype="section" n="d">
                     <ab>
-                        <lb n="10" xml:id="BwyEA"/><persName xml:id="BwyEK"><name xml:id="BwyEU">Δεῖνος</name></persName>
-                        <lb n="11" xml:id="BwyEe"/><persName xml:id="BwyEo"><name xml:id="BwyEy">Γελο͂ιος</name></persName>
+                        <lb n="10" xml:id="BwyEA"/><persName xml:id="BwyEK"><name xml:id="BwyEU"><w>Δεῖνος</w></name></persName>
+                        <lb n="11" xml:id="BwyEe"/><persName xml:id="BwyEo"><name xml:id="BwyEy"><w>Γελο͂ιος</w></name></persName>
                         <lb n="12" xml:id="BwyEΙ"/><orig xml:id="BwyEΤ">Σ</orig>
                     </ab>
                 </div>

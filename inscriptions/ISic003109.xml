@@ -195,8 +195,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#AA">
                 <ab>
-                    <lb n="1"/><w>Δάματρι</w> <w>καὶ</w> <name><supplied reason="lost">Κ</supplied>όραι</name>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w>ων</w> <w>καὶ</w> <w>ἁ</w> <w>γυνὰ</w> <w>αὐτοῦ</w> <name>Ἀρισ</name> <gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">κ</supplied>αὶ</w> <w>τὰ</w> <w>τέκνα</w> <w><unclear>ἀ</unclear><supplied reason="lost" cert="low">νέθηνκαν</supplied></w>
+                    <lb n="1"/><w>Δάματρι</w> <w>καὶ</w> <name><w><supplied reason="lost">Κ</supplied>όραι</w></name>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w>ων</w> <w>καὶ</w> <w>ἁ</w> <w>γυνὰ</w> <w>αὐτοῦ</w> <name><w>Ἀρισ</w></name> <gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">κ</supplied>αὶ</w> <w>τὰ</w> <w>τέκνα</w> <w><unclear>ἀ</unclear><supplied reason="lost" cert="low">νέθηνκαν</supplied></w>
                 </ab>
             </div>
             <div type="apparatus">

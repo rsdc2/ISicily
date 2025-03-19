@@ -192,9 +192,9 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
                     <lb n="1"/><w>Ῥουφῖνα</w> <w><choice><orig>χαροῦσα</orig><reg>χαιροῦσα</reg></choice></w> <w>ἐν</w>
-                    <lb n="2"/><name><expan><abbr>Χ</abbr><ex>ριστ</ex><abbr><hi rend="supraline">ῷ</hi></abbr></expan></name> <w>ἔτη</w> <num value="65">ξε</num> <w>ἀνεπαύ
-                    <lb n="3" break="no"/>σατο</w> <w>πρὸ</w> <num value="14">ιδ</num> <w>καλανδῶν</w> <w>ἰανουαρίων</w>
-                    <lb n="4"/><w><expan><abbr>ἐπ</abbr><ex>ὶ</ex></expan></w> <w><supplied reason="subaudible">τῇ</supplied></w> <num value="11">ια</num> <w><supplied reason="subaudible">ὥρᾳ</supplied></w>
+                    <lb n="2"/><name><w><expan><abbr>Χ</abbr><ex>ριστ</ex><abbr><hi rend="supraline">ῷ</hi></abbr></expan></w></name> <w>ἔτη</w> <num value="65"><w>ξε</w></num> <w>ἀνεπαύ
+                    <lb n="3" break="no"/>σατο</w> <w>πρὸ</w> <num value="14"><w>ιδ</w></num> <w>καλανδῶν</w> <w>ἰανουαρίων</w>
+                    <lb n="4"/><w><expan><abbr>ἐπ</abbr><ex>ὶ</ex></expan></w> <w><supplied reason="subaudible">τῇ</supplied></w> <num value="11"><w>ια</w></num> <w><supplied reason="subaudible">ὥρᾳ</supplied></w>
                 </ab>
             </div>
             <div type="apparatus" resp="#JP">

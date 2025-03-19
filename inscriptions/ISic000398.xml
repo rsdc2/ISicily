@@ -194,9 +194,9 @@
         <body>
              <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
-                    <lb n="1"/><w>Infas</w> <name>Pyrrus</name> <gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">vixit ann</supplied></w>
-                    <lb n="2"/><w>et</w> <w>menses</w> <num value="3">III</num> <w>rec<supplied reason="lost" cert="low">essit in pace</supplied></w>
-                    <lb n="3"/><num value="3">III</num> <name>Idus</name> <name>Septem<supplied reason="lost">bres</supplied></name>
+                    <lb n="1"/><w>Infas</w> <name><w>Pyrrus</w></name> <gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">vixit ann</supplied></w>
+                    <lb n="2"/><w>et</w> <w>menses</w> <num value="3"><w>III</w></num> <w>rec<supplied reason="lost" cert="low">essit in pace</supplied></w>
+                    <lb n="3"/><num value="3"><w>III</w></num> <name><w>Idus</w></name> <name><w>Septem<supplied reason="lost">bres</supplied></w></name>
                     <lb n="4"/><g ref="#christogram"/>
                 </ab>
             </div>

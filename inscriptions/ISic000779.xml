@@ -193,8 +193,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    <lb n="1"/><w>Ιθαλλας</w> <w>ναύκληρος</w> <name><expan><abbr>Λεπτημαγν
-                    <lb n="2" break="no"/>έν</abbr><ex>σιος</ex></expan></name> <w>ἐτῶν</w> <num value="35">λε</num>
+                    <lb n="1"/><w>Ιθαλλας</w> <w>ναύκληρος</w> <name><w><expan><abbr>Λεπτημαγν
+                    <lb n="2" break="no"/>έν</abbr><ex>σιος</ex></expan></w></name> <w>ἐτῶν</w> <num value="35"><w>λε</w></num>
                 </ab>
             </div>
            <div type="apparatus">

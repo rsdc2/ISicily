@@ -191,8 +191,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>Θ</abbr><ex>εοῖς</ex></expan></w> <name><expan><abbr>Κ</abbr><ex>αταχθονίοις</ex></expan></name>
-                    <lb n="2"/><name><supplied reason="lost">Μην</supplied>ώφιλε</name> <orig>ΚΕΙΣΑΙ</orig>
+                    <lb n="1"/><w><expan><abbr>Θ</abbr><ex>εοῖς</ex></expan></w> <name><w><expan><abbr>Κ</abbr><ex>αταχθονίοις</ex></expan></w></name>
+                    <lb n="2"/><name><w><supplied reason="lost">Μην</supplied>ώφιλε</w></name> <orig>ΚΕΙΣΑΙ</orig>
                     <lb n="3"/><w>τελευτᾶν</w> <foreign xml:lang="la-Grek"><w>φατο</w></foreign> <w>μόρσιμον</w>
                 </ab>
             </div>

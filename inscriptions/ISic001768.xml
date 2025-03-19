@@ -170,10 +170,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name><supplied reason="lost">Ου</supplied>αλεντῖνος</name></persName>
-                    <lb n="2"/><w>ἐτῶν</w> <num value="70">ο</num>
+                    <lb n="1"/><persName type="attested"><name><w><supplied reason="lost">Ου</supplied>αλεντῖνος</w></name></persName>
+                    <lb n="2"/><w>ἐτῶν</w> <num value="70"><w>ο</w></num>
                     <lb n="3"/><w>πατὴρ</w> <w>τέκνων</w>
-                    <lb n="4"/><num value="10"><expan><abbr>δέκ</abbr><ex>α</ex></expan></num> <g ref="#staurogram">𐆠</g>
+                    <lb n="4"/><num value="10"><w><expan><abbr>δέκ</abbr><ex>α</ex></expan></w></num> <g ref="#staurogram">𐆠</g>
                 </ab>
             </div>
             <div type="apparatus" resp="#JP">

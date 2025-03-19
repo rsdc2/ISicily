@@ -187,12 +187,12 @@
         <body>
             <div type="edition" xml:space="preserve" subtype="PHI" n="PHI140931">
                 <ab>
-                    <lb n="1"/><w>ἐνθάδε</w> <w>κῖτε</w> <name>Δομέ-</name>
+                    <lb n="1"/><w>ἐνθάδε</w> <w>κῖτε</w> <name><w>Δομέ-</w></name>
                     <lb n="2"/><w>στικος</w> <w>ὁ</w> <w>εὐμ<supplied reason="omitted">αθ</supplied>ὴς</w>
-                    <lb n="3"/><name>Χριστιανὸς</name> <w><expan><abbr>κ</abbr><ex>αὶ</ex></expan></w> <w>ἰητρός</w> <name><surplus>²⁶ἰατρός</surplus>²⁶·</name>
+                    <lb n="3"/><name><w>Χριστιανὸς</w></name> <w><expan><abbr>κ</abbr><ex>αὶ</ex></expan></w> <w>ἰητρός</w> <name><w><surplus>²⁶ἰατρός</surplus>²⁶·</w></name>
                     <lb n="4"/><w>ἔζησεν</w> <w>ἔτη</w> <w>οϛʹ,</w>
-                    <lb n="5"/><w>ἀνεπάσατο</w> <name><surplus>²⁶ἀνεπαύσατο</surplus>²⁶</name> <w>τῇ</w> <w><unclear>πρ</unclear>(ὸ)</w> <w>ιηʹ</w>
-                    <lb n="6"/><w>καλ</w> <w><supplied reason="lost">αν</supplied></w> <w><expan><abbr>δ</abbr><ex>ῶν</ex></expan></w> <g ref="#interpunct">∙</g> <name><expan><abbr>Φεβρ</abbr><ex>ουαρίων</ex></expan></name> <name>.</name>
+                    <lb n="5"/><w>ἀνεπάσατο</w> <name><w><surplus>²⁶ἀνεπαύσατο</surplus>²⁶</w></name> <w>τῇ</w> <w><unclear>πρ</unclear>(ὸ)</w> <w>ιηʹ</w>
+                    <lb n="6"/><w>καλ</w> <w><supplied reason="lost">αν</supplied></w> <w><expan><abbr>δ</abbr><ex>ῶν</ex></expan></w> <g ref="#interpunct">∙</g> <name><w><expan><abbr>Φεβρ</abbr><ex>ουαρίων</ex></expan></w></name> <name><w>.</w></name>
                     <lb n="7"/>
                 </ab>
             </div>

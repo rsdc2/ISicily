@@ -186,13 +186,13 @@
         <body>
             <div type="edition" xml:space="preserve" subtype="PHI" n="PHI329962">
                 <ab>
-                    <lb n="1"/><w><supplied reason="lost">— — —</supplied></w> <name><surplus>²3(?) rhombi</surplus>²</name> <w>ΦΕ</w> <name><supplied reason="lost">— —</supplied></name>
-                    <lb n="2"/><name><supplied reason="lost">— — — —</supplied></name> <w><expan><abbr>ΜΕΘΕΞ</abbr><ex>?</ex></expan></w> <w><expan><abbr>ἔξελθ</abbr><ex>ε</ex></expan></w> <w>διάβο-</w>
+                    <lb n="1"/><w><supplied reason="lost">— — —</supplied></w> <name><w><surplus>²3(?) rhombi</surplus>²</w></name> <w>ΦΕ</w> <name><w><supplied reason="lost">— —</supplied></w></name>
+                    <lb n="2"/><name><w><supplied reason="lost">— — — —</supplied></w></name> <w><expan><abbr>ΜΕΘΕΞ</abbr><ex>?</ex></expan></w> <w><expan><abbr>ἔξελθ</abbr><ex>ε</ex></expan></w> <w>διάβο-</w>
                     <lb n="3"/><w><unclear>λ</unclear>ε</w>
-                    <lb n="4"/><name><surplus>²4 rhombi</surplus>²</name> <name>Ἀδωνα</name> <w><supplied reason="omitted">ι</supplied></w> <name><surplus>²3 rhombi</surplus>²</name>
-                    <lb n="5"/><name><surplus>²6 rhombi</surplus>²</name> <w>Ε․Ι</w> <name>Σα-</name>
+                    <lb n="4"/><name><w><surplus>²4 rhombi</surplus>²</w></name> <name><w>Ἀδωνα</w></name> <w><supplied reason="omitted">ι</supplied></w> <name><w><surplus>²3 rhombi</surplus>²</w></name>
+                    <lb n="5"/><name><w><surplus>²6 rhombi</surplus>²</w></name> <w>Ε․Ι</w> <name><w>Σα-</w></name>
                     <lb n="6"/><w>βαὼθ</w> <w>Α<unclear>Ρ</unclear>ΑΚΙΑ</w>
-                    <lb n="7"/><name><surplus>²2 rhombi</surplus>²</name> <name><supplied reason="lost">— — — —</supplied></name>
+                    <lb n="7"/><name><w><surplus>²2 rhombi</surplus>²</w></name> <name><w><supplied reason="lost">— — — —</supplied></w></name>
                     <lb n="8"/>
                 </ab>
             </div>

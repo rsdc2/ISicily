@@ -189,8 +189,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
-                    <lb n="1"/><w><expan><abbr><hi rend="reversed"><am>Ↄ</am></hi></abbr><ex>mulieris</ex></expan></w> <g ref="#interpunct">·</g> <name>Sempronio</name>
-                    <lb n="2"/><name>7</name> <g ref="#interpunct">·</g> <name>L</name> <g ref="#interpunct">·</g> <name>Primioni</name> <g ref="#interpunct">·</g>
+                    <lb n="1"/><w><expan><abbr><hi rend="reversed"><am>Ↄ</am></hi></abbr><ex>mulieris</ex></expan></w> <g ref="#interpunct">·</g> <name><w>Sempronio</w></name>
+                    <lb n="2"/><name><w>7</w></name> <g ref="#interpunct">·</g> <name><w>L</w></name> <g ref="#interpunct">·</g> <name><w>Primioni</w></name> <g ref="#interpunct">·</g>
                     <lb n="3"/><w>annorum</w> <g ref="#interpunct">·</g> <w>XIIII</w> <g ref="#interpunct">·</g>
                 </ab>
               </div>

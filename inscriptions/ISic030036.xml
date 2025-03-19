@@ -185,12 +185,12 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#SN">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name type="idionym">Ἀριστο̄́ι</name></persName>
-                    <lb n="2"/><persName type="attested"><name type="idionym">Ἐπιείκης</name>
-                    <lb n="3"/><persName type="attested"><name type="patronym">Φαΰλλο̄</name></persName></persName>
-                    <lb n="4"/><persName type="attested"><name type="idionym"><supplied reason="lost">Ἀ</supplied>ριστο̄́<supplied reason="omitted">ι</supplied></name>
-                    <lb n="5"/><persName type="attested"><name type="patronym"><seg type="I">Ματρ</seg><gap reason="lost" quantity="3" unit="character"/></name></persName></persName>
-                    <lb n="6"/><persName type="attested"><name type="idionym"><gap reason="lost" extent="unknown" unit="character"/><seg part="F">ιας</seg></name></persName>
+                    <lb n="1"/><persName type="attested"><name type="idionym"><w>Ἀριστο̄́ι</w></name></persName>
+                    <lb n="2"/><persName type="attested"><name type="idionym"><w>Ἐπιείκης</w></name>
+                    <lb n="3"/><persName type="attested"><name type="patronym"><w>Φαΰλλο̄</w></name></persName></persName>
+                    <lb n="4"/><persName type="attested"><name type="idionym"><w><supplied reason="lost">Ἀ</supplied>ριστο̄́<supplied reason="omitted">ι</supplied></w></name>
+                    <lb n="5"/><persName type="attested"><name type="patronym"><w><seg type="I">Ματρ</seg><gap reason="lost" quantity="3" unit="character"/></w></name></persName></persName>
+                    <lb n="6"/><persName type="attested"><name type="idionym"><w><gap reason="lost" extent="unknown" unit="character"/><seg part="F">ιας</seg></w></name></persName>
                 </ab>
             </div>
             <div type="apparatus">

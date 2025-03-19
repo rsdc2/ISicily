@@ -176,9 +176,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#FC">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name>Ὀνήσιμος</name></persName>
+                    <lb n="1"/><persName type="attested"><name><w>Ὀνήσιμος</w></name></persName>
                     <lb n="2"/><w>ἐνθάδε</w> <w>κῖτε</w>
-                    <lb n="3"/><w><expan><abbr><hi rend="supraline">ἐτ</hi></abbr><ex>ῶ</ex><abbr><hi rend="supraline">ν</hi></abbr></expan></w> <hi rend="supraline"><num value="28">κη</num></hi>
+                    <lb n="3"/><w><expan><abbr><hi rend="supraline">ἐτ</hi></abbr><ex>ῶ</ex><abbr><hi rend="supraline">ν</hi></abbr></expan></w> <hi rend="supraline"><num value="28"><w>κη</w></num></hi>
                 </ab>
             </div>
             <div type="apparatus">

@@ -193,9 +193,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name>Domit<supplied reason="lost">iae</supplied></name> <supplied reason="lost"><persName type="attested"><name><expan><abbr>Cn</abbr><ex>aei</ex></expan></name></persName></supplied> <w><supplied reason="lost"><expan><abbr>f</abbr><ex>iliae</ex></expan></supplied></w>
-                    <lb n="2"/><persName type="attested"><roleName type="supracivic" subtype="imperator"><w><expan><abbr><hi rend="tall">i</hi>mp</abbr><ex>eratoris</ex></expan></w></roleName> <g ref="#interpunct">·</g> <name>D<unclear>o</unclear><supplied reason="lost">mitiani</supplied></name>
-                    <lb n="3"/><name>Cae<supplied reason="lost">saris</supplied></name></persName> <w><supplied reason="subaudible">uxori</supplied></w></persName>
+                    <lb n="1"/><persName type="attested"><name><w>Domit<supplied reason="lost">iae</supplied></w></name> <supplied reason="lost"><persName type="attested"><name><w><expan><abbr>Cn</abbr><ex>aei</ex></expan></w></name></persName></supplied> <w><supplied reason="lost"><expan><abbr>f</abbr><ex>iliae</ex></expan></supplied></w>
+                    <lb n="2"/><persName type="attested"><roleName type="supracivic" subtype="imperator"><w><expan><abbr><hi rend="tall">i</hi>mp</abbr><ex>eratoris</ex></expan></w></roleName> <g ref="#interpunct">·</g> <name><w>D<unclear>o</unclear><supplied reason="lost">mitiani</supplied></w></name>
+                    <lb n="3"/><name><w>Cae<supplied reason="lost">saris</supplied></w></name></persName> <w><supplied reason="subaudible">uxori</supplied></w></persName>
                 </ab>
             </div>
             <div type="apparatus">

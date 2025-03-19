@@ -192,7 +192,7 @@
                     <lb n="1"/><w><supplied reason="lost">Τειχῶν</supplied></w> <roleName type="civic" subtype="epistates"><w><supplied reason="lost">ἐπιστάτ</supplied>
                     <lb n="2" break="no"/>αι</w></roleName> <w>καὶ</w> <roleName type="civic" subtype="agoranomos"><w>ἀγορα
                     <lb n="3" break="no"/></w> <w><supplied reason="lost">νόμοι</supplied></w></roleName> <gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">τοῦ</supplied></w>
-                    <lb n="4"/><name>Δαματρίου</name>
+                    <lb n="4"/><name><w>Δαματρίου</w></name>
                     <lb n="4a"/><gap reason="lost" extent="unknown" unit="line"/>
                 </ab>
             </div>

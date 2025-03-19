@@ -190,10 +190,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#VM">
                 <ab>
-                    <lb n="1"/><w>Hic</w> <w>iacet</w> <w>in</w> <w>pace</w> <name>Domini</name> <w>infa<supplied reason="lost">s</supplied></w> <w>nomi
-                    <lb n="2" break="no"/>ne</w> <g ref="#interpunct"/> <name>Atinodori</name> <w>annorum</w> <num value="2">duo</num> <w>filius</w> <g ref="#interpunct"/>
-                    <lb n="3"/><name>Mucia<supplied reason="lost">ni</supplied></name> <w>primiceri</w> <w>de</w> <w>nume<supplied reason="lost">r</supplied>o</w> <g ref="#interpunct"/>
-                    <lb n="4"/><w><expan><abbr><num value="11">XI</num></abbr><ex>Undeci</ex><abbr>manorum</abbr></expan></w> <g ref="#interpunct"/> <w>felex</w> <w>in</w> <name>Deo</name> <g ref="#ivy-leaf">❦</g>
+                    <lb n="1"/><w>Hic</w> <w>iacet</w> <w>in</w> <w>pace</w> <name><w>Domini</w></name> <w>infa<supplied reason="lost">s</supplied></w> <w>nomi
+                    <lb n="2" break="no"/>ne</w> <g ref="#interpunct"/> <name><w>Atinodori</w></name> <w>annorum</w> <num value="2"><w>duo</w></num> <w>filius</w> <g ref="#interpunct"/>
+                    <lb n="3"/><name><w>Mucia<supplied reason="lost">ni</supplied></w></name> <w>primiceri</w> <w>de</w> <w>nume<supplied reason="lost">r</supplied>o</w> <g ref="#interpunct"/>
+                    <lb n="4"/><w><expan><abbr><num value="11"><w>XI</w></num></abbr><ex>Undeci</ex><abbr>manorum</abbr></expan></w> <g ref="#interpunct"/> <w>felex</w> <w>in</w> <name><w>Deo</w></name> <g ref="#ivy-leaf">❦</g>
                 </ab>
             </div>
             <div type="apparatus">

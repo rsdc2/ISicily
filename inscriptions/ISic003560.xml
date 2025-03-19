@@ -186,7 +186,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>Θ</abbr><ex>εοῖς</ex></expan></w> <name><expan><abbr>Κ</abbr><ex>αταχθονίοις</ex></expan></name> <name><expan><abbr>Δ</abbr><ex>αίμοσιν</ex></expan></name>
+                    <lb n="1"/><w><expan><abbr>Θ</abbr><ex>εοῖς</ex></expan></w> <name><w><expan><abbr>Κ</abbr><ex>αταχθονίοις</ex></expan></w></name> <name><w><expan><abbr>Δ</abbr><ex>αίμοσιν</ex></expan></w></name>
                     <lb n="2"/><w>χαῖρε</w> <w>παροδεῖτα</w>
                     <lb n="3"/><w>χαίρετε</w> <orig>ΠΟΝΠΕ</orig><w>τεκνίον</w>
                     <lb n="4"/><w>ἐνθάδε</w> <w>κε͂τε</w>

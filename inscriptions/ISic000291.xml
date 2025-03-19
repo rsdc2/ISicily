@@ -192,10 +192,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#TNS">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <name><expan><abbr>M</abbr><ex>anibus</ex></expan></name> <g ref="#interpunct">·</g> <w><expan><abbr>s</abbr><ex>acrum</ex></expan></w> <g ref="#ivy_leaf">❦</g>
-                    <lb n="2"/><persName type="attested"><name><expan><abbr>M</abbr><ex>arco</ex></expan></name> <g ref="#interpunct">·</g> <name>Mestrio</name>
-                    <lb n="3"/><name>Luciffrioni</name></persName>
-                    <lb n="4"/><w><expan><abbr>vix</abbr><ex>it</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>ann</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <num value="45">XXXXV</num>
+                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <name><w><expan><abbr>M</abbr><ex>anibus</ex></expan></w></name> <g ref="#interpunct">·</g> <w><expan><abbr>s</abbr><ex>acrum</ex></expan></w> <g ref="#ivy_leaf">❦</g>
+                    <lb n="2"/><persName type="attested"><name><w><expan><abbr>M</abbr><ex>arco</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w>Mestrio</w></name>
+                    <lb n="3"/><name><w>Luciffrioni</w></name></persName>
+                    <lb n="4"/><w><expan><abbr>vix</abbr><ex>it</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>ann</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <num value="45"><w>XXXXV</w></num>
                 </ab>
             </div>
             <div type="apparatus">

@@ -196,10 +196,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#EK">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <name><expan><abbr>M</abbr><ex>anibus</ex></expan></name> <w><expan><abbr>s</abbr><ex>acrum</ex></expan></w>
-                    <lb n="2"/><name>Octavius</name> <name>The
-                    <lb n="3" break="no"/>rmitanus</name> <name>Co
-                    <lb n="4" break="no"/>mico</name> <w>bene</w> <w>me
+                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <name><w><expan><abbr>M</abbr><ex>anibus</ex></expan></w></name> <w><expan><abbr>s</abbr><ex>acrum</ex></expan></w>
+                    <lb n="2"/><name><w>Octavius</w></name> <name><w>The
+                    <lb n="3" break="no"/>rmitanus</w></name> <name><w>Co
+                    <lb n="4" break="no"/>mico</w></name> <w>bene</w> <w>me
                     <lb n="5" break="no"/>renti</w> <w>fecit</w>
                 </ab>
             </div>

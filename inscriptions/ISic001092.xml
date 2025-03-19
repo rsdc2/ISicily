@@ -189,10 +189,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1"/><w>Θεοῖς</w> <g ref="#interpunct">·</g> <name><expan><abbr>Καταχ</abbr><ex>θονίοις</ex></expan></name> <g ref="#interpunct">·</g>
-                    <lb n="2"/><name>Μαρκία</name> <name>Καίσαρος</name> <w><expan><abbr><hi rend="small supraline">δ</hi></abbr><ex>ούλη</ex></expan></w>
-                    <lb n="3"/><w>ἔζησεν</w> <g ref="#interpunct">·</g> <w>ἔτη</w> <g ref="#interpunct">·</g> <hi rend="supraline"><num value="35">λε</num></hi><g ref="#interpunct">·</g>
-                    <lb n="4"/><g ref="#interpunct">·</g> <name>Μύστις</name> <w>θυγατρὶ</w>
+                    <lb n="1"/><w>Θεοῖς</w> <g ref="#interpunct">·</g> <name><w><expan><abbr>Καταχ</abbr><ex>θονίοις</ex></expan></w></name> <g ref="#interpunct">·</g>
+                    <lb n="2"/><name><w>Μαρκία</w></name> <name><w>Καίσαρος</w></name> <w><expan><abbr><hi rend="small supraline">δ</hi></abbr><ex>ούλη</ex></expan></w>
+                    <lb n="3"/><w>ἔζησεν</w> <g ref="#interpunct">·</g> <w>ἔτη</w> <g ref="#interpunct">·</g> <hi rend="supraline"><num value="35"><w>λε</w></num></hi><g ref="#interpunct">·</g>
+                    <lb n="4"/><g ref="#interpunct">·</g> <name><w>Μύστις</w></name> <w>θυγατρὶ</w>
                     <lb n="5"/><g ref="#interpunct">·</g> <w>ἰδίᾳ</w> <g ref="#interpunct">·</g> <w>μνήμης</w> <w>χάριν</w> <g ref="#interpunct">·</g>
                 </ab>
             </div>

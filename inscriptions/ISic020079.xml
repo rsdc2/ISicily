@@ -174,7 +174,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="xly-Grek">
                 <ab>
-                    <lb n="1"/><num cert="low" value="23"><unclear>ΙΙΙ</unclear>Δ<unclear>Δ</unclear></num><note>uncertain interpretation</note>
+                    <lb n="1"/><num cert="low" value="23"><w><unclear>ΙΙΙ</unclear>Δ<unclear>Δ</unclear></w></num><note>uncertain interpretation</note>
                 </ab>
             </div>
             <div type="edition" xml:space="preserve" subtype="transliteration" xml:lang="xly-Latn">

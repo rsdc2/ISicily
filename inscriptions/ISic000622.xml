@@ -189,8 +189,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>C</abbr><ex>aio</ex></expan></w> <g ref="#interpunct">·</g> <name>Iulio</name> <g ref="#interpunct">·</g> <name><expan><abbr>C</abbr><ex>ai</ex></expan></name> <g ref="#interpunct">·</g> <w><expan><abbr>f</abbr><ex>ilio</ex></expan></w> <g ref="#interpunct">·</g> <name>Lon<supplied reason="lost">go</supplied></name>
-                    <lb n="2"/><roleName type="civic" subtype="duumvir"><num value="2">duum</num> <g ref="#interpunct">·</g> <w>viro</w></roleName>
+                    <lb n="1"/><w><expan><abbr>C</abbr><ex>aio</ex></expan></w> <g ref="#interpunct">·</g> <name><w>Iulio</w></name> <g ref="#interpunct">·</g> <name><w><expan><abbr>C</abbr><ex>ai</ex></expan></w></name> <g ref="#interpunct">·</g> <w><expan><abbr>f</abbr><ex>ilio</ex></expan></w> <g ref="#interpunct">·</g> <name><w>Lon<supplied reason="lost">go</supplied></w></name>
+                    <lb n="2"/><roleName type="civic" subtype="duumvir"><num value="2"><w>duum</w></num> <g ref="#interpunct">·</g> <w>viro</w></roleName>
                     <lb n="3"/><w>municipium</w> <g ref="#interpunct">·</g> <w><expan><abbr>h</abbr><ex>onoris</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>c</abbr><ex>ausa</ex></expan></w>
                 </ab>
             </div>

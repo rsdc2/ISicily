@@ -243,10 +243,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#martaf">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name><gap reason="lost" extent="unknown" unit="character"/><supplied reason="undefined" evidence="previouseditor"><gap reason="illegible" quantity="1" unit="character"/></supplied><gap reason="illegible" quantity="1" unit="character"/>νᾳ</name></persName> <w>ἄν
+                    <lb n="1"/><persName type="attested"><name><w><gap reason="lost" extent="unknown" unit="character"/><supplied reason="undefined" evidence="previouseditor"><gap reason="illegible" quantity="1" unit="character"/></supplied><gap reason="illegible" quantity="1" unit="character"/>νᾳ</w></name></persName> <w>ἄν
                     <lb n="2" break="no"/>δρὶ</w> <w>ζήσαντι</w>
-                    <lb n="3"/><w>ἔτη</w> <num value="45">με</num> <g ref="#interpunct">·</g> <persName type="attested"><name>Γρά
-                    <lb n="4" break="no"/>πτη</name></persName> <w>σύμβιο<supplied reason="lost">ς</supplied></w>
+                    <lb n="3"/><w>ἔτη</w> <num value="45"><w>με</w></num> <g ref="#interpunct">·</g> <persName type="attested"><name><w>Γρά
+                    <lb n="4" break="no"/>πτη</w></name></persName> <w>σύμβιο<supplied reason="lost">ς</supplied></w>
                     <lb n="5"/><w>ἐποίησ<supplied reason="lost">εν</supplied></w>
                 </ab>
             </div>

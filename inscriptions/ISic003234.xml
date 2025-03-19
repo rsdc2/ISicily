@@ -195,7 +195,7 @@
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <gap reason="illegible" quantity="2" unit="character"/> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w>VI</w> <g ref="#interpunct">·</g> <name>Eut<unclear>y</unclear><supplied reason="lost">ch</supplied></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w>VI</w> <g ref="#interpunct">·</g> <name><w>Eut<unclear>y</unclear><supplied reason="lost">ch</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">u</supplied>xori</w> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>

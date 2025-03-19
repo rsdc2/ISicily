@@ -195,8 +195,8 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w><unclear>τελ</unclear><supplied reason="lost">ευτᾷ</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="2"/><w><expan><abbr><unclear>μ</unclear></abbr><ex>ηνῶν</ex></expan></w> <num value="9">θ</num> <w><expan><abbr>ἡ</abbr><ex>μερῶν</ex></expan></w> <num value="20">κ</num> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="3"/><name>Βιτάλα</name> <w>ο</w> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><w><expan><abbr><unclear>μ</unclear></abbr><ex>ηνῶν</ex></expan></w> <num value="9"><w>θ</w></num> <w><expan><abbr>ἡ</abbr><ex>μερῶν</ex></expan></w> <num value="20"><w>κ</w></num> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="3"/><name><w>Βιτάλα</w></name> <w>ο</w> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="4"/><w>υἱῶ</w> <w>ἐπο<supplied reason="lost">ίησε</supplied></w>
                     <lb n="5"/><w><unclear>ευσ</unclear></w> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>

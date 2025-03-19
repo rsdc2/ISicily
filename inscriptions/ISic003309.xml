@@ -199,7 +199,7 @@
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <orig>ΦΡΟ</orig><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <orig>ΩΝ</orig><w>τῇ</w> <w><supplied reason="lost">πρὸ</supplied></w>
                     <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">κ</supplied>αλανδ<supplied reason="lost">ῶν</supplied></w>
-                    <lb n="4"/><name><supplied reason="lost">Ὀκ</supplied>τωβρ<supplied reason="lost">ίων</supplied></name>
+                    <lb n="4"/><name><w><supplied reason="lost">Ὀκ</supplied>τωβρ<supplied reason="lost">ίων</supplied></w></name>
                 </ab>
             </div>
             <div type="apparatus" resp="#martaf">

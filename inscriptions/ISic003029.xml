@@ -190,7 +190,7 @@
                 <ab>
                     <lb n="1"/><w>Ποπλιλίου</w>
                     <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w>νάρου</w>
-                    <lb n="3"/><name><unclear xml:lang="la">R</unclear></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="3"/><name><w><unclear xml:lang="la">R</unclear></w></name> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>
             <div type="apparatus">

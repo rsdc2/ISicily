@@ -192,9 +192,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#VM">
                 <ab>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w>mo</w> <name><expan><abbr>S<unclear>p</unclear></abbr><ex cert="low">urii</ex></expan></name> <w><supplied reason="lost"><expan><abbr>f</abbr><ex>ilio</ex></expan></supplied></w> <gap reason="lost" extent="unknown" unit="character"/> <w><unclear>iae</unclear></w>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w>annis</w> <num value="4">IV</num>
-                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <w><expan><abbr>a</abbr><ex>nnis</ex></expan></w> <num value="38">XXXIIX</num>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w>mo</w> <name><w><expan><abbr>S<unclear>p</unclear></abbr><ex cert="low">urii</ex></expan></w></name> <w><supplied reason="lost"><expan><abbr>f</abbr><ex>ilio</ex></expan></supplied></w> <gap reason="lost" extent="unknown" unit="character"/> <w><unclear>iae</unclear></w>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w>annis</w> <num value="4"><w>IV</w></num>
+                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <w><expan><abbr>a</abbr><ex>nnis</ex></expan></w> <num value="38"><w>XXXIIX</w></num>
                 </ab>
             </div>
             <div type="apparatus">

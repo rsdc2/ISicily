@@ -217,9 +217,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1" xml:id="AΜoAK"/><persName type="divine"><name><name xml:id="AΜoAU">Διὶ</name></name></persName> <w xml:id="AΜoAe">καὶ</w>
-                    <lb n="2" xml:id="AΜoAo"/><persName type="divine"><name><name xml:id="AΜoAy">Τύχη<hi rend="small" xml:id="AΜoAΙ">ι</hi></name></name></persName>
-                    <lb n="3" xml:id="AΜoAΤ"/><persName type="attested"><name><name xml:id="AΜoAε">Μαρκιανός</name></name></persName>
+                    <lb n="1" xml:id="AΜoAK"/><persName type="divine"><name><w><name xml:id="AΜoAU"><w>Διὶ</w></name></w></name></persName> <w xml:id="AΜoAe">καὶ</w>
+                    <lb n="2" xml:id="AΜoAo"/><persName type="divine"><name><w><name xml:id="AΜoAy"><w>Τύχη<hi rend="small" xml:id="AΜoAΙ">ι</hi></w></name></w></name></persName>
+                    <lb n="3" xml:id="AΜoAΤ"/><persName type="attested"><name><w><name xml:id="AΜoAε"><w>Μαρκιανός</w></name></w></name></persName>
                 </ab>
             </div>
             <div type="apparatus">

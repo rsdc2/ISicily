@@ -194,8 +194,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#SS">
                 <ab>
-                    <lb n="1"/><name>Ἀρχαγάθο<supplied reason="lost">υ</supplied></name> <certainty locus="value" assertedValue="Ἀρχαγάθος"/>
-                    <lb n="2"/><name>Μόσχου</name>
+                    <lb n="1"/><name><w>Ἀρχαγάθο<supplied reason="lost">υ</supplied></w></name> <certainty locus="value" assertedValue="Ἀρχαγάθος"/>
+                    <lb n="2"/><name><w>Μόσχου</w></name>
                 </ab>
             </div>
             <div type="apparatus">

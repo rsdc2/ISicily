@@ -186,9 +186,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>L</abbr><ex>ucia</ex></expan></w> <name>Arria</name> <name>Parteenin</name>
-                    <lb n="2"/><w>vixit</w> <w>annos</w> <num value="26">XXVI</num>
-                    <lb n="3"/><name>Parthenius</name> <w>pat<supplied reason="omitted">e</supplied>r</w>
+                    <lb n="1"/><w><expan><abbr>L</abbr><ex>ucia</ex></expan></w> <name><w>Arria</w></name> <name><w>Parteenin</w></name>
+                    <lb n="2"/><w>vixit</w> <w>annos</w> <num value="26"><w>XXVI</w></num>
+                    <lb n="3"/><name><w>Parthenius</w></name> <w>pat<supplied reason="omitted">e</supplied>r</w>
                     <lb n="4"/><w>filiae</w> <w>dulcissimae</w>
                     <lb n="5"/><w>fecit</w>
                 </ab>

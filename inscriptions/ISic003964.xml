@@ -202,8 +202,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#SS">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name>Ἀκητ
-                    <lb n="2" break="no"/>ανὲ</name></persName> <w>χ<supplied reason="lost">ρ</supplied>
+                    <lb n="1"/><persName type="attested"><name><w>Ἀκητ
+                    <lb n="2" break="no"/>ανὲ</w></name></persName> <w>χ<supplied reason="lost">ρ</supplied>
                     <lb n="3" break="no"/>ηστὲ</w> <w>χα<supplied reason="lost">ῖ</supplied>
                     <lb n="4" break="no"/>ρε</w>
                 </ab>

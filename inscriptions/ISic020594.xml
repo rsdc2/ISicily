@@ -178,7 +178,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name>Τιτταβο̄̀</name></persName> <g ref="#tripunct">⁝</g> <w>φίλη</w>
+                    <lb n="1"/><persName type="attested"><name><w>Τιτταβο̄̀</w></name></persName> <g ref="#tripunct">⁝</g> <w>φίλη</w>
                 </ab>
             </div>
             <div type="apparatus">

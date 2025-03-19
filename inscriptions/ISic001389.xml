@@ -189,9 +189,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name>Καλλίσ
-                    <lb n="2" break="no"/>τρατος</name>
-                    <lb n="3"/><persName type="attested"><name type="patronym">'Ράτορος</name></persName></persName>
+                    <lb n="1"/><persName type="attested"><name><w>Καλλίσ
+                    <lb n="2" break="no"/>τρατος</w></name>
+                    <lb n="3"/><persName type="attested"><name type="patronym"><w>'Ράτορος</w></name></persName></persName>
                 </ab>
             </div>
             <div type="apparatus" resp="#JP">

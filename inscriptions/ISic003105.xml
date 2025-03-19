@@ -192,7 +192,7 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
                     <lb n="1"/><w><supplied reason="lost">φι</supplied>λόσοφος</w> <w>τιμόθεος</w> <w>τῇ</w> <w>πρὸ</w> <orig>Ο</orig>
-                    <lb n="2"/><w>ἡμέρᾳ</w> <name>Κ<choice><corr>ρ</corr><sic>ι</sic></choice>όν<supplied reason="lost">ου</supplied></name> <gap reason="lost" extent="unknown" unit="character"/> <w>ἀπὸ</w> <name>Καλικβω</name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><w>ἡμέρᾳ</w> <name><w>Κ<choice><corr>ρ</corr><sic>ι</sic></choice>όν<supplied reason="lost">ου</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/> <w>ἀπὸ</w> <name><w>Καλικβω</w></name> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="3"/><orig>Λ</orig><w>τῷ</w> <w>θώκ<supplied reason="lost">ῳ</supplied></w> <gap reason="lost" extent="unknown" unit="character"/> <orig>ΙΝΑΝΟΝ</orig>
                     <lb n="4"/><orig>ΟΛΟΝΔΟΚΙΑ</orig><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="5"/><orig>ΟΜΙΛΩΝΔ</orig><gap reason="lost" extent="unknown" unit="character"/>

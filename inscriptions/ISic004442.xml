@@ -186,8 +186,8 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#IG">
                 <ab>
                     <lb n="1"/><g ref="#cross_latin">†</g> <add place="above"><w>Ἐ</w></add>τελεύτ<w><choice><reg>η</reg><orig>ε</orig></choice>
-                    <lb n="2" break="no"/>σεν</w> <name>Ἀβά<choice><corr>σ</corr><sic>ε</sic></choice></name> <add place="above"><w>κ</w></add>αν<w>
-                    <lb n="3" break="no"/>τος</w> <w>τῇ</w> <w><expan><abbr><hi rend="ligature">πρ</hi></abbr><ex>ὸ</ex></expan></w> <num value="17">ιζ</num>
+                    <lb n="2" break="no"/>σεν</w> <name><w>Ἀβά<choice><corr>σ</corr><sic>ε</sic></choice></w></name> <add place="above"><w>κ</w></add>αν<w>
+                    <lb n="3" break="no"/>τος</w> <w>τῇ</w> <w><expan><abbr><hi rend="ligature">πρ</hi></abbr><ex>ὸ</ex></expan></w> <num value="17"><w>ιζ</w></num>
                     <lb n="4"/><w><supplied reason="lost">καλ</supplied><unclear>ανδῶν</unclear></w>
                     <lb n="4a"/><gap reason="lost" extent="unknown" unit="line"/>
                 </ab>

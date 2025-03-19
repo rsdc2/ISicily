@@ -197,9 +197,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#SS">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name>Eusebio</name></persName> <name><expan><abbr><am><g ref="#christogram"/></am></abbr><ex>Χριστός</ex></expan></name>
-                    <lb n="2"/><w>qui</w> <w>vixit</w> <g ref="#interpunct">·</g> <w><expan><abbr>ann</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <num value="23">XXIII</num> <w><expan><abbr>dep</abbr><ex>ositus</ex></expan></w>
-                    <lb n="3"/><w>die</w> <num value="29">XVIIII</num> <g ref="#interpunct">·</g> <name><expan><abbr>Kal</abbr><ex>endas</ex></expan></name> <g ref="#interpunct">·</g> <name><expan><abbr>Ian</abbr><ex>uarii</ex></expan></name> <g ref="#interpunct">·</g>
+                    <lb n="1"/><persName type="attested"><name><w>Eusebio</w></name></persName> <name><w><expan><abbr><am><g ref="#christogram"/></am></abbr><ex>Χριστός</ex></expan></w></name>
+                    <lb n="2"/><w>qui</w> <w>vixit</w> <g ref="#interpunct">·</g> <w><expan><abbr>ann</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <num value="23"><w>XXIII</w></num> <w><expan><abbr>dep</abbr><ex>ositus</ex></expan></w>
+                    <lb n="3"/><w>die</w> <num value="29"><w>XVIIII</w></num> <g ref="#interpunct">·</g> <name><w><expan><abbr>Kal</abbr><ex>endas</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w><expan><abbr>Ian</abbr><ex>uarii</ex></expan></w></name> <g ref="#interpunct">·</g>
                 </ab>
             </div>
             <div type="apparatus">

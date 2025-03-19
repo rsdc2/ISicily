@@ -197,15 +197,15 @@
                     <milestone unit="section" n="a"/>
                     <lb n="1"/><w>Superianus</w>
                     <lb n="2"/><roleName type="paracivic.religious" subtype="clerecus"><w>cl</w> <w><supplied reason="lost">erecus</supplied></w></roleName> <w>de</w>
-                    <lb n="3"/><name>Aq<supplied reason="lost">ileia</supplied></name> <w>hic</w>
+                    <lb n="3"/><name><w>Aq<supplied reason="lost">ileia</supplied></w></name> <w>hic</w>
                     <lb n="4"/><w>reqescet</w> <milestone unit="section" n="b"/>
-                    <lb n="1"/><name>Superia
-                    <lb n="2" break="no"/>nus</name> <roleName type="paracivic.religious" subtype="clerecus"><w>cle
+                    <lb n="1"/><name><w>Superia
+                    <lb n="2" break="no"/>nus</w></name> <roleName type="paracivic.religious" subtype="clerecus"><w>cle
                     <lb n="3" break="no"/>recus</w></roleName> <w>de</w>
-                    <lb n="4"/><name>Aqileia</name> <milestone unit="section" n="c"/>
-                    <lb n="1"/><name>Superianus</name>
+                    <lb n="4"/><name><w>Aqileia</w></name> <milestone unit="section" n="c"/>
+                    <lb n="1"/><name><w>Superianus</w></name>
                     <lb n="2"/><roleName type="paracivic.religious" subtype="clerecus"><w>c</w> <w><supplied reason="lost">lerecus</supplied></w></roleName> <w><supplied reason="lost">de</supplied></w>
-                    <lb n="3"/><name><supplied reason="lost">Aqileia</supplied></name> <w><supplied reason="lost">hic</supplied></w>
+                    <lb n="3"/><name><w><supplied reason="lost">Aqileia</supplied></w></name> <w><supplied reason="lost">hic</supplied></w>
                     <lb n="4"/><w>reqe<supplied reason="lost">scet qui vix</supplied>
                     <lb n="5" break="no"/>et</w> <w>an<supplied reason="lost">nos</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>

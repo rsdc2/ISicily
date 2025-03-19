@@ -186,9 +186,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1"/><w>Κλωδία</w> <name>Σε
-                    <lb n="2" break="no"/>βῆρα</name> <w><choice><orig>ἔζησ
-                    <lb n="3" break="no"/>σεν</orig><reg>ἔζησεν</reg></choice></w> <w>ἔτη</w> <g ref="#interpunct">·</g> <num value="7">Ι<hi rend="ligature">ΙΠ</hi></num>
+                    <lb n="1"/><w>Κλωδία</w> <name><w>Σε
+                    <lb n="2" break="no"/>βῆρα</w></name> <w><choice><orig>ἔζησ
+                    <lb n="3" break="no"/>σεν</orig><reg>ἔζησεν</reg></choice></w> <w>ἔτη</w> <g ref="#interpunct">·</g> <num value="7"><w>Ι<hi rend="ligature">ΙΠ</hi></w></num>
                     <lb n="4"/><g ref="#ivy-leaf">❦</g> <space unit="character" quantity="6"/><g ref="#ivy-leaf">❦</g> <g ref="#ivy-leaf">❦</g>
                 </ab>
             </div>

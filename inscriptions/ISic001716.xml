@@ -176,7 +176,7 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JMP">
                 <ab>
                     <lb n="1"/><w><supplied reason="lost">τό</supplied>πος</w>
-                    <lb n="2"/><persName type="attested"><name><supplied reason="lost">Εὐτ</supplied>υχείου</name></persName>
+                    <lb n="2"/><persName type="attested"><name><w><supplied reason="lost">Εὐτ</supplied>υχείου</w></name></persName>
                     <lb n="3"/><w><supplied reason="lost">τοῦ</supplied></w> <w>ἐλεοπώ
                     <lb n="4" break="no"/><supplied reason="lost">λου</supplied></w> <w><supplied reason="lost">ἀ</supplied>γορασείᾳ</w>
                 </ab>

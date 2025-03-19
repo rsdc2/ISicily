@@ -203,9 +203,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#VM #AA">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name>Rustia</name>
-                    <lb n="2"/><name>Asterin</name></persName>
-                    <lb n="3"/><w><expan><abbr>vix</abbr><ex>it</ex></expan></w> <g ref="#ivy-leaf"/> <w><expan><abbr>an</abbr><ex>nis</ex></expan></w> <g ref="#ivy-leaf"/> <num value="80">LXXX</num>
+                    <lb n="1"/><persName type="attested"><name><w>Rustia</w></name>
+                    <lb n="2"/><name><w>Asterin</w></name></persName>
+                    <lb n="3"/><w><expan><abbr>vix</abbr><ex>it</ex></expan></w> <g ref="#ivy-leaf"/> <w><expan><abbr>an</abbr><ex>nis</ex></expan></w> <g ref="#ivy-leaf"/> <num value="80"><w>LXXX</w></num>
                 </ab>
             </div>
             <div type="apparatus">

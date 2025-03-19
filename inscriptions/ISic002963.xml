@@ -192,9 +192,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>Q</abbr><ex>uintus</ex></expan></w> <g ref="#interpunct">·</g> <name>Cornificius</name> <g ref="#interpunct">·</g>
-                    <lb n="2"/><name><expan><abbr>Q</abbr><ex>uinti</ex></expan></name> <g ref="#interpunct">·</g> <w><expan><abbr>lib</abbr><ex>ertus</ex></expan></w> <g ref="#interpunct">·</g> <name>Iuvenalis</name> <g ref="#interpunct">·</g>
-                    <lb n="3"/><w>vixit</w> <g ref="#interpunct">·</g> <w>annos</w> <g ref="#interpunct">·</g> <num value="9">VIIII</num> <g ref="#interpunct">·</g>
+                    <lb n="1"/><w><expan><abbr>Q</abbr><ex>uintus</ex></expan></w> <g ref="#interpunct">·</g> <name><w>Cornificius</w></name> <g ref="#interpunct">·</g>
+                    <lb n="2"/><name><w><expan><abbr>Q</abbr><ex>uinti</ex></expan></w></name> <g ref="#interpunct">·</g> <w><expan><abbr>lib</abbr><ex>ertus</ex></expan></w> <g ref="#interpunct">·</g> <name><w>Iuvenalis</w></name> <g ref="#interpunct">·</g>
+                    <lb n="3"/><w>vixit</w> <g ref="#interpunct">·</g> <w>annos</w> <g ref="#interpunct">·</g> <num value="9"><w>VIIII</w></num> <g ref="#interpunct">·</g>
                     <lb n="4"/><w>pie</w> <g ref="#interpunct">·</g> <w>salve</w> <g ref="#interpunct">·</g>
                 </ab>
             </div>

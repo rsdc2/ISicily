@@ -192,9 +192,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#TNS">
                 <ab>
-                    <lb n="1"/><w><supplied reason="lost">Dis</supplied></w> <name><unclear>M</unclear>anibus</name>
+                    <lb n="1"/><w><supplied reason="lost">Dis</supplied></w> <name><w><unclear>M</unclear>anibus</w></name>
                     <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w>ulciae</w>
-                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <name><unclear>T</unclear>yche</name>
+                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <name><w><unclear>T</unclear>yche</w></name>
                 </ab>
             </div>
             <div type="apparatus">

@@ -194,7 +194,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1" xml:id="DkyAK"/><gap reason="lost" extent="unknown" unit="character" xml:id="DkyAU"/> <w xml:id="DkyAe">Τ</w> <space unit="character" quantity="1" xml:id="DkyAo"/><name xml:id="DkyAy">Νυμφόδωρος</name> <name xml:id="DkyAΙ">Διόδω<supplied reason="lost" xml:id="DkyAΤ">ρου</supplied></name> <gap reason="lost" extent="unknown" unit="character" xml:id="DkyAε"/>
+                    <lb n="1" xml:id="DkyAK"/><gap reason="lost" extent="unknown" unit="character" xml:id="DkyAU"/> <w xml:id="DkyAe">Τ</w> <space unit="character" quantity="1" xml:id="DkyAo"/><name xml:id="DkyAy"><w>Νυμφόδωρος</w></name> <name xml:id="DkyAΙ"><w>Διόδω<supplied reason="lost" xml:id="DkyAΤ">ρου</supplied></w></name> <gap reason="lost" extent="unknown" unit="character" xml:id="DkyAε"/>
                 </ab>
             </div>
             <div type="apparatus">

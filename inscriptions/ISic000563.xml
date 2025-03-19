@@ -191,11 +191,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <name><supplied reason="lost"><expan><abbr>M</abbr><ex>anibus</ex></expan></supplied></name>
-                    <lb n="2"/><name><expan><abbr>Q</abbr><ex>uintus</ex></expan></name> <g ref="#interpunct">·</g> <name>Munatiu<supplied reason="lost">s</supplied></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <name><w><supplied reason="lost"><expan><abbr>M</abbr><ex>anibus</ex></expan></supplied></w></name>
+                    <lb n="2"/><name><w><expan><abbr>Q</abbr><ex>uintus</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w>Munatiu<supplied reason="lost">s</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="3"/><w>fecit</w> <gap reason="lost" extent="unknown" unit="character"/> <w>et</w> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="4"/><gap reason="lost" quantity="1" unit="line"/>
-                    <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/> <orig>P</orig><g ref="#interpunct">·</g> <num value="14">XIIII</num>
+                    <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/> <orig>P</orig><g ref="#interpunct">·</g> <num value="14"><w>XIIII</w></num>
                 </ab>
             </div>
             <div type="apparatus">

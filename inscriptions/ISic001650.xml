@@ -192,9 +192,9 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost"><roleName type="supracivic" subtype="consul">ὑπατίᾳ</roleName></supplied></w>
-                    <lb n="2"/><name>Λιμενίου</name>
-                    <lb n="3"/><w>κὲ</w> <name>Κατυλ
-                    <lb n="4" break="no"/>λίνου</name>
+                    <lb n="2"/><name><w>Λιμενίου</w></name>
+                    <lb n="3"/><w>κὲ</w> <name><w>Κατυλ
+                    <lb n="4" break="no"/>λίνου</w></name>
                 </ab>
             </div>
             <div type="apparatus">

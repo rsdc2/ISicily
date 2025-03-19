@@ -193,7 +193,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name><choice><orig>Εἰρῆνες</orig><reg>Εἰρηναῖος</reg></choice></name></persName> <w>πρε
+                    <lb n="1"/><persName type="attested"><name><w><choice><orig>Εἰρῆνες</orig><reg>Εἰρηναῖος</reg></choice></w></name></persName> <w>πρε
                     <lb n="2" break="no"/>σβύτερος</w> <w>ἠ
                     <lb n="3" break="no"/>γόρασεν</w> <w>τό
                     <lb n="4" break="no"/>πον,</w> <w>μη<choice><corr>δ</corr><sic>λ</sic></choice>ὲν</w> <w>β

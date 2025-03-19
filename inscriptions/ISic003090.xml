@@ -195,7 +195,7 @@
                     <lb n="0"/><gap reason="lost" extent="unknown" unit="line"/>
                     <lb n="1"/><w>καὶ</w> <w>οἱ</w> <w>ἄλλοι</w> <w>π<supplied reason="lost" cert="low">ολῖται</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="3"/><roleName type="civic" subtype="grammateus"><w>γραμματε</w> <w><supplied reason="lost">ὺς</supplied></w></roleName> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="4"/><persName type="attested"><name>Γόργος</name> <persName type="attested"><name type="patronym">Ζωΐ<supplied reason="lost">λου</supplied></name></persName></persName> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="4"/><persName type="attested"><name><w>Γόργος</w></name> <persName type="attested"><name type="patronym"><w>Ζωΐ<supplied reason="lost">λου</supplied></w></name></persName></persName> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>
             <div type="apparatus" resp="#JP">

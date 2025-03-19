@@ -178,33 +178,33 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
                     <lb n="1"/><w>Ἐπί</w> <roleName type="civic.religious" subtype="hierothutes"><w>ἱεροθύτᾶ</w></roleName>
-                    <lb n="2"/><persName type="attested"><name>Νυμφοδώρου</name> <w>τοῦ</w> <persName type="attested"><name type="patronym">Φίλωνος</name></persName></persName>
+                    <lb n="2"/><persName type="attested"><name><w>Νυμφοδώρου</w></name> <w>τοῦ</w> <persName type="attested"><name type="patronym"><w>Φίλωνος</w></name></persName></persName>
                     <lb n="3"/><roleName type="civic" subtype="paraprostates"><w><expan><abbr>παραπροστά</abbr><ex>τα</ex></expan></w></roleName> <w>τᾶς</w> <w>βουλᾶς,</w>
                     <lb n="4"/><w>προεδρευούσας</w> <w>τᾶς</w> <w>φυλᾶς</w>
-                    <lb n="5"/><w>τῶν</w> <orgName type="tribe"><name>Ὑλλέων</name></orgName>, <roleName type="civic" subtype="proagoros"><w>προαγοροῦντος</w></roleName>
-                    <lb n="6"/><persName type="attested"><name>Διοκλέος</name> <w>τοῦ</w> <persName type="attested"><name type="patronym">Διοκλέος</name></persName></persName>,
-                    <lb n="7"/><roleName type="civic" subtype="grammateus"><w>γραμματεύοντος</w></roleName> <persName type="attested"><name>Ἀδρανίωνος</name> <persName type="attested"><name type="patronym">Ἀλεξάνδρου</name></persName></persName>,
-                    <lb n="8"/><w>ἁλίασμα</w> <w>ἕκτας</w> <w>διμήνου,</w> <rs type="month"><name>Καρνείου</name></rs><w>ἐξήκο<supplied reason="lost">ντ</supplied>ος</w> <w>παντᾶι,</w>
-                    <lb n="9"/><w>ὑπὲρ</w> <roleName type="paracivic" subtype="proxenos"><w>προξενίας</w></roleName> <persName type="attested"><name>Δημητρίωι</name> <persName type="attested"><name type="patronym">Διοδότου</name></persName> <placeName type="ethnic"><name>Συρακοσίωι</name></placeName></persName>.
-                    <lb n="10"/><name>Ἔδοξε</name> <w>τᾶι</w> <w>ἁλίαι</w> <w>καθὰ</w> <w>καὶ</w> <w>τᾶι</w> <w>συγκλήτωι</w> <num value="110">ρι</num> <w>ἐπειδὴ</w> <w>ἀνάγ
-                    <lb n="11" break="no"/>γελλον</w> <w>ὁι</w> <roleName type="civic" subtype="presbys"><w>πρέσβεες</w></roleName> <w>οἱ</w> <w>ἐς</w> <placeName><name>Ῥώμαν</name></placeName> <w>πορευθέντες,</w> <persName type="attested"><name>Πασίων</name>
-                    <lb n="12"/><persName type="attested"><name type="patronym">Πασίωνος</name></persName> <persName type="attested"><name type="papponym">Κότητος</name></persName></persName> <w>καὶ</w> <persName type="attested"><name>Θεόδωρος</name> <persName type="attested"><name type="patronym">Θεοδώρου</name></persName> <persName type="attested"><name type="papponym">Ξηνιάδα</name></persName></persName>,
-                    <lb n="13"/><persName type="attested"><name>Δημήτριον</name> <persName type="attested"><name type="patronym">Διοδότου</name></persName> <placeName type="ethnic"><name>Συρακόσιον</name></placeName></persName> <w>πολλὰς</w> <w>καὶ</w> <w>μεγάλας</w> <w>χρείας</w>
+                    <lb n="5"/><w>τῶν</w> <orgName type="tribe"><name><w>Ὑλλέων</w></name></orgName>, <roleName type="civic" subtype="proagoros"><w>προαγοροῦντος</w></roleName>
+                    <lb n="6"/><persName type="attested"><name><w>Διοκλέος</w></name> <w>τοῦ</w> <persName type="attested"><name type="patronym"><w>Διοκλέος</w></name></persName></persName>,
+                    <lb n="7"/><roleName type="civic" subtype="grammateus"><w>γραμματεύοντος</w></roleName> <persName type="attested"><name><w>Ἀδρανίωνος</w></name> <persName type="attested"><name type="patronym"><w>Ἀλεξάνδρου</w></name></persName></persName>,
+                    <lb n="8"/><w>ἁλίασμα</w> <w>ἕκτας</w> <w>διμήνου,</w> <rs type="month"><name><w>Καρνείου</w></name></rs><w>ἐξήκο<supplied reason="lost">ντ</supplied>ος</w> <w>παντᾶι,</w>
+                    <lb n="9"/><w>ὑπὲρ</w> <roleName type="paracivic" subtype="proxenos"><w>προξενίας</w></roleName> <persName type="attested"><name><w>Δημητρίωι</w></name> <persName type="attested"><name type="patronym"><w>Διοδότου</w></name></persName> <placeName type="ethnic"><name><w>Συρακοσίωι</w></name></placeName></persName>.
+                    <lb n="10"/><name><w>Ἔδοξε</w></name> <w>τᾶι</w> <w>ἁλίαι</w> <w>καθὰ</w> <w>καὶ</w> <w>τᾶι</w> <w>συγκλήτωι</w> <num value="110"><w>ρι</w></num> <w>ἐπειδὴ</w> <w>ἀνάγ
+                    <lb n="11" break="no"/>γελλον</w> <w>ὁι</w> <roleName type="civic" subtype="presbys"><w>πρέσβεες</w></roleName> <w>οἱ</w> <w>ἐς</w> <placeName><name><w>Ῥώμαν</w></name></placeName> <w>πορευθέντες,</w> <persName type="attested"><name><w>Πασίων</w></name>
+                    <lb n="12"/><persName type="attested"><name type="patronym"><w>Πασίωνος</w></name></persName> <persName type="attested"><name type="papponym"><w>Κότητος</w></name></persName></persName> <w>καὶ</w> <persName type="attested"><name><w>Θεόδωρος</w></name> <persName type="attested"><name type="patronym"><w>Θεοδώρου</w></name></persName> <persName type="attested"><name type="papponym"><w>Ξηνιάδα</w></name></persName></persName>,
+                    <lb n="13"/><persName type="attested"><name><w>Δημήτριον</w></name> <persName type="attested"><name type="patronym"><w>Διοδότου</w></name></persName> <placeName type="ethnic"><name><w>Συρακόσιον</w></name></placeName></persName> <w>πολλὰς</w> <w>καὶ</w> <w>μεγάλας</w> <w>χρείας</w>
                     <lb n="14"/><w>παρεισχῆσθαι</w> <w>τῶι</w> <w>ἁμῶι</w> <w>δάμωι</w> <w>καὶ</w> <w>μεγάλων</w> <w>ἀγαθῶν</w> <w>παραίτιο<supplied reason="omitted">ν</supplied></w>
-                    <lb n="15"/><w>γεγόνειν,</w> <w>τοῖς</w> <w>δὲ</w> <placeName type="ethnic"><name>Ἀκραγαντίνοις</name></placeName> <w>πάτριόν</w> <w>ἐστι</w> <w>καὶ</w> <w>ἐκ</w> <w>προγόνων</w>
+                    <lb n="15"/><w>γεγόνειν,</w> <w>τοῖς</w> <w>δὲ</w> <placeName type="ethnic"><name><w>Ἀκραγαντίνοις</w></name></placeName> <w>πάτριόν</w> <w>ἐστι</w> <w>καὶ</w> <w>ἐκ</w> <w>προγόνων</w>
                     <lb n="16"/><w>παραδεδομένον</w> <w>τιμεῖν</w> <w>τοὺς</w> <w>ἀγαθοὺς</w> <w>ἄνδρας</w> <w>καὶ</w> <w>προισταμέ
                     <lb n="17" break="no"/>νους</w> <w>τοῦ</w> <w>ἁμοῦ</w> <w>δάμου</w> <w>ταῖς</w> <w>καταξίοις</w> <w>τιμαῖς,</w>
-                    <lb n="18"/><w>δεδόχθαι</w> <w>ἐπί</w> <w>ἀγαθᾶι</w> <w>τύχαι</w> <w>καὶ</w> <w>σωτηρίαι</w> <w>τοῦ</w> <w>δάμου</w> <w>τῶν</w> <placeName type="ethnic"><name>Ἀκραγαντίνων</name></placeName>
-                    <lb n="19"/><w>εἴμειν</w> <w>πρόξενον</w> <w>καὶ</w> <w>εὐεργέταν</w> <persName type="attested"><name>Δημήτριον</name> <persName type="attested"><name type="patronym">Διοδότου</name></persName> <placeName type="ethnic"><name>Συρακόσι
-                    <lb n="20" break="no"/>ον</name></placeName></persName>, <w>ὅπως</w> <w>πᾶσι</w> <w>φανερὸν</w> <w>ἦ</w> <w>ὅτι</w> <w>ὁ</w> <w>δᾶμος</w> <w>τῶν</w> <placeName type="ethnic"><name>Ἀκραγαντίνων</name></placeName> <w>ἐπί
+                    <lb n="18"/><w>δεδόχθαι</w> <w>ἐπί</w> <w>ἀγαθᾶι</w> <w>τύχαι</w> <w>καὶ</w> <w>σωτηρίαι</w> <w>τοῦ</w> <w>δάμου</w> <w>τῶν</w> <placeName type="ethnic"><name><w>Ἀκραγαντίνων</w></name></placeName>
+                    <lb n="19"/><w>εἴμειν</w> <w>πρόξενον</w> <w>καὶ</w> <w>εὐεργέταν</w> <persName type="attested"><name><w>Δημήτριον</w></name> <persName type="attested"><name type="patronym"><w>Διοδότου</w></name></persName> <placeName type="ethnic"><name><w>Συρακόσι
+                    <lb n="20" break="no"/>ον</w></name></placeName></persName>, <w>ὅπως</w> <w>πᾶσι</w> <w>φανερὸν</w> <w>ἦ</w> <w>ὅτι</w> <w>ὁ</w> <w>δᾶμος</w> <w>τῶν</w> <placeName type="ethnic"><name><w>Ἀκραγαντίνων</w></name></placeName> <w>ἐπί
                     <lb n="21" break="no"/>σταται</w> <w>χάριτας</w> <w>ἀπονέμειν</w> <w>καταξίας</w> <w>τοῖς</w> <w>εὐεργετεῖν</w> <w>προαι
                     <lb n="22" break="no"/>ρουμένοις</w> <w>αὐτόν</w> <g ref="#interpunct">·</g> <w>τὸ</w> <w>δὲ</w> <w>δόγμα</w> <w>τόδε</w> <w>κολάψαντας</w> <w>ἐς</w> <w>χαλκώ
                     <lb n="23" break="no"/>ματα</w> <w>δύο,</w> <w>τὸ</w> <w>μὲν</w> <w>ἓν</w> <w>ἀναθέμειν</w> <w>εἰς</w> <w>τὸ</w> <w>βουλευτήριον,</w> <w>τὸ</w> <w>δὲ</w>
-                    <lb n="24"/><w>ἄλλο</w> <w>ἀποδόμειν</w> <persName type="attested"><name>Δημητρίωι</name> <persName type="attested"><name type="patronym">Διοδότου</name></persName> <placeName type="ethnic"><name>Συρακοσίωι</name></placeName></persName> <w>ὑπό
+                    <lb n="24"/><w>ἄλλο</w> <w>ἀποδόμειν</w> <persName type="attested"><name><w>Δημητρίωι</w></name> <persName type="attested"><name type="patronym"><w>Διοδότου</w></name></persName> <placeName type="ethnic"><name><w>Συρακοσίωι</w></name></placeName></persName> <w>ὑπό
                     <lb n="25" break="no"/>μναμα</w> <w>τᾶς</w> <w>ποτὶ</w> <w>τὸν</w> <w>δᾶμον</w> <w>εὐνοίας</w> <g ref="#interpunct">·</g> <w>τοὺς</w> <w>δὲ</w> <roleName type="civic" subtype="tamias"><w>ταμίας</w></roleName>
                     <lb n="26"/><w>ἐξοδιάξαι</w> <w>ἐς</w> <w>τὰ</w> <w>προγεγραμμένα</w> <w>ὅσον</w> <w>κα</w> <w>χρεία</w> <w>ἦ</w> <w>καὶ</w> <w>φέ
                     <lb n="27" break="no"/>ρειν</w> <w>τᾶν</w> <w>ἔξοδον</w> <w>διὰ</w> <w>τῶν</w> <w>ἀπολόγων.</w>
-                    <lb n="28"/><name>Ὁμογνώμονες</name> <w>τοῦ</w> <w>συνεδρίου</w> <w>πάντες.</w>
+                    <lb n="28"/><name><w>Ὁμογνώμονες</w></name> <w>τοῦ</w> <w>συνεδρίου</w> <w>πάντες.</w>
                 </ab>
             </div>
             <div type="apparatus" resp="#JP">

@@ -194,10 +194,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#EK">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <g ref="#ivy-leaf"/> <name><expan><abbr>M</abbr><ex>anibus</ex></expan></name> <g ref="#ivy-leaf"/> <name><expan><abbr>S</abbr><ex>acrum</ex></expan></name> <g ref="#ivy-leaf"/>
-                    <lb n="2"/><name><expan><abbr>L</abbr><ex>ucius</ex></expan></name> <g ref="#ivy-leaf"/> <name>Arrius</name>
-                    <lb n="3"/><name>Secundus</name>
-                    <lb n="4"/><w><expan><abbr>vix</abbr><ex>it</ex></expan></w> <g ref="#ivy-leaf"/> <w><expan><abbr>an</abbr><ex>nos</ex></expan></w> <g ref="#ivy-leaf"/> <num value="17">XVII</num>
+                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <g ref="#ivy-leaf"/> <name><w><expan><abbr>M</abbr><ex>anibus</ex></expan></w></name> <g ref="#ivy-leaf"/> <name><w><expan><abbr>S</abbr><ex>acrum</ex></expan></w></name> <g ref="#ivy-leaf"/>
+                    <lb n="2"/><name><w><expan><abbr>L</abbr><ex>ucius</ex></expan></w></name> <g ref="#ivy-leaf"/> <name><w>Arrius</w></name>
+                    <lb n="3"/><name><w>Secundus</w></name>
+                    <lb n="4"/><w><expan><abbr>vix</abbr><ex>it</ex></expan></w> <g ref="#ivy-leaf"/> <w><expan><abbr>an</abbr><ex>nos</ex></expan></w> <g ref="#ivy-leaf"/> <num value="17"><w>XVII</w></num>
                     <lb n="5"/><w><choice><reg>marmorarii</reg><orig>marmorari</orig></choice></w>
                     <lb n="6"/><w><expan><abbr>convive</abbr><ex>ntes</ex></expan></w> <g ref="#ivy-leaf"/> <w><expan><abbr>fecer</abbr><ex>unt</ex></expan></w>
                 </ab>

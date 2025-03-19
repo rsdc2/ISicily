@@ -196,10 +196,10 @@
                 <div type="textpart" subtype="fragment-physical" n="a">
                     <ab>
                         <lb n="1"/><g ref="#interpunct">·</g> <w>Αὐρήλιος</w> <g ref="#interpunct">·</g>
-                        <lb n="2"/><name>Εὐτύχης</name> <w>τοῖς</w> <w>κατοι
+                        <lb n="2"/><name><w>Εὐτύχης</w></name> <w>τοῖς</w> <w>κατοι
                         <lb n="3" break="no"/>χομένοις</w> <w>μ<hi rend="ligature">νε</hi>ί<hi rend="ligature">ας</hi></w> <w>χάρ<hi rend="small">ι</hi><hi rend="small">ν</hi></w>
-                        <lb n="4"/><name><expan><abbr>Θ</abbr><ex>εοῖς</ex></expan></name> <name><expan><abbr>Κ</abbr><ex>αταχθονίοις</ex></expan></name>
-                        <lb n="5"/><name>Κύζικος</name> <w>ἦν</w> <w>μία</w>
+                        <lb n="4"/><name><w><expan><abbr>Θ</abbr><ex>εοῖς</ex></expan></w></name> <name><w><expan><abbr>Κ</abbr><ex>αταχθονίοις</ex></expan></w></name>
+                        <lb n="5"/><name><w>Κύζικος</w></name> <w>ἦν</w> <w>μία</w>
                         <lb n="6"/><w>πᾶσι</w> <w>πατρίς</w> <w>καὶ</w> <w><hi rend="ligature">μο</hi>ῖ
                         <lb n="7" break="no"/>ρα</w> <w>δὲ</w> <w>πάντας</w> <g ref="#interpunct">·</g> <w>ὤλ<supplied reason="lost">ε</supplied>
                         <lb n="8" break="no"/>σε<hi rend="ligature" xml:id="h5">ν</hi></w> <w><hi rend="ligature" xml:id="h6">ἠ</hi>ϊθέους</w> <w>ὦ</w> <w><unclear>π</unclear><supplied reason="lost">α</supplied><link target="#h5 #h6"/>
@@ -220,7 +220,7 @@
                         <lb n="6"/><w><supplied reason="undefined" evidence="previouseditor">περικείμενον</supplied></w> <w><supplied reason="undefined" evidence="previouseditor">οὔνο</supplied>
                         <lb n="7" break="no"/><supplied reason="undefined" evidence="previouseditor">μα</supplied></w> <w><supplied reason="undefined" evidence="previouseditor">τύμβους</supplied></w> <w><supplied reason="undefined" evidence="previouseditor">οὗ</supplied></w> <w><supplied reason="undefined" evidence="previouseditor">γλυκύς</supplied>
                         <lb n="8" break="no"/><supplied reason="undefined" evidence="previouseditor">ἐσθ’</supplied></w> <w><supplied reason="undefined" evidence="previouseditor">ἡμεῖν</supplied></w> <w><supplied reason="undefined" evidence="previouseditor">κᾶν</supplied></w> <w><supplied reason="undefined" evidence="previouseditor">φθι</supplied></w>
-                        <lb n="9"/><w><supplied reason="undefined" evidence="previouseditor">μένοισιν</supplied></w> <name><supplied reason="undefined" evidence="previouseditor">Ἔρως</supplied></name>
+                        <lb n="9"/><w><supplied reason="undefined" evidence="previouseditor">μένοισιν</supplied></w> <name><w><supplied reason="undefined" evidence="previouseditor">Ἔρως</supplied></w></name>
                     </ab>
                 </div>
             </div>

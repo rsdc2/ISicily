@@ -171,7 +171,7 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <gap reason="illegible" unit="character" quantity="1"/> <orig>Δ</orig><gap reason="illegible" unit="character" quantity="2"/>
-                    <lb n="2"/><persName type="attested"><name>Εἰρηνες</name></persName>
+                    <lb n="2"/><persName type="attested"><name><w>Εἰρηνες</w></name></persName>
                     <lb n="3"/><g ref="#staurogram">𐆠</g> <g ref="#staurogram">𐆠</g> <g ref="#staurogram">𐆠</g>
                 </ab>
             </div>

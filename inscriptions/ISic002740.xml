@@ -185,7 +185,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1" style="text-direction:r-to-l"/><persName type="attested"><name><gap reason="lost" extent="unknown" unit="character"><desc>personal name</desc></gap>ο̄</name> <g ref="#">⁝</g> <w>το͂</w> <name type="patronym">Νάνο̄</name></persName> <w>εἰμί</w>
+                    <lb n="1" style="text-direction:r-to-l"/><persName type="attested"><name><w><gap reason="lost" extent="unknown" unit="character"><desc>personal name</desc></gap>ο̄</w></name> <g ref="#">⁝</g> <w>το͂</w> <name type="patronym"><w>Νάνο̄</w></name></persName> <w>εἰμί</w>
                 </ab>
             </div>
             <div type="apparatus">

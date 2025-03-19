@@ -192,8 +192,8 @@
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
                     <lb n="1"/><w><expan><abbr>d</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>m</abbr><ex>anibus</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>s</abbr><ex>acrum</ex></expan></w>
-                    <lb n="2"/><name>Nymphon</name> <g ref="#interpunct">·</g> <w>e<supplied reason="lost">t</supplied></w>
-                    <lb n="3"/><name>Cale</name> <g ref="#interpunct">·</g> <w>vivi</w> <w>si<supplied reason="lost">bi</supplied></w>
+                    <lb n="2"/><name><w>Nymphon</w></name> <g ref="#interpunct">·</g> <w>e<supplied reason="lost">t</supplied></w>
+                    <lb n="3"/><name><w>Cale</w></name> <g ref="#interpunct">·</g> <w>vivi</w> <w>si<supplied reason="lost">bi</supplied></w>
                     <lb n="4"/><w>et</w> <w>suis</w> <g ref="#interpunct">·</g> <w>fecer<supplied reason="lost">unt</supplied></w>
                 </ab>
             </div>

@@ -207,10 +207,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#VM #AA">
                 <ab>
-                    <lb n="1"/><persName type="divine"><name>Dis</name> <name><expan><abbr>Man</abbr><ex>ibus</ex></expan></name></persName>
-                    <lb n="2"/><persName type="attested"><name><expan><abbr>L</abbr><ex>ucius</ex></expan></name> <name>Tennius</name>
-                    <lb n="3"/><name>Herma</name></persName>
-                    <lb n="4"/><w><expan><abbr>v</abbr><ex>ixit</ex></expan></w> <g ref="#ivy-leaf">❦</g> <w><expan><abbr>a</abbr><ex>nnis</ex></expan></w> <g ref="#ivy-leaf">❦</g> <num value="75">LXXV</num>
+                    <lb n="1"/><persName type="divine"><name><w>Dis</w></name> <name><w><expan><abbr>Man</abbr><ex>ibus</ex></expan></w></name></persName>
+                    <lb n="2"/><persName type="attested"><name><w><expan><abbr>L</abbr><ex>ucius</ex></expan></w></name> <name><w>Tennius</w></name>
+                    <lb n="3"/><name><w>Herma</w></name></persName>
+                    <lb n="4"/><w><expan><abbr>v</abbr><ex>ixit</ex></expan></w> <g ref="#ivy-leaf">❦</g> <w><expan><abbr>a</abbr><ex>nnis</ex></expan></w> <g ref="#ivy-leaf">❦</g> <num value="75"><w>LXXV</w></num>
                 </ab>
             </div>
             <div type="apparatus">

@@ -199,9 +199,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#VM #JP">
                 <ab>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w part="F"><unclear>M</unclear></w> <g ref="#interpunct">·</g> <persName type="attested"><name><hi rend="ligature">Ma</hi>rgar</name></persName>
-                    <lb n="2"/><w><supplied reason="lost"><expan><abbr>v</abbr><ex>ixit</ex></expan></supplied></w> <w><expan><abbr><unclear>a</unclear></abbr><ex>nnis</ex></expan></w> <g ref="#interpunct">·</g> <num value="4">IIII</num> <g ref="#interpunct">·</g> <w><expan><abbr>m</abbr><ex>ensibus</ex></expan></w> <g ref="#interpunct">·</g> <num value="11">XI</num>
-                    <lb n="3"/><w><expan><abbr>d</abbr><ex>iebus</ex></expan></w> <g ref="#interpunct">·</g> <num value="7">VII</num>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w part="F"><unclear>M</unclear></w> <g ref="#interpunct">·</g> <persName type="attested"><name><w><hi rend="ligature">Ma</hi>rgar</w></name></persName>
+                    <lb n="2"/><w><supplied reason="lost"><expan><abbr>v</abbr><ex>ixit</ex></expan></supplied></w> <w><expan><abbr><unclear>a</unclear></abbr><ex>nnis</ex></expan></w> <g ref="#interpunct">·</g> <num value="4"><w>IIII</w></num> <g ref="#interpunct">·</g> <w><expan><abbr>m</abbr><ex>ensibus</ex></expan></w> <g ref="#interpunct">·</g> <num value="11"><w>XI</w></num>
+                    <lb n="3"/><w><expan><abbr>d</abbr><ex>iebus</ex></expan></w> <g ref="#interpunct">·</g> <num value="7"><w>VII</w></num>
                 </ab>
             </div>
             <div type="apparatus">

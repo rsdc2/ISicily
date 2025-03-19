@@ -200,8 +200,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#TA #JP">
                 <ab>
-                    <lb n="1"/><persName type="divine"><name>Serapi</name></persName> <g ref="#interpunct">·</g> <persName type="divine"><name>Isi</name></persName> <g ref="#interpunct">·</g> <w>sacrum</w>
-                    <lb n="2"/><persName type="attested"><name><expan><abbr>C</abbr><ex>aius</ex></expan></name> <g ref="#interpunct">·</g> <name>Ennius</name> <g ref="#interpunct">·</g> <name>Secundus</name></persName>
+                    <lb n="1"/><persName type="divine"><name><w>Serapi</w></name></persName> <g ref="#interpunct">·</g> <persName type="divine"><name><w>Isi</w></name></persName> <g ref="#interpunct">·</g> <w>sacrum</w>
+                    <lb n="2"/><persName type="attested"><name><w><expan><abbr>C</abbr><ex>aius</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w>Ennius</w></name> <g ref="#interpunct">·</g> <name><w>Secundus</w></name></persName>
                     <lb n="3"/><w>votum</w> <g ref="#interpunct">·</g> <w><expan><abbr>a</abbr><ex cert="low">nimo</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>p</abbr><ex cert="low">io</ex></expan></w>
                 </ab>
             </div>

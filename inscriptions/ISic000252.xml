@@ -193,7 +193,7 @@
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#VM">
                 <ab>
                     <lb n="1"/><w><supplied reason="lost">Ex</supplied></w> <w><expan><abbr>d</abbr><ex>ecreto</ex></expan></w> <roleName type="civic" subtype="decurio"><w><expan><abbr>d</abbr><ex>ecurionum</ex></expan></w></roleName>
-                    <lb n="2"/><w><expan><abbr><unclear>l</unclear></abbr><ex>ocus</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>p</abbr><ex>ublice</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>d</abbr><ex>atus</ex></expan></w> <g ref="#interpunct">·</g> <w>in</w> <g ref="#interpunct">·</g> <w><expan><abbr>fr</abbr><ex>onte</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>p</abbr><ex>edes</ex></expan></w> <g ref="#interpunct">·</g> <num value="25">XXV</num>
+                    <lb n="2"/><w><expan><abbr><unclear>l</unclear></abbr><ex>ocus</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>p</abbr><ex>ublice</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>d</abbr><ex>atus</ex></expan></w> <g ref="#interpunct">·</g> <w>in</w> <g ref="#interpunct">·</g> <w><expan><abbr>fr</abbr><ex>onte</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>p</abbr><ex>edes</ex></expan></w> <g ref="#interpunct">·</g> <num value="25"><w>XXV</w></num>
                     <lb n="3"/><w>in</w> <g ref="#interpunct">·</g> <w><expan><abbr>agr</abbr><ex>o</ex></expan></w> <w><supplied reason="lost"><expan><abbr>p</abbr><ex>edes</ex></expan></supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>

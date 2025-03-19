@@ -194,7 +194,7 @@
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
                     <lb n="1"/><w><supplied reason="lost">Vene</supplied>re</w>
-                    <lb n="2"/><name>Erucinai</name>
+                    <lb n="2"/><name><w>Erucinai</w></name>
                     <lb n="3"/><w>dono</w>
                     <lb n="4"/><w>dedet</w>
                 </ab>

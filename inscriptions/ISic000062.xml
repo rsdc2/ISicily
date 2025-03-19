@@ -193,9 +193,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>L</abbr><ex>ucius</ex></expan></w> <g ref="#interpunct">·</g> <name>Volumniu<unclear>s</unclear></name>
-                    <lb n="2"/><name>Parsianus</name>
-                    <lb n="3"/><w><expan><abbr>vix</abbr><ex>it</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>an</abbr><ex>nis</ex></expan></w> <g ref="#interpunct">·</g> <num value="13">XIII</num> <w><expan><abbr>m</abbr><ex>ensibus</ex></expan></w> <num value="4">IV</num>
+                    <lb n="1"/><w><expan><abbr>L</abbr><ex>ucius</ex></expan></w> <g ref="#interpunct">·</g> <name><w>Volumniu<unclear>s</unclear></w></name>
+                    <lb n="2"/><name><w>Parsianus</w></name>
+                    <lb n="3"/><w><expan><abbr>vix</abbr><ex>it</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>an</abbr><ex>nis</ex></expan></w> <g ref="#interpunct">·</g> <num value="13"><w>XIII</w></num> <w><expan><abbr>m</abbr><ex>ensibus</ex></expan></w> <num value="4"><w>IV</w></num>
                 </ab>
             </div>
             <div type="apparatus">

@@ -186,7 +186,7 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#SN">
                 <ab>
                     <lb n="1"/><orig>ΣΡΑΣΕ</orig><gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="2"/><w>ε̄</w> <persName type="attested"><name type="idionym"><seg part="I">Τατ</seg><gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown" unit="character"/></name></persName>
+                    <lb n="2"/><w>ε̄</w> <persName type="attested"><name type="idionym"><w><seg part="I">Τατ</seg><gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown" unit="character"/></w></name></persName>
                     <lb n="3"/><orig>ΣΥΙΣΟ</orig><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="4"/><w>γλ<unclear>ο͂</unclear><supplied reason="lost">σ</supplied><supplied reason="lost" cert="low">σ</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>

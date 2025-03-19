@@ -199,10 +199,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/><w><supplied reason="lost">Πόπλιος</supplied></w> <name><unclear>Κ</unclear>ορνήλι<supplied reason="lost">ος</supplied></name> <name><supplied reason="lost">Ποπλίου</supplied></name> <w><supplied reason="lost">υἱὸς</supplied></w> <name><supplied reason="lost">Σκιπίων</supplied></name>
-                    <lb n="2"/><name><supplied reason="lost">Ἀφρικα</supplied>νὸς</name> <roleName type="supracivic" subtype="consul"><w>ὕπατος</w></roleName> <w>ἐ<supplied reason="lost">λῶν</supplied></w> <name><supplied reason="lost">Καρχηδόνα</supplied></name> <w><supplied reason="lost">κατά</supplied></w>
-                    <lb n="3"/><w><supplied reason="lost">κρά</supplied><unclear>τ</unclear>ος</w> <w>τοὺς</w> <w>ἐξ</w> <name>Ἱμέρ<supplied reason="lost">ας</supplied></name> <w><supplied reason="lost">ἀνδριάντας</supplied></w>
-                    <lb n="4"/><name>Ἱμεραίο<supplied reason="lost">ις</supplied></name> <gap reason="lost" unit="character" extent="unknown"/>
+                    <lb n="1"/><w><supplied reason="lost">Πόπλιος</supplied></w> <name><w><unclear>Κ</unclear>ορνήλι<supplied reason="lost">ος</supplied></w></name> <name><w><supplied reason="lost">Ποπλίου</supplied></w></name> <w><supplied reason="lost">υἱὸς</supplied></w> <name><w><supplied reason="lost">Σκιπίων</supplied></w></name>
+                    <lb n="2"/><name><w><supplied reason="lost">Ἀφρικα</supplied>νὸς</w></name> <roleName type="supracivic" subtype="consul"><w>ὕπατος</w></roleName> <w>ἐ<supplied reason="lost">λῶν</supplied></w> <name><w><supplied reason="lost">Καρχηδόνα</supplied></w></name> <w><supplied reason="lost">κατά</supplied></w>
+                    <lb n="3"/><w><supplied reason="lost">κρά</supplied><unclear>τ</unclear>ος</w> <w>τοὺς</w> <w>ἐξ</w> <name><w>Ἱμέρ<supplied reason="lost">ας</supplied></w></name> <w><supplied reason="lost">ἀνδριάντας</supplied></w>
+                    <lb n="4"/><name><w>Ἱμεραίο<supplied reason="lost">ις</supplied></w></name> <gap reason="lost" unit="character" extent="unknown"/>
                 </ab>
             </div>
             <div type="apparatus">

@@ -191,9 +191,9 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#AA">
                 <ab>
                     <cb n="1"/>
-                    <lb n="1" break="no"/><persName type="attested"><name>Ἐλεύθερε
-                    <lb n="2"/>ρε</name></persName> <cb n="2"/>
-                    <lb n="3"/><g ref="#long-vertical-bar">|</g> <persName type="attested"><name>Ἀγάθα</name></persName>
+                    <lb n="1" break="no"/><persName type="attested"><name><w>Ἐλεύθερε
+                    <lb n="2"/>ρε</w></name></persName> <cb n="2"/>
+                    <lb n="3"/><g ref="#long-vertical-bar">|</g> <persName type="attested"><name><w>Ἀγάθα</w></name></persName>
                     <lb n="4"/><w>χαίρετε</w>
                 </ab>
             </div>

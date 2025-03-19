@@ -193,10 +193,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#DEE">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <name><supplied reason="lost"><expan><abbr>M</abbr><ex>anibus</ex></expan></supplied></name>
-                    <lb n="2"/><persName type="attested"><name type="nomen"><expan><abbr>Cl</abbr><ex>audius</ex></expan></name> <g ref="#interpunct">·</g> <name type="cognomen"><seg part="I">Acut</seg></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="3"/><persName type="attested"><name type="praenomen"><expan><abbr>Q</abbr><ex>uintus</ex></expan></name> <g ref="#interpunct">·</g> <name type="nomen"><seg part="I">Sufe<unclear>n</unclear></seg></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="4"/><persName type="attested"><name><seg part="I">Ca<unclear>i</unclear><unclear>s</unclear></seg></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <name><w><supplied reason="lost"><expan><abbr>M</abbr><ex>anibus</ex></expan></supplied></w></name>
+                    <lb n="2"/><persName type="attested"><name type="nomen"><w><expan><abbr>Cl</abbr><ex>audius</ex></expan></w></name> <g ref="#interpunct">·</g> <name type="cognomen"><w><seg part="I">Acut</seg></w></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="3"/><persName type="attested"><name type="praenomen"><w><expan><abbr>Q</abbr><ex>uintus</ex></expan></w></name> <g ref="#interpunct">·</g> <name type="nomen"><w><seg part="I">Sufe<unclear>n</unclear></seg></w></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="4"/><persName type="attested"><name><w><seg part="I">Ca<unclear>i</unclear><unclear>s</unclear></seg></w></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="5"/><w>ben<supplied reason="lost">e</supplied></w> <w><supplied reason="lost">merenti</supplied></w>
                 </ab>
             </div>

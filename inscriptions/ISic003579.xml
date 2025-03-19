@@ -201,7 +201,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
-                    <lb n="1"/><w>impensa</w> <g ref="#interpunct">·</g> <w><expan><abbr><hi rend="intraline"><am>HS</am></hi></abbr><ex>sestertium</ex></expan></w> <g ref="#interpunct">·</g> <num value="10000">CC|ϽϽ</num> <g ref="#interpunct">·</g> <w>fecit</w> <g ref="#interpunct">·</g>
+                    <lb n="1"/><w>impensa</w> <g ref="#interpunct">·</g> <w><expan><abbr><hi rend="intraline"><am>HS</am></hi></abbr><ex>sestertium</ex></expan></w> <g ref="#interpunct">·</g> <num value="10000"><w>CC|ϽϽ</w></num> <g ref="#interpunct">·</g> <w>fecit</w> <g ref="#interpunct">·</g>
                 </ab>
             </div>
             <div type="apparatus">

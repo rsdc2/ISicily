@@ -191,11 +191,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name>Ζωτικός</name></persName> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="2"/><persName type="attested"><name>Δέκομος</name></persName> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="3"/><persName type="attested"><name>Εὐκτήμον</name></persName> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="4"/><persName type="attested"><name>Ὀνάσιμος</name></persName> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="5"/><persName type="attested"><name><supplied reason="lost">Φιλ</supplied><unclear>ή</unclear>μων</name></persName> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><persName type="attested"><name><w>Ζωτικός</w></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><persName type="attested"><name><w>Δέκομος</w></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="3"/><persName type="attested"><name><w>Εὐκτήμον</w></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="4"/><persName type="attested"><name><w>Ὀνάσιμος</w></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="5"/><persName type="attested"><name><w><supplied reason="lost">Φιλ</supplied><unclear>ή</unclear>μων</w></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>
             <div type="apparatus">

@@ -193,9 +193,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#DM">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>A</abbr><ex>ulo</ex></expan></w> <g ref="#interpunct">·</g> <name>Magullio</name>
-                    <lb n="2"/><name><expan><abbr>A</abbr><ex>uli</ex></expan></name> <g ref="#interpunct">·</g> <w><expan><abbr>l</abbr><ex>iberto</ex></expan></w> <g ref="#interpunct">·</g> <name>Euhodo</name>
-                    <lb n="3"/><name>Magullia</name> <g ref="#interpunct">·</g> <name>Tyche</name>
+                    <lb n="1"/><w><expan><abbr>A</abbr><ex>ulo</ex></expan></w> <g ref="#interpunct">·</g> <name><w>Magullio</w></name>
+                    <lb n="2"/><name><w><expan><abbr>A</abbr><ex>uli</ex></expan></w></name> <g ref="#interpunct">·</g> <w><expan><abbr>l</abbr><ex>iberto</ex></expan></w> <g ref="#interpunct">·</g> <name><w>Euhodo</w></name>
+                    <lb n="3"/><name><w>Magullia</w></name> <g ref="#interpunct">·</g> <name><w>Tyche</w></name>
                     <lb n="4"/><w>patrono</w> <g ref="#interpunct">·</g> <w>et</w> <g ref="#interpunct">·</g> <w>co
                     <lb n="5" break="no"/><choice><reg>niugi</reg><orig>iugi</orig></choice></w> <g ref="#interpunct">·</g> <w>monumen
                     <lb n="6" break="no"/>tum</w> <g ref="#interpunct">·</g> <w>fecit</w>

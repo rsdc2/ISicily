@@ -190,8 +190,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/><roleName type="supracivic" subtype="consul"><w><expan><abbr>ὑπ</abbr><ex>ατίᾳ</ex></expan></w></roleName> <name>Φή<supplied reason="lost">λικος</supplied></name> <w><supplied reason="lost">καὶ</supplied></w> <name><supplied reason="lost"><expan><abbr>Φλ</abbr><ex>αβίου</ex></expan></supplied></name>
-                    <lb n="2"/><name>Τα<supplied reason="lost">ύρου</supplied></name> <w><supplied reason="lost">τῶν</supplied></w> <w><supplied reason="lost"><roleName type="supracivic" subtype="clarissimus"><expan><abbr>λαμ</abbr><ex>προτάτων</ex></expan></roleName></supplied></w>
+                    <lb n="1"/><roleName type="supracivic" subtype="consul"><w><expan><abbr>ὑπ</abbr><ex>ατίᾳ</ex></expan></w></roleName> <name><w>Φή<supplied reason="lost">λικος</supplied></w></name> <w><supplied reason="lost">καὶ</supplied></w> <name><w><supplied reason="lost"><expan><abbr>Φλ</abbr><ex>αβίου</ex></expan></supplied></w></name>
+                    <lb n="2"/><name><w>Τα<supplied reason="lost">ύρου</supplied></w></name> <w><supplied reason="lost">τῶν</supplied></w> <w><supplied reason="lost"><roleName type="supracivic" subtype="clarissimus"><expan><abbr>λαμ</abbr><ex>προτάτων</ex></expan></roleName></supplied></w>
                 </ab>
             </div>
             <div type="apparatus">

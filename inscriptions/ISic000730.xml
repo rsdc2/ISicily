@@ -190,7 +190,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#TA">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>L</abbr><ex>ucius</ex></expan></w> <name>Cassiu<supplied reason="lost">s</supplied></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><w><expan><abbr>L</abbr><ex>ucius</ex></expan></w> <name><w>Cassiu<supplied reason="lost">s</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>
             <div type="apparatus">

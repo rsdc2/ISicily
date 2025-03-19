@@ -196,8 +196,8 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#martaf #AA">
                 <ab>
                     <lb n="0"/><gap reason="lost" extent="unknown" unit="line"/>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="attested"><name><supplied reason="lost">Β</supplied>ενέρ<supplied reason="lost" cert="low">ιος</supplied></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost" cert="low">τελευτήσα</supplied>ς</w> <w>τῇ</w> <w><expan><abbr>πρ</abbr><ex>ὸ</ex></expan></w> <num value="3"><unclear>γ</unclear></num>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="attested"><name><w><supplied reason="lost">Β</supplied>ενέρ<supplied reason="lost" cert="low">ιος</supplied></w></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost" cert="low">τελευτήσα</supplied>ς</w> <w>τῇ</w> <w><expan><abbr>πρ</abbr><ex>ὸ</ex></expan></w> <num value="3"><w><unclear>γ</unclear></w></num>
                     <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <gap reason="illegible" quantity="3" unit="character"/> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>

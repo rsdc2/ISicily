@@ -191,9 +191,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#VM">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>P</abbr><ex>ublio</ex></expan></w> <name>Servilio</name>
-                    <lb n="2"/><name><expan><abbr>P</abbr><ex>ubli</ex></expan></name> <w><expan><abbr>f</abbr><ex>ilio</ex></expan></w> <name><expan><abbr>Capiton</abbr><ex>i</ex></expan></name>
-                    <lb n="3"/><w><expan><abbr>vix</abbr><ex>it</ex></expan></w> <w><expan><abbr>an</abbr><ex>nis</ex></expan></w> <num value="14">XIIII</num>
+                    <lb n="1"/><w><expan><abbr>P</abbr><ex>ublio</ex></expan></w> <name><w>Servilio</w></name>
+                    <lb n="2"/><name><w><expan><abbr>P</abbr><ex>ubli</ex></expan></w></name> <w><expan><abbr>f</abbr><ex>ilio</ex></expan></w> <name><w><expan><abbr>Capiton</abbr><ex>i</ex></expan></w></name>
+                    <lb n="3"/><w><expan><abbr>vix</abbr><ex>it</ex></expan></w> <w><expan><abbr>an</abbr><ex>nis</ex></expan></w> <num value="14"><w>XIIII</w></num>
                 </ab>
             </div>
             <div type="apparatus">

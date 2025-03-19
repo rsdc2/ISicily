@@ -195,7 +195,7 @@
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <orig>LI</orig><gap reason="lost" unit="character" extent="unknown"/>
                     <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w><expan><abbr><supplied reason="lost">pra</supplied>ep</abbr><ex>osito</ex></expan></w> <orig>D</orig><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost" cert="low">nume</supplied>ro</w> <w>eq<supplied reason="lost" cert="low">uitum</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost" cert="low"><expan><abbr>leg</abbr><ex>ionis</ex></expan></supplied></w> <w><supplied reason="lost" cert="low">secunda</supplied>e</w> <name>Trai<supplied reason="lost" cert="low">anae</supplied></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost" cert="low"><expan><abbr>leg</abbr><ex>ionis</ex></expan></supplied></w> <w><supplied reason="lost" cert="low">secunda</supplied>e</w> <name><w>Trai<supplied reason="lost" cert="low">anae</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>
             <div type="apparatus" resp="#JP">

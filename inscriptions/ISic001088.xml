@@ -197,8 +197,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">Ἀπό</supplied>λλο̄νος</w> <name>Παιᾶνος</name>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <name><supplied reason="lost">Ἀθ</supplied>αναίας</name>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">Ἀπό</supplied>λλο̄νος</w> <name><w>Παιᾶνος</w></name>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <name><w><supplied reason="lost">Ἀθ</supplied>αναίας</w></name>
                 </ab>
             </div>
             <div type="apparatus">

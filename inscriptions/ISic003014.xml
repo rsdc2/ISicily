@@ -193,10 +193,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#AA">
                 <ab>
-                    <lb n="1"/><name><supplied reason="lost">Κορν</supplied>ήλιος</name> <name>Μαγουλνι
-                    <lb n="2" break="no"/>ανὸς</name> <space extent="unknown" unit="character"/>
-                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <w>αν</w> <w>τῆς</w> <name>Ἑκατης</name>
-                    <lb n="4"/><name><supplied reason="lost">Σωτεί</supplied>ρης</name> <w>ἄγος</w> <w>ὁσι
+                    <lb n="1"/><name><w><supplied reason="lost">Κορν</supplied>ήλιος</w></name> <name><w>Μαγουλνι
+                    <lb n="2" break="no"/>ανὸς</w></name> <space extent="unknown" unit="character"/>
+                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <w>αν</w> <w>τῆς</w> <name><w>Ἑκατης</w></name>
+                    <lb n="4"/><name><w><supplied reason="lost">Σωτεί</supplied>ρης</w></name> <w>ἄγος</w> <w>ὁσι
                     <lb n="5" break="no"/><supplied reason="lost">ώσε</supplied>ως</w> <space extent="unknown" unit="character"/>
                     <lb n="6"/><w><supplied reason="lost">ἐπετέλε</supplied>σεν</w> <w>ἰδίοις</w>
                     <lb n="7"/><w><supplied reason="lost">χρήμασι συνμ</supplied>ύσταις</w>

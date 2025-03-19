@@ -192,8 +192,8 @@
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#GC">
                 <ab>
                     <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>m</abbr><ex>anibus</ex></expan></w>
-                    <lb n="2"/><persName type="attested"><name>Petronia</name>
-                    <lb n="3"/><name>Cyane</name></persName> <g ref="#interpunct">·</g> <w>sibi</w>
+                    <lb n="2"/><persName type="attested"><name><w>Petronia</w></name>
+                    <lb n="3"/><name><w>Cyane</w></name></persName> <g ref="#interpunct">·</g> <w>sibi</w>
                     <lb n="4"/><w>viva</w> <g ref="#interpunct">·</g> <w>posuit</w>
                 </ab>
             </div>

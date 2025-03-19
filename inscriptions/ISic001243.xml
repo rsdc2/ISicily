@@ -202,8 +202,8 @@
         <body>
             <div type="edition" xml:space="preserve">
                 <ab>
-                    <lb n="1"/><name>Φηλεικίτα</name>
-                    <lb n="2"/><name>Ἑρμοδώρου</name>
+                    <lb n="1"/><name><w>Φηλεικίτα</w></name>
+                    <lb n="2"/><name><w>Ἑρμοδώρου</w></name>
                     <lb n="3"/><w>ἐτῶν</w> <w>ἕξ</w> <g ref="#ivy-leaf"/>
                 </ab>
             </div>

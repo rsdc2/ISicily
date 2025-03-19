@@ -199,7 +199,7 @@
                     <lb n="1"/><g ref="#cross_latin"/> <w>Hic</w> <w><unclear>r</unclear><supplied reason="lost">equiescit</supplied></w> <w><supplied reason="lost">in</supplied></w> <w><supplied reason="lost">pa</supplied>
                     <lb n="2" break="no"/>ce</w> <w><expan><abbr>bo<hi rend="supraline">n</hi></abbr><ex>ae</ex></expan></w> <w><supplied reason="lost">memoriae</supplied></w> <gap reason="lost" extent="unknown" unit="character"/> <w>
                     <lb n="3" break="no"/>na</w> <w>qui</w> <w>v<supplied reason="lost">ixit</supplied></w> <w><supplied reason="lost">annis</supplied></w> <w><supplied reason="lost">plus</supplied></w> <w><supplied reason="lost">min</supplied>
-                    <lb n="4" break="no"/>us</w> <name>X</name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="4" break="no"/>us</w> <name><w>X</w></name> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>
             <div type="apparatus">

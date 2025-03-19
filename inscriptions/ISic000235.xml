@@ -193,10 +193,10 @@
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#VM">
                 <ab>
                     <lb n="1"/><w><supplied reason="lost">V</supplied>olumn<hi rend="tall">i</hi>a</w>
-                    <lb n="2"/><name>Ch<hi rend="tall">i</hi>one</name> <w><hi rend="tall">p</hi>ia</w>
+                    <lb n="2"/><name><w>Ch<hi rend="tall">i</hi>one</w></name> <w><hi rend="tall">p</hi>ia</w>
                     <lb n="3"/><w>have</w> <w>e<hi rend="tall">t</hi></w> <w><hi rend="tall">t</hi>u</w> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="4"/><w>v<hi rend="tall">i</hi>xit</w> <w>ann<unclear>i</unclear><supplied reason="lost">s</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="5"/><name>Aga<hi rend="tall">t</hi>hopus</name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="5"/><name><w>Aga<hi rend="tall">t</hi>hopus</w></name> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="6"/><w>fecit</w>
                 </ab>
             </div>

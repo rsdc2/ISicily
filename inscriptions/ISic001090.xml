@@ -193,9 +193,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1" xml:id="BJAAK"/><persName type="attested" xml:id="BJAAU"><name xml:id="BJAAe">Ἀρκεσὼι</name>
-                    <lb n="2" xml:id="BJAAo"/><persName type="attested" xml:id="BJAAy"><name type="patronym" xml:id="BJAAΙ">Αἰσχύλου</name></persName></persName>
-                    <lb n="3" xml:id="BJAAΤ"/><persName type="divine" xml:id="BJAAε"><name xml:id="BJAAο">Ἥραι</name></persName> <w xml:id="BJABA">εὐχάν</w>
+                    <lb n="1" xml:id="BJAAK"/><persName type="attested" xml:id="BJAAU"><name xml:id="BJAAe"><w>Ἀρκεσὼι</w></name>
+                    <lb n="2" xml:id="BJAAo"/><persName type="attested" xml:id="BJAAy"><name type="patronym" xml:id="BJAAΙ"><w>Αἰσχύλου</w></name></persName></persName>
+                    <lb n="3" xml:id="BJAAΤ"/><persName type="divine" xml:id="BJAAε"><name xml:id="BJAAο"><w>Ἥραι</w></name></persName> <w xml:id="BJABA">εὐχάν</w>
                 </ab>
             </div>
             <div type="apparatus">

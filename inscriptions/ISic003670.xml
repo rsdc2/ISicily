@@ -195,7 +195,7 @@
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
                     <lb n="1"/><w><supplied reason="lost">V</supplied>ipsani</w> <w>duo</w> <w>senes</w>
-                    <lb n="2"/><name>Thalamus</name> <g ref="#interpunct">·</g> <w>et</w>
+                    <lb n="2"/><name><w>Thalamus</w></name> <g ref="#interpunct">·</g> <w>et</w>
                     <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <gap reason="illegible" quantity="1" unit="character"/> <w>venua</w> <g ref="#interpunct">·</g> <w>hic</w>
                     <lb n="4"/><w>consacrati</w>
                 </ab>

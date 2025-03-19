@@ -185,9 +185,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <name><expan><abbr>M</abbr><ex>anibus</ex></expan></name>
-                    <lb n="2"/><name>German</name> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="3"/><name>Annii</name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <name><w><expan><abbr>M</abbr><ex>anibus</ex></expan></w></name>
+                    <lb n="2"/><name><w>German</w></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="3"/><name><w>Annii</w></name> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
              </div>
             <div type="apparatus" resp="#JP">

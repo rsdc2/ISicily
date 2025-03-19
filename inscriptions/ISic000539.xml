@@ -195,7 +195,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la">
                 <ab>
-                    <lb n="1"/><w>L(ucius)</w> <name>Seius</name> <name>L(uci)</name> <w>f(ilius)</w> <name>Aem(ila</name> <w>tribu)</w> <name>Fir[---]</name>
+                    <lb n="1"/><w>L(ucius)</w> <name><w>Seius</w></name> <name><w>L(uci)</w></name> <w>f(ilius)</w> <name><w>Aem(ila</w></name> <w>tribu)</w> <name><w>Fir[---]</w></name>
                     <lb n="2"/><w>p</w> <w>pec[--]inpen[--?]</w>
                 </ab>
             </div>

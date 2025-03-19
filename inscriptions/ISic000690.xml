@@ -191,7 +191,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
-                    <lb n="1"/><name>Ionia</name> <name>Iulia</name>
+                    <lb n="1"/><name><w>Ionia</w></name> <name><w>Iulia</w></name>
                 </ab>
             </div>
             <div type="apparatus">

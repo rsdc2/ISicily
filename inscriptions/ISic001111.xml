@@ -187,10 +187,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    <lb n="1"/><w>ἱερ<supplied reason="lost" evidence="previouseditor">οθ</supplied>υτέοντος</w> <name>Φάωνος</name>
-                    <lb n="2"/><name>Νύ<supplied reason="lost">μ</supplied><supplied reason="undefined" evidence="previouseditor">φ</supplied>ωνος</name> <name>Σωπολιανοῦ,</name>
-                    <lb n="3"/><w>ἀγορ<unclear>α</unclear>νομέοντος</w> <name>Ξενάρχου</name>
-                    <lb n="4"/><name>Ἀπολλ<supplied reason="lost" evidence="previouseditor">οδώ</supplied>ρου</name> <w>καὶ</w> <w>τὰν</w> <w>ἐπιμέλειαν</w>
+                    <lb n="1"/><w>ἱερ<supplied reason="lost" evidence="previouseditor">οθ</supplied>υτέοντος</w> <name><w>Φάωνος</w></name>
+                    <lb n="2"/><name><w>Νύ<supplied reason="lost">μ</supplied><supplied reason="undefined" evidence="previouseditor">φ</supplied>ωνος</w></name> <name><w>Σωπολιανοῦ,</w></name>
+                    <lb n="3"/><w>ἀγορ<unclear>α</unclear>νομέοντος</w> <name><w>Ξενάρχου</w></name>
+                    <lb n="4"/><name><w>Ἀπολλ<supplied reason="lost" evidence="previouseditor">οδώ</supplied>ρου</w></name> <w>καὶ</w> <w>τὰν</w> <w>ἐπιμέλειαν</w>
                     <lb n="5"/><w>πο<supplied reason="lost" evidence="previouseditor">ι<supplied reason="omitted">η</supplied>σαμ</supplied>ένου</w> <w>τῶν</w> <w>ἔργων</w> <w>vacat</w>
                     <lb n="6"/><w>ἁ</w> <w><unclear>ᾀ</unclear><supplied reason="lost">γ</supplied><supplied reason="lost" evidence="previouseditor">ο</supplied><supplied reason="lost">ρ</supplied><supplied reason="lost" evidence="previouseditor">ὰ</supplied></w> <w>κατεσκευάσθη</w>
                 </ab>

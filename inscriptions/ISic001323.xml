@@ -214,12 +214,12 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#martaf">
                 <ab>
-                    <lb n="1"/><persName type="divine"><name>Εὐσεβέων</name></persName> <w>κλυτὸν</w>
+                    <lb n="1"/><persName type="divine"><name><w>Εὐσεβέων</w></name></persName> <w>κλυτὸν</w>
                     <lb n="2"/><w>ἄστυ</w> <w>πανόλβιον</w>
                     <lb n="3"/><w>ἄνδρα</w> <w>ἀνέθηκε</w>
-                    <lb n="4"/><persName type="attested"><name type="patronymic">Ζωσυμιανείδην</name>
+                    <lb n="4"/><persName type="attested"><name type="patronymic"><w>Ζωσυμιανείδην</w></name>
                     <lb n="5"/><roleName type="civic" subtype="agonothetes"><w>ἀγωνοθετῆρα</w></roleName>
-                    <lb n="6"/><name>Σεβῆρον</name></persName>
+                    <lb n="6"/><name><w>Σεβῆρον</w></name></persName>
                     <lb n="7"/><w>ὄφρα</w> <w>καὶ</w> <w>ἐσομένοισι</w>
                     <lb n="8"/><gap reason="lost" quantity="1" unit="character"/> <gap reason="illegible" quantity="3" unit="character"/> <orig>ΟΣΝΖΕ<unclear>Ι</unclear></orig><w>βρ<unclear>ο</unclear>
                     <lb n="9" break="no"/><supplied reason="lost">τοῖσιν</supplied></w> <gap reason="lost" unit="character" extent="unknown"/>

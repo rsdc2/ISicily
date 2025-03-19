@@ -191,9 +191,9 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
                     <lb n="1"/><g ref="#ivy-leaf">❦</g> <w>τόπος</w> <g ref="#ivy-leaf">❦</g>
-                    <lb n="2"/><persName type="attested"><name>Εἰρήνης</name></persName>
-                    <lb n="3"/><w>καὶ</w> <persName type="attested"><name>Θεοδού
-                    <lb n="4" break="no"/>λου</name></persName> <g ref="#christogram">☧</g> <g ref="#christogram">☧</g> <g ref="#ivy-leaf">❦</g>
+                    <lb n="2"/><persName type="attested"><name><w>Εἰρήνης</w></name></persName>
+                    <lb n="3"/><w>καὶ</w> <persName type="attested"><name><w>Θεοδού
+                    <lb n="4" break="no"/>λου</w></name></persName> <g ref="#christogram">☧</g> <g ref="#christogram">☧</g> <g ref="#ivy-leaf">❦</g>
                     <lb n="5"/><g ref="#ivy-leaf">❦</g> <g ref="#staurogram">𐆠</g>
                 </ab>
             </div>

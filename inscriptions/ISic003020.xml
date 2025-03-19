@@ -206,8 +206,8 @@
                 <ab>
                     <lb n="1"/><handShift new="#h1"/><w><supplied reason="undefined" evidence="previouseditor">ἐπὶ</supplied></w>
                     <lb n="2"/><w><supplied reason="undefined" evidence="previouseditor">ἀμφιπό</supplied>
-                    <lb n="3" break="no"/><supplied reason="undefined" evidence="previouseditor">λου</supplied></w> <w><supplied reason="undefined" evidence="previouseditor">ἐν</supplied></w> <name><supplied reason="undefined" evidence="previouseditor">Συ</supplied>
-                    <lb n="4" break="no"/><supplied reason="undefined" evidence="previouseditor"><supplied reason="lost">ρακο</supplied>ύσαις</supplied></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="3" break="no"/><supplied reason="undefined" evidence="previouseditor">λου</supplied></w> <w><supplied reason="undefined" evidence="previouseditor">ἐν</supplied></w> <name><w><supplied reason="undefined" evidence="previouseditor">Συ</supplied>
+                    <lb n="4" break="no"/><supplied reason="undefined" evidence="previouseditor"><supplied reason="lost">ρακο</supplied>ύσαις</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="5"/><gap reason="lost" quantity="1" unit="line"/>
                     <lb n="6"/><gap reason="lost" quantity="1" unit="line"/>
                     <lb n="7"/><gap reason="lost" quantity="1" unit="line"/>
@@ -218,9 +218,9 @@
                     <lb n="12"/><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="undefined" evidence="previouseditor"><orig>ΠΟ</orig></supplied> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="13"/><supplied reason="undefined" evidence="previouseditor"><orig>ΓΕΝ</orig></supplied> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="14"/><supplied reason="undefined" evidence="previouseditor"><orig>ΑΡΤΙΩΝ</orig></supplied> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="15"/><name><supplied reason="lost">Ῥ</supplied>ουφίλ<supplied reason="lost" cert="low">λα</supplied></name>
-                    <lb n="16"/><name>Φαυστια<supplied reason="lost" cert="low">νός</supplied></name>
-                    <lb n="17"/><space quantity="1" unit="character"/><name>Ἀρτέ<supplied reason="lost" cert="low">μων</supplied></name>
+                    <lb n="15"/><name><w><supplied reason="lost">Ῥ</supplied>ουφίλ<supplied reason="lost" cert="low">λα</supplied></w></name>
+                    <lb n="16"/><name><w>Φαυστια<supplied reason="lost" cert="low">νός</supplied></w></name>
+                    <lb n="17"/><space quantity="1" unit="character"/><name><w>Ἀρτέ<supplied reason="lost" cert="low">μων</supplied></w></name>
                     <lb n="18"/><handShift new="#h2"/><orig>ΙΙΧΡΜΝ</orig><gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>

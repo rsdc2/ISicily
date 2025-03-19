@@ -174,8 +174,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name type="idionym">Ταυ<supplied reason="lost">ρέα</supplied>ς</name>
-                    <lb n="2"/><name type="patronym">Θεοδ<supplied reason="lost">ο̄́</supplied>ρου</name></persName>
+                    <lb n="1"/><persName type="attested"><name type="idionym"><w>Ταυ<supplied reason="lost">ρέα</supplied>ς</w></name>
+                    <lb n="2"/><name type="patronym"><w>Θεοδ<supplied reason="lost">ο̄́</supplied>ρου</w></name></persName>
                 </ab>
             </div>
             <div type="apparatus">

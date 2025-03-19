@@ -195,8 +195,8 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#AA">
                 <ab>
                     <lb n="1"/><w>Ὁ</w> <w>δᾶμος</w>
-                    <lb n="2"/><name>Ἀντίμαχον</name>
-                    <lb n="3"/><name>Φίλωνος</name>
+                    <lb n="2"/><name><w>Ἀντίμαχον</w></name>
+                    <lb n="3"/><name><w>Φίλωνος</w></name>
                     <lb n="4"/><roleName type="paracivic" subtype="euergetes"><w><supplied reason="lost">ε</supplied></w> <w>ὐεργέταν</w></roleName>
                 </ab>
             </div>

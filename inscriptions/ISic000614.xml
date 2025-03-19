@@ -193,7 +193,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
-                    <lb n="1" xml:id="AΚoAK"/><w xml:id="AΚoAU"><expan xml:id="AΚoAe"><abbr xml:id="AΚoAo">Cn</abbr><ex cert="low" xml:id="AΚoAy">aeus</ex></expan></w> <name xml:id="AΚoAΙ">Host<supplied reason="lost" cert="low" xml:id="AΚoAΤ">ilius</supplied></name> <gap reason="lost" extent="unknown" unit="character" xml:id="AΚoAε"/>
+                    <lb n="1" xml:id="AΚoAK"/><w xml:id="AΚoAU"><expan xml:id="AΚoAe"><abbr xml:id="AΚoAo">Cn</abbr><ex cert="low" xml:id="AΚoAy">aeus</ex></expan></w> <name xml:id="AΚoAΙ"><w>Host<supplied reason="lost" cert="low" xml:id="AΚoAΤ">ilius</supplied></w></name> <gap reason="lost" extent="unknown" unit="character" xml:id="AΚoAε"/>
                 </ab>
             </div>
             <div type="apparatus">

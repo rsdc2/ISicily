@@ -186,11 +186,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name><expan><abbr>T</abbr><ex>ito</ex></expan></name> <g ref="#interpunct">·</g> <name><choice><orig>Fulvio</orig><reg>Fulvo</reg></choice></name> <g ref="#interpunct">·</g> <name>Aurelio</name>
-                    <lb n="2"/><name>Antonino</name>
-                    <lb n="3"/><persName type="attested"><roleName type="supracivic" subtype="imperator"><name><expan><abbr>Imp</abbr><ex>eratoris</ex></expan></name></roleName> <g ref="#interpunct">·</g> <name><expan><abbr>Caes</abbr><ex>aris</ex></expan></name> <g ref="#interpunct">·</g> <name><expan><abbr>M</abbr><ex>arci</ex></expan></name> <g ref="#interpunct">·</g> <name>Aureli</name> <g ref="#interpunct">·</g> <name>Antonini</name>
-                    <lb n="4"/><name><expan><abbr>Aug</abbr><ex>usti</ex></expan></name></persName> <g ref="#interpunct">·</g> <w>filio</w></persName>
-                    <lb n="5"/><persName type="attested"><name><expan><abbr>L</abbr><ex>ucius</ex></expan></name> <g ref="#interpunct">·</g> <name>Aponius</name> <g ref="#interpunct">·</g> <name>Rufinus</name></persName>
+                    <lb n="1"/><persName type="attested"><name><w><expan><abbr>T</abbr><ex>ito</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w><choice><orig>Fulvio</orig><reg>Fulvo</reg></choice></w></name> <g ref="#interpunct">·</g> <name><w>Aurelio</w></name>
+                    <lb n="2"/><name><w>Antonino</w></name>
+                    <lb n="3"/><persName type="attested"><roleName type="supracivic" subtype="imperator"><name><w><expan><abbr>Imp</abbr><ex>eratoris</ex></expan></w></name></roleName> <g ref="#interpunct">·</g> <name><w><expan><abbr>Caes</abbr><ex>aris</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w><expan><abbr>M</abbr><ex>arci</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w>Aureli</w></name> <g ref="#interpunct">·</g> <name><w>Antonini</w></name>
+                    <lb n="4"/><name><w><expan><abbr>Aug</abbr><ex>usti</ex></expan></w></name></persName> <g ref="#interpunct">·</g> <w>filio</w></persName>
+                    <lb n="5"/><persName type="attested"><name><w><expan><abbr>L</abbr><ex>ucius</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w>Aponius</w></name> <g ref="#interpunct">·</g> <name><w>Rufinus</w></name></persName>
                     <lb n="6"/><w>ob</w> <w>honorem</w> <g ref="#interpunct">·</g> <roleName type="civic.religious" subtype="sevir"><w>seviratus</w></roleName> <g ref="#interpunct">·</g>
                     <lb n="7"/><w><expan><abbr>pec</abbr><ex>unia</ex></expan></w> <g ref="#interpunct">·</g> <w>sua</w> <g ref="#interpunct">·</g>
                 </ab>

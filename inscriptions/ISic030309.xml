@@ -174,7 +174,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/><persName><name><gap reason="lost" extent="unknown" unit="character"/><seg part="F">ΟΣ</seg></name> <g ref="#dipunct">:</g> <persName><name><seg part="I">ΚΛ</seg><gap reason="lost" extent="unknown" unit="character"/></name></persName></persName>
+                    <lb n="1"/><persName><name><w><gap reason="lost" extent="unknown" unit="character"/><seg part="F">ΟΣ</seg></w></name> <g ref="#dipunct">:</g> <persName><name><w><seg part="I">ΚΛ</seg><gap reason="lost" extent="unknown" unit="character"/></w></name></persName></persName>
                     <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <orig>ΑΣΦ</orig><gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>

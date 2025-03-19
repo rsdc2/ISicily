@@ -195,12 +195,12 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
-                    <lb n="1"/><w><supplied reason="lost" cert="low"><expan><abbr>D</abbr><ex>is</ex></expan></supplied></w> <name><supplied reason="lost" cert="low"><expan><abbr>M</abbr><ex>anibus</ex></expan></supplied></name> <w><supplied reason="lost" cert="low"><expan><abbr>s</abbr><ex>acrum</ex></expan></supplied></w>
-                    <lb n="2"/><name><expan><abbr>C</abbr><ex>ai</ex></expan></name> <g ref="#interpunct">·</g> <name>C<supplied reason="undefined" evidence="previouseditor">o</supplied></name> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="3"/><name>Magn<supplied reason="undefined" evidence="previouseditor">i</supplied></name> <w><supplied reason="lost"><expan><abbr>vix</abbr><ex>it</ex></expan></supplied></w>
-                    <lb n="4"/><w><expan><abbr>an</abbr><ex>nis</ex></expan></w> <num value="2">II</num> <w>me<supplied reason="lost"><expan><abbr>ns</abbr><ex>ibus</ex></expan></supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="5"/><num atLeast="8" atMost="9">VII</num> <gap reason="lost" atLeast="1" atMost="2" unit="character"/> <name><unclear>C</unclear>is<supplied reason="undefined" evidence="previouseditor">s</supplied><supplied reason="lost">us</supplied></name> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="6"/><w>et</w> <name>Cra</name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><w><supplied reason="lost" cert="low"><expan><abbr>D</abbr><ex>is</ex></expan></supplied></w> <name><w><supplied reason="lost" cert="low"><expan><abbr>M</abbr><ex>anibus</ex></expan></supplied></w></name> <w><supplied reason="lost" cert="low"><expan><abbr>s</abbr><ex>acrum</ex></expan></supplied></w>
+                    <lb n="2"/><name><w><expan><abbr>C</abbr><ex>ai</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w>C<supplied reason="undefined" evidence="previouseditor">o</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="3"/><name><w>Magn<supplied reason="undefined" evidence="previouseditor">i</supplied></w></name> <w><supplied reason="lost"><expan><abbr>vix</abbr><ex>it</ex></expan></supplied></w>
+                    <lb n="4"/><w><expan><abbr>an</abbr><ex>nis</ex></expan></w> <num value="2"><w>II</w></num> <w>me<supplied reason="lost"><expan><abbr>ns</abbr><ex>ibus</ex></expan></supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="5"/><num atLeast="8" atMost="9"><w>VII</w></num> <gap reason="lost" atLeast="1" atMost="2" unit="character"/> <name><w><unclear>C</unclear>is<supplied reason="undefined" evidence="previouseditor">s</supplied><supplied reason="lost">us</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="6"/><w>et</w> <name><w>Cra</w></name> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="7"/><w>nepoti</w> <gap reason="illegible" quantity="1" unit="character"/> <gap reason="lost" extent="unknown" unit="character"/> <w>
                     <lb n="8" break="no"/>mo</w>
                 </ab>

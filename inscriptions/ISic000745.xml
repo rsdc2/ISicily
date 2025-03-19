@@ -196,7 +196,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#VM">
                 <ab>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">P</supplied>o<hi rend="ligature">nt</hi>i</w> <name><expan><abbr>Q</abbr><ex>uinti</ex></expan></name> <w><expan><abbr>f</abbr><ex>ili</ex></expan></w> <name>Ro</name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">P</supplied>o<hi rend="ligature">nt</hi>i</w> <name><w><expan><abbr>Q</abbr><ex>uinti</ex></expan></w></name> <w><expan><abbr>f</abbr><ex>ili</ex></expan></w> <name><w>Ro</w></name> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>
             <div type="apparatus">

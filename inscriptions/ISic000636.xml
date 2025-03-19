@@ -201,7 +201,7 @@
                     <ab>
                         <lb n="1" xml:id="AΜΙAK"/><gap reason="lost" extent="unknown" unit="character" xml:id="AΜΙAU"/> <orig xml:id="AΜΙAe"><unclear xml:id="AΜΙAo">Ο</unclear></orig><gap reason="illegible" unit="character" quantity="1" xml:id="AΜΙAy"/> <gap reason="lost" unit="character" atLeast="1" atMost="3" xml:id="AΜΙAΙ"/>
                         <lb n="2" xml:id="AΜΙAΤ"/><gap reason="lost" extent="unknown" unit="character" xml:id="AΜΙAε"/> <w part="F" xml:id="AΜΙAο"><unclear xml:id="AΜΙBA">ρ</unclear>τον</w> <space unit="character" quantity="1" xml:id="AΜΙBK"/>
-                        <lb n="3" xml:id="AΜΙBU"/><gap reason="lost" extent="unknown" unit="character" xml:id="AΜΙBe"/> <w part="F" xml:id="AΜΙBo">ν</w> <placeName type="ancient" xml:id="AΜΙBy"><name xml:id="AΜΙBΙ">Αχραδινα</name></placeName>
+                        <lb n="3" xml:id="AΜΙBU"/><gap reason="lost" extent="unknown" unit="character" xml:id="AΜΙBe"/> <w part="F" xml:id="AΜΙBo">ν</w> <placeName type="ancient" xml:id="AΜΙBy"><name xml:id="AΜΙBΙ"><w>Αχραδινα</w></name></placeName>
                         <lb n="4" xml:id="AΜΙBΤ"/><gap reason="lost" extent="unknown" unit="character" xml:id="AΜΙBε"/> <w xml:id="AΜΙBο"><unclear xml:id="AΜΙCA">A</unclear>T<unclear xml:id="AΜΙCK">A</unclear></w> <gap reason="illegible" unit="character" quantity="1" xml:id="AΜΙCU"/> <gap reason="lost" unit="character" atLeast="1" atMost="6" xml:id="AΜΙCe"/>
                     </ab>
                 </div>

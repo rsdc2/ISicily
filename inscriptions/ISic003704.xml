@@ -187,7 +187,7 @@
         <body>
             <div type="edition" xml:space="preserve" subtype="PHI" n="PHI178089">
                 <ab>
-                    <lb n="1"/><w><surplus>²menorah</surplus>²</w> <w>ΕΥΗΥΑΙbΙ</w> <w><surplus>²⁷EUHUAIbI</surplus>²⁷.</w> <name><surplus>²boat</surplus>²</name>
+                    <lb n="1"/><w><surplus>²menorah</surplus>²</w> <w>ΕΥΗΥΑΙbΙ</w> <w><surplus>²⁷EUHUAIbI</surplus>²⁷.</w> <name><w><surplus>²boat</surplus>²</w></name>
                     <lb n="2"/><w><expan><abbr>ΕΥΗΥSΙd</abbr><ex>?</ex><abbr>Ι</abbr></expan></w> <w><surplus>²⁷EUHUSId(?)I</surplus>²⁷.</w>
                     <lb n="3"/>
                 </ab>

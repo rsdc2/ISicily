@@ -209,10 +209,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#TA #JP">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name type="nomen">Clovatia</name> <g ref="#interpunct">·</g> <persName type="attested"><name type="libertinatio"><expan><abbr>C</abbr><ex>ai</ex></expan></name></persName> <g ref="#interpunct">·</g> <w><expan><abbr>l</abbr><ex>iberta</ex></expan></w>
-                    <lb n="2"/><name type="cognomen">Tertia</name></persName>
-                    <lb n="3"/><persName type="attested"><name type="nomen">Clovatiae</name> <g ref="#interpunct">·</g> <persName type="attested"><name type="libertinatio"><expan><abbr>C</abbr><ex>ai</ex></expan></name></persName> <g ref="#interpunct">·</g> <w><expan><abbr>l</abbr><ex>ibertae</ex></expan></w>
-                    <lb n="4"/><name type="cognomen">Optatae</name></persName> <g ref="#interpunct">·</g> <w><expan><abbr>f</abbr><ex>iliae</ex></expan></w> <g ref="#interpunct">·</g> <w>et</w>
+                    <lb n="1"/><persName type="attested"><name type="nomen"><w>Clovatia</w></name> <g ref="#interpunct">·</g> <persName type="attested"><name type="libertinatio"><w><expan><abbr>C</abbr><ex>ai</ex></expan></w></name></persName> <g ref="#interpunct">·</g> <w><expan><abbr>l</abbr><ex>iberta</ex></expan></w>
+                    <lb n="2"/><name type="cognomen"><w>Tertia</w></name></persName>
+                    <lb n="3"/><persName type="attested"><name type="nomen"><w>Clovatiae</w></name> <g ref="#interpunct">·</g> <persName type="attested"><name type="libertinatio"><w><expan><abbr>C</abbr><ex>ai</ex></expan></w></name></persName> <g ref="#interpunct">·</g> <w><expan><abbr>l</abbr><ex>ibertae</ex></expan></w>
+                    <lb n="4"/><name type="cognomen"><w>Optatae</w></name></persName> <g ref="#interpunct">·</g> <w><expan><abbr>f</abbr><ex>iliae</ex></expan></w> <g ref="#interpunct">·</g> <w>et</w>
                     <lb n="5"/><w>sibi</w>
                 </ab>
             </div>

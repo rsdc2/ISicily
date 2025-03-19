@@ -211,13 +211,13 @@
             <div type="edition" xml:space="preserve" resp="#JP">
                 <div type="textpart" subtype="section" n="a" xml:lang="la">
                     <ab>
-                        <lb n="1"/><persName type="attested"><name><expan><abbr>Q</abbr><ex>uinte</ex></expan></name> <name>Domitei</name></persName> <g ref="#interpunct">·</g> <w>pei<unclear>e</unclear></w>
+                        <lb n="1"/><persName type="attested"><name><w><expan><abbr>Q</abbr><ex>uinte</ex></expan></w></name> <name><w>Domitei</w></name></persName> <g ref="#interpunct">·</g> <w>pei<unclear>e</unclear></w>
                         <lb n="2"/><w>salve</w>
                     </ab>
                 </div>
                 <div type="textpart" subtype="section" n="b" xml:lang="grc">
                     <ab>
-                        <lb n="3"/><persName type="attested"><name>Κόϊντε</name> <g ref="#interpunct">·</g> <name>Δομίτιε</name></persName>
+                        <lb n="3"/><persName type="attested"><name><w>Κόϊντε</w></name> <g ref="#interpunct">·</g> <name><w>Δομίτιε</w></name></persName>
                         <lb n="4"/><w>εὐσεβῆ</w> <g ref="#interpunct">·</g> <w>χαῖ<space quantity="1" unit="character"/>ρε</w>
                     </ab>
                 </div>

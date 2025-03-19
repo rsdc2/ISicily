@@ -192,9 +192,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
-                    <lb n="1"/><name>Onomaste</name>
+                    <lb n="1"/><name><w>Onomaste</w></name>
                     <lb n="2"/><w><expan><abbr>vix</abbr><ex>it</ex></expan></w> <w><expan><abbr>ann</abbr><ex>is</ex></expan></w>
-                    <lb n="3"/><num value="15">XV</num>
+                    <lb n="3"/><num value="15"><w>XV</w></num>
                 </ab>
             </div>
             <div type="apparatus">

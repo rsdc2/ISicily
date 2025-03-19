@@ -187,9 +187,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>M</abbr><ex>arcus</ex></expan></w> <name>Ulpius</name> <name>Italici</name> <w><expan><abbr>lib</abbr><ex>ertus</ex></expan></w>
-                    <lb n="2"/><name>Eut<supplied reason="lost">y</supplied>chus</name> <w>aram</w>
-                    <lb n="3"/><w>et</w> <w>basim</w> <name>Mercuri</name>
+                    <lb n="1"/><w><expan><abbr>M</abbr><ex>arcus</ex></expan></w> <name><w>Ulpius</w></name> <name><w>Italici</w></name> <w><expan><abbr>lib</abbr><ex>ertus</ex></expan></w>
+                    <lb n="2"/><name><w>Eut<supplied reason="lost">y</supplied>chus</w></name> <w>aram</w>
+                    <lb n="3"/><w>et</w> <w>basim</w> <name><w>Mercuri</w></name>
                     <lb n="4"/><w>pr<supplied reason="lost">ae</supplied>ter</w> <w>summam</w> <w>hono
                     <lb n="5" break="no"/>rariam</w> <w>pro</w> <roleName type="civic.religious" subtype="sevir"><w>sevir</w> <w><supplied reason="lost">a</supplied></w> <w>tu</w></roleName>
                     <lb n="6"/><w>pecunia</w> <w>sua</w> <w>posuit</w>

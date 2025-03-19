@@ -202,16 +202,16 @@
                     <ab>
                         <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w>κεν</w> <w>ἔνθα</w> <w>καὶ</w> <w>ἔν<unclear>θ</unclear></w> <gap reason="lost" extent="unknown" unit="character"/>
                         <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w>σθαι</w> <w>τοὺς</w> <w>ἀπʼἄστεω<supplied reason="lost">ς</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
-                        <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <w>χεσθαι</w> <w>τοὺς</w> <w>ἀπʼ</w> <name>Ἄκιδο<supplied reason="lost">ς</supplied></name> <gap reason="lost" extent="unknown" unit="character"/>
+                        <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <w>χεσθαι</w> <w>τοὺς</w> <w>ἀπʼ</w> <name><w>Ἄκιδο<supplied reason="lost">ς</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
                         <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <w>αὐτῷ</w> <w>καρπὸν</w> <w>ὡς</w> <w>ὀρ</w> <gap reason="lost" extent="unknown" unit="character"/>
                         <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/> <w>τοῦτο</w> <w>τὸ</w> <w>παχὺ</w> <w>τοῖς</w> <w>σ</w> <gap reason="lost" extent="unknown" unit="character"/>
                     </ab>
                 </div>
                 <div type="textpart" subtype="section" n="b" xml:lang="la">
                     <ab>
-                        <lb n="6"/><gap reason="lost" extent="unknown" unit="character"/> <w>me</w> <name>Samius</name> <w>utroque</w> <w>in</w> <gap reason="lost" extent="unknown" unit="character"/>
+                        <lb n="6"/><gap reason="lost" extent="unknown" unit="character"/> <w>me</w> <name><w>Samius</w></name> <w>utroque</w> <w>in</w> <gap reason="lost" extent="unknown" unit="character"/>
                         <lb n="7"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">en</supplied>ormem</w> <w>penem</w> <w>ut</w> <w>osten</w> <gap reason="lost" extent="unknown" unit="character"/>
-                        <lb n="8"/><name><space unit="character" quantity="2"/>Rubri</name> <name>Sami</name> <w><expan><abbr>fil</abbr><ex>i</ex></expan></w> <gap reason="lost" extent="unknown" unit="character"/>
+                        <lb n="8"/><name><w><space unit="character" quantity="2"/>Rubri</w></name> <name><w>Sami</w></name> <w><expan><abbr>fil</abbr><ex>i</ex></expan></w> <gap reason="lost" extent="unknown" unit="character"/>
                     </ab>
                 </div>
                  </div>

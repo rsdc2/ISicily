@@ -194,11 +194,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
-                    <lb n="1"/><g ref="#interpunct">·</g> <w><expan><abbr>D</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <name><expan><abbr>M</abbr><ex>anibus</ex></expan></name> <g ref="#interpunct">·</g>
-                    <lb n="2"/><name>Cassies</name>
+                    <lb n="1"/><g ref="#interpunct">·</g> <w><expan><abbr>D</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <name><w><expan><abbr>M</abbr><ex>anibus</ex></expan></w></name> <g ref="#interpunct">·</g>
+                    <lb n="2"/><name><w>Cassies</w></name>
                     <lb n="3"/><w>vixit</w> <w><expan><abbr>ann</abbr><ex>is</ex></expan></w>
-                    <lb n="4"/><num value="18">XV<hi rend="supraline">I</hi>II</num> <name>Narcis
-                    <lb n="5" break="no"/>sus</name> <w>coiugi</w>
+                    <lb n="4"/><num value="18"><w>XV<hi rend="supraline">I</hi>II</w></num> <name><w>Narcis
+                    <lb n="5" break="no"/>sus</w></name> <w>coiugi</w>
                     <lb n="6"/><w><supplied reason="lost">fecit</supplied></w>
                 </ab>
             </div>

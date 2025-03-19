@@ -197,10 +197,10 @@
                 <ab>
                     <!--this is transcribed from the printed edition; have not checked stone. Have omitted editorial punctuation and ignored uppercase except for personal names.-->
                     <lb n="1"/><w><expan><abbr>d</abbr><ex>is</ex></expan></w> <w><expan><abbr>m</abbr><ex>anibus</ex></expan></w> <w><expan><abbr>s</abbr><ex>acrum</ex></expan></w>
-                    <lb n="2"/><w><choice><orig>vicsit</orig><reg>vixit</reg></choice></w> <name>Anthimus</name>
-                    <lb n="3"/><w>annis</w> <w><expan><abbr><hi rend="supraline">n</hi></abbr><ex>umero</ex></expan></w> <num value="62">LXII</num>
-                    <lb n="4"/><w><expan><abbr>men</abbr><ex>sibus</ex></expan></w> <w><expan><abbr><hi rend="supraline">n</hi></abbr><ex>umero</ex></expan></w> <num value="6">VI</num> <w><expan><abbr>hor</abbr><ex>is</ex></expan></w> <num value="3">III</num>
-                    <lb n="5"/><name>Flavia</name> <name>Faustina</name> <w>con
+                    <lb n="2"/><w><choice><orig>vicsit</orig><reg>vixit</reg></choice></w> <name><w>Anthimus</w></name>
+                    <lb n="3"/><w>annis</w> <w><expan><abbr><hi rend="supraline">n</hi></abbr><ex>umero</ex></expan></w> <num value="62"><w>LXII</w></num>
+                    <lb n="4"/><w><expan><abbr>men</abbr><ex>sibus</ex></expan></w> <w><expan><abbr><hi rend="supraline">n</hi></abbr><ex>umero</ex></expan></w> <num value="6"><w>VI</w></num> <w><expan><abbr>hor</abbr><ex>is</ex></expan></w> <num value="3"><w>III</w></num>
+                    <lb n="5"/><name><w>Flavia</w></name> <name><w>Faustina</w></name> <w>con
                     <lb n="6" break="no"/>iugi</w> <w>bene</w> <w>merenti</w>
                     <lb n="7"/><w>fecit</w>
                 </ab>

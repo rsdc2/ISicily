@@ -199,13 +199,13 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
-                    <lb n="1"/><w>Iu<unclear>l</unclear>iae</w> <name>So<unclear>ae</unclear>
-                    <lb n="2" break="no"/>midi</name> <g ref="#interpunct">·</g> <name><expan><abbr><unclear>A</unclear>ug</abbr><ex>ustae</ex></expan></name>
+                    <lb n="1"/><w>Iu<unclear>l</unclear>iae</w> <name><w>So<unclear>ae</unclear>
+                    <lb n="2" break="no"/>midi</w></name> <g ref="#interpunct">·</g> <name><w><expan><abbr><unclear>A</unclear>ug</abbr><ex>ustae</ex></expan></w></name>
                     <lb n="3"/><w>matri</w> <roleName type="supracivic" subtype="imperator"><w><expan><abbr>imp</abbr><ex>eratoris</ex></expan></w></roleName>
-                    <lb n="4"/><name><expan><abbr>Caes</abbr><ex>aris</ex></expan></name> <name><expan><abbr>M</abbr><ex>arci</ex></expan></name> <g ref="#interpunct">·</g> <name>Au
-                    <lb n="5" break="no"/>reli</name> <name>Antoni
-                    <lb n="6" break="no"/><unclear>ni</unclear></name> <name>Pii</name> <w><expan><abbr>Fel</abbr><ex>icis</ex></expan><g ref="#interpunct">·</g><expan><abbr>Aug</abbr><ex>usti</ex></expan></w>
-                    <lb n="7"/><name><expan><abbr>D</abbr><ex>ecreto</ex></expan></name> <roleName type="civic" subtype="decurio"><name><expan><abbr>D</abbr><ex>ecurionum</ex></expan></name></roleName> <name><expan><abbr>P</abbr><ex>ecunia</ex></expan></name> <name><expan><abbr>P</abbr><ex>ublica</ex></expan></name>
+                    <lb n="4"/><name><w><expan><abbr>Caes</abbr><ex>aris</ex></expan></w></name> <name><w><expan><abbr>M</abbr><ex>arci</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w>Au
+                    <lb n="5" break="no"/>reli</w></name> <name><w>Antoni
+                    <lb n="6" break="no"/><unclear>ni</unclear></w></name> <name><w>Pii</w></name> <w><expan><abbr>Fel</abbr><ex>icis</ex></expan><g ref="#interpunct">·</g><expan><abbr>Aug</abbr><ex>usti</ex></expan></w>
+                    <lb n="7"/><name><w><expan><abbr>D</abbr><ex>ecreto</ex></expan></w></name> <roleName type="civic" subtype="decurio"><name><w><expan><abbr>D</abbr><ex>ecurionum</ex></expan></w></name></roleName> <name><w><expan><abbr>P</abbr><ex>ecunia</ex></expan></w></name> <name><w><expan><abbr>P</abbr><ex>ublica</ex></expan></w></name>
                 </ab>
             </div>
             <div type="apparatus">

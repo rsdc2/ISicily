@@ -197,7 +197,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#GC">
                 <ab>
-                    <lb n="1"/><w>Πρῶτος</w> <w>καὶ</w> <name>Μενίππη</name> <name>Ἀρτέμιδι</name> <name>Εὐπραξίαι.</name>
+                    <lb n="1"/><w>Πρῶτος</w> <w>καὶ</w> <name><w>Μενίππη</w></name> <name><w>Ἀρτέμιδι</w></name> <name><w>Εὐπραξίαι.</w></name>
                 </ab>
             </div>
             <div type="apparatus">

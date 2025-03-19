@@ -203,12 +203,12 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#AL">
                 <ab>
-                    <lb n="1"/><w>Θεοῖς</w> <space extent="unknown" unit="character"/><name>Καταχθονίοις</name>
-                    <lb n="2"/><placeName type="ethnic"><name>Καππαδόκων</name></placeName> <w>ἔθνους</w> <w>πολυανθέας</w> <w>οἴδατε</w> <w>ἀρούρας</w>
+                    <lb n="1"/><w>Θεοῖς</w> <space extent="unknown" unit="character"/><name><w>Καταχθονίοις</w></name>
+                    <lb n="2"/><placeName type="ethnic"><name><w>Καππαδόκων</w></name></placeName> <w>ἔθνους</w> <w>πολυανθέας</w> <w>οἴδατε</w> <w>ἀρούρας</w>
                     <lb n="3"/><w>κεῖθεν</w> <w>ἐγὼ</w> <w>φυόμην</w> <w>ἐκ</w> <w>τοκέων</w> <w>ἀγαθῶν</w>
                     <lb n="4"/><w>ἐξέτι</w> <w>τοὺς</w> <w>λιπόμην,</w> <w>δύσιν</w> <w>ἤλυθον</w> <w>ἠδὲ</w> <w>καὶ</w> <w>ἠῶ</w>
-                    <lb n="5"/><w>οὔνομά</w> <w>μοι</w> <persName type="attested"><name type="idionym">Γλάφυρος</name></persName> <w>καὶ</w> <w>φρενὸς</w> <w>εἴκελον</w> <w><expan><abbr><hi rend="supraline">ἦ</hi></abbr><ex>ν</ex></expan></w>
-                    <lb n="6"/><num value="60">ἑξηκοστὸν</num> <w>ἔτος</w> <w>πανελεύθερον</w> <w>ἐξεβίωσα</w>
+                    <lb n="5"/><w>οὔνομά</w> <w>μοι</w> <persName type="attested"><name type="idionym"><w>Γλάφυρος</w></name></persName> <w>καὶ</w> <w>φρενὸς</w> <w>εἴκελον</w> <w><expan><abbr><hi rend="supraline">ἦ</hi></abbr><ex>ν</ex></expan></w>
+                    <lb n="6"/><num value="60"><w>ἑξηκοστὸν</w></num> <w>ἔτος</w> <w>πανελεύθερον</w> <w>ἐξεβίωσα</w>
                     <lb n="7"/><w>καὶ</w> <w>καλὸν</w> <w>τὸ</w> <w>τύχης</w> <w>καὶ</w> <w>πικρὸν</w> <w>οἶδα</w> <w>βίου</w>
                 </ab>
             </div>

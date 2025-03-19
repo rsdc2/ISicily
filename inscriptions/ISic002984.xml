@@ -188,12 +188,12 @@
         <body>
            <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>M</abbr><ex>arco</ex></expan></w> <g ref="#interpunct">·</g> <name>T</name> <gap reason="illegible" unit="character" quantity="1"/> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="2"/><name>Iulio</name> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="3"/><name>Tettia</name> <g ref="#interpunct">·</g> <name>L</name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><w><expan><abbr>M</abbr><ex>arco</ex></expan></w> <g ref="#interpunct">·</g> <name><w>T</w></name> <gap reason="illegible" unit="character" quantity="1"/> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><name><w>Iulio</w></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="3"/><name><w>Tettia</w></name> <g ref="#interpunct">·</g> <name><w>L</w></name> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="4"/><roleName type="civic.religious" subtype="sacerdos"><w>sacerd</w> <w><supplied reason="lost">os</supplied></w></roleName> <gap reason="lost" unit="character" extent="unknown"/>
-                    <lb n="5"/><name>Cereris</name> <gap reason="lost" unit="character" extent="unknown"/>
-                    <lb n="6"/><w>mater</w> <g ref="#interpunct">·</g> <name>L</name> <gap reason="lost" unit="character" extent="unknown"/>
+                    <lb n="5"/><name><w>Cereris</w></name> <gap reason="lost" unit="character" extent="unknown"/>
+                    <lb n="6"/><w>mater</w> <g ref="#interpunct">·</g> <name><w>L</w></name> <gap reason="lost" unit="character" extent="unknown"/>
                 </ab>
            </div>
             <div type="apparatus" resp="#JP">

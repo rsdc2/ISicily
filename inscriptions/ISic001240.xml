@@ -192,9 +192,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP"><!-- not checked -->
                 <ab>
-                    <lb n="1"/><persName type="attested"><name type="praenomen">Σέξτος</name> <name type="nomen">Πομ
-                    <lb n="2" break="no"/>πήιος</name> <name type="cognomen">Φοῖβος</name></persName>
-                    <lb n="3"/><w>ἀπὸ</w> <placeName><name>Ῥώμης</name></placeName>
+                    <lb n="1"/><persName type="attested"><name type="praenomen"><w>Σέξτος</w></name> <name type="nomen"><w>Πομ
+                    <lb n="2" break="no"/>πήιος</w></name> <name type="cognomen"><w>Φοῖβος</w></name></persName>
+                    <lb n="3"/><w>ἀπὸ</w> <placeName><name><w>Ῥώμης</w></name></placeName>
                     <lb n="4"/><w>ἐνθάδε</w> <w>κεῖ
                     <lb n="5" break="no"/>ται</w>
                 </ab>

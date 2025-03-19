@@ -196,7 +196,7 @@
                     <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <w>ου</w> <w>σεβα</w> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <w>σεπτικ</w> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/> <w>στραν</w> <w>κα</w> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="6"/><gap reason="lost" extent="unknown" unit="character"/> <gap reason="illegible" quantity="1" unit="character"/> <name><seg part="I">Φλαουιο</seg><gap reason="lost" extent="unknown" unit="character"/></name>
+                    <lb n="6"/><gap reason="lost" extent="unknown" unit="character"/> <gap reason="illegible" quantity="1" unit="character"/> <name><w><seg part="I">Φλαουιο</seg><gap reason="lost" extent="unknown" unit="character"/></w></name>
                 </ab>
             </div>
             <div type="apparatus">

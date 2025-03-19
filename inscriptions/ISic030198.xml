@@ -183,15 +183,15 @@
                 <div type="textpart" subtype="section" n="a">
                     <ab>
                         <milestone unit="face" n="a"/>
-                        <lb n="1"/><handShift new="#h1"/><persName type="attested"><name type="idionym">Π<supplied reason="omitted">α</supplied>σίφυγος</name> <persName type="attested"><name type="patronym">Φιντ<supplied reason="lost">ία</supplied></name></persName></persName>
-                        <lb n="2"/><handShift new="#h2"/><hi rend="reversed"><num value="14"><supplied reason="lost">τετά</supplied>ρτα ἐπὶ δέκα</num></hi>
+                        <lb n="1"/><handShift new="#h1"/><persName type="attested"><name type="idionym"><w>Π<supplied reason="omitted">α</supplied>σίφυγος</w></name> <persName type="attested"><name type="patronym"><w>Φιντ<supplied reason="lost">ία</supplied></w></name></persName></persName>
+                        <lb n="2"/><handShift new="#h2"/><hi rend="reversed"><num value="14"><w><supplied reason="lost">τετά</supplied>ρτα ἐπὶ δέκα</w></num></hi>
                     </ab>
                 </div>
                 <div type="textpart" subtype="section" n="b">
                     <ab>
                         <milestone unit="face" n="b"/>
-                        <lb n="1"/><handShift new="#h2"/><persName type="attested"><name type="idionym"><supplied reason="lost">Πασίφυγ</supplied>ος</name> <persName type="attested"><name type="patronym">Φιντία</name></persName></persName>
-                        <lb n="2"/><handShift new="#h1"/><hi rend="reversed"><num value="14">τε<supplied reason="lost">τάρτα</supplied><supplied reason="lost">ἐπ</supplied>ὶ δέκα</num></hi>
+                        <lb n="1"/><handShift new="#h2"/><persName type="attested"><name type="idionym"><w><supplied reason="lost">Πασίφυγ</supplied>ος</w></name> <persName type="attested"><name type="patronym"><w>Φιντία</w></name></persName></persName>
+                        <lb n="2"/><handShift new="#h1"/><hi rend="reversed"><num value="14"><w>τε<supplied reason="lost">τάρτα</supplied><supplied reason="lost">ἐπ</supplied>ὶ δέκα</w></num></hi>
                     </ab>
                 </div>
             </div>

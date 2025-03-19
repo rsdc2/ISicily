@@ -195,13 +195,13 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w>que</w> <name>I</name> <gap reason="illegible" quantity="1" unit="character"/> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w>que</w> <name><w>I</w></name> <gap reason="illegible" quantity="1" unit="character"/> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w>ia</w> <w>per</w> <w>om<unclear>n</unclear></w> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <w>etilio</w> <name>Secun<supplied reason="lost" cert="low">do</supplied></name> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <num value="50000"><supplied reason="lost">quin</supplied>quagenum m<supplied reason="lost">ilium</supplied></num> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <w>etilio</w> <name><w>Secun<supplied reason="lost" cert="low">do</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <num value="50000"><w><supplied reason="lost">quin</supplied>quagenum m<supplied reason="lost">ilium</supplied></w></num> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/> <w>curavit</w> <w>quo</w> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="6"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="undefined" evidence="previouseditor">n</supplied>di</w> <w>circa</w> <name><unclear>C</unclear></name> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="7"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="undefined" evidence="previouseditor">M</supplied>M</w> <w>ad</w> <name><supplied reason="undefined" evidence="previouseditor">S</supplied></name> <gap reason="illegible" quantity="1" unit="character"/> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="6"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="undefined" evidence="previouseditor">n</supplied>di</w> <w>circa</w> <name><w><unclear>C</unclear></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="7"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="undefined" evidence="previouseditor">M</supplied>M</w> <w>ad</w> <name><w><supplied reason="undefined" evidence="previouseditor">S</supplied></w></name> <gap reason="illegible" quantity="1" unit="character"/> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>
             <div type="apparatus">

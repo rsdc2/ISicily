@@ -177,7 +177,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="scx-Grek" resp="#VM">
                 <ab>
-                    <lb n="1" style="text-direction:circular-clockwise"/><persName cert="low" type="attested"><name type="idionym">Στ<hi rend="ligature">οα</hi>ρκιμ<hi rend="small">ο</hi><hi rend="reversed">ς</hi></name></persName> <persName cert="low" type="attested"><name type="idionym">Αρ<unclear>γ</unclear>ενοι</name></persName>
+                    <lb n="1" style="text-direction:circular-clockwise"/><persName cert="low" type="attested"><name type="idionym"><w>Στ<hi rend="ligature">οα</hi>ρκιμ<hi rend="small">ο</hi><hi rend="reversed">ς</hi></w></name></persName> <persName cert="low" type="attested"><name type="idionym"><w>Αρ<unclear>γ</unclear>ενοι</w></name></persName>
                 </ab>
             </div>             
             <div type="edition" xml:space="preserve" subtype="transliteration" xml:lang="scx-Latn">                 

@@ -190,11 +190,11 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <div type="textpart" subtype="section" n="a">
                     <ab>
-                        <lb n="1"/><w>ὑπατίᾳ</w> <name>Ὁνωρίῳ</name>
-                        <lb n="2"/><w>τὸ</w> <g ref="#interpunct">·</g> <num value="4">δ</num> <g ref="#interpunct">·</g> <w>καὶ</w> <name>Εὐτυχιανῷ</name>
+                        <lb n="1"/><w>ὑπατίᾳ</w> <name><w>Ὁνωρίῳ</w></name>
+                        <lb n="2"/><w>τὸ</w> <g ref="#interpunct">·</g> <num value="4"><w>δ</w></num> <g ref="#interpunct">·</g> <w>καὶ</w> <name><w>Εὐτυχιανῷ</w></name>
                         <lb n="3"/><w>ἐτελεύτησεν</w>
-                        <lb n="4"/><name>Εὔσκιος</name> <w>μηνὶ</w> <name>Ἰανο</name>
-                        <lb n="5"/><w>υαρίῳ</w> <w>ἀπὸ</w> <w><expan><abbr>κ</abbr><ex>α</ex><abbr><am><g ref="#interpunct">·</g></am>λ</abbr><ex>ανδῶν</ex></expan></w> <g ref="#interpunct">·</g> <num value="11">ια</num> <g ref="#interpunct">·</g>
+                        <lb n="4"/><name><w>Εὔσκιος</w></name> <w>μηνὶ</w> <name><w>Ἰανο</w></name>
+                        <lb n="5"/><w>υαρίῳ</w> <w>ἀπὸ</w> <w><expan><abbr>κ</abbr><ex>α</ex><abbr><am><g ref="#interpunct">·</g></am>λ</abbr><ex>ανδῶν</ex></expan></w> <g ref="#interpunct">·</g> <num value="11"><w>ια</w></num> <g ref="#interpunct">·</g>
                     </ab>
                 </div>
                 <div type="textpart" subtype="section" n="b">

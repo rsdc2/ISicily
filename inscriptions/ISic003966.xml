@@ -190,8 +190,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#SS">
                 <ab>
-                    <lb n="1"/><w>Ἀκούτου</w> <name>Μ
-                    <lb n="2" break="no"/>υρκείτα</name>
+                    <lb n="1"/><w>Ἀκούτου</w> <name><w>Μ
+                    <lb n="2" break="no"/>υρκείτα</w></name>
                 </ab>
             </div>
             <div type="apparatus">

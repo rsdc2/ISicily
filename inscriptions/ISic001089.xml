@@ -213,7 +213,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1" xml:id="BIοAK"/><w xml:id="BIοAU">Ἀ<supplied reason="lost" xml:id="BIοAe">λε</supplied>ξίας</w> <w xml:id="BIοAo">hο</w> <name xml:id="BIοAy">Ξένο̄νος</name>
+                    <lb n="1" xml:id="BIοAK"/><w xml:id="BIοAU">Ἀ<supplied reason="lost" xml:id="BIοAe">λε</supplied>ξίας</w> <w xml:id="BIοAo">hο</w> <name xml:id="BIοAy"><w>Ξένο̄νος</w></name>
                     <lb n="2" xml:id="BIοAΙ"/><w xml:id="BIοAΤ"><supplied reason="lost" xml:id="BIοAε">ἐπ</supplied>ὶ</w> <w xml:id="BIοAο"><supplied reason="lost" xml:id="BIοBA">ἀ</supplied>νγέλοι</w> <w xml:id="BIοBK">τᾶι</w> <w xml:id="BIοBU">hεκάται</w>
                     <lb n="3" xml:id="BIοBe"/><w xml:id="BIοBo">ἀ<supplied reason="lost" xml:id="BIοBy">ν</supplied>έθε̄κε</w>
                 </ab>

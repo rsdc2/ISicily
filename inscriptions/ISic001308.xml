@@ -203,11 +203,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    <lb n="1"/><g ref="#interpunct">❦</g> <w><expan><abbr>Θ</abbr><ex>εοῖς</ex></expan></w> <name><expan><abbr>Κ</abbr><ex>αταχθονίοις</ex></expan></name> <g ref="#interpunct">❦</g>
-                    <lb n="2"/><name>Κορνήλιος</name> <g ref="#interpunct">·</g> <name>Ἀγα
-                    <lb n="3" break="no"/>θήμερος</name> <g ref="#interpunct">·</g> <w>ἐζη<g ref="#interpunct">·</g>
+                    <lb n="1"/><g ref="#interpunct">❦</g> <w><expan><abbr>Θ</abbr><ex>εοῖς</ex></expan></w> <name><w><expan><abbr>Κ</abbr><ex>αταχθονίοις</ex></expan></w></name> <g ref="#interpunct">❦</g>
+                    <lb n="2"/><name><w>Κορνήλιος</w></name> <g ref="#interpunct">·</g> <name><w>Ἀγα
+                    <lb n="3" break="no"/>θήμερος</w></name> <g ref="#interpunct">·</g> <w>ἐζη<g ref="#interpunct">·</g>
                     <lb n="4" break="no"/>σεν</w> <w>ἔτη</w> <g ref="#interpunct">·</g> <w>XXXVIII</w>
-                    <lb n="5"/><name>Εὐφροσύνη</name> <g ref="#interpunct">·</g> <w>ἰδίῳ</w> <w>συ<hi rend="small">ν</hi>
+                    <lb n="5"/><name><w>Εὐφροσύνη</w></name> <g ref="#interpunct">·</g> <w>ἰδίῳ</w> <w>συ<hi rend="small">ν</hi>
                     <lb n="6" break="no"/>βίῳ</w> <w>μνήμης</w> <w>χάριν</w>
                 </ab>
               </div>

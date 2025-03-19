@@ -248,10 +248,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#GC #JP">
                 <ab>
-                    <lb n="1" xml:id="BKΙAK"/><persName type="attested" xml:id="BKΙAU"><name xml:id="BKΙAe">Διόδω<unclear xml:id="BKΙAo">ρ</unclear>ος</name> <persName type="attested" xml:id="BKΙAy"><name type="patronym" xml:id="BKΙAΙ">Τιττέλου</name></persName> <name type="secondName" xml:id="BKΙAΤ">Ἀππειραῖος</name></persName>
+                    <lb n="1" xml:id="BKΙAK"/><persName type="attested" xml:id="BKΙAU"><name xml:id="BKΙAe"><w>Διόδω<unclear xml:id="BKΙAo">ρ</unclear>ος</w></name> <persName type="attested" xml:id="BKΙAy"><name type="patronym" xml:id="BKΙAΙ"><w>Τιττέλου</w></name></persName> <name type="secondName" xml:id="BKΙAΤ"><w>Ἀππειραῖος</w></name></persName>
                     <lb n="2" xml:id="BKΙAε"/><w xml:id="BKΙAο">τὰν</w> <space unit="character" quantity="1" xml:id="BKΙBA"/><w xml:id="BKΙBK">ἀδελφὰν</w> <w xml:id="BKΙBU">αὐτοῦτα</w>
-                    <lb n="3" xml:id="BKΙBe"/><persName type="attested" xml:id="BKΙBo"><name xml:id="BKΙBy">Μινύραν</name> <persName type="attested" xml:id="BKΙBΙ"><name type="gamonym" xml:id="BKΙBΤ">Ἀρτέμωνος</name></persName></persName> <roleName type="civic.religious" subtype="hiereia" xml:id="BKΙBε"><w xml:id="BKΙBο">ἱερατεύουσαν</w></roleName>
-                    <lb n="4" xml:id="BKΙCA"/><persName type="divine" xml:id="BKΙCK"><name xml:id="BKΙCU">Ἀφροδίται</name> <space unit="character" quantity="1" xml:id="BKΙCe"/><name type="epithet" xml:id="BKΙCo">Οὐρανίαι</name></persName>
+                    <lb n="3" xml:id="BKΙBe"/><persName type="attested" xml:id="BKΙBo"><name xml:id="BKΙBy"><w>Μινύραν</w></name> <persName type="attested" xml:id="BKΙBΙ"><name type="gamonym" xml:id="BKΙBΤ"><w>Ἀρτέμωνος</w></name></persName></persName> <roleName type="civic.religious" subtype="hiereia" xml:id="BKΙBε"><w xml:id="BKΙBο">ἱερατεύουσαν</w></roleName>
+                    <lb n="4" xml:id="BKΙCA"/><persName type="divine" xml:id="BKΙCK"><name xml:id="BKΙCU"><w>Ἀφροδίται</w></name> <space unit="character" quantity="1" xml:id="BKΙCe"/><name type="epithet" xml:id="BKΙCo"><w>Οὐρανίαι</w></name></persName>
                 </ab>
             </div>
             <div type="apparatus">

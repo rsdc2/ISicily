@@ -189,10 +189,10 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
                     <lb n="1"/><w>ἐκοιμή
-                    <lb n="2" break="no"/>θη</w> <name>Κορνηλία</name>
+                    <lb n="2" break="no"/>θη</w> <name><w>Κορνηλία</w></name>
                     <lb n="3"/><w>μηνὶ</w> <w><choice><orig>Ὀκτρωβί
                     <lb n="4" break="no"/>ῳ</orig><reg>Ὀκτωβρίῳ</reg></choice></w> <w>ὅτε</w> <w>ἀπὸ</w> <w><expan><abbr>κα</abbr><ex>λανδῶν</ex></expan></w> <w>θ</w>
-                    <lb n="5"/><w>ἡμέρα</w> <name>Διός</name>
+                    <lb n="5"/><w>ἡμέρα</w> <name><w>Διός</w></name>
                 </ab>
             </div>
             <div type="apparatus">

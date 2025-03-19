@@ -194,8 +194,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/><w><supplied reason="lost">ὁ</supplied></w> <w><supplied reason="lost">δεῖνα</supplied></w> <name><supplied reason="lost">Ν</supplied>εικάνδρου</name>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">ἔζησεν</supplied></w> <w>ἔτη</w> <num value="45">με</num>
+                    <lb n="1"/><w><supplied reason="lost">ὁ</supplied></w> <w><supplied reason="lost">δεῖνα</supplied></w> <name><w><supplied reason="lost">Ν</supplied>εικάνδρου</w></name>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">ἔζησεν</supplied></w> <w>ἔτη</w> <num value="45"><w>με</w></num>
                     <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">ὑιὸ</supplied>ς</w> <w>πατρί</w>
                 </ab>
             </div>

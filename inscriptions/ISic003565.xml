@@ -187,8 +187,8 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
                     <lb n="1"/><w>ἀπέθανε</w>
-                    <lb n="2"/><persName type="attested"><name>Διόνυσα</name></persName>
-                    <lb n="3"/><w><expan><abbr>πρ</abbr><ex>ὸ</ex></expan></w> <num value="3">γ</num> <w><expan><abbr>καλ</abbr><ex>ανδῶν</ex></expan></w> <w><choice><orig>Φλε
+                    <lb n="2"/><persName type="attested"><name><w>Διόνυσα</w></name></persName>
+                    <lb n="3"/><w><expan><abbr>πρ</abbr><ex>ὸ</ex></expan></w> <num value="3"><w>γ</w></num> <w><expan><abbr>καλ</abbr><ex>ανδῶν</ex></expan></w> <w><choice><orig>Φλε
                     <lb n="4" break="no"/>βαρίων</orig><reg>Φεβρουαρίων</reg></choice></w>
                 </ab>
             </div>

@@ -189,11 +189,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/><w>Ἀνναῖος</w> <name>Βάρνας</name>
+                    <lb n="1"/><w>Ἀνναῖος</w> <name><w>Βάρνας</w></name>
                     <lb n="2"/><w>χρηστὸς</w> <w>καὶ</w> <w>ἄμε
                     <lb n="3" break="no"/>μπτος</w> <w>ἔζησεν</w> <w>ἔτη</w>
-                    <lb n="4"/><num value="40">μ</num> <g ref="#interpunct">·</g> <w>μῆνες</w> <g ref="#interpunct">·</g> <num value="3">γ</num> <g ref="#interpunct">·</g> <w>ἡμέρ
-                    <lb n="5" break="no"/>ας</w> <g ref="#interpunct">·</g> <num value="8">η</num> <g ref="#interpunct">·</g>
+                    <lb n="4"/><num value="40"><w>μ</w></num> <g ref="#interpunct">·</g> <w>μῆνες</w> <g ref="#interpunct">·</g> <num value="3"><w>γ</w></num> <g ref="#interpunct">·</g> <w>ἡμέρ
+                    <lb n="5" break="no"/>ας</w> <g ref="#interpunct">·</g> <num value="8"><w>η</w></num> <g ref="#interpunct">·</g>
                 </ab>
             </div>
             <div type="apparatus">

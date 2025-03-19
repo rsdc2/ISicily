@@ -199,8 +199,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name type="praenomen">Δέκομε</name> <name type="nomen">Λαί
-                    <lb n="2" break="no"/>λει</name> <name type="cognomen">Μέγα</name></persName>
+                    <lb n="1"/><persName type="attested"><name type="praenomen"><w>Δέκομε</w></name> <name type="nomen"><w>Λαί
+                    <lb n="2" break="no"/>λει</w></name> <name type="cognomen"><w>Μέγα</w></name></persName>
                     <lb n="3"/><w>χαῖρε</w>
                 </ab>
             </div>

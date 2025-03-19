@@ -190,13 +190,13 @@
                 <ab>
                     <lb n="1"/><w>ἐπί</w> <roleName type="civic.religious" subtype="hieropolos"><w>ἱεροπόλου</w></roleName>
                     <lb n="2"/><persName><gap reason="lost" extent="unknown" unit="character"/> <w part="F"><orig>ΤΟΣ</orig></w>
-                    <lb n="3"/><name type="patronym">Ἀπολλωνίου</name></persName>
-                    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <num type="acrophonic"><orig>Νbb</orig></num>
-                    <lb n="5"/><persName><name>Θεόδωρος</name>
-                    <lb n="6"/><persName><name type="patronym"><supplied reason="lost">Ἀ</supplied>πολλόδρου</name></persName></persName>
-                    <lb n="7"/><gap reason="lost" extent="unknown" unit="character"/> <num type="acrophonic"><orig>ΝΝb</orig></num>
-                    <lb n="8"/><name>Κράτυλος</name>
-                    <lb n="9"/><name part="I">Εὐκ</name> <gap reason="illegible" quantity="2" unit="character"/> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="3"/><name type="patronym"><w>Ἀπολλωνίου</w></name></persName>
+                    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <num type="acrophonic"><w><orig>Νbb</orig></w></num>
+                    <lb n="5"/><persName><name><w>Θεόδωρος</w></name>
+                    <lb n="6"/><persName><name type="patronym"><w><supplied reason="lost">Ἀ</supplied>πολλόδρου</w></name></persName></persName>
+                    <lb n="7"/><gap reason="lost" extent="unknown" unit="character"/> <num type="acrophonic"><w><orig>ΝΝb</orig></w></num>
+                    <lb n="8"/><name><w>Κράτυλος</w></name>
+                    <lb n="9"/><name part="I"><w>Εὐκ</w></name> <gap reason="illegible" quantity="2" unit="character"/> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>
             <div type="apparatus">

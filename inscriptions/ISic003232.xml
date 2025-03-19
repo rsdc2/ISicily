@@ -194,11 +194,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
-                    <lb n="1"/><w><supplied reason="lost" cert="low"><expan><abbr>D</abbr><ex>is</ex></expan></supplied></w> <name><supplied reason="lost" cert="low"><expan><abbr>M</abbr><ex>anibus</ex></expan></supplied></name> <w><supplied reason="lost" cert="low"><expan><abbr>s</abbr><ex>acrum</ex></expan></supplied></w>
-                    <lb n="2"/><name>Epig<supplied reason="lost" cert="low">onus</supplied></name> <w><supplied reason="lost">vixit</supplied></w>
-                    <lb n="3"/><w><expan><abbr>ann</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <num value="40">X<supplied reason="undefined" evidence="previouseditor">L</supplied></num> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="4"/><name>Epigona</name> <w><supplied reason="lost">vixit</supplied></w>
-                    <lb n="5"/><w><expan><abbr>mens</abbr><ex>ibus</ex></expan></w> <g ref="#interpunct">·</g> <hi rend="supraline"><num value="6">VI</num></hi><w><expan><abbr><supplied reason="undefined" evidence="previouseditor">d</supplied></abbr><ex>iebus</ex></expan></w> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><w><supplied reason="lost" cert="low"><expan><abbr>D</abbr><ex>is</ex></expan></supplied></w> <name><w><supplied reason="lost" cert="low"><expan><abbr>M</abbr><ex>anibus</ex></expan></supplied></w></name> <w><supplied reason="lost" cert="low"><expan><abbr>s</abbr><ex>acrum</ex></expan></supplied></w>
+                    <lb n="2"/><name><w>Epig<supplied reason="lost" cert="low">onus</supplied></w></name> <w><supplied reason="lost">vixit</supplied></w>
+                    <lb n="3"/><w><expan><abbr>ann</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <num value="40"><w>X<supplied reason="undefined" evidence="previouseditor">L</supplied></w></num> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="4"/><name><w>Epigona</w></name> <w><supplied reason="lost">vixit</supplied></w>
+                    <lb n="5"/><w><expan><abbr>mens</abbr><ex>ibus</ex></expan></w> <g ref="#interpunct">·</g> <hi rend="supraline"><num value="6"><w>VI</w></num></hi><w><expan><abbr><supplied reason="undefined" evidence="previouseditor">d</supplied></abbr><ex>iebus</ex></expan></w> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="6"/><w>ne</w> <w>uxor</w> <w>b<supplied reason="lost">ene</supplied></w> <w><supplied reason="lost">meren</supplied>
                     <lb n="7" break="no"/>tibus</w> <g ref="#interpunct">·</g> <w>fec<supplied reason="lost">it</supplied></w>
                 </ab>

@@ -193,11 +193,11 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#AA">
                 <ab>
                     <lb n="1"/><w><supplied reason="lost">ἒζησεν ὁ</supplied></w>
-                    <lb n="2"/><name><supplied reason="lost">Ἀν</supplied><seg part="M">τών</seg><supplied reason="lost">ιος</supplied></name> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="3"/><w>ἒτη</w> <num value="70">ο</num> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="4"/><w>ἒζησεν</w> <w>ὁ</w> <name>Σ
-                    <lb n="5" break="no"/><supplied reason="lost">α</supplied>τορνῖλος</name> <w>ἒ<supplied reason="lost">τη</supplied></w> <gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost"><expan><abbr>τελ</abbr><ex>ευτᾷ</ex></expan></supplied></w>
-                    <lb n="6"/><w>τῇ</w> <w><expan><abbr>πρ</abbr><ex>ὸ</ex></expan></w> <num value="4">δ</num> <w><expan><abbr>κα<supplied reason="lost">λ</supplied></abbr><supplied reason="lost"><ex>ανδῶν</ex></supplied></expan></w> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><name><w><supplied reason="lost">Ἀν</supplied><seg part="M">τών</seg><supplied reason="lost">ιος</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="3"/><w>ἒτη</w> <num value="70"><w>ο</w></num> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="4"/><w>ἒζησεν</w> <w>ὁ</w> <name><w>Σ
+                    <lb n="5" break="no"/><supplied reason="lost">α</supplied>τορνῖλος</w></name> <w>ἒ<supplied reason="lost">τη</supplied></w> <gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost"><expan><abbr>τελ</abbr><ex>ευτᾷ</ex></expan></supplied></w>
+                    <lb n="6"/><w>τῇ</w> <w><expan><abbr>πρ</abbr><ex>ὸ</ex></expan></w> <num value="4"><w>δ</w></num> <w><expan><abbr>κα<supplied reason="lost">λ</supplied></abbr><supplied reason="lost"><ex>ανδῶν</ex></supplied></expan></w> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>
             <div type="apparatus">

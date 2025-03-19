@@ -192,10 +192,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
-                    <lb n="1"/><name><expan><abbr>C</abbr><ex>aius</ex></expan></name> <g ref="#interpunct">·</g> <name>Iulius</name> <name>Berinis</name> <g ref="#interpunct">·</g> <orig>I</orig><gap reason="lost" quantity="2" unit="character"/> <g ref="#interpunct">·</g>
-                    <lb n="2"/><name>Anteras</name> <g ref="#interpunct">·</g> <w><supplied reason="undefined" evidence="previouseditor">fe</supplied>cit</w>
-                    <lb n="3"/><name>Eroti</name> <g ref="#interpunct">·</g> <w><expan><abbr>f</abbr><ex>ilio</ex></expan></w> <g ref="#interpunct">·</g> <g ref="#interpunct">·</g> <orig>vo</orig><gap reason="lost" quantity="3" unit="character"/> <w>vixit</w>
-                    <lb n="4"/><w><expan><abbr>a</abbr><ex>nnis</ex></expan></w> <g ref="#interpunct">·</g> <g ref="#interpunct">·</g> <num value="8">VIII</num>
+                    <lb n="1"/><name><w><expan><abbr>C</abbr><ex>aius</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w>Iulius</w></name> <name><w>Berinis</w></name> <g ref="#interpunct">·</g> <orig>I</orig><gap reason="lost" quantity="2" unit="character"/> <g ref="#interpunct">·</g>
+                    <lb n="2"/><name><w>Anteras</w></name> <g ref="#interpunct">·</g> <w><supplied reason="undefined" evidence="previouseditor">fe</supplied>cit</w>
+                    <lb n="3"/><name><w>Eroti</w></name> <g ref="#interpunct">·</g> <w><expan><abbr>f</abbr><ex>ilio</ex></expan></w> <g ref="#interpunct">·</g> <g ref="#interpunct">·</g> <orig>vo</orig><gap reason="lost" quantity="3" unit="character"/> <w>vixit</w>
+                    <lb n="4"/><w><expan><abbr>a</abbr><ex>nnis</ex></expan></w> <g ref="#interpunct">·</g> <g ref="#interpunct">·</g> <num value="8"><w>VIII</w></num>
                 </ab>
             </div>
             <div type="apparatus">

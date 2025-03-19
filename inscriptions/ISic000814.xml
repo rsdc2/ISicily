@@ -214,7 +214,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1" xml:id="AζoAK"/><w xml:id="AζoAU">ἐπὶ</w> <roleName type="civic" subtype="duumvir" xml:id="AζoAe"><w xml:id="AζoAo">δυῶν</w> <w xml:id="AζoAy">ἀνδρῶν</w></roleName> <space unit="character" quantity="1" xml:id="AζoAΙ"/><g ref="#interpunct" xml:id="AζoAΤ">·</g> <space unit="character" quantity="1" xml:id="AζoAε"/><name xml:id="AζoAο">Λ</name> <gap reason="lost" extent="unknown" unit="character" xml:id="AζoBA"/>
+                    <lb n="1" xml:id="AζoAK"/><w xml:id="AζoAU">ἐπὶ</w> <roleName type="civic" subtype="duumvir" xml:id="AζoAe"><w xml:id="AζoAo">δυῶν</w> <w xml:id="AζoAy">ἀνδρῶν</w></roleName> <space unit="character" quantity="1" xml:id="AζoAΙ"/><g ref="#interpunct" xml:id="AζoAΤ">·</g> <space unit="character" quantity="1" xml:id="AζoAε"/><name xml:id="AζoAο"><w>Λ</w></name> <gap reason="lost" extent="unknown" unit="character" xml:id="AζoBA"/>
                 </ab>
             </div>
             <div type="apparatus">

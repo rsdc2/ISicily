@@ -194,7 +194,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
-                    <lb n="1"/><supplied reason="lost">Divo <name>Flavio</name></supplied> <name>Vale<supplied reason="lost">rio</supplied></name> <supplied reason="lost"><name>Constantio</name></supplied> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><supplied reason="lost">Divo <name><w>Flavio</w></name></supplied> <name><w>Vale<supplied reason="lost">rio</supplied></w></name> <supplied reason="lost"><name><w>Constantio</w></name></supplied> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>
             <div type="apparatus">

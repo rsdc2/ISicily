@@ -164,7 +164,7 @@
             <div type="edition" xml:space="preserve" xml:lang="scx" resp="#VM">
                 <ab>
                     <lb n="1"/><w>ΟΑ</w>
-                    <lb n="2"/><name>Μ</name> <gap reason="lost" quantity="1" unit="character"/> <w>ΤΥΓΟΣ</w>
+                    <lb n="2"/><name><w>Μ</w></name> <gap reason="lost" quantity="1" unit="character"/> <w>ΤΥΓΟΣ</w>
                     <lb n="3"/><w>ΤΙΛΥΤΥΛΙΚΑΓΙΥ</w>
                     <lb n="4"/><w>hΟΣΕΠΙΜΥΤΙ</w>
                     <lb n="5"/><w>ΛΑΙΑΠΕΤΕΝΕ</w>

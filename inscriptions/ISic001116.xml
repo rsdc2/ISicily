@@ -193,7 +193,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM #JP">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name>Κλεαγόρας</name> <placeName type="ethnic"><name>Μασσαλιώτης</name></placeName></persName> <persName type="divine"><name>Ἀφροδίτηι</name></persName>
+                    <lb n="1"/><persName type="attested"><name><w>Κλεαγόρας</w></name> <placeName type="ethnic"><name><w>Μασσαλιώτης</w></name></placeName></persName> <persName type="divine"><name><w>Ἀφροδίτηι</w></name></persName>
                     <lb n="2"/><w><unclear>ἀ</unclear>νέθηκε</w> <w>τράπεζαν</w>
                 </ab>
             </div>

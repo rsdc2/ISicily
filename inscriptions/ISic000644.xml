@@ -190,12 +190,12 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#AL">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name type="cognomen">Σεβῆρος</name></persName>
+                    <lb n="1"/><persName type="attested"><name type="cognomen"><w>Σεβῆρος</w></name></persName>
                     <lb n="2"/><w>χρηστὸς</w>
                     <lb n="3"/><w>καὶ</w> <w>ἄμενπτο
                     <lb n="4" break="no"/>ς</w> <g ref="#interpunct">·</g> <w>ἔζησεν</w> <w>ἔτη</w>
-                    <lb n="5"/><num value="35">λεʹ</num> <w><expan><abbr>μῆ</abbr><ex>νες</ex></expan></w> <num value="3">γʹ</num> <w><expan><abbr>ἡμέρ</abbr><ex>ας</ex></expan></w>
-                    <lb n="6"/><num value="15">ιεʹ</num>
+                    <lb n="5"/><num value="35"><w>λεʹ</w></num> <w><expan><abbr>μῆ</abbr><ex>νες</ex></expan></w> <num value="3"><w>γʹ</w></num> <w><expan><abbr>ἡμέρ</abbr><ex>ας</ex></expan></w>
+                    <lb n="6"/><num value="15"><w>ιεʹ</w></num>
                 </ab>
             </div>
             <div type="apparatus">

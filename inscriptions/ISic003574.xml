@@ -219,7 +219,7 @@
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
                     <lb n="1"/><w>Alfia</w> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="2"/><name>L</name> <g ref="#interpunct">·</g> <name>Ae<unclear>l</unclear></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><name><w>L</w></name> <g ref="#interpunct">·</g> <name><w>Ae<unclear>l</unclear></w></name> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>
             <div type="apparatus">

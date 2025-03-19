@@ -192,10 +192,10 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
                     <lb n="1"/><w>ἀνεπαύσατο</w>
-                    <lb n="2"/><name>Χρήσιμος</name>
-                    <lb n="3"/><w>ζήσας</w> <w>ἔτη</w> <num value="50">ν</num>
-                    <lb n="4"/><w><expan><abbr>μ</abbr><ex>ῆνας</ex></expan></w> <num value="7">ζ</num> <w>ἡμέρας</w> <num value="22">κβ</num>
-                    <lb n="5"/><w>πρὸ</w> <num value="9">θ</num> <w><expan><abbr>καλ</abbr><ex>ανδῶν</ex></expan></w> <name><expan><abbr>Μα</abbr><ex>ί</ex><abbr>ω</abbr><ex>ν</ex></expan></name>
+                    <lb n="2"/><name><w>Χρήσιμος</w></name>
+                    <lb n="3"/><w>ζήσας</w> <w>ἔτη</w> <num value="50"><w>ν</w></num>
+                    <lb n="4"/><w><expan><abbr>μ</abbr><ex>ῆνας</ex></expan></w> <num value="7"><w>ζ</w></num> <w>ἡμέρας</w> <num value="22"><w>κβ</w></num>
+                    <lb n="5"/><w>πρὸ</w> <num value="9"><w>θ</w></num> <w><expan><abbr>καλ</abbr><ex>ανδῶν</ex></expan></w> <name><w><expan><abbr>Μα</abbr><ex>ί</ex><abbr>ω</abbr><ex>ν</ex></expan></w></name>
                 </ab>
             </div>
             <div type="apparatus">

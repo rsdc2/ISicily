@@ -193,9 +193,9 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#MH">
                 <ab>
                     <lb n="1"/><w><supplied reason="lost">ὁ<desc>personal name</desc>τοῦ<desc>personal name</desc></supplied></w>
-                    <lb n="2"/><w>τοῦ</w> <name>Πολυ<supplied reason="lost">ξέ</supplied>νου</name>
+                    <lb n="2"/><w>τοῦ</w> <name><w>Πολυ<supplied reason="lost">ξέ</supplied>νου</w></name>
                     <lb n="3"/><w>καὶ</w> <w>οἱ</w> <w>ἀλ<supplied reason="omitted">ειφόμενοι</supplied></w>
-                    <lb n="4"/><name>Ἡρακλεῖ.</name>
+                    <lb n="4"/><name><w>Ἡρακλεῖ.</w></name>
                 </ab>
             </div>
             <div type="apparatus" resp="#MH">

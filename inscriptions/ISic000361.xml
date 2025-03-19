@@ -221,14 +221,14 @@
             <div type="edition" xml:space="preserve" resp="#martaf">
                 <div type="textpart" subtype="section" n="a" xml:lang="la">
                     <ab>
-                        <lb n="1"/><g ref="#interpunct">·</g> <persName type="attested"><name><expan><abbr>M</abbr><ex cert="low">arcia</ex></expan></name> <g ref="#interpunct">·</g> <name>Marylla</name></persName>
-                        <lb n="2"/><w>vixit</w> <g ref="#interpunct">·</g> <w><expan><abbr>ann</abbr><ex>is</ex></expan></w> <num atLeast="50" atMost="59"><supplied reason="lost">L</supplied><gap reason="lost" unit="character" extent="unknown"/></num>
+                        <lb n="1"/><g ref="#interpunct">·</g> <persName type="attested"><name><w><expan><abbr>M</abbr><ex cert="low">arcia</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w>Marylla</w></name></persName>
+                        <lb n="2"/><w>vixit</w> <g ref="#interpunct">·</g> <w><expan><abbr>ann</abbr><ex>is</ex></expan></w> <num atLeast="50" atMost="59"><w><supplied reason="lost">L</supplied><gap reason="lost" unit="character" extent="unknown"/></w></num>
                     </ab>
                 </div>
                 <div type="textpart" subtype="section" n="b" xml:lang="grc">
                     <ab>
-                        <lb n="3"/><persName type="attested"><name><expan><abbr><supplied reason="undefined" evidence="previouseditor">Μ</supplied></abbr><ex>αρκία</ex></expan></name> <name><supplied reason="undefined" evidence="previouseditor">Μάρυλλ</supplied><unclear>α</unclear></name></persName> <w>ἔ<unclear>ζ</unclear><supplied reason="lost">ησεν</supplied></w>
-                        <lb n="4"/><w><supplied reason="undefined" evidence="previouseditor">ἔτη</supplied></w> <w><supplied reason="undefined" evidence="previouseditor"><num atLeast="50" atMost="59">ν<gap reason="lost" extent="unknown" unit="character"/></num></supplied></w>
+                        <lb n="3"/><persName type="attested"><name><w><expan><abbr><supplied reason="undefined" evidence="previouseditor">Μ</supplied></abbr><ex>αρκία</ex></expan></w></name> <name><w><supplied reason="undefined" evidence="previouseditor">Μάρυλλ</supplied><unclear>α</unclear></w></name></persName> <w>ἔ<unclear>ζ</unclear><supplied reason="lost">ησεν</supplied></w>
+                        <lb n="4"/><w><supplied reason="undefined" evidence="previouseditor">ἔτη</supplied></w> <w><supplied reason="undefined" evidence="previouseditor"><num atLeast="50" atMost="59"><w>ν<gap reason="lost" extent="unknown" unit="character"/></w></num></supplied></w>
                     </ab>
                 </div>
             </div>

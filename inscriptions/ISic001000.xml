@@ -192,12 +192,12 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
                     <lb n="1"/><w>μηνὶ</w>
-                    <lb n="2"/><name>Ὀκτωβρή
-                    <lb n="3" break="no"/>ῳ</name> <w>ἀπὸ</w> <w>κα
-                    <lb n="4" break="no"/>λανδῶν</w> <num value="7">ζ</num>
+                    <lb n="2"/><name><w>Ὀκτωβρή
+                    <lb n="3" break="no"/>ῳ</w></name> <w>ἀπὸ</w> <w>κα
+                    <lb n="4" break="no"/>λανδῶν</w> <num value="7"><w>ζ</w></num>
                     <lb n="5"/><w>ἐκοιμήθη</w>
                     <lb n="6"/><w>μνησαμένα</w>
-                    <lb n="7"/><name>Ὑγία</name>
+                    <lb n="7"/><name><w>Ὑγία</w></name>
                 </ab>
             </div>
             <div type="apparatus">

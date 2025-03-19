@@ -193,8 +193,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/><w>Ἰούλιοϲ</w> <name>Ἰοῦστοϲ</name>
-                    <lb n="2"/><w><expan><abbr>ἔζηϲ</abbr><ex>εν</ex></expan></w> <w>ἔτη</w> <num value="30">λ</num>
+                    <lb n="1"/><w>Ἰούλιοϲ</w> <name><w>Ἰοῦστοϲ</w></name>
+                    <lb n="2"/><w><expan><abbr>ἔζηϲ</abbr><ex>εν</ex></expan></w> <w>ἔτη</w> <num value="30"><w>λ</w></num>
                     <lb n="3"/><w>καὶ</w> <w>ἐβίω<supplied reason="lost">ϲεν</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="3a"/><gap reason="lost" quantity="1" unit="line"/>
                 </ab>

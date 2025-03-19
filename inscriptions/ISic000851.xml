@@ -192,9 +192,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/><w>Κλαυδίῳ</w> <name>Θ<supplied reason="lost">εο</supplied></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><w>Κλαυδίῳ</w> <name><w>Θ<supplied reason="lost">εο</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="2"/><w>γλυκυ<hi rend="ligature">τάτ</hi>ῳ</w> <w><supplied reason="lost">τέκνῳ</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="3"/><name>Πολυδά<supplied reason="lost">μας</supplied></name> <w><supplied reason="lost" cert="low">πατήρ</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="3"/><name><w>Πολυδά<supplied reason="lost">μας</supplied></w></name> <w><supplied reason="lost" cert="low">πατήρ</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>
             <div type="apparatus">

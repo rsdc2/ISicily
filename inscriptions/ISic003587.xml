@@ -196,12 +196,12 @@
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
                     <lb n="1"/><w><supplied reason="lost" cert="low"><roleName type="supracivic" subtype="imperator"><expan><abbr>Imp</abbr><ex>eratori</ex></expan></roleName></supplied></w>
-                    <lb n="2"/><name><supplied reason="lost">Caio</supplied></name> <name><supplied reason="lost">M</supplied>essio</name> <g ref="#interpunct">·</g>
-                    <lb n="3"/><name><supplied reason="lost">Quin</supplied><unclear>t</unclear>o</name> <g ref="#interpunct">·</g> <name>Traiano</name> <g ref="#interpunct">·</g>
-                    <lb n="4"/><name><supplied reason="lost">Deci</supplied>o</name> <g ref="#interpunct">·</g> <name>Pio</name> <g ref="#interpunct">·</g> <name>Felici</name> <g ref="#interpunct">·</g>
-                    <lb n="5"/><supplied reason="lost"><space unit="character" quantity="1"/></supplied> <name><supplied reason="lost"><expan><abbr>Aug</abbr><ex>usto</ex></expan></supplied></name> <name><unclear>R</unclear>es</name> <name><expan><abbr><unclear>P</unclear></abbr><ex>ublica</ex></expan></name> <name><expan><abbr><unclear>Hal</unclear></abbr><ex>aesinorum</ex></expan></name> <supplied reason="lost"><space unit="character" quantity="1"/></supplied>
-                    <lb n="6"/><name><supplied reason="lost">Dev</supplied>ota</name> <name><supplied reason="lost">Numini</supplied></name>
-                    <lb n="7"/><name><expan><abbr><supplied reason="lost">M</supplied>a<unclear>ie</unclear><supplied reason="lost">statiq</supplied></abbr><supplied reason="lost"><ex>ue</ex></supplied></expan></name> <w><supplied reason="lost">eius</supplied></w>
+                    <lb n="2"/><name><w><supplied reason="lost">Caio</supplied></w></name> <name><w><supplied reason="lost">M</supplied>essio</w></name> <g ref="#interpunct">·</g>
+                    <lb n="3"/><name><w><supplied reason="lost">Quin</supplied><unclear>t</unclear>o</w></name> <g ref="#interpunct">·</g> <name><w>Traiano</w></name> <g ref="#interpunct">·</g>
+                    <lb n="4"/><name><w><supplied reason="lost">Deci</supplied>o</w></name> <g ref="#interpunct">·</g> <name><w>Pio</w></name> <g ref="#interpunct">·</g> <name><w>Felici</w></name> <g ref="#interpunct">·</g>
+                    <lb n="5"/><supplied reason="lost"><space unit="character" quantity="1"/></supplied> <name><w><supplied reason="lost"><expan><abbr>Aug</abbr><ex>usto</ex></expan></supplied></w></name> <name><w><unclear>R</unclear>es</w></name> <name><w><expan><abbr><unclear>P</unclear></abbr><ex>ublica</ex></expan></w></name> <name><w><expan><abbr><unclear>Hal</unclear></abbr><ex>aesinorum</ex></expan></w></name> <supplied reason="lost"><space unit="character" quantity="1"/></supplied>
+                    <lb n="6"/><name><w><supplied reason="lost">Dev</supplied>ota</w></name> <name><w><supplied reason="lost">Numini</supplied></w></name>
+                    <lb n="7"/><name><w><expan><abbr><supplied reason="lost">M</supplied>a<unclear>ie</unclear><supplied reason="lost">statiq</supplied></abbr><supplied reason="lost"><ex>ue</ex></supplied></expan></w></name> <w><supplied reason="lost">eius</supplied></w>
                 </ab>
             </div>
             <div type="apparatus">

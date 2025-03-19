@@ -195,8 +195,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#martaf #AA">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name>Εὐτραπε
-                    <lb n="2" break="no"/><unclear>λί</unclear>ων</name></persName> <g ref="#christogram">☧</g>
+                    <lb n="1"/><persName type="attested"><name><w>Εὐτραπε
+                    <lb n="2" break="no"/><unclear>λί</unclear>ων</w></name></persName> <g ref="#christogram">☧</g>
                 </ab>
             </div>
             <div type="apparatus" resp="#martaf">

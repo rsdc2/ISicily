@@ -189,8 +189,8 @@
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
                     <lb n="1"/><roleName type="supracivic" subtype="dominus"><w><expan><abbr>D<am>DD</am></abbr><ex>ominis</ex></expan></w></roleName> <w><expan><abbr>N<am>NN</am></abbr><ex>ostris</ex></expan></w>
-                    <lb n="2"/><name><expan><abbr>Constantin</abbr><ex>o</ex></expan></name>
-                    <lb n="3"/><w>et</w> <name><unclear>Maximino</unclear></name>
+                    <lb n="2"/><name><w><expan><abbr>Constantin</abbr><ex>o</ex></expan></w></name>
+                    <lb n="3"/><w>et</w> <name><w><unclear>Maximino</unclear></w></name>
                     <lb n="4"/><gap reason="illegible" extent="unknown" unit="character"/>
                     <lb n="5"/><gap reason="illegible" extent="unknown" unit="character"/> <orig>ISS<unclear>IM</unclear></orig><gap reason="illegible" unit="character" quantity="1"/> <w>TA</w>
                     <lb n="6"/><gap reason="lost" extent="unknown" unit="character"/>

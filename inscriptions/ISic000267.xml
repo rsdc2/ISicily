@@ -193,10 +193,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
-                    <lb n="1"/><w>Messiae</w> <g ref="#interpunct">·</g> <name>Prisci</name> <g ref="#interpunct">·</g> <w><expan><abbr>fil</abbr><ex>iae</ex></expan></w> <g ref="#interpunct">·</g> <name>Crispinae</name>
-                    <lb n="2"/><roleName type="civic.religious" subtype="flaminica"><w>flaminicae</w></roleName> <g ref="#interpunct">·</g> <w>divae</w> <g ref="#interpunct">·</g> <name><expan><abbr>Aug</abbr><ex>ustae</ex></expan></name>
-                    <lb n="3"/><w>ex</w> <g ref="#interpunct">·</g> <w>testamento</w> <g ref="#interpunct">·</g> <name>Messi</name> <g ref="#interpunct">·</g> <name>Modiani</name> <g ref="#interpunct">·</g> <w>patris</w>
-                    <lb n="4"/><name>Modianus</name> <g ref="#interpunct">·</g> <w>frater</w>
+                    <lb n="1"/><w>Messiae</w> <g ref="#interpunct">·</g> <name><w>Prisci</w></name> <g ref="#interpunct">·</g> <w><expan><abbr>fil</abbr><ex>iae</ex></expan></w> <g ref="#interpunct">·</g> <name><w>Crispinae</w></name>
+                    <lb n="2"/><roleName type="civic.religious" subtype="flaminica"><w>flaminicae</w></roleName> <g ref="#interpunct">·</g> <w>divae</w> <g ref="#interpunct">·</g> <name><w><expan><abbr>Aug</abbr><ex>ustae</ex></expan></w></name>
+                    <lb n="3"/><w>ex</w> <g ref="#interpunct">·</g> <w>testamento</w> <g ref="#interpunct">·</g> <name><w>Messi</w></name> <g ref="#interpunct">·</g> <name><w>Modiani</w></name> <g ref="#interpunct">·</g> <w>patris</w>
+                    <lb n="4"/><name><w>Modianus</w></name> <g ref="#interpunct">·</g> <w>frater</w>
                 </ab>
             </div>
             <div type="apparatus">

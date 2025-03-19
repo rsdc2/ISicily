@@ -175,7 +175,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#AJ">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name>Ἱέραξ</name></persName> <w>ἐν
+                    <lb n="1"/><persName type="attested"><name><w>Ἱέραξ</w></name></persName> <w>ἐν
                     <lb n="2" break="no"/>θά<space unit="character" quantity="1"/>δε</w>
                     <lb n="3"/><w>κῖ<g ref="#christogram">☧</g>τε</w>
                 </ab>

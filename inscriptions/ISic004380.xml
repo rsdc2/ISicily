@@ -187,7 +187,7 @@
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w>ς</w> <w>ναυ</w>
                     <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w>εικομη</w>
                     <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <w>ἔζησεν</w>
-                    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">ἔτη</supplied></w> <num value="43">μγ</num>
+                    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">ἔτη</supplied></w> <num value="43"><w>μγ</w></num>
                     <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/> <w>λεπει</w>
                 </ab>
             </div>

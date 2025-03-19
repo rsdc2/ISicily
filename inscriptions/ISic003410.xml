@@ -192,7 +192,7 @@
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <gap reason="illegible" quantity="2" unit="character"/> <orig>ΣΙ</orig><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <orig>ΛΙΑ</orig><g ref="#interpunct">·</g> <orig>ΚΑ</orig><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="3"/><w>ζήσασα</w> <w><supplied reason="lost">ἔτη</supplied></w>
-                    <lb n="4"/><num value="6"><supplied reason="lost">ἕ</supplied>ξ</num> <g ref="#interpunct">·</g> <w>καὶ</w> <g ref="#interpunct">·</g> <orig>ΤΡ</orig>
+                    <lb n="4"/><num value="6"><w><supplied reason="lost">ἕ</supplied>ξ</w></num> <g ref="#interpunct">·</g> <w>καὶ</w> <g ref="#interpunct">·</g> <orig>ΤΡ</orig>
                 </ab>
             </div>
             <div type="apparatus">

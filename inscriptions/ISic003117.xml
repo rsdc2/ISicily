@@ -190,13 +190,13 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/><w>Ἰουλία</w> <name>Ἀντιο
-                    <lb n="2" break="no"/>χιανὴ</name>
+                    <lb n="1"/><w>Ἰουλία</w> <name><w>Ἀντιο
+                    <lb n="2" break="no"/>χιανὴ</w></name>
                     <lb n="3"/><g ref="#interpunct"/> <w>ἡ</w> <w>ὄντως</w>
                     <lb n="4"/><g ref="#interpunct"/> <w>φίλανδρος</w> <g ref="#interpunct"/>
                     <lb n="5"/><g ref="#interpunct"/> <w>καὶ</w> <w>σεμ<hi rend="ligature">νή</hi></w> <g ref="#interpunct"/>
-                    <lb n="6"/><w>ἔζησεν</w> <g ref="#interpunct"/> <w>ἔτη</w> <g ref="#interpunct"/> <num value="21">κα</num> <g ref="#interpunct"/>
-                    <lb n="7"/><w>μῆνας</w> <g ref="#interpunct"/> <num value="7">ἑπτά</num> <g ref="#interpunct"/> <w><expan><abbr>ἡμέρ</abbr><ex>ας</ex></expan></w> <g ref="#interpunct"/> <num value="11">ια</num>
+                    <lb n="6"/><w>ἔζησεν</w> <g ref="#interpunct"/> <w>ἔτη</w> <g ref="#interpunct"/> <num value="21"><w>κα</w></num> <g ref="#interpunct"/>
+                    <lb n="7"/><w>μῆνας</w> <g ref="#interpunct"/> <num value="7"><w>ἑπτά</w></num> <g ref="#interpunct"/> <w><expan><abbr>ἡμέρ</abbr><ex>ας</ex></expan></w> <g ref="#interpunct"/> <num value="11"><w>ια</w></num>
                 </ab>
             </div>
             <div type="apparatus">

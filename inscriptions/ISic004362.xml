@@ -201,8 +201,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="attested"><name><gap reason="lost" extent="unknown" unit="character"/><seg part="F"><unclear>υ</unclear>λλο<unclear>ς</unclear></seg></name> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="attested"><name type="patronym"><gap reason="lost" extent="unknown" unit="character"/><seg part="M">ιφιλ</seg><gap reason="lost" extent="unknown" unit="character"/></name></persName></persName> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="attested"><name><w><gap reason="lost" extent="unknown" unit="character"/><seg part="F"><unclear>υ</unclear>λλο<unclear>ς</unclear></seg></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="attested"><name type="patronym"><w><gap reason="lost" extent="unknown" unit="character"/><seg part="M">ιφιλ</seg><gap reason="lost" extent="unknown" unit="character"/></w></name></persName></persName> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>
             <div type="apparatus">

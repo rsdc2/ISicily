@@ -190,9 +190,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
-                    <lb n="1"/><name>Domitia</name> <g ref="#interpunct">·</g> <name>Chimen
-                    <lb n="2" break="no"/>na</name> <g ref="#interpunct">·</g> <name><expan><abbr>A</abbr><ex>ulo</ex></expan></name> <g ref="#interpunct">·</g> <name>Aemilio</name> <g ref="#interpunct">·</g>
-                    <lb n="3"/><name>Aristomeni</name> <g ref="#interpunct">·</g> <w>et</w> <g ref="#interpunct">·</g> <w>suis</w>
+                    <lb n="1"/><name><w>Domitia</w></name> <g ref="#interpunct">·</g> <name><w>Chimen
+                    <lb n="2" break="no"/>na</w></name> <g ref="#interpunct">·</g> <name><w><expan><abbr>A</abbr><ex>ulo</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w>Aemilio</w></name> <g ref="#interpunct">·</g>
+                    <lb n="3"/><name><w>Aristomeni</w></name> <g ref="#interpunct">·</g> <w>et</w> <g ref="#interpunct">·</g> <w>suis</w>
                     <lb n="4"/><w><expan><abbr>h</abbr><ex>oc</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>m</abbr><ex>onumentum</ex></expan></w> <g ref="#interpunct">·</g>
                     <lb n="5"/><w><expan><abbr>h</abbr><ex>eredem</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>n</abbr><ex>on</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>s</abbr><ex>equetur</ex></expan></w>
                 </ab>

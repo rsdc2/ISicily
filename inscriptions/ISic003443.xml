@@ -190,7 +190,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#MB">
                 <ab>
-                    <lb n="1"/><persName><name><name part="I">Συ</name><gap reason="lost" extent="unknown" unit="character"/></name> <persName><name type="patronym"><gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><persName><name><w><name part="I"><w>Συ</w></name><gap reason="lost" extent="unknown" unit="character"/></w></name> <persName><name type="patronym"><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="2" break="no"/><w part="F">ου</w></name></persName></persName>
                 </ab>
             </div>

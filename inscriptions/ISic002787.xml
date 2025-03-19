@@ -192,9 +192,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#AA">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name>Ζωπυρίσ<unclear>κος</unclear></name>
-                    <lb n="2"/><persName type="attested"><name type="patronym">Ἡρακλεί<supplied reason="lost">δα</supplied></name></persName>
-                    <lb n="3"/><placeName type="ethnic"><name>Συρακό</name> <w><unclear>σιο</unclear>
+                    <lb n="1"/><persName type="attested"><name><w>Ζωπυρίσ<unclear>κος</unclear></w></name>
+                    <lb n="2"/><persName type="attested"><name type="patronym"><w>Ἡρακλεί<supplied reason="lost">δα</supplied></w></name></persName>
+                    <lb n="3"/><placeName type="ethnic"><name><w>Συρακό</w></name> <w><unclear>σιο</unclear>
                     <lb n="4" break="no"/></w> <w><unclear>ς</unclear></w></placeName></persName>
                 </ab>
             </div>

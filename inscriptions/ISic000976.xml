@@ -192,11 +192,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JH #JP">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name>Οὐλπια<supplied reason="lost">νή</supplied></name></persName>
+                    <lb n="1"/><persName type="attested"><name><w>Οὐλπια<supplied reason="lost">νή</supplied></w></name></persName>
                     <lb n="2"/><w>ἡ</w> <w>ἀξία</w> <w>μ<supplied reason="lost">ου</supplied></w>
                     <lb n="3"/><w>ἔζησεν</w> <w>ἔ<supplied reason="lost">τη</supplied></w> <gap reason="lost" extent="unknown" unit="character"><desc>number of years</desc></gap>
-                    <lb n="4"/><w>μῆνες</w> <num value="10">ι</num> <w><supplied reason="lost">ἡμέ</supplied>
-                    <lb n="5" break="no"/>ρες</w> <num value="8">η</num>
+                    <lb n="4"/><w>μῆνες</w> <num value="10"><w>ι</w></num> <w><supplied reason="lost">ἡμέ</supplied>
+                    <lb n="5" break="no"/>ρες</w> <num value="8"><w>η</w></num>
                 </ab>
             </div>
             <div type="apparatus" resp="#JP">

@@ -188,8 +188,8 @@
         <body>
             <div type="edition" xml:space="preserve" subtype="PHI" n="PHI334783">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>Δ</abbr><ex>εκίμου</ex></expan></w> <name>Ἰουνίου</name>
-                    <lb n="2"/><name><supplied reason="lost">—</supplied>․ωνος</name>
+                    <lb n="1"/><w><expan><abbr>Δ</abbr><ex>εκίμου</ex></expan></w> <name><w>Ἰουνίου</w></name>
+                    <lb n="2"/><name><w><supplied reason="lost">—</supplied>․ωνος</w></name>
                     <lb n="3"/>
                     <lb n="4"/><w>ΓΑΚ</w>
                     <lb n="5"/>

@@ -202,9 +202,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>col</abbr><ex>oniae</ex></expan></w> <g ref="#interpunct">·</g> <name>Septimiae</name> <g ref="#interpunct">·</g>
-                    <lb n="2"/><name><expan><abbr>Aug</abbr><ex>ustae</ex></expan></name> <g ref="#interpunct">·</g>
-                    <lb n="3"/><name><expan><abbr>Agrigentinor</abbr><ex>um</ex></expan></name>
+                    <lb n="1"/><w><expan><abbr>col</abbr><ex>oniae</ex></expan></w> <g ref="#interpunct">·</g> <name><w>Septimiae</w></name> <g ref="#interpunct">·</g>
+                    <lb n="2"/><name><w><expan><abbr>Aug</abbr><ex>ustae</ex></expan></w></name> <g ref="#interpunct">·</g>
+                    <lb n="3"/><name><w><expan><abbr>Agrigentinor</abbr><ex>um</ex></expan></w></name>
                 </ab>
             </div>
             <div type="apparatus">

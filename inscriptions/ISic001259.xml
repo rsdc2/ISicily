@@ -201,9 +201,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#AL #JP">
                 <ab>
-                    <lb n="1" xml:id="BZοAK"/><w xml:id="BZοAU">ὁ</w> <w xml:id="BZοAe">δᾶμος</w> <w xml:id="BZοAo">τῶν</w> <placeName type="ethnic" xml:id="BZοAy"><name xml:id="BZοAΙ">Ταυρομενιτᾶν</name></placeName>
-                    <lb n="2" xml:id="BZοAΤ"/><persName type="attested" xml:id="BZοAε"><name type="idionym" xml:id="BZοAο">Ὄλυμπιν</name> <space unit="character" quantity="1" xml:id="BZοBA"/><persName type="attested" xml:id="BZοBK"><name type="patronymic" xml:id="BZοBU">Ὀλύμπιος</name></persName> <name type="secondName" xml:id="BZοBe">Μεστὸν</name></persName>
-                    <lb n="3" xml:id="BZοBo"/><w xml:id="BZοBy">νικάσαντα</w> <space unit="character" quantity="3" xml:id="BZοBΙ"/><name xml:id="BZοBΤ">Πύθια</name> <space unit="character" quantity="1" xml:id="BZοBε"/><w xml:id="BZοBο">κέλητι</w>
+                    <lb n="1" xml:id="BZοAK"/><w xml:id="BZοAU">ὁ</w> <w xml:id="BZοAe">δᾶμος</w> <w xml:id="BZοAo">τῶν</w> <placeName type="ethnic" xml:id="BZοAy"><name xml:id="BZοAΙ"><w>Ταυρομενιτᾶν</w></name></placeName>
+                    <lb n="2" xml:id="BZοAΤ"/><persName type="attested" xml:id="BZοAε"><name type="idionym" xml:id="BZοAο"><w>Ὄλυμπιν</w></name> <space unit="character" quantity="1" xml:id="BZοBA"/><persName type="attested" xml:id="BZοBK"><name type="patronymic" xml:id="BZοBU"><w>Ὀλύμπιος</w></name></persName> <name type="secondName" xml:id="BZοBe"><w>Μεστὸν</w></name></persName>
+                    <lb n="3" xml:id="BZοBo"/><w xml:id="BZοBy">νικάσαντα</w> <space unit="character" quantity="3" xml:id="BZοBΙ"/><name xml:id="BZοBΤ"><w>Πύθια</w></name> <space unit="character" quantity="1" xml:id="BZοBε"/><w xml:id="BZοBο">κέλητι</w>
                     <lb n="4" xml:id="BZοCA"/><w xml:id="BZοCK">τελείωι</w>
                 </ab>
             </div>

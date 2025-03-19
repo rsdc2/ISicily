@@ -189,9 +189,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name>Ἀρχε<gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/>ας</name>
-                    <lb n="3"/><persName type="attested"><name type="patronym">Πολυσ<gap reason="lost" extent="unknown" unit="line" cert="low"/></name></persName></persName>
+                    <lb n="1"/><persName type="attested"><name><w>Ἀρχε<gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/>ας</w></name>
+                    <lb n="3"/><persName type="attested"><name type="patronym"><w>Πολυσ<gap reason="lost" extent="unknown" unit="line" cert="low"/></w></name></persName></persName>
                 </ab>
             </div>
             <div type="apparatus" resp="#JP">

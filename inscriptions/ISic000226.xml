@@ -200,8 +200,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#VM #AA">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name>Tertia</name></persName>
-                    <lb n="2"/><w><expan><abbr>v</abbr><ex>ixit</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>an</abbr><ex>nis</ex></expan></w> <g ref="#interpunct">·</g> <num value="40"/>XL <g ref="#interpunct">·</g>
+                    <lb n="1"/><persName type="attested"><name><w>Tertia</w></name></persName>
+                    <lb n="2"/><w><expan><abbr>v</abbr><ex>ixit</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>an</abbr><ex>nis</ex></expan></w> <g ref="#interpunct">·</g> <num value="40"><w/></num>XL <g ref="#interpunct">·</g>
                 </ab>
             </div>
             <div type="apparatus">

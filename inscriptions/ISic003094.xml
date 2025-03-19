@@ -193,10 +193,10 @@
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <gap reason="illegible" quantity="1" unit="character"/> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <orig>ΙΤ</orig><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <orig>ΛΣ</orig><gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="4"/><w><supplied reason="lost">ἡμέρᾳ</supplied></w> <name><supplied reason="lost">Σελή</supplied>νης</name> <w><supplied reason="lost">τῇ</supplied></w>
-                    <lb n="5"/><w><supplied reason="lost"><roleName type="supracivic" subtype="consul">ὑπατίᾳ</roleName></supplied></w> <name>Μ<supplied reason="lost">ερο
-                    <lb n="6" break="no"/>βαύδ</supplied>ῳ</name> <w>τὸ</w> <num value="3">γ</num> <w><supplied reason="lost">καὶ</supplied></w>
-                    <lb n="7"/><name><supplied reason="lost">Θεοδοσ</supplied>ίῳ</name> <num value="2">β</num> <name><expan><abbr>Α<supplied reason="lost">ὐγ</supplied></abbr><ex>ούστῳ</ex></expan></name>
+                    <lb n="4"/><w><supplied reason="lost">ἡμέρᾳ</supplied></w> <name><w><supplied reason="lost">Σελή</supplied>νης</w></name> <w><supplied reason="lost">τῇ</supplied></w>
+                    <lb n="5"/><w><supplied reason="lost"><roleName type="supracivic" subtype="consul">ὑπατίᾳ</roleName></supplied></w> <name><w>Μ<supplied reason="lost">ερο
+                    <lb n="6" break="no"/>βαύδ</supplied>ῳ</w></name> <w>τὸ</w> <num value="3"><w>γ</w></num> <w><supplied reason="lost">καὶ</supplied></w>
+                    <lb n="7"/><name><w><supplied reason="lost">Θεοδοσ</supplied>ίῳ</w></name> <num value="2"><w>β</w></num> <name><w><expan><abbr>Α<supplied reason="lost">ὐγ</supplied></abbr><ex>ούστῳ</ex></expan></w></name>
                 </ab>
             </div>
             <div type="apparatus">

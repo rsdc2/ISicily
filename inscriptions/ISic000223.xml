@@ -192,8 +192,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#VM">
                 <ab>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w>iae</w> <g ref="#ivy-leaf"/> <name><expan><abbr>C</abbr><ex>ai</ex></expan></name> <g ref="#ivy-leaf"/> <w><expan><abbr>f</abbr><ex>iliae</ex></expan></w>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w><unclear>i</unclear>us</w> <g ref="#ivy-leaf"/> <name><hi rend="ligature"><hi rend="tall">T</hi>e</hi>les<hi rend="ligature"><hi rend="tall">p</hi>h</hi>orus</name>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w>iae</w> <g ref="#ivy-leaf"/> <name><w><expan><abbr>C</abbr><ex>ai</ex></expan></w></name> <g ref="#ivy-leaf"/> <w><expan><abbr>f</abbr><ex>iliae</ex></expan></w>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w><unclear>i</unclear>us</w> <g ref="#ivy-leaf"/> <name><w><hi rend="ligature"><hi rend="tall">T</hi>e</hi>les<hi rend="ligature"><hi rend="tall">p</hi>h</hi>orus</w></name>
                     <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <w>e</w> <g ref="#interpunct">·</g> <w>parentes</w> <g ref="#interpunct">·</g>
                     <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <w>asis</w> <g ref="#interpunct">·</g> <w>nu<hi rend="ligature"><hi rend="tall">t</hi>r</hi>iciu<hi rend="tall">s</hi></w>
                     <lb n="5"/><w><supplied reason="lost" cert="low">benemerenti</supplied></w> <w>fecerun<hi rend="tall">t</hi></w>

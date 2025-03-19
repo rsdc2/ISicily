@@ -192,8 +192,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <name>Clodius</name>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <name>Adranio</name>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <name><w>Clodius</w></name>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <name><w>Adranio</w></name>
                     <lb n="3"/><w>et</w> <w>suis</w>
                 </ab>
             </div>

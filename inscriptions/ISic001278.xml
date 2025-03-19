@@ -188,7 +188,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name>Μαρκιανὸς</name></persName> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><persName type="attested"><name><w>Μαρκιανὸς</w></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <orig>ΑΜΕΝΟΣΤΗΣ</orig><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <orig>ΣΤΙΟΙΣΑΝΕΛΕ</orig><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <orig>ΚΑΤΕΡΧΟΙ</orig><gap reason="lost" extent="unknown" unit="character"/>

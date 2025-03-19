@@ -176,11 +176,11 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="FP">
                 <ab>
                     <lb n="1"/><g ref="#ivy-leaf">❦</g> <!-- is there a palm branch also? publication unclear -->
-                    <lb n="2"/><persName type="attested"><name>Θεόδουλη</name></persName>
+                    <lb n="2"/><persName type="attested"><name><w>Θεόδουλη</w></name></persName>
                     <lb n="3"/><w>χρηστιάνη</w>
                     <lb n="4"/><w>καὶ</w> <w>ἄμεμπ<unclear>τ</unclear><hi rend="small">ος</hi></w>
-                    <lb n="5"/><w>ἔζησεν</w> <w>ἔτη</w> <num value="10">ι</num>
-                    <lb n="6"/><w>δέκα</w> <w><expan><abbr><hi rend="ligature">πρ</hi></abbr><ex>ό</ex></expan></w> <num value="4">δ</num> <w><expan><abbr>καλ</abbr><ex>ανδῶν</ex></expan></w> <w><expan><abbr>ὀκτ</abbr><ex>οβρίων</ex></expan></w>
+                    <lb n="5"/><w>ἔζησεν</w> <w>ἔτη</w> <num value="10"><w>ι</w></num>
+                    <lb n="6"/><w>δέκα</w> <w><expan><abbr><hi rend="ligature">πρ</hi></abbr><ex>ό</ex></expan></w> <num value="4"><w>δ</w></num> <w><expan><abbr>καλ</abbr><ex>ανδῶν</ex></expan></w> <w><expan><abbr>ὀκτ</abbr><ex>οβρίων</ex></expan></w>
                 </ab>
             </div>
             <div type="apparatus">

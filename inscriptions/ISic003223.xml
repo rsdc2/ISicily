@@ -200,9 +200,9 @@
                 <ab>
                     <lb n="1"/><w>Δαίμοσι</w>
                     <lb n="2"/><w>χθονίοις</w>
-                    <lb n="3"/><persName type="attested"><name>Καιλία</name> <g ref="#interpunct">·</g> <name>Ἑορτὴ</name></persName> <g ref="#interpunct">·</g>
+                    <lb n="3"/><persName type="attested"><name><w>Καιλία</w></name> <g ref="#interpunct">·</g> <name><w>Ἑορτὴ</w></name></persName> <g ref="#interpunct">·</g>
                     <lb n="4"/><w>ἐβίωσε</w> <g ref="#interpunct">·</g> <w>ἔτη</w> <g ref="#interpunct">·</g> <w>ο’</w>
-                    <lb n="5"/><persName type="attested"><name>Βλάστη</name></persName> <g ref="#interpunct">·</g> <w>θυγάτηρ</w>
+                    <lb n="5"/><persName type="attested"><name><w>Βλάστη</w></name></persName> <g ref="#interpunct">·</g> <w>θυγάτηρ</w>
                     <lb n="6"/><w>μητρὶ</w> <g ref="#interpunct">·</g> <w>εὐσεβεσ
                     <lb n="7" break="no"/>τάτῃ</w> <g ref="#interpunct">·</g> <w>ἔποισε</w>
                 </ab>

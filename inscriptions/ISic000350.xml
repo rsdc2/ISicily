@@ -199,10 +199,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name> <expan><abbr>Cn</abbr><ex>aeus</ex></expan></name> <name>Fabius</name> <name>Fe <supplied reason="lost">lix</supplied></name></persName> <w><supplied reason="lost"><expan><abbr>pat</abbr><ex>er</ex></expan></supplied></w>
-                    <lb n="2"/><persName type="attested"><name>Antonia</name> <name>Sym <supplied reason="lost">pheru</supplied>
-                    <lb n="3" break="no"/>sa</name></persName> <w><expan><abbr>mat</abbr><ex>er</ex></expan></w> <persName type="attested"><name> <expan><abbr>Cn</abbr><ex>aeo</ex></expan></name> <name>Fa <supplied reason="lost">bio</supplied></name> <name> <supplied reason="lost">Ti</supplied>
-                    <lb n="4" break="no"/>tiano</name></persName> <w><expan><abbr>f</abbr><ex>ilio</ex></expan></w> <w><expan><abbr>vix</abbr><ex>it</ex></expan></w> <w>an</w> <w><supplied reason="lost"><expan><abbr>n</abbr><ex>is</ex></expan></supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><persName type="attested"><name><w> <expan><abbr>Cn</abbr><ex>aeus</ex></expan></w></name> <name><w>Fabius</w></name> <name><w>Fe <supplied reason="lost">lix</supplied></w></name></persName> <w><supplied reason="lost"><expan><abbr>pat</abbr><ex>er</ex></expan></supplied></w>
+                    <lb n="2"/><persName type="attested"><name><w>Antonia</w></name> <name><w>Sym <supplied reason="lost">pheru</supplied>
+                    <lb n="3" break="no"/>sa</w></name></persName> <w><expan><abbr>mat</abbr><ex>er</ex></expan></w> <persName type="attested"><name><w> <expan><abbr>Cn</abbr><ex>aeo</ex></expan></w></name> <name><w>Fa <supplied reason="lost">bio</supplied></w></name> <name><w> <supplied reason="lost">Ti</supplied>
+                    <lb n="4" break="no"/>tiano</w></name></persName> <w><expan><abbr>f</abbr><ex>ilio</ex></expan></w> <w><expan><abbr>vix</abbr><ex>it</ex></expan></w> <w>an</w> <w><supplied reason="lost"><expan><abbr>n</abbr><ex>is</ex></expan></supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
                 <!--This text is an edited import of EDR text 139218 via the Europeana EAGLE project, http://www.eagle-network.eu/-->
             </div>

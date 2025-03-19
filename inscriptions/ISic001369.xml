@@ -202,11 +202,11 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#martaf #AA">
                 <ab>
                     <lb n="1"/><w>Ἐνθάδε</w> <w>κῖτε</w>
-                    <lb n="2"/><persName type="attested"><name>Σωτηρίς</name></persName> <w>τελευ
-                    <lb n="3" break="no"/>τᾷ</w> <w>τῇ</w> <w>πρὸ</w> <hi rend="supraline"><num value="6">ς</num></hi><w><expan><abbr>καλ</abbr><ex>αν</ex></expan>
-                    <lb n="4" break="no"/>δῶν</w> <name>Δεκενβρί
-                    <lb n="5" break="no"/>ω<supplied reason="omitted">ν</supplied></name> <w>ζήσασα</w> <w>ἒτη</w>
-                    <lb n="6"/><hi rend="supraline"><num value="50">ν</num></hi><w><choice><orig>χρησιανή</orig><reg>χρηστιανή</reg></choice></w>
+                    <lb n="2"/><persName type="attested"><name><w>Σωτηρίς</w></name></persName> <w>τελευ
+                    <lb n="3" break="no"/>τᾷ</w> <w>τῇ</w> <w>πρὸ</w> <hi rend="supraline"><num value="6"><w>ς</w></num></hi><w><expan><abbr>καλ</abbr><ex>αν</ex></expan>
+                    <lb n="4" break="no"/>δῶν</w> <name><w>Δεκενβρί
+                    <lb n="5" break="no"/>ω<supplied reason="omitted">ν</supplied></w></name> <w>ζήσασα</w> <w>ἒτη</w>
+                    <lb n="6"/><hi rend="supraline"><num value="50"><w>ν</w></num></hi><w><choice><orig>χρησιανή</orig><reg>χρηστιανή</reg></choice></w>
                     <lb n="7"/><g ref="#alpha">Α</g> <g ref="#christogram">☧</g> <g ref="#omega">Ω</g>
                 </ab>
             </div>

@@ -200,7 +200,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1" xml:id="DHΤAK"/><roleName type="supracivic" subtype="basileus" xml:id="DHΤAU"><w xml:id="DHΤAe"><supplied reason="lost" xml:id="DHΤAo">βασιλ</supplied></w> <w xml:id="DHΤAy">εὺς</w></roleName> <name xml:id="DHΤAΙ">Μαστέαβαρ</name> <roleName type="supracivic" subtype="basileus" xml:id="DHΤAΤ"><w xml:id="DHΤAε">βασιλέος</w></roleName> <name xml:id="DHΤAο">Γαυου</name>
+                    <lb n="1" xml:id="DHΤAK"/><roleName type="supracivic" subtype="basileus" xml:id="DHΤAU"><w xml:id="DHΤAe"><supplied reason="lost" xml:id="DHΤAo">βασιλ</supplied></w> <w xml:id="DHΤAy">εὺς</w></roleName> <name xml:id="DHΤAΙ"><w>Μαστέαβαρ</w></name> <roleName type="supracivic" subtype="basileus" xml:id="DHΤAΤ"><w xml:id="DHΤAε">βασιλέος</w></roleName> <name xml:id="DHΤAο"><w>Γαυου</w></name>
                     <lb n="2" xml:id="DHΤBA"/><gap reason="lost" extent="unknown" unit="character" xml:id="DHΤBK"/> <orig xml:id="DHΤBU"><unclear xml:id="DHΤBe">ΣΠΟ</unclear></orig>
                     <lb n="3" xml:id="DHΤBo"/><gap reason="lost" extent="unknown" unit="character" xml:id="DHΤBy"/> <orig xml:id="DHΤBΙ">Υ</orig>
                     <lb n="4" xml:id="DHΤBΤ"/><gap reason="lost" extent="unknown" unit="character" xml:id="DHΤBε"/> <orig xml:id="DHΤBο">Π</orig><gap reason="lost" extent="unknown" unit="character" xml:id="DHΤCA"/> <orig xml:id="DHΤCK">ΕΥ</orig>

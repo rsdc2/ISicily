@@ -202,7 +202,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#VM #JP">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name><expan><abbr>P</abbr><ex>ubli</ex></expan></name> <g ref="#interpunct">·</g> <name>Sergi</name> <g ref="#interpunct">·</g> <name>Niger</name></persName>
+                    <lb n="1"/><persName type="attested"><name><w><expan><abbr>P</abbr><ex>ubli</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w>Sergi</w></name> <g ref="#interpunct">·</g> <name><w>Niger</w></name></persName>
                     <lb n="2"/><w>pi<hi rend="tall">i</hi>ssime</w> <g ref="#interpunct">·</g> <w>salve</w>
                 </ab>
             </div>

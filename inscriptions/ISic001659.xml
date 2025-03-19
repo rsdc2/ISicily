@@ -192,7 +192,7 @@
                 <ab>
                     <lb n="1"/><g ref="#cross_uninterpreted">☩</g> <w>ἐνθά<supplied reason="lost">δε</supplied></w> <w><supplied reason="lost">κῖτε</supplied></w> <w><supplied reason="lost">ἡ</supplied></w> <w><supplied reason="lost">καλῆς</supplied></w>
                     <lb n="2"/><w>μνή<hi rend="ligature">μης</hi></w> <w><unclear>ἔ</unclear><supplied reason="lost">ζησεν</supplied></w> <w><supplied reason="lost">ἔτη</supplied></w>
-                    <lb n="3"/><num value="60"><hi rend="supraline">Ξ</hi></num> <orig><hi rend="supraline">Π</hi></orig><orig><hi rend="supraline">Η</hi></orig><w>ἐ<unclear>τ</unclear><supplied reason="lost">ελεύτησεν</supplied></w>
+                    <lb n="3"/><num value="60"><w><hi rend="supraline">Ξ</hi></w></num> <orig><hi rend="supraline">Π</hi></orig><orig><hi rend="supraline">Η</hi></orig><w>ἐ<unclear>τ</unclear><supplied reason="lost">ελεύτησεν</supplied></w>
                     <lb n="4"/><orig>ΑΥΓ<hi rend="small">Σ</hi></orig><roleName type="supracivic" subtype="consul"><w><expan><abbr>ὑ<hi rend="stacked">π</hi></abbr><ex>ατίᾳ</ex></expan></w></roleName> <orig>Μ</orig>
                 </ab>
             </div>

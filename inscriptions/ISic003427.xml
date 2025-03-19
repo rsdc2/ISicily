@@ -189,10 +189,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/><w><supplied reason="lost">Δάματ</supplied>ρι</w> <w>καὶ</w> <name>Κόρᾳ</name>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <name><supplied reason="lost">Π</supplied>ρωτοφάνεος</name>
-                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <w>κος</w> <name>Ἀρτεμιδώρ<supplied reason="lost">ου</supplied></name>
-                    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <name><supplied reason="lost" cert="low">Ἀθαναδ</supplied>ώρου</name>
+                    <lb n="1"/><w><supplied reason="lost">Δάματ</supplied>ρι</w> <w>καὶ</w> <name><w>Κόρᾳ</w></name>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <name><w><supplied reason="lost">Π</supplied>ρωτοφάνεος</w></name>
+                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <w>κος</w> <name><w>Ἀρτεμιδώρ<supplied reason="lost">ου</supplied></w></name>
+                    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <name><w><supplied reason="lost" cert="low">Ἀθαναδ</supplied>ώρου</w></name>
                     <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost" cert="low">ἀνέθηκεν</supplied></w>
                 </ab>
             </div>

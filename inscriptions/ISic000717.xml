@@ -191,9 +191,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AL">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name type="praenomen"><expan><abbr>P</abbr><ex>ublio</ex></expan></name> <name type="nomen">Iunio</name> <persName type="attested"><name type="praenomen"><expan><abbr>P</abbr><ex>ubli</ex></expan></name></persName> <w><expan><abbr>f</abbr><ex>ilio</ex></expan></w>
-                    <lb n="2"/><orgName type="tribus"><name><expan><abbr>Quir</abbr><ex>ina</ex></expan></name></orgName> <name type="cognomen">S<hi rend="ligature">er</hi>v<hi rend="ligature">ien</hi><hi rend="small">o</hi></name></persName>
-                    <lb n="3"/><persName type="attested"><name type="nomen">Maria</name> <name type="cognomen"><hi rend="ligature">Ampl</hi>iata</name></persName>
+                    <lb n="1"/><persName type="attested"><name type="praenomen"><w><expan><abbr>P</abbr><ex>ublio</ex></expan></w></name> <name type="nomen"><w>Iunio</w></name> <persName type="attested"><name type="praenomen"><w><expan><abbr>P</abbr><ex>ubli</ex></expan></w></name></persName> <w><expan><abbr>f</abbr><ex>ilio</ex></expan></w>
+                    <lb n="2"/><orgName type="tribus"><name><w><expan><abbr>Quir</abbr><ex>ina</ex></expan></w></name></orgName> <name type="cognomen"><w>S<hi rend="ligature">er</hi>v<hi rend="ligature">ien</hi><hi rend="small">o</hi></w></name></persName>
+                    <lb n="3"/><persName type="attested"><name type="nomen"><w>Maria</w></name> <name type="cognomen"><w><hi rend="ligature">Ampl</hi>iata</w></name></persName>
                     <lb n="4"/><w><supplied reason="lost">vir</supplied>o</w> <w>piissimo</w>
                     <lb n="5"/><w><supplied reason="lost">sibi</supplied></w> <w><supplied reason="lost">e</supplied>t</w> <w><expan><abbr>poster</abbr><ex>is</ex></expan></w>
                     <lb n="6"/><w><supplied reason="lost">suis</supplied></w> <w><expan><abbr>consecra</abbr><ex>vit</ex></expan></w>

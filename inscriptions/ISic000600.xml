@@ -193,7 +193,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
-                    <lb n="1"/><name><supplied reason="lost">Aris</supplied>tomenes</name> <name><expan><abbr><hi rend="ligature">Pa</hi><hi rend="ligature">nd</hi></abbr><ex cert="low">usae</ex></expan></name>
+                    <lb n="1"/><name><w><supplied reason="lost">Aris</supplied>tomenes</w></name> <name><w><expan><abbr><hi rend="ligature">Pa</hi><hi rend="ligature">nd</hi></abbr><ex cert="low">usae</ex></expan></w></name>
                     <lb n="2"/><w><supplied reason="lost">alu</supplied>mno</w> <w>suo</w> <w>fecit.</w>
                 </ab>
             </div>

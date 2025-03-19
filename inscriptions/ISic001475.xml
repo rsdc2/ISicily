@@ -204,7 +204,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/><w>Λισσίας</w> <name>Νεμηνίου</name>
+                    <lb n="1"/><w>Λισσίας</w> <name><w>Νεμηνίου</w></name>
                 </ab>
             </div>
             <div type="apparatus">

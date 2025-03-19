@@ -186,14 +186,14 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1"/><w>ἐνθάδε</w> <w>κῖτε</w> <persName type="attested"><name>Σωτὴρ</name></persName>
+                    <lb n="1"/><w>ἐνθάδε</w> <w>κῖτε</w> <persName type="attested"><name><w>Σωτὴρ</w></name></persName>
                     <lb n="2"/><w>ζήσας</w> <w>τὸν</w> <w>βίον</w> <w>ἑαυτοῦ</w>
                     <lb n="3"/><w>ἀμένπτως,</w> <w>τελευτᾷ</w>
-                    <lb n="4"/><w>τῇ</w> <w><expan><abbr><hi rend="ligature">πρ</hi></abbr><ex>ὸ</ex></expan></w> <num value="15"><hi rend="supraline">ιε</hi></num> <w><expan><abbr>κα<hi rend="intraline">λ</hi></abbr><ex>ανδῶν</ex></expan></w> <name>Αὐγούστων</name>
-                    <lb n="5"/><w>ζήσας</w> <w>ἔτη</w> <num value="50"><hi rend="supraline">ν</hi></num> <w><choice><orig><expan><abbr>πλῖο</abbr><ex>ν</ex></expan></orig><reg>πλεῖον</reg></choice></w> <w>ἥτ
+                    <lb n="4"/><w>τῇ</w> <w><expan><abbr><hi rend="ligature">πρ</hi></abbr><ex>ὸ</ex></expan></w> <num value="15"><w><hi rend="supraline">ιε</hi></w></num> <w><expan><abbr>κα<hi rend="intraline">λ</hi></abbr><ex>ανδῶν</ex></expan></w> <name><w>Αὐγούστων</w></name>
+                    <lb n="5"/><w>ζήσας</w> <w>ἔτη</w> <num value="50"><w><hi rend="supraline">ν</hi></w></num> <w><choice><orig><expan><abbr>πλῖο</abbr><ex>ν</ex></expan></orig><reg>πλεῖον</reg></choice></w> <w>ἥτ
                     <lb n="6" break="no"/>τω</w> <w>μετὰ</w> <w>τὴν</w> <roleName type="supracivic" subtype="consul"><w>ὑπατίαν</w></roleName>
-                    <lb n="7"/><persName type="attested"><name>Θεοδοσίου</name></persName> <w>τὸ</w> <num value="12"><hi rend="supraline">ιβ</hi></num> <w>καὶ</w>
-                    <lb n="8"/><persName type="attested"><name>Βαλεντινιανοῦ</name></persName> <w>τὸ</w> <num value="2"><hi rend="supraline">β</hi></num>
+                    <lb n="7"/><persName type="attested"><name><w>Θεοδοσίου</w></name></persName> <w>τὸ</w> <num value="12"><w><hi rend="supraline">ιβ</hi></w></num> <w>καὶ</w>
+                    <lb n="8"/><persName type="attested"><name><w>Βαλεντινιανοῦ</w></name></persName> <w>τὸ</w> <num value="2"><w><hi rend="supraline">β</hi></w></num>
                     <lb n="9"/><w>ἰρήνη</w> <w>τῇ</w> <w>ψυχῇ</w> <w>σου</w>
                     <lb n="10"/><g ref="#staurogram">𐆠</g> <g ref="#staurogram">𐆠</g> <g ref="#staurogram">𐆠</g>
                 </ab>

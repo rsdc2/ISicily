@@ -189,8 +189,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#TNS">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <space extent="unknown" unit="character"/><name><expan><abbr>M</abbr><ex>anibus</ex></expan></name>
-                    <lb n="2"/><name>Sote<space extent="unknown" unit="character"/>ri</name>
+                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <space extent="unknown" unit="character"/><name><w><expan><abbr>M</abbr><ex>anibus</ex></expan></w></name>
+                    <lb n="2"/><name><w>Sote<space extent="unknown" unit="character"/>ri</w></name>
                 </ab>
             </div>
             <div type="apparatus">

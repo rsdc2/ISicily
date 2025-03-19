@@ -217,7 +217,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">p</supplied>erpetuus</w> <name>Au<unclear>g</unclear><supplied reason="lost">ustus</supplied></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">p</supplied>erpetuus</w> <name><w>Au<unclear>g</unclear><supplied reason="lost">ustus</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>
             <div type="apparatus" resp="#JP">

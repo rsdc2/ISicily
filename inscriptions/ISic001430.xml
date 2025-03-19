@@ -203,10 +203,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1" xml:id="BrAAK"/><w xml:id="BrAAU">Θέϋλλος</w> <name xml:id="BrAAe">Πυρρία</name>
+                    <lb n="1" xml:id="BrAAK"/><w xml:id="BrAAU">Θέϋλλος</w> <name xml:id="BrAAe"><w>Πυρρία</w></name>
                     <lb n="2" xml:id="BrAAo"/><w xml:id="BrAAy">ἀνέθε̄κε</w> <w xml:id="BrAAΙ">τᾶι</w>
-                    <lb n="3" xml:id="BrAAΤ"/><name xml:id="BrAAε">Μαλοφόρο̄ι</name>
-                    <lb n="4" xml:id="BrAAο"/><name xml:id="BrABA">Εὔραν</name> <w xml:id="BrABK">ἐν</w> <w xml:id="BrABU">πελά
+                    <lb n="3" xml:id="BrAAΤ"/><name xml:id="BrAAε"><w>Μαλοφόρο̄ι</w></name>
+                    <lb n="4" xml:id="BrAAο"/><name xml:id="BrABA"><w>Εὔραν</w></name> <w xml:id="BrABK">ἐν</w> <w xml:id="BrABU">πελά
                     <lb n="5" break="no" xml:id="BrABe"/>γει</w>
                 </ab>
             </div>

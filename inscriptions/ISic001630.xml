@@ -188,12 +188,12 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
                     <lb n="1"/><w><supplied reason="lost">ἐ</supplied>νθάδε</w> <w>κεῖτε</w>
-                    <lb n="2"/><persName type="attested"><name>Κυριακὸς</name></persName> <w>ζήσας</w>
-                    <lb n="3"/><w><supplied reason="lost">ε</supplied>̓́τη</w> <num value="23">εἴκοσει τρ<supplied reason="lost">ία</supplied></num>
+                    <lb n="2"/><persName type="attested"><name><w>Κυριακὸς</w></name></persName> <w>ζήσας</w>
+                    <lb n="3"/><w><supplied reason="lost">ε</supplied>̓́τη</w> <num value="23"><w>εἴκοσει τρ<supplied reason="lost">ία</supplied></w></num>
                     <lb n="4"/><w><supplied reason="lost">ἀ</supplied>μέμπτως</w> <w>ζ<supplied reason="lost">ή</supplied>
                     <lb n="5" break="no"/><supplied reason="lost">σα</supplied>ς</w> <w>τὸν</w> <w>βίον</w> <w>ἐπ<supplied reason="lost">λ</supplied>
                     <lb n="6" break="no"/><supplied reason="lost">ή</supplied>ρωσεν</w> <w>τῇ</w> <w>π<supplied reason="lost">ρὸ</supplied></w>
-                    <lb n="7"/><num value="5">ε</num> <w>καλανδ<supplied reason="lost">ῶν</supplied></w> <gap reason="illegible" unit="character" extent="unknown"><desc>name of month</desc></gap>
+                    <lb n="7"/><num value="5"><w>ε</w></num> <w>καλανδ<supplied reason="lost">ῶν</supplied></w> <gap reason="illegible" unit="character" extent="unknown"><desc>name of month</desc></gap>
                 </ab>
             </div>
             <div type="apparatus" resp="#JP">

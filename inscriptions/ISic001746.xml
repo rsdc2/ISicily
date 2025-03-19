@@ -175,7 +175,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#AJ">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name>Παύλη</name></persName>
+                    <lb n="1"/><persName type="attested"><name><w>Παύλη</w></name></persName>
                     <lb n="2"/><w>ἐνθάδε</w>
                     <lb n="3"/><w>κῖ<g ref="#christogram_chi-tau"/>τε</w>
                 </ab>

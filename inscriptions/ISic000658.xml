@@ -185,8 +185,8 @@
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
                     <lb n="0"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">quae</supplied></w>
-                    <lb n="1"/><w>vixit</w> <name><g ref="#interpunct">·</g><supplied reason="lost">annis</supplied></name> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="2"/><name><expan><abbr>T</abbr><ex>itus</ex></expan></name> <g ref="#interpunct">·</g> <name>Flabiu<supplied reason="lost">s</supplied></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><w>vixit</w> <name><w><g ref="#interpunct">·</g><supplied reason="lost">annis</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><name><w><expan><abbr>T</abbr><ex>itus</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w>Flabiu<supplied reason="lost">s</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="3"/><w><expan><abbr>ux</abbr><ex>ori</ex></expan></w> <g ref="#interpunct">·</g> <w>pi<hi rend="tall">i</hi>s<unclear>s</unclear><supplied reason="lost">imae</supplied></w> <w><supplied reason="lost" cert="low">fecit</supplied></w>
                 </ab>
             </div>

@@ -185,7 +185,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"><desc>personal name</desc></gap> <w><supplied reason="lost">ἐ</supplied>μὶ</w> <w>το͂</w> <name>Διχίνα</name> <name>Ͱο</name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"><desc>personal name</desc></gap> <w><supplied reason="lost">ἐ</supplied>μὶ</w> <w>το͂</w> <name><w>Διχίνα</w></name> <name><w>Ͱο</w></name> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
                 </div>
             <div type="apparatus">

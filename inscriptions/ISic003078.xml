@@ -203,10 +203,10 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP"><!-- requires checking still against autopsy notes -->
                 <ab>
                     <lb n="1"/><g ref="#interpunct">·</g> <w>χαί<g ref="#interpunct">·</g>ροις</w> <g ref="#interpunct">·</g> <w>πα<g ref="#interpunct">·</g>ρο<g ref="#interpunct">·</g>δ<supplied reason="lost">εῖτα</supplied></w>
-                    <lb n="2"/><w>πα<g ref="#interpunct">·</g>ρὰ</w> <g ref="#interpunct">·</g> <name>Φα<g ref="#interpunct">·</g>βίου</name> <g ref="#interpunct">·</g> <name>Σα
-                    <lb n="3" break="no"/>τορ<g ref="#interpunct">·</g>νί<g ref="#interpunct">·</g>λου</name> <g ref="#interpunct">·</g> <w>ζή<g ref="#interpunct">·</g>σαν
-                    <lb n="4" break="no"/>τος</w> <g ref="#interpunct">·</g> <w>ἔτη</w> <g ref="#interpunct">·</g> <num value="21">κ<g ref="#interpunct">·</g><hi rend="supraline">αʹ</hi></num> <g ref="#interpunct">·</g> <w>μῆ<g ref="#interpunct">·</g>νας</w>
-                    <lb n="5"/><g ref="#interpunct">·</g> <num value="8">ηʹ</num> <g ref="#interpunct">·</g> <w>ἡμέρας</w> <g ref="#interpunct">·</g> <num value="15">ι<g ref="#interpunct">·</g>εʹ</num> <g ref="#interpunct">·</g> <w>ἀ<g ref="#interpunct">·</g>έ<g ref="#interpunct">·</g>ρι</w> <g ref="#interpunct">·</g> <w>μὴ</w> <w>φόβι</w>
+                    <lb n="2"/><w>πα<g ref="#interpunct">·</g>ρὰ</w> <g ref="#interpunct">·</g> <name><w>Φα<g ref="#interpunct">·</g>βίου</w></name> <g ref="#interpunct">·</g> <name><w>Σα
+                    <lb n="3" break="no"/>τορ<g ref="#interpunct">·</g>νί<g ref="#interpunct">·</g>λου</w></name> <g ref="#interpunct">·</g> <w>ζή<g ref="#interpunct">·</g>σαν
+                    <lb n="4" break="no"/>τος</w> <g ref="#interpunct">·</g> <w>ἔτη</w> <g ref="#interpunct">·</g> <num value="21"><w>κ<g ref="#interpunct">·</g><hi rend="supraline">αʹ</hi></w></num> <g ref="#interpunct">·</g> <w>μῆ<g ref="#interpunct">·</g>νας</w>
+                    <lb n="5"/><g ref="#interpunct">·</g> <num value="8"><w>ηʹ</w></num> <g ref="#interpunct">·</g> <w>ἡμέρας</w> <g ref="#interpunct">·</g> <num value="15"><w>ι<g ref="#interpunct">·</g>εʹ</w></num> <g ref="#interpunct">·</g> <w>ἀ<g ref="#interpunct">·</g>έ<g ref="#interpunct">·</g>ρι</w> <g ref="#interpunct">·</g> <w>μὴ</w> <w>φόβι</w>
                 </ab>
             </div>
             <div type="apparatus">

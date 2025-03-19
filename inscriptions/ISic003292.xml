@@ -196,7 +196,7 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#martaf #AA">
                 <ab>
                     <lb n="1"/><w>Ἐν<supplied reason="lost">θάδε</supplied></w> <w><supplied reason="lost">κῖτε</supplied></w>
-                    <lb n="2"/><persName type="attested"><name>Σα<gap reason="lost" extent="unknown" unit="character"/></name></persName>
+                    <lb n="2"/><persName type="attested"><name><w>Σα<gap reason="lost" extent="unknown" unit="character"/></w></name></persName>
                     <lb n="3"/><w>ζή<supplied reason="lost" cert="low">σας</supplied></w> <w><supplied reason="lost">ἔτη</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="4"/><gap reason="lost" extent="unknown" unit="character" cert="low"/>
                 </ab>

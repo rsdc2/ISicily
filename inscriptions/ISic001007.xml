@@ -194,12 +194,12 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
                     <lb n="1"/><w>αἱ</w> <w>μακάριε</w> <w>παρθένοι</w>
-                    <lb n="2"/><name>Φωτίνη</name> <w>κὲ</w> <name>Φιλουμενὴ</name>
+                    <lb n="2"/><name><w>Φωτίνη</w></name> <w>κὲ</w> <name><w>Φιλουμενὴ</w></name>
                     <lb n="3"/><w>ἐνθάδε</w> <w>κῖντε</w> <w>σεμνέ</w> <w>ἁγνὲ</w>
                     <lb n="4"/><w>παρθένοι</w> <w>ζήσασε</w> <w>βίου</w> <w>κα
                     <lb n="5" break="no"/>λοῦ</w> <w>ἡ</w> <w>μιζοτέρα</w> <w>ἐτῶν</w>
-                    <lb n="6"/><num value="80">π</num> <g ref="#interpunct">·</g> <w>καὶ</w> <w>ἡ</w> <w>μικροτέρα</w> <w>ἐτῶ<supplied reason="omitted">ν</supplied></w>
-                    <lb n="7"/><num value="84">πδ</num> <w>ὁρκοῦ</w> <w>σε</w> <w>κατὰ</w> <w>τοῦ</w> <w>θε
+                    <lb n="6"/><num value="80"><w>π</w></num> <g ref="#interpunct">·</g> <w>καὶ</w> <w>ἡ</w> <w>μικροτέρα</w> <w>ἐτῶ<supplied reason="omitted">ν</supplied></w>
+                    <lb n="7"/><num value="84"><w>πδ</w></num> <w>ὁρκοῦ</w> <w>σε</w> <w>κατὰ</w> <w>τοῦ</w> <w>θε
                     <lb n="8" break="no"/>οῦ</w> <w>τοῦ</w> <w>παντοκράτορος</w>
                     <lb n="9"/><w>μηδένα</w> <w>αὐτὰς</w> <w>σκῦλέ</w>
                     <lb n="10"/><g ref="#staurogram">𐆠</g> <w>ποτε</w> <g ref="#staurogram">𐆠</g>

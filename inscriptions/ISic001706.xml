@@ -183,7 +183,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JH">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name>Βαχία</name></persName>
+                    <lb n="1"/><persName type="attested"><name><w>Βαχία</w></name></persName>
                     <lb n="2"/><w>ἐνθάδε</w>
                     <lb n="3"/><w>κεῖτ<choice><orig>ε</orig><reg>αι</reg></choice></w>
                     <lb n="4"/><g ref="#staurogram">𐆠</g> <g ref="#staurogram">𐆠</g>

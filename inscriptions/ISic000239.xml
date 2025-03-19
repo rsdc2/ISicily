@@ -193,7 +193,7 @@
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#VM">
                 <ab>
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w>nais</w>
-                    <lb n="2"/><w><supplied reason="lost"><expan><abbr>v</abbr><ex>ixit</ex></expan></supplied></w> <w><supplied reason="lost"><expan><abbr>an</abbr><ex>nis</ex></expan></supplied></w> <num value="25"><unclear>X</unclear>XV</num>
+                    <lb n="2"/><w><supplied reason="lost"><expan><abbr>v</abbr><ex>ixit</ex></expan></supplied></w> <w><supplied reason="lost"><expan><abbr>an</abbr><ex>nis</ex></expan></supplied></w> <num value="25"><w><unclear>X</unclear>XV</w></num>
                     <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost"><expan><abbr>b</abbr><ex>ene</ex></expan></supplied><expan><abbr>m</abbr><ex cert="low">erenti</ex></expan></w>
                 </ab>
             </div>

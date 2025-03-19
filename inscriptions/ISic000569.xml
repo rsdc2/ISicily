@@ -192,13 +192,13 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <name><expan><abbr>M</abbr><ex>anibus</ex></expan></name>
-                    <lb n="2"/><name>Secundino</name>
+                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <name><w><expan><abbr>M</abbr><ex>anibus</ex></expan></w></name>
+                    <lb n="2"/><name><w>Secundino</w></name>
                     <lb n="3"/><w>alumno</w> <g ref="#interpunct">·</g> <w>infan
                     <lb n="4" break="no"/>ti</w> <g ref="#interpunct">·</g> <w>dulcissimo</w>
-                    <lb n="5"/><w>qui</w> <g ref="#interpunct">·</g> <w><expan><abbr>vix</abbr><ex>it</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>ann</abbr><ex>o</ex></expan></w> <g ref="#interpunct">·</g> <num value="1">I</num> <g ref="#interpunct">·</g> <w><expan><abbr>m</abbr><ex>ensibus</ex></expan></w> <g ref="#interpunct">·</g> <num value="10">X</num>
-                    <lb n="6"/><w><expan><abbr>dieb</abbr><ex>us</ex></expan></w> <g ref="#interpunct">·</g> <num value="17">XVII</num> <g ref="#interpunct">·</g> <name>Hermes</name>
-                    <lb n="7"/><w>et</w> <name>Primitiva</name>
+                    <lb n="5"/><w>qui</w> <g ref="#interpunct">·</g> <w><expan><abbr>vix</abbr><ex>it</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>ann</abbr><ex>o</ex></expan></w> <g ref="#interpunct">·</g> <num value="1"><w>I</w></num> <g ref="#interpunct">·</g> <w><expan><abbr>m</abbr><ex>ensibus</ex></expan></w> <g ref="#interpunct">·</g> <num value="10"><w>X</w></num>
+                    <lb n="6"/><w><expan><abbr>dieb</abbr><ex>us</ex></expan></w> <g ref="#interpunct">·</g> <num value="17"><w>XVII</w></num> <g ref="#interpunct">·</g> <name><w>Hermes</w></name>
+                    <lb n="7"/><w>et</w> <name><w>Primitiva</w></name>
                     <lb n="8"/><w>fecerunt</w>
                 </ab>
             </div>

@@ -193,7 +193,7 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#AL">
                 <ab>
                     <lb n="1"/><roleName type="civic" subtype="agoranomos"><w>ἀγοραν</w> <w><supplied reason="omitted">ο</supplied></w> <w>μέ</w> <w><unclear>ω</unclear></w> <w><supplied reason="lost">ν</supplied></w></roleName> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="2"/><persName type="attested"><name type="idionym">Ἀπολλ<unclear>ώ</unclear>νι<supplied reason="lost">ος</supplied></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><persName type="attested"><name type="idionym"><w>Ἀπολλ<unclear>ώ</unclear>νι<supplied reason="lost">ος</supplied></w></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>
             <div type="apparatus">

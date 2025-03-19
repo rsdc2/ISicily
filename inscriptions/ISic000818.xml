@@ -209,12 +209,12 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#MB">
                 <ab>
-                    <lb n="1"/><persName><name>Εἰφιόνισα</name></persName>
+                    <lb n="1"/><persName><name><w>Εἰφιόνισα</w></name></persName>
                     <lb n="2"/><w>χρηστὰ</w> <w>καὶ</w>
                     <lb n="3"/><w>ἄμεμπτε</w>
                     <lb n="4"/><w>χαῖρε</w>
                     <lb n="5"/><w>ἔζησε</w> <w>ἔ<hi rend="ligature">τη</hi></w>
-                    <lb n="6"/><num value="3">γ</num>
+                    <lb n="6"/><num value="3"><w>γ</w></num>
                 </ab>
             </div>
             <div type="apparatus">

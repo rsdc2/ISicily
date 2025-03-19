@@ -196,10 +196,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#martaf #AA">
                 <ab>
-                    <lb n="1"/><g ref="#ivy-leaf">❦</g> <persName type="attested"><name>Κατυλλεῖνος</name></persName> <g ref="#ivy-leaf">❦</g>
+                    <lb n="1"/><g ref="#ivy-leaf">❦</g> <persName type="attested"><name><w>Κατυλλεῖνος</w></name></persName> <g ref="#ivy-leaf">❦</g>
                     <lb n="2"/><w>ἒζη<supplied reason="lost">σε</supplied>ν</w> <w>ἔτη</w>
-                    <lb n="3"/><num value="13">ιγ</num> <g ref="#ivy-leaf">❦</g> <w>ἐποίησεν</w>
-                    <lb n="4"/><persName type="attested"><name>Εὐοδία</name></persName> <w>μνήμης</w>
+                    <lb n="3"/><num value="13"><w>ιγ</w></num> <g ref="#ivy-leaf">❦</g> <w>ἐποίησεν</w>
+                    <lb n="4"/><persName type="attested"><name><w>Εὐοδία</w></name></persName> <w>μνήμης</w>
                     <lb n="5"/><w>χάριν</w> <space quantity="1" unit="character"/><g ref="#ivy-leaf">❦</g> <g ref="#palm">⸙</g>
                 </ab>
             </div>

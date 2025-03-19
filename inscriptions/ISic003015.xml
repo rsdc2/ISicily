@@ -199,7 +199,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w>σιας</w> <g ref="#interpunct">·</g> <name>Δ</name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w>σιας</w> <g ref="#interpunct">·</g> <name><w>Δ</w></name> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w>ναιο</w> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>

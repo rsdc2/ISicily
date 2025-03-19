@@ -175,7 +175,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#AP">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name><choice><orig>Θέδουλος</orig><reg>Θεόδουλος</reg></choice></name></persName>
+                    <lb n="1"/><persName type="attested"><name><w><choice><orig>Θέδουλος</orig><reg>Θεόδουλος</reg></choice></w></name></persName>
                 </ab>
             </div>
             <div type="apparatus">

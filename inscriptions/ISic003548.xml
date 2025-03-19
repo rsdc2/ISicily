@@ -192,12 +192,12 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#GC">
                 <ab>
                     <lb n="1"/><w>θεοῖς</w> <w>πᾶσι</w>
-                    <lb n="2"/><name>Δρεπαναί<supplied reason="lost">ων</supplied></name>
+                    <lb n="2"/><name><w>Δρεπαναί<supplied reason="lost">ων</supplied></w></name>
                     <lb n="3"/><w>πόλεως</w> <w><choice><reg>σωτῆρσιν</reg><orig>σοτῆρσιν</orig></choice></w>
                     <lb n="4"/><w><choice><corr>τραπέζαν</corr><sic>ΠΡΑΠΕΤΑ</sic></choice></w> <w>καὶ</w> <w>τὸν</w> <w>βωμὸν</w>
-                    <lb n="5"/><name><expan><abbr>Λ</abbr><ex>ούκιος</ex></expan></name> <name>Μάλιος</name> <gap reason="lost" unit="character" quantity="5"/>
+                    <lb n="5"/><name><w><expan><abbr>Λ</abbr><ex>ούκιος</ex></expan></w></name> <name><w>Μάλιος</w></name> <gap reason="lost" unit="character" quantity="5"/>
                     <lb n="6"/><w>χιλιάρχησα<supplied reason="lost">ς</supplied></w> <gap reason="lost" unit="character" quantity="2"/>
-                    <lb n="7"/><name><abbr>Π</abbr></name> <name><abbr>Π</abbr></name>
+                    <lb n="7"/><name><w><abbr>Π</abbr></w></name> <name><w><abbr>Π</abbr></w></name>
                 </ab>
             </div>
             <div type="apparatus">

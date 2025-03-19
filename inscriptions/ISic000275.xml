@@ -193,8 +193,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>P</abbr><ex>ubli</ex></expan>Noni</w> <name>Primi</name>
-                    <lb n="2"/><name>Pomponia</name> <name>Aema</name>
+                    <lb n="1"/><w><expan><abbr>P</abbr><ex>ubli</ex></expan>Noni</w> <name><w>Primi</w></name>
+                    <lb n="2"/><name><w>Pomponia</w></name> <name><w>Aema</w></name>
                 </ab>
             </div>
             <div type="apparatus">

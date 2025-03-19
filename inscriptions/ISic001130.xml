@@ -194,11 +194,11 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
                     <lb n="1" xml:id="BNAAK"/><w xml:id="BNAAU">Πεζῶν</w> <w xml:id="BNAAe">τάξιες</w> <w xml:id="BNAAo">τρεῖς</w> <w xml:id="BNAAy">αἱ</w>
-                    <lb n="2" xml:id="BNAAΙ"/><roleName type="military" subtype="miles" xml:id="BNAAΤ"><w xml:id="BNAAε">στρατευσάμεναι</w></roleName> <w xml:id="BNAAο">ἐπὶ</w> <name xml:id="BNABA">Ἀ
-                    <lb n="3" break="no" xml:id="BNABK"/>πολλωνίου</name> <name xml:id="BNABU">Ἀπολλωνίου</name> <w xml:id="BNABe">καὶ</w>
-                    <lb n="4" xml:id="BNABo"/><w xml:id="BNABy">οἱ</w> <w xml:id="BNABΙ">αὐτοῦ</w> <w xml:id="BNABΤ">ἔφηβοι</w> <name xml:id="BNABε">Ἄνταλλον</name> <name xml:id="BNABο">Ἀν
-                    <lb n="5" break="no" xml:id="BNACA"/>τάλλου</name> <w xml:id="BNACK">τοῦ</w> <name xml:id="BNACU">Ἀντάλλου</name> <name xml:id="BNACe">Ὀρνι
-                    <lb n="6" break="no" xml:id="BNACo"/>χᾶν</name> <roleName type="civic" subtype="gymnasiarchos" xml:id="BNACy"><w xml:id="BNACΙ">γυμνασιαρχήσαντα</w></roleName>
+                    <lb n="2" xml:id="BNAAΙ"/><roleName type="military" subtype="miles" xml:id="BNAAΤ"><w xml:id="BNAAε">στρατευσάμεναι</w></roleName> <w xml:id="BNAAο">ἐπὶ</w> <name xml:id="BNABA"><w>Ἀ
+                    <lb n="3" break="no" xml:id="BNABK"/>πολλωνίου</w></name> <name xml:id="BNABU"><w>Ἀπολλωνίου</w></name> <w xml:id="BNABe">καὶ</w>
+                    <lb n="4" xml:id="BNABo"/><w xml:id="BNABy">οἱ</w> <w xml:id="BNABΙ">αὐτοῦ</w> <w xml:id="BNABΤ">ἔφηβοι</w> <name xml:id="BNABε"><w>Ἄνταλλον</w></name> <name xml:id="BNABο"><w>Ἀν
+                    <lb n="5" break="no" xml:id="BNACA"/>τάλλου</w></name> <w xml:id="BNACK">τοῦ</w> <name xml:id="BNACU"><w>Ἀντάλλου</w></name> <name xml:id="BNACe"><w>Ὀρνι
+                    <lb n="6" break="no" xml:id="BNACo"/>χᾶν</w></name> <roleName type="civic" subtype="gymnasiarchos" xml:id="BNACy"><w xml:id="BNACΙ">γυμνασιαρχήσαντα</w></roleName>
                     <lb n="7" xml:id="BNACΤ"/><w xml:id="BNACε">εὐνοίας</w> <w xml:id="BNACο"><space unit="character" quantity="2" xml:id="BNADA"/>ἕνεκα</w>
                 </ab>
             </div>

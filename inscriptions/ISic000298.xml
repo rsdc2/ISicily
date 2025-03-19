@@ -240,10 +240,10 @@
                 <ab>
                     <lb n="1"/><w>Vernantibus</w>
                     <lb n="2"/><w>saeculis</w> <w><expan><abbr>d<am>dd</am></abbr><ex>ominorum</ex></expan></w> <w><expan><abbr>n<am>nn</am></abbr><ex>ostrorum</ex></expan></w>
-                    <lb n="3"/><name>Genio</name> <w>splendidae</w> <w>ur
-                    <lb n="4" break="no"/>bis</w> <placeName><name>Catinae</name></placeName>
-                    <lb n="5"/><persName type="attested"><name>Facundus</name> <name>Porfyrius</name>
-                    <lb n="6"/><name>Mynatidius</name></persName> <w><expan><abbr>v</abbr><ex>ir</ex></expan></w> <w><expan><abbr>c</abbr><ex>larissimus</ex></expan></w> <g ref="#interpunct">·</g>
+                    <lb n="3"/><name><w>Genio</w></name> <w>splendidae</w> <w>ur
+                    <lb n="4" break="no"/>bis</w> <placeName><name><w>Catinae</w></name></placeName>
+                    <lb n="5"/><persName type="attested"><name><w>Facundus</w></name> <name><w>Porfyrius</w></name>
+                    <lb n="6"/><name><w>Mynatidius</w></name></persName> <w><expan><abbr>v</abbr><ex>ir</ex></expan></w> <w><expan><abbr>c</abbr><ex>larissimus</ex></expan></w> <g ref="#interpunct">·</g>
                     <lb n="7"/><w><expan><abbr>cons</abbr><ex>ularis</ex></expan></w> <g ref="#interpunct">·</g> <w>eiusdem</w>
                 </ab>
             </div>

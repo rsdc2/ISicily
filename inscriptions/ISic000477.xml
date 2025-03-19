@@ -188,13 +188,13 @@
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
                     <lb n="1"/><g ref="#cross_latin">†</g> <w>Hic</w> <w>requiesci
-                    <lb n="2" break="no"/>t</w> <w>in</w> <w>pace</w> <persName type="attested"><name>Placi
-                    <lb n="3" break="no"/>dia</name></persName> <w><choice><orig>univera</orig><reg>univiria</reg></choice></w>
+                    <lb n="2" break="no"/>t</w> <w>in</w> <w>pace</w> <persName type="attested"><name><w>Placi
+                    <lb n="3" break="no"/>dia</w></name></persName> <w><choice><orig>univera</orig><reg>univiria</reg></choice></w>
                     <lb n="4"/><w><choice><orig>que</orig><reg>quae</reg></choice></w> <w><expan><abbr>vix</abbr><ex>it</ex></expan></w> <w><expan><abbr>a<hi rend="supraline">nn</hi></abbr><ex>os</ex></expan></w> <w><expan><abbr>p<hi rend="supraline">l</hi></abbr><ex>us</ex></expan></w> <w><expan><abbr>m</abbr><ex>inus</ex></expan></w>
-                    <lb n="5"/><num value="35">XXXV</num> <w><expan><abbr><hi rend="supraline">p</hi></abbr><ex>ost</ex></expan></w> <roleName type="supracivic" subtype="consul"><w><expan><abbr><hi rend="supraline">c</hi></abbr><ex>onsulatum</ex></expan></w></roleName> <persName type="attested"><name>Basili</name></persName> <w><expan><abbr><hi rend="supraline">v</hi></abbr><ex>iri</ex></expan></w> <roleName type="supracivic" subtype="clarissimus"><w><expan><abbr><hi rend="supraline">c</hi></abbr><ex>larissimi</ex></expan></w></roleName>
+                    <lb n="5"/><num value="35"><w>XXXV</w></num> <w><expan><abbr><hi rend="supraline">p</hi></abbr><ex>ost</ex></expan></w> <roleName type="supracivic" subtype="consul"><w><expan><abbr><hi rend="supraline">c</hi></abbr><ex>onsulatum</ex></expan></w></roleName> <persName type="attested"><name><w>Basili</w></name></persName> <w><expan><abbr><hi rend="supraline">v</hi></abbr><ex>iri</ex></expan></w> <roleName type="supracivic" subtype="clarissimus"><w><expan><abbr><hi rend="supraline">c</hi></abbr><ex>larissimi</ex></expan></w></roleName>
                     <lb n="6"/><w>per</w> <w><expan><abbr>indi</abbr><ex>c</ex><abbr>tione</abbr><ex>m</ex></expan></w>
                     <lb n="7"/><w><expan><abbr>quarta</abbr><ex>m</ex></expan></w> <w>ann
-                    <lb n="8" break="no"/>o</w> <num value="29">XX<c xml:lang="grc">ϛ</c>III</num> <g ref="#ivy-leaf">❦</g>
+                    <lb n="8" break="no"/>o</w> <num value="29"><w>XX<c xml:lang="grc">ϛ</c>III</w></num> <g ref="#ivy-leaf">❦</g>
                 </ab>
             </div>
             <div type="apparatus">

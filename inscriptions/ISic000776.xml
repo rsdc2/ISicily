@@ -195,10 +195,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <name><expan><abbr>M</abbr><ex>anibus</ex></expan></name>
-                    <lb n="2"/><name><expan><abbr>A</abbr><ex>uli</ex></expan></name> <name>Hirti</name> <name>Liberalis</name> <space unit="character" quantity="4"/><w>vixit</w> <w><expan><abbr>ann</abbr><ex>is</ex></expan></w>
-                    <lb n="3"/><num value="28">XXVIII</num> <w><expan><abbr>me</abbr><ex>n</ex><abbr>s</abbr><ex>ibus</ex></expan></w> <num value="11">XI</num> <name>Claudia</name> <name>Sozo
-                    <lb n="4" break="no"/>mene</name> <w>mater</w> <w><expan><abbr>fil</abbr><ex>io</ex></expan></w> <w>pientissimo</w>
+                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <name><w><expan><abbr>M</abbr><ex>anibus</ex></expan></w></name>
+                    <lb n="2"/><name><w><expan><abbr>A</abbr><ex>uli</ex></expan></w></name> <name><w>Hirti</w></name> <name><w>Liberalis</w></name> <space unit="character" quantity="4"/><w>vixit</w> <w><expan><abbr>ann</abbr><ex>is</ex></expan></w>
+                    <lb n="3"/><num value="28"><w>XXVIII</w></num> <w><expan><abbr>me</abbr><ex>n</ex><abbr>s</abbr><ex>ibus</ex></expan></w> <num value="11"><w>XI</w></num> <name><w>Claudia</w></name> <name><w>Sozo
+                    <lb n="4" break="no"/>mene</w></name> <w>mater</w> <w><expan><abbr>fil</abbr><ex>io</ex></expan></w> <w>pientissimo</w>
                 </ab>
             </div>
             <div type="apparatus">

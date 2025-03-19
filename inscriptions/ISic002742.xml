@@ -191,10 +191,10 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
                     <lb n="1"/><w><expan><abbr><am><g ref="#christogram">☧</g></am></abbr><ex>Χρίστο</ex><abbr>ς</abbr></expan></w> <w>αὐτὴ</w>
-                    <lb n="2"/><name>Σωφρώνια</name>
+                    <lb n="2"/><name><w>Σωφρώνια</w></name>
                     <lb n="3"/><w>ἀπεγέναιτο</w>
-                    <lb n="4"/><num value="35">τριάντα πέν
-                    <lb n="5" break="no"/>τε</num> <w>αἰτῶν</w>
+                    <lb n="4"/><num value="35"><w>τριάντα πέν
+                    <lb n="5" break="no"/>τε</w></num> <w>αἰτῶν</w>
                 </ab>
             </div>
             <div type="apparatus">

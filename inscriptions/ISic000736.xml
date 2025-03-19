@@ -195,7 +195,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#VM">
                 <ab>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w>Rosciani</w> <name>Antioc<unclear>hi</unclear></name>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w>Rosciani</w> <name><w>Antioc<unclear>hi</unclear></w></name>
                 </ab>
             </div>
             <div type="apparatus">

@@ -193,10 +193,10 @@
                 <ab>
                     <lb n="1"/><w><supplied reason="lost">le</supplied>cto<supplied reason="lost">r</supplied></w> <w>hu
                     <lb n="2" break="no"/>ius</w> <w><expan><abbr>ecc</abbr><ex>lesiae</ex></expan></w> <w>qu<supplied reason="lost">i</supplied></w>
-                    <lb n="3"/><w>vixit</w> <w>annos</w> <num value="20">XX</num>
-                    <lb n="4"/><w>depositus</w> <w><supplied reason="lost"><num value="6">VI</num></supplied>I
-                    <lb n="5" break="no"/>dus</w> <name>Februar
-                    <lb n="6" break="no"/><supplied reason="lost">i</supplied>as</name> <w><expan><abbr>i<supplied reason="lost">nd</supplied></abbr><ex>ictione</ex></expan></w> <num value="11">XI</num>
+                    <lb n="3"/><w>vixit</w> <w>annos</w> <num value="20"><w>XX</w></num>
+                    <lb n="4"/><w>depositus</w> <w><supplied reason="lost"><num value="6"><w>VI</w></num></supplied>I
+                    <lb n="5" break="no"/>dus</w> <name><w>Februar
+                    <lb n="6" break="no"/><supplied reason="lost">i</supplied>as</w></name> <w><expan><abbr>i<supplied reason="lost">nd</supplied></abbr><ex>ictione</ex></expan></w> <num value="11"><w>XI</w></num>
                 </ab>
             </div>
             <div type="apparatus">

@@ -196,11 +196,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#FP">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name type="nomen"><supplied reason="lost">Cl</supplied>odi<supplied reason="lost">ae</supplied></name> <persName type="attested"><name type="praenomen"><expan><abbr>P</abbr><ex>ubli</ex></expan></name></persName> <g ref="#interpunct">·</g> <name><expan><abbr>F</abbr><ex>iliae</ex></expan></name> <g ref="#ivy-leaf">❦</g>
-                    <lb n="2"/><name type="cognomen">Falconillae</name></persName> <w>ma<hi rend="ligature">tri</hi></w>
-                    <lb n="3"/><persName type="attested"><name type="nomen">Pompei</name> <g ref="#interpunct">·</g> <name type="cognomen">Falconis</name></persName>
-                    <lb n="4"/><persName type="attested"><name type="nomen">Sosius</name> <space unit="character" quantity="1"/><name type="cognomen">Priscus</name></persName>
-                    <lb n="5"/><space unit="character" quantity="3"/><name><unclear>M</unclear></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><persName type="attested"><name type="nomen"><w><supplied reason="lost">Cl</supplied>odi<supplied reason="lost">ae</supplied></w></name> <persName type="attested"><name type="praenomen"><w><expan><abbr>P</abbr><ex>ubli</ex></expan></w></name></persName> <g ref="#interpunct">·</g> <name><w><expan><abbr>F</abbr><ex>iliae</ex></expan></w></name> <g ref="#ivy-leaf">❦</g>
+                    <lb n="2"/><name type="cognomen"><w>Falconillae</w></name></persName> <w>ma<hi rend="ligature">tri</hi></w>
+                    <lb n="3"/><persName type="attested"><name type="nomen"><w>Pompei</w></name> <g ref="#interpunct">·</g> <name type="cognomen"><w>Falconis</w></name></persName>
+                    <lb n="4"/><persName type="attested"><name type="nomen"><w>Sosius</w></name> <space unit="character" quantity="1"/><name type="cognomen"><w>Priscus</w></name></persName>
+                    <lb n="5"/><space unit="character" quantity="3"/><name><w><unclear>M</unclear></w></name> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>
             <div type="apparatus">

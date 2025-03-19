@@ -176,7 +176,7 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#FP">
                 <ab>
                     <lb n="1"/><w>Ἐνθάδε</w> <w>κεῖτε</w>
-                    <lb n="2"/><persName type="attested"><name>Σωτίρα</name></persName> <w>ἐν</w> <w><supplied reason="lost">θεῳ</supplied></w>
+                    <lb n="2"/><persName type="attested"><name><w>Σωτίρα</w></name></persName> <w>ἐν</w> <w><supplied reason="lost">θεῳ</supplied></w>
                 </ab>
             </div>
             <div type="apparatus">

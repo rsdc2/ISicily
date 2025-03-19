@@ -203,9 +203,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#EK">
                 <ab>
-                    <lb n="1"/><persName><name><gap reason="lost" extent="unknown" unit="character"/><seg part="F">ντος</seg></name></persName>
-                    <lb n="2"/><persName><name><gap reason="lost" extent="unknown" unit="character"/><seg part="F">νίδα</seg></name></persName>
-                    <lb n="3"/><persName><name><gap reason="lost" extent="unknown" unit="character"/><seg part="F">τι</seg></name></persName>
+                    <lb n="1"/><persName><name><w><gap reason="lost" extent="unknown" unit="character"/><seg part="F">ντος</seg></w></name></persName>
+                    <lb n="2"/><persName><name><w><gap reason="lost" extent="unknown" unit="character"/><seg part="F">νίδα</seg></w></name></persName>
+                    <lb n="3"/><persName><name><w><gap reason="lost" extent="unknown" unit="character"/><seg part="F">τι</seg></w></name></persName>
                 </ab>
             </div>
             <div type="apparatus">

@@ -212,9 +212,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#TA #JP">
                 <ab>
-                    <lb n="1" xml:id="AOoAK"/><w xml:id="AOoAU"><expan xml:id="AOoAe"><abbr xml:id="AOoAo"><unclear xml:id="AOoAy">D</unclear></abbr><ex xml:id="AOoAΙ">is</ex></expan></w> <name xml:id="AOoAΤ"><expan xml:id="AOoAε"><abbr xml:id="AOoAο">M</abbr><ex xml:id="AOoBA">anibus</ex></expan></name>
-                    <lb n="2" xml:id="AOoBK"/><persName type="attested" xml:id="AOoBU"><name xml:id="AOoBe"><expan xml:id="AOoBo"><abbr xml:id="AOoBy">P</abbr><ex xml:id="AOoBΙ">ublius</ex></expan></name> <g ref="#interpunct" xml:id="AOoBΤ">·</g> <name xml:id="AOoBε">Cestius</name> <g ref="#interpunct" xml:id="AOoBο">·</g>
-                    <lb n="3" xml:id="AOoCA"/><name xml:id="AOoCK"><gap reason="lost" extent="unknown" unit="character" xml:id="AOoCU"/>us</name></persName>
+                    <lb n="1" xml:id="AOoAK"/><w xml:id="AOoAU"><expan xml:id="AOoAe"><abbr xml:id="AOoAo"><unclear xml:id="AOoAy">D</unclear></abbr><ex xml:id="AOoAΙ">is</ex></expan></w> <name xml:id="AOoAΤ"><w><expan xml:id="AOoAε"><abbr xml:id="AOoAο">M</abbr><ex xml:id="AOoBA">anibus</ex></expan></w></name>
+                    <lb n="2" xml:id="AOoBK"/><persName type="attested" xml:id="AOoBU"><name xml:id="AOoBe"><w><expan xml:id="AOoBo"><abbr xml:id="AOoBy">P</abbr><ex xml:id="AOoBΙ">ublius</ex></expan></w></name> <g ref="#interpunct" xml:id="AOoBΤ">·</g> <name xml:id="AOoBε"><w>Cestius</w></name> <g ref="#interpunct" xml:id="AOoBο">·</g>
+                    <lb n="3" xml:id="AOoCA"/><name xml:id="AOoCK"><w><gap reason="lost" extent="unknown" unit="character" xml:id="AOoCU"/>us</w></name></persName>
                 </ab>
             </div>
             <div type="apparatus" resp="#JP">

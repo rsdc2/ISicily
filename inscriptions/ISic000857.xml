@@ -188,10 +188,10 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
                     <lb n="1"/><w>Λεο<supplied reason="omitted">σ</supplied>θένης</w>
-                    <lb n="2"/><name>Λέπιδος</name>
-                    <lb n="3"/><w>καὶ</w> <name>Ἐράσμιος</name>
-                    <lb n="4"/><w>ἔζησες</w> <w>ἔτ<supplied reason="omitted">η</supplied></w> <num value="20"><hi rend="supraline">κ</hi></num>
-                    <lb n="5"/><w><expan><abbr>μῆν</abbr><ex>ας</ex></expan></w> <g ref="#interpunct">·</g> <num value="4">δ</num> <g ref="#interpunct">·</g> <w><expan><abbr>ἡμέρ</abbr><ex>ας</ex></expan></w> <num value="8">η</num>
+                    <lb n="2"/><name><w>Λέπιδος</w></name>
+                    <lb n="3"/><w>καὶ</w> <name><w>Ἐράσμιος</w></name>
+                    <lb n="4"/><w>ἔζησες</w> <w>ἔτ<supplied reason="omitted">η</supplied></w> <num value="20"><w><hi rend="supraline">κ</hi></w></num>
+                    <lb n="5"/><w><expan><abbr>μῆν</abbr><ex>ας</ex></expan></w> <g ref="#interpunct">·</g> <num value="4"><w>δ</w></num> <g ref="#interpunct">·</g> <w><expan><abbr>ἡμέρ</abbr><ex>ας</ex></expan></w> <num value="8"><w>η</w></num>
                 </ab>
             </div>
             <div type="apparatus">

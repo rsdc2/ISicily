@@ -197,7 +197,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>Γ</abbr><ex>άϊος</ex></expan></w> <g ref="#interpunct">·</g> <name>Κλαύδιος</name>
+                    <lb n="1"/><w><expan><abbr>Γ</abbr><ex>άϊος</ex></expan></w> <g ref="#interpunct">·</g> <name><w>Κλαύδιος</w></name>
                     <lb n="2"/><w>εὐχάν</w>
                 </ab>
             </div>

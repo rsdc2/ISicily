@@ -196,10 +196,10 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
                     <lb n="1"/><w>Φιλίππου</w>
-                    <lb n="2"/><name>Φίλιππος</name>
-                    <lb n="3"/><name>Σεκόνδος</name>
-                    <lb n="4"/><name><expan><abbr>Μᾶρ</abbr><ex>κος</ex></expan></name> <g ref="#ivy-leaf"/> <name>Φλουάβ
-                    <lb n="5" break="no"/>ιος</name> <g ref="#ivy-leaf"/> <name>Τουένδος</name>
+                    <lb n="2"/><name><w>Φίλιππος</w></name>
+                    <lb n="3"/><name><w>Σεκόνδος</w></name>
+                    <lb n="4"/><name><w><expan><abbr>Μᾶρ</abbr><ex>κος</ex></expan></w></name> <g ref="#ivy-leaf"/> <name><w>Φλουάβ
+                    <lb n="5" break="no"/>ιος</w></name> <g ref="#ivy-leaf"/> <name><w>Τουένδος</w></name>
                     <lb n="6"/><w>χαῖρε</w>
                 </ab>
             </div>

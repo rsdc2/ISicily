@@ -210,7 +210,7 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP #NQ">
                 <ab>
                     <lb n="1" xml:id="BSοAK"/><space quantity="4" unit="character" xml:id="BSοAU"/><w xml:id="BSοAe">ὁ</w> <w xml:id="BSοAo">δᾶμος</w> <space quantity="3" unit="character" xml:id="BSοAy"/>
-                    <lb n="2" xml:id="BSοAΙ"/><name xml:id="BSοAΤ"><unclear xml:id="BSοAε">Β</unclear>ίωτον</name> <name xml:id="BSοAο">Τιμάνδρο<supplied reason="lost" xml:id="BSοBA">υ</supplied></name>
+                    <lb n="2" xml:id="BSοAΙ"/><name xml:id="BSοAΤ"><w><unclear xml:id="BSοAε">Β</unclear>ίωτον</w></name> <name xml:id="BSοAο"><w>Τιμάνδρο<supplied reason="lost" xml:id="BSοBA">υ</supplied></w></name>
                     <lb n="3" xml:id="BSοBK"/><w xml:id="BSοBU">εὐνοίας</w> <w xml:id="BSοBe">ἕνεκε<unclear xml:id="BSοBo">ν</unclear></w>
                 </ab>
             </div>

@@ -200,10 +200,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>C</abbr><ex>ai</ex></expan></w> <g ref="#interpunct">·</g> <name>Servili</name> <g ref="#interpunct">·</g> <name><expan><abbr>C</abbr><ex>ai</ex></expan></name> <g ref="#interpunct">·</g> <w><expan><abbr>f</abbr><ex>ilius</ex></expan></w> <g ref="#interpunct">·</g> <name><expan><hi rend="ligature"><abbr>Quir</abbr></hi><ex>ina tribu</ex></expan></name>
-                    <lb n="2"/><name>Avite</name> <g ref="#interpunct">·</g> <w>pie</w> <g ref="#interpunct">·</g> <w>salve</w>
-                    <lb n="3"/><w>v<hi rend="tall">i</hi>xit</w> <g ref="#interpunct">·</g> <w><expan><abbr>an</abbr><ex>nos</ex></expan></w> <g ref="#interpunct">·</g> <num value="17">XVII</num> <g ref="#interpunct">·</g>
-                    <lb n="4"/><w>diebus</w> <g ref="#interpunct">·</g> <num value="11">XI</num> <g ref="#interpunct">·</g>
+                    <lb n="1"/><w><expan><abbr>C</abbr><ex>ai</ex></expan></w> <g ref="#interpunct">·</g> <name><w>Servili</w></name> <g ref="#interpunct">·</g> <name><w><expan><abbr>C</abbr><ex>ai</ex></expan></w></name> <g ref="#interpunct">·</g> <w><expan><abbr>f</abbr><ex>ilius</ex></expan></w> <g ref="#interpunct">·</g> <name><w><expan><hi rend="ligature"><abbr>Quir</abbr></hi><ex>ina tribu</ex></expan></w></name>
+                    <lb n="2"/><name><w>Avite</w></name> <g ref="#interpunct">·</g> <w>pie</w> <g ref="#interpunct">·</g> <w>salve</w>
+                    <lb n="3"/><w>v<hi rend="tall">i</hi>xit</w> <g ref="#interpunct">·</g> <w><expan><abbr>an</abbr><ex>nos</ex></expan></w> <g ref="#interpunct">·</g> <num value="17"><w>XVII</w></num> <g ref="#interpunct">·</g>
+                    <lb n="4"/><w>diebus</w> <g ref="#interpunct">·</g> <num value="11"><w>XI</w></num> <g ref="#interpunct">·</g>
                 </ab>
             </div>
             <div type="apparatus">

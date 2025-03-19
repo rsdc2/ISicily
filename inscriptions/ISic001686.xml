@@ -200,7 +200,7 @@
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <gap reason="illegible" unit="character" quantity="1"/> <w part="F">tori</w>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w>per</w> <name part="I"><expan><abbr>Aug</abbr><ex>ust</ex></expan></name> <g ref="#interpunct">·</g>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w>per</w> <name part="I"><w><expan><abbr>Aug</abbr><ex>ust</ex></expan></w></name> <g ref="#interpunct">·</g>
                     <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <orig>O</orig>
                 </ab>
             </div>

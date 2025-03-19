@@ -193,8 +193,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#VM">
                 <ab>
-                    <lb n="1"/><supplied reason="lost"><g ref="#alpha"/></supplied> <g ref="#staurogram">𐆠</g> <g ref="#omega"/> <w>Auxentius</w> <name>His
-                    <lb n="2" break="no"/>panus</name> <w>patria</w> <roleName type="paracivic.religious" subtype="episkopos"><w><expan><abbr>ep</abbr><ex>iscopus</ex></expan></w></roleName> <name>Rotdon</name>
+                    <lb n="1"/><supplied reason="lost"><g ref="#alpha"/></supplied> <g ref="#staurogram">𐆠</g> <g ref="#omega"/> <w>Auxentius</w> <name><w>His
+                    <lb n="2" break="no"/>panus</w></name> <w>patria</w> <roleName type="paracivic.religious" subtype="episkopos"><w><expan><abbr>ep</abbr><ex>iscopus</ex></expan></w></roleName> <name><w>Rotdon</w></name>
                     <lb n="3"/><w>iacet</w> <w><choice><corr>hic</corr><sic>huc</sic></choice></w> <w>et</w> <w>a<supplied reason="omitted">d</supplied>iuro</w> <w>vos</w> <w>qui</w> <w>legi
                     <lb n="4" break="no"/><choice><corr>tis</corr><sic>tes</sic></choice></w> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="5"/><gap reason="illegible" quantity="1" unit="line"/>

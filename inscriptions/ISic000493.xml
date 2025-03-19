@@ -192,8 +192,8 @@
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#GC">
                 <ab>
                     <lb n="0"/><gap reason="lost" quantity="1" unit="line"/>
-                    <lb n="1"/><gap reason="lost" quantity="3" unit="character"/> <w>ris</w> <g ref="#interpunct">·</g> <name>Vitalis</name>
-                    <lb n="2"/><name>Appius</name> <g ref="#interpunct">·</g> <w>et</w> <g ref="#interpunct">·</g> <name>Nicolaus</name>
+                    <lb n="1"/><gap reason="lost" quantity="3" unit="character"/> <w>ris</w> <g ref="#interpunct">·</g> <name><w>Vitalis</w></name>
+                    <lb n="2"/><name><w>Appius</w></name> <g ref="#interpunct">·</g> <w>et</w> <g ref="#interpunct">·</g> <name><w>Nicolaus</w></name>
                     <lb n="3"/><w>amico</w> <g ref="#interpunct">·</g> <w>optimo</w>
                     <lb n="4"/><w><expan><abbr>l</abbr><ex>ocus</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>d</abbr><ex>atus</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>d</abbr><ex>ecreto</ex></expan></w> <g ref="#interpunct">·</g> <roleName type="civic" subtype="decurio"><w><expan><abbr>d</abbr><ex>ecurionum</ex></expan></w></roleName>
                 </ab>

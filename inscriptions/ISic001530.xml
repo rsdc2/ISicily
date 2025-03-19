@@ -194,10 +194,10 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
                     <lb n="1"/><w><supplied reason="lost">Χ</supplied>ρυσὶς</w> <w>χρηστὴ</w>
-                    <lb n="2"/><w>χρησσιανὴ</w> <name><expan><abbr>Χρ</abbr><ex>ιστὸν</ex></expan></name>
+                    <lb n="2"/><w>χρησσιανὴ</w> <name><w><expan><abbr>Χρ</abbr><ex>ιστὸν</ex></expan></w></name>
                     <lb n="3"/><w>πιστεύσασα</w>
                     <lb n="4"/><w><supplied reason="lost">ἔζ</supplied>ησεν</w> <w>ἔτη</w>
-                    <lb n="5"/><num value="18">ιη</num> <w>κατέθετο</w>
+                    <lb n="5"/><num value="18"><w>ιη</w></num> <w>κατέθετο</w>
                 </ab>
             </div>
             <div type="apparatus">

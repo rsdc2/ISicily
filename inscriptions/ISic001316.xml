@@ -199,9 +199,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#martaf">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name><expan><abbr>Μ</abbr><ex>ᾶρκος</ex></expan></name> <g ref="#interpunct">·</g> <name>Βιψάνιος</name> <name>Ζώ
-                    <lb n="2" break="no"/>σιμος</name></persName> <w>ζήσα
-                    <lb n="3" break="no"/>ς</w> <w>καλῶς</w> <w>ἔτη</w> <g ref="#interpunct">·</g> <num value="35">λε</num>
+                    <lb n="1"/><persName type="attested"><name><w><expan><abbr>Μ</abbr><ex>ᾶρκος</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w>Βιψάνιος</w></name> <name><w>Ζώ
+                    <lb n="2" break="no"/>σιμος</w></name></persName> <w>ζήσα
+                    <lb n="3" break="no"/>ς</w> <w>καλῶς</w> <w>ἔτη</w> <g ref="#interpunct">·</g> <num value="35"><w>λε</w></num>
                     <lb n="4"/><g ref="#ivy-leaf">❦</g> <w>χαῖ<space unit="character" quantity="1"/><g ref="#interpunct">·</g><space unit="character" quantity="1"/>ρε</w> <g ref="#ivy-leaf">❦</g>
                     <lb n="5"/><w>παροδεῖτα</w>
                 </ab>

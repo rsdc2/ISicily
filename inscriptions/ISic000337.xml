@@ -213,9 +213,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>L</abbr><ex>ucius</ex></expan></w> <g ref="#interpunct">·</g> <name>Caelius</name> <g ref="#interpunct">·</g> <name><expan><abbr>L</abbr><ex>uci</ex></expan></name> <g ref="#interpunct">·</g> <w><expan><abbr>f</abbr><ex>ilius</ex></expan></w>
-                    <lb n="2"/><name><expan><abbr><unclear>C</unclear><supplied reason="lost" evidence="parallel">la</supplied></abbr><ex>udia tribu</ex></expan></name> <name><unclear>M</unclear>ac</name> <w><unclear>e</unclear></w> <w><supplied reason="lost">r</supplied></w>
-                    <lb n="3"/><roleName type="civic" subtype="duumvir"><supplied reason="lost" evidence="parallel"><num value="2">II</num></supplied> <supplied reason="lost" evidence="parallel"><g ref="#interpunct">·</g></supplied> <w><supplied reason="lost" evidence="parallel">vir</supplied></w></roleName>
+                    <lb n="1"/><w><expan><abbr>L</abbr><ex>ucius</ex></expan></w> <g ref="#interpunct">·</g> <name><w>Caelius</w></name> <g ref="#interpunct">·</g> <name><w><expan><abbr>L</abbr><ex>uci</ex></expan></w></name> <g ref="#interpunct">·</g> <w><expan><abbr>f</abbr><ex>ilius</ex></expan></w>
+                    <lb n="2"/><name><w><expan><abbr><unclear>C</unclear><supplied reason="lost" evidence="parallel">la</supplied></abbr><ex>udia tribu</ex></expan></w></name> <name><w><unclear>M</unclear>ac</w></name> <w><unclear>e</unclear></w> <w><supplied reason="lost">r</supplied></w>
+                    <lb n="3"/><roleName type="civic" subtype="duumvir"><supplied reason="lost" evidence="parallel"><num value="2"><w>II</w></num></supplied> <supplied reason="lost" evidence="parallel"><g ref="#interpunct">·</g></supplied> <w><supplied reason="lost" evidence="parallel">vir</supplied></w></roleName>
                     <lb n="4"/><gap reason="lost" extent="unknown" unit="line"/>
                 </ab>
             </div>

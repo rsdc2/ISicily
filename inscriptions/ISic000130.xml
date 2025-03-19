@@ -192,8 +192,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#TA">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name>Antonius</name> <name>Iulianus</name></persName>
-                    <lb n="2"/><w><expan><abbr>v</abbr><ex>ixit</ex></expan></w> <w><expan><abbr>a</abbr><ex>nnis</ex></expan></w> <num value="25">XXV</num>
+                    <lb n="1"/><persName type="attested"><name><w>Antonius</w></name> <name><w>Iulianus</w></name></persName>
+                    <lb n="2"/><w><expan><abbr>v</abbr><ex>ixit</ex></expan></w> <w><expan><abbr>a</abbr><ex>nnis</ex></expan></w> <num value="25"><w>XXV</w></num>
                 </ab>
             </div>
             <div type="apparatus">

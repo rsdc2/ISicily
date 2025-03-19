@@ -192,12 +192,12 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#VM #JP">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name>Nicarin</name> <g ref="#interpunct">·</g> <persName type="attested"><name>Munatiae</name> <g ref="#interpunct">·</g> <persName type="attested"><name type="libertinatio"><expan><abbr>L</abbr><ex>uci</ex></expan></name></persName> <g ref="#interpunct">·</g> <w><expan><abbr>l</abbr><ex>ibertae</ex></expan></w> <g ref="#interpunct">·</g> <name>Zosi
-                    <lb n="2" break="no"/>mae</name></persName> <g ref="#interpunct">·</g> <w>filia</w></persName> <g ref="#interpunct">·</g> <w>hymnetria</w> <g ref="#interpunct">·</g> <w>a</w> <g ref="#interpunct">·</g> <w><expan><abbr>s</abbr><ex cert="low">acris</ex></expan></w> <g ref="#interpunct">·</g>
+                    <lb n="1"/><persName type="attested"><name><w>Nicarin</w></name> <g ref="#interpunct">·</g> <persName type="attested"><name><w>Munatiae</w></name> <g ref="#interpunct">·</g> <persName type="attested"><name type="libertinatio"><w><expan><abbr>L</abbr><ex>uci</ex></expan></w></name></persName> <g ref="#interpunct">·</g> <w><expan><abbr>l</abbr><ex>ibertae</ex></expan></w> <g ref="#interpunct">·</g> <name><w>Zosi
+                    <lb n="2" break="no"/>mae</w></name></persName> <g ref="#interpunct">·</g> <w>filia</w></persName> <g ref="#interpunct">·</g> <w>hymnetria</w> <g ref="#interpunct">·</g> <w>a</w> <g ref="#interpunct">·</g> <w><expan><abbr>s</abbr><ex cert="low">acris</ex></expan></w> <g ref="#interpunct">·</g>
                     <lb n="3"/><w>terra</w> <g ref="#interpunct">·</g> <w>precor</w> <g ref="#interpunct">·</g> <w>quaecumque</w>
-                    <lb n="4"/><w>iaces</w> <g ref="#interpunct">·</g> <persName type="attested"><name>Nicario</name></persName> <g ref="#interpunct">·</g> <w>super</w> <g ref="#interpunct">·</g> <w>ossa</w>
+                    <lb n="4"/><w>iaces</w> <g ref="#interpunct">·</g> <persName type="attested"><name><w>Nicario</w></name></persName> <g ref="#interpunct">·</g> <w>super</w> <g ref="#interpunct">·</g> <w>ossa</w>
                     <lb n="5"/><w>sis</w> <g ref="#interpunct">·</g> <w>levis</w> <g ref="#interpunct">·</g> <w>in</w> <g ref="#interpunct">·</g> <w>tenero</w> <g ref="#interpunct">·</g> <w>corpore</w> <g ref="#interpunct">·</g> <w>deposita</w>
-                    <lb n="6"/><w>vixit</w> <g ref="#interpunct">·</g> <w>annos</w> <g ref="#interpunct">·</g> <num value="18">XVIII</num>
+                    <lb n="6"/><w>vixit</w> <g ref="#interpunct">·</g> <w>annos</w> <g ref="#interpunct">·</g> <num value="18"><w>XVIII</w></num>
                 </ab>
             </div>
             <div type="apparatus">

@@ -197,10 +197,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#martaf #AA">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name><supplied reason="lost">Πρ</supplied>ῖσκα</name></persName>
+                    <lb n="1"/><persName type="attested"><name><w><supplied reason="lost">Πρ</supplied>ῖσκα</w></name></persName>
                     <lb n="2"/><w><supplied reason="lost">ἔζ</supplied>ησεν</w>
-                    <lb n="3"/><w><supplied reason="lost">ἔτ</supplied>η</w> <num value="18">δέκ
-                    <lb n="4" break="no"/><supplied reason="lost" cert="low">αοκ</supplied>τῶ</num> <g ref="#menorah">🕎</g>
+                    <lb n="3"/><w><supplied reason="lost">ἔτ</supplied>η</w> <num value="18"><w>δέκ
+                    <lb n="4" break="no"/><supplied reason="lost" cert="low">αοκ</supplied>τῶ</w></num> <g ref="#menorah">🕎</g>
                 </ab>
             </div>
             <div type="apparatus" resp="#martaf">

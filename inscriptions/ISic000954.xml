@@ -195,10 +195,10 @@
                 <ab>
                     <lb n="1"/><w>Κοπριανὸς</w>
                     <lb n="2"/><w>ἐνθάδε</w> <w>κῖτε</w>
-                    <lb n="3"/><w>ζήσας</w> <w>ἔτη</w> <num value="58">λη</num>
+                    <lb n="3"/><w>ζήσας</w> <w>ἔτη</w> <num value="58"><w>λη</w></num>
                     <lb n="4"/><w>τελευτᾷ</w> <w>τῇ</w>
-                    <lb n="5"/><w>πρὸ</w> <num value="11">ια</num> <w><expan><abbr>καλ</abbr><ex>ανδῶν</ex></expan></w> <name>Ὀκ
-                    <lb n="6" break="no"/>τωβρήον</name>
+                    <lb n="5"/><w>πρὸ</w> <num value="11"><w>ια</w></num> <w><expan><abbr>καλ</abbr><ex>ανδῶν</ex></expan></w> <name><w>Ὀκ
+                    <lb n="6" break="no"/>τωβρήον</w></name>
                 </ab>
             </div>
             <div type="apparatus">

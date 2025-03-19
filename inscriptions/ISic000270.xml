@@ -193,10 +193,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
-                    <lb n="1"/><w>Aristo</w> <g ref="#interpunct">·</g> <name>Claudiae</name>
-                    <lb n="2"/><name>Aristeni</name> <g ref="#interpunct">·</g> <w>matri</w>
+                    <lb n="1"/><w>Aristo</w> <g ref="#interpunct">·</g> <name><w>Claudiae</w></name>
+                    <lb n="2"/><name><w>Aristeni</w></name> <g ref="#interpunct">·</g> <w>matri</w>
                     <lb n="3"/><w>suae</w> <g ref="#interpunct">·</g> <w>bene</w> <g ref="#interpunct">·</g> <w>merenti</w>
-                    <lb n="4"/><w>fecit</w> <g ref="#interpunct">·</g> <w>vixit</w> <w><expan><abbr>ann</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <num value="54">L · IIII</num>
+                    <lb n="4"/><w>fecit</w> <g ref="#interpunct">·</g> <w>vixit</w> <w><expan><abbr>ann</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <num value="54"><w>L · IIII</w></num>
                 </ab>
             </div>
             <div type="apparatus">

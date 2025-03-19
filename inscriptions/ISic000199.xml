@@ -192,9 +192,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#VM">
                 <ab>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <name>Mevio</name> <name><name part="I">Fro</name></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <name><w>Mevio</w></name> <name><w><name part="I"><w>Fro</w></name></w></name> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w part="F">enti</w> <w>agro</w> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <w><expan><abbr>lat</abbr><ex>um</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>p</abbr><ex>edes</ex></expan></w> <g ref="#interpunct">·</g> <num value="16">XVI</num> <g ref="#interpunct">·</g> <w><expan><abbr>p</abbr><ex>edes</ex></expan></w> <g ref="#interpunct">·</g> <num value="40">XL</num> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <w><expan><abbr>lat</abbr><ex>um</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>p</abbr><ex>edes</ex></expan></w> <g ref="#interpunct">·</g> <num value="16"><w>XVI</w></num> <g ref="#interpunct">·</g> <w><expan><abbr>p</abbr><ex>edes</ex></expan></w> <g ref="#interpunct">·</g> <num value="40"><w>XL</w></num> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>
             <div type="apparatus">

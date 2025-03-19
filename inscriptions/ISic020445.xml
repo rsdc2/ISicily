@@ -182,7 +182,7 @@
                 <!-- two iambic trimeters -->
                 <div type="textpart" subtype="section" n="a">
                     <ab>
-                        <lb n="1" xml:id="UsyAU"/><persName type="attested" xml:id="UsyAe"><name xml:id="UsyAo">Ἀριστοκλείας</name></persName> <w xml:id="UsyAy">ε̄̓μὶ</w> <w xml:id="UsyAΙ">τᾶς</w> <w xml:id="UsyAΤ">καλᾶς</w> <w xml:id="UsyAε">καλὰ</w> <name xml:id="UsyAο">|</name> <w xml:id="UsyBA">ͱαύτα</w> <w xml:id="UsyBK">δ᾽ε̄̓μὰ</w> <persName type="attested" xml:id="UsyBU"><name xml:id="UsyBe">Πίθαϙος</name></persName> <w xml:id="UsyBo">αἰτε̄́σας</w> <w xml:id="UsyBy">ἔχει</w>
+                        <lb n="1" xml:id="UsyAU"/><persName type="attested" xml:id="UsyAe"><name xml:id="UsyAo"><w>Ἀριστοκλείας</w></name></persName> <w xml:id="UsyAy">ε̄̓μὶ</w> <w xml:id="UsyAΙ">τᾶς</w> <w xml:id="UsyAΤ">καλᾶς</w> <w xml:id="UsyAε">καλὰ</w> <name xml:id="UsyAο"><w>|</w></name> <w xml:id="UsyBA">ͱαύτα</w> <w xml:id="UsyBK">δ᾽ε̄̓μὰ</w> <persName type="attested" xml:id="UsyBU"><name xml:id="UsyBe"><w>Πίθαϙος</w></name></persName> <w xml:id="UsyBo">αἰτε̄́σας</w> <w xml:id="UsyBy">ἔχει</w>
                     </ab>
                 </div>
                 <div type="textpart" subtype="section" n="b">

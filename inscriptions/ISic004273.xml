@@ -185,8 +185,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#DEE">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name>Cassius</name></persName>
-                    <lb n="2"/><persName type="attested"><name>Cassiano</name></persName>
+                    <lb n="1"/><persName type="attested"><name><w>Cassius</w></name></persName>
+                    <lb n="2"/><persName type="attested"><name><w>Cassiano</w></name></persName>
                     <lb n="3"/><w>patri</w> <w>su<supplied reason="omitted">o</supplied></w>
                     <lb n="4"/><w><choice><reg>feci</reg><orig>fecit</orig></choice></w>
                 </ab>

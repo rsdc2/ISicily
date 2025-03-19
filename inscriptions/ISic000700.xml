@@ -191,14 +191,14 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AL">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name type="nomen">Rustiae</name> <name type="cognomen">Fe<hi rend="small">s</hi><hi rend="tall">t</hi><hi rend="small">a</hi>e</name></persName>
-                    <lb n="2"/><w>piae</w> <w><expan><abbr>an</abbr><ex>norum</ex></expan></w> <num value="13">XIII</num>
-                    <lb n="3"/><persName type="attested"><name type="praenomen"><expan><abbr>C</abbr><ex>aius</ex></expan></name> <name type="nomen">Rustius</name> <name type="cognomen"><choice><orig>Eortus</orig><reg>Heortus</reg></choice></name></persName>
+                    <lb n="1"/><persName type="attested"><name type="nomen"><w>Rustiae</w></name> <name type="cognomen"><w>Fe<hi rend="small">s</hi><hi rend="tall">t</hi><hi rend="small">a</hi>e</w></name></persName>
+                    <lb n="2"/><w>piae</w> <w><expan><abbr>an</abbr><ex>norum</ex></expan></w> <num value="13"><w>XIII</w></num>
+                    <lb n="3"/><persName type="attested"><name type="praenomen"><w><expan><abbr>C</abbr><ex>aius</ex></expan></w></name> <name type="nomen"><w>Rustius</w></name> <name type="cognomen"><w><choice><orig>Eortus</orig><reg>Heortus</reg></choice></w></name></persName>
                     <lb n="4"/><w>pater</w>
-                    <lb n="5"/><persName type="attested"><name type="nomen">Alfia</name> <name type="cognomen">Anthe</name></persName>
+                    <lb n="5"/><persName type="attested"><name type="nomen"><w>Alfia</w></name> <name type="cognomen"><w>Anthe</w></name></persName>
                     <lb n="6"/><w>mater</w>
-                    <lb n="7"/><persName type="attested"><name type="nomen"><supplied reason="lost">P</supplied>ublicia</name> <name type="cognomen">Eucarpia</name></persName>
-                    <lb n="8"/><persName type="attested"><name type="nomen"><supplied reason="lost">Pu</supplied>blicius</name> <name type="cognomen">Festus</name></persName>
+                    <lb n="7"/><persName type="attested"><name type="nomen"><w><supplied reason="lost">P</supplied>ublicia</w></name> <name type="cognomen"><w>Eucarpia</w></name></persName>
+                    <lb n="8"/><persName type="attested"><name type="nomen"><w><supplied reason="lost">Pu</supplied>blicius</w></name> <name type="cognomen"><w>Festus</w></name></persName>
                     <lb n="9"/><w>avi</w>
                 </ab>
             </div>

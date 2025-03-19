@@ -191,8 +191,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JH">
                 <ab>
-                    <lb n="1"/><w><abbr>S</abbr></w> <g ref="#interpunct">·</g> <name><abbr>A</abbr></name> <g ref="#interpunct">·</g> <name><abbr>O</abbr></name>
-                    <lb n="2"/><name><abbr>C</abbr></name> <g ref="#interpunct">·</g> <name><abbr>I</abbr></name>
+                    <lb n="1"/><w><abbr>S</abbr></w> <g ref="#interpunct">·</g> <name><w><abbr>A</abbr></w></name> <g ref="#interpunct">·</g> <name><w><abbr>O</abbr></w></name>
+                    <lb n="2"/><name><w><abbr>C</abbr></w></name> <g ref="#interpunct">·</g> <name><w><abbr>I</abbr></w></name>
                 </ab>
             </div>
             <div type="apparatus">

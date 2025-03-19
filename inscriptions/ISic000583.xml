@@ -194,7 +194,7 @@
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
                     <lb n="1"/><w>Italicei</w>
-                    <lb n="2"/><name><expan><abbr>L</abbr><ex>ucium</ex></expan></name> <name>Cornelium</name> <name>Sc<supplied reason="lost">ip</supplied>i<supplied reason="lost">one</supplied>m</name>
+                    <lb n="2"/><name><w><expan><abbr>L</abbr><ex>ucium</ex></expan></w></name> <name><w>Cornelium</w></name> <name><w>Sc<supplied reason="lost">ip</supplied>i<supplied reason="lost">one</supplied>m</w></name>
                     <lb n="3"/><w>honoris</w> <w>caussa</w>
                 </ab>
             </div>

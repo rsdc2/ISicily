@@ -185,7 +185,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#DEE">
                 <ab>
-                    <lb n="1"/><space extent="unknown" unit="character"/><persName type="attested" subtype="imperial"><name type="patronym"><expan><abbr>C</abbr><ex>ai</ex></expan></name> <w><expan><abbr>f</abbr><ex>ilio</ex></expan></w> <name type="cognomen">Augusto</name></persName>
+                    <lb n="1"/><space extent="unknown" unit="character"/><persName type="attested" subtype="imperial"><name type="patronym"><w><expan><abbr>C</abbr><ex>ai</ex></expan></w></name> <w><expan><abbr>f</abbr><ex>ilio</ex></expan></w> <name type="cognomen"><w>Augusto</w></name></persName>
                 </ab>
             </div>
             <div type="apparatus">

@@ -191,8 +191,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#MH">
                 <ab>
-                    <lb n="1"/><w>Arruntia</w> <g ref="#interpunct">·</g> <name>Laudic<supplied reason="lost">e</supplied></name>
-                    <lb n="2"/><w>sibi</w> <g ref="#interpunct">·</g> <w>et</w> <g ref="#interpunct">·</g> <name>Aristoni</name>
+                    <lb n="1"/><w>Arruntia</w> <g ref="#interpunct">·</g> <name><w>Laudic<supplied reason="lost">e</supplied></w></name>
+                    <lb n="2"/><w>sibi</w> <g ref="#interpunct">·</g> <w>et</w> <g ref="#interpunct">·</g> <name><w>Aristoni</w></name>
                     <lb n="3"/><orig>I</orig><gap reason="lost" quantity="9" unit="character" precision="low"/> <w>vo</w>
                     <lb n="4"/><gap reason="lost" quantity="1" unit="line"/>
                 </ab> 

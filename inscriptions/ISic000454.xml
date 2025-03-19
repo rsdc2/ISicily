@@ -193,9 +193,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la">
                 <ab>
-                    <lb n="1"/><w>Locus</w> <name>Syracusa</name>
-                    <lb n="2"/><w><abbr>d</abbr></w> <w><abbr>d</abbr></w> <num value="15">XV</num> <w><abbr>k</abbr></w> <gap reason="illegible" quantity="1" unit="character"/> <orig>EB</orig><name>Berna
-                    <lb n="3" break="no"/>cli</name> <g ref="#sign_uninterpreted"/> <g ref="#palm"/> <!-- uninterpreted sign was called 'three holes' -->
+                    <lb n="1"/><w>Locus</w> <name><w>Syracusa</w></name>
+                    <lb n="2"/><w><abbr>d</abbr></w> <w><abbr>d</abbr></w> <num value="15"><w>XV</w></num> <w><abbr>k</abbr></w> <gap reason="illegible" quantity="1" unit="character"/> <orig>EB</orig><name><w>Berna
+                    <lb n="3" break="no"/>cli</w></name> <g ref="#sign_uninterpreted"/> <g ref="#palm"/> <!-- uninterpreted sign was called 'three holes' -->
                 </ab>
             </div>
             <div type="apparatus">

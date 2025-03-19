@@ -194,8 +194,8 @@
                 <ab>
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">φυ</supplied><unclear>λ</unclear>άρχων</w>
-                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">τοῦ</supplied></w> <name>Τιμαίου</name>
-                    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <w>τοῦ</w> <name>Τίμωνος</name>
+                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">τοῦ</supplied></w> <name><w>Τιμαίου</w></name>
+                    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <w>τοῦ</w> <name><w>Τίμωνος</w></name>
                     <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/> <w>νο<supplied reason="lost">υ</supplied></w>
                 </ab>
             </div>

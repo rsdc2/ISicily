@@ -195,11 +195,11 @@
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#VM">
                 <ab>
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">hic</supplied></w> <w><supplied reason="lost">requi</supplied>esc<supplied reason="lost">it</supplied></w> <w><supplied reason="lost">in</supplied></w> <w><supplied reason="lost">pace</supplied></w>
-                    <lb n="2"/><w><supplied reason="lost">bone</supplied></w> <w><supplied reason="lost">memo</supplied>riae</w> <name>A</name> <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">anno
-                    <lb n="3" break="no"/>rum</supplied> <w><supplied reason="lost">plus</supplied></w> <w>minus</w> <num value="45">XLV</num> <w><supplied reason="lost">die</supplied></w> <w><supplied reason="lost">tali</supplied></w>
-                    <lb n="4"/><w><supplied reason="lost">mens</supplied></w> <name><expan><abbr>A</abbr><ex>u</ex><abbr>g</abbr><ex>usti</ex></expan></name> <w><expan><abbr>ind</abbr><ex>ictione</ex></expan></w> <num value="15">XV</num> <roleName type="supracivic" subtype="imperator"><w><expan><abbr>im<supplied reason="lost">p</supplied></abbr><ex>eratore</ex></expan></w></roleName> <roleName type="supracivic" subtype="dominus"><w><supplied reason="lost"><expan><abbr>d</abbr><ex>omino</ex></expan></supplied></w></roleName> <w><supplied reason="lost"><expan><abbr>n</abbr><ex>ostro</ex></expan></supplied></w>
-                    <lb n="5"/><name><supplied reason="lost">H</supplied>eraclio</name> <w><choice><orig>piisimo</orig><reg>piissimo</reg></choice></w>
-                    <lb n="6"/><w><expan><abbr>s</abbr><ex>emper</ex></expan></w> <name><expan><abbr>A</abbr><ex>ugusto</ex></expan></name>
+                    <lb n="2"/><w><supplied reason="lost">bone</supplied></w> <w><supplied reason="lost">memo</supplied>riae</w> <name><w>A</w></name> <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">anno
+                    <lb n="3" break="no"/>rum</supplied> <w><supplied reason="lost">plus</supplied></w> <w>minus</w> <num value="45"><w>XLV</w></num> <w><supplied reason="lost">die</supplied></w> <w><supplied reason="lost">tali</supplied></w>
+                    <lb n="4"/><w><supplied reason="lost">mens</supplied></w> <name><w><expan><abbr>A</abbr><ex>u</ex><abbr>g</abbr><ex>usti</ex></expan></w></name> <w><expan><abbr>ind</abbr><ex>ictione</ex></expan></w> <num value="15"><w>XV</w></num> <roleName type="supracivic" subtype="imperator"><w><expan><abbr>im<supplied reason="lost">p</supplied></abbr><ex>eratore</ex></expan></w></roleName> <roleName type="supracivic" subtype="dominus"><w><supplied reason="lost"><expan><abbr>d</abbr><ex>omino</ex></expan></supplied></w></roleName> <w><supplied reason="lost"><expan><abbr>n</abbr><ex>ostro</ex></expan></supplied></w>
+                    <lb n="5"/><name><w><supplied reason="lost">H</supplied>eraclio</w></name> <w><choice><orig>piisimo</orig><reg>piissimo</reg></choice></w>
+                    <lb n="6"/><w><expan><abbr>s</abbr><ex>emper</ex></expan></w> <name><w><expan><abbr>A</abbr><ex>ugusto</ex></expan></w></name>
                 </ab>
             </div>
             <div type="apparatus">

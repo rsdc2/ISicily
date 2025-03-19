@@ -192,7 +192,7 @@
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w><space unit="character" quantity="2"/>Aug</w> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <space unit="character" quantity="5"/><name>Cerialis</name> <g ref="#interpunct">·</g> <w>sex<supplied reason="lost" cert="low">vir</supplied></w> <name><supplied reason="lost" cert="low">Augustalis</supplied></name>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <space unit="character" quantity="5"/><name><w>Cerialis</w></name> <g ref="#interpunct">·</g> <w>sex<supplied reason="lost" cert="low">vir</supplied></w> <name><w><supplied reason="lost" cert="low">Augustalis</supplied></w></name>
                     <lb/><space unit="line" quantity="1"/>
                 </ab>
             </div>

@@ -199,10 +199,10 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#martaf #AA">
                 <ab>
                     <lb n="1"/><w>Ἐτελεύτησεν</w>
-                    <lb n="2"/><persName type="attested"><name>Τύχημος</name></persName> <w>τῇ</w>
-                    <lb n="3"/><w><expan><abbr>πρ</abbr><ex>ὸ</ex></expan></w> <num value="15">δεκαπέντε</num> <w>κα
-                    <lb n="4" break="no"/>λανδῶν</w> <name>Ἰενουαρί
-                    <lb n="5" break="no"/>ων</name> <w>ζήσας</w> <w>ἒτη</w> <num value="60">π</num>
+                    <lb n="2"/><persName type="attested"><name><w>Τύχημος</w></name></persName> <w>τῇ</w>
+                    <lb n="3"/><w><expan><abbr>πρ</abbr><ex>ὸ</ex></expan></w> <num value="15"><w>δεκαπέντε</w></num> <w>κα
+                    <lb n="4" break="no"/>λανδῶν</w> <name><w>Ἰενουαρί
+                    <lb n="5" break="no"/>ων</w></name> <w>ζήσας</w> <w>ἒτη</w> <num value="60"><w>π</w></num>
                     <lb n="6"/><w>καλὸν</w> <w>βίον</w> <w>ζήσας</w>
                     <lb n="7"/><w>ἠγόρασεν</w> <w>ἑαυτῷ</w> <w>καὶ</w>
                     <lb n="8"/><w>τοῖς</w> <w>ἠδίοις</w> <g ref="#christogram">☧</g>

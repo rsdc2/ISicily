@@ -194,18 +194,18 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
                     <lb n="0"/><w><expan><abbr><am><g ref="#christogram">☧</g></am></abbr><ex>Χρίστο</ex><abbr>ς</abbr></expan></w>
-                    <lb n="1"/><name>Χρισιάνης</name>
+                    <lb n="1"/><name><w>Χρισιάνης</w></name>
                     <lb n="2"/><w>σεμ<unclear>ν</unclear>ῆς</w> <w>ἀγανό
                     <lb n="3" break="no"/>φρονο<unclear>ς</unclear></w> <w><supplied reason="lost">ἠδ</supplied>ὲ</w> <w>φιλάν
-                    <lb n="4" break="no"/>δρ<hi rend="ligature"><w>ου</w><name>Ν</name></hi><unclear>σσι</unclear>ανῆς</w> <w>τύμ
+                    <lb n="4" break="no"/>δρ<hi rend="ligature"><w>ου</w><name><w>Ν</w></name></hi><unclear>σσι</unclear>ανῆς</w> <w>τύμ
                     <lb n="5" break="no"/>βον</w> <w>εἰσορᾶς</w> <w>φίλε</w> <w>κίμενον</w>
                     <lb n="6"/><w><supplied reason="lost">ὥδε</supplied></w> <w><supplied reason="lost">ἥ</supplied><unclear>τ</unclear>ις</w> <w>σεμνοσύνησιν</w>
-                    <lb n="7"/><w><supplied reason="lost">ἐρίζε</supplied>το</w> <name>Πηνελοπίη</name> <g ref="#palm">⸙</g>
+                    <lb n="7"/><w><supplied reason="lost">ἐρίζε</supplied>το</w> <name><w>Πηνελοπίη</w></name> <g ref="#palm">⸙</g>
                     <lb n="7a"/><g ref="#christogram">☧</g>
                     <lb n="8"/><gap reason="lost" extent="unknown" unit="character"/> <w>ἐνθάδε</w> <w>κῖτε</w>
-                    <lb n="9"/><name><supplied reason="lost">Νασσ</supplied>ιανὴ</name> <w>ζήσασα</w>
+                    <lb n="9"/><name><w><supplied reason="lost">Νασσ</supplied>ιανὴ</w></name> <w>ζήσασα</w>
                     <lb n="10"/><w><supplied reason="lost">ἐν Θεῷ</supplied></w> <w>καλῶς</w> <w>καὶ</w> <w>ἀμέμ
-                    <lb n="11" break="no"/><space quantity="1" unit="character"/>πτος</w> <w>ἔτη</w> <num value="32"><hi rend="supraline">λβ</hi></num>
+                    <lb n="11" break="no"/><space quantity="1" unit="character"/>πτος</w> <w>ἔτη</w> <num value="32"><w><hi rend="supraline">λβ</hi></w></num>
                     <lb n="12"/><w>μῆνας</w> <gap reason="lost" quantity="1" unit="character"/>
                 </ab>
             </div>

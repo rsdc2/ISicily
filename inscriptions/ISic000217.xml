@@ -191,7 +191,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#VM">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>C</abbr><ex>aius</ex></expan></w> <name>Sabidius</name> <name>Artemo</name>
+                    <lb n="1"/><w><expan><abbr>C</abbr><ex>aius</ex></expan></w> <name><w>Sabidius</w></name> <name><w>Artemo</w></name>
                 </ab>
             </div>
             <div type="apparatus">

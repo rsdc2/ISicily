@@ -191,7 +191,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <name><gap reason="lost" extent="unknown" unit="character"/><seg part="F">s</seg></name> <w><expan><abbr>l</abbr><ex cert="low">ibertus</ex></expan></w> <name><seg part="I">Fla</seg><gap reason="lost" extent="unknown" unit="character"/></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <name><w><gap reason="lost" extent="unknown" unit="character"/><seg part="F">s</seg></w></name> <w><expan><abbr>l</abbr><ex cert="low">ibertus</ex></expan></w> <name><w><seg part="I">Fla</seg><gap reason="lost" extent="unknown" unit="character"/></w></name> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <orig>QUI</orig><gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>

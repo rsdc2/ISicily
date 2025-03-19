@@ -174,9 +174,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name>Ἀρτεμο<unclear>ι</unclear></name>
-                    <lb n="2"/><persName type="attested"><name type="patronym">Ἀρτεμιδό
-                    <lb n="3"/><unclear>τ</unclear>ου</name></persName></persName> <w>χαῖρε</w>
+                    <lb n="1"/><persName type="attested"><name><w>Ἀρτεμο<unclear>ι</unclear></w></name>
+                    <lb n="2"/><persName type="attested"><name type="patronym"><w>Ἀρτεμιδό
+                    <lb n="3"/><unclear>τ</unclear>ου</w></name></persName></persName> <w>χαῖρε</w>
                 </ab>
             </div>
             <div type="apparatus" resp="#JP">

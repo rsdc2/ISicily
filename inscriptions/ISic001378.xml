@@ -198,8 +198,8 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#martaf #AA">
                 <ab>
                     <lb n="1"/><w><supplied reason="lost">Ἐνθάδε</supplied></w> <w><supplied reason="lost">κ</supplied>ατάκειται</w>
-                    <lb n="2"/><persName><name><gap reason="lost" extent="unknown" unit="character"/>ρετος</name></persName> <w>ἐτῶν</w>
-                    <lb n="3"/><num><gap reason="lost" extent="unknown" unit="character"/></num>
+                    <lb n="2"/><persName><name><w><gap reason="lost" extent="unknown" unit="character"/>ρετος</w></name></persName> <w>ἐτῶν</w>
+                    <lb n="3"/><num><w><gap reason="lost" extent="unknown" unit="character"/></w></num>
                 </ab>
             </div>
             <div type="apparatus" resp="#martaf">

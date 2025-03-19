@@ -194,13 +194,13 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
                     <lb n="1"/><w><choice><corr>μ</corr><sic>ι</sic></choice>νήσθητι</w> <w>ὁ</w> <w><expan><abbr>θ</abbr><ex>εὸ</ex><abbr><choice><corr>ς</corr><sic>ι</sic></choice></abbr></expan></w> <w>τ<hi rend="ligature">ῆς</hi></w>
-                    <lb n="2"/><w>δούλης</w> <w>σου</w> <name>Χρυσίδο<choice><corr>ς</corr><sic>ι</sic></choice></name>
+                    <lb n="2"/><w>δούλης</w> <w>σου</w> <name><w>Χρυσίδο<choice><corr>ς</corr><sic>ι</sic></choice></w></name>
                     <lb n="3"/><w>καὶ</w> <w>δὸς</w> <w>αὐτῇ</w> <w>χώραν</w> <w>φω
                     <lb n="4" break="no"/>τινὴν</w> <w>τόπον</w> <w>ἀναψύ
-                    <lb n="5" break="no"/>ξεως</w> <w>εἰς</w> <w>κόλφους</w> <name>Ἀβρα
-                    <lb n="6" break="no"/>άμ</name> <name>Ἰσαὰκ</name> <w><expan><abbr>κ</abbr><ex>αὶ</ex></expan></w> <name>Ἰακώβ</name> <w>ἀνηπ<choice><corr>α</corr><sic>λ</sic></choice>ύ
+                    <lb n="5" break="no"/>ξεως</w> <w>εἰς</w> <w>κόλφους</w> <name><w>Ἀβρα
+                    <lb n="6" break="no"/>άμ</w></name> <name><w>Ἰσαὰκ</w></name> <w><expan><abbr>κ</abbr><ex>αὶ</ex></expan></w> <name><w>Ἰακώβ</w></name> <w>ἀνηπ<choice><corr>α</corr><sic>λ</sic></choice>ύ
                     <lb n="7" break="no"/>σατο</w> <w>ἡ</w> <w>μακαρίας</w> <w><hi rend="ligature">μνήμης</hi></w> <w><supplied reason="omitted">τ</supplied>ῇ</w>
-                    <lb n="8"/><w>πρ<choice><corr>ὸ</corr><sic>α</sic></choice></w> <num value="1">α</num> <w>νων<hi rend="ligature">ῶν</hi></w> <name>Μαίων</name>
+                    <lb n="8"/><w>πρ<choice><corr>ὸ</corr><sic>α</sic></choice></w> <num value="1"><w>α</w></num> <w>νων<hi rend="ligature">ῶν</hi></w> <name><w>Μαίων</w></name>
                     <lb n="9"/><gap reason="lost" extent="unknown" unit="character"/> <orig>ΥΤΙΕΚΤΔ</orig><space extent="unknown" unit="character"/><orig>Ψ</orig>
                     <lb n="10"/><gap reason="lost" extent="unknown" unit="character"/> <orig>ΕΙΤΔ</orig><space extent="unknown" unit="character"/><orig>Δ</orig>
                 </ab>

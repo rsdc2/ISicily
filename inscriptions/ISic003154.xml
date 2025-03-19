@@ -197,7 +197,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#martaf #KA">
                 <ab>
-                    <lb n="1"/><w><supplied reason="lost" cert="low">ἡ</supplied></w> <w><supplied reason="lost" cert="low">πόλις</supplied></w> <placeName type="ethnic"><name><supplied reason="lost">Ἰουλιέων</supplied></name></placeName> <w><supplied reason="lost">τών</supplied></w> <w><supplied reason="lost">καὶ</supplied></w> <placeName type="ethnic"><name><supplied reason="lost">Λ</supplied></name> <w>αοδικέ
+                    <lb n="1"/><w><supplied reason="lost" cert="low">ἡ</supplied></w> <w><supplied reason="lost" cert="low">πόλις</supplied></w> <placeName type="ethnic"><name><w><supplied reason="lost">Ἰουλιέων</supplied></w></name></placeName> <w><supplied reason="lost">τών</supplied></w> <w><supplied reason="lost">καὶ</supplied></w> <placeName type="ethnic"><name><w><supplied reason="lost">Λ</supplied></w></name> <w>αοδικέ
                     <lb n="2" break="no"/></w> <w><supplied reason="lost">ων</supplied></w></placeName> <w><supplied reason="lost">τῶν</supplied></w> <w><supplied reason="lost">πρὸς</supplied></w> <w><supplied reason="lost">θαλάσσῃ</supplied></w> <w><supplied reason="lost">τ</supplied>ῆς</w> <w>ἱερᾶς</w>
                     <lb n="3"/><w><supplied reason="lost">καὶ</supplied></w> <w><supplied reason="lost">ἀσύλου</supplied></w> <w><supplied reason="lost">καὶ</supplied></w> <w><supplied reason="lost">αὐτονό</supplied>μου</w>
                     <lb n="4"/><gap reason="lost" extent="unknown" unit="line"/>

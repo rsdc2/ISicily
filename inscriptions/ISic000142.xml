@@ -220,11 +220,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#TA #AA">
                 <ab>
-                    <lb n="1" xml:id="AOUAK"/><persName type="divine" xml:id="AOUAU"><name xml:id="AOUAe"><expan xml:id="AOUAo"><abbr xml:id="AOUAy">D</abbr><ex xml:id="AOUAΙ">is</ex></expan></name> <name xml:id="AOUAΤ"><expan xml:id="AOUAε"><abbr xml:id="AOUAο">M</abbr><ex xml:id="AOUBA">anibus</ex></expan></name></persName>
-                    <lb n="2" xml:id="AOUBK"/><persName type="attested" xml:id="AOUBU"><name xml:id="AOUBe"><expan xml:id="AOUBo"><abbr xml:id="AOUBy">Cn</abbr><ex xml:id="AOUBΙ">aeus</ex></expan></name> <name xml:id="AOUBΤ">Kanius</name>
-                    <lb n="3" xml:id="AOUBε"/><name xml:id="AOUBο">Lucillianus</name></persName>
+                    <lb n="1" xml:id="AOUAK"/><persName type="divine" xml:id="AOUAU"><name xml:id="AOUAe"><w><expan xml:id="AOUAo"><abbr xml:id="AOUAy">D</abbr><ex xml:id="AOUAΙ">is</ex></expan></w></name> <name xml:id="AOUAΤ"><w><expan xml:id="AOUAε"><abbr xml:id="AOUAο">M</abbr><ex xml:id="AOUBA">anibus</ex></expan></w></name></persName>
+                    <lb n="2" xml:id="AOUBK"/><persName type="attested" xml:id="AOUBU"><name xml:id="AOUBe"><w><expan xml:id="AOUBo"><abbr xml:id="AOUBy">Cn</abbr><ex xml:id="AOUBΙ">aeus</ex></expan></w></name> <name xml:id="AOUBΤ"><w>Kanius</w></name>
+                    <lb n="3" xml:id="AOUBε"/><name xml:id="AOUBο"><w>Lucillianus</w></name></persName>
                     <lb n="4" xml:id="AOUCA"/><w xml:id="AOUCK">vixit<surplus xml:id="AOUCU">it</surplus></w> <g ref="#interpunct" xml:id="AOUCe">·</g> <w xml:id="AOUCo">an
-                    <lb n="5" break="no" xml:id="AOUCy"/>nos</w> <num value="38" xml:id="AOUCΙ">XXXVIII</num>
+                    <lb n="5" break="no" xml:id="AOUCy"/>nos</w> <num value="38" xml:id="AOUCΙ"><w>XXXVIII</w></num>
                 </ab>
             </div>
             <div type="apparatus">

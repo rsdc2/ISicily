@@ -179,9 +179,9 @@
             <div type="edition" xml:space="preserve" subtype="PHI" n="PHI334837">
                 <ab>
                     <lb n="1"/><w>Πομπηίας</w>
-                    <lb n="2"/><name>Ἑκάλης</name>
-                    <lb n="3"/><name>Καικί</name> <w><unclear>ν</unclear></w> <name><supplied reason="lost">— —</supplied></name>
-                    <lb n="4"/><name>․</name> <name><supplied reason="lost">— — — —</supplied></name>
+                    <lb n="2"/><name><w>Ἑκάλης</w></name>
+                    <lb n="3"/><name><w>Καικί</w></name> <w><unclear>ν</unclear></w> <name><w><supplied reason="lost">— —</supplied></w></name>
+                    <lb n="4"/><name><w>․</w></name> <name><w><supplied reason="lost">— — — —</supplied></w></name>
                     <lb n="5"/>
                 </ab>
             </div>

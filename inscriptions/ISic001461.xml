@@ -195,8 +195,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/><w>οἴμοι</w> <w>ὀ͂</w> <name>Eὐρυφο͂ν</name>
-                    <lb n="2"/><w>hο</w> <name>Ἀρχινίδα</name>
+                    <lb n="1"/><w>οἴμοι</w> <w>ὀ͂</w> <name><w>Eὐρυφο͂ν</w></name>
+                    <lb n="2"/><w>hο</w> <name><w>Ἀρχινίδα</w></name>
                 </ab>
             </div>
             <div type="apparatus">

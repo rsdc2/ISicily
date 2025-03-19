@@ -186,8 +186,8 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#IG">
                 <ab>
                     <lb n="1"/><w>Τόπος</w>
-                    <lb n="2"/><name>Κυρ<supplied reason="omitted">ι</supplied>ακ
-                    <lb n="3" break="no"/>ὸς</name> <g ref="#sigma">Σ</g> <g ref="#staurogram">𐆠</g> <g ref="#omega">Ω</g>
+                    <lb n="2"/><name><w>Κυρ<supplied reason="omitted">ι</supplied>ακ
+                    <lb n="3" break="no"/>ὸς</w></name> <g ref="#sigma">Σ</g> <g ref="#staurogram">𐆠</g> <g ref="#omega">Ω</g>
                 </ab>
                </div>
             <div type="apparatus">

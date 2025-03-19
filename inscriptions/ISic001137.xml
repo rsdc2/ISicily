@@ -191,7 +191,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#MH">
                 <ab>
-                    <lb n="1"/><name>Βαλ<supplied reason="lost">ερί</supplied>α</name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><name><w>Βαλ<supplied reason="lost">ερί</supplied>α</w></name> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="2"/><w>ἡ</w> <w>τὸν</w> <w>βίο<supplied reason="lost">ν εὐ</supplied>
                     <lb n="3" break="no"/>πρεπ<supplied reason="lost">ῶ</supplied></w> <w>β<supplied reason="lost">ιώσα</supplied>
                     <lb n="4" break="no"/>σα</w> <w><supplied reason="lost">ἔ</supplied>ζη<supplied reason="lost">σεν ἔτη<desc>number</desc></supplied></w>

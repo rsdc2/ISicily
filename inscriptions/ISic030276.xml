@@ -181,20 +181,20 @@
                 <ab>
                     <cb n="1"/>
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w>ατά<supplied reason="lost">ν</supplied>ου</w>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <name><supplied reason="lost" cert="low">Ἡ</supplied>γησάνδρου</name>
-                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <w>ας</w> <name>Κυπίου</name>
-                    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <name>Καρᾶ</name>
-                    <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/> <name><supplied reason="lost" cert="low">Π</supplied>υρρία</name>
-                    <lb n="6"/><gap reason="lost" extent="unknown" unit="character"/> <w>ος</w> <name>Καρᾶ</name>
-                    <lb n="7"/><gap reason="lost" extent="unknown" unit="character"/> <name><supplied reason="lost" cert="low">Π</supplied>υρίνου</name> <cb n="2"/>
-                    <lb n="8"/><name>Αισ</name> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="9"/><name>Γρα</name> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="10"/><name>Νεμ</name> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="11"/><name>Ἱππία<supplied reason="lost">ς</supplied></name> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="12"/><name>Πολυ</name> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="13"/><name>Νικίας</name> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="14"/><name>Κεντ</name> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="15"/><name>Νικο</name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <name><w><supplied reason="lost" cert="low">Ἡ</supplied>γησάνδρου</w></name>
+                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <w>ας</w> <name><w>Κυπίου</w></name>
+                    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <name><w>Καρᾶ</w></name>
+                    <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/> <name><w><supplied reason="lost" cert="low">Π</supplied>υρρία</w></name>
+                    <lb n="6"/><gap reason="lost" extent="unknown" unit="character"/> <w>ος</w> <name><w>Καρᾶ</w></name>
+                    <lb n="7"/><gap reason="lost" extent="unknown" unit="character"/> <name><w><supplied reason="lost" cert="low">Π</supplied>υρίνου</w></name> <cb n="2"/>
+                    <lb n="8"/><name><w>Αισ</w></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="9"/><name><w>Γρα</w></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="10"/><name><w>Νεμ</w></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="11"/><name><w>Ἱππία<supplied reason="lost">ς</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="12"/><name><w>Πολυ</w></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="13"/><name><w>Νικίας</w></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="14"/><name><w>Κεντ</w></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="15"/><name><w>Νικο</w></name> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>
             <div type="apparatus" resp="#JP">

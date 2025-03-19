@@ -175,7 +175,7 @@
             <div type="edition" xml:space="preserve" xml:lang="xly-Grek">
                 <ab>
                     <lb n="1"/><w>ΗΕ</w>
-                    <lb n="2"/><name><hi rend="reversed">Λ</hi></name><note>uncertain interpretation</note>
+                    <lb n="2"/><name><w><hi rend="reversed">Λ</hi></w></name><note>uncertain interpretation</note>
                 </ab>
             </div>
             <div type="edition" xml:space="preserve" subtype="transliteration" xml:lang="xly-Latn">

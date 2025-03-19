@@ -197,7 +197,7 @@
                 <div type="textpart" subtype="section" n="b">
                     <ab>
                         <milestone unit="face" n="b"/>
-                        <lb n="1"/><handShift new="#h1"/><num value="3">τρίτα</num>
+                        <lb n="1"/><handShift new="#h1"/><num value="3"><w>τρίτα</w></num>
                     </ab>
                 </div>
             </div>

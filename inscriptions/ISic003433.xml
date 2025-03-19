@@ -199,10 +199,10 @@
         <body>
                 <div type="edition" xml:space="preserve" xml:lang="grc" resp="#ME">
                 <ab>
-                    <lb n="1"/><g ref="#ivy-leaf"/> <w><expan><abbr>D</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <name><expan><abbr>M</abbr><ex>anibus</ex></expan></name> <g ref="#interpunct">·</g> <g ref="#ivy-leaf"/>
-                    <lb n="2"/><persName type="attested"><name><choice><orig>Belleia</orig><reg>Velleia</reg></choice></name> <g ref="#interpunct">·</g> <name>Vesonia</name></persName> <g ref="#interpunct">·</g> <w><expan><abbr>vix</abbr><ex>it</ex></expan></w> <g ref="#interpunct">·</g>
-                    <lb n="3"/><w><expan><abbr>ann</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <num value="34">XXXIIII</num> <g ref="#interpunct">·</g> <name><expan><abbr>L</abbr><ex>ucius</ex></expan></name> <g ref="#interpunct">·</g> <name>Ostrius</name> <g ref="#interpunct">·</g>
-                    <lb n="4"/><name>Crescens</name> <g ref="#interpunct">·</g> <w>uxori</w> <g ref="#interpunct">·</g> <w>rarissimae</w> <g ref="#interpunct">·</g>
+                    <lb n="1"/><g ref="#ivy-leaf"/> <w><expan><abbr>D</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <name><w><expan><abbr>M</abbr><ex>anibus</ex></expan></w></name> <g ref="#interpunct">·</g> <g ref="#ivy-leaf"/>
+                    <lb n="2"/><persName type="attested"><name><w><choice><orig>Belleia</orig><reg>Velleia</reg></choice></w></name> <g ref="#interpunct">·</g> <name><w>Vesonia</w></name></persName> <g ref="#interpunct">·</g> <w><expan><abbr>vix</abbr><ex>it</ex></expan></w> <g ref="#interpunct">·</g>
+                    <lb n="3"/><w><expan><abbr>ann</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <num value="34"><w>XXXIIII</w></num> <g ref="#interpunct">·</g> <name><w><expan><abbr>L</abbr><ex>ucius</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w>Ostrius</w></name> <g ref="#interpunct">·</g>
+                    <lb n="4"/><name><w>Crescens</w></name> <g ref="#interpunct">·</g> <w>uxori</w> <g ref="#interpunct">·</g> <w>rarissimae</w> <g ref="#interpunct">·</g>
                 </ab>
             </div>
             <div type="apparatus">

@@ -173,10 +173,10 @@
                 <ab>
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <gap reason="illegible" unit="character" quantity="1"/>
                     <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w part="F"><unclear>θ</unclear>ις</w> <w>αὐ<hi rend="ligature">τῆ</hi><hi rend="small">ς</hi></w>
-                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <w>ἔ<hi rend="ligature">τη</hi></w> <g ref="#interpunct">·</g> <num value="74" cert="low">δο</num>
-                    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <w part="F">η</w> <name>Ἀφρικανὴ</name>
+                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <w>ἔ<hi rend="ligature">τη</hi></w> <g ref="#interpunct">·</g> <num value="74" cert="low"><w>δο</w></num>
+                    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <w part="F">η</w> <name><w>Ἀφρικανὴ</w></name>
                     <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">σε</supplied><unclear>μ</unclear>νοτά<hi rend="ligature">τη</hi></w>
-                    <lb n="6"/><gap reason="lost" extent="unknown" unit="character"/> <gap reason="illegible" unit="character" quantity="1"/> <g ref="#interpunct">·</g> <name>Η</name>
+                    <lb n="6"/><gap reason="lost" extent="unknown" unit="character"/> <gap reason="illegible" unit="character" quantity="1"/> <g ref="#interpunct">·</g> <name><w>Η</w></name>
                 </ab>
              </div>
             <div type="apparatus" resp="#JP">

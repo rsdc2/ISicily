@@ -183,11 +183,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
-                    <lb n="1"/><persName type="attested"><supplied reason="lost" cert="low"> <name>
-                                <expan><abbr>L</abbr><ex>ucius</ex></expan></name>
-                        </supplied> <supplied reason="lost" cert="low"> <name>Plinius</name></supplied> <supplied reason="lost" cert="low"> <name>
-                                <expan><abbr>L</abbr><ex>uci</ex></expan></name>
-                        </supplied> <w><supplied reason="lost" cert="low"><expan><abbr>f</abbr><ex>ilius</ex></expan></supplied></w> <name><supplied reason="lost" cert="low">Ruf</supplied>us</name></persName> <roleName type="supracivic" subtype="legatus.pro.praetore"><w><expan><abbr>leg</abbr><ex>atus</ex></expan></w> <w>pro</w> <w><expan><abbr>pr</abbr><ex>aetore</ex></expan></w></roleName> <roleName type="supracivic" subtype="praetor.designatus"><w><expan><abbr>pr</abbr><ex>aetor</ex></expan></w> <w><expan><abbr>desig</abbr><ex>natus</ex></expan></w></roleName> <persName type="divine"><name>Veneri</name> <name type="epithet">Eque <supplied reason="lost">stri</supplied></name></persName> <w><supplied reason="lost" cert="low"><expan><abbr>don</abbr><ex>um</ex></expan></supplied></w> <w><supplied reason="lost" cert="low"><expan><abbr>ded</abbr><ex>it</ex></expan></supplied></w>
+                    <lb n="1"/><persName type="attested"><supplied reason="lost" cert="low"> <name><w>
+                                <expan><abbr>L</abbr><ex>ucius</ex></expan></w></name>
+                        </supplied> <supplied reason="lost" cert="low"> <name><w>Plinius</w></name></supplied> <supplied reason="lost" cert="low"> <name><w>
+                                <expan><abbr>L</abbr><ex>uci</ex></expan></w></name>
+                        </supplied> <w><supplied reason="lost" cert="low"><expan><abbr>f</abbr><ex>ilius</ex></expan></supplied></w> <name><w><supplied reason="lost" cert="low">Ruf</supplied>us</w></name></persName> <roleName type="supracivic" subtype="legatus.pro.praetore"><w><expan><abbr>leg</abbr><ex>atus</ex></expan></w> <w>pro</w> <w><expan><abbr>pr</abbr><ex>aetore</ex></expan></w></roleName> <roleName type="supracivic" subtype="praetor.designatus"><w><expan><abbr>pr</abbr><ex>aetor</ex></expan></w> <w><expan><abbr>desig</abbr><ex>natus</ex></expan></w></roleName> <persName type="divine"><name><w>Veneri</w></name> <name type="epithet"><w>Eque <supplied reason="lost">stri</supplied></w></name></persName> <w><supplied reason="lost" cert="low"><expan><abbr>don</abbr><ex>um</ex></expan></supplied></w> <w><supplied reason="lost" cert="low"><expan><abbr>ded</abbr><ex>it</ex></expan></supplied></w>
                 </ab>
             </div>
             <div type="apparatus">

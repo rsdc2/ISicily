@@ -190,7 +190,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <roleName type="supracivic" subtype="tribunicia.potestas"><w><expan><abbr>trib</abbr><ex>unicia</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>pot</abbr><ex>estate</ex></expan></w></roleName> <num atLeast="5" atMost="8">V<gap reason="lost" extent="unknown" unit="character"/></num> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <roleName type="supracivic" subtype="tribunicia.potestas"><w><expan><abbr>trib</abbr><ex>unicia</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>pot</abbr><ex>estate</ex></expan></w></roleName> <num atLeast="5" atMost="8"><w>V<gap reason="lost" extent="unknown" unit="character"/></w></num> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w><expan><abbr>p</abbr><ex>ecunia</ex></expan></w> <w><expan><abbr>p</abbr><ex>ublica</ex></expan></w> <w><expan><abbr>d</abbr><ex>ecreto</ex></expan></w> <roleName type="civic" subtype="decurio"><w><expan><abbr>d</abbr><ex>ecurionum</ex></expan></w></roleName>
                 </ab>
             </div>

@@ -191,8 +191,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/><w>τόπος</w> <name>Εὐάν
-                    <lb n="2" break="no"/>θ<hi rend="ligature">ης</hi></name> <w>καὶ</w> <name>Ζοήλου</name>
+                    <lb n="1"/><w>τόπος</w> <name><w>Εὐάν
+                    <lb n="2" break="no"/>θ<hi rend="ligature">ης</hi></w></name> <w>καὶ</w> <name><w>Ζοήλου</w></name>
                     <lb n="3"/><g ref="#christogram">☧</g> <g ref="#figure_zoomorphic"/>
                 </ab>
             </div>

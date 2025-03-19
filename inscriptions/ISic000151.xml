@@ -208,8 +208,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#TA #AA">
                 <ab>
-                    <lb n="1" xml:id="APKAK"/><persName type="attested" xml:id="APKAU"><name xml:id="APKAe"><expan xml:id="APKAo"><abbr xml:id="APKAy">T</abbr><ex xml:id="APKAΙ">itus</ex></expan></name> <g ref="#interpunct" xml:id="APKAΤ">·</g> <name xml:id="APKAε">Cispius</name> <g ref="#interpunct" xml:id="APKAο">·</g> <persName type="attested" xml:id="APKBA"><name type="libertinatio" xml:id="APKBK"><expan xml:id="APKBU"><abbr xml:id="APKBe">T</abbr><ex xml:id="APKBo">iti</ex></expan></name></persName> <g ref="#interpunct" xml:id="APKBy">·</g> <w xml:id="APKBΙ"><expan xml:id="APKBΤ"><abbr xml:id="APKBε"><unclear xml:id="APKBο">l</unclear></abbr><ex xml:id="APKCA">ibertus</ex></expan></w>
-                    <lb n="2" xml:id="APKCK"/><g ref="#ivy-leaf" xml:id="APKCU">❦</g> <name xml:id="APKCe">Eros</name></persName> <g ref="#ivy-leaf" xml:id="APKCo">❦</g>
+                    <lb n="1" xml:id="APKAK"/><persName type="attested" xml:id="APKAU"><name xml:id="APKAe"><w><expan xml:id="APKAo"><abbr xml:id="APKAy">T</abbr><ex xml:id="APKAΙ">itus</ex></expan></w></name> <g ref="#interpunct" xml:id="APKAΤ">·</g> <name xml:id="APKAε"><w>Cispius</w></name> <g ref="#interpunct" xml:id="APKAο">·</g> <persName type="attested" xml:id="APKBA"><name type="libertinatio" xml:id="APKBK"><w><expan xml:id="APKBU"><abbr xml:id="APKBe">T</abbr><ex xml:id="APKBo">iti</ex></expan></w></name></persName> <g ref="#interpunct" xml:id="APKBy">·</g> <w xml:id="APKBΙ"><expan xml:id="APKBΤ"><abbr xml:id="APKBε"><unclear xml:id="APKBο">l</unclear></abbr><ex xml:id="APKCA">ibertus</ex></expan></w>
+                    <lb n="2" xml:id="APKCK"/><g ref="#ivy-leaf" xml:id="APKCU">❦</g> <name xml:id="APKCe"><w>Eros</w></name></persName> <g ref="#ivy-leaf" xml:id="APKCo">❦</g>
                     <lb n="3" xml:id="APKCy"/><g ref="#ivy-leaf" xml:id="APKCΙ">❦</g> <space unit="character" quantity="2" xml:id="APKCΤ"/><g ref="#ivy-leaf" xml:id="APKCε">❦</g>
                 </ab>
             </div>

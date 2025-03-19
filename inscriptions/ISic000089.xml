@@ -192,8 +192,8 @@
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#TA">
                 <ab>
                     <lb n="1"/><w>divo</w>
-                    <lb n="2"/><name>Antonino</name>
-                    <lb n="3"/><name>Augusto</name>
+                    <lb n="2"/><name><w>Antonino</w></name>
+                    <lb n="3"/><name><w>Augusto</w></name>
                 </ab>
             </div>
             <div type="apparatus">

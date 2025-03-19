@@ -189,8 +189,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1" xml:id="BKΤAK"/><w xml:id="BKΤAU">ὁ</w> <w xml:id="BKΤAe">δᾶμος</w> <w xml:id="BKΤAo">τῶν</w> <name xml:id="BKΤAy">Ἐγεσταίων</name> <name xml:id="BKΤAΙ">Φάλα<supplied reason="lost" xml:id="BKΤAΤ">κρον</supplied></name>
-                    <lb n="2" xml:id="BKΤAε"/><name xml:id="BKΤAο"><supplied reason="lost" xml:id="BKΤBA">Δ</supplied>ιοδ<unclear xml:id="BKΤBK">ώ</unclear>ρου</name> <name xml:id="BKΤBU">Ἐρύσσιον</name> <w xml:id="BKΤBe">ἀρετᾶς</w> <w xml:id="BKΤBo">ἕνε<supplied reason="lost" xml:id="BKΤBy">κα</supplied></w>
+                    <lb n="1" xml:id="BKΤAK"/><w xml:id="BKΤAU">ὁ</w> <w xml:id="BKΤAe">δᾶμος</w> <w xml:id="BKΤAo">τῶν</w> <name xml:id="BKΤAy"><w>Ἐγεσταίων</w></name> <name xml:id="BKΤAΙ"><w>Φάλα<supplied reason="lost" xml:id="BKΤAΤ">κρον</supplied></w></name>
+                    <lb n="2" xml:id="BKΤAε"/><name xml:id="BKΤAο"><w><supplied reason="lost" xml:id="BKΤBA">Δ</supplied>ιοδ<unclear xml:id="BKΤBK">ώ</unclear>ρου</w></name> <name xml:id="BKΤBU"><w>Ἐρύσσιον</w></name> <w xml:id="BKΤBe">ἀρετᾶς</w> <w xml:id="BKΤBo">ἕνε<supplied reason="lost" xml:id="BKΤBy">κα</supplied></w>
                 </ab>
             </div>
             <div type="apparatus">

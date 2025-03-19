@@ -188,8 +188,8 @@
                 <ab>
                     <lb n="0a"/><gap reason="lost" extent="unknown" unit="line"/>
                     <lb n="1"/><gap reason="illegible" extent="unknown" unit="character"/>
-                    <lb n="2"/><g ref="#interpunct">·</g> <num value="18">ι <g ref="#interpunct">·</g>η</num> <g ref="#interpunct">·</g>
-                    <lb n="3"/><name><expan><abbr>Ἰο<g ref="#interpunct">·</g>ύλι</abbr><ex>ος</ex></expan></name> <g ref="#interpunct">·</g> <name><expan><abbr>Ἰοῦσ</abbr><ex>τος</ex></expan></name>
+                    <lb n="2"/><g ref="#interpunct">·</g> <num value="18"><w>ι <g ref="#interpunct">·</g>η</w></num> <g ref="#interpunct">·</g>
+                    <lb n="3"/><name><w><expan><abbr>Ἰο<g ref="#interpunct">·</g>ύλι</abbr><ex>ος</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w><expan><abbr>Ἰοῦσ</abbr><ex>τος</ex></expan></w></name>
                     <lb n="4"/><w><expan><abbr>συν<g ref="#interpunct">·</g>βίο</abbr><ex>ς</ex></expan></w> <g ref="#interpunct">·</g> <w>εὐ
                     <lb n="5" break="no"/>σε<surplus>βε</surplus>βές</w> <g ref="#interpunct">·</g>
                     <lb n="0b"/><gap reason="lost" extent="unknown" unit="line"/>

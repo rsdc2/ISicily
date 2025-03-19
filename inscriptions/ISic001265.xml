@@ -189,9 +189,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#AL">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name type="nomen">Φαβεία</name>
-                    <lb n="2"/><name type="cognomen">Εἰγνα
-                    <lb n="3" break="no"/>τιανὴ</name></persName>
+                    <lb n="1"/><persName type="attested"><name type="nomen"><w>Φαβεία</w></name>
+                    <lb n="2"/><name type="cognomen"><w>Εἰγνα
+                    <lb n="3" break="no"/>τιανὴ</w></name></persName>
                 </ab>
             </div>
             <div type="apparatus">

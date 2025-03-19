@@ -170,18 +170,18 @@
       <body>
          <div type="edition" xml:space="preserve" xml:lang="grc" resp="#RDS">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>Ἐπ</abbr><ex>ὶ</ex></expan></w> <w>ἱαραπόλου</w> <name>Ὄρθωνος</name> <name>Θευδα<supplied reason="lost">ισίου</supplied></name> <gap reason="lost" extent="unknown" unit="character"><desc>numeral indicating the day of the month</desc></gap> <w>ὠνεῖτα<supplied reason="lost">ι</supplied></w> <w><supplied reason="lost">ἀμπέ</supplied>
+                    <lb n="1"/><w><expan><abbr>Ἐπ</abbr><ex>ὶ</ex></expan></w> <w>ἱαραπόλου</w> <name><w>Ὄρθωνος</w></name> <name><w>Θευδα<supplied reason="lost">ισίου</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"><desc>numeral indicating the day of the month</desc></gap> <w>ὠνεῖτα<supplied reason="lost">ι</supplied></w> <w><supplied reason="lost">ἀμπέ</supplied>
                     <lb n="2" break="no"/>λους</w> <w>καὶ</w> <w>τὰ</w> <w>ἑπόμενα</w> <w>πάντα</w> <w>ταῖς</w> <w><supplied reason="lost">ἀμ</supplied>πέλοις</w> <w>κα<unclear>ὶ</unclear></w> <w><supplied reason="lost">τᾶς</supplied></w> <w><supplied reason="lost">λα</supplied>
                     <lb n="3" break="no"/>νοῦ</w> <w>δύο</w> <w>μέρεα</w> <w>τῶν</w> <w>δ’</w> <w>ἄλλων</w> <w>τὰ</w> <w>ἥμισσα</w> <w>τοῦ</w> <w>στα<supplied reason="lost">θ</supplied><unclear>μ</unclear>ο<supplied reason="lost">ῦ</supplied></w>
                     <lb n="4"/><w>παντὸς</w> <w>ὅ</w> <w>κ’</w> <w>ἦ</w> <w><supplied reason="lost">ἐ</supplied>μ</w> <w>βασίεσσιν</w> <w>καὶ</w> <w>τῶν</w> <w>ἄλλων</w> <w>ἐντ<supplied reason="lost">ὸς</supplied></w>
-                    <lb n="5"/><w>τὰ</w> <w>ἥμισσα</w> <name>Λύσων</name> <name>Ἱππία</name> <num value="115">ΠΔΗ</num> <num value="21">Τ<unclear>Δ</unclear>Δ</num> <w>πὰρ</w> <name>Θέστωνος</name> <!--unclear how to encode the numeral "closed" eta with top and bottom horizontal bars, deltas have bars above, not clear how to encode that either-->
-                    <lb n="6"/><name>Δαμάρχου</name> <w>καὶ</w> <w><surplus>παι</surplus></w> <w>πὰρ</w> <name>Σατύρου</name> <name>Δάμωνος</name> <w>ὀρφο
-                    <lb n="7" break="no"/>βωτᾶν</w> <w>ἐόντων</w> <w>πλὰν</w> <w>τῶν</w> <w>ἱερῶν</w> <name>Ἄμποχοι</name> <name>Νικίας</name> <name>Κρατί<supplied reason="lost">α</supplied></name>
-                    <lb n="8"/><name>Ἐμμενίδας</name> <name>Δάμωνος</name> <name>Θεύδωρος</name> <name>Εὐπολέμου</name>
-                    <lb n="9"/><name>Φιλωνίδας</name> <name>Ἡρακλείδα</name> <name>Ἱάρων</name> <name>Φιλίαρχου</name>
-                    <lb n="10"/><name>Φιλίαρχος</name> <name>Ἐπολλωνίδα</name> <name>Δείνων</name> <name>Φιντία</name>
-                    <lb n="11"/><name>Φίλων</name> <name>Ἐμμενίδα</name> <name>Πολύξενος</name> <name>Ἐμμεν<supplied reason="lost">ί</supplied><unclear>δ</unclear><supplied reason="lost">α</supplied></name>
-                    <lb n="12"/><name><unclear>Π</unclear>υρρίας</name> <name>Καραίκου</name>
+                    <lb n="5"/><w>τὰ</w> <w>ἥμισσα</w> <name><w>Λύσων</w></name> <name><w>Ἱππία</w></name> <num value="115"><w>ΠΔΗ</w></num> <num value="21"><w>Τ<unclear>Δ</unclear>Δ</w></num> <w>πὰρ</w> <name><w>Θέστωνος</w></name> <!--unclear how to encode the numeral "closed" eta with top and bottom horizontal bars, deltas have bars above, not clear how to encode that either-->
+                    <lb n="6"/><name><w>Δαμάρχου</w></name> <w>καὶ</w> <w><surplus>παι</surplus></w> <w>πὰρ</w> <name><w>Σατύρου</w></name> <name><w>Δάμωνος</w></name> <w>ὀρφο
+                    <lb n="7" break="no"/>βωτᾶν</w> <w>ἐόντων</w> <w>πλὰν</w> <w>τῶν</w> <w>ἱερῶν</w> <name><w>Ἄμποχοι</w></name> <name><w>Νικίας</w></name> <name><w>Κρατί<supplied reason="lost">α</supplied></w></name>
+                    <lb n="8"/><name><w>Ἐμμενίδας</w></name> <name><w>Δάμωνος</w></name> <name><w>Θεύδωρος</w></name> <name><w>Εὐπολέμου</w></name>
+                    <lb n="9"/><name><w>Φιλωνίδας</w></name> <name><w>Ἡρακλείδα</w></name> <name><w>Ἱάρων</w></name> <name><w>Φιλίαρχου</w></name>
+                    <lb n="10"/><name><w>Φιλίαρχος</w></name> <name><w>Ἐπολλωνίδα</w></name> <name><w>Δείνων</w></name> <name><w>Φιντία</w></name>
+                    <lb n="11"/><name><w>Φίλων</w></name> <name><w>Ἐμμενίδα</w></name> <name><w>Πολύξενος</w></name> <name><w>Ἐμμεν<supplied reason="lost">ί</supplied><unclear>δ</unclear><supplied reason="lost">α</supplied></w></name>
+                    <lb n="12"/><name><w><unclear>Π</unclear>υρρίας</w></name> <name><w>Καραίκου</w></name>
                 </ab>
          </div>
          <div type="apparatus" resp="#RDS">

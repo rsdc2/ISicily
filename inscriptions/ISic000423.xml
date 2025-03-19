@@ -192,8 +192,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <name><expan><abbr>M</abbr><ex>anibus</ex></expan></name> <g ref="#interpunct">·</g>
-                    <lb n="2"/><name>Anni</name> <g ref="#interpunct">·</g> <name>Anthimi</name>
+                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <name><w><expan><abbr>M</abbr><ex>anibus</ex></expan></w></name> <g ref="#interpunct">·</g>
+                    <lb n="2"/><name><w>Anni</w></name> <g ref="#interpunct">·</g> <name><w>Anthimi</w></name>
                     <lb n="3"/><w>homo</w> <g ref="#interpunct">·</g> <w><choice><orig>optume</orig><reg>optime</reg></choice></w> <g ref="#interpunct">·</g> <w>have</w>
                     <lb n="4"/><w>have</w> <w>et</w> <w>tu</w>
                 </ab>

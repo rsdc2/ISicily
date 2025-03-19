@@ -189,7 +189,7 @@
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
                     <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <w><expan><abbr>m</abbr><ex>anibus</ex></expan></w> <w><expan><abbr>s</abbr><ex>acrum</ex></expan></w>
-                    <lb n="2"/><persName type="attested"><name type="nomen">Pumidiae</name> <name type="cognomen">Natali</name></persName>
+                    <lb n="2"/><persName type="attested"><name type="nomen"><w>Pumidiae</w></name> <name type="cognomen"><w>Natali</w></name></persName>
                     <lb n="3"/><w>nutrici</w> <w>dulcissi<hi rend="ligature">mae</hi></w>
                 </ab>
             </div>

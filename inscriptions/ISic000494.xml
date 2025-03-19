@@ -192,8 +192,8 @@
         <body>
            <div type="edition" xml:space="preserve" xml:lang="la" resp="#GC">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <w><expan><abbr>m</abbr><ex>anibus</ex></expan></w> <persName type="attested"><name type="nomen">Claudiae</name> <g ref="#interpunct">·</g> <name type="cognomen">Sabinae</name></persName>
-                    <lb n="2"/><persName type="attested"><name type="praenomen"><expan><abbr>L</abbr><ex>ucius</ex></expan></name> <g ref="#interpunct">·</g> <name type="nomen">Metilius</name> <name type="cognomen">Proculus</name></persName>
+                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <w><expan><abbr>m</abbr><ex>anibus</ex></expan></w> <persName type="attested"><name type="nomen"><w>Claudiae</w></name> <g ref="#interpunct">·</g> <name type="cognomen"><w>Sabinae</w></name></persName>
+                    <lb n="2"/><persName type="attested"><name type="praenomen"><w><expan><abbr>L</abbr><ex>ucius</ex></expan></w></name> <g ref="#interpunct">·</g> <name type="nomen"><w>Metilius</w></name> <name type="cognomen"><w>Proculus</w></name></persName>
                     <lb n="3"/><w>coniugi</w> <g ref="#interpunct">·</g> <w><choice><orig>karissimae</orig><reg>carissimae</reg></choice></w> <g ref="#interpunct">·</g> <w><expan><abbr>f</abbr><ex>ecit</ex></expan></w>
                 </ab>    
             </div>

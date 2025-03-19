@@ -196,7 +196,7 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
                     <lb n="1"/><w>θή<supplied reason="lost">κη</supplied></w>
-                    <lb n="2"/><name>Ἀρτεμ</name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><name><w>Ἀρτεμ</w></name> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="3"/><w>καὶ</w> <w>τοῦ</w> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="4"/><w>ου</w> <w>αὐτοῦ</w> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="5"/><w>εὐπλ</w> <gap reason="lost" extent="unknown" unit="character"/>

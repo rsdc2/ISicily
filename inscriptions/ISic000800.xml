@@ -247,9 +247,9 @@
             <div type="edition" xml:space="preserve" resp="#JP">
                 <ab>
                     <lb n="1" xml:id="AεAAK"/><w xml:id="AεAAU">θεοῖς</w> <w xml:id="AεAAe">π<supplied reason="lost" xml:id="AεAAo">ᾶ</supplied>σι</w>
-                    <lb n="2" xml:id="AεAAy"/><w xml:id="AεAAΙ"><supplied reason="lost" xml:id="AεAAΤ">ὁ δᾶμ</supplied>ος</w> <w xml:id="AεAAε">τῶν</w> <name xml:id="AεAAο">Ἁλαισίνων</name>
-                    <lb n="3" xml:id="AεABA"/><gap reason="lost" quantity="6" unit="character" precision="low" xml:id="AεABK"/> <name xml:id="AεABU">Ἀπολλοδώρου</name> <name xml:id="AεABe"><abbr xml:id="AεABo">Σαλ</abbr></name>
-                    <lb n="4" xml:id="AεABy"/><name xml:id="AεABΙ">Λαπίρωνα</name>
+                    <lb n="2" xml:id="AεAAy"/><w xml:id="AεAAΙ"><supplied reason="lost" xml:id="AεAAΤ">ὁ δᾶμ</supplied>ος</w> <w xml:id="AεAAε">τῶν</w> <name xml:id="AεAAο"><w>Ἁλαισίνων</w></name>
+                    <lb n="3" xml:id="AεABA"/><gap reason="lost" quantity="6" unit="character" precision="low" xml:id="AεABK"/> <name xml:id="AεABU"><w>Ἀπολλοδώρου</w></name> <name xml:id="AεABe"><w><abbr xml:id="AεABo">Σαλ</abbr></w></name>
+                    <lb n="4" xml:id="AεABy"/><name xml:id="AεABΙ"><w>Λαπίρωνα</w></name>
                     <lb n="5" xml:id="AεABΤ"/><w xml:id="AεABε"><supplied reason="lost" xml:id="AεABο">εὐνοίας</supplied>καὶ</w> <w xml:id="AεACA">εὐεργεσίας</w> <w xml:id="AεACK"><expan xml:id="AεACU"><abbr xml:id="AεACe">ἕνεκ</abbr><ex xml:id="AεACo">εν</ex></expan></w>
                     <lb n="6" xml:id="AεACy"/><w xml:id="AεACΙ">τᾶς</w> <w xml:id="AεACΤ">εἰς</w> <w xml:id="AεACε">αὑτόν</w>
                 </ab>

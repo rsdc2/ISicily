@@ -191,11 +191,11 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
                     <lb n="1"/><w>ἐνθ<choice><corr>ά</corr><sic>λ</sic></choice>δ<choice><corr>ε</corr><sic>ι</sic></choice></w> <w><supplied reason="lost">κῖτε</supplied></w>
-                    <lb n="2"/><name>Θεόφιλ<supplied reason="lost">ος</supplied></name> <w><supplied reason="lost">ζήσας</supplied></w>
-                    <lb n="3"/><w>ἔτη</w> <num value="10">δέκ<supplied reason="lost">α</supplied></num> <w><supplied reason="lost">τελεύ</supplied>
-                    <lb n="4" break="no"/>τα</w> <w>τες</w> <num value="18"><supplied reason="lost">δεκαοκτώ</supplied></num>
+                    <lb n="2"/><name><w>Θεόφιλ<supplied reason="lost">ος</supplied></w></name> <w><supplied reason="lost">ζήσας</supplied></w>
+                    <lb n="3"/><w>ἔτη</w> <num value="10"><w>δέκ<supplied reason="lost">α</supplied></w></num> <w><supplied reason="lost">τελεύ</supplied>
+                    <lb n="4" break="no"/>τα</w> <w>τες</w> <num value="18"><w><supplied reason="lost">δεκαοκτώ</supplied></w></num>
                     <lb n="5"/><w>ὀκτωβρ<supplied reason="lost">ίῳ</supplied></w>
-                    <lb n="6"/><w><supplied reason="lost"><roleName type="supracivic" subtype="consul">ὑπατίᾳ</roleName></supplied></w> <name><expan><abbr><supplied reason="lost">Βιν</supplied>κεν</abbr><ex>τίου</ex></expan></name> <w><expan><abbr>ἱ</abbr><ex>μέρᾳ</ex></expan></w> <w><expan><abbr>τ</abbr><ex>ῇ</ex></expan></w> <w><expan><abbr>π</abbr><ex>αρασκευῇ</ex></expan></w>
+                    <lb n="6"/><w><supplied reason="lost"><roleName type="supracivic" subtype="consul">ὑπατίᾳ</roleName></supplied></w> <name><w><expan><abbr><supplied reason="lost">Βιν</supplied>κεν</abbr><ex>τίου</ex></expan></w></name> <w><expan><abbr>ἱ</abbr><ex>μέρᾳ</ex></expan></w> <w><expan><abbr>τ</abbr><ex>ῇ</ex></expan></w> <w><expan><abbr>π</abbr><ex>αρασκευῇ</ex></expan></w>
                 </ab>
             </div>
             <div type="apparatus">

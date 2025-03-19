@@ -194,14 +194,14 @@
                 <div type="textpart" subtype="section" n="A" xml:lang="grc">
                     <ab>
                         <lb n="1"/><w>οἱ</w> <roleName type="civic" subtype="decurio"><w>δεκορίωνες</w></roleName>
-                        <lb n="2"/><persName type="attested"><name type="praenomen"><expan><abbr>Μ</abbr><ex>άρκον</ex></expan></name> <name type="nomen">Οὐαλέριον</name> <persName type="attested"><name type="patronymic">Διογνήτου</name>
-                        <lb n="3"/><name type="patronymic">Μῆγα</name></persName> <w>υἱὸν</w> <name type="cognomen">Χόρτωνα</name></persName>
+                        <lb n="2"/><persName type="attested"><name type="praenomen"><w><expan><abbr>Μ</abbr><ex>άρκον</ex></expan></w></name> <name type="nomen"><w>Οὐαλέριον</w></name> <persName type="attested"><name type="patronymic"><w>Διογνήτου</w></name>
+                        <lb n="3"/><name type="patronymic"><w>Μῆγα</w></name></persName> <w>υἱὸν</w> <name type="cognomen"><w>Χόρτωνα</w></name></persName>
                         <lb n="4"/><roleName type="paracivic" subtype="euergetes"><w>εὐεργέταν</w></roleName>
                     </ab>
                 </div>
                 <div type="textpart" subtype="section" n="B" xml:lang="la">
                     <ab>
-                        <lb n="1"/><w>ordo</w> <w>et</w> <w>populus</w> <w><expan><abbr>civit</abbr><ex>atis</ex></expan></w> <name><expan><abbr>Lilybit</abbr><ex>anorum</ex></expan></name>
+                        <lb n="1"/><w>ordo</w> <w>et</w> <w>populus</w> <w><expan><abbr>civit</abbr><ex>atis</ex></expan></w> <name><w><expan><abbr>Lilybit</abbr><ex>anorum</ex></expan></w></name>
                         <lb n="2"/><roleName type="paracivic" subtype="patron"><w>patrono</w></roleName> <w>perpetuo</w>
                     </ab>
                 </div>

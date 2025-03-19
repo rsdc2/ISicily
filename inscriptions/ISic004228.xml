@@ -178,7 +178,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    <lb n="1"/><w>Κασσίας</w> <name>Μαραίας</name>
+                    <lb n="1"/><w>Κασσίας</w> <name><w>Μαραίας</w></name>
                     <lb n="2"/><roleName type="civic.religious" subtype="hiereia"><w>ἱερίας</w></roleName>
                 </ab>
             </div>

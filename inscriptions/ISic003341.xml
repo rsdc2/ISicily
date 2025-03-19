@@ -192,8 +192,8 @@
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#DEE">
                 <ab>
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character" cert="low"/> <abbr><w><supplied reason="lost">mu</supplied>nicip</w></abbr><space unit="character" extent="unknown"/>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="attested"><name type="nomen"><gap reason="lost" extent="unknown" unit="character"/><seg part="F">io</seg></name> <name type="cognomen">Hirtian<supplied reason="lost">o</supplied></name></persName> <gap reason="lost" extent="unknown" unit="character" cert="low"/>
-                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <orgName type="tribus"><name><expan><abbr>Qui</abbr><ex>rina</ex></expan></name></orgName> <space quantity="3" unit="character"/><name type="cognomen">Lupo</name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="attested"><name type="nomen"><w><gap reason="lost" extent="unknown" unit="character"/><seg part="F">io</seg></w></name> <name type="cognomen"><w>Hirtian<supplied reason="lost">o</supplied></w></name></persName> <gap reason="lost" extent="unknown" unit="character" cert="low"/>
+                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <orgName type="tribus"><name><w><expan><abbr>Qui</abbr><ex>rina</ex></expan></w></name></orgName> <space quantity="3" unit="character"/><name type="cognomen"><w>Lupo</w></name> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>
             <div type="apparatus">

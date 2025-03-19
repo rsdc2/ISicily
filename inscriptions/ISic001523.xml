@@ -192,11 +192,11 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
                     <lb n="1"/><w>Ἔνθα</w> <w>κεῖται</w>
-                    <lb n="2"/><name>Ἐρωταρείων</name> <g ref="#christogram">☧</g>
-                    <lb n="3"/><w>ζῆσας</w> <w>ἔτη</w> <num value="20">εἴκο
-                    <lb n="4" break="no"/>σι</num> <w>δοίω</w> <w>ἐτελεύτη
-                    <lb n="5" break="no"/>σεν</w> <w>μηνὶ</w> <name>Οκτωβρείῳ</name>
-                    <lb n="6"/><num value="12">δωδεκ<choice><corr>ά</corr><sic>λ</sic></choice>τῃ</num>
+                    <lb n="2"/><name><w>Ἐρωταρείων</w></name> <g ref="#christogram">☧</g>
+                    <lb n="3"/><w>ζῆσας</w> <w>ἔτη</w> <num value="20"><w>εἴκο
+                    <lb n="4" break="no"/>σι</w></num> <w>δοίω</w> <w>ἐτελεύτη
+                    <lb n="5" break="no"/>σεν</w> <w>μηνὶ</w> <name><w>Οκτωβρείῳ</w></name>
+                    <lb n="6"/><num value="12"><w>δωδεκ<choice><corr>ά</corr><sic>λ</sic></choice>τῃ</w></num>
                 </ab>
             </div>
             <div type="apparatus">

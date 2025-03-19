@@ -174,7 +174,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/><persName type="divine"><name>Κύπυρα</name></persName>
+                    <lb n="1"/><persName type="divine"><name><w>Κύπυρα</w></name></persName>
                 </ab>
             </div>
             <div type="apparatus">

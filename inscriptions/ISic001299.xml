@@ -243,12 +243,12 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#martaf">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>Θ</abbr><ex>εοῖς</ex></expan></w> <name><expan><abbr>Κ</abbr><ex>ατακθονίοις</ex></expan></name> <w><expan><abbr>ἱ</abbr><ex>ερόν</ex></expan></w>
-                    <lb n="2"/><persName type="attested"><name>Ζωτικὸς</name></persName> <w>πατήρ</w>
+                    <lb n="1"/><w><expan><abbr>Θ</abbr><ex>εοῖς</ex></expan></w> <name><w><expan><abbr>Κ</abbr><ex>ατακθονίοις</ex></expan></w></name> <w><expan><abbr>ἱ</abbr><ex>ερόν</ex></expan></w>
+                    <lb n="2"/><persName type="attested"><name><w>Ζωτικὸς</w></name></persName> <w>πατήρ</w>
                     <lb n="3"/><w>ἰδίῳ</w> <w>τέκνῳ</w> <w>μνή
                     <lb n="4" break="no"/>μης</w> <w>χάριν</w> <w>ἐποίη
                     <lb n="5" break="no"/>σεν</w>, <w>ὃς</w> <w>ἔζησεν</w> <w>ἔ<surplus>ε</surplus><hi rend="ligature">τη</hi></w>
-                    <lb n="6"/><g ref="#ivy-leaf">❦</g> <num value="27">κ<supplied reason="undefined" evidence="previouseditor">η</supplied></num> <supplied reason="undefined" evidence="previouseditor"><g ref="#ivy-leaf">❦</g></supplied>
+                    <lb n="6"/><g ref="#ivy-leaf">❦</g> <num value="27"><w>κ<supplied reason="undefined" evidence="previouseditor">η</supplied></w></num> <supplied reason="undefined" evidence="previouseditor"><g ref="#ivy-leaf">❦</g></supplied>
                 </ab>
             </div>
             <div type="apparatus" resp="#martaf">

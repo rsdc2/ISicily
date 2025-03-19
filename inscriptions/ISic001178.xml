@@ -194,8 +194,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1" xml:id="BRεAK"/><w xml:id="BRεAU">Γάιον</w> <name xml:id="BRεAe">Οὐεργίλιον</name> <name xml:id="BRεAo">Γαίου</name> <w xml:id="BRεAy">υἱὸν</w> <name xml:id="BRεAΙ">Βάλβον</name>
-                    <lb n="2" xml:id="BRεAΤ"/><roleName type="supracivic" subtype="proquaestor" xml:id="BRεAε"><w xml:id="BRεAο">ἀντιταμίαν</w></roleName> <w xml:id="BRεBA"><supplied reason="omitted" xml:id="BRεBK">ὁ</supplied></w> <w xml:id="BRεBU">δᾶμος</w> <w xml:id="BRεBe">τῶν</w> <name xml:id="BRεBo">Ἀλαισίνων</name>
+                    <lb n="1" xml:id="BRεAK"/><w xml:id="BRεAU">Γάιον</w> <name xml:id="BRεAe"><w>Οὐεργίλιον</w></name> <name xml:id="BRεAo"><w>Γαίου</w></name> <w xml:id="BRεAy">υἱὸν</w> <name xml:id="BRεAΙ"><w>Βάλβον</w></name>
+                    <lb n="2" xml:id="BRεAΤ"/><roleName type="supracivic" subtype="proquaestor" xml:id="BRεAε"><w xml:id="BRεAο">ἀντιταμίαν</w></roleName> <w xml:id="BRεBA"><supplied reason="omitted" xml:id="BRεBK">ὁ</supplied></w> <w xml:id="BRεBU">δᾶμος</w> <w xml:id="BRεBe">τῶν</w> <name xml:id="BRεBo"><w>Ἀλαισίνων</w></name>
                     <lb n="3" xml:id="BRεBy"/><w xml:id="BRεBΙ">εὐνοίας</w> <w xml:id="BRεBΤ">ἕνεκεν</w>
                 </ab>
             </div>

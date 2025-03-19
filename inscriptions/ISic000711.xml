@@ -205,9 +205,9 @@
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#TNS #JP">
                 <ab>
                     <gap reason="lost" extent="unknown" unit="line"/>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <gap reason="illegible" unit="character" quantity="1"/> <name>Seius</name> <name>Aga<hi rend="ligature">th</hi>o</name>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <hi rend="supraline"><num value="50000">LM</num> <w><expan><abbr>n</abbr><ex>ummum</ex></expan></w></hi><g ref="#interpunct">·</g> <num value="2">II</num> <w>semis</w> <w>de</w>
-                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <w part="F"><unclear>m</unclear>o</w> <w>die</w> <w><expan><abbr><hi rend="supraline">m</hi></abbr><ex>ensis</ex></expan></w> <name>Ianuar<hi rend="superscript">i</hi>i</name>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <gap reason="illegible" unit="character" quantity="1"/> <name><w>Seius</w></name> <name><w>Aga<hi rend="ligature">th</hi>o</w></name>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <hi rend="supraline"><num value="50000"><w>LM</w></num> <w><expan><abbr>n</abbr><ex>ummum</ex></expan></w></hi><g ref="#interpunct">·</g> <num value="2"><w>II</w></num> <w>semis</w> <w>de</w>
+                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <w part="F"><unclear>m</unclear>o</w> <w>die</w> <w><expan><abbr><hi rend="supraline">m</hi></abbr><ex>ensis</ex></expan></w> <name><w>Ianuar<hi rend="superscript">i</hi>i</w></name>
                     <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <gap reason="illegible" unit="character" quantity="1"/> <space unit="character" quantity="13"/>
                 </ab>
             </div>

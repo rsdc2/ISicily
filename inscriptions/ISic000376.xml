@@ -195,10 +195,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <name><expan><abbr>M</abbr><ex>anibus</ex></expan></name>
-                    <lb n="2"/><name>Statilia</name> <name>Herma
-                    <lb n="3" break="no"/>is</name> <w><choice><corr>vixit</corr><sic>vlxit</sic></choice></w> <w>annis</w>
-                    <lb n="4"/><num value="35">XXXV</num> <name>Eutyches</name>
+                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <name><w><expan><abbr>M</abbr><ex>anibus</ex></expan></w></name>
+                    <lb n="2"/><name><w>Statilia</w></name> <name><w>Herma
+                    <lb n="3" break="no"/>is</w></name> <w><choice><corr>vixit</corr><sic>vlxit</sic></choice></w> <w>annis</w>
+                    <lb n="4"/><num value="35"><w>XXXV</w></num> <name><w>Eutyches</w></name>
                     <lb n="5"/><w>uxori</w> <w>piissimae</w>
                     <lb n="6"/><w>fecit</w> <g ref="#interpunct">·</g> <g ref="#ivy-leaf"/> <g ref="#interpunct">·</g> <g ref="#ivy-leaf"/> <g ref="#interpunct">·</g>
                 </ab>

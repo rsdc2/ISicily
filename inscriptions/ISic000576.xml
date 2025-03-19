@@ -191,7 +191,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
-                    <lb n="1"/><name>Petronio</name>
+                    <lb n="1"/><name><w>Petronio</w></name>
                     <lb n="2"/><w>deposito</w>
                     <lb n="3"/><w>in</w> <w>pace</w>
                 </ab>

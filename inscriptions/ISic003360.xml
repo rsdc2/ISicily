@@ -193,7 +193,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="scx-Grek" resp="#VM">
                 <ab>
-                    <lb n="1" style="text-direction:r-to-l"/><persName cert="low"><name type="idionym">ΡΑΡ<unclear>ΟΤΑ</unclear></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1" style="text-direction:r-to-l"/><persName cert="low"><name type="idionym"><w>ΡΑΡ<unclear>ΟΤΑ</unclear></w></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>
             <div type="edition" xml:space="preserve" subtype="transliteration" xml:lang="scx-Latn">

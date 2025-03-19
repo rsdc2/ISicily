@@ -190,8 +190,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#GC">
                 <ab>
-                    <lb n="1" xml:id="BXAAK"/><persName type="divine"><name><name xml:id="BXAAU">Ἀσκληπιῶι</name></name></persName>
-                    <lb n="2" xml:id="BXAAe"/><w xml:id="BXAAo">και</w> <persName type="divine"><name><name xml:id="BXAAy">Ὑγείᾳ</name></name></persName>
+                    <lb n="1" xml:id="BXAAK"/><persName type="divine"><name><w><name xml:id="BXAAU"><w>Ἀσκληπιῶι</w></name></w></name></persName>
+                    <lb n="2" xml:id="BXAAe"/><w xml:id="BXAAo">και</w> <persName type="divine"><name><w><name xml:id="BXAAy"><w>Ὑγείᾳ</w></name></w></name></persName>
                     <lb n="3" xml:id="BXAAΙ"/><w xml:id="BXAAΤ">σωτῆρσιν</w>
                     <lb n="4" xml:id="BXAAε"/><w xml:id="BXAAο">πολιούχοις.</w>
                 </ab>

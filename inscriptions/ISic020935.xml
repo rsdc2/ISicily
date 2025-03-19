@@ -166,7 +166,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1"/><w>Κ</w> <name>Ε</name>
+                    <lb n="1"/><w>Κ</w> <name><w>Ε</w></name>
                 </ab>
             </div>
             <div type="apparatus">

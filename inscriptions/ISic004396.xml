@@ -188,11 +188,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1"/><persName type="attested"><supplied reason="lost"><name>Ἴσιδι</name></supplied> <name type="epithet">μυριωνύ
-                    <lb n="2" break="no"/><supplied reason="lost">μῳ</supplied></name></persName> <w><supplied reason="lost">θ</supplied>εᾷ</w> <w>μεγίστῃ</w>
-                    <lb n="3"/><gap reason="lost" unit="character" quantity="2"/> <w>τοι</w> <persName type="attested"><name>Ῥουφεί
-                    <lb n="4" break="no"/><supplied reason="lost">νου</supplied></name></persName> <w><unclear>δ</unclear>ιὰ</w> <persName type="attested"><name>Εὐδ<unclear>αίμ</unclear>
-                    <lb n="5" break="no"/><supplied reason="lost">ονος</supplied></name></persName> <w>ἐπιτρόπου</w>
+                    <lb n="1"/><persName type="attested"><supplied reason="lost"><name><w>Ἴσιδι</w></name></supplied> <name type="epithet"><w>μυριωνύ
+                    <lb n="2" break="no"/><supplied reason="lost">μῳ</supplied></w></name></persName> <w><supplied reason="lost">θ</supplied>εᾷ</w> <w>μεγίστῃ</w>
+                    <lb n="3"/><gap reason="lost" unit="character" quantity="2"/> <w>τοι</w> <persName type="attested"><name><w>Ῥουφεί
+                    <lb n="4" break="no"/><supplied reason="lost">νου</supplied></w></name></persName> <w><unclear>δ</unclear>ιὰ</w> <persName type="attested"><name><w>Εὐδ<unclear>αίμ</unclear>
+                    <lb n="5" break="no"/><supplied reason="lost">ονος</supplied></w></name></persName> <w>ἐπιτρόπου</w>
                     <lb n="6"/><w>τοῦτο</w> <w>τὸ</w> <w><unclear>β</unclear>ῆμα</w>
                     <lb n="7"/><w><supplied reason="lost">εὐ</supplied><unclear>χ</unclear>ὴν</w> <w>ἀπέ<supplied reason="lost">δωκαν</supplied></w>
                     <lb n="8"/><w>ἐπ'</w> <w>ἀγαθ<supplied reason="lost">ῷ</supplied></w>

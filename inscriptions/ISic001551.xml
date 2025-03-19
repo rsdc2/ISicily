@@ -191,7 +191,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM #JP">
                 <ab>
-                    <lb n="1"/><w>Μάρχος</w> <name>Σημβρόνις</name>
+                    <lb n="1"/><w>Μάρχος</w> <name><w>Σημβρόνις</w></name>
                     <lb n="2"/><w>ἥρως</w> <w>ἀγαθός</w>
                 </ab>
             </div>

@@ -192,12 +192,12 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
                     <lb n="1"/><w>Κλουτωρία</w>
-                    <lb n="2"/><name>Μάρκου</name>
-                    <lb n="3"/><name>Κλουτωρίου</name>
-                    <lb n="4"/><name>Πτολεμαικὴ</name>
-                    <lb n="5"/><w>τῆς</w> <name>Κυρ<hi rend="ligature">ήν</hi>ης</name>
+                    <lb n="2"/><name><w>Μάρκου</w></name>
+                    <lb n="3"/><name><w>Κλουτωρίου</w></name>
+                    <lb n="4"/><name><w>Πτολεμαικὴ</w></name>
+                    <lb n="5"/><w>τῆς</w> <name><w>Κυρ<hi rend="ligature">ήν</hi>ης</w></name>
                     <lb n="6"/><w>ἐτῶν</w>
-                    <lb n="7"/><num value="60">ἑξήκοντα</num>
+                    <lb n="7"/><num value="60"><w>ἑξήκοντα</w></num>
                 </ab>
             </div>
             <div type="apparatus">

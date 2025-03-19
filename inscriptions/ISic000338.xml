@@ -196,11 +196,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#TNS #MH">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <name><expan><abbr>M</abbr><ex>anibus</ex></expan></name> <g ref="#interpunct">·</g> <w><expan><abbr>s</abbr><ex>acrum</ex></expan></w>
-                    <lb n="2"/><name><expan><abbr>M</abbr><ex>arco</ex></expan></name> <g ref="#interpunct">·</g> <name>Caepario</name>
-                    <lb n="3"/><name>Sotericho</name> <g ref="#interpunct">·</g> <w>et</w>
+                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <name><w><expan><abbr>M</abbr><ex>anibus</ex></expan></w></name> <g ref="#interpunct">·</g> <w><expan><abbr>s</abbr><ex>acrum</ex></expan></w>
+                    <lb n="2"/><name><w><expan><abbr>M</abbr><ex>arco</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w>Caepario</w></name>
+                    <lb n="3"/><name><w>Sotericho</w></name> <g ref="#interpunct">·</g> <w>et</w>
                     <lb n="4"/><w>filiae</w> <g ref="#interpunct">·</g> <w>eius</w>
-                    <lb n="5"/><name><expan><abbr>M</abbr><ex>arcus</ex></expan></name> <g ref="#interpunct">·</g> <name>Capillianus</name>
+                    <lb n="5"/><name><w><expan><abbr>M</abbr><ex>arcus</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w>Capillianus</w></name>
                     <lb n="6"/><w>fecit</w>
                 </ab>
             </div>

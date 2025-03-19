@@ -202,7 +202,7 @@
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <g ref="#interpunct">·</g> <w>Iulio</w> <g ref="#interpunct">·</g> <gap reason="illegible" unit="character" quantity="1"/> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <name>Divi</name> <g ref="#interpunct">·</g> <name>A<supplied reason="lost">ugusti</supplied></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <name><w>Divi</w></name> <g ref="#interpunct">·</g> <name><w>A<supplied reason="lost">ugusti</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb/><gap reason="lost" extent="unknown" unit="line"/>
                 </ab>
             </div>

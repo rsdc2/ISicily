@@ -207,8 +207,8 @@
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
                     <lb n="1"/><w>ex</w> <g ref="#interpunct">·</g> <w><expan><abbr>d</abbr><ex>ecreto</ex></expan></w> <roleName type="civic" subtype="decurio"><w><expan><abbr>d</abbr><ex>ecurionum</ex></expan></w></roleName> <g ref="#interpunct">·</g>
-                    <lb n="2"/><w>locus</w> <persName type="attested"><name><expan><abbr>M</abbr><ex>arci</ex></expan></name> <name>Iuli</name>
-                    <lb n="3"/><name>Dionysi</name></persName>
+                    <lb n="2"/><w>locus</w> <persName type="attested"><name><w><expan><abbr>M</abbr><ex>arci</ex></expan></w></name> <name><w>Iuli</w></name>
+                    <lb n="3"/><name><w>Dionysi</w></name></persName>
                 </ab>
             </div>
             <div type="apparatus">

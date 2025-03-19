@@ -186,8 +186,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name><supplied reason="lost">Ε</supplied>ὐπρα<unclear>ξ</unclear><supplied reason="lost">ία</supplied></name></persName> <persName type="attested"><name><unclear>Ἡρα</unclear>κλε<supplied reason="lost">ί</supplied>
-                    <lb n="2" break="no"/>δαι</name> <persName type="attested"><name type="patronym">Ἡρα<supplied reason="lost">κ</supplied>λείδα</name></persName></persName>
+                    <lb n="1"/><persName type="attested"><name><w><supplied reason="lost">Ε</supplied>ὐπρα<unclear>ξ</unclear><supplied reason="lost">ία</supplied></w></name></persName> <persName type="attested"><name><w><unclear>Ἡρα</unclear>κλε<supplied reason="lost">ί</supplied>
+                    <lb n="2" break="no"/>δαι</w></name> <persName type="attested"><name type="patronym"><w>Ἡρα<supplied reason="lost">κ</supplied>λείδα</w></name></persName></persName>
                     <lb n="3"/><w>ἐποί<unclear>η</unclear><supplied reason="lost">σε</supplied></w> <space extent="unknown" unit="character"/>
                 </ab>
             </div>

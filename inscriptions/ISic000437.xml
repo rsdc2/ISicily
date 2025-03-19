@@ -188,9 +188,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#TA">
                 <ab>
-                    <lb n="1"/><w><supplied reason="lost">Of</supplied>illia</w> <g ref="#interpunct">·</g> <name>Proba</name>
-                    <lb n="2"/><w>sibi</w> <g ref="#interpunct">·</g> <w>et</w> <g ref="#interpunct">·</g> <name><expan><abbr>L</abbr><ex>ucio</ex></expan></name> <g ref="#interpunct">·</g> <name>Ofillio</name>
-                    <lb n="3"/><name>Faust<hi rend="apex">o</hi></name> <g ref="#interpunct">·</g> <w>patrono</w>
+                    <lb n="1"/><w><supplied reason="lost">Of</supplied>illia</w> <g ref="#interpunct">·</g> <name><w>Proba</w></name>
+                    <lb n="2"/><w>sibi</w> <g ref="#interpunct">·</g> <w>et</w> <g ref="#interpunct">·</g> <name><w><expan><abbr>L</abbr><ex>ucio</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w>Ofillio</w></name>
+                    <lb n="3"/><name><w>Faust<hi rend="apex">o</hi></w></name> <g ref="#interpunct">·</g> <w>patrono</w>
                 </ab>
             </div>
             <div type="apparatus">

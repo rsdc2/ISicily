@@ -192,8 +192,8 @@
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#GC">
                 <ab>
                     <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>m</abbr><ex>anibus</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>s</abbr><ex>acrum</ex></expan></w>
-                    <lb n="2"/><name><expan><abbr>P</abbr><ex>ublii</ex></expan></name> <g ref="#interpunct">·</g> <name>Servili</name> <g ref="#interpunct">·</g> <name><choice><corr>E</corr><sic>I</sic></choice>paphroditi</name>
-                    <lb n="3"/><w><expan><abbr>v</abbr><ex>ixit</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>an</abbr><ex>nis</ex></expan></w> <g ref="#interpunct">·</g> <num value="26">XXVI</num> <g ref="#interpunct">·</g> <name>Enco<choice><corr>l</corr><sic>e</sic></choice>pus</name> <g ref="#interpunct">·</g> <w><expan><abbr>p</abbr><ex>osuit</ex></expan></w>
+                    <lb n="2"/><name><w><expan><abbr>P</abbr><ex>ublii</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w>Servili</w></name> <g ref="#interpunct">·</g> <name><w><choice><corr>E</corr><sic>I</sic></choice>paphroditi</w></name>
+                    <lb n="3"/><w><expan><abbr>v</abbr><ex>ixit</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>an</abbr><ex>nis</ex></expan></w> <g ref="#interpunct">·</g> <num value="26"><w>XXVI</w></num> <g ref="#interpunct">·</g> <name><w>Enco<choice><corr>l</corr><sic>e</sic></choice>pus</w></name> <g ref="#interpunct">·</g> <w><expan><abbr>p</abbr><ex>osuit</ex></expan></w>
                 </ab>
             </div>
             <div type="apparatus">

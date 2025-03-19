@@ -208,9 +208,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM #AA">
                 <ab>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="attested"><name><unclear>Φ</unclear>ολοινί<unclear>α</unclear></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="attested"><name><w><unclear>Φ</unclear>ολοινί<unclear>α</unclear></w></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w>αίου</w> <space quantity="1" unit="character"/><w>κα</w> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="attested"><name>Φολοινί<gap reason="lost" extent="unknown" unit="character"/></name></persName>
+                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="attested"><name><w>Φολοινί<gap reason="lost" extent="unknown" unit="character"/></w></name></persName>
                     <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <w>ματήρ</w> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>

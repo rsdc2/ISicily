@@ -190,9 +190,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
-                    <lb n="1"/><w><supplied reason="lost">Lari</supplied>bus</w> <name>Augusteis</name> <w>et</w> <name>Genio</name> <name>Caesa<supplied reason="lost">ris</supplied></name>
-                    <lb n="2"/><name><supplied reason="lost">Lib</supplied>erorumque</name> <w>eius</w> <name><expan><abbr>C</abbr><ex>aius</ex></expan></name> <name>Publilius</name>
-                    <lb n="3"/><name><supplied reason="lost">Phil</supplied>argurus</name> <roleName type="civic.religious" subtype="sevir"><w>sevir</w></roleName> <w>primus</w> <w>et</w> <w>prior</w>
+                    <lb n="1"/><w><supplied reason="lost">Lari</supplied>bus</w> <name><w>Augusteis</w></name> <w>et</w> <name><w>Genio</w></name> <name><w>Caesa<supplied reason="lost">ris</supplied></w></name>
+                    <lb n="2"/><name><w><supplied reason="lost">Lib</supplied>erorumque</w></name> <w>eius</w> <name><w><expan><abbr>C</abbr><ex>aius</ex></expan></w></name> <name><w>Publilius</w></name>
+                    <lb n="3"/><name><w><supplied reason="lost">Phil</supplied>argurus</w></name> <roleName type="civic.religious" subtype="sevir"><w>sevir</w></roleName> <w>primus</w> <w>et</w> <w>prior</w>
                 </ab>
             </div>
             <div type="apparatus">

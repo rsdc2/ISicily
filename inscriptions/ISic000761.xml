@@ -203,8 +203,8 @@
                 <ab>
                     <lb n="0"/><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="1"/><w>Alb</w> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="2"/><name>Pompei<supplied reason="lost">o</supplied></name>
-                    <lb n="3"/><name>Marcello</name>
+                    <lb n="2"/><name><w>Pompei<supplied reason="lost">o</supplied></w></name>
+                    <lb n="3"/><name><w>Marcello</w></name>
                     <lb n="4"/><w>patrono</w> <w>suo</w>
                     <lb n="5"/><w><supplied reason="lost"><expan><abbr>opt</abbr><ex>imo</ex></expan></supplied></w> <w>bene</w> <w><expan><abbr>m</abbr><ex>erenti</ex></expan></w>
                 </ab>

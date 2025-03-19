@@ -195,7 +195,7 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
                     <lb n="1"/><w>Φουρία</w> <w>χρηστὰ</w> <w>καὶ</w> <w>ἄμεμπτος</w>
-                    <lb n="2"/><w>χαῖρε</w> <w>ἔζησεν</w> <w>ἔτη</w> <num value="34">λδ</num>
+                    <lb n="2"/><w>χαῖρε</w> <w>ἔζησεν</w> <w>ἔτη</w> <num value="34"><w>λδ</w></num>
                 </ab>
             </div>
             <div type="apparatus">

@@ -195,9 +195,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>Μ</abbr><ex>άρκος</ex></expan></w> <name>Μουνά
-                    <lb n="2" break="no"/>τιος</name> <name>Φίλιππος</name>
-                    <lb n="3"/><w><expan><abbr>ἔξη</abbr><ex>σεν</ex></expan></w> <w>ἔτη</w> <num value="60">ξ</num>
+                    <lb n="1"/><w><expan><abbr>Μ</abbr><ex>άρκος</ex></expan></w> <name><w>Μουνά
+                    <lb n="2" break="no"/>τιος</w></name> <name><w>Φίλιππος</w></name>
+                    <lb n="3"/><w><expan><abbr>ἔξη</abbr><ex>σεν</ex></expan></w> <w>ἔτη</w> <num value="60"><w>ξ</w></num>
                 </ab>
             </div>
             <div type="apparatus">

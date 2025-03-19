@@ -192,9 +192,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
-                    <lb n="1"/><supplied reason="lost" cert="low"><name>Antoniae</name></supplied> <supplied reason="lost"><name>Augustae</name></supplied>
-                    <lb n="2"/><name><supplied reason="lost">C</supplied>laudi</name> <g ref="#interpunct">·</g> <name><supplied reason="lost" cert="low">Neronis</supplied></name> <w><supplied reason="subaudible">uxoris</supplied></w>
-                    <lb n="3"/><w>matr<supplied reason="lost">i</supplied></w> <name><supplied reason="lost"><expan><abbr>Ti</abbr><ex>beri</ex></expan></supplied></name> <supplied reason="lost"><name>Claudi</name></supplied> <supplied reason="lost"><name><expan><abbr>Caes</abbr><ex>aris</ex></expan></name></supplied> <supplied reason="lost"><name><expan><abbr>Aug</abbr><ex>usti</ex></expan></name></supplied> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><supplied reason="lost" cert="low"><name><w>Antoniae</w></name></supplied> <supplied reason="lost"><name><w>Augustae</w></name></supplied>
+                    <lb n="2"/><name><w><supplied reason="lost">C</supplied>laudi</w></name> <g ref="#interpunct">·</g> <name><w><supplied reason="lost" cert="low">Neronis</supplied></w></name> <w><supplied reason="subaudible">uxoris</supplied></w>
+                    <lb n="3"/><w>matr<supplied reason="lost">i</supplied></w> <name><w><supplied reason="lost"><expan><abbr>Ti</abbr><ex>beri</ex></expan></supplied></w></name> <supplied reason="lost"><name><w>Claudi</w></name></supplied> <supplied reason="lost"><name><w><expan><abbr>Caes</abbr><ex>aris</ex></expan></w></name></supplied> <supplied reason="lost"><name><w><expan><abbr>Aug</abbr><ex>usti</ex></expan></w></name></supplied> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>
             <div type="apparatus">

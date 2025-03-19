@@ -191,7 +191,7 @@
                     <lb n="1"/><w><supplied reason="lost">ἐνθάδε</supplied></w> <w>κῖται</w> <gap reason="lost" extent="unknown" unit="character"><desc>personal name</desc></gap>
                     <lb n="2"/><w><supplied reason="lost">ζ</supplied>ήσας</w> <w><supplied reason="lost">ἔτη</supplied></w> <gap reason="lost" extent="unknown" unit="character"><desc>age at death</desc></gap>
                     <lb n="3"/><w><supplied reason="lost">τελ</supplied>ευ<supplied reason="lost">τᾷ</supplied></w> <w><supplied reason="lost">τῇ</supplied></w> <w><supplied reason="lost">πρὸ</supplied></w> <gap reason="lost" extent="unknown" unit="character"><desc>day of death</desc></gap>
-                    <lb n="4"/><name><supplied reason="lost">Ἰ</supplied>αν<supplied reason="lost">ουαρίων</supplied></name>
+                    <lb n="4"/><name><w><supplied reason="lost">Ἰ</supplied>αν<supplied reason="lost">ουαρίων</supplied></w></name>
                 </ab>
             </div>
             <div type="apparatus">

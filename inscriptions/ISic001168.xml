@@ -195,9 +195,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/><w>Μηβία</w> <name>Μάξιμα</name>
+                    <lb n="1"/><w>Μηβία</w> <name><w>Μάξιμα</w></name>
                     <lb n="2"/><w>ἐπεδήμησεν</w>
-                    <lb n="3"/><w>ἔτη</w> <num value="65">ξε</num>
+                    <lb n="3"/><w>ἔτη</w> <num value="65"><w>ξε</w></num>
                 </ab>
             </div>
             <div type="apparatus">

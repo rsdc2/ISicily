@@ -193,7 +193,7 @@
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#TA #JP">
                 <ab>
                     <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <w><g ref="#ivy-leaf">❦</g><supplied reason="lost"><expan><abbr>M</abbr><ex>anibus</ex></expan></supplied></w>
-                    <lb n="2"/><persName type="attested"><name>Copo<supplied reason="lost">ni</supplied></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><persName type="attested"><name><w>Copo<supplied reason="lost">ni</supplied></w></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>
             <div type="apparatus">

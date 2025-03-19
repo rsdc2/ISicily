@@ -190,10 +190,10 @@
         <body>
             <div type="edition" xml:space="preserve" subtype="PHI" n="PHI334884">
                 <ab>
-                    <lb n="1"/><w>Dis</w> <name>M</name> <w><supplied reason="lost">anibus</supplied></w>
-                    <lb n="2"/><g ref="#interpunct">❦</g> <w>SCL#⁷</w> <name><supplied reason="lost">— — —</supplied></name>
-                    <lb n="3"/><name>#⁷#⁷</name> <name><supplied reason="lost">— — — —</supplied></name>
-                    <lb n="4"/><w>ID</w> <name><unclear>I</unclear></name> <name><supplied reason="lost">— — — —</supplied></name>
+                    <lb n="1"/><w>Dis</w> <name><w>M</w></name> <w><supplied reason="lost">anibus</supplied></w>
+                    <lb n="2"/><g ref="#interpunct">❦</g> <w>SCL#⁷</w> <name><w><supplied reason="lost">— — —</supplied></w></name>
+                    <lb n="3"/><name><w>#⁷#⁷</w></name> <name><w><supplied reason="lost">— — — —</supplied></w></name>
+                    <lb n="4"/><w>ID</w> <name><w><unclear>I</unclear></w></name> <name><w><supplied reason="lost">— — — —</supplied></w></name>
                     <lb n="5"/>
                 </ab>
             </div>

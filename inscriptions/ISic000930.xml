@@ -192,8 +192,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/><w>τόπος</w> <name>Εὐτυ
-                    <lb n="2" break="no"/>χ<supplied reason="omitted">ι</supplied>α<hi rend="ligature">νῆ</hi>ς</name> <w>ἐνθάδε</w>
+                    <lb n="1"/><w>τόπος</w> <name><w>Εὐτυ
+                    <lb n="2" break="no"/>χ<supplied reason="omitted">ι</supplied>α<hi rend="ligature">νῆ</hi>ς</w></name> <w>ἐνθάδε</w>
                     <lb n="3"/><w>κε<supplied reason="omitted">ῖ</supplied>τε</w>
                 </ab>
             </div>

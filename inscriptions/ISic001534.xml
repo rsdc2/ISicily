@@ -192,10 +192,10 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
                     <lb n="1"/><w>Τελευτᾷ</w> <w>ὁ</w> <w>καλῆς</w>
-                    <lb n="2"/><w>μνήμης</w> <name>Ζώσιμος</name>
-                    <lb n="3"/><w>πρὸ</w> <num value="15">δεκαπέντε</num> <w>καλαν
-                    <lb n="4" break="no"/>δῶ<supplied reason="omitted">ν</supplied></w> <name>Μ<choice><corr>α</corr><sic>λ</sic></choice><surplus>ε</surplus>ίων</name> <w>περί</w> <w>ὥραν</w>
-                    <lb n="5"/><num value="9">ἐνάτην</num>
+                    <lb n="2"/><w>μνήμης</w> <name><w>Ζώσιμος</w></name>
+                    <lb n="3"/><w>πρὸ</w> <num value="15"><w>δεκαπέντε</w></num> <w>καλαν
+                    <lb n="4" break="no"/>δῶ<supplied reason="omitted">ν</supplied></w> <name><w>Μ<choice><corr>α</corr><sic>λ</sic></choice><surplus>ε</surplus>ίων</w></name> <w>περί</w> <w>ὥραν</w>
+                    <lb n="5"/><num value="9"><w>ἐνάτην</w></num>
                     <lb n="5a"/><g ref="#staurogram">𐆠</g>
                 </ab>
             </div>

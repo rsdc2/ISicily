@@ -194,8 +194,8 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
                     <lb n="1"/><w>ἐν</w> <w><expan><abbr>θ</abbr><ex>ε</ex><abbr>ῷ</abbr></expan></w> <w>κὲ</w>
-                    <lb n="2"/><name><expan><abbr><g ref="#christogram">☧</g></abbr><ex>ιστῷ</ex></expan></name> <name>Μαρτύ
-                    <lb n="3" break="no"/>ριος</name> <w>ἐνθά
+                    <lb n="2"/><name><w><expan><abbr><g ref="#christogram">☧</g></abbr><ex>ιστῷ</ex></expan></w></name> <name><w>Μαρτύ
+                    <lb n="3" break="no"/>ριος</w></name> <w>ἐνθά
                     <lb n="4" break="no"/>δε</w> <w>κῖτε</w>
                 </ab>
             </div>

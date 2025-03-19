@@ -192,10 +192,10 @@
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#TA">
                 <ab>
                     <lb n="1"/><w>ara</w>
-                    <lb n="2"/><roleName type="supracivic" subtype="imperator"><w><expan><abbr>imp</abbr><ex>eratori</ex></expan></w></roleName> <g ref="#interpunct">·</g> <name>Cae<supplied reason="lost">sari</supplied></name> <name><supplied reason="lost">Augusto</supplied></name>
-                    <lb n="3"/><w>et</w> <g ref="#interpunct">·</g> <name><unclear>L</unclear>iv<unclear>i</unclear><supplied reason="lost">ae</supplied></name>
-                    <lb n="4"/><w>matri</w> <name><supplied reason="lost"><expan><abbr>Ti</abbr><ex>beri</ex></expan></supplied></name> <name><supplied reason="lost"><expan><abbr>Caes</abbr><ex>aris</ex></expan></supplied></name>
-                    <lb n="5"/><roleName type="supracivic" subtype="imperator"><w><expan><abbr>imp</abbr><ex>eratoris</ex></expan></w></roleName> <name><expan><abbr>Cae<supplied reason="lost">s</supplied></abbr><supplied reason="lost"><ex>aris</ex></supplied></expan></name> <w><supplied reason="lost">filii</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><roleName type="supracivic" subtype="imperator"><w><expan><abbr>imp</abbr><ex>eratori</ex></expan></w></roleName> <g ref="#interpunct">·</g> <name><w>Cae<supplied reason="lost">sari</supplied></w></name> <name><w><supplied reason="lost">Augusto</supplied></w></name>
+                    <lb n="3"/><w>et</w> <g ref="#interpunct">·</g> <name><w><unclear>L</unclear>iv<unclear>i</unclear><supplied reason="lost">ae</supplied></w></name>
+                    <lb n="4"/><w>matri</w> <name><w><supplied reason="lost"><expan><abbr>Ti</abbr><ex>beri</ex></expan></supplied></w></name> <name><w><supplied reason="lost"><expan><abbr>Caes</abbr><ex>aris</ex></expan></supplied></w></name>
+                    <lb n="5"/><roleName type="supracivic" subtype="imperator"><w><expan><abbr>imp</abbr><ex>eratoris</ex></expan></w></roleName> <name><w><expan><abbr>Cae<supplied reason="lost">s</supplied></abbr><supplied reason="lost"><ex>aris</ex></supplied></expan></w></name> <w><supplied reason="lost">filii</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>
             <div type="apparatus">

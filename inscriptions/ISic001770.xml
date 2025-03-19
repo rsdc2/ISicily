@@ -171,8 +171,8 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
                     <lb n="1"/><w>κοίμησις</w>
-                    <lb n="2"/><persName type="attested"><name>Περιγένη</name></persName>
-                    <lb n="3"/><w>καὶ</w> <persName type="attested"><name>Βαλερείας</name></persName>
+                    <lb n="2"/><persName type="attested"><name><w>Περιγένη</w></name></persName>
+                    <lb n="3"/><w>καὶ</w> <persName type="attested"><name><w>Βαλερείας</w></name></persName>
                     <lb n="4"/><w>τῆς</w> <w><choice><orig>μάμης</orig><reg>μάμμης</reg></choice></w>
                     <lb n="5"/><w>αὐτοῦ</w> <w>ἀγορα
                     <lb n="6" break="no"/>σεία</w> <w>τοῦ</w> <w>τόπου</w>

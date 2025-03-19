@@ -190,9 +190,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/><w>ἐνθάδε</w> <w>κῖται</w> <name>Ἀ
-                    <lb n="2" break="no"/>δεύδατα</name> <w>τελευτ<supplied reason="omitted">ήσασα</supplied></w>
-                    <lb n="3"/><name>Ὀκτωβρίν</name> <w>ταῖς</w>
+                    <lb n="1"/><w>ἐνθάδε</w> <w>κῖται</w> <name><w>Ἀ
+                    <lb n="2" break="no"/>δεύδατα</w></name> <w>τελευτ<supplied reason="omitted">ήσασα</supplied></w>
+                    <lb n="3"/><name><w>Ὀκτωβρίν</w></name> <w>ταῖς</w>
                     <lb n="4"/><w>δέκαι</w> <w>α<g ref="#christogram">☧</g>ω</w>
                 </ab>
             </div>

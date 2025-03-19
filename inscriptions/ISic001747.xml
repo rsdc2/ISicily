@@ -175,10 +175,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#AJ">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name>Πετρώνιος</name> <name>Διονύσις</name></persName>
-                    <lb n="2"/><w>ζῆσας</w> <w>καλῶς</w> <w>ἒτη</w> <space quantity="1" unit="character"/><num value="80">π</num>
-                    <lb n="3"/><w>μῆνας</w> <num value="6">ἓξ</num> <w>ἡμέρας</w> <num value="15">ιε</num>
-                    <lb n="4"/><w>ἐτελεύτησεν</w> <w>πρὸ</w> <num value="7">ζ</num> <w><expan><abbr>εἰδ</abbr><ex>ῶν</ex></expan></w>
+                    <lb n="1"/><persName type="attested"><name><w>Πετρώνιος</w></name> <name><w>Διονύσις</w></name></persName>
+                    <lb n="2"/><w>ζῆσας</w> <w>καλῶς</w> <w>ἒτη</w> <space quantity="1" unit="character"/><num value="80"><w>π</w></num>
+                    <lb n="3"/><w>μῆνας</w> <num value="6"><w>ἓξ</w></num> <w>ἡμέρας</w> <num value="15"><w>ιε</w></num>
+                    <lb n="4"/><w>ἐτελεύτησεν</w> <w>πρὸ</w> <num value="7"><w>ζ</w></num> <w><expan><abbr>εἰδ</abbr><ex>ῶν</ex></expan></w>
                     <lb n="5"/><w>ἰουλίων</w> <w>καὶ</w> <w>ἐνθάδε</w> <w>κεῖτε</w>
                 </ab>
             </div>

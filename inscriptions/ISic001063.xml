@@ -188,13 +188,13 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1"/><w>Ἀντώνιος</w> <name>Σα
-                    <lb n="2" break="no"/>τρονῖλος</name> <w>ἐνθά
+                    <lb n="1"/><w>Ἀντώνιος</w> <name><w>Σα
+                    <lb n="2" break="no"/>τρονῖλος</w></name> <w>ἐνθά
                     <lb n="3" break="no"/>δε</w> <w>κῖτε</w> <w>ἐκοι
-                    <lb n="4" break="no"/>μήθη</w> <w>μηνὶ</w> <name><expan><abbr>Δεκ</abbr><ex>εμ</ex><abbr>β</abbr><ex>ρίῳ</ex></expan></name>
-                    <lb n="5"/><w>ἀπὸ</w> <w><expan><abbr>καλ</abbr><ex>ανδῶν</ex></expan></w> <num value="7">ζ</num>
-                    <lb n="6"/><name>Ἀντωνεία</name>
-                    <lb n="7"/><name>Εὐτυχεία</name>
+                    <lb n="4" break="no"/>μήθη</w> <w>μηνὶ</w> <name><w><expan><abbr>Δεκ</abbr><ex>εμ</ex><abbr>β</abbr><ex>ρίῳ</ex></expan></w></name>
+                    <lb n="5"/><w>ἀπὸ</w> <w><expan><abbr>καλ</abbr><ex>ανδῶν</ex></expan></w> <num value="7"><w>ζ</w></num>
+                    <lb n="6"/><name><w>Ἀντωνεία</w></name>
+                    <lb n="7"/><name><w>Εὐτυχεία</w></name>
                     <lb n="8"/><w>ἐνθάδε</w> <w>κῖτ<supplied reason="lost">ε</supplied></w>
                     <lb n="9"/><w><supplied reason="lost">ἐκ</supplied>οιμήθη</w> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>

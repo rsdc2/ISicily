@@ -187,7 +187,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
-                    <lb n="1"/><name><name part="I">Aur<supplied reason="lost">eli</supplied></name></name> <gap reason="lost" extent="unknown" unit="character"/> <orig>l</orig><gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><name><w><name part="I"><w>Aur<supplied reason="lost">eli</supplied></w></name></w></name> <gap reason="lost" extent="unknown" unit="character"/> <orig>l</orig><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="2"/><orig>quau</orig><gap reason="lost" extent="unknown" unit="character"/> <orig>i</orig><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="3"/><orig>gintagi</orig><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="4"/><orig>caleni</orig><gap reason="lost" extent="unknown" unit="character"/>

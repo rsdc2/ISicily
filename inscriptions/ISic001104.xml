@@ -189,7 +189,7 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <orig>ΣΕΣΣΘΤΑΙΑΙ</orig><gap reason="lost" extent="unknown" unit="character" cert="low"/>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w>ΗΟΙ</w> <w>μετὰ</w> <name>Κύπ<unclear>ρ</unclear><supplied reason="lost">ιδος</supplied></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w>ΗΟΙ</w> <w>μετὰ</w> <name><w>Κύπ<unclear>ρ</unclear><supplied reason="lost">ιδος</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>
             <div type="apparatus">

@@ -189,12 +189,12 @@
         <body>
              <div type="edition" xml:space="preserve" resp="#JP">
                 <ab xml:lang="grc">
-                    <lb n="1"/><g ref="#interpunct">❦</g> <w><expan><abbr>Θ</abbr><ex>εοῖς</ex></expan></w> <g ref="#interpunct">❦</g> <name><expan><abbr>Κ</abbr><ex>αταχθονίοις</ex></expan></name> <g ref="#interpunct">❦</g>
-                    <lb n="2"/><name>Ὀστρεῖς</name> <name>Λοίνας</name>
+                    <lb n="1"/><g ref="#interpunct">❦</g> <w><expan><abbr>Θ</abbr><ex>εοῖς</ex></expan></w> <g ref="#interpunct">❦</g> <name><w><expan><abbr>Κ</abbr><ex>αταχθονίοις</ex></expan></w></name> <g ref="#interpunct">❦</g>
+                    <lb n="2"/><name><w>Ὀστρεῖς</w></name> <name><w>Λοίνας</w></name>
                     <lb n="3"/><w>ἔζησεν</w> <g ref="#interpunct">❦</g> <w>ἔτη</w>
                 </ab>
                 <ab xml:lang="la">
-                    <lb n="4"/><g ref="#interpunct">❦</g> <num value="50">XXXXX</num> <g ref="#interpunct">❦</g>
+                    <lb n="4"/><g ref="#interpunct">❦</g> <num value="50"><w>XXXXX</w></num> <g ref="#interpunct">❦</g>
                 </ab>
             </div>
             <div type="apparatus">

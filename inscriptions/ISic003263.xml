@@ -196,9 +196,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc"><!-- text needs further editing, for inclusion of hedera, etc. -->
                 <ab>
-                    <lb n="1"/><w><expan><abbr>Θ</abbr><ex>εοῖς</ex></expan></w> <name><expan><abbr>Κ</abbr><ex>αταχθονίοις</ex></expan></name>
-                    <lb n="2"/><name><expan><abbr>Μ</abbr><ex>ᾶρκος</ex></expan></name> <name>Βειψάνιος</name>
-                    <lb n="3"/><name>Φοῖβος</name> <w><expan><abbr>ἔζησ</abbr><ex>εν</ex></expan></w> <w>ἔτη</w>
+                    <lb n="1"/><w><expan><abbr>Θ</abbr><ex>εοῖς</ex></expan></w> <name><w><expan><abbr>Κ</abbr><ex>αταχθονίοις</ex></expan></w></name>
+                    <lb n="2"/><name><w><expan><abbr>Μ</abbr><ex>ᾶρκος</ex></expan></w></name> <name><w>Βειψάνιος</w></name>
+                    <lb n="3"/><name><w>Φοῖβος</w></name> <w><expan><abbr>ἔζησ</abbr><ex>εν</ex></expan></w> <w>ἔτη</w>
                     <lb n="4"/><w>κϛ</w> <w>πατὴρ</w> <w>καὶ</w> <w>μή
                     <lb n="5" break="no"/></w> <w>τηρ</w> <w>υἱῷ</w> <w>εὐσεβεῖ</w>
                 </ab>

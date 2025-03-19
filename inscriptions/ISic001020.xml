@@ -191,11 +191,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM #JP">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name><gap reason="lost" extent="unknown" unit="character"/>ιλις</name></persName> <w>ἔζη
+                    <lb n="1"/><persName type="attested"><name><w><gap reason="lost" extent="unknown" unit="character"/>ιλις</w></name></persName> <w>ἔζη
                     <lb n="2" break="no"/><supplied reason="lost">σεν</supplied></w> <w>ἔτη</w> <orig>ΕΖ</orig><w>τε
                     <lb n="3" break="no"/><supplied reason="lost">λευτ</supplied>ᾷ</w> <w>δὲ</w> <w>μηνὶ</w>
-                    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <w>ιῳ</w> <w>τε͂ς</w> <num value="20">εἴκο
-                    <lb n="5" break="no"/><supplied reason="lost">σι</supplied><supplied reason="lost" cert="low">τρί</supplied>α</num> <w>ἐνθά
+                    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <w>ιῳ</w> <w>τε͂ς</w> <num value="20"><w>εἴκο
+                    <lb n="5" break="no"/><supplied reason="lost">σι</supplied><supplied reason="lost" cert="low">τρί</supplied>α</w></num> <w>ἐνθά
                     <lb n="6" break="no"/><supplied reason="lost">δε</supplied></w> <w><supplied reason="lost">κῖτ</supplied>ε</w> <g ref="#christogram">☧</g>
                 </ab>
             </div>

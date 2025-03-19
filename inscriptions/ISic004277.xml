@@ -185,7 +185,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#DEE">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name>Hilara</name></persName>
+                    <lb n="1"/><persName type="attested"><name><w>Hilara</w></name></persName>
                     <lb n="2"/><w>filiae</w>
                 </ab>
             </div>

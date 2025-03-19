@@ -184,12 +184,12 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#IG">
                 <ab>
                     <lb n="1"/><w>Ἐτελεύτησεν</w> <w>ὁ</w> <w>κα
-                    <lb n="2" break="no"/>λῆς</w> <w>μνήμης</w> <name>Ἀφροδίσ<hi rend="ligature">ης</hi></name>
-                    <lb n="3"/><w>τῇ</w> <w>πρὸ</w> <num value="12"><hi rend="supraline">ιβ</hi></num> <w>καλανδῶν</w>
+                    <lb n="2" break="no"/>λῆς</w> <w>μνήμης</w> <name><w>Ἀφροδίσ<hi rend="ligature">ης</hi></w></name>
+                    <lb n="3"/><w>τῇ</w> <w>πρὸ</w> <num value="12"><w><hi rend="supraline">ιβ</hi></w></num> <w>καλανδῶν</w>
                     <lb n="4"/><w>μαίων</w> <w>ζήσας</w> <w>ἔτη</w>
-                    <lb n="5"/><num value="23">εἴκοσι τρία</num> <roleName type="supracivic" subtype="consul"><w>ὑπατίᾳ</w></roleName>
-                    <lb n="6"/><name>Θεοδοσίου</name> <w><expan><abbr>τ</abbr><ex>ὸ</ex></expan></w> <num value="7">ζ</num> <w>καὶ</w>
-                    <lb n="7"/><name>Παλλαδίου</name> <roleName type="supracivic" subtype="clarissimus"><w><expan><abbr>λαμπ</abbr><ex>ροτάτου</ex></expan></w></roleName>
+                    <lb n="5"/><num value="23"><w>εἴκοσι τρία</w></num> <roleName type="supracivic" subtype="consul"><w>ὑπατίᾳ</w></roleName>
+                    <lb n="6"/><name><w>Θεοδοσίου</w></name> <w><expan><abbr>τ</abbr><ex>ὸ</ex></expan></w> <num value="7"><w>ζ</w></num> <w>καὶ</w>
+                    <lb n="7"/><name><w>Παλλαδίου</w></name> <roleName type="supracivic" subtype="clarissimus"><w><expan><abbr>λαμπ</abbr><ex>ροτάτου</ex></expan></w></roleName>
                     <lb n="7"/><g corresp="#decoration.figure.animal">dove</g> <g ref="#staurogram">𐆠</g> <g corresp="#decoration.figure.animal">dove</g>
                 </ab>
                </div>

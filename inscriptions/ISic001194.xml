@@ -191,7 +191,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#MH">
                 <ab>
-                    <lb n="1"/><w><supplied reason="lost">οἱ ἀλ</supplied>ειφόμεν<supplied reason="omitted">ο</supplied>ι</w> <name>Φίντων<supplied reason="lost">α</supplied></name>
+                    <lb n="1"/><w><supplied reason="lost">οἱ ἀλ</supplied>ειφόμεν<supplied reason="omitted">ο</supplied>ι</w> <name><w>Φίντων<supplied reason="lost">α</supplied></w></name>
                     <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <orig>ΕYΜϜΧΟΝ</orig>
                 </ab>
             </div>

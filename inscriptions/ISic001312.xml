@@ -191,7 +191,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#AL">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name type="idionym">Λουκίφερα</name></persName>
+                    <lb n="1"/><persName type="attested"><name type="idionym"><w>Λουκίφερα</w></name></persName>
                     <lb n="2"/><w>ζῶσα</w> <w>ἑαυ
                     <lb n="3" break="no"/>τῇ</w> <w>ἐποίησεν</w>
                     <lb n="4"/><w>καὶ</w> <w>τοῖς</w> <w>ἰδίοις</w>

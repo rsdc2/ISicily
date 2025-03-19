@@ -192,9 +192,9 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
                     <lb n="1"/><w>ἐνθάδε</w> <w>κῖτε</w>
-                    <lb n="2"/><name>Λουκιανὸς</name>
-                    <lb n="3"/><w>καὶ</w> <name>Νικοπόλη</name>
-                    <lb n="4"/><w>καὶ</w> <name>Στεφάνη</name>
+                    <lb n="2"/><name><w>Λουκιανὸς</w></name>
+                    <lb n="3"/><w>καὶ</w> <name><w>Νικοπόλη</w></name>
+                    <lb n="4"/><w>καὶ</w> <name><w>Στεφάνη</w></name>
                 </ab>
             </div>
             <div type="apparatus">

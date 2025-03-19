@@ -194,14 +194,14 @@
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#WS">
                 <ab>
                     <!-- text to be encoded still -->
-                    <lb n="1"/><w>[-</w> <name>-</name> <name>-]qui</name> <w>c[-</w> <name>-</name> <name>-]</name>
-                    <lb n="2"/><name>[-</name> <name>-</name> <name>-</name> <w>e]x</w> <w>eodem</w> <w>rigoṛ[e</w> <name>-</name> <name>-</name> <name>-]</name>
-                    <lb n="3"/><name>[-</name> <name>-</name> <name>-]ma</name> <w>parte</w> <w>ex</w> <w>quo</w> <w>pila</w> <name>++</name> <name>[-</name> <name>-</name> <name>-]</name>
-                    <lb n="4"/><name>[-</name> <name>-</name> <name>-]odum</name> <w>tutạ[m</w> <w>a]dq(ue)</w> <w>adeo</w> <w>cum</w> <w>et</w> <name>+[-</name> <name>-</name> <name>-]</name>
-                    <lb n="5"/><name>[-</name> <name>-</name> <name>-]molem</name> <w>istam</w> <name>[n]avigis</name> <w>adpulsis</w> <w>sca[-</w> <name>-</name> <name>-]</name>
-                    <lb n="6"/><name>[-</name> <name>-</name> <name>-]ndis</name> <w>suscipiendis</w> <w>oneribus</w> <w>consecu[-</w> <name>-</name> <name>-]</name>
-                    <lb n="7"/><name>[-</name> <name>-</name> <w>-]CCC</w> <name>[n(ummos)]</name> <w>meatibus</w> <w>urbicis</w> <w>mạg̣no</w> <w>prae[-</w> <name>-</name> <name>-]</name>
-                    <lb n="8"/><name>[-</name> <name>-</name> <name>-]tionis</name> <w>a[-</w> <name>-</name> <name>-]</name>
+                    <lb n="1"/><w>[-</w> <name><w>-</w></name> <name><w>-]qui</w></name> <w>c[-</w> <name><w>-</w></name> <name><w>-]</w></name>
+                    <lb n="2"/><name><w>[-</w></name> <name><w>-</w></name> <name><w>-</w></name> <w>e]x</w> <w>eodem</w> <w>rigoṛ[e</w> <name><w>-</w></name> <name><w>-</w></name> <name><w>-]</w></name>
+                    <lb n="3"/><name><w>[-</w></name> <name><w>-</w></name> <name><w>-]ma</w></name> <w>parte</w> <w>ex</w> <w>quo</w> <w>pila</w> <name><w>++</w></name> <name><w>[-</w></name> <name><w>-</w></name> <name><w>-]</w></name>
+                    <lb n="4"/><name><w>[-</w></name> <name><w>-</w></name> <name><w>-]odum</w></name> <w>tutạ[m</w> <w>a]dq(ue)</w> <w>adeo</w> <w>cum</w> <w>et</w> <name><w>+[-</w></name> <name><w>-</w></name> <name><w>-]</w></name>
+                    <lb n="5"/><name><w>[-</w></name> <name><w>-</w></name> <name><w>-]molem</w></name> <w>istam</w> <name><w>[n]avigis</w></name> <w>adpulsis</w> <w>sca[-</w> <name><w>-</w></name> <name><w>-]</w></name>
+                    <lb n="6"/><name><w>[-</w></name> <name><w>-</w></name> <name><w>-]ndis</w></name> <w>suscipiendis</w> <w>oneribus</w> <w>consecu[-</w> <name><w>-</w></name> <name><w>-]</w></name>
+                    <lb n="7"/><name><w>[-</w></name> <name><w>-</w></name> <w>-]CCC</w> <name><w>[n(ummos)]</w></name> <w>meatibus</w> <w>urbicis</w> <w>mạg̣no</w> <w>prae[-</w> <name><w>-</w></name> <name><w>-]</w></name>
+                    <lb n="8"/><name><w>[-</w></name> <name><w>-</w></name> <name><w>-]tionis</w></name> <w>a[-</w> <name><w>-</w></name> <name><w>-]</w></name>
                 </ab>
             </div>
             <div type="apparatus">

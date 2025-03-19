@@ -191,9 +191,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>Θ</abbr><ex>εοῖς</ex></expan></w> <name><expan><abbr>Κ</abbr><ex>αταχθονίοις</ex></expan></name>
+                    <lb n="1"/><w><expan><abbr>Θ</abbr><ex>εοῖς</ex></expan></w> <name><w><expan><abbr>Κ</abbr><ex>αταχθονίοις</ex></expan></w></name>
                     <lb n="2"/><orig>ΠΙΡΟΣΙΦΙΤΟΥ</orig>
-                    <lb n="3"/><name>Δεξιὸς</name>
+                    <lb n="3"/><name><w>Δεξιὸς</w></name>
                     <lb n="4"/><orig>ΚΑΙΣΩΟΔ</orig><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="5"/><w><expan><abbr>ἔζησ</abbr><ex>εν</ex></expan></w> <w><supplied reason="lost">ἔτη</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>

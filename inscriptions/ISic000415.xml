@@ -194,7 +194,7 @@
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JH">
                 <ab>
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w>F</w> <g ref="#interpunct">·</g> <w>C<unclear>I</unclear></w> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w><hi rend="ligature"><orig>PL</orig></hi>LAS</w> <g ref="#interpunct">·</g> <name><unclear>X</unclear></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w><hi rend="ligature"><orig>PL</orig></hi>LAS</w> <g ref="#interpunct">·</g> <name><w><unclear>X</unclear></w></name> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <orig>GYM</orig><gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>

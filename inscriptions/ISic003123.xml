@@ -191,11 +191,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#AA">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name>Γνησί
-                    <lb n="2" break="no"/>ου</name> <name>Ἡρο
-                    <lb n="3" break="no"/>ξένο<unclear>υ</unclear></name>
-                    <lb n="4"/><name>Ὀλυθρα
-                    <lb n="5" break="no"/>ίου</name></persName>
+                    <lb n="1"/><persName type="attested"><name><w>Γνησί
+                    <lb n="2" break="no"/>ου</w></name> <name><w>Ἡρο
+                    <lb n="3" break="no"/>ξένο<unclear>υ</unclear></w></name>
+                    <lb n="4"/><name><w>Ὀλυθρα
+                    <lb n="5" break="no"/>ίου</w></name></persName>
                 </ab>
             </div>
             <div type="apparatus">

@@ -193,11 +193,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
-                    <lb n="1"/><w>Dis</w> <name><expan><abbr>Manib</abbr><ex>us</ex></expan></name> <g ref="#ivy-leaf">❦</g>
-                    <lb n="2"/><g ref="#ivy-leaf">❦</g> <name>Epilanta
-                    <lb n="3" break="no"/><g ref="#ivy-leaf">❦</g>no</name> <g ref="#ivy-leaf">❦</g> <name>Patra</name> <g ref="#ivy-leaf">❦</g>
-                    <lb n="4"/><name>Annius</name> <g ref="#ivy-leaf">❦</g> <name>Chry
-                    <lb n="5" break="no"/>santa</name> <g ref="#interpunct">·</g> <w>alumn<supplied reason="lost">o</supplied></w>
+                    <lb n="1"/><w>Dis</w> <name><w><expan><abbr>Manib</abbr><ex>us</ex></expan></w></name> <g ref="#ivy-leaf">❦</g>
+                    <lb n="2"/><g ref="#ivy-leaf">❦</g> <name><w>Epilanta
+                    <lb n="3" break="no"/><g ref="#ivy-leaf">❦</g>no</w></name> <g ref="#ivy-leaf">❦</g> <name><w>Patra</w></name> <g ref="#ivy-leaf">❦</g>
+                    <lb n="4"/><name><w>Annius</w></name> <g ref="#ivy-leaf">❦</g> <name><w>Chry
+                    <lb n="5" break="no"/>santa</w></name> <g ref="#interpunct">·</g> <w>alumn<supplied reason="lost">o</supplied></w>
                     <lb n="6"/><g ref="#ivy-leaf">❦</g> <w><expan><abbr>b</abbr><ex>ene</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>m</abbr><ex>erenti</ex></expan></w> <g ref="#interpunct">·</g>
                 </ab>
             </div>

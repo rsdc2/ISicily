@@ -193,10 +193,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>C</abbr><ex>ai</ex></expan></w> <g ref="#interpunct">·</g> <name>Iuli</name> <name>Soter</name>
+                    <lb n="1"/><w><expan><abbr>C</abbr><ex>ai</ex></expan></w> <g ref="#interpunct">·</g> <name><w>Iuli</w></name> <name><w>Soter</w></name>
                     <lb n="2"/><w>have</w>
-                    <lb n="3"/><name>Coponia</name> <g ref="#interpunct">·</g> <name>He<g ref="#interpunct">·</g>
-                    <lb n="4" break="no"/>raclia</name> <w>have</w>
+                    <lb n="3"/><name><w>Coponia</w></name> <g ref="#interpunct">·</g> <name><w>He<g ref="#interpunct">·</g>
+                    <lb n="4" break="no"/>raclia</w></name> <w>have</w>
                 </ab>
             </div>
             <div type="apparatus">

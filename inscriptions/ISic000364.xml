@@ -207,7 +207,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#DM">
                 <ab>
-                    <lb n="1"/><w>Petillia</w> <name>Eleutherio</name>
+                    <lb n="1"/><w>Petillia</w> <name><w>Eleutherio</w></name>
                     <lb n="2"/><w>pia</w> <w>salve</w>
                 </ab>
             </div>

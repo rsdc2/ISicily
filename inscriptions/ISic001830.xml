@@ -171,7 +171,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name><unclear>Φ</unclear><supplied reason="lost">λάβιος</supplied></name> <name><unclear>Μ</unclear>αρτει<unclear>ν</unclear><supplied reason="lost">ι</supplied>ανός</name></persName>
+                    <lb n="1"/><persName type="attested"><name><w><unclear>Φ</unclear><supplied reason="lost">λάβιος</supplied></w></name> <name><w><unclear>Μ</unclear>αρτει<unclear>ν</unclear><supplied reason="lost">ι</supplied>ανός</w></name></persName>
                     <lb n="2"/><w>ὁ</w> <g ref="#interpunct">·</g> <w><expan><abbr>λ</abbr><ex>αμπρότατος</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr><unclear>ὑ</unclear><supplied reason="lost">πατ</supplied></abbr><supplied reason="lost"><ex>ικὸς</ex></supplied></expan></w> <w><unclear>τ</unclear>ὰς</w> <w>θερμ<unclear>ὰς</unclear></w> <space unit="character" quantity="3"/>
                     <lb n="3"/><gap reason="lost" unit="character" quantity="10" cert="low"/> <gap reason="illegible" unit="character" quantity="2"/> <gap reason="lost" unit="character" quantity="1"/> <gap reason="illegible" unit="character" atLeast="4" atMost="5"/> <gap reason="lost" unit="character" atLeast="1" atMost="5"/>
                 </ab>

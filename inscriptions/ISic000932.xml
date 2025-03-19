@@ -191,8 +191,8 @@
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <gap reason="illegible" unit="character" quantity="3"/> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="2"/><w>Εὐτύχιος</w>
                     <lb n="3"/><w>ἐτελεύτη
-                    <lb n="4" break="no"/>σε</w> <w>τῇ</w> <w>πρὸ</w> <num value="13">ιγ</num>
-                    <lb n="5"/><name><supplied reason="lost">Ὀ</supplied>κτωβρί<supplied reason="lost">ων</supplied></name>
+                    <lb n="4" break="no"/>σε</w> <w>τῇ</w> <w>πρὸ</w> <num value="13"><w>ιγ</w></num>
+                    <lb n="5"/><name><w><supplied reason="lost">Ὀ</supplied>κτωβρί<supplied reason="lost">ων</supplied></w></name>
                 </ab>
             </div>
             <div type="apparatus">

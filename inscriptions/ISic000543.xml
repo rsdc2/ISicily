@@ -189,11 +189,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#NCash">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name>Aeliae</name> <g ref="#interpunct">·</g> <name>Aug<supplied reason="lost">e</supplied></name></persName>
+                    <lb n="1"/><persName type="attested"><name><w>Aeliae</w></name> <g ref="#interpunct">·</g> <name><w>Aug<supplied reason="lost">e</supplied></w></name></persName>
                     <lb n="2"/><w>coniugi</w>
                     <lb n="3"/><w>sanctissimae</w>
-                    <lb n="4"/><persName type="attested"><name type="praenomen"><expan><abbr>P</abbr><ex>ublius</ex></expan></name> <g ref="#interpunct">·</g> <name type="nomen">Aelius</name> <g ref="#interpunct">·</g> <persName type="attested"><name type="libertinatio"><expan><abbr>Aug</abbr><ex>usti</ex></expan></name></persName> <g ref="#interpunct">·</g> <w><expan><abbr>lib</abbr><ex>ertus</ex></expan></w>
-                    <lb n="5"/><name type="cognomen"><supplied reason="lost">N</supplied>igr<supplied reason="lost">i</supplied>nus</name></persName>
+                    <lb n="4"/><persName type="attested"><name type="praenomen"><w><expan><abbr>P</abbr><ex>ublius</ex></expan></w></name> <g ref="#interpunct">·</g> <name type="nomen"><w>Aelius</w></name> <g ref="#interpunct">·</g> <persName type="attested"><name type="libertinatio"><w><expan><abbr>Aug</abbr><ex>usti</ex></expan></w></name></persName> <g ref="#interpunct">·</g> <w><expan><abbr>lib</abbr><ex>ertus</ex></expan></w>
+                    <lb n="5"/><name type="cognomen"><w><supplied reason="lost">N</supplied>igr<supplied reason="lost">i</supplied>nus</w></name></persName>
                 </ab>
             </div>
             <div type="apparatus" resp="#JP">

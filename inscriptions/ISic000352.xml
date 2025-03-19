@@ -195,9 +195,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <name><supplied reason="lost"><expan><abbr>M</abbr><ex>anibus</ex></expan></supplied></name> <w><supplied reason="lost"><expan><abbr>s</abbr><ex>acrum</ex></expan></supplied></w>
-                    <lb n="2"/><name><expan><abbr>T</abbr><ex>ito</ex></expan></name> <name>Fla</name> <w><supplied reason="lost">vi</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="3"/><name>Ion</name> <w><supplied reason="lost">i</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <name><w><supplied reason="lost"><expan><abbr>M</abbr><ex>anibus</ex></expan></supplied></w></name> <w><supplied reason="lost"><expan><abbr>s</abbr><ex>acrum</ex></expan></supplied></w>
+                    <lb n="2"/><name><w><expan><abbr>T</abbr><ex>ito</ex></expan></w></name> <name><w>Fla</w></name> <w><supplied reason="lost">vi</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="3"/><name><w>Ion</w></name> <w><supplied reason="lost">i</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>
             <div type="apparatus">

@@ -193,8 +193,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#VM">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>L</abbr><ex>ucius</ex></expan></w> <g ref="#interpunct">·</g> <name><expan><abbr>Pub<supplied reason="lost">l</supplied></abbr><supplied reason="lost"><ex>icius</ex></supplied></expan></name>
-                    <lb n="2"/><name><expan><abbr>Iucund</abbr><ex>us</ex></expan></name>
+                    <lb n="1"/><w><expan><abbr>L</abbr><ex>ucius</ex></expan></w> <g ref="#interpunct">·</g> <name><w><expan><abbr>Pub<supplied reason="lost">l</supplied></abbr><supplied reason="lost"><ex>icius</ex></supplied></expan></w></name>
+                    <lb n="2"/><name><w><expan><abbr>Iucund</abbr><ex>us</ex></expan></w></name>
                 </ab>
             </div>
             <div type="apparatus">

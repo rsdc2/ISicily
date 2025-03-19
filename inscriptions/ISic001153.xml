@@ -191,7 +191,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#MH">
                 <ab>
-                    <lb n="1"/><name>Πρωτάρχῳ</name>
+                    <lb n="1"/><name><w>Πρωτάρχῳ</w></name>
                     <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <orig>Χ</orig><gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>

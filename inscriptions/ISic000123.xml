@@ -213,9 +213,9 @@
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#TA #JP">
                 <ab>
                     <lb n="1" xml:id="AMeAK"/><g ref="#interpunct" xml:id="AMeAU">·</g> <w xml:id="AMeAe"><expan xml:id="AMeAo"><abbr xml:id="AMeAy">D</abbr><ex xml:id="AMeAΙ">is</ex></expan></w> <g ref="#interpunct" xml:id="AMeAΤ">·</g> <w xml:id="AMeAε"><expan xml:id="AMeAο"><abbr xml:id="AMeBA">m</abbr><ex xml:id="AMeBK">anibus</ex></expan></w> <g ref="#interpunct" xml:id="AMeBU">·</g>
-                    <lb n="2" xml:id="AMeBe"/><persName type="attested" xml:id="AMeBo"><name xml:id="AMeBy"><expan xml:id="AMeBΙ"><abbr xml:id="AMeBΤ">C</abbr><ex xml:id="AMeBε">aius</ex></expan></name> <name xml:id="AMeBο"><expan xml:id="AMeCA"><abbr xml:id="AMeCK">Aemil</abbr><ex xml:id="AMeCU">ius</ex></expan></name> <g ref="#interpunct" xml:id="AMeCe">·</g>
-                    <lb n="3" xml:id="AMeCo"/><name xml:id="AMeCy">Bacchio</name></persName>
-                    <lb n="4" xml:id="AMeCΙ"/><w xml:id="AMeCΤ"><expan xml:id="AMeCε"><abbr xml:id="AMeCο">v</abbr><ex xml:id="AMeDA">ixit</ex></expan></w> <g ref="#interpunct" xml:id="AMeDK">·</g> <w xml:id="AMeDU"><expan xml:id="AMeDe"><abbr xml:id="AMeDo">a</abbr><ex xml:id="AMeDy">nnis</ex></expan></w> <g ref="#interpunct" xml:id="AMeDΙ">·</g> <num value="40" xml:id="AMeDΤ">XL</num>
+                    <lb n="2" xml:id="AMeBe"/><persName type="attested" xml:id="AMeBo"><name xml:id="AMeBy"><w><expan xml:id="AMeBΙ"><abbr xml:id="AMeBΤ">C</abbr><ex xml:id="AMeBε">aius</ex></expan></w></name> <name xml:id="AMeBο"><w><expan xml:id="AMeCA"><abbr xml:id="AMeCK">Aemil</abbr><ex xml:id="AMeCU">ius</ex></expan></w></name> <g ref="#interpunct" xml:id="AMeCe">·</g>
+                    <lb n="3" xml:id="AMeCo"/><name xml:id="AMeCy"><w>Bacchio</w></name></persName>
+                    <lb n="4" xml:id="AMeCΙ"/><w xml:id="AMeCΤ"><expan xml:id="AMeCε"><abbr xml:id="AMeCο">v</abbr><ex xml:id="AMeDA">ixit</ex></expan></w> <g ref="#interpunct" xml:id="AMeDK">·</g> <w xml:id="AMeDU"><expan xml:id="AMeDe"><abbr xml:id="AMeDo">a</abbr><ex xml:id="AMeDy">nnis</ex></expan></w> <g ref="#interpunct" xml:id="AMeDΙ">·</g> <num value="40" xml:id="AMeDΤ"><w>XL</w></num>
                 </ab>
             </div>
             <div type="apparatus">

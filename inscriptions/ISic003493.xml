@@ -197,7 +197,7 @@
                     <lb n="3"/><w>καὶ</w> <w>ἄμεμ
                     <lb n="4" break="no"/>πτε</w> <w>χαῖρ<supplied reason="lost">ε</supplied></w>
                     <lb n="5"/><w>ἔζησε</w> <w>ἔτ<supplied reason="lost">η</supplied></w>
-                    <lb n="6"/><num atLeast="20" atMost="29">κ<gap reason="lost" quantity="1" unit="character"/></num> <w><expan><abbr><supplied reason="lost">ἡ</supplied>μ</abbr><ex>έρας</ex></expan></w> <num value="35"><unclear>λ</unclear>ε</num>
+                    <lb n="6"/><num atLeast="20" atMost="29"><w>κ<gap reason="lost" quantity="1" unit="character"/></w></num> <w><expan><abbr><supplied reason="lost">ἡ</supplied>μ</abbr><ex>έρας</ex></expan></w> <num value="35"><w><unclear>λ</unclear>ε</w></num>
                 </ab>
             </div>
             <div type="apparatus">

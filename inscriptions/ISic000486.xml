@@ -200,11 +200,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AR">
                 <ab>
-                    <lb n="1"/><name><expan><abbr>C</abbr><ex>aio</ex></expan></name> <g ref="#interpunct">·</g> <name>Bultio</name> <g ref="#interpunct">·</g> <name>Geminio</name>
-                    <lb n="2"/><name>Marcello</name> <g ref="#interpunct">·</g> <roleName type="supracivic" subtype="clarissimus"><w><expan><abbr>c</abbr><ex>larissimo</ex></expan></w></roleName> <g ref="#interpunct">·</g> <w><expan><abbr>i</abbr><ex>uveni</ex></expan></w>
+                    <lb n="1"/><name><w><expan><abbr>C</abbr><ex>aio</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w>Bultio</w></name> <g ref="#interpunct">·</g> <name><w>Geminio</w></name>
+                    <lb n="2"/><name><w>Marcello</w></name> <g ref="#interpunct">·</g> <roleName type="supracivic" subtype="clarissimus"><w><expan><abbr>c</abbr><ex>larissimo</ex></expan></w></roleName> <g ref="#interpunct">·</g> <w><expan><abbr>i</abbr><ex>uveni</ex></expan></w>
                     <lb n="3"/><w>in</w> <g ref="#interpunct">·</g> <w>honorem</w>
-                    <lb n="4"/><name>Gemini</name> <g ref="#interpunct">·</g> <name>Titiani</name>
-                    <lb n="5"/><w>patris</w> <g ref="#interpunct">·</g> <num value="12">XII</num> <g ref="#interpunct">·</g> <w><expan><abbr>trib</abbr><ex>us</ex></expan></w>
+                    <lb n="4"/><name><w>Gemini</w></name> <g ref="#interpunct">·</g> <name><w>Titiani</w></name>
+                    <lb n="5"/><w>patris</w> <g ref="#interpunct">·</g> <num value="12"><w>XII</w></num> <g ref="#interpunct">·</g> <w><expan><abbr>trib</abbr><ex>us</ex></expan></w>
                     <lb n="6"/><roleName type="paracivic" subtype="patronus"><w>patrono</w></roleName> <g ref="#interpunct">·</g> <w>merenti</w>
                 </ab>
             </div>

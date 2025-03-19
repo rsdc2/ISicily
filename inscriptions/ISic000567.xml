@@ -192,8 +192,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <name><gap reason="lost" quantity="1" unit="character"/>utorius</name>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <name><expan><abbr>L</abbr><ex>uci</ex></expan></name> <g ref="#interpunct">·</g> <name><expan><abbr>f</abbr><ex>ilius</ex></expan></name> <g ref="#interpunct">·</g> <name>Rufus</name>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <name><w><gap reason="lost" quantity="1" unit="character"/>utorius</w></name>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <name><w><expan><abbr>L</abbr><ex>uci</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w><expan><abbr>f</abbr><ex>ilius</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w>Rufus</w></name>
                 </ab>
             </div>
             <div type="apparatus">

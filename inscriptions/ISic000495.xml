@@ -192,9 +192,9 @@
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
                     <lb n="1"/><w><expan><abbr>d</abbr><ex>is</ex></expan></w> <g ref="#ivy-leaf">❦</g> <w><expan><abbr>m</abbr><ex>anibus</ex></expan></w>
-                    <lb n="2"/><name><expan><abbr>C</abbr><ex>aio</ex></expan></name> <name>Cornelio</name>
-                    <lb n="3"/><name>Philoni</name>
-                    <lb n="4"/><name><expan><abbr>C</abbr><ex>aius</ex></expan></name> <g ref="#interpunct">·</g> <name>Cornelius</name> <name><expan><abbr>Glap<hi rend="stacked">y</hi>r</abbr><ex>us</ex></expan></name>
+                    <lb n="2"/><name><w><expan><abbr>C</abbr><ex>aio</ex></expan></w></name> <name><w>Cornelio</w></name>
+                    <lb n="3"/><name><w>Philoni</w></name>
+                    <lb n="4"/><name><w><expan><abbr>C</abbr><ex>aius</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w>Cornelius</w></name> <name><w><expan><abbr>Glap<hi rend="stacked">y</hi>r</abbr><ex>us</ex></expan></w></name>
                     <lb n="5"/><w>patronus</w> <g ref="#interpunct">·</g> <w><expan><abbr>l</abbr><ex>iberto</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>b</abbr><ex>ene</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>m</abbr><ex>erenti</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>f</abbr><ex>ecit</ex></expan></w> <g ref="#interpunct">·</g>
                 </ab>
             </div>

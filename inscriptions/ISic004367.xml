@@ -238,8 +238,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>C</abbr><ex>aios</ex></expan></w> <g ref="#interpunct">·</g> <name><expan><abbr>Paperio</abbr><ex>s</ex></expan></name> <g ref="#interpunct">·</g> <name><expan><abbr>Ti</abbr><ex>beri</ex></expan></name> <g ref="#interpunct">·</g> <w><expan><abbr>f</abbr><ex>ilios</ex></expan></w>
-                    <lb n="2"/><name><expan><abbr>M</abbr><ex>arcos</ex></expan></name> <g ref="#interpunct">·</g> <name><expan><abbr>Populicio</abbr><ex>s</ex></expan></name> <g ref="#interpunct">·</g> <name><expan><abbr>L</abbr><ex>ucii</ex></expan></name> <g ref="#interpunct">·</g> <w><expan><abbr>f</abbr><ex>ilios</ex></expan></w> <g ref="#interpunct">·</g> <roleName type="supracivic" subtype="quaestor"><w><expan><abbr>q</abbr><ex>uaestores</ex></expan></w></roleName> <g ref="#interpunct">·</g> <w><expan><abbr>p</abbr><ex>robaverunt</ex></expan></w>
+                    <lb n="1"/><w><expan><abbr>C</abbr><ex>aios</ex></expan></w> <g ref="#interpunct">·</g> <name><w><expan><abbr>Paperio</abbr><ex>s</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w><expan><abbr>Ti</abbr><ex>beri</ex></expan></w></name> <g ref="#interpunct">·</g> <w><expan><abbr>f</abbr><ex>ilios</ex></expan></w>
+                    <lb n="2"/><name><w><expan><abbr>M</abbr><ex>arcos</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w><expan><abbr>Populicio</abbr><ex>s</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w><expan><abbr>L</abbr><ex>ucii</ex></expan></w></name> <g ref="#interpunct">·</g> <w><expan><abbr>f</abbr><ex>ilios</ex></expan></w> <g ref="#interpunct">·</g> <roleName type="supracivic" subtype="quaestor"><w><expan><abbr>q</abbr><ex>uaestores</ex></expan></w></roleName> <g ref="#interpunct">·</g> <w><expan><abbr>p</abbr><ex>robaverunt</ex></expan></w>
                 </ab>
             </div>
             <div type="apparatus"/>

@@ -195,8 +195,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>M</abbr><ex>arco</ex></expan></w> <g ref="#interpunct">·</g> <name>Ar</name> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="2"/><name>Fulvini<supplied reason="undefined" evidence="previouseditor">o</supplied></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><w><expan><abbr>M</abbr><ex>arco</ex></expan></w> <g ref="#interpunct">·</g> <name><w>Ar</w></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><name><w>Fulvini<supplied reason="undefined" evidence="previouseditor">o</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="3"/><w>prae<supplied reason="lost" cert="low">fect</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>

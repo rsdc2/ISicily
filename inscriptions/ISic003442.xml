@@ -190,8 +190,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#MB">
                 <ab>
-                    <lb n="1"/><persName><name>Εὐμέ
-                    <lb n="2" break="no"/>νης</name></persName>
+                    <lb n="1"/><persName><name><w>Εὐμέ
+                    <lb n="2" break="no"/>νης</w></name></persName>
                 </ab>
             </div>
             <div type="apparatus">

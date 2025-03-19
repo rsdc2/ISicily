@@ -189,7 +189,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>M</abbr><ex>arcus</ex></expan></w> <name>Petronius</name> <name>Rufinus</name> <roleName type="civic.religious" subtype="sevir.augustalis"><w><expan><abbr><am>VI</am></abbr><ex>se</ex><abbr>vir</abbr></expan></w> <name><expan><abbr>Aug</abbr><ex>ustalis</ex></expan></name></roleName>
+                    <lb n="1"/><w><expan><abbr>M</abbr><ex>arcus</ex></expan></w> <name><w>Petronius</w></name> <name><w>Rufinus</w></name> <roleName type="civic.religious" subtype="sevir.augustalis"><w><expan><abbr><am>VI</am></abbr><ex>se</ex><abbr>vir</abbr></expan></w> <name><w><expan><abbr>Aug</abbr><ex>ustalis</ex></expan></w></name></roleName>
                 </ab>
             </div>
             <div type="apparatus">

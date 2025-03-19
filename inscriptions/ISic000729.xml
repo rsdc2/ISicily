@@ -200,9 +200,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la">
                 <ab>
-                    <lb n="1"/><w><abbr>d</abbr></w> <name><expan><abbr>A</abbr><ex>ulo</ex></expan></name> <name>Tedio</name> <name><expan><abbr>A</abbr><ex>uli</ex></expan></name> <w><expan><abbr>f</abbr><ex>ilio</ex></expan></w> <name>A<supplied reason="lost" cert="low">ugurino</supplied></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><w><abbr>d</abbr></w> <name><w><expan><abbr>A</abbr><ex>ulo</ex></expan></w></name> <name><w>Tedio</w></name> <name><w><expan><abbr>A</abbr><ex>uli</ex></expan></w></name> <w><expan><abbr>f</abbr><ex>ilio</ex></expan></w> <name><w>A<supplied reason="lost" cert="low">ugurino</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="2"/><space quantity="1" unit="character"/><w>praefec<supplied reason="lost">to</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <name><expan><abbr>Ti</abbr><ex>berius</ex></expan></name> <gap reason="illegible" quantity="1" unit="character"/> <w>u</w> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <name><w><expan><abbr>Ti</abbr><ex>berius</ex></expan></w></name> <gap reason="illegible" quantity="1" unit="character"/> <w>u</w> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>
             <div type="apparatus">

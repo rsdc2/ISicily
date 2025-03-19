@@ -191,7 +191,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
-                    <lb n="1"/><w>Venerei</w> <g ref="#interpunct">·</g> <name>Erucina<supplied reason="lost">e</supplied></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><w>Venerei</w> <g ref="#interpunct">·</g> <name><w>Erucina<supplied reason="lost">e</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>
             <div type="apparatus">

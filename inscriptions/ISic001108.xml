@@ -188,8 +188,8 @@
         <body>
                <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1" xml:id="BKεAK"/><w xml:id="BKεAU">Σώπολις</w> <name xml:id="BKεAe">Φαλάκ<supplied reason="lost" xml:id="BKεAo">ρου</supplied></name> <w xml:id="BKεAy"><supplied reason="lost" xml:id="BKεAΙ">τ</supplied>ὰν</w> <w xml:id="BKεAΤ">αὐτοῦτα</w> <w xml:id="BKεAε">ματέρα</w>
-                    <lb n="2" xml:id="BKεAο"/><gap reason="lost" extent="unknown" unit="character" xml:id="BKεBA"/> <w xml:id="BKεBK">αν</w> <name xml:id="BKεBU">Φαλ<supplied reason="lost" xml:id="BKεBe">ακρ</supplied>ίαν</name> <w xml:id="BKεBo">εὐνοίας</w> <w xml:id="BKεBy">ἕνεκα</w>
+                    <lb n="1" xml:id="BKεAK"/><w xml:id="BKεAU">Σώπολις</w> <name xml:id="BKεAe"><w>Φαλάκ<supplied reason="lost" xml:id="BKεAo">ρου</supplied></w></name> <w xml:id="BKεAy"><supplied reason="lost" xml:id="BKεAΙ">τ</supplied>ὰν</w> <w xml:id="BKεAΤ">αὐτοῦτα</w> <w xml:id="BKεAε">ματέρα</w>
+                    <lb n="2" xml:id="BKεAο"/><gap reason="lost" extent="unknown" unit="character" xml:id="BKεBA"/> <w xml:id="BKεBK">αν</w> <name xml:id="BKεBU"><w>Φαλ<supplied reason="lost" xml:id="BKεBe">ακρ</supplied>ίαν</w></name> <w xml:id="BKεBo">εὐνοίας</w> <w xml:id="BKεBy">ἕνεκα</w>
                 </ab>
             </div>
             <div type="apparatus">

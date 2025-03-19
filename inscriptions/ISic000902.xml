@@ -192,11 +192,11 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
                     <lb n="0"/><g ref="#christogram">☧</g> <g ref="#christogram">☧</g> <g ref="#christogram">☧</g>
-                    <lb n="1"/><w>ἐνθάδε</w> <w>κῖτε</w> <name>Βικτ
-                    <lb n="2" break="no"/>ωρία</name> <w>ζήσασα</w> <w>ἔτη</w>
-                    <lb n="3"/><g ref="#interpunct">·</g> <num value="4">δ</num> <g ref="#interpunct">·</g> <w>ἐτελεύτα</w> <w><hi rend="ligature">πρὸ</hi></w> <num value="5">ε</num>
-                    <lb n="4"/><w><expan><abbr>καλ</abbr><ex>ανδῶν</ex></expan></w> <g ref="#interpunct">·</g> <name><expan><abbr>Ἰουλ</abbr><ex>ίων</ex></expan></name> <g ref="#interpunct">·</g> <roleName type="supracivic" subtype="consul"><w>ὑπατ</w> <w><supplied reason="lost">ί</supplied></w> <w>ᾳ</w></roleName>
-                    <lb n="5"/><name>Θεοδοσί<hi rend="stacked">ο</hi>υ</name> <w>τ<hi rend="small">ὸ</hi></w> <num value="14">ιδ</num> <g ref="#ivy-leaf">❦</g>
+                    <lb n="1"/><w>ἐνθάδε</w> <w>κῖτε</w> <name><w>Βικτ
+                    <lb n="2" break="no"/>ωρία</w></name> <w>ζήσασα</w> <w>ἔτη</w>
+                    <lb n="3"/><g ref="#interpunct">·</g> <num value="4"><w>δ</w></num> <g ref="#interpunct">·</g> <w>ἐτελεύτα</w> <w><hi rend="ligature">πρὸ</hi></w> <num value="5"><w>ε</w></num>
+                    <lb n="4"/><w><expan><abbr>καλ</abbr><ex>ανδῶν</ex></expan></w> <g ref="#interpunct">·</g> <name><w><expan><abbr>Ἰουλ</abbr><ex>ίων</ex></expan></w></name> <g ref="#interpunct">·</g> <roleName type="supracivic" subtype="consul"><w>ὑπατ</w> <w><supplied reason="lost">ί</supplied></w> <w>ᾳ</w></roleName>
+                    <lb n="5"/><name><w>Θεοδοσί<hi rend="stacked">ο</hi>υ</w></name> <w>τ<hi rend="small">ὸ</hi></w> <num value="14"><w>ιδ</w></num> <g ref="#ivy-leaf">❦</g>
                     <lb n="5a"/><g ref="#palm">⸙</g>
                 </ab>
             </div>

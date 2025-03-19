@@ -186,7 +186,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/><w>κατὰ</w> <space quantity="2" unit="character"/><name>Ἀθηναίων</name>
+                    <lb n="1"/><w>κατὰ</w> <space quantity="2" unit="character"/><name><w>Ἀθηναίων</w></name>
                 </ab>
             </div>
             <div type="apparatus">

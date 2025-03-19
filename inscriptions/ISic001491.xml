@@ -187,7 +187,7 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w>ἀρχὸς<space extent="unknown" unit="character"/></w>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <name>Δαμ<space extent="unknown" unit="character" cert="low"/></name>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <name><w>Δαμ<space extent="unknown" unit="character" cert="low"/></w></name>
                     <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <w><unclear>ͱ</unclear>ενναίων<space extent="unknown" unit="character"/></w>
                 </ab>
             </div>

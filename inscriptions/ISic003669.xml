@@ -194,11 +194,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
-                    <lb n="1"/><w><supplied reason="lost" cert="low"><expan><abbr>D</abbr><ex>arcus</ex></expan></supplied></w> <name><unclear>F</unclear>avonius</name>
-                    <lb n="2"/><name><expan><abbr>M</abbr><ex>arci</ex></expan></name> <g ref="#interpunct">·</g> <w><expan><abbr>lib</abbr><ex>ertus</ex></expan></w> <g ref="#interpunct">·</g>
-                    <lb n="3"/><name>Amarantus</name> <g ref="#interpunct">·</g>
-                    <lb n="4"/><name><expan><abbr>M</abbr><ex>arcus</ex></expan></name> <g ref="#interpunct">·</g> <name>Cassius</name> <g ref="#interpunct">·</g>
-                    <lb n="5"/><name>Heracla</name> <w>alumnus</w>
+                    <lb n="1"/><w><supplied reason="lost" cert="low"><expan><abbr>D</abbr><ex>arcus</ex></expan></supplied></w> <name><w><unclear>F</unclear>avonius</w></name>
+                    <lb n="2"/><name><w><expan><abbr>M</abbr><ex>arci</ex></expan></w></name> <g ref="#interpunct">·</g> <w><expan><abbr>lib</abbr><ex>ertus</ex></expan></w> <g ref="#interpunct">·</g>
+                    <lb n="3"/><name><w>Amarantus</w></name> <g ref="#interpunct">·</g>
+                    <lb n="4"/><name><w><expan><abbr>M</abbr><ex>arcus</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w>Cassius</w></name> <g ref="#interpunct">·</g>
+                    <lb n="5"/><name><w>Heracla</w></name> <w>alumnus</w>
                     <lb n="6"/><w>fecit</w> <g ref="#interpunct">·</g>
                 </ab>
             </div>

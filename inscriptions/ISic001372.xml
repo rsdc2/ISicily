@@ -188,9 +188,9 @@
                 <ab>
                     <lb n="1"/><w>ἐνθάδε</w> <w>κῖ<supplied reason="lost">τε</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="2"/><w>ἡ</w> <w>παρθέν<supplied reason="lost">ος</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="3"/><w>ἔτη</w> <num atLeast="8"><unclear>η</unclear></num> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="3"/><w>ἔτη</w> <num atLeast="8"><w><unclear>η</unclear></w></num> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="4"/><space unit="character" extent="unknown"/>
-                    <lb n="5"/><w><expan><abbr>καλ</abbr><ex>ανδῶν</ex></expan></w> <space unit="character" quantity="1"/><name>Σε<supplied reason="lost">πτ</supplied></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="5"/><w><expan><abbr>καλ</abbr><ex>ανδῶν</ex></expan></w> <space unit="character" quantity="1"/><name><w>Σε<supplied reason="lost">πτ</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>
             <div type="apparatus">

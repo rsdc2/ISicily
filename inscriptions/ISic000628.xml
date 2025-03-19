@@ -204,9 +204,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la">
                 <ab>
-                    <lb n="1"/><w>D(is)</w> <name>M(anibus)</name> <w>s(acrum)</w>
-                    <lb n="2"/><name>Abdalas</name> <name>Domi
-                    <lb n="3" break="no"/>tiae</name> <name>Domitiani</name>
+                    <lb n="1"/><w>D(is)</w> <name><w>M(anibus)</w></name> <w>s(acrum)</w>
+                    <lb n="2"/><name><w>Abdalas</w></name> <name><w>Domi
+                    <lb n="3" break="no"/>tiae</w></name> <name><w>Domitiani</w></name>
                     <lb n="4"/><w>magister</w> <w>magnus</w>
                     <lb n="5"/><w>ovium</w> <w>qui</w> <w>bene</w> <w>vix(it)</w>
                     <lb n="6"/><w>in</w> <w>officio</w> <w>ann(os)</w> <w>LXXX</w>

@@ -194,11 +194,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#AL">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>Θ</abbr><ex>εοῖς</ex></expan></w> <space extent="unknown" unit="character"/><name><expan><abbr>Κ</abbr><ex>ατα</ex><abbr>χ</abbr><ex>θονίοις</ex></expan></name> <g ref="#ivy-leaf">❦</g>
-                    <lb n="2"/><persName type="attested"><name type="idionym">Εὐφραίνων</name></persName>
+                    <lb n="1"/><w><expan><abbr>Θ</abbr><ex>εοῖς</ex></expan></w> <space extent="unknown" unit="character"/><name><w><expan><abbr>Κ</abbr><ex>ατα</ex><abbr>χ</abbr><ex>θονίοις</ex></expan></w></name> <g ref="#ivy-leaf">❦</g>
+                    <lb n="2"/><persName type="attested"><name type="idionym"><w>Εὐφραίνων</w></name></persName>
                     <lb n="3"/><w>χαῖρε</w> <g ref="#ivy-leaf">❦</g>
                     <lb n="4"/><w>χρηστέ</w> <w>ἔζησας</w>
-                    <lb n="5"/><w>ἔτη</w> <num value="7">ζ</num> <w><expan><abbr>μῆ</abbr><ex>νας</ex></expan></w> <num value="3">γ</num>
+                    <lb n="5"/><w>ἔτη</w> <num value="7"><w>ζ</w></num> <w><expan><abbr>μῆ</abbr><ex>νας</ex></expan></w> <num value="3"><w>γ</w></num>
                 </ab>
             </div>
             <div type="apparatus">

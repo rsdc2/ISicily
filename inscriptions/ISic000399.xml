@@ -197,8 +197,8 @@
                 <ab>
                     <lb n="1"/><w><supplied reason="lost">q</supplied>uiescu<supplied reason="lost">nt</supplied></w>
                     <lb n="2"/><w>annos</w>
-                    <lb n="3"/><orig>A</orig><num value="2">II</num> <g ref="#interpunct">·</g> <w>et</w> <orig>A</orig>
-                    <lb n="4"/><orig>ST</orig><g ref="#interpunct">·</g> <num value="20">XX</num>
+                    <lb n="3"/><orig>A</orig><num value="2"><w>II</w></num> <g ref="#interpunct">·</g> <w>et</w> <orig>A</orig>
+                    <lb n="4"/><orig>ST</orig><g ref="#interpunct">·</g> <num value="20"><w>XX</w></num>
                 </ab>
             </div>
             <div type="apparatus" resp="#JH">

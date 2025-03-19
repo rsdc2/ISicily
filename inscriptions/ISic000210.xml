@@ -192,8 +192,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#VM">
                 <ab>
-                    <lb n="1"/><w><supplied reason="lost"><expan><abbr>D</abbr><ex>is</ex></expan></supplied></w> <name><expan><abbr>M</abbr><ex>anibus</ex></expan></name>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <name><supplied reason="lost">P</supplied><unclear>r</unclear>imo</name>
+                    <lb n="1"/><w><supplied reason="lost"><expan><abbr>D</abbr><ex>is</ex></expan></supplied></w> <name><w><expan><abbr>M</abbr><ex>anibus</ex></expan></w></name>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <name><w><supplied reason="lost">P</supplied><unclear>r</unclear>imo</w></name>
                     <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">f</supplied>ra<unclear>te</unclear><supplied reason="lost">r</supplied></w>
                 </ab>
             </div>

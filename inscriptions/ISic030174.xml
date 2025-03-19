@@ -175,12 +175,12 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
                     <milestone unit="face" n="a"/>
-                    <lb n="1"/><persName type="attested"><name type="idionym">Θέο̄ν</name>
-                    <lb n="2"/><name type="patronym">Νικί<unclear>ο</unclear><supplied reason="lost">υ</supplied></name></persName> <milestone unit="face" n="b"/>
-                    <lb n="3"/><num value="4">τερτάτα</num> <w><surplus>α</surplus></w>
+                    <lb n="1"/><persName type="attested"><name type="idionym"><w>Θέο̄ν</w></name>
+                    <lb n="2"/><name type="patronym"><w>Νικί<unclear>ο</unclear><supplied reason="lost">υ</supplied></w></name></persName> <milestone unit="face" n="b"/>
+                    <lb n="3"/><num value="4"><w>τερτάτα</w></num> <w><surplus>α</surplus></w>
                     <lb n="4"/><w>ἀπὸ</w> <w>νεάτα<supplied reason="lost">ς</supplied></w>
-                    <lb n="5"/><num value="14">τετάρτα
-                    <lb n="6"/>δεκάτ<supplied reason="lost">α</supplied></num>
+                    <lb n="5"/><num value="14"><w>τετάρτα
+                    <lb n="6"/>δεκάτ<supplied reason="lost">α</supplied></w></num>
                 </ab>
             </div>
             <div type="apparatus">

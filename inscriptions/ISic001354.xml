@@ -193,12 +193,12 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/><w>Ἐνθάδε</w> <w>κεῖται</w> <name>Εὐ
-                    <lb n="2" break="no"/>τυχιανὸς</name> <w>ζήσας</w> <w>ἐν</w>
-                    <lb n="3"/><name><expan><abbr><hi rend="supraline">Χ</hi></abbr><ex>ριστ</ex><abbr><hi rend="supraline">ῷ</hi></abbr></expan></name> <w>τελευτᾷ</w> <w>τῇ</w> <w><expan><abbr><hi rend="ligature">πρ</hi></abbr><ex>ὸ</ex></expan></w> <num value="9"><hi rend="supraline">θ</hi></num>
-                    <lb n="4"/><w>καλανδῶν</w> <name>Αὐγουσ
-                    <lb n="5" break="no"/>τῶν</name> <w><expan><abbr>ὑπ</abbr><ex>ατείᾳ</ex></expan></w> <name>Ἀνικίου</name> <name>Αὐχενί
-                    <lb n="6" break="no"/>ου</name> <name>Βάσσου</name> <w><expan><abbr>κα</abbr><ex>ὶ</ex></expan></w> <name><expan><abbr>Φλ</abbr><ex>αυ</ex><abbr>ί</abbr><ex>ου</ex></expan></name> <name><expan><abbr>Φ</abbr><ex>ι</ex><abbr>λίππου</abbr></expan></name>
+                    <lb n="1"/><w>Ἐνθάδε</w> <w>κεῖται</w> <name><w>Εὐ
+                    <lb n="2" break="no"/>τυχιανὸς</w></name> <w>ζήσας</w> <w>ἐν</w>
+                    <lb n="3"/><name><w><expan><abbr><hi rend="supraline">Χ</hi></abbr><ex>ριστ</ex><abbr><hi rend="supraline">ῷ</hi></abbr></expan></w></name> <w>τελευτᾷ</w> <w>τῇ</w> <w><expan><abbr><hi rend="ligature">πρ</hi></abbr><ex>ὸ</ex></expan></w> <num value="9"><w><hi rend="supraline">θ</hi></w></num>
+                    <lb n="4"/><w>καλανδῶν</w> <name><w>Αὐγουσ
+                    <lb n="5" break="no"/>τῶν</w></name> <w><expan><abbr>ὑπ</abbr><ex>ατείᾳ</ex></expan></w> <name><w>Ἀνικίου</w></name> <name><w>Αὐχενί
+                    <lb n="6" break="no"/>ου</w></name> <name><w>Βάσσου</w></name> <w><expan><abbr>κα</abbr><ex>ὶ</ex></expan></w> <name><w><expan><abbr>Φλ</abbr><ex>αυ</ex><abbr>ί</abbr><ex>ου</ex></expan></w></name> <name><w><expan><abbr>Φ</abbr><ex>ι</ex><abbr>λίππου</abbr></expan></w></name>
                 </ab>
             </div>
             <div type="apparatus">

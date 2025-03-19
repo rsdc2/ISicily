@@ -196,8 +196,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>Γ</abbr><ex>αι</ex></expan></w> <g ref="#interpunct">·</g> <name>Ματρίνι</name>
-                    <lb n="2"/><name>Φηλικίων</name> <g ref="#interpunct">·</g>
+                    <lb n="1"/><w><expan><abbr>Γ</abbr><ex>αι</ex></expan></w> <g ref="#interpunct">·</g> <name><w>Ματρίνι</w></name>
+                    <lb n="2"/><name><w>Φηλικίων</w></name> <g ref="#interpunct">·</g>
                     <lb n="3"/><w><expan><abbr>χρη</abbr><ex>στὲ</ex></expan></w> <g ref="#interpunct">·</g> <w>καὶ</w> <g ref="#interpunct">·</g> <w><expan><abbr>ἄμε</abbr><ex>μπτε</ex></expan></w> <g ref="#interpunct">·</g> <w>χαῖρε</w>
                 </ab>
             </div>

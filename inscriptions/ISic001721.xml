@@ -175,7 +175,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JH">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name>Νύμφη</name></persName> <w>ἐνθ<unclear>ά</unclear>
+                    <lb n="1"/><persName type="attested"><name><w>Νύμφη</w></name></persName> <w>ἐνθ<unclear>ά</unclear>
                     <lb n="2" break="no"/>δε</w> <w>κεῖτ<choice><orig>ε</orig><reg>αι</reg></choice></w> <w>ζή<supplied reason="lost">σασα</supplied></w>
                     <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/>
                 </ab>

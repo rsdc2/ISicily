@@ -193,11 +193,11 @@
                 <ab>
                     <lb n="1"/><orig>E</orig><g ref="#interpunct">·</g> <w>hic</w> <g ref="#interpunct">·</g> <orig>PE</orig>
                     <lb n="2"/><gap reason="lost" extent="unknown" unit="line"/>
-                    <lb n="3"/><name>Clementin<choice><reg>ae</reg><orig>e</orig></choice></name>
+                    <lb n="3"/><name><w>Clementin<choice><reg>ae</reg><orig>e</orig></choice></w></name>
                     <lb n="4"/><w>sorori</w>
-                    <lb n="5"/><name><expan><abbr>Fl</abbr><ex>avii</ex></expan></name> <name>Maini</name>
+                    <lb n="5"/><name><w><expan><abbr>Fl</abbr><ex>avii</ex></expan></w></name> <name><w>Maini</w></name>
                     <lb n="6"/><roleName type="supracivic" subtype="senator"><w>senatoris</w></roleName> <w><expan><abbr>in</abbr><ex cert="low">felici</ex></expan></w>
-                    <lb n="7"/><w>vixit</w> <g ref="#interpunct">·</g> <w><expan><abbr>a</abbr><ex>nnos</ex></expan></w> <g ref="#interpunct">·</g> <num value="3">III</num>
+                    <lb n="7"/><w>vixit</w> <g ref="#interpunct">·</g> <w><expan><abbr>a</abbr><ex>nnos</ex></expan></w> <g ref="#interpunct">·</g> <num value="3"><w>III</w></num>
                 </ab>
             </div>
             <div type="apparatus">

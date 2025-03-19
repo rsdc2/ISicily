@@ -193,8 +193,8 @@
                 <ab>
                     <lb n="1"/><space quantity="1" unit="character"/><w>Φίλιο<unclear>ς</unclear></w> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="2"/><space quantity="2" unit="character"/><roleName type="civic" subtype="agonothetes"><w>ἀγω</w> <w><unclear>ν</unclear></w> <w><supplied reason="lost" cert="low">οθέτης</supplied></w></roleName> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <name><unclear>Νι</unclear>κομήδ<supplied reason="lost">ης</supplied></name> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <name><supplied reason="lost">Νυ</supplied>μφ<supplied reason="lost">ό</supplied><unclear>δ</unclear><supplied reason="lost">ωρος</supplied></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <name><w><unclear>Νι</unclear>κομήδ<supplied reason="lost">ης</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <name><w><supplied reason="lost">Νυ</supplied>μφ<supplied reason="lost">ό</supplied><unclear>δ</unclear><supplied reason="lost">ωρος</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/> <orig><unclear>Τ</unclear>Ι <unclear>Μ</unclear></orig><gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>

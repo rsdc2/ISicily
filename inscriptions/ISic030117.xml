@@ -172,7 +172,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1"/><w><supplied reason="lost">δα</supplied>μόσιον</w> <placeName type="ethnic"><name>Συρακοσίο̄ν</name></placeName>
+                    <lb n="1"/><w><supplied reason="lost">δα</supplied>μόσιον</w> <placeName type="ethnic"><name><w>Συρακοσίο̄ν</w></name></placeName>
                 </ab>
            </div>
             <div type="apparatus">

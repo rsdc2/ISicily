@@ -174,8 +174,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
-                    <lb n="1"/><w><abbr>L</abbr></w> <name><abbr>L</abbr></name> <name><abbr>D</abbr></name> <name>Augusto</name> <w>sacrum</w> <w>et</w> <w>genio</w> <w>civitatis</w>
-                    <lb n="2"/><w>populus</w> <name><expan><abbr>Drepanit</abbr><ex>orum</ex></expan></name>
+                    <lb n="1"/><w><abbr>L</abbr></w> <name><w><abbr>L</abbr></w></name> <name><w><abbr>D</abbr></w></name> <name><w>Augusto</w></name> <w>sacrum</w> <w>et</w> <w>genio</w> <w>civitatis</w>
+                    <lb n="2"/><w>populus</w> <name><w><expan><abbr>Drepanit</abbr><ex>orum</ex></expan></w></name>
                 </ab>
             </div>
             <div type="apparatus">

@@ -197,11 +197,11 @@
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
                     <lb n="1"/><space extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>
-                    <lb n="2"/><w><supplied reason="lost">Mariniano</supplied></w> <w><supplied reason="lost">et</supplied></w> <name><supplied reason="lost">Pa</supplied>terno</name> <num value="2">II</num>
-                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <name>Achilleus</name>
-                    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <w>s</w> <name>Claud<unclear>i</unclear><supplied reason="lost" cert="low">anus</supplied></name>
+                    <lb n="2"/><w><supplied reason="lost">Mariniano</supplied></w> <w><supplied reason="lost">et</supplied></w> <name><w><supplied reason="lost">Pa</supplied>terno</w></name> <num value="2"><w>II</w></num>
+                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <name><w>Achilleus</w></name>
+                    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <w>s</w> <name><w>Claud<unclear>i</unclear><supplied reason="lost" cert="low">anus</supplied></w></name>
                     <lb n="5"/><space extent="unknown" unit="character"/>
-                    <lb n="6"/><w><supplied reason="lost"><roleName type="supracivic" subtype="dominus"><expan><abbr>d</abbr><ex>omino</ex></expan></roleName></supplied></w> <w><supplied reason="lost"><expan><abbr>n</abbr><ex>ostro</ex></expan></supplied></w> <name><supplied reason="lost">Claudio</supplied></name> <name><supplied reason="lost"><expan><abbr>Aug</abbr><ex>usto</ex></expan></supplied></name> <w><supplied reason="lost">et</supplied></w> <name><supplied reason="undefined" evidence="previouseditor">P</supplied>aterno</name> <supplied reason="lost"><num value="3">III</num></supplied> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="6"/><w><supplied reason="lost"><roleName type="supracivic" subtype="dominus"><expan><abbr>d</abbr><ex>omino</ex></expan></roleName></supplied></w> <w><supplied reason="lost"><expan><abbr>n</abbr><ex>ostro</ex></expan></supplied></w> <name><w><supplied reason="lost">Claudio</supplied></w></name> <name><w><supplied reason="lost"><expan><abbr>Aug</abbr><ex>usto</ex></expan></supplied></w></name> <w><supplied reason="lost">et</supplied></w> <name><w><supplied reason="undefined" evidence="previouseditor">P</supplied>aterno</w></name> <supplied reason="lost"><num value="3"><w>III</w></num></supplied> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>
             <div type="apparatus">

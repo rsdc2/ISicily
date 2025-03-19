@@ -199,8 +199,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la">
                 <ab>
-                    <lb n="1"/><w>memoria</w> <persName type="attested"><name>Dominici</name> <name>Mace
-                    <lb n="2" break="no"/>donis</name></persName> <w>lege</w> <w>et</w> <w>recedere</w>
+                    <lb n="1"/><w>memoria</w> <persName type="attested"><name><w>Dominici</w></name> <name><w>Mace
+                    <lb n="2" break="no"/>donis</w></name></persName> <w>lege</w> <w>et</w> <w>recedere</w>
                     <lb n="3"/><w><supplied reason="lost">a</supplied>mici</w> <w>nolite</w> <w>tristare</w> <w>quia</w>
                     <lb n="4"/><w><supplied reason="lost">o</supplied>mnes</w> <w>morituri</w> <w>sumus</w>
                 </ab>

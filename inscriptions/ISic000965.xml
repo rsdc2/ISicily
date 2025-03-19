@@ -193,8 +193,8 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JH">
                 <ab>
                     <lb n="1"/><w>ἐνθάδε</w> <w><expan><abbr>κεῖ</abbr><ex>ται</ex></expan></w>
-                    <lb n="2"/><persName type="attested"><name>Κοσ<unclear>τ</unclear>άντις</name>
-                    <lb n="3"/><persName type="attested"><name>Βονιφᾶ</name></persName></persName>
+                    <lb n="2"/><persName type="attested"><name><w>Κοσ<unclear>τ</unclear>άντις</w></name>
+                    <lb n="3"/><persName type="attested"><name><w>Βονιφᾶ</w></name></persName></persName>
                     <lb n="4"/><g ref="#sigma">ς</g> <g ref="#staurogram">𐆠</g> <g ref="#omega">ω</g>
                 </ab>
             </div>

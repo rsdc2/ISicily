@@ -196,9 +196,9 @@
                 <ab>
                     <lb n="1"/><w>ἐνθάδε</w> <w>κῖτ<supplied reason="lost">ε</supplied></w> <w><supplied reason="lost">ἡ</supplied></w> <w><supplied reason="lost">δεῖνα</supplied></w>
                     <lb n="2"/><w>ζήσασα</w> <w>ἔτ<supplied reason="lost">η</supplied></w> <gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">τελευτήσασα</supplied></w>
-                    <lb n="3"/><w>τε͂ς</w> <num value="13">ιγ</num> <name>Αὐγο<supplied reason="lost">ύστου</supplied></name> <w><supplied reason="lost">ἠγόρα</supplied>
+                    <lb n="3"/><w>τε͂ς</w> <num value="13"><w>ιγ</w></num> <name><w>Αὐγο<supplied reason="lost">ύστου</supplied></w></name> <w><supplied reason="lost">ἠγόρα</supplied>
                     <lb n="4" break="no"/>σεν</w> <w>δὲ</w> <w>τὸ<supplied reason="lost">ν τόπον</supplied></w>
-                    <lb n="5"/><w>αὐτῆς</w> <name>Μαρ</name> <gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">παρὰ</supplied></w>
+                    <lb n="5"/><w>αὐτῆς</w> <name><w>Μαρ</w></name> <gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">παρὰ</supplied></w>
                     <lb n="6"/><w>τοῦ</w> <orig>Ο</orig><gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>

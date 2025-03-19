@@ -201,12 +201,12 @@
                 <ab>
                     <lb n="1"/><orig>LAC</orig><gap reason="illegible" quantity="1" unit="character"/> <orig>O</orig>
                     <lb n="2"/><roleName type="supracivic" subtype="quaestor.pro.praetore"><w><expan><abbr>quaest</abbr><ex>ori</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>pr</abbr><ex>o</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>pr</abbr><ex>aetore</ex></expan></w></roleName>
-                    <lb n="3"/><w><expan><abbr>prov</abbr><ex>inciae</ex></expan></w> <g ref="#interpunct">·</g> <name><expan><abbr>Sicil</abbr><ex>iae</ex></expan></name> <g ref="#interpunct">·</g> <roleName type="supracivic" subtype="clarissimus"><w><expan><abbr>c</abbr><ex>larissimo</ex></expan></w></roleName> <g ref="#interpunct">·</g> <w><expan><abbr>v</abbr><ex>iro</ex></expan></w>
+                    <lb n="3"/><w><expan><abbr>prov</abbr><ex>inciae</ex></expan></w> <g ref="#interpunct">·</g> <name><w><expan><abbr>Sicil</abbr><ex>iae</ex></expan></w></name> <g ref="#interpunct">·</g> <roleName type="supracivic" subtype="clarissimus"><w><expan><abbr>c</abbr><ex>larissimo</ex></expan></w></roleName> <g ref="#interpunct">·</g> <w><expan><abbr>v</abbr><ex>iro</ex></expan></w>
                     <lb n="4"/><w>ordo</w> <g ref="#interpunct">·</g> <w><expan><abbr>splendidis</abbr><ex>simus</ex></expan></w>
-                    <lb n="5"/><w><expan><abbr>col</abbr><ex>oniae</ex></expan></w> <g ref="#interpunct">·</g> <name><expan><abbr>Aug</abbr><ex>ustae</ex></expan></name> <g ref="#interpunct">·</g> <name><expan><abbr>Lilyb</abbr><ex>itanorum</ex></expan></name>
+                    <lb n="5"/><w><expan><abbr>col</abbr><ex>oniae</ex></expan></w> <g ref="#interpunct">·</g> <name><w><expan><abbr>Aug</abbr><ex>ustae</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w><expan><abbr>Lilyb</abbr><ex>itanorum</ex></expan></w></name>
                     <lb n="6"/><w>pecunia</w> <g ref="#interpunct">·</g> <w>sua</w>
-                    <lb n="7"/><w><expan><abbr>cur</abbr><ex>avit</ex></expan></w> <g ref="#interpunct">·</g> <name>Veturio</name>
-                    <lb n="8"/><name>Proculo</name> <w><expan><abbr>xprim</abbr><ex>o</ex></expan></w>
+                    <lb n="7"/><w><expan><abbr>cur</abbr><ex>avit</ex></expan></w> <g ref="#interpunct">·</g> <name><w>Veturio</w></name>
+                    <lb n="8"/><name><w>Proculo</w></name> <w><expan><abbr>xprim</abbr><ex>o</ex></expan></w>
                     <lb n="9"/><orig>IIV</orig>
                 </ab>
             </div>

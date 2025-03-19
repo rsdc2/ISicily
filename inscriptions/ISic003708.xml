@@ -185,13 +185,13 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name><supplied reason="lost">Ἄ</supplied><unclear>μ</unclear>πλις</name></persName>
+                    <lb n="1"/><persName type="attested"><name><w><supplied reason="lost">Ἄ</supplied><unclear>μ</unclear>πλις</w></name></persName>
                     <lb n="2"/><w><supplied reason="lost">χ</supplied><unclear>ρ</unclear>ηστὸς</w>
                     <lb n="3"/><w><supplied reason="lost">κ</supplied><unclear>α</unclear>ὶ</w> <w>ἄμε
                     <lb n="4" break="no"/><unclear>ν</unclear>πτος</w>
                     <lb n="5"/><w><supplied reason="lost">ἔ</supplied>ζησ
                     <lb n="6" break="no"/><supplied reason="lost">ε</supplied>ν</w> <w>ἔτ<unclear>η</unclear></w>
-                    <lb n="7"/><num value="3">γ</num>
+                    <lb n="7"/><num value="3"><w>γ</w></num>
                 </ab>
             </div>
             <div type="apparatus">

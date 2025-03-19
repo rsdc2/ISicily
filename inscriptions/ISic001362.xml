@@ -201,13 +201,13 @@
                 <ab>
                     <lb n="1"/><w>ἐν
                     <lb n="2" break="no"/>θάδε</w>
-                    <lb n="3"/><w>κῖτε</w> <persName type="attested"><name>Λε
-                    <lb n="4" break="no"/>οντία</name></persName> <w><expan><abbr>ἐτ<hi rend="supraline">ῶ</hi></abbr><ex>ν</ex></expan></w>
-                    <lb n="5"/><hi rend="supraline"><num value="3">γ</num></hi>
+                    <lb n="3"/><w>κῖτε</w> <persName type="attested"><name><w>Λε
+                    <lb n="4" break="no"/>οντία</w></name></persName> <w><expan><abbr>ἐτ<hi rend="supraline">ῶ</hi></abbr><ex>ν</ex></expan></w>
+                    <lb n="5"/><hi rend="supraline"><num value="3"><w>γ</w></num></hi>
                     <lb n="6"/><w>ἐνθάδε</w> <w>κῖ
-                    <lb n="7" break="no"/>τε</w> <persName type="attested"><name>Καλλι
-                    <lb n="8" break="no"/>όπη</name></persName> <w><expan><abbr>ἐτ<hi rend="supraline">ῶ</hi></abbr><ex>ν</ex></expan></w>
-                    <lb n="9"/><g ref="#menorah">🕎</g> <num value="18">ιη</num> <g ref="#menorah">🕎</g> <g ref="#etrog" cert="low"/>
+                    <lb n="7" break="no"/>τε</w> <persName type="attested"><name><w>Καλλι
+                    <lb n="8" break="no"/>όπη</w></name></persName> <w><expan><abbr>ἐτ<hi rend="supraline">ῶ</hi></abbr><ex>ν</ex></expan></w>
+                    <lb n="9"/><g ref="#menorah">🕎</g> <num value="18"><w>ιη</w></num> <g ref="#menorah">🕎</g> <g ref="#etrog" cert="low"/>
                 </ab>
             </div>
             <div type="apparatus" resp="#martaf">

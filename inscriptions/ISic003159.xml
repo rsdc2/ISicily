@@ -196,8 +196,8 @@
             <div type="edition" xml:space="preserve" xml:lang="la">
                 <ab>
                     <lb n="1"/><w>Fines</w>
-                    <lb n="2"/><name><expan><abbr>Vib</abbr><ex>i</ex></expan></name>
-                    <lb n="3"/><name><expan><abbr>Sever</abbr><ex>i</ex></expan></name>
+                    <lb n="2"/><name><w><expan><abbr>Vib</abbr><ex>i</ex></expan></w></name>
+                    <lb n="3"/><name><w><expan><abbr>Sever</abbr><ex>i</ex></expan></w></name>
                 </ab>
             </div>
             <div type="apparatus">

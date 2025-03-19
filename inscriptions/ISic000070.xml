@@ -194,8 +194,8 @@
                 <div type="edition" xml:space="preserve" xml:lang="la">
                 <div type="textpart" subtype="fragment-physical" n="a">
                     <ab>
-                        <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost"><expan><abbr>col</abbr><ex>onia</ex></expan></supplied></w> <name><expan><abbr>Aug</abbr><ex>usta</ex></expan></name>
-                        <lb n="2"/><name><supplied reason="lost"><expan><abbr>Tyndarit</abbr><ex>anorum</ex></expan></supplied></name> <w><supplied reason="lost">d</supplied>evota</w>
+                        <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost"><expan><abbr>col</abbr><ex>onia</ex></expan></supplied></w> <name><w><expan><abbr>Aug</abbr><ex>usta</ex></expan></w></name>
+                        <lb n="2"/><name><w><supplied reason="lost"><expan><abbr>Tyndarit</abbr><ex>anorum</ex></expan></supplied></w></name> <w><supplied reason="lost">d</supplied>evota</w>
                         <lb n="3"/><w><supplied reason="lost">numini</supplied></w> <w><supplied reason="lost">ei</supplied>us</w> <g ref="#ivy-leaf"/>
                     </ab>
                 </div>

@@ -206,10 +206,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name>Φλαβιανὸς</name></persName> <g ref="#interpunct">·</g> <w>χρησ
+                    <lb n="1"/><persName type="attested"><name><w>Φλαβιανὸς</w></name></persName> <g ref="#interpunct">·</g> <w>χρησ
                     <lb n="2" break="no"/>τὸς</w> <g ref="#interpunct">·</g> <w>καὶ</w> <w><expan><abbr>ἄμεν</abbr><ex>πτος</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>ἔζη</abbr><ex>σεν</ex></expan></w> <g ref="#interpunct">·</g>
-                    <lb n="3"/><w>ἔτη</w> <g ref="#interpunct">·</g> <num value="37">λζ</num> <g ref="#interpunct">·</g> <w><expan><abbr>μ<hi rend="ligature">ῆν</hi></abbr><ex>ας</ex></expan></w> <g ref="#interpunct">·</g> <num value="3">γ</num> <g ref="#interpunct">·</g>
-                    <lb n="4"/><w><expan><abbr>ἡμέ</abbr><ex>ρας</ex></expan></w> <g ref="#interpunct">·</g> <num value="10">ι</num> <g ref="#interpunct">·</g>
+                    <lb n="3"/><w>ἔτη</w> <g ref="#interpunct">·</g> <num value="37"><w>λζ</w></num> <g ref="#interpunct">·</g> <w><expan><abbr>μ<hi rend="ligature">ῆν</hi></abbr><ex>ας</ex></expan></w> <g ref="#interpunct">·</g> <num value="3"><w>γ</w></num> <g ref="#interpunct">·</g>
+                    <lb n="4"/><w><expan><abbr>ἡμέ</abbr><ex>ρας</ex></expan></w> <g ref="#interpunct">·</g> <num value="10"><w>ι</w></num> <g ref="#interpunct">·</g>
                 </ab>
             </div>
             <div type="apparatus">

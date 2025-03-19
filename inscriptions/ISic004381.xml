@@ -184,10 +184,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1"/><w><supplied reason="lost"><expan><abbr>Θ</abbr><ex>εοῖς</ex></expan></supplied></w> <g ref="#interpunct">·</g> <name><expan><abbr>Κα</abbr><ex>ταχθονίοις</ex></expan></name>
+                    <lb n="1"/><w><supplied reason="lost"><expan><abbr>Θ</abbr><ex>εοῖς</ex></expan></supplied></w> <g ref="#interpunct">·</g> <name><w><expan><abbr>Κα</abbr><ex>ταχθονίοις</ex></expan></w></name>
                     <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w><unclear>γ</unclear>νητος</w>
                     <lb n="3"/><w>ἔζησεν</w>
-                    <lb n="4"/><w>ἔτη</w> <g ref="#interpunct">·</g> <num value="40">μ</num> <g ref="#interpunct">·</g>
+                    <lb n="4"/><w>ἔτη</w> <g ref="#interpunct">·</g> <num value="40"><w>μ</w></num> <g ref="#interpunct">·</g>
                 </ab>
             </div>
             <div type="apparatus">

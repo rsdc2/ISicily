@@ -201,8 +201,8 @@
             <div type="edition" xml:space="preserve" xml:lang="la">
                 <ab>
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w>ane</w> <w>filia</w> <orig>I</orig><gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">a</supplied>nnis</w> <num atLeast="15" atMost="19">XV<gap reason="lost" extent="unknown" unit="character"/></num> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">d</supplied>ies</w> <num value="15">XV</num> <orig>R</orig><gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">a</supplied>nnis</w> <num atLeast="15" atMost="19"><w>XV<gap reason="lost" extent="unknown" unit="character"/></w></num> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">d</supplied>ies</w> <num value="15"><w>XV</w></num> <orig>R</orig><gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>
             <div type="apparatus">

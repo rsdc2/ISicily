@@ -194,8 +194,8 @@
             <div type="edition" xml:space="preserve" xml:lang="la">
                 <ab>
                     <lb n="1"/><w>Dep<supplied reason="omitted">osi</supplied>
-                    <lb n="2" break="no"/>tus</w> <name><supplied reason="omitted">Mar</supplied>
-                    <lb n="3" break="no"/>celli<supplied reason="omitted">nus</supplied></name>
+                    <lb n="2" break="no"/>tus</w> <name><w><supplied reason="omitted">Mar</supplied>
+                    <lb n="3" break="no"/>celli<supplied reason="omitted">nus</supplied></w></name>
                 </ab>
             </div>
             <div type="apparatus">

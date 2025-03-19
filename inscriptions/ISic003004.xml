@@ -196,8 +196,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#martaf">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name>Ἀρτεμίδωρος</name>
-                    <lb n="2"/><persName type="attested"><name type="patronymic">Κλήμεντος</name></persName></persName> <g ref="#interpunct">·</g> <w><expan><abbr><hi rend="supraline">δ</hi></abbr><ex>οῦλος</ex></expan></w> <g ref="#interpunct">·</g> <w>κατ</w>' <w>ὄναρ</w>
+                    <lb n="1"/><persName type="attested"><name><w>Ἀρτεμίδωρος</w></name>
+                    <lb n="2"/><persName type="attested"><name type="patronymic"><w>Κλήμεντος</w></name></persName></persName> <g ref="#interpunct">·</g> <w><expan><abbr><hi rend="supraline">δ</hi></abbr><ex>οῦλος</ex></expan></w> <g ref="#interpunct">·</g> <w>κατ</w>' <w>ὄναρ</w>
                 </ab>
             </div>
             <div type="apparatus" resp="#martaf">

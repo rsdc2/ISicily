@@ -195,9 +195,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <name><expan><abbr>M</abbr><ex>anibus</ex></expan></name>
-                    <lb n="2"/><name>Magul<unclear>n</unclear>
-                    <lb n="3" break="no"/>ae</name> <name>Chi<unclear>a</unclear>e</name>
+                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <name><w><expan><abbr>M</abbr><ex>anibus</ex></expan></w></name>
+                    <lb n="2"/><name><w>Magul<unclear>n</unclear>
+                    <lb n="3" break="no"/>ae</w></name> <name><w>Chi<unclear>a</unclear>e</w></name>
                 </ab>
             </div>
             <div type="apparatus">

@@ -189,7 +189,7 @@
             <div type="edition" xml:space="preserve" subtype="PHI" n="PHI336687">
                 <ab>
                     <lb n="1"/><w><expan><abbr>Κ</abbr><ex>ύρι</ex><abbr>ε</abbr></expan></w> <w>βοήτι</w>
-                    <lb n="2"/><w>τῆς</w> <w>ὐκ[ίας</w> <name><surplus>²⁶οἰκίας</surplus>²⁶</name> <name>—</name> <name>—]</name>
+                    <lb n="2"/><w>τῆς</w> <w>ὐκ[ίας</w> <name><w><surplus>²⁶οἰκίας</surplus>²⁶</w></name> <name><w>—</w></name> <name><w>—]</w></name>
                     <lb n="3"/>
                 </ab>
             </div>

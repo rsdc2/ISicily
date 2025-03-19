@@ -175,7 +175,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="xly-Grek" resp="#VM">
                 <ab>
-                    <lb n="1"/><num value="4">ΙΙΙΙ</num>
+                    <lb n="1"/><num value="4"><w>ΙΙΙΙ</w></num>
                 </ab>
             </div>             
             <div type="edition" xml:space="preserve" subtype="transliteration" xml:lang="xly-Latn">                 

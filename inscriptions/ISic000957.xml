@@ -192,8 +192,8 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
                     <lb n="1"/><w>ἡμέρᾳ</w> <g ref="#interpunct">·</g> <w>κυριακῇ</w> <w>δεσμευθεῖσα</w> <g ref="#interpunct">·</g> <w>ἀλύτοις</w> <g ref="#interpunct">·</g> <w>καμάτοις</w> <g ref="#interpunct">·</g> <w>ἐπὶ</w> <g ref="#interpunct">·</g> <w>κοίτης</w>
-                    <lb n="2"/><w>ἧς</w> <w>καὶ</w> <w>τοὔνομα</w> <g ref="#interpunct">·</g> <name>Κυριακή</name> <g ref="#interpunct">·</g> <w>ἡμέρᾳ</w> <g ref="#interpunct">·</g> <w>κυριακῇ</w> <g ref="#interpunct">·</g> <w>παντὸς</w> <g ref="#interpunct">·</g> <w>βίου</w> <g ref="#interpunct">·</g> <w>λύσιν</w>
-                    <lb n="3"/><w>ἔσχε</w> <w>τὴν</w> <w>ᾔτησε</w> <w>πρὸ</w> <g ref="#interpunct">·</g> <w>πρώτης</w> <g ref="#interpunct">·</g> <w>καλανδῶν</w> <g ref="#interpunct">·</g> <name>Μαίων</name> <g ref="#interpunct">·</g> <g ref="#christogram">☧</g>
+                    <lb n="2"/><w>ἧς</w> <w>καὶ</w> <w>τοὔνομα</w> <g ref="#interpunct">·</g> <name><w>Κυριακή</w></name> <g ref="#interpunct">·</g> <w>ἡμέρᾳ</w> <g ref="#interpunct">·</g> <w>κυριακῇ</w> <g ref="#interpunct">·</g> <w>παντὸς</w> <g ref="#interpunct">·</g> <w>βίου</w> <g ref="#interpunct">·</g> <w>λύσιν</w>
+                    <lb n="3"/><w>ἔσχε</w> <w>τὴν</w> <w>ᾔτησε</w> <w>πρὸ</w> <g ref="#interpunct">·</g> <w>πρώτης</w> <g ref="#interpunct">·</g> <w>καλανδῶν</w> <g ref="#interpunct">·</g> <name><w>Μαίων</w></name> <g ref="#interpunct">·</g> <g ref="#christogram">☧</g>
                 </ab>
             </div>
             <div type="apparatus">

@@ -186,15 +186,15 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#SN">
                 <ab>
                     <lb n="1" style="text-direction:r-to-l"/><space quantity="1" unit="line"/>
-                    <lb n="2" style="text-direction:r-to-l"/><persName type="attested"><name type="idionym"><seg part="I">Ἀφαιστο</seg><gap reason="lost" extent="unknown" unit="character"/></name></persName>
-                    <lb n="3" style="text-direction:r-to-l"/><persName type="attested"><name type="idionym">Ἀρίστο̄ν</name></persName>
-                    <lb n="4" style="text-direction:r-to-l"/><persName type="attested"><name type="idionym"><unclear>Ξ</unclear>ένο̄<unclear>ν</unclear></name></persName>
-                    <lb n="5" style="text-direction:r-to-l"/><persName type="attested"><name type="idionym">Ἐμμεν<unclear>ί</unclear><supplied reason="lost">δας</supplied></name></persName>
-                    <lb n="6" style="text-direction:r-to-l"/><persName type="attested"><name type="idionym"><unclear>Ξ</unclear>ένιος</name></persName>
-                    <lb n="7" style="text-direction:r-to-l"/><persName type="attested"><name type="idionym"><unclear>Σ</unclear>ύνο̄ν</name></persName>
-                    <lb n="8" style="text-direction:r-to-l"/><persName type="attested"><name type="idionym">Εὔμνασ<supplied reason="lost">τος</supplied></name></persName>
-                    <lb n="9" style="text-direction:r-to-l"/><persName type="attested"><name type="idionym"><supplied reason="lost">Ἔ</supplied><unclear>ν</unclear>ορμος</name></persName>
-                    <lb n="10" style="text-direction:r-to-l"/><persName type="attested"><name type="idionym"><gap reason="lost" extent="unknown" unit="character"/><seg part="M"><unclear>ι</unclear>μο</seg><gap reason="lost" extent="unknown" unit="character"/></name></persName>
+                    <lb n="2" style="text-direction:r-to-l"/><persName type="attested"><name type="idionym"><w><seg part="I">Ἀφαιστο</seg><gap reason="lost" extent="unknown" unit="character"/></w></name></persName>
+                    <lb n="3" style="text-direction:r-to-l"/><persName type="attested"><name type="idionym"><w>Ἀρίστο̄ν</w></name></persName>
+                    <lb n="4" style="text-direction:r-to-l"/><persName type="attested"><name type="idionym"><w><unclear>Ξ</unclear>ένο̄<unclear>ν</unclear></w></name></persName>
+                    <lb n="5" style="text-direction:r-to-l"/><persName type="attested"><name type="idionym"><w>Ἐμμεν<unclear>ί</unclear><supplied reason="lost">δας</supplied></w></name></persName>
+                    <lb n="6" style="text-direction:r-to-l"/><persName type="attested"><name type="idionym"><w><unclear>Ξ</unclear>ένιος</w></name></persName>
+                    <lb n="7" style="text-direction:r-to-l"/><persName type="attested"><name type="idionym"><w><unclear>Σ</unclear>ύνο̄ν</w></name></persName>
+                    <lb n="8" style="text-direction:r-to-l"/><persName type="attested"><name type="idionym"><w>Εὔμνασ<supplied reason="lost">τος</supplied></w></name></persName>
+                    <lb n="9" style="text-direction:r-to-l"/><persName type="attested"><name type="idionym"><w><supplied reason="lost">Ἔ</supplied><unclear>ν</unclear>ορμος</w></name></persName>
+                    <lb n="10" style="text-direction:r-to-l"/><persName type="attested"><name type="idionym"><w><gap reason="lost" extent="unknown" unit="character"/><seg part="M"><unclear>ι</unclear>μο</seg><gap reason="lost" extent="unknown" unit="character"/></w></name></persName>
                 </ab>
             </div>
             <div type="apparatus">

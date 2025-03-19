@@ -193,10 +193,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la">
                 <ab>
-                    <lb n="1"/><w><supplied reason="lost">Cl</supplied>odiae</w> <g ref="#interpunct">·</g> <name><expan><abbr>Sex</abbr><ex>ti</ex></expan></name> <g ref="#interpunct">·</g> <w><expan><abbr>f</abbr><ex>iliae</ex></expan></w>
-                    <lb n="2"/><name>Granillae</name>
-                    <lb n="3"/><name><supplied reason="lost">Cl</supplied>odi</name> <g ref="#interpunct">·</g> <name>Casti</name>
-                    <lb n="4"/><name><supplied reason="lost"><expan><abbr>Sex</abbr><ex>tus</ex></expan></supplied></name> <name><expan><abbr>Clod</abbr><ex>ius</ex></expan></name> <name>Hermad<unclear>on</unclear></name>
+                    <lb n="1"/><w><supplied reason="lost">Cl</supplied>odiae</w> <g ref="#interpunct">·</g> <name><w><expan><abbr>Sex</abbr><ex>ti</ex></expan></w></name> <g ref="#interpunct">·</g> <w><expan><abbr>f</abbr><ex>iliae</ex></expan></w>
+                    <lb n="2"/><name><w>Granillae</w></name>
+                    <lb n="3"/><name><w><supplied reason="lost">Cl</supplied>odi</w></name> <g ref="#interpunct">·</g> <name><w>Casti</w></name>
+                    <lb n="4"/><name><w><supplied reason="lost"><expan><abbr>Sex</abbr><ex>tus</ex></expan></supplied></w></name> <name><w><expan><abbr>Clod</abbr><ex>ius</ex></expan></w></name> <name><w>Hermad<unclear>on</unclear></w></name>
                     <lb n="5"/><w>filiae</w> <g ref="#interpunct">·</g> <w>dulcissimae</w>
                     <lb n="6"/><w><expan><abbr>d</abbr><ex>ono</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>d</abbr><ex>edit</ex></expan></w>
                 </ab>

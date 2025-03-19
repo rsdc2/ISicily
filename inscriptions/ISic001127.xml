@@ -182,9 +182,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1"/><w>Βέττιος</w> <name>Μαύ
-                    <lb n="2" break="no"/>ρικος</name> <w><choice><reg>ἐτῶν</reg><orig>ἐτρῶν</orig></choice></w>
-                    <lb n="3"/><num value="10">ι</num> <w>ἔζησεν</w> <w>δὲ</w> <w>τὸ
+                    <lb n="1"/><w>Βέττιος</w> <name><w>Μαύ
+                    <lb n="2" break="no"/>ρικος</w></name> <w><choice><reg>ἐτῶν</reg><orig>ἐτρῶν</orig></choice></w>
+                    <lb n="3"/><num value="10"><w>ι</w></num> <w>ἔζησεν</w> <w>δὲ</w> <w>τὸ
                     <lb n="4" break="no"/>ν</w> <w>ἑαυτοῦ</w> <w><choice><orig>βείο<supplied reason="lost">ν</supplied></orig><reg>βίο<supplied reason="lost">ν</supplied></reg></choice></w>
                     <lb n="5"/><w>κῖτε</w> <w>ἐν</w> <w>τούτ
                     <lb n="6" break="no"/>ῳ</w> <w>τῷ</w> <w>τύ<hi rend="reversed">ν</hi>βῳ</w>

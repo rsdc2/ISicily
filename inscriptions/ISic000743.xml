@@ -196,7 +196,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#VM">
                 <ab>
-                    <lb n="1"/><w>loc<supplied reason="lost">us</supplied></w> <name>Aur<supplied reason="lost">eli</supplied></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><w>loc<supplied reason="lost">us</supplied></w> <name><w>Aur<supplied reason="lost">eli</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>
             <div type="apparatus">

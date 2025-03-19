@@ -184,9 +184,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1"/><w>Ῥουφείνα</w> <name>Μαρκία</name>
-                    <lb n="2"/><w>ζήσασα</w> <w>ἔτη</w> <num value="35">λε</num>
-                    <lb n="3"/><name>Σόσσις</name> <w>ἀνήρ</w> <w>ἐπόη
+                    <lb n="1"/><w>Ῥουφείνα</w> <name><w>Μαρκία</w></name>
+                    <lb n="2"/><w>ζήσασα</w> <w>ἔτη</w> <num value="35"><w>λε</w></num>
+                    <lb n="3"/><name><w>Σόσσις</w></name> <w>ἀνήρ</w> <w>ἐπόη
                     <lb n="4" break="no"/>σε</w> <w>ἰδίᾳ</w> <w>γυναικί</w> <w>εὐσεβεσ
                     <lb n="5" break="no"/>τάτη</w> <w>μνημεῖον</w>
                 </ab>

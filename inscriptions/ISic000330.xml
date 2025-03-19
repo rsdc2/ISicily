@@ -239,11 +239,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <name><expan><abbr>M</abbr><ex>anibus</ex></expan></name> <w><expan><abbr>s</abbr><ex>acrum</ex></expan></w>
-                    <lb n="2"/><persName type="attested" role="mime"><name>Aphrodito</name></persName>
+                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <name><w><expan><abbr>M</abbr><ex>anibus</ex></expan></w></name> <w><expan><abbr>s</abbr><ex>acrum</ex></expan></w>
+                    <lb n="2"/><persName type="attested" role="mime"><name><w>Aphrodito</w></name></persName>
                     <lb n="3"/><w>mimas</w> <g ref="#ivy-leaf">❦</g> <w><expan><abbr>vix</abbr><ex>it</ex></expan></w> <g ref="#ivy-leaf">❦</g>
-                    <lb n="4"/><w><expan><abbr>ann</abbr><ex>is</ex></expan></w> <g ref="#ivy-leaf">❦</g> <num value="40">XXXX</num> <g ref="#ivy-leaf">❦</g>
-                    <lb n="5"/><persName type="attested"><name>Eutychus</name></persName> <g ref="#ivy-leaf">❦</g> <w>con <g ref="#ivy-leaf">❦</g>
+                    <lb n="4"/><w><expan><abbr>ann</abbr><ex>is</ex></expan></w> <g ref="#ivy-leaf">❦</g> <num value="40"><w>XXXX</w></num> <g ref="#ivy-leaf">❦</g>
+                    <lb n="5"/><persName type="attested"><name><w>Eutychus</w></name></persName> <g ref="#ivy-leaf">❦</g> <w>con <g ref="#ivy-leaf">❦</g>
                     <lb n="6" break="no"/>iugi</w> <g ref="#ivy-leaf">❦</g> <w>meren<hi rend="ligature">ti</hi></w> <w><expan><abbr>f</abbr><ex>ecit</ex></expan></w>
                 </ab>
             </div>

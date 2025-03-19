@@ -175,8 +175,8 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
                     <milestone unit="face" n="a"/>
-                    <lb n="1"/><persName type="attested"><name type="idionym">Εὐκλε̄́τα<supplied reason="omitted">ς</supplied></name> <persName type="attested"><name type="patronym">Ἀσάρο</name></persName></persName> <milestone unit="face" n="b"/>
-                    <lb n="2"/><num value="6">ͱέκτα</num> <w>φράτρα</w>
+                    <lb n="1"/><persName type="attested"><name type="idionym"><w>Εὐκλε̄́τα<supplied reason="omitted">ς</supplied></w></name> <persName type="attested"><name type="patronym"><w>Ἀσάρο</w></name></persName></persName> <milestone unit="face" n="b"/>
+                    <lb n="2"/><num value="6"><w>ͱέκτα</w></num> <w>φράτρα</w>
                 </ab>
             </div>
             <div type="apparatus">

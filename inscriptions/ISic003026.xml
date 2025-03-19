@@ -200,8 +200,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1"/><gap reason="lost" unit="character" quantity="1" cert="low"/> <w><supplied reason="lost">Κλώ</supplied>διος</w> <name>Ὀρέστας</name>
-                    <lb n="2"/><gap reason="lost" unit="character" quantity="1" cert="low"/> <name><supplied reason="lost">Σ</supplied><unclear>ή</unclear>ιος</name> <g ref="#interpunct">·</g> <name>Β<unclear>άρ</unclear>ηξ</name>
+                    <lb n="1"/><gap reason="lost" unit="character" quantity="1" cert="low"/> <w><supplied reason="lost">Κλώ</supplied>διος</w> <name><w>Ὀρέστας</w></name>
+                    <lb n="2"/><gap reason="lost" unit="character" quantity="1" cert="low"/> <name><w><supplied reason="lost">Σ</supplied><unclear>ή</unclear>ιος</w></name> <g ref="#interpunct">·</g> <name><w>Β<unclear>άρ</unclear>ηξ</w></name>
                     <lb n="3"/><w><supplied reason="lost">ἀγο</supplied><unclear>ρ</unclear>ανομήσαντες</w>
                     <lb n="4"/><w><supplied reason="lost">τὸ βῆ</supplied>μα</w> <g ref="#interpunct">·</g> <w>θησαυροῦ</w>
                 </ab>

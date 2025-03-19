@@ -194,7 +194,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#SK">
                 <ab>
-                    <lb n="1"/><w>Λάπος</w> <name>Σαβίνου</name>
+                    <lb n="1"/><w>Λάπος</w> <name><w>Σαβίνου</w></name>
                     <lb n="2"/><roleName type="paracivic.religious" subtype="presbyteros"><w>πρεσβυτέρου</w></roleName>
                     <lb n="3"/><w>ΤΕΥΤΑ</w> <gap reason="lost" quantity="1" unit="character"/> <w>ΚΑ</w>
                     <lb n="4"/><w>αἰών</w> <gap reason="lost" quantity="1" unit="character"/>

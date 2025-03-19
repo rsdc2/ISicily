@@ -186,9 +186,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1"/><w>Οὐεττηίου</w> <w>τὸ</w> <w>σᾶμα</w> <w>τοῦ</w> <name>Βοός,</name> <w>ξένε,</w>
+                    <lb n="1"/><w>Οὐεττηίου</w> <w>τὸ</w> <w>σᾶμα</w> <w>τοῦ</w> <name><w>Βοός,</w></name> <w>ξένε,</w>
                     <lb n="2"/><w>τόδ’</w> <w>ἴσθι</w> <g ref="#interpunct">·</g> <w>νούσωι</w> <w>δ’</w> <w>ἀργαλῆι</w> <w>τακέντα</w> <w>νιν</w>
-                    <lb n="3"/><w>ἔθαψε</w> <w>μάτηρ</w> <g ref="#interpunct">·</g> <w>ἄκριτος</w> <w>δο<supplied reason="lost">κεῖ</supplied></w> <name><unclear>Τ</unclear>ύχα</name> <g ref="#interpunct">·</g>
+                    <lb n="3"/><w>ἔθαψε</w> <w>μάτηρ</w> <g ref="#interpunct">·</g> <w>ἄκριτος</w> <w>δο<supplied reason="lost">κεῖ</supplied></w> <name><w><unclear>Τ</unclear>ύχα</w></name> <g ref="#interpunct">·</g>
                     <lb n="4"/><w><unclear>ὁ</unclear></w> <w>πέτρο<unclear>ς</unclear></w> <w><unclear>ἐ</unclear>στὶ</w> <w>μάρτυς,</w> <w>ὧι</w> <w>κάλ<supplied reason="lost">υ</supplied><unclear>π</unclear>τε</w> <w>γᾶ.</w>
                 </ab>
             </div>

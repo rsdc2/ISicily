@@ -185,17 +185,17 @@
         <body>
             <div type="edition" xml:space="preserve" subtype="PHI" n="PHI330705">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>Θ</abbr><ex>εοῖς</ex></expan></w> <name><expan><abbr>Κ</abbr><ex>αταχθονίοις</ex></expan></name> <name>.</name>
-                    <lb n="2"/><name>Ἰανάρις</name> <name>Φλωρέν-</name>
+                    <lb n="1"/><w><expan><abbr>Θ</abbr><ex>εοῖς</ex></expan></w> <name><w><expan><abbr>Κ</abbr><ex>αταχθονίοις</ex></expan></w></name> <name><w>.</w></name>
+                    <lb n="2"/><name><w>Ἰανάρις</w></name> <name><w>Φλωρέν-</w></name>
                     <lb n="3"/><w>τις,</w> <w>χρηστὸς</w> <w>καὶ</w>
                     <lb n="4"/><w>ἄμεμπτος,</w> <w>ἔζ<supplied reason="lost">η</supplied>-</w>
                     <lb n="5"/><w><supplied reason="lost">σεν ∙ ἔτ</supplied>η</w> <g ref="#interpunct">∙</g> <w>με</w> <g ref="#interpunct">∙</g> <w><expan><abbr>μῆ</abbr><ex>νας</ex></expan></w> <w>ζ</w>
                     <lb n="6"/><w><supplied reason="lost">ἡμέ(ρας)</supplied></w> <w><unclear>η</unclear>ʹ,</w> <w>ὃς</w> <w>καὶ</w> <w>ἀκατάμ<supplied reason="lost">ε</supplied>-</w>
                     <lb n="7"/><w><supplied reason="lost">μπ</supplied>τος</w> <g ref="#interpunct">∙</g> <w>ἰς</w> <w>γὴν</w> <w>ἐπο-</w>
-                    <lb n="8"/><w><supplied reason="lost">ρεύ</supplied>θη·</w> <name>Βικτωρίνα</name> <name>Δω-</name>
+                    <lb n="8"/><w><supplied reason="lost">ρεύ</supplied>θη·</w> <name><w>Βικτωρίνα</w></name> <name><w>Δω-</w></name>
                     <lb n="9"/><w>νάτα</w> <w>σεμνὴ</w> <w>καὶ</w> <w>ἀκ<supplied reason="lost">α</supplied>-</w>
                     <lb n="10"/><w>τάγνωστ</w> <w><supplied reason="lost">ος(?) θ</supplied></w> <w><unclear>ε</unclear>οῖς</w> <w>πρ<supplied reason="lost">ο</supplied>-</w>
-                    <lb n="11"/><w><supplied reason="lost">σ</supplied>φιλὴς</w> <name><supplied reason="lost">— — — — — — —</supplied></name>
+                    <lb n="11"/><w><supplied reason="lost">σ</supplied>φιλὴς</w> <name><w><supplied reason="lost">— — — — — — —</supplied></w></name>
                     <lb n="12"/>
                 </ab>
             </div>

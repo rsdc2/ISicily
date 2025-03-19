@@ -195,12 +195,12 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
                     <lb n="1"/><w>Ἀγορασία</w>
-                    <lb n="2"/><name>Φηλίκος</name>
+                    <lb n="2"/><name><w>Φηλίκος</w></name>
                     <lb n="3"/><w>εἰατροῦ</w> <w><expan><abbr>ὁλ
-                    <lb n="4" break="no"/>οκ</abbr><ex>οτίνου</ex></expan></w> <num value="1">α</num> <w>συνμα</w>
-                    <lb n="5"/><w>ρτυροῦντος</w> <name>Πέ
-                    <lb n="6" break="no"/>τρου</name> <w>καὶ</w> <name>Μαρκιά
-                    <lb n="7" break="no"/>νου</name> <w>καὶ</w> <name>Μεθίου</name>
+                    <lb n="4" break="no"/>οκ</abbr><ex>οτίνου</ex></expan></w> <num value="1"><w>α</w></num> <w>συνμα</w>
+                    <lb n="5"/><w>ρτυροῦντος</w> <name><w>Πέ
+                    <lb n="6" break="no"/>τρου</w></name> <w>καὶ</w> <name><w>Μαρκιά
+                    <lb n="7" break="no"/>νου</w></name> <w>καὶ</w> <name><w>Μεθίου</w></name>
                 </ab>
             </div>
             <div type="apparatus">

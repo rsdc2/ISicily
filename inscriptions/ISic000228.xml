@@ -195,9 +195,9 @@
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#VM">
                 <ab>
                     <lb n="1"/><w><expan><abbr>Loc</abbr><ex>us</ex></expan></w>
-                    <lb n="2"/><name><expan><abbr>L</abbr><ex>uci</ex></expan></name> <name>Vecil<supplied reason="lost">i</supplied></name> <g ref="#interpunct">·</g>
-                    <lb n="3"/><name>Basili
-                    <lb n="4" break="no"/>dis</name> <w><expan><abbr>v</abbr><ex>ixit</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>a</abbr><ex>nnis</ex></expan></w> <num value="12">XII</num>
+                    <lb n="2"/><name><w><expan><abbr>L</abbr><ex>uci</ex></expan></w></name> <name><w>Vecil<supplied reason="lost">i</supplied></w></name> <g ref="#interpunct">·</g>
+                    <lb n="3"/><name><w>Basili
+                    <lb n="4" break="no"/>dis</w></name> <w><expan><abbr>v</abbr><ex>ixit</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>a</abbr><ex>nnis</ex></expan></w> <num value="12"><w>XII</w></num>
                 </ab>
             </div>
             <div type="apparatus">

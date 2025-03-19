@@ -191,10 +191,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#AL">
                 <ab>
-                    <lb n="1"/><g ref="#sign_uninterpreted"/> <g ref="#ivy-leaf">❦</g> <w><expan><abbr>Θ</abbr><ex>εοῖς</ex></expan></w> <g ref="#ivy-leaf">❦</g> <name><expan><abbr>Κ</abbr><ex>αταχθονίοις</ex></expan></name> <g ref="#ivy-leaf">❦</g> <g ref="#sign_uninterpreted"/>
-                    <lb n="2"/><g ref="#sign_uninterpreted"/> <persName type="attested"><name type="nomen">Βαλέριος</name> <g ref="#sign_uninterpreted"/>
-                    <lb n="3"/><g ref="#sign_uninterpreted"/> <name type="cognomen">Σωκρά<hi rend="ligature">τη</hi>ς</name></persName> <g ref="#sign_uninterpreted"/>
-                    <lb n="4"/><w>ἔζησε</w> <w>ἔτη</w> <num value="20">κ</num>
+                    <lb n="1"/><g ref="#sign_uninterpreted"/> <g ref="#ivy-leaf">❦</g> <w><expan><abbr>Θ</abbr><ex>εοῖς</ex></expan></w> <g ref="#ivy-leaf">❦</g> <name><w><expan><abbr>Κ</abbr><ex>αταχθονίοις</ex></expan></w></name> <g ref="#ivy-leaf">❦</g> <g ref="#sign_uninterpreted"/>
+                    <lb n="2"/><g ref="#sign_uninterpreted"/> <persName type="attested"><name type="nomen"><w>Βαλέριος</w></name> <g ref="#sign_uninterpreted"/>
+                    <lb n="3"/><g ref="#sign_uninterpreted"/> <name type="cognomen"><w>Σωκρά<hi rend="ligature">τη</hi>ς</w></name></persName> <g ref="#sign_uninterpreted"/>
+                    <lb n="4"/><w>ἔζησε</w> <w>ἔτη</w> <num value="20"><w>κ</w></num>
                 </ab>
             </div>
             <div type="apparatus">

@@ -194,14 +194,14 @@
                     <lb n="0"/><g ref="#staurogram">𐆠</g>
                     <lb n="1"/><w>Ἐτελεύτη
                     <lb n="2" break="no"/>σεν</w> <w>ἡ</w> <w>καλῆ<supplied reason="omitted">ς</supplied></w> <w>μνή
-                    <lb n="3" break="no"/>μης</w> <name>Περεγρίνα</name>
-                    <lb n="4"/><w>τῶν</w> <name>Βολιμαρίω<supplied reason="omitted">ν</supplied></name>
-                    <lb n="5"/><w>τῇ</w> <w>πρὸ</w> <num value="4"><hi rend="supraline">δ</hi></num> <w>εἰδῶν</w>
-                    <lb n="6"/><name>Νοβεμβρίων</name>
+                    <lb n="3" break="no"/>μης</w> <name><w>Περεγρίνα</w></name>
+                    <lb n="4"/><w>τῶν</w> <name><w>Βολιμαρίω<supplied reason="omitted">ν</supplied></w></name>
+                    <lb n="5"/><w>τῇ</w> <w>πρὸ</w> <num value="4"><w><hi rend="supraline">δ</hi></w></num> <w>εἰδῶν</w>
+                    <lb n="6"/><name><w>Νοβεμβρίων</w></name>
                     <lb n="7"/><roleName type="supracivic" subtype="consul"><w>ὑπα</w> <w><choice><corr>τί</corr><sic>π</sic></choice></w> <w>ᾳ</w></roleName>
-                    <lb n="8"/><name>Ἑρκουλιανοῦ</name>
+                    <lb n="8"/><name><w>Ἑρκουλιανοῦ</w></name>
                     <lb n="9"/><w>καὶ</w> <w>ἥτις</w> <w>ἀπὸ</w>
-                    <lb n="10"/><name>Ἀνατολῆς</name>
+                    <lb n="10"/><name><w>Ἀνατολῆς</w></name>
                     <lb n="11"/><w>μηνυ<choice><corr>θ</corr><sic>ο</sic></choice>ήσεται</w>
                 </ab>
             </div>

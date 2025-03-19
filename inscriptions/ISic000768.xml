@@ -204,7 +204,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">Conco</supplied><unclear>r</unclear>diae</w> <g ref="#interpunct">·</g> <name>Aug<supplied reason="lost">ustae</supplied></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">Conco</supplied><unclear>r</unclear>diae</w> <g ref="#interpunct">·</g> <name><w>Aug<supplied reason="lost">ustae</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w>ethus</w> <g ref="#interpunct">·</g> <roleName type="civic.religious" subtype="sevir"><w>sev</w> <w><supplied reason="lost">ir</supplied></w></roleName> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>

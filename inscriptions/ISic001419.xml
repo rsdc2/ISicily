@@ -188,7 +188,7 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
                     <lb n="1" style="text-direction:l-to-r"/><gap reason="lost" extent="unknown" unit="character"/> <w>νδρο
-                    <lb n="2" break="no" style="text-direction:r-to-l"/>ς</w> <name>Θευ</name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2" break="no" style="text-direction:r-to-l"/>ς</w> <name><w>Θευ</w></name> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>

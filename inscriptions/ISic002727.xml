@@ -188,8 +188,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    <lb n="1"/><w>Ἡράκλειος</w> <name>Διονυσίου</name>
-                    <lb n="2"/><name>Πετρεῖνος</name> <roleName type="civic" subtype="agoranomos"><w>ἀγορανομέων</w></roleName>
+                    <lb n="1"/><w>Ἡράκλειος</w> <name><w>Διονυσίου</w></name>
+                    <lb n="2"/><name><w>Πετρεῖνος</w></name> <roleName type="civic" subtype="agoranomos"><w>ἀγορανομέων</w></roleName>
                     <lb n="3"/><w>ἐκ</w> <w>τῶν</w> <w>ἰδίων</w>
                 </ab>
             </div>

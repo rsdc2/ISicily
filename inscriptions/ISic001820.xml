@@ -171,9 +171,9 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
                     <lb n="1"/><w><supplied reason="lost">ἐτ</supplied>ελεύτησε</w>
-                    <lb n="2"/><persName type="attested"><name><supplied reason="lost">Ἀ</supplied><unclear>ρ</unclear>έτη</name></persName> <w>ἐν</w> <w><expan><abbr><am><g ref="#christogram">☧</g></am></abbr><ex>Χριστο</ex><abbr>ς</abbr></expan></w>
-                    <lb n="3"/><w><supplied reason="lost">π</supplied>ρὀ</w> <num value="8">η</num> <w>ἰδῶν</w>
-                    <lb n="4"/><name>Ἰουλίων</name>
+                    <lb n="2"/><persName type="attested"><name><w><supplied reason="lost">Ἀ</supplied><unclear>ρ</unclear>έτη</w></name></persName> <w>ἐν</w> <w><expan><abbr><am><g ref="#christogram">☧</g></am></abbr><ex>Χριστο</ex><abbr>ς</abbr></expan></w>
+                    <lb n="3"/><w><supplied reason="lost">π</supplied>ρὀ</w> <num value="8"><w>η</w></num> <w>ἰδῶν</w>
+                    <lb n="4"/><name><w>Ἰουλίων</w></name>
                 </ab>
             </div>
             <div type="apparatus" resp="#JP">

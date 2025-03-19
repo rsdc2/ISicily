@@ -211,9 +211,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AL #JP">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name type="praenomen"><expan><abbr>P</abbr><ex>ublius</ex></expan></name> <g ref="#interpunct">·</g> <name type="nomen">Scri<unclear>b</unclear><unclear>o</unclear>
-                    <lb n="2" break="no"/><space unit="character" quantity="2"/>nius</name> <space unit="character" quantity="3"/>
-                    <lb n="3"/><name type="cognomen">So<unclear>lle</unclear>mnis</name></persName> <g ref="#interpunct">·</g>
+                    <lb n="1"/><persName type="attested"><name type="praenomen"><w><expan><abbr>P</abbr><ex>ublius</ex></expan></w></name> <g ref="#interpunct">·</g> <name type="nomen"><w>Scri<unclear>b</unclear><unclear>o</unclear>
+                    <lb n="2" break="no"/><space unit="character" quantity="2"/>nius</w></name> <space unit="character" quantity="3"/>
+                    <lb n="3"/><name type="cognomen"><w>So<unclear>lle</unclear>mnis</w></name></persName> <g ref="#interpunct">·</g>
                     <lb n="4"/><w>sib<unclear>i</unclear></w> <w><supplied reason="lost">e</supplied><unclear>t</unclear></w> <g ref="#interpunct">·</g> <w>suis</w> <g ref="#interpunct">·</g> <w><expan><abbr>v</abbr><ex>ivus</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>f</abbr><ex>ecit</ex></expan></w> <g ref="#interpunct">·</g>
                 </ab>
             </div>

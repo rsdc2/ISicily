@@ -191,8 +191,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1"/><w>τάφος</w> <name>Τρύφων
-                    <lb n="2" break="no"/>ος</name> <roleName type="paracivic.religious" subtype="presbyteros"><w>πρυσβυτέρου</w></roleName>
+                    <lb n="1"/><w>τάφος</w> <name><w>Τρύφων
+                    <lb n="2" break="no"/>ος</w></name> <roleName type="paracivic.religious" subtype="presbyteros"><w>πρυσβυτέρου</w></roleName>
                     <lb n="3"/><g ref="#palm">⸙</g>
                 </ab>
             </div>

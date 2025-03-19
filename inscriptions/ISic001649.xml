@@ -196,12 +196,12 @@
             <div type="edition" xml:space="preserve" xml:lang="la"><!-- text imported from EDR and requires revision-->
                 <ab>
                     <lb n="1"/><w>San<unclear>c</unclear>tissimae</w>
-                    <lb n="2"/><w><choice><sic>coiug<unclear>i</unclear></sic><corr>coniugi</corr></choice></w> <name>Zosime</name>
+                    <lb n="2"/><w><choice><sic>coiug<unclear>i</unclear></sic><corr>coniugi</corr></choice></w> <name><w>Zosime</w></name>
                     <lb n="3"/><w><supplied reason="lost">fi</supplied>del<supplied reason="lost">i</supplied>,</w> <w><choice><corr>q</corr></choice></w> <w><choice><sic>ue</sic><corr>quae</corr></choice></w> <w><choice><sic>bixsit</sic><corr>vixit</corr></choice></w>
                     <lb n="4"/><w><expan><abbr>ann</abbr><ex>is</ex></expan></w> <w>XXVI</w> <w>et</w> <w>de
-                    <lb n="5" break="no"/>ce<supplied reason="lost">s</supplied>sit</w> <w>XI</w> <name><expan><abbr>Kal</abbr><ex>endas</ex></expan></name> <name>Octobris</name>
-                    <lb n="6"/><name>Amantio</name>
-                    <lb n="7"/><w>et</w> <name>Albino</name> <roleName type="supracivic" subtype="consul"><w><expan><abbr>cons</abbr><ex>ulibus</ex></expan></w></roleName>
+                    <lb n="5" break="no"/>ce<supplied reason="lost">s</supplied>sit</w> <w>XI</w> <name><w><expan><abbr>Kal</abbr><ex>endas</ex></expan></w></name> <name><w>Octobris</w></name>
+                    <lb n="6"/><name><w>Amantio</w></name>
+                    <lb n="7"/><w>et</w> <name><w>Albino</w></name> <roleName type="supracivic" subtype="consul"><w><expan><abbr>cons</abbr><ex>ulibus</ex></expan></w></roleName>
                 </ab>
                 <!--This EDR text 073195 originally came via the Europeana EAGLE project, http://www.eagle-network.eu/-->
             </div>

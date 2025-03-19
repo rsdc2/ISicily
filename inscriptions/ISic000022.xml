@@ -195,7 +195,7 @@
                 <ab>
                     <lb n="1"/><w><del rend="erasure"><gap reason="lost" extent="unknown" unit="character"/></del>oni
                     <lb n="2" break="no"/>no<del rend="erasure"><gap reason="lost" extent="unknown" unit="character"/></del></w>
-                    <lb n="3"/><name>Pio</name> <w><expan><abbr><unclear>nobili</unclear>ss</abbr><ex>imo</ex></expan></w> <name><expan><abbr>Caes</abbr><ex>ari</ex></expan></name> <roleName type="supracivic" subtype="princeps.iuventutis"><w><expan><abbr>pr</abbr><ex>incipi</ex></expan></w>
+                    <lb n="3"/><name><w>Pio</w></name> <w><expan><abbr><unclear>nobili</unclear>ss</abbr><ex>imo</ex></expan></w> <name><w><expan><abbr>Caes</abbr><ex>ari</ex></expan></w></name> <roleName type="supracivic" subtype="princeps.iuventutis"><w><expan><abbr>pr</abbr><ex>incipi</ex></expan></w>
                     <lb n="4"/><w><expan><abbr>iuv<supplied reason="lost">ent</supplied></abbr><supplied reason="lost"><ex>utis</ex></supplied></expan></w></roleName> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="4"/><gap reason="lost" quantity="8" unit="line" precision="low"/>
                 </ab>

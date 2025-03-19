@@ -184,7 +184,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#IG">
                 <ab>
-                    <lb n="1"/><g corresp="#decoration.figure.vegetation"/> <w><expan><abbr>Ἰ</abbr><ex cert="low">ησοῦς</ex></expan></w> <name><expan><abbr><am><g ref="#christogram">☧</g></am></abbr><ex>ίστος</ex></expan></name> <g corresp="#decoration.figure.animal"/> <g ref="#monogram" cert="low"/>
+                    <lb n="1"/><g corresp="#decoration.figure.vegetation"/> <w><expan><abbr>Ἰ</abbr><ex cert="low">ησοῦς</ex></expan></w> <name><w><expan><abbr><am><g ref="#christogram">☧</g></am></abbr><ex>ίστος</ex></expan></w></name> <g corresp="#decoration.figure.animal"/> <g ref="#monogram" cert="low"/>
                 </ab>
                </div>
             <div type="apparatus">

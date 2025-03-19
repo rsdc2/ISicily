@@ -193,7 +193,7 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#AA">
                 <ab>
                     <lb n="1"/><w>ἐνθάδ<supplied reason="lost">ε</supplied></w> <w><supplied reason="lost">κῖ</supplied>
-                    <lb n="2" break="no"/>τε</w> <name><seg part="I">Π</seg><supplied reason="omitted" cert="low">ρ</supplied><seg part="M">ιμ</seg><supplied reason="lost" cert="low">ιγένιος</supplied></name>
+                    <lb n="2" break="no"/>τε</w> <name><w><seg part="I">Π</seg><supplied reason="omitted" cert="low">ρ</supplied><seg part="M">ιμ</seg><supplied reason="lost" cert="low">ιγένιος</supplied></w></name>
                     <lb n="3"/><roleName type="paracivic.religious" subtype="hypodiakonos"><w>ὑποδ</w> <w><supplied reason="lost">ιάκονος</supplied></w></roleName>
                     <lb n="4"/><w>κὲ</w> <w>θυρ</w> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>

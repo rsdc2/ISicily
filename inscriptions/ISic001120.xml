@@ -195,7 +195,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    <lb n="1"/><w>Κίσσος</w> <w>καὶ</w> <name>Τρύφων</name> <w>οἱ</w> <name>Εἰκαδίου</name>
+                    <lb n="1"/><w>Κίσσος</w> <w>καὶ</w> <name><w>Τρύφων</w></name> <w>οἱ</w> <name><w>Εἰκαδίου</w></name>
                     <lb n="2"/><w><supplied reason="lost">ταλαίπωρ</supplied>οι</w> <w>καὶ</w> <w>ἄωροι</w> <w>χρηστο<supplied reason="lost">ὶ</supplied></w>
                     <lb n="3"/><w>χαίρετε</w>
                 </ab>

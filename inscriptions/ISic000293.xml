@@ -191,7 +191,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#TNS">
                 <ab>
-                    <lb n="1"/><name>Quinta</name> <gap reason="lost" quantity="4" unit="character" precision="low"/>
+                    <lb n="1"/><name><w>Quinta</w></name> <gap reason="lost" quantity="4" unit="character" precision="low"/>
                     <lb n="2"/><w>vixit</w> <g ref="#interpunct">·</g> <w>annos</w> <gap reason="lost" quantity="2" unit="character" precision="low"/>
                     <lb n="3"/><w>copia</w> <g ref="#interpunct">·</g> <w>mater</w>
                     <lb n="4"/><w>fecit</w>

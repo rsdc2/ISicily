@@ -191,10 +191,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>Τ</abbr><ex>ίτος</ex></expan></w> <g ref="#interpunct">·</g> <name>Φλάβις</name> <g ref="#interpunct">·</g> <name>Γεμινι
-                    <lb n="2" break="no"/>άνος</name> <g ref="#interpunct">·</g> <w>χρηστὸς</w> <g ref="#interpunct">·</g> <w>καὶ</w>
+                    <lb n="1"/><w><expan><abbr>Τ</abbr><ex>ίτος</ex></expan></w> <g ref="#interpunct">·</g> <name><w>Φλάβις</w></name> <g ref="#interpunct">·</g> <name><w>Γεμινι
+                    <lb n="2" break="no"/>άνος</w></name> <g ref="#interpunct">·</g> <w>χρηστὸς</w> <g ref="#interpunct">·</g> <w>καὶ</w>
                     <lb n="3"/><w>ἄμεμπτος</w> <g ref="#interpunct">·</g> <w>ἔζησε</w>
-                    <lb n="4"/><w>ἔτη</w> <g ref="#interpunct">·</g> <num value="22">κβ</num> <g ref="#interpunct">·</g> <w><expan><abbr>μῆν</abbr><ex>ες</ex></expan></w> <num value="3">γ</num>
+                    <lb n="4"/><w>ἔτη</w> <g ref="#interpunct">·</g> <num value="22"><w>κβ</w></num> <g ref="#interpunct">·</g> <w><expan><abbr>μῆν</abbr><ex>ες</ex></expan></w> <num value="3"><w>γ</w></num>
                 </ab>
             </div>
             <div type="apparatus">

@@ -227,8 +227,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>C</abbr><ex>aius</ex></expan></w> <g ref="#interpunct">·</g> <name>Marcius</name> <g ref="#interpunct">·</g> <name>Zoilus</name> <g ref="#interpunct">·</g>
-                    <lb n="2"/><name>Minervae</name> <g ref="#interpunct">·</g>
+                    <lb n="1"/><w><expan><abbr>C</abbr><ex>aius</ex></expan></w> <g ref="#interpunct">·</g> <name><w>Marcius</w></name> <g ref="#interpunct">·</g> <name><w>Zoilus</w></name> <g ref="#interpunct">·</g>
+                    <lb n="2"/><name><w>Minervae</w></name> <g ref="#interpunct">·</g>
                 </ab>
             </div>
             <div type="apparatus">

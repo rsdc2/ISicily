@@ -217,9 +217,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
-                    <lb n="1"/><name><expan><abbr>Cn</abbr><ex>aeus</ex></expan></name> <g ref="#interpunct">·</g> <name>L</name> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="2"/><name>Lici<unclear>n</unclear></name> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="3"/><name>Pom</name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><name><w><expan><abbr>Cn</abbr><ex>aeus</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w>L</w></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><name><w>Lici<unclear>n</unclear></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="3"/><name><w>Pom</w></name> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="4"/><w>mo</w> <gap reason="illegible" unit="character" quantity="1"/> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>

@@ -193,10 +193,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <name><expan><abbr>M</abbr><ex>anibus</ex></expan></name> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="2"/><name>Chrysi</name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <name><w><expan><abbr>M</abbr><ex>anibus</ex></expan></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><name><w>Chrysi</w></name> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="3"/><w>vixit</w> <g ref="#interpunct">·</g> <w>a<supplied reason="lost">nnos</supplied></w>
-                    <lb n="4"/><name>Felix</name> <orig>I</orig><gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="4"/><name><w>Felix</w></name> <orig>I</orig><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="5"/><w>piissim</w> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>

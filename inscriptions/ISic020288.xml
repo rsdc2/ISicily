@@ -175,7 +175,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="xly-Grek">
                 <ab>
-                    <lb n="1" xml:id="UcεAK"/><persName cert="low" xml:id="UcεAU"><name xml:id="UcεAe">ΑΝΚΔΕΡ</name></persName>
+                    <lb n="1" xml:id="UcεAK"/><persName cert="low" xml:id="UcεAU"><name xml:id="UcεAe"><w>ΑΝΚΔΕΡ</w></name></persName>
                 </ab>
             </div>
             <div type="edition" xml:space="preserve" subtype="transliteration" xml:lang="xly-Latn">

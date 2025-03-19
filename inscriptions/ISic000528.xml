@@ -192,7 +192,7 @@
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
                     <lb n="1"/><orig>O</orig><gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="2"/><name><expan><abbr>P</abbr><ex>ublius</ex></expan></name> <g ref="#interpunct">·</g> <name>Titinius</name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><name><w><expan><abbr>P</abbr><ex>ublius</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w>Titinius</w></name> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="3"/><orig>DES</orig><orig><hi rend="reversed">C</hi>VN</orig><gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>

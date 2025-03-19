@@ -201,8 +201,8 @@
             <div type="edition" xml:space="preserve" xml:lang="la">
                 <ab>
                     <lb/><gap reason="lost" extent="unknown" unit="line"/>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <orig><unclear>x</unclear></orig><w><expan><abbr>an</abbr><ex>nis</ex></expan></w> <num value="76">LXXVI</num> <w><expan><abbr>m</abbr><ex>ense</ex></expan></w> <num value="1">I</num>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="attested"><name><gap reason="lost" extent="unknown" unit="character"/>avia</name> <name><expan><abbr>C</abbr><ex>ai</ex></expan></name> <w><expan><abbr>f</abbr><ex>ilia</ex></expan></w> <name>Faustina</name></persName>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <orig><unclear>x</unclear></orig><w><expan><abbr>an</abbr><ex>nis</ex></expan></w> <num value="76"><w>LXXVI</w></num> <w><expan><abbr>m</abbr><ex>ense</ex></expan></w> <num value="1"><w>I</w></num>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="attested"><name><w><gap reason="lost" extent="unknown" unit="character"/>avia</w></name> <name><w><expan><abbr>C</abbr><ex>ai</ex></expan></w></name> <w><expan><abbr>f</abbr><ex>ilia</ex></expan></w> <name><w>Faustina</w></name></persName>
                     <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <w>matri</w> <w>piae</w> <w>fecit</w>
                 </ab>
             </div>

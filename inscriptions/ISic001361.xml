@@ -199,12 +199,12 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#martaf">
                 <ab>
-                    <lb n="1"/><w>Ὁ</w> <w>κύριό<choice><corr>ς</corr><sic>ε</sic></choice></w> <w>μου</w> <persName type="attested"><name>Εὐ
-                    <lb n="2" break="no"/>άγριος</name></persName> <w>ἐχαρίσατό</w>
+                    <lb n="1"/><w>Ὁ</w> <w>κύριό<choice><corr>ς</corr><sic>ε</sic></choice></w> <w>μου</w> <persName type="attested"><name><w>Εὐ
+                    <lb n="2" break="no"/>άγριος</w></name></persName> <w>ἐχαρίσατό</w>
                     <lb n="3"/><w>μοι</w> <w>τὸν</w> <w>τόπον</w> <w>ἐμοὶ</w>
-                    <lb n="4"/><persName type="attested"><name>Θεοδούλῳ</name></persName> <w>καὶ</w> <w>κῖντε</w>
-                    <lb n="5"/><persName type="attested"><name>Κωστάντις</name></persName> <w>καὶ</w> <persName type="attested"><name>Κεκι
-                    <lb n="6" break="no"/>λία</name></persName>
+                    <lb n="4"/><persName type="attested"><name><w>Θεοδούλῳ</w></name></persName> <w>καὶ</w> <w>κῖντε</w>
+                    <lb n="5"/><persName type="attested"><name><w>Κωστάντις</w></name></persName> <w>καὶ</w> <persName type="attested"><name><w>Κεκι
+                    <lb n="6" break="no"/>λία</w></name></persName>
                 </ab>
             </div>
             <div type="apparatus" resp="#martaf">

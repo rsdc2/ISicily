@@ -202,11 +202,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#GC">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <name><expan><abbr>M</abbr><ex>anibus</ex></expan></name> <g ref="#interpunct">·</g> <name><expan><abbr>S</abbr><ex>acrum</ex></expan></name>
-                    <lb n="2"/><name>Gallicano</name> <g ref="#interpunct">·</g> <w>fi
+                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <name><w><expan><abbr>M</abbr><ex>anibus</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w><expan><abbr>S</abbr><ex>acrum</ex></expan></w></name>
+                    <lb n="2"/><name><w>Gallicano</w></name> <g ref="#interpunct">·</g> <w>fi
                     <lb n="3" break="no"/>delissimo</w> <g ref="#interpunct">·</g> <w>qui</w> <w>fuit</w> <g ref="#interpunct">·</g> <w>vi
-                    <lb n="4" break="no"/>licus</w> <g ref="#interpunct">·</g> <name>Afinianis</name>
-                    <lb n="5"/><w><expan><abbr>vix</abbr><ex>it</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>ann</abbr><ex>is</ex></expan></w> <num value="45">XLV</num>
+                    <lb n="4" break="no"/>licus</w> <g ref="#interpunct">·</g> <name><w>Afinianis</w></name>
+                    <lb n="5"/><w><expan><abbr>vix</abbr><ex>it</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>ann</abbr><ex>is</ex></expan></w> <num value="45"><w>XLV</w></num>
                 </ab>
             </div>
             <div type="apparatus">

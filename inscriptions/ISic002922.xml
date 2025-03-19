@@ -189,9 +189,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la">
                 <ab>
-                    <lb n="1"/><g ref="#cross_uninterpreted">†</g> <w>Memoria</w> <persName type="attested"><name>Laurenti</name></persName>
+                    <lb n="1"/><g ref="#cross_uninterpreted">†</g> <w>Memoria</w> <persName type="attested"><name><w>Laurenti</w></name></persName>
                     <lb n="2"/><w>medici</w> <w>et</w> <w><choice><orig>ussor</orig><reg>uxor</reg></choice></w> <w>eius</w>
-                    <lb n="3"/><persName type="attested"><name>Prosdocia</name></persName>
+                    <lb n="3"/><persName type="attested"><name><w>Prosdocia</w></name></persName>
                 </ab>
             </div>
             <div type="apparatus">

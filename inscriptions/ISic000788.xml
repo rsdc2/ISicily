@@ -193,11 +193,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#VB">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <g ref="#interpunct">❦</g> <name><expan><abbr>M</abbr><ex>anibus</ex></expan></name> <g ref="#interpunct">❦</g>
-                    <lb n="2"/><name>Cartilia</name> <g ref="#interpunct">❦</g> <name>Ire
-                    <lb n="3" break="no"/>ne</name> <g ref="#interpunct">❦</g> <w><expan><abbr>vix</abbr><ex>it</ex></expan></w> <g ref="#interpunct">❦</g> <w><expan><abbr>ann</abbr><ex>is</ex></expan></w> <g ref="#interpunct">❦</g>
-                    <lb n="4"/><num value="38">XXXVIII</num> <g ref="#interpunct">❦</g> <name><expan><abbr>Cl</abbr><ex>audius</ex></expan></name> <g ref="#interpunct">❦</g> <name>The
-                    <lb n="5" break="no"/>seus</name> <g ref="#interpunct">❦</g> <w>uxori</w> <g ref="#interpunct">❦</g>
+                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <g ref="#interpunct">❦</g> <name><w><expan><abbr>M</abbr><ex>anibus</ex></expan></w></name> <g ref="#interpunct">❦</g>
+                    <lb n="2"/><name><w>Cartilia</w></name> <g ref="#interpunct">❦</g> <name><w>Ire
+                    <lb n="3" break="no"/>ne</w></name> <g ref="#interpunct">❦</g> <w><expan><abbr>vix</abbr><ex>it</ex></expan></w> <g ref="#interpunct">❦</g> <w><expan><abbr>ann</abbr><ex>is</ex></expan></w> <g ref="#interpunct">❦</g>
+                    <lb n="4"/><num value="38"><w>XXXVIII</w></num> <g ref="#interpunct">❦</g> <name><w><expan><abbr>Cl</abbr><ex>audius</ex></expan></w></name> <g ref="#interpunct">❦</g> <name><w>The
+                    <lb n="5" break="no"/>seus</w></name> <g ref="#interpunct">❦</g> <w>uxori</w> <g ref="#interpunct">❦</g>
                     <lb n="6"/><w>sanctissimae</w>
                 </ab>
             </div>

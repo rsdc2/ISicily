@@ -196,10 +196,10 @@
             <div type="edition" xml:space="preserve" xml:lang="la">
                 <ab>
                     <lb n="1"/><w><supplied reason="lost" cert="low"><expan><abbr>d</abbr><ex>is</ex></expan></supplied></w> <w><supplied reason="lost" cert="low"><expan><abbr>m</abbr><ex>anibus</ex></expan></supplied></w> <w><supplied reason="lost" cert="low"><expan><abbr>s</abbr><ex>acrum</ex></expan></supplied></w>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w>ianus</w> <name><expan><abbr>Aug</abbr><ex>usti</ex></expan></name>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w>ianus</w> <name><w><expan><abbr>Aug</abbr><ex>usti</ex></expan></w></name>
                     <lb n="3"/><w><supplied reason="lost"><expan><abbr>lib</abbr><ex>ertus</ex></expan></supplied></w> <w><expan><abbr><unclear>t</unclear>abul</abbr><ex>arius</ex></expan></w> <w>vixit</w> <w>an
-                    <lb n="4" break="no"/><supplied reason="lost">n</supplied>is</w> <num value="22">XXII</num> <w><expan><abbr>mensib</abbr><ex>us</ex></expan></w> <num value="2">II</num>
-                    <lb n="5"/><w><expan><abbr>dieb</abbr><ex>us</ex></expan></w> <num value="11">XI</num> <w>uxor</w> <w>et</w>
+                    <lb n="4" break="no"/><supplied reason="lost">n</supplied>is</w> <num value="22"><w>XXII</w></num> <w><expan><abbr>mensib</abbr><ex>us</ex></expan></w> <num value="2"><w>II</w></num>
+                    <lb n="5"/><w><expan><abbr>dieb</abbr><ex>us</ex></expan></w> <num value="11"><w>XI</w></num> <w>uxor</w> <w>et</w>
                     <lb n="6"/><w><supplied reason="lost">fr</supplied><unclear>atr</unclear>es</w> <w><supplied reason="lost">pii</supplied>ssimo</w>
                     <lb n="7"/><gap reason="lost" extent="unknown" unit="character"/> <gap reason="illegible" quantity="1" unit="character"/>
                 </ab>

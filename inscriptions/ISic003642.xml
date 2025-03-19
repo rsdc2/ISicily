@@ -194,8 +194,8 @@
                     <lb n="3"/><w><supplied reason="lost">καὶ</supplied></w> <w><supplied reason="lost">ἄμ</supplied>ενπτε</w>
                     <lb n="4"/><w><supplied reason="lost">ζησα</supplied>ς</w>
                     <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/> <orig>Μ</orig>
-                    <lb n="6"/><w><supplied reason="lost">ἔτη</supplied></w> <num value="2">β</num>
-                    <lb n="7"/><w><supplied reason="lost">μῆνας</supplied></w> <num value="7">ζ</num>
+                    <lb n="6"/><w><supplied reason="lost">ἔτη</supplied></w> <num value="2"><w>β</w></num>
+                    <lb n="7"/><w><supplied reason="lost">μῆνας</supplied></w> <num value="7"><w>ζ</w></num>
                 </ab>
             </div>
             <div type="apparatus" resp="#JP">

@@ -192,8 +192,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#DEE">
                 <ab>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="attested"><name type="nomen"><supplied reason="lost">Cor</supplied><unclear>n</unclear>elia</name></persName> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <name><gap reason="illegible" quantity="2" unit="character"/>C<gap reason="illegible" quantity="1" unit="character"/></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="attested"><name type="nomen"><w><supplied reason="lost">Cor</supplied><unclear>n</unclear>elia</w></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <name><w><gap reason="illegible" quantity="2" unit="character"/>C<gap reason="illegible" quantity="1" unit="character"/></w></name> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>
             <div type="apparatus">

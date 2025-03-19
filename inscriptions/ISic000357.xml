@@ -192,8 +192,8 @@
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#MH">
                 <ab>
                     <lb n="0"/><gap reason="lost" extent="unknown" unit="line"/>
-                    <lb n="1"/><w>Iulia</w> <name>Hesp<supplied reason="lost">e</supplied>
-                    <lb n="2" break="no"/>ris</name> <w><expan><abbr>f</abbr><ex>ecit</ex></expan></w>
+                    <lb n="1"/><w>Iulia</w> <name><w>Hesp<supplied reason="lost">e</supplied>
+                    <lb n="2" break="no"/>ris</w></name> <w><expan><abbr>f</abbr><ex>ecit</ex></expan></w>
                 </ab>               
             </div>
             <div type="apparatus">

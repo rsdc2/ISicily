@@ -195,8 +195,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/><w>Εὐβουλίδας</w> <name>Ἀγαθάρχου</name>
-                    <lb n="2"/><name>Κεντορρειπεῖνος</name> <w>κατεσσκέ
+                    <lb n="1"/><w>Εὐβουλίδας</w> <name><w>Ἀγαθάρχου</w></name>
+                    <lb n="2"/><name><w>Κεντορρειπεῖνος</w></name> <w>κατεσσκέ
                     <lb n="3" break="no"/>ωσε</w> <w>κράναν</w> <w>ἐλευ
                     <lb n="4" break="no"/>θέ<supplied reason="lost">ρ</supplied>αν</w>
                 </ab>

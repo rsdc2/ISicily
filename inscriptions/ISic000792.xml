@@ -194,12 +194,12 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
-                    <lb n="1"/><g ref="#ivy-leaf"/> <w><expan><abbr>D</abbr><ex>is</ex></expan></w> <g ref="#ivy-leaf"/> <name><expan><abbr>M</abbr><ex>anibus</ex></expan></name> <g ref="#ivy-leaf"/> <w><expan><abbr>s</abbr><ex>acrum</ex></expan></w> <g ref="#ivy-leaf"/>
-                    <lb n="2"/><name>Carpioni</name> <w><expan><abbr>fil</abbr><ex>io</ex></expan></w> <w>dul
-                    <lb n="3" break="no"/>cissimo</w> <name>Carpion</name> <w>pater</w>
+                    <lb n="1"/><g ref="#ivy-leaf"/> <w><expan><abbr>D</abbr><ex>is</ex></expan></w> <g ref="#ivy-leaf"/> <name><w><expan><abbr>M</abbr><ex>anibus</ex></expan></w></name> <g ref="#ivy-leaf"/> <w><expan><abbr>s</abbr><ex>acrum</ex></expan></w> <g ref="#ivy-leaf"/>
+                    <lb n="2"/><name><w>Carpioni</w></name> <w><expan><abbr>fil</abbr><ex>io</ex></expan></w> <w>dul
+                    <lb n="3" break="no"/>cissimo</w> <name><w>Carpion</w></name> <w>pater</w>
                     <lb n="4"/><w><choice><sic>abreptum</sic><corr>abrepto</corr></choice></w> <w>sibi</w> <w>fato</w> <w>qui</w>
                     <lb n="5"/><w>vixit</w> <w>incomparabilis</w>
-                    <lb n="6"/><w>ulli</w> <w><expan><abbr>an</abbr><ex>nis</ex></expan></w> <num value="20">XX</num>
+                    <lb n="6"/><w>ulli</w> <w><expan><abbr>an</abbr><ex>nis</ex></expan></w> <num value="20"><w>XX</w></num>
                 </ab>
                 <!--The initial text was EDR text 076853, via the Europeana EAGLE project, http://www.eagle-network.eu/-->
             </div>

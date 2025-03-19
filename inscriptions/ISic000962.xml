@@ -188,14 +188,14 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1"/><w>μηνὶ</w> <name>Νοβεν
-                    <lb n="2" break="no"/>βρίῳ</name> <w>ἐτελεύ
-                    <lb n="3" break="no"/>τησεν</w> <persName type="attested"><name>Ῥό <expan><abbr><am><g ref="#christogram">☧</g></am></abbr><ex>Χριστο</ex><abbr>ς</abbr></expan>
-                    <lb n="4" break="no"/>δων</name></persName> <w><expan><abbr><hi rend="ligature">πρ</hi></abbr><ex>ὸ</ex></expan></w> <num value="9">θ</num> <w>
+                    <lb n="1"/><w>μηνὶ</w> <name><w>Νοβεν
+                    <lb n="2" break="no"/>βρίῳ</w></name> <w>ἐτελεύ
+                    <lb n="3" break="no"/>τησεν</w> <persName type="attested"><name><w>Ῥό <expan><abbr><am><g ref="#christogram">☧</g></am></abbr><ex>Χριστο</ex><abbr>ς</abbr></expan>
+                    <lb n="4" break="no"/>δων</w></name></persName> <w><expan><abbr><hi rend="ligature">πρ</hi></abbr><ex>ὸ</ex></expan></w> <num value="9"><w>θ</w></num> <w>
                     <lb n="5" break="no"/>καλανδῶν</w>
-                    <lb n="6"/><name>Δεκενβρί
-                    <lb n="7" break="no"/>ων</name> <w><hi rend="ligature">ἡμέ</hi>ρᾳ</w>
-                    <lb n="8"/><name>Ἡλίου</name>
+                    <lb n="6"/><name><w>Δεκενβρί
+                    <lb n="7" break="no"/>ων</w></name> <w><hi rend="ligature">ἡμέ</hi>ρᾳ</w>
+                    <lb n="8"/><name><w>Ἡλίου</w></name>
                 </ab>
             </div>
             <div type="apparatus">

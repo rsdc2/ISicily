@@ -192,11 +192,11 @@
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#GC">
                 <ab>
                     <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>m</abbr><ex>anibus</ex></expan></w>
-                    <lb n="2"/><name>Aeliae</name> <g ref="#interpunct">·</g> <name>Hilare</name>
+                    <lb n="2"/><name><w>Aeliae</w></name> <g ref="#interpunct">·</g> <name><w>Hilare</w></name>
                     <lb n="3"/><w>quae</w> <g ref="#interpunct">·</g> <w>vixit</w> <g ref="#interpunct">·</g> <w><expan><abbr>an</abbr><ex>nos</ex></expan></w>
-                    <lb n="4"/><num value="27">XXVII</num> <g ref="#interpunct">·</g> <w><expan><abbr>m</abbr><ex>enses</ex></expan></w> <g ref="#interpunct">·</g> <num value="9">VIIII</num>
-                    <lb n="5"/><w>dies</w> <g ref="#interpunct">·</g> <num value="4">IIII</num>
-                    <lb n="6"/><name><expan><abbr>P</abbr><ex>ublius</ex></expan></name> <g ref="#interpunct">·</g> <name>Aelius</name> <g ref="#interpunct">·</g> <name>Eutyc<hi rend="ligature">he</hi>s</name>
+                    <lb n="4"/><num value="27"><w>XXVII</w></num> <g ref="#interpunct">·</g> <w><expan><abbr>m</abbr><ex>enses</ex></expan></w> <g ref="#interpunct">·</g> <num value="9"><w>VIIII</w></num>
+                    <lb n="5"/><w>dies</w> <g ref="#interpunct">·</g> <num value="4"><w>IIII</w></num>
+                    <lb n="6"/><name><w><expan><abbr>P</abbr><ex>ublius</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w>Aelius</w></name> <g ref="#interpunct">·</g> <name><w>Eutyc<hi rend="ligature">he</hi>s</w></name>
                     <lb n="7"/><w>filiae</w> <g ref="#interpunct">·</g> <w>pientissumae</w>
                     <lb n="8"/><w>sepulchrum</w> <g ref="#interpunct">·</g> <w><expan><abbr>fec</abbr><ex>it</ex></expan></w>
                 </ab>

@@ -193,7 +193,7 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#GC">
                 <ab>
                     <lb n="1"/><w><supplied reason="lost">ἱερατεύσασαν τᾶς Ἀφ</supplied>ροδίτας</w>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"><desc>personal name</desc></gap> <name><gap reason="lost" extent="unknown" unit="character"/><seg part="F">στράτου</seg></name>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"><desc>personal name</desc></gap> <name><w><gap reason="lost" extent="unknown" unit="character"/><seg part="F">στράτου</seg></w></name>
                     <lb n="3"/><w><supplied reason="lost">ἀνέθηκεν ἁ β</supplied>ουλὰ</w> <w>καὶ</w>
                     <lb n="4"/><w><supplied reason="lost">ὁ δᾶμος τᾶι Ἀφρο</supplied>δίται</w>
                 </ab>

@@ -194,7 +194,7 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
                     <lb n="1"/><w><supplied reason="lost">Ἀφρο</supplied>δισίας</w> <w>καὶ</w>
-                    <lb n="2"/><name><supplied reason="lost">Θε</supplied>υδᾶ</name> <w>καὶ</w> <name>Μαρύλλας</name>
+                    <lb n="2"/><name><w><supplied reason="lost">Θε</supplied>υδᾶ</w></name> <w>καὶ</w> <name><w>Μαρύλλας</w></name>
                     <lb n="3"/><w>εἰς</w> <w>μνείαν</w> <w>γονέων</w>
                     <lb n="4"/><w>τέκνα</w> <w>ἐποίησαν</w>
                 </ab>

@@ -193,8 +193,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
-                    <lb n="1"/><w>Coelia</w> <name><expan><abbr>Q</abbr><ex>uinti</ex></expan></name> <w><expan><abbr>l</abbr><ex>iberta</ex></expan></w>
-                    <lb n="2"/><name>Hygia</name>
+                    <lb n="1"/><w>Coelia</w> <name><w><expan><abbr>Q</abbr><ex>uinti</ex></expan></w></name> <w><expan><abbr>l</abbr><ex>iberta</ex></expan></w>
+                    <lb n="2"/><name><w>Hygia</w></name>
                 </ab>
             </div>
             <div type="apparatus">

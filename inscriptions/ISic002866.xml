@@ -189,8 +189,8 @@
         <body>
             <div type="edition" xml:space="preserve" subtype="PHI" n="PHI334798">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>Γ</abbr><ex>αΐου</ex></expan></w> <g ref="#interpunct">∙</g> <name>Κλωδίου</name>
-                    <lb n="2"/><name>Ῥούφου.</name>
+                    <lb n="1"/><w><expan><abbr>Γ</abbr><ex>αΐου</ex></expan></w> <g ref="#interpunct">∙</g> <name><w>Κλωδίου</w></name>
+                    <lb n="2"/><name><w>Ῥούφου.</w></name>
                     <lb n="3"/>
                 </ab>
             </div>

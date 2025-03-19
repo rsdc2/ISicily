@@ -185,7 +185,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name><gap reason="lost" quantity="2" unit="character"/><seg part="M">οκλ</seg><gap reason="lost" unit="character" quantity="2"/></name></persName>
+                    <lb n="1"/><persName type="attested"><name><w><gap reason="lost" quantity="2" unit="character"/><seg part="M">οκλ</seg><gap reason="lost" unit="character" quantity="2"/></w></name></persName>
                     <lb n="2"/><w>χ<unclear>αῖ</unclear>ρε</w>
                 </ab>
             </div>

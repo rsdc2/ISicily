@@ -198,10 +198,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#martaf">
                 <ab>
-                    <lb n="1"/><w><expan><abbr><choice><corr>Θ</corr><sic>Ο</sic></choice></abbr><ex>εοῖς</ex></expan></w> <name><expan><abbr>Κ</abbr><ex>ατακθονίοις</ex></expan></name>
-                    <lb n="2"/><persName type="attested"><name>Ἰουλία</name> <name>Δομιτία</name></persName> <w>ἔζησεν</w>
-                    <lb n="3"/><w>ἔτη</w> <hi rend="supraline"><num value="7">ζ</num></hi>,<w>μῆνας</w> <hi rend="supraline"><num value="3">γ</num></hi>,<w>ἡμέρας</w> <hi rend="supraline"><num value="5">ε</num></hi>.
-                    <lb n="4"/><name>Γονεῖς</name> <w>ἐποίησ<choice><corr>α</corr><sic>λ</sic></choice>ν</w>
+                    <lb n="1"/><w><expan><abbr><choice><corr>Θ</corr><sic>Ο</sic></choice></abbr><ex>εοῖς</ex></expan></w> <name><w><expan><abbr>Κ</abbr><ex>ατακθονίοις</ex></expan></w></name>
+                    <lb n="2"/><persName type="attested"><name><w>Ἰουλία</w></name> <name><w>Δομιτία</w></name></persName> <w>ἔζησεν</w>
+                    <lb n="3"/><w>ἔτη</w> <hi rend="supraline"><num value="7"><w>ζ</w></num></hi>,<w>μῆνας</w> <hi rend="supraline"><num value="3"><w>γ</w></num></hi>,<w>ἡμέρας</w> <hi rend="supraline"><num value="5"><w>ε</w></num></hi>.
+                    <lb n="4"/><name><w>Γονεῖς</w></name> <w>ἐποίησ<choice><corr>α</corr><sic>λ</sic></choice>ν</w>
                 </ab>
             </div>
             <div type="apparatus" resp="#martaf">

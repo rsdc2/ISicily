@@ -241,11 +241,11 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#martaf">
                 <ab>
                     <lb n="1"/><g ref="#alpha">Α</g> <g ref="#christogram"/> <g ref="#sigma">Σ</g> <w>Ἐνθάδε</w> <w>κῖ
-                    <lb n="2" break="no"/>τε</w> <persName type="attested"><name>Κεκιλια
-                    <lb n="3" break="no"/>νὸς</name></persName> <w>ζήσας</w>
-                    <lb n="4"/><w>ἔτη</w> <num value="20"><hi rend="supraline">κ</hi></num> <w>Εἰρή
+                    <lb n="2" break="no"/>τε</w> <persName type="attested"><name><w>Κεκιλια
+                    <lb n="3" break="no"/>νὸς</w></name></persName> <w>ζήσας</w>
+                    <lb n="4"/><w>ἔτη</w> <num value="20"><w><hi rend="supraline">κ</hi></w></num> <w>Εἰρή
                     <lb n="5" break="no"/>v<choice><corr>η</corr><sic>ΙΙ</sic></choice></w> <w>ὑμῖν</w> <w>πᾶ
-                    <lb n="6" break="no"/>σιν</w> <w>ἐν</w> <persName type="divine"><name><expan><abbr>Θ</abbr><ex>ε</ex><abbr>ῷ</abbr></expan></name></persName>
+                    <lb n="6" break="no"/>σιν</w> <w>ἐν</w> <persName type="divine"><name><w><expan><abbr>Θ</abbr><ex>ε</ex><abbr>ῷ</abbr></expan></w></name></persName>
                     <lb n="7"/><g ref="#alpha">Α</g> <g ref="#christogram"/> <g ref="#sigma">Σ</g> <g ref="#figure_zoomorphic"/>
                 </ab>
             </div>

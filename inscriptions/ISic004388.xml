@@ -213,12 +213,12 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>V</abbr><ex>alerio</ex></expan></w> <name><supplied reason="lost">Li</supplied>cinio</name>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <name><unclear>L</unclear><supplied reason="lost">icinia</supplied>no</name>
+                    <lb n="1"/><w><expan><abbr>V</abbr><ex>alerio</ex></expan></w> <name><w><supplied reason="lost">Li</supplied>cinio</w></name>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <name><w><unclear>L</unclear><supplied reason="lost">icinia</supplied>no</w></name>
                     <lb n="3"/><w><supplied reason="lost">nob</supplied><unclear>ilissim</unclear><supplied reason="lost">o</supplied></w>
-                    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <name>Caes<unclear>a</unclear><supplied reason="lost">ri</supplied></name>
-                    <lb n="5"/><w><supplied reason="lost">res<expan><abbr>p</abbr><ex>ublica</ex></expan></supplied></w> <name>Hala<unclear>e</unclear>si
-                    <lb n="6" break="no"/>no<supplied reason="lost">ru</supplied>m</name> <w>devota</w>
+                    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <name><w>Caes<unclear>a</unclear><supplied reason="lost">ri</supplied></w></name>
+                    <lb n="5"/><w><supplied reason="lost">res<expan><abbr>p</abbr><ex>ublica</ex></expan></supplied></w> <name><w>Hala<unclear>e</unclear>si
+                    <lb n="6" break="no"/>no<supplied reason="lost">ru</supplied>m</w></name> <w>devota</w>
                     <lb n="7"/><w>num<unclear>i</unclear><supplied reason="lost">ni maie</supplied>
                     <lb n="8" break="no"/><supplied reason="lost">s</supplied>tatique</w> <w><supplied reason="lost">eius</supplied></w>
                 </ab>

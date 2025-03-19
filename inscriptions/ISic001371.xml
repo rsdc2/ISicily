@@ -187,10 +187,10 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
                     <lb n="1"/><w>ἀγορασία</w> <w><supplied reason="lost">τόπου</supplied></w>
-                    <lb n="2"/><w>παρὰ</w> <persName type="attested"><name>Χαρμ<supplied reason="lost">ίδου</supplied></name></persName>
-                    <lb n="3"/><w><choice><orig>κὲ</orig><reg>καὶ</reg></choice></w> <persName type="attested"><name>Σοφίας</name></persName> <w>ἠ<supplied reason="lost">γόρα</supplied>
-                    <lb n="4" break="no"/>σεν</w> <w>δὲ</w> <persName type="attested"><name>Ῥωμ<supplied reason="lost">ανὸς</supplied></name></persName>
-                    <lb n="5"/><w><supplied reason="lost">σ</supplied>ὺν</w> <persName type="attested"><name>Ἀγάθῃ</name></persName> <w><supplied reason="lost">γυνεκί</supplied></w>
+                    <lb n="2"/><w>παρὰ</w> <persName type="attested"><name><w>Χαρμ<supplied reason="lost">ίδου</supplied></w></name></persName>
+                    <lb n="3"/><w><choice><orig>κὲ</orig><reg>καὶ</reg></choice></w> <persName type="attested"><name><w>Σοφίας</w></name></persName> <w>ἠ<supplied reason="lost">γόρα</supplied>
+                    <lb n="4" break="no"/>σεν</w> <w>δὲ</w> <persName type="attested"><name><w>Ῥωμ<supplied reason="lost">ανὸς</supplied></w></name></persName>
+                    <lb n="5"/><w><supplied reason="lost">σ</supplied>ὺν</w> <persName type="attested"><name><w>Ἀγάθῃ</w></name></persName> <w><supplied reason="lost">γυνεκί</supplied></w>
                 </ab>
             </div>
             <div type="apparatus" resp="#JP">

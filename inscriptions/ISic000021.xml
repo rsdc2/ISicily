@@ -191,15 +191,15 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la">
                 <ab>
-                    <lb n="1"/><roleName type="supracivic" subtype="imperator"><w><expan><abbr>Imp</abbr><ex>eratori</ex></expan></w></roleName> <g ref="#interpunct">·</g> <name><expan><abbr>Caes</abbr><ex>ari</ex></expan></name> <g ref="#interpunct">·</g> <w>divi</w>
-                    <lb n="2"/><name>Magni</name> <g ref="#interpunct">·</g> <name>Antoni
-                    <lb n="3" break="no"/>ni</name> <w><del rend="erasure"><expan><abbr>f</abbr><ex>ilio</ex></expan></del></w> <w>divi</w> <g ref="#interpunct">·</g> <name>Septimi</name>
-                    <lb n="4"/><name>Severi</name> <w><del rend="erasure"><expan><abbr>n</abbr><ex>epoti</ex></expan><expan><abbr>M</abbr><ex>arco</ex></expan>Aure</del>
-                    <lb n="5" break="no"/><del rend="erasure">lio</del></w> <name>Severo</name> <name><del rend="erasure">A</del>
-                    <lb n="6" break="no"/><del rend="erasure">lexandro</del></name> <name>Pio</name> <name><expan><abbr>Fel</abbr><ex>ici</ex></expan></name>
-                    <lb n="7"/><name><expan><abbr>Aug</abbr><ex>usto</ex></expan></name> <g ref="#interpunct">·</g> <roleName type="supracivic.religious" subtype="pontifex.maximus"><w><expan><abbr>pont</abbr><ex>ifici</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr><unclear>m</unclear>ax</abbr><ex>imo</ex></expan></w></roleName> <g ref="#interpunct">·</g> <roleName type="supracivic" subtype="tribunicia.potestas"><w><expan><abbr>tri</abbr><ex>bunicia</ex></expan></w>
+                    <lb n="1"/><roleName type="supracivic" subtype="imperator"><w><expan><abbr>Imp</abbr><ex>eratori</ex></expan></w></roleName> <g ref="#interpunct">·</g> <name><w><expan><abbr>Caes</abbr><ex>ari</ex></expan></w></name> <g ref="#interpunct">·</g> <w>divi</w>
+                    <lb n="2"/><name><w>Magni</w></name> <g ref="#interpunct">·</g> <name><w>Antoni
+                    <lb n="3" break="no"/>ni</w></name> <w><del rend="erasure"><expan><abbr>f</abbr><ex>ilio</ex></expan></del></w> <w>divi</w> <g ref="#interpunct">·</g> <name><w>Septimi</w></name>
+                    <lb n="4"/><name><w>Severi</w></name> <w><del rend="erasure"><expan><abbr>n</abbr><ex>epoti</ex></expan><expan><abbr>M</abbr><ex>arco</ex></expan>Aure</del>
+                    <lb n="5" break="no"/><del rend="erasure">lio</del></w> <name><w>Severo</w></name> <name><w><del rend="erasure">A</del>
+                    <lb n="6" break="no"/><del rend="erasure">lexandro</del></w></name> <name><w>Pio</w></name> <name><w><expan><abbr>Fel</abbr><ex>ici</ex></expan></w></name>
+                    <lb n="7"/><name><w><expan><abbr>Aug</abbr><ex>usto</ex></expan></w></name> <g ref="#interpunct">·</g> <roleName type="supracivic.religious" subtype="pontifex.maximus"><w><expan><abbr>pont</abbr><ex>ifici</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr><unclear>m</unclear>ax</abbr><ex>imo</ex></expan></w></roleName> <g ref="#interpunct">·</g> <roleName type="supracivic" subtype="tribunicia.potestas"><w><expan><abbr>tri</abbr><ex>bunicia</ex></expan></w>
                     <lb n="8"/><w><expan><abbr>po<unclear>t</unclear></abbr><ex>estate</ex></expan></w></roleName> <del rend="erasure"><gap reason="lost" quantity="2" unit="character"/></del><roleName type="supracivic" subtype="consul"><w><expan><abbr>co</abbr><ex>n</ex><abbr>s</abbr><ex>uli</ex></expan></w></roleName> <roleName type="supracivic" subtype="pater.patriae"><w><expan><abbr>p</abbr><ex>atri</ex></expan></w> <w><expan><abbr>p</abbr><ex>atriae</ex></expan></w></roleName> <w><expan><abbr><unclear>c</unclear>o<supplied reason="lost">l</supplied></abbr><ex>onia</ex></expan></w>
-                    <lb n="9"/><name><expan><abbr>Aug</abbr><ex>usta</ex></expan></name> <g ref="#interpunct">·</g> <name><expan><abbr><unclear>P</unclear>an<unclear>h</unclear><supplied reason="lost">or</supplied><unclear>m</unclear></abbr><ex>itanorum</ex></expan></name>
+                    <lb n="9"/><name><w><expan><abbr>Aug</abbr><ex>usta</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w><expan><abbr><unclear>P</unclear>an<unclear>h</unclear><supplied reason="lost">or</supplied><unclear>m</unclear></abbr><ex>itanorum</ex></expan></w></name>
                     <lb n="10"/><roleName type="civic" subtype="decurio"><w><expan><abbr>d</abbr><ex>ecurionum</ex></expan></w></roleName> <w><expan><abbr>d</abbr><ex>ecreto</ex></expan></w>
                 </ab>
             </div>

@@ -256,12 +256,12 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#TG">
                 <ab>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w><unclear>n</unclear>dri</w> <g ref="#interpunct">·</g> <w><expan><abbr>v</abbr><ex>ixit</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>a</abbr><ex>annis</ex></expan></w> <g ref="#interpunct">·</g> <num value="60">LX</num>
-                    <lb n="2"/><name><supplied reason="lost">A</supplied>mabilis</name> <g ref="#interpunct">·</g> <w>nutrici</w>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w><unclear>n</unclear>dri</w> <g ref="#interpunct">·</g> <w><expan><abbr>v</abbr><ex>ixit</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>a</abbr><ex>annis</ex></expan></w> <g ref="#interpunct">·</g> <num value="60"><w>LX</w></num>
+                    <lb n="2"/><name><w><supplied reason="lost">A</supplied>mabilis</w></name> <g ref="#interpunct">·</g> <w>nutrici</w>
                     <lb n="3"/><w><expan><abbr>o</abbr><ex>ptimae</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>d</abbr><ex>e</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>s</abbr><ex>e</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>m</abbr><ex>erenti</ex></expan></w>
-                    <lb n="4"/><w><supplied reason="lost">i</supplied>tem</w> <g ref="#interpunct">·</g> <name>Crescent<hi rend="tall">i</hi></name>
-                    <lb n="5"/><w><expan><abbr><unclear>v</unclear></abbr><ex>ixit</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>a</abbr><ex>nnis</ex></expan></w> <g ref="#interpunct">·</g> <num value="25">XXV</num> <g ref="#interpunct">·</g>
-                    <lb n="6"/><w><supplied reason="lost">ea</supplied><unclear>d</unclear>em</w> <g ref="#interpunct">·</g> <name>Amabilis</name>
+                    <lb n="4"/><w><supplied reason="lost">i</supplied>tem</w> <g ref="#interpunct">·</g> <name><w>Crescent<hi rend="tall">i</hi></w></name>
+                    <lb n="5"/><w><expan><abbr><unclear>v</unclear></abbr><ex>ixit</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>a</abbr><ex>nnis</ex></expan></w> <g ref="#interpunct">·</g> <num value="25"><w>XXV</w></num> <g ref="#interpunct">·</g>
+                    <lb n="6"/><w><supplied reason="lost">ea</supplied><unclear>d</unclear>em</w> <g ref="#interpunct">·</g> <name><w>Amabilis</w></name>
                     <lb n="7"/><w><supplied reason="lost">co</supplied>niugi</w> <g ref="#interpunct">·</g> <w><expan><abbr>o</abbr><ex>ptimo</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>d</abbr><ex>e</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>s</abbr><ex>e</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>m</abbr><ex>erenti</ex></expan></w> <g ref="#interpunct">·</g>
                 </ab>
             </div>

@@ -193,9 +193,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#AL">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name><gap reason="lost" extent="unknown" unit="character"/></name></persName> <w><supplied reason="lost">ἐποίη</supplied>
-                    <lb n="2" break="no"/>σεν</w> <w>ἑαυτῷ</w> <w>κὲ</w> <persName type="attested"><name type="nomen">Ῥω<supplied reason="omitted">σ</supplied>
-                    <lb n="3" break="no"/>κίᾳ</name> <name type="cognomen">Ἀντωνίᾳ</name></persName> <w>τ<choice><corr>ῇ</corr><sic>ι</sic></choice></w> <w>συν
+                    <lb n="1"/><persName type="attested"><name><w><gap reason="lost" extent="unknown" unit="character"/></w></name></persName> <w><supplied reason="lost">ἐποίη</supplied>
+                    <lb n="2" break="no"/>σεν</w> <w>ἑαυτῷ</w> <w>κὲ</w> <persName type="attested"><name type="nomen"><w>Ῥω<supplied reason="omitted">σ</supplied>
+                    <lb n="3" break="no"/>κίᾳ</w></name> <name type="cognomen"><w>Ἀντωνίᾳ</w></name></persName> <w>τ<choice><corr>ῇ</corr><sic>ι</sic></choice></w> <w>συν
                     <lb n="4" break="no"/><surplus>συν</surplus>βίῳ</w> <w>αὐτοῦ</w> <g ref="#ivy-leaf">❦</g>
                 </ab>
             </div>

@@ -194,8 +194,8 @@
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#TA">
                 <ab>
                     <lb n="1"/><gap reason="lost" quantity="3" unit="character"/> <w><supplied reason="lost">c</supplied>olonia</w> <w>l</w> <gap reason="lost" quantity="3" unit="character"/>
-                    <lb n="2"/><gap reason="lost" quantity="3" unit="character"/> <placeName type="ethnic"><name><supplied reason="lost">S</supplied></name> <w>yracusanor</w> <w><supplied reason="lost">um</supplied></w></placeName>
-                    <lb n="3"/><gap reason="lost" quantity="5" unit="character"/> <num value="4">IIII</num> <gap reason="lost" quantity="4" unit="character"/> <orig>AN</orig>
+                    <lb n="2"/><gap reason="lost" quantity="3" unit="character"/> <placeName type="ethnic"><name><w><supplied reason="lost">S</supplied></w></name> <w>yracusanor</w> <w><supplied reason="lost">um</supplied></w></placeName>
+                    <lb n="3"/><gap reason="lost" quantity="5" unit="character"/> <num value="4"><w>IIII</w></num> <gap reason="lost" quantity="4" unit="character"/> <orig>AN</orig>
                     <lb n="4"/><gap reason="lost" quantity="3" unit="character"/> <orig>N</orig><orig>CUR</orig><gap reason="lost" quantity="5" unit="character"/> <orig>NA</orig>
                     <lb n="5"/><w>concordia</w> <w>grati</w>
                 </ab>

@@ -203,8 +203,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#AA">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name>Ἡδυχροῦν</name> <w>ἁ</w>
-                    <lb n="2"/><name>Ἀναδενδρὰς</name></persName>
+                    <lb n="1"/><persName type="attested"><name><w>Ἡδυχροῦν</w></name> <w>ἁ</w>
+                    <lb n="2"/><name><w>Ἀναδενδρὰς</w></name></persName>
                     <lb n="3"/><w>χρηστὴ</w> <w>καὶ</w>
                     <lb n="4"/><w>ἄμεμπτε</w>
                     <lb n="5"/><w>χαῖρε</w>

@@ -201,11 +201,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
-                    <lb n="1"/><w><supplied reason="lost"><roleName type="supracivic" subtype="imperator"><expan><abbr>Imp</abbr><ex>eratori</ex></expan></roleName></supplied></w> <name><expan><abbr>Caes</abbr><ex>ari</ex></expan></name> <g ref="#ivy-leaf"/>
-                    <lb n="2"/><name><supplied reason="lost"><expan><abbr>C</abbr><ex>aio</ex></expan></supplied></name> <name><supplied reason="lost">Vibio</supplied></name> <g ref="#ivy-leaf"/> <name>Afini<hi rend="small">o</hi></name> <g ref="#ivy-leaf"/>
-                    <lb n="3"/><name><supplied reason="lost">Gall</supplied><unclear>o</unclear></name> <g ref="#ivy-leaf"/> <name>Bel
-                    <lb n="4" break="no"/><supplied reason="lost">dumniano</supplied></name> <name><supplied reason="lost">Vol</supplied>
-                    <lb n="5" break="no"/><supplied reason="lost">usiano</supplied></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><w><supplied reason="lost"><roleName type="supracivic" subtype="imperator"><expan><abbr>Imp</abbr><ex>eratori</ex></expan></roleName></supplied></w> <name><w><expan><abbr>Caes</abbr><ex>ari</ex></expan></w></name> <g ref="#ivy-leaf"/>
+                    <lb n="2"/><name><w><supplied reason="lost"><expan><abbr>C</abbr><ex>aio</ex></expan></supplied></w></name> <name><w><supplied reason="lost">Vibio</supplied></w></name> <g ref="#ivy-leaf"/> <name><w>Afini<hi rend="small">o</hi></w></name> <g ref="#ivy-leaf"/>
+                    <lb n="3"/><name><w><supplied reason="lost">Gall</supplied><unclear>o</unclear></w></name> <g ref="#ivy-leaf"/> <name><w>Bel
+                    <lb n="4" break="no"/><supplied reason="lost">dumniano</supplied></w></name> <name><w><supplied reason="lost">Vol</supplied>
+                    <lb n="5" break="no"/><supplied reason="lost">usiano</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="0"/><gap reason="lost" extent="unknown" unit="line"/>
                 </ab>
             </div>

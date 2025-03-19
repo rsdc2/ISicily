@@ -192,7 +192,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>P</abbr><ex>ublius</ex></expan></w> <name>Ael</name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><w><expan><abbr>P</abbr><ex>ublius</ex></expan></w> <name><w>Ael</w></name> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="2"/><w>ro<unclear>s</unclear></w> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>

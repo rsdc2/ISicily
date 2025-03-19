@@ -181,8 +181,8 @@
                 </div>
                 <div type="textpart" subtype="fragment-physical" n="6">
                     <ab>
-                        <lb n="1"/><persName type="attested"><name type="idionym"><seg part="I">Δρ</seg><gap reason="lost" extent="unknown" unit="character"/></name>
-                        <lb n="2"/><name type="patronym"><seg part="I">Ἀγαθ</seg><gap reason="lost" extent="unknown" unit="character"/></name></persName>
+                        <lb n="1"/><persName type="attested"><name type="idionym"><w><seg part="I">Δρ</seg><gap reason="lost" extent="unknown" unit="character"/></w></name>
+                        <lb n="2"/><name type="patronym"><w><seg part="I">Ἀγαθ</seg><gap reason="lost" extent="unknown" unit="character"/></w></name></persName>
                     </ab>
                 </div>
                 

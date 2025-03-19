@@ -197,9 +197,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#MP">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <name><expan><abbr>M</abbr><ex>anibus</ex></expan></name> <w><supplied reason="lost"><expan><abbr>s</abbr><ex>acrum</ex></expan></supplied></w>
-                    <lb n="2"/><name>Nasidia</name> <name>Epity<supplied reason="lost">nchanu</supplied>
-                    <lb n="3" break="no"/>sa</name> <g ref="#interpunct">·</g> <w>vixit</w> <g ref="#interpunct">·</g> <w><expan><abbr>an</abbr><ex>nis</ex></expan></w> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <name><w><expan><abbr>M</abbr><ex>anibus</ex></expan></w></name> <w><supplied reason="lost"><expan><abbr>s</abbr><ex>acrum</ex></expan></supplied></w>
+                    <lb n="2"/><name><w>Nasidia</w></name> <name><w>Epity<supplied reason="lost">nchanu</supplied>
+                    <lb n="3" break="no"/>sa</w></name> <g ref="#interpunct">·</g> <w>vixit</w> <g ref="#interpunct">·</g> <w><expan><abbr>an</abbr><ex>nis</ex></expan></w> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>
             <div type="apparatus">

@@ -200,10 +200,10 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#KB">
                 <ab>
                     <lb n="1"/><w><g ref="#ivy-leaf"/><expan><abbr>Θ</abbr><ex>εοῖς</ex></expan><space quantity="3" unit="character" precision="low"/><expan><abbr>Δ</abbr><ex>αίμοσιν</ex></expan><g ref="#ivy-leaf"/></w>
-                    <lb n="2"/><name>Κλωδία</name>
-                    <lb n="3"/><name>Ῥωμάνα</name>
+                    <lb n="2"/><name><w>Κλωδία</w></name>
+                    <lb n="3"/><name><w>Ῥωμάνα</w></name>
                     <lb n="4"/><w>ἔζησε</w> <w>ἔ
-                    <lb n="5" break="no"/>τη</w> <num value="35">λε</num>
+                    <lb n="5" break="no"/>τη</w> <num value="35"><w>λε</w></num>
                     <lb n="6"/><g ref="#ivy-leaf"/> <space quantity="5" unit="character" precision="low"/><g ref="#ivy-leaf"/>
                 </ab>
             </div>

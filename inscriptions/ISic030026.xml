@@ -177,17 +177,17 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/><w><supplied reason="lost">Θε</supplied>ός</w> <w>τύχα</w> <g ref="#dash">‒</g> <persName type="attested"><name type="idionym">Ἄρχο̄ν</name></persName> <w>ὀφε̄́λει</w> <w>τᾶι</w> <w>θεο͂ι</w> <g ref="#dash">‒</g> <measure type="weight" unit="talent" cert="low"><g ref="#talent_01"/><g ref="#talent_01"/></measure> <g ref="#dash">‒</g>
-                    <lb n="2"/><w><supplied reason="lost">σὺ</supplied>ν</w> <w>το͂ι</w> <w>τόκο̄ι</w> <w>κεφάλο̄μα</w> <g ref="#dash">‒</g> <measure type="weight" unit="ounce"><num value="141">ΙΔΔΔΔΗ</num></measure> <measure type="weight" unit="talent" cert="low"><num value="301">Ι<g ref="#talent_02"/><g ref="#talent_02"/><g ref="#talent_02"/></num></measure> <g ref="#dash">‒</g> <!-- discussion about value notations and related signs? -->
+                    <lb n="1"/><w><supplied reason="lost">Θε</supplied>ός</w> <w>τύχα</w> <g ref="#dash">‒</g> <persName type="attested"><name type="idionym"><w>Ἄρχο̄ν</w></name></persName> <w>ὀφε̄́λει</w> <w>τᾶι</w> <w>θεο͂ι</w> <g ref="#dash">‒</g> <measure type="weight" unit="talent" cert="low"><g ref="#talent_01"/><g ref="#talent_01"/></measure> <g ref="#dash">‒</g>
+                    <lb n="2"/><w><supplied reason="lost">σὺ</supplied>ν</w> <w>το͂ι</w> <w>τόκο̄ι</w> <w>κεφάλο̄μα</w> <g ref="#dash">‒</g> <measure type="weight" unit="ounce"><num value="141"><w>ΙΔΔΔΔΗ</w></num></measure> <measure type="weight" unit="talent" cert="low"><num value="301"><w>Ι<g ref="#talent_02"/><g ref="#talent_02"/><g ref="#talent_02"/></w></num></measure> <g ref="#dash">‒</g> <!-- discussion about value notations and related signs? -->
                     <lb n="3"/><w><supplied reason="lost">το</supplied>ύτο̄</w> <g ref="#dash">‒</g> <w>οὐ</w> <w>βρο̄τὸν</w> <w>ἀλλὰ</w> <w>πριάσσθο̄</w> <g ref="#dash">‒</g> <w>ἀγάλμα
                     <lb n="4" break="no"/><supplied reason="lost">τα</supplied></w> <w>καὶ</w> <w>σκέα</w> <w>πριάσσθο̄</w> <w>τούτο̄</w> <w>το͂</w> <w>ἀργυρίο̄</w> <w>κα
                     <lb n="5" break="no"/><supplied reason="lost">ὶ</supplied></w> <w>λίτρας</w> <w>hίκατι</w> <w>ὀφε̄́λει</w> <w>τᾶι</w> <w>θεο͂ι</w> <g ref="#dash">‒</g> <w>καὶ</w> <w>hα</w> <w>ἀ
-                    <lb n="6" break="no"/>δελφε<supplied reason="omitted">ὰ</supplied></w> <persName type="attested"><name type="idionym">Ἄρχο̄νος</name></persName> <w>ὀφε̄́λει</w> <w>καὶ</w> <w>τὰ</w> <w>χρε̄́μα
-                    <lb n="7" break="no"/>τα</w> <w>τὰ</w> <w><choice><corr>αὐτᾶς</corr><sic>αὐτος</sic></choice></w> <w>καὶ</w> <w>τὰ</w> <persName type="attested"><name type="idionym">Ἄρχο̄νος</name></persName> <w>τούτο</w> <w>το͂</w>
+                    <lb n="6" break="no"/>δελφε<supplied reason="omitted">ὰ</supplied></w> <persName type="attested"><name type="idionym"><w>Ἄρχο̄νος</w></name></persName> <w>ὀφε̄́λει</w> <w>καὶ</w> <w>τὰ</w> <w>χρε̄́μα
+                    <lb n="7" break="no"/>τα</w> <w>τὰ</w> <w><choice><corr>αὐτᾶς</corr><sic>αὐτος</sic></choice></w> <w>καὶ</w> <w>τὰ</w> <persName type="attested"><name type="idionym"><w>Ἄρχο̄νος</w></name></persName> <w>τούτο</w> <w>το͂</w>
                     <lb n="8"/><w>ἀργύριο̄<surplus>ν</surplus></w> <w>καὶ</w> <w>τὰ</w> <w>παιδία</w> <w>ὀφε̄́λοντι</w>
-                    <lb n="9"/><persName type="attested"><name type="idionym">Κύπυρα</name></persName> <persName type="attested"><name type="idionym">Σαισο̄̀</name></persName> <w>ἐλεύθεροι</w> <w>αὐταυτᾶ
-                    <lb n="10" break="no"/>ν</w> <w>καὶ</w> <w><choice><corr>παιδία</corr><sic>παιδιδ</sic></choice></w> <w>ὅτι</w> <w>τὸν</w> <w>χρε̄́σταν</w> <persName type="attested"><name type="idionym">Ἄρ
-                    <lb n="11" break="no"/>χο̄να</name></persName> <w>ἐπεί</w> <w>κ’</w> <w>ἀποδο͂ι</w> <w>τοῦτο</w> <w>τὸ</w> <w>ἀρ
+                    <lb n="9"/><persName type="attested"><name type="idionym"><w>Κύπυρα</w></name></persName> <persName type="attested"><name type="idionym"><w>Σαισο̄̀</w></name></persName> <w>ἐλεύθεροι</w> <w>αὐταυτᾶ
+                    <lb n="10" break="no"/>ν</w> <w>καὶ</w> <w><choice><corr>παιδία</corr><sic>παιδιδ</sic></choice></w> <w>ὅτι</w> <w>τὸν</w> <w>χρε̄́σταν</w> <persName type="attested"><name type="idionym"><w>Ἄρ
+                    <lb n="11" break="no"/>χο̄να</w></name></persName> <w>ἐπεί</w> <w>κ’</w> <w>ἀποδο͂ι</w> <w>τοῦτο</w> <w>τὸ</w> <w>ἀρ
                     <lb n="12" break="no"/>γύριον</w> <w>τανικαῦτα</w> <w>ἐλεύθερο̄ς</w>
                     <lb n="13"/><w>ἔσστο̄</w> <g ref="#dash">‒</g>
                 </ab>

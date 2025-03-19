@@ -193,9 +193,9 @@
                 <ab>
                     <lb n="1"/><w>fines</w>
                     <lb n="2"/><w>inter</w>
-                    <lb n="3"/><name>Vand<supplied reason="lost">a</supplied>
-                    <lb n="4" break="no"/><supplied reason="lost">los</supplied></name> <w>et</w>
-                    <lb n="5"/><name><supplied reason="lost">Gothos</supplied></name>
+                    <lb n="3"/><name><w>Vand<supplied reason="lost">a</supplied>
+                    <lb n="4" break="no"/><supplied reason="lost">los</supplied></w></name> <w>et</w>
+                    <lb n="5"/><name><w><supplied reason="lost">Gothos</supplied></w></name>
                     <lb n="6"/><gap reason="lost" quantity="1" unit="line"/>
                 </ab>
             </div>

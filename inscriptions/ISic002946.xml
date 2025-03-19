@@ -189,9 +189,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1"/><w>Επὶ</w> <name>Δινυσίου</name> <roleName type="civic.religious" subtype="hiereus"><w>ἱ</w> <w><supplied reason="lost">ερέως</supplied></w></roleName>
-                    <lb n="2"/><name>Φιλοκράτης</name> <w>καὶ</w> <name>Ξ<supplied reason="lost" cert="low">ένων</supplied></name>
-                    <lb n="3"/><name>Ἀρτέμιτι</name> <w>εὐ<supplied reason="lost">χην</supplied></w>
+                    <lb n="1"/><w>Επὶ</w> <name><w>Δινυσίου</w></name> <roleName type="civic.religious" subtype="hiereus"><w>ἱ</w> <w><supplied reason="lost">ερέως</supplied></w></roleName>
+                    <lb n="2"/><name><w>Φιλοκράτης</w></name> <w>καὶ</w> <name><w>Ξ<supplied reason="lost" cert="low">ένων</supplied></w></name>
+                    <lb n="3"/><name><w>Ἀρτέμιτι</w></name> <w>εὐ<supplied reason="lost">χην</supplied></w>
                 </ab>
             </div>
             <div type="apparatus">

@@ -196,8 +196,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1" xml:id="BsεAK"/><persName xml:id="BsεAU"><name xml:id="BsεAe">Λυϙοφρο̄
-                    <lb n="2" break="no" xml:id="BsεAo"/>νίδᾱ</name></persName>
+                    <lb n="1" xml:id="BsεAK"/><persName xml:id="BsεAU"><name xml:id="BsεAe"><w>Λυϙοφρο̄
+                    <lb n="2" break="no" xml:id="BsεAo"/>νίδᾱ</w></name></persName>
                 </ab>
             </div>
             <div type="apparatus">

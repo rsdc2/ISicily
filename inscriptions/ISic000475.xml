@@ -190,7 +190,7 @@
             <div type="edition" xml:space="preserve" xml:lang="la">
                 <ab>
                     <lb n="0"/><gap reason="lost" extent="unknown" unit="line"/>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w>S</w> <g ref="#interpunct">·</g> <name>C</name> <g ref="#interpunct">·</g> <w>QVI</w> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w>S</w> <g ref="#interpunct">·</g> <name><w>C</w></name> <g ref="#interpunct">·</g> <w>QVI</w> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w>MERINI</w> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
              </div>

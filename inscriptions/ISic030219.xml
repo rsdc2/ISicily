@@ -175,9 +175,9 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
                     <milestone unit="face" n="a"/>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <persName><name><gap reason="lost" extent="unknown" unit="character"/><seg part="F">ίδ<supplied reason="lost">ας</supplied></seg></name></persName> <w><supplied reason="lost">τ</supplied>έθνακε</w>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <persName><name><gap reason="lost" extent="unknown" unit="character"/><seg part="F">γένεος</seg></name></persName> <milestone unit="face" n="b"/>
-                    <lb n="3"/><num value="11"><supplied reason="lost">ͱε</supplied>νδεκάτας</num>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <persName><name><w><gap reason="lost" extent="unknown" unit="character"/><seg part="F">ίδ<supplied reason="lost">ας</supplied></seg></w></name></persName> <w><supplied reason="lost">τ</supplied>έθνακε</w>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <persName><name><w><gap reason="lost" extent="unknown" unit="character"/><seg part="F">γένεος</seg></w></name></persName> <milestone unit="face" n="b"/>
+                    <lb n="3"/><num value="11"><w><supplied reason="lost">ͱε</supplied>νδεκάτας</w></num>
                 </ab>
             </div>
             <div type="apparatus">

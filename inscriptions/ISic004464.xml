@@ -183,11 +183,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#IG">
                 <ab>
-                    <lb n="1"/><g ref="#interpunct">·</g> <w>Ἄλφιος</w> <g ref="#interpunct">·</g> <name>Εὐτυχίων</name>
+                    <lb n="1"/><g ref="#interpunct">·</g> <w>Ἄλφιος</w> <g ref="#interpunct">·</g> <name><w>Εὐτυχίων</w></name>
                     <lb n="2"/><w>χρησ<g ref="#interpunct">·</g>τὸς</w> <w>ἀνὴρ</w> <g ref="#interpunct">·</g>
                     <lb n="3"/><g ref="#interpunct">·</g> <w>καὶ</w> <w>ἄμεμπτος</w> <w>ἐνθά
-                    <lb n="4" break="no"/>δε</w> <w>κεῖμαι</w> <w>ζήσας</w> <g ref="#interpunct">·</g> <num value="40">μ</num> <g ref="#interpunct">·</g>
-                    <lb n="5"/><w>ἔτη</w> <w>καὶ</w> <g ref="#interpunct">·</g> <num value="2">β</num> <g ref="#interpunct">·</g> <w>μῆνας</w> <g ref="#interpunct">·</g>
+                    <lb n="4" break="no"/>δε</w> <w>κεῖμαι</w> <w>ζήσας</w> <g ref="#interpunct">·</g> <num value="40"><w>μ</w></num> <g ref="#interpunct">·</g>
+                    <lb n="5"/><w>ἔτη</w> <w>καὶ</w> <g ref="#interpunct">·</g> <num value="2"><w>β</w></num> <g ref="#interpunct">·</g> <w>μῆνας</w> <g ref="#interpunct">·</g>
                 </ab>
                </div>
             <div type="apparatus">

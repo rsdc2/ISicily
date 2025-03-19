@@ -197,11 +197,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#martaf">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name>Σαβοῦκις</name>
-                    <lb n="2"/><name>Καλλίμορφ<hi rend="ligature">ος</hi></name></persName>
+                    <lb n="1"/><persName type="attested"><name><w>Σαβοῦκις</w></name>
+                    <lb n="2"/><name><w>Καλλίμορφ<hi rend="ligature">ος</hi></w></name></persName>
                     <lb n="3"/><w>ἔζησεν</w> <g ref="#interpunct">·</g> <w>ἔ<hi rend="ligature">τη</hi></w> <g ref="#interpunct">·</g>
-                    <lb n="4"/><g ref="#interpunct">·</g> <num value="32">λβ</num> <g ref="#interpunct">·</g> <persName type="attested"><name>Σαβούκις</name> <g ref="#interpunct">·</g>
-                    <lb n="5"/><name>Ζωίλ<hi rend="ligature">ος</hi></name></persName> <g ref="#interpunct">·</g> <w>πάτ<hi rend="ligature">ρων</hi></w> <g ref="#interpunct">·</g>
+                    <lb n="4"/><g ref="#interpunct">·</g> <num value="32"><w>λβ</w></num> <g ref="#interpunct">·</g> <persName type="attested"><name><w>Σαβούκις</w></name> <g ref="#interpunct">·</g>
+                    <lb n="5"/><name><w>Ζωίλ<hi rend="ligature">ος</hi></w></name></persName> <g ref="#interpunct">·</g> <w>πάτ<hi rend="ligature">ρων</hi></w> <g ref="#interpunct">·</g>
                     <lb n="6"/><w>ἐποίησε</w> <g ref="#interpunct">·</g>
                 </ab>
             </div>

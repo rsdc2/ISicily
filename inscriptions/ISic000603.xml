@@ -190,7 +190,7 @@
                 <ab>
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="2"/><roleName type="supracivic.religious" subtype="pontifex.maximus"><w><abbr>pontif</abbr></w> <expan><w part="I"><abbr>max</abbr><ex>im</ex></w></expan></roleName> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="3"/><name><expan><abbr>Ti</abbr><ex>berii</ex></expan></name> <name>Caesaris</name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="3"/><name><w><expan><abbr>Ti</abbr><ex>berii</ex></expan></w></name> <name><w>Caesaris</w></name> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>

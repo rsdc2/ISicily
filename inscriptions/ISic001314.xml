@@ -202,11 +202,11 @@
         <body>
             <div type="edition" xml:space="preserve" subtype="PHI" n="PHI140807"><!-- imported texts from PHI, unchecked -->
                 <ab>
-                    <lb n="1"/><w><expan><abbr>Θ</abbr><ex>εοῖς</ex></expan></w> <name><expan><abbr>Κ</abbr><ex>αταχθονίοις</ex></expan></name> <name>.</name>
-                    <lb n="2"/><name>Μυρτάλη</name> <w>χρηστο-</w>
+                    <lb n="1"/><w><expan><abbr>Θ</abbr><ex>εοῖς</ex></expan></w> <name><w><expan><abbr>Κ</abbr><ex>αταχθονίοις</ex></expan></w></name> <name><w>.</w></name>
+                    <lb n="2"/><name><w>Μυρτάλη</w></name> <w>χρηστο-</w>
                     <lb n="3"/><w>τάτη,</w> <w>ἔζησεν</w> <w>ἔτη</w>
-                    <lb n="4"/><w>λ,</w> <w><expan><abbr>μῆν</abbr><ex>ας</ex></expan></w> <w>γ</w> <g ref="#interpunct">∙</g> <name>Κορνήλι-</name>
-                    <lb n="5"/><w>ος</w> <name>Ἀγαθήμερος</name> <w>συν-</w>
+                    <lb n="4"/><w>λ,</w> <w><expan><abbr>μῆν</abbr><ex>ας</ex></expan></w> <w>γ</w> <g ref="#interpunct">∙</g> <name><w>Κορνήλι-</w></name>
+                    <lb n="5"/><w>ος</w> <name><w>Ἀγαθήμερος</w></name> <w>συν-</w>
                     <lb n="6"/><w>βίῳ</w> <w>εὐσεβεστάτῃ</w> <g ref="#interpunct">❦</g>
                     <lb n="7"/><g ref="#interpunct">❦</g> <w>ἐποίησε.</w> <g ref="#interpunct">❦</g>
                 </ab>

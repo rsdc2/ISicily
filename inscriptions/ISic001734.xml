@@ -174,7 +174,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#MLH">
                 <ab>
-                    <lb n="1"/><persName><name>Μοῦσα</name></persName> <w>ἐνθαδ
+                    <lb n="1"/><persName><name><w>Μοῦσα</w></name></persName> <w>ἐνθαδ
                     <lb n="2" break="no"/>ε</w> <w><choice><reg>κεῖται</reg><orig>κεῖτε</orig></choice></w> <w><expan><abbr><am><g ref="#christogram">☧</g></am></abbr><ex>Χριστό</ex><abbr>ς</abbr></expan></w>
                 </ab>
             </div>

@@ -202,9 +202,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JH">
                 <ab>
-                    <lb n="1"/><name><expan><abbr>L</abbr><ex>ucius</ex></expan></name> <g ref="#interpunct">·</g> <name>Pinarius</name> <g ref="#interpunct">·</g> <name>Rufus</name> <g ref="#interpunct">·</g> <w>ob</w> <g ref="#interpunct">·</g> <w>honorem</w>
+                    <lb n="1"/><name><w><expan><abbr>L</abbr><ex>ucius</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w>Pinarius</w></name> <g ref="#interpunct">·</g> <name><w>Rufus</w></name> <g ref="#interpunct">·</g> <w>ob</w> <g ref="#interpunct">·</g> <w>honorem</w>
                     <lb n="2"/><roleName type="civic" subtype="aedilis"><w>aedilitatis</w></roleName> <g ref="#interpunct">·</g> <w>imaginem</w> <g ref="#interpunct">·</g> <w>gen<supplied reason="lost">ii</supplied></w>
-                    <lb n="3"/><w>municipi</w> <g ref="#interpunct">·</g> <name><expan><abbr>Lilybitanor</abbr><ex>um</ex></expan></name> <g ref="#interpunct">·</g> <w>ex</w> <w><expan><abbr>arg</abbr><ex>ento</ex></expan></w> <w><expan><abbr>p</abbr><ex>ondo</ex></expan></w> <num value="5">V</num> <w><expan><abbr>p</abbr><ex>ecunia</ex></expan></w> <w><expan><abbr>s</abbr><ex>ua</ex></expan></w> <w><expan><abbr>p</abbr><ex>osuit</ex></expan></w>
+                    <lb n="3"/><w>municipi</w> <g ref="#interpunct">·</g> <name><w><expan><abbr>Lilybitanor</abbr><ex>um</ex></expan></w></name> <g ref="#interpunct">·</g> <w>ex</w> <w><expan><abbr>arg</abbr><ex>ento</ex></expan></w> <w><expan><abbr>p</abbr><ex>ondo</ex></expan></w> <num value="5"><w>V</w></num> <w><expan><abbr>p</abbr><ex>ecunia</ex></expan></w> <w><expan><abbr>s</abbr><ex>ua</ex></expan></w> <w><expan><abbr>p</abbr><ex>osuit</ex></expan></w>
                 </ab>
             </div>
             <div type="apparatus">

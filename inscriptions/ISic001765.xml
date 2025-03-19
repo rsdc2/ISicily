@@ -175,7 +175,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#MLH">
                 <ab>
-                    <lb n="1"/><w><supplied reason="lost">τύμ</supplied>βος</w> <persName type="attested"><name>Κάσι<hi rend="small">α</hi></name></persName>
+                    <lb n="1"/><w><supplied reason="lost">τύμ</supplied>βος</w> <persName type="attested"><name><w>Κάσι<hi rend="small">α</hi></w></name></persName>
                     <lb n="2"/><w><supplied reason="lost">ἐν</supplied>θάδε</w> <w>κεῖ
                     <lb n="3" break="no"/><choice><reg>ται</reg><orig>τε</orig></choice></w> <g ref="#christogram">☧</g>
                 </ab>

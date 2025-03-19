@@ -191,8 +191,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/><w>τοῦ</w> <name>Φηλι
-                    <lb n="2" break="no"/>κεισ<supplied reason="omitted">ί</supplied><choice><corr>μ</corr><sic>ω</sic></choice>ου</name>
+                    <lb n="1"/><w>τοῦ</w> <name><w>Φηλι
+                    <lb n="2" break="no"/>κεισ<supplied reason="omitted">ί</supplied><choice><corr>μ</corr><sic>ω</sic></choice>ου</w></name>
                 </ab>
             </div>
             <div type="apparatus">

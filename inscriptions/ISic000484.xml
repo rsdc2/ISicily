@@ -194,11 +194,11 @@
                 <ab>
                     <lb n="1"/><w>clementissimo</w> <g ref="#interpunct">·</g> <w>et</w>
                     <lb n="2"/><w>victoriossimo</w>
-                    <lb n="3"/><roleName type="supracivic" subtype="dominus"><w><expan><abbr>d</abbr><ex>omino</ex></expan></w></roleName> <g ref="#interpunct">·</g> <w><expan><abbr>n</abbr><ex>ostro</ex></expan></w> <g ref="#interpunct">·</g> <name>Flavio</name> <g ref="#interpunct">·</g> <name>Valerio</name>
-                    <lb n="4"/><name>Constantino</name> <g ref="#interpunct">·</g> <w>maximo</w>
-                    <lb n="5"/><w>pio</w> <g ref="#interpunct">·</g> <w>felici</w> <g ref="#interpunct">·</g> <w>invicto</w> <g ref="#interpunct">·</g> <name><expan><abbr>Aug</abbr><ex>usto</ex></expan></name>
-                    <lb n="6"/><name>Betitius</name> <g ref="#interpunct">·</g> <name>Perpetuus</name>
-                    <lb n="7"/><w><expan><abbr>v</abbr><ex>ir</ex></expan></w> <g ref="#interpunct">·</g> <roleName type="supracivic" subtype="clarissimus"><w><expan><abbr>c</abbr><ex>larissimus</ex></expan></w></roleName> <g ref="#interpunct">·</g> <roleName type="supracivic" subtype="corrector"><w><expan><abbr>corr</abbr><ex>ector</ex></expan></w></roleName> <g ref="#interpunct">·</g> <w><expan><abbr>prov</abbr><ex>inciae</ex></expan></w> <g ref="#interpunct">·</g> <name><expan><abbr>Sicil</abbr><ex>iae</ex></expan></name>
+                    <lb n="3"/><roleName type="supracivic" subtype="dominus"><w><expan><abbr>d</abbr><ex>omino</ex></expan></w></roleName> <g ref="#interpunct">·</g> <w><expan><abbr>n</abbr><ex>ostro</ex></expan></w> <g ref="#interpunct">·</g> <name><w>Flavio</w></name> <g ref="#interpunct">·</g> <name><w>Valerio</w></name>
+                    <lb n="4"/><name><w>Constantino</w></name> <g ref="#interpunct">·</g> <w>maximo</w>
+                    <lb n="5"/><w>pio</w> <g ref="#interpunct">·</g> <w>felici</w> <g ref="#interpunct">·</g> <w>invicto</w> <g ref="#interpunct">·</g> <name><w><expan><abbr>Aug</abbr><ex>usto</ex></expan></w></name>
+                    <lb n="6"/><name><w>Betitius</w></name> <g ref="#interpunct">·</g> <name><w>Perpetuus</w></name>
+                    <lb n="7"/><w><expan><abbr>v</abbr><ex>ir</ex></expan></w> <g ref="#interpunct">·</g> <roleName type="supracivic" subtype="clarissimus"><w><expan><abbr>c</abbr><ex>larissimus</ex></expan></w></roleName> <g ref="#interpunct">·</g> <roleName type="supracivic" subtype="corrector"><w><expan><abbr>corr</abbr><ex>ector</ex></expan></w></roleName> <g ref="#interpunct">·</g> <w><expan><abbr>prov</abbr><ex>inciae</ex></expan></w> <g ref="#interpunct">·</g> <name><w><expan><abbr>Sicil</abbr><ex>iae</ex></expan></w></name>
                     <lb n="8"/><w>devotus</w> <g ref="#interpunct">·</g> <w>numini</w> <w>maies
                     <lb n="9" break="no"/>tatique</w> <g ref="#interpunct">·</g> <w>eius</w>
                     <lb n="10"/><w>semper</w> <g ref="#interpunct">·</g> <w>dicatus</w>

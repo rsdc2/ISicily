@@ -191,7 +191,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#GC">
                 <ab>
-                    <lb n="1"/><w>Paconio</w> <g ref="#interpunct">·</g> <name>Clodiano</name>
+                    <lb n="1"/><w>Paconio</w> <g ref="#interpunct">·</g> <name><w>Clodiano</w></name>
                     <lb n="2"/><roleName type="paracivic" subtype="patronus"><w>patrono</w></roleName> <g ref="#interpunct">·</g> <w>bene</w>
                     <lb n="3"/><w>merenti</w>
                     <lb n="4"/><w>ex</w> <g ref="#interpunct">·</g> <w>aere</w> <g ref="#interpunct">·</g> <w>conlato</w>

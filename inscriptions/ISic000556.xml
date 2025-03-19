@@ -193,8 +193,8 @@
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
                     <lb n="0"/><gap reason="lost" quantity="1" unit="line"/>
-                    <lb n="2"/><name>Osi<gap reason="lost" extent="unknown" unit="character"/>mus</name>
-                    <lb n="3"/><name>Atenision</name>
+                    <lb n="2"/><name><w>Osi<gap reason="lost" extent="unknown" unit="character"/>mus</w></name>
+                    <lb n="3"/><name><w>Atenision</w></name>
                     <lb n="4"/><w>soror</w> <w>bene</w>
                     <lb n="5"/><w>merenti</w>
                     <lb n="6"/><w><expan><abbr>fecer</abbr><ex>unt</ex></expan></w>

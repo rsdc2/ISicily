@@ -193,8 +193,8 @@
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#VM">
                 <ab>
                     <lb n="1"/><w>Pompei<supplied reason="lost">a</supplied></w>
-                    <lb n="2"/><name>Victoria</name>
-                    <lb n="3"/><w><supplied reason="lost"><expan><abbr>v</abbr><ex>ixit</ex></expan></supplied></w> <w><expan><abbr><supplied reason="lost">a</supplied><unclear>n</unclear></abbr><ex>nis</ex></expan></w> <num value="9"><unclear>IX</unclear></num>
+                    <lb n="2"/><name><w>Victoria</w></name>
+                    <lb n="3"/><w><supplied reason="lost"><expan><abbr>v</abbr><ex>ixit</ex></expan></supplied></w> <w><expan><abbr><supplied reason="lost">a</supplied><unclear>n</unclear></abbr><ex>nis</ex></expan></w> <num value="9"><w><unclear>IX</unclear></w></num>
                 </ab>
             </div>
             <div type="apparatus">

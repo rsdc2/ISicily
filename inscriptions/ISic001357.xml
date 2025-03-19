@@ -198,12 +198,12 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#AA">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>πρ</abbr><ex>ὸ</ex></expan></w> <num value="6">ϛ</num> <w>καλανδ<supplied reason="lost">ῶν</supplied></w>
-                    <lb n="2"/><name>Ἰουνίων</name> <w><unclear>ἐ</unclear><supplied reason="lost">γὼ</supplied></w>
-                    <lb n="3"/><name>Θέδουλος</name>
+                    <lb n="1"/><w><expan><abbr>πρ</abbr><ex>ὸ</ex></expan></w> <num value="6"><w>ϛ</w></num> <w>καλανδ<supplied reason="lost">ῶν</supplied></w>
+                    <lb n="2"/><name><w>Ἰουνίων</w></name> <w><unclear>ἐ</unclear><supplied reason="lost">γὼ</supplied></w>
+                    <lb n="3"/><name><w>Θέδουλος</w></name>
                     <lb n="4"/><w>ζῶν</w> <w>κὲ</w> <w>εἰμέ
                     <lb n="5" break="no"/>νος</w> <w>ἠγόρασα</w>
-                    <lb n="6"/><w>παρὰ</w> <name>Ἀρίστωνος</name>
+                    <lb n="6"/><w>παρὰ</w> <name><w>Ἀρίστωνος</w></name>
                 </ab>
             </div>
             <div type="apparatus">

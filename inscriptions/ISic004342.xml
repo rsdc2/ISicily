@@ -191,10 +191,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <name><expan><abbr>M</abbr><ex>anibus</ex></expan></name> <name><expan><abbr>S</abbr><ex>acrum</ex></expan></name>
-                    <lb n="2"/><name>Didyme</name> <w>vi
-                    <lb n="3" break="no"/>xit</w> <w><expan><abbr>an</abbr><ex>nis</ex></expan></w> <num value="69">LXIX</num>
-                    <lb n="4"/><name><abbr><unclear>L</unclear></abbr></name> <name><unclear>E</unclear>pacathus</name>
+                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <name><w><expan><abbr>M</abbr><ex>anibus</ex></expan></w></name> <name><w><expan><abbr>S</abbr><ex>acrum</ex></expan></w></name>
+                    <lb n="2"/><name><w>Didyme</w></name> <w>vi
+                    <lb n="3" break="no"/>xit</w> <w><expan><abbr>an</abbr><ex>nis</ex></expan></w> <num value="69"><w>LXIX</w></num>
+                    <lb n="4"/><name><w><abbr><unclear>L</unclear></abbr></w></name> <name><w><unclear>E</unclear>pacathus</w></name>
                     <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">m</supplied>atri</w> <w>dul
                     <lb n="6" break="no"/><supplied reason="lost">cissi</supplied>mae</w>
                 </ab>

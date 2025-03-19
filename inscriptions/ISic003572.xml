@@ -203,8 +203,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w>divi</w> <g ref="#interpunct">·</g> <name>Au<unclear>g</unclear><supplied reason="lost">usti</supplied></name> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <g ref="#interpunct">·</g> <name>Paccius</name> <g ref="#interpunct">·</g> <name><expan><abbr><unclear>M</unclear></abbr><supplied reason="lost"><ex>arci</ex></supplied></expan></name> <w><supplied reason="lost"><expan><abbr>f</abbr><ex>ilius</ex></expan></supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w>divi</w> <g ref="#interpunct">·</g> <name><w>Au<unclear>g</unclear><supplied reason="lost">usti</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <g ref="#interpunct">·</g> <name><w>Paccius</w></name> <g ref="#interpunct">·</g> <name><w><expan><abbr><unclear>M</unclear></abbr><supplied reason="lost"><ex>arci</ex></supplied></expan></w></name> <w><supplied reason="lost"><expan><abbr>f</abbr><ex>ilius</ex></expan></supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <gap reason="illegible" unit="character" quantity="2"/> <g ref="#interpunct">·</g> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>

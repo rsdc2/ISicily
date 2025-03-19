@@ -220,8 +220,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>Ti</abbr><ex>berio</ex></expan></w> <g ref="#interpunct">·</g> <name>Caesari</name> <g ref="#interpunct">·</g> <w>divi</w> <g ref="#interpunct">·</g> <w><expan><abbr>f</abbr><ex>ilio</ex></expan></w> <g ref="#interpunct">·</g> <name>Augusto</name>
-                    <lb n="2"/><name><expan><abbr>P</abbr><ex>ublius</ex></expan></name> <g ref="#interpunct">·</g> <name>Clodius</name> <g ref="#interpunct">·</g> <name><expan><abbr>C</abbr><ex>ai</ex></expan></name> <g ref="#interpunct">·</g> <w><expan><abbr>f</abbr><ex>ilius</ex></expan></w> <g ref="#interpunct">·</g> <name>Rufus</name> <g ref="#interpunct">·</g> <name>Latro</name> <w><expan><abbr><unclear>p</unclear></abbr><ex>ecunia</ex></expan></w> <w><expan><abbr><unclear>s</unclear></abbr><ex>ua</ex></expan></w>
+                    <lb n="1"/><w><expan><abbr>Ti</abbr><ex>berio</ex></expan></w> <g ref="#interpunct">·</g> <name><w>Caesari</w></name> <g ref="#interpunct">·</g> <w>divi</w> <g ref="#interpunct">·</g> <w><expan><abbr>f</abbr><ex>ilio</ex></expan></w> <g ref="#interpunct">·</g> <name><w>Augusto</w></name>
+                    <lb n="2"/><name><w><expan><abbr>P</abbr><ex>ublius</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w>Clodius</w></name> <g ref="#interpunct">·</g> <name><w><expan><abbr>C</abbr><ex>ai</ex></expan></w></name> <g ref="#interpunct">·</g> <w><expan><abbr>f</abbr><ex>ilius</ex></expan></w> <g ref="#interpunct">·</g> <name><w>Rufus</w></name> <g ref="#interpunct">·</g> <name><w>Latro</w></name> <w><expan><abbr><unclear>p</unclear></abbr><ex>ecunia</ex></expan></w> <w><expan><abbr><unclear>s</unclear></abbr><ex>ua</ex></expan></w>
                     <lb n="3"/><w><expan><abbr>f</abbr><ex>aciendum</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>c</abbr><ex>uravit</ex></expan></w> <g ref="#interpunct">·</g>
                 </ab>
             </div>

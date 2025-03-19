@@ -191,10 +191,10 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#MB">
                 <ab>
                     <lb n="1"/><g ref="#cross_latin">†</g> <w>Ένθάδε</w>
-                    <lb n="2"/><w><choice><orig>κὲτε</orig><reg>κεῖται</reg></choice></w> <persName><name>Ἰωά
-                    <lb n="3" break="no"/><supplied reason="lost">νν</supplied>ης</name> <w>μον
-                    <lb n="4" break="no"/></w> <w><supplied reason="lost">αχὸ</supplied></w> <w>ς</w> <w>ὁ</w> <name>Με
-                    <lb n="5" break="no"/><supplied reason="lost">νου</supplied>θ</name></persName>
+                    <lb n="2"/><w><choice><orig>κὲτε</orig><reg>κεῖται</reg></choice></w> <persName><name><w>Ἰωά
+                    <lb n="3" break="no"/><supplied reason="lost">νν</supplied>ης</w></name> <w>μον
+                    <lb n="4" break="no"/></w> <w><supplied reason="lost">αχὸ</supplied></w> <w>ς</w> <w>ὁ</w> <name><w>Με
+                    <lb n="5" break="no"/><supplied reason="lost">νου</supplied>θ</w></name></persName>
                 </ab>
             </div>
             <div type="apparatus">

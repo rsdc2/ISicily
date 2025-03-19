@@ -213,15 +213,15 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
-                    <lb n="1"/><persName type="divine"><name>Vener
-                    <lb n="2" break="no"/>ri</name>
-                    <lb n="3"/><name type="epithet">Victri
-                    <lb n="4" break="no"/>ci</name> <g ref="#interpunct">·</g>
-                    <lb n="5"/><placeName type="ethnic"><name>Hyblen
-                    <lb n="6" break="no"/>si</name></placeName></persName> <g ref="#interpunct">·</g>
-                    <lb n="7"/><persName type="attested"><name><expan><abbr>C</abbr><ex>aius</ex></expan></name> <name><expan><abbr>Public</abbr><ex>ius</ex></expan></name>
-                    <lb n="8"/><name>Dona
-                    <lb n="9" break="no"/>tus</name></persName>
+                    <lb n="1"/><persName type="divine"><name><w>Vener
+                    <lb n="2" break="no"/>ri</w></name>
+                    <lb n="3"/><name type="epithet"><w>Victri
+                    <lb n="4" break="no"/>ci</w></name> <g ref="#interpunct">·</g>
+                    <lb n="5"/><placeName type="ethnic"><name><w>Hyblen
+                    <lb n="6" break="no"/>si</w></name></placeName></persName> <g ref="#interpunct">·</g>
+                    <lb n="7"/><persName type="attested"><name><w><expan><abbr>C</abbr><ex>aius</ex></expan></w></name> <name><w><expan><abbr>Public</abbr><ex>ius</ex></expan></w></name>
+                    <lb n="8"/><name><w>Dona
+                    <lb n="9" break="no"/>tus</w></name></persName>
                     <lb n="10"/><w><expan><abbr>d</abbr><ex>ono</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>d</abbr><ex>edit</ex></expan></w>
                 </ab>
             </div>

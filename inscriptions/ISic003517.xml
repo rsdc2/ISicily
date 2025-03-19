@@ -188,9 +188,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <name><expan><abbr>M</abbr><ex>anibus</ex></expan></name>
-                    <lb n="2"/><name><expan><abbr>M</abbr><ex>arcus</ex></expan></name> <name>U<unclear>lp</unclear>ius</name> <name>Euty
-                    <lb n="3" break="no"/>c<supplied reason="lost">he</supplied>s</name> <w><unclear>sibi</unclear></w> <w><unclear>et</unclear></w> <w>col
+                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <name><w><expan><abbr>M</abbr><ex>anibus</ex></expan></w></name>
+                    <lb n="2"/><name><w><expan><abbr>M</abbr><ex>arcus</ex></expan></w></name> <name><w>U<unclear>lp</unclear>ius</w></name> <name><w>Euty
+                    <lb n="3" break="no"/>c<supplied reason="lost">he</supplied>s</w></name> <w><unclear>sibi</unclear></w> <w><unclear>et</unclear></w> <w>col
                     <lb n="4" break="no"/>libertis</w> <w>suis</w> <g ref="#interpunct">·</g>
                     <lb n="5"/><w>fecit</w> <g ref="#interpunct">·</g>
                 </ab>

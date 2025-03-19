@@ -199,9 +199,9 @@
                 <ab>
                     <lb n="0"/><gap reason="lost" extent="unknown" unit="character"><desc>name of deceased</desc></gap>
                     <lb n="1"/><w>ἐτελεύτη<supplied reason="lost">σε</supplied></w>
-                    <lb n="2"/><w>τῇ</w> <w><expan><abbr>πρ</abbr><ex>ὸ</ex></expan></w> <num value="19">ιθ</num> <name><expan><abbr>Καλα
-                    <lb n="3" break="no"/>νδ</abbr><ex>ῶν</ex></expan></name> <name>Ἰανουαρί
-                    <lb n="4" break="no"/>ων</name>
+                    <lb n="2"/><w>τῇ</w> <w><expan><abbr>πρ</abbr><ex>ὸ</ex></expan></w> <num value="19"><w>ιθ</w></num> <name><w><expan><abbr>Καλα
+                    <lb n="3" break="no"/>νδ</abbr><ex>ῶν</ex></expan></w></name> <name><w>Ἰανουαρί
+                    <lb n="4" break="no"/>ων</w></name>
                 </ab>
             </div>
             <div type="apparatus" resp="#martaf">

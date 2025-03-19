@@ -192,11 +192,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#FP">
                 <ab>
-                    <lb n="1"/><w><supplied reason="lost"><expan><abbr>Θ</abbr><ex>εοῖς</ex></expan></supplied></w> <name><expan><abbr>Χ</abbr><ex>θονίοις</ex></expan></name>
+                    <lb n="1"/><w><supplied reason="lost"><expan><abbr>Θ</abbr><ex>εοῖς</ex></expan></supplied></w> <name><w><expan><abbr>Χ</abbr><ex>θονίοις</ex></expan></w></name>
                     <lb n="2"/><gap reason="lost" unit="character" atLeast="4" atMost="5"/> <w><supplied reason="lost">χ</supplied>ρησ
                     <lb n="3" break="no"/>τά</w> <w>χαῖρε</w> <g ref="#ivy-leaf">❦</g>
                     <lb n="4"/><w>ἔζησες</w> <g ref="#ivy-leaf">❦</g>
-                    <lb n="5"/><w>ἔτη</w> <g ref="#ivy-leaf">❦</g> <num value="20">κ</num> <g ref="#ivy-leaf">❦</g>
+                    <lb n="5"/><w>ἔτη</w> <g ref="#ivy-leaf">❦</g> <num value="20"><w>κ</w></num> <g ref="#ivy-leaf">❦</g>
                 </ab>
             </div>
             <div type="apparatus">

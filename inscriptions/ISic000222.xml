@@ -207,10 +207,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#VM #AA">
                 <ab>
-                    <lb n="1"/><persName><name><expan><abbr>T</abbr><ex>itus</ex></expan></name> <g ref="#interpunct">·</g> <name><expan><abbr>Stat</abbr><ex cert="low">ilius</ex></expan></name> <g ref="#interpunct">·</g> <name><expan><abbr>Hil</abbr><ex cert="low">arus</ex></expan></name></persName>
-                    <lb n="2"/><w>in</w> <w><expan><abbr>fr</abbr><ex>onte</ex></expan></w> <w><expan><abbr>ped</abbr><ex>es</ex></expan></w> <num value="12">XII</num>
-                    <lb n="3"/><w>in</w> <w><expan><abbr>agr</abbr><ex>o</ex></expan></w> <w><expan><abbr>ped</abbr><ex>es</ex></expan></w> <num value="8">VIII</num>
-                    <lb n="4"/><name><hi rend="tall">G</hi></name>
+                    <lb n="1"/><persName><name><w><expan><abbr>T</abbr><ex>itus</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w><expan><abbr>Stat</abbr><ex cert="low">ilius</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w><expan><abbr>Hil</abbr><ex cert="low">arus</ex></expan></w></name></persName>
+                    <lb n="2"/><w>in</w> <w><expan><abbr>fr</abbr><ex>onte</ex></expan></w> <w><expan><abbr>ped</abbr><ex>es</ex></expan></w> <num value="12"><w>XII</w></num>
+                    <lb n="3"/><w>in</w> <w><expan><abbr>agr</abbr><ex>o</ex></expan></w> <w><expan><abbr>ped</abbr><ex>es</ex></expan></w> <num value="8"><w>VIII</w></num>
+                    <lb n="4"/><name><w><hi rend="tall">G</hi></w></name>
                 </ab>
             </div>
             <div type="apparatus">

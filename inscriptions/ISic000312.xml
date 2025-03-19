@@ -213,9 +213,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>L</abbr><ex>ucio</ex></expan></w> <g ref="#interpunct">·</g> <name>Rubrio</name>
-                    <lb n="2"/><name>Proculo</name>
-                    <lb n="3"/><roleName type="civic" subtype="duumvir.quinquennalis"><w><expan><abbr><num value="2"><hi rend="intraline">II</hi></num>vir</abbr><ex>o</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>quin</abbr><ex>quennali</ex></expan></w></roleName>
+                    <lb n="1"/><w><expan><abbr>L</abbr><ex>ucio</ex></expan></w> <g ref="#interpunct">·</g> <name><w>Rubrio</w></name>
+                    <lb n="2"/><name><w>Proculo</w></name>
+                    <lb n="3"/><roleName type="civic" subtype="duumvir.quinquennalis"><w><expan><abbr><num value="2"><w><hi rend="intraline">II</hi></w></num>vir</abbr><ex>o</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>quin</abbr><ex>quennali</ex></expan></w></roleName>
                     <lb n="4"/><roleName type="civic.religious" subtype="augur"><w>auguri</w></roleName>
                 </ab>
             </div>

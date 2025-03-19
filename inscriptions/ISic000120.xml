@@ -194,9 +194,9 @@
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#TA #JP">
                 <ab>
                     <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <g ref="#ivy-leaf">❦</g> <w><expan><abbr>m</abbr><ex>anibus</ex></expan></w>
-                    <lb n="2"/><persName type="attested"><name>Acilia</name> <g ref="#ivy-leaf"/> <persName type="attested"><name type="patronym"><expan><abbr>M</abbr><ex>arci</ex></expan></name></persName> <w><expan><abbr>f</abbr><ex>ilia</ex></expan></w> <name>Cris
-                    <lb n="3" break="no"/>pina</name></persName> <g ref="#ivy-leaf">❦</g> <w><expan><abbr>v</abbr><ex>ixit</ex></expan></w> <g ref="#ivy-leaf">❦</g> <w><expan><abbr>a</abbr><ex>nnis</ex></expan></w> <g ref="#ivy-leaf">❦</g> <num value="2">II</num> <g ref="#ivy-leaf">❦</g>
-                    <lb n="4"/><w><expan><abbr>m</abbr><ex>ensibus</ex></expan></w> <g ref="#ivy-leaf">❦</g> <num value="7">VII</num> <g ref="#ivy-leaf">❦</g> <w><expan><abbr>d</abbr><ex>iebus</ex></expan></w> <num value="15">XV</num>
+                    <lb n="2"/><persName type="attested"><name><w>Acilia</w></name> <g ref="#ivy-leaf"/> <persName type="attested"><name type="patronym"><w><expan><abbr>M</abbr><ex>arci</ex></expan></w></name></persName> <w><expan><abbr>f</abbr><ex>ilia</ex></expan></w> <name><w>Cris
+                    <lb n="3" break="no"/>pina</w></name></persName> <g ref="#ivy-leaf">❦</g> <w><expan><abbr>v</abbr><ex>ixit</ex></expan></w> <g ref="#ivy-leaf">❦</g> <w><expan><abbr>a</abbr><ex>nnis</ex></expan></w> <g ref="#ivy-leaf">❦</g> <num value="2"><w>II</w></num> <g ref="#ivy-leaf">❦</g>
+                    <lb n="4"/><w><expan><abbr>m</abbr><ex>ensibus</ex></expan></w> <g ref="#ivy-leaf">❦</g> <num value="7"><w>VII</w></num> <g ref="#ivy-leaf">❦</g> <w><expan><abbr>d</abbr><ex>iebus</ex></expan></w> <num value="15"><w>XV</w></num>
                 </ab>
             </div>
             <div type="apparatus">

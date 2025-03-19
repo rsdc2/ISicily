@@ -186,8 +186,8 @@
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <orig>ΛΣΙΙΣΣΙ</orig><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <orig>ΥΤΟΥΔΣΔ</orig><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <w>ἔζησεν</w> <w>ετἠ</w> <gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">ἐτελεύτησεν</supplied></w>
-                    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">πρὸ</supplied></w> <w><expan><abbr>καλ</abbr><ex>ανδῶν</ex></expan></w> <name>Μαιων</name> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="5"/><w>ἀμφοτέρω<supplied reason="lost">ν</supplied></w> <name><supplied reason="lost">Κωνσταντίων</supplied></name> <w><supplied reason="lost"><roleName type="supracivic" subtype="consul">ὑπάτων</roleName></supplied></w>
+                    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">πρὸ</supplied></w> <w><expan><abbr>καλ</abbr><ex>ανδῶν</ex></expan></w> <name><w>Μαιων</w></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="5"/><w>ἀμφοτέρω<supplied reason="lost">ν</supplied></w> <name><w><supplied reason="lost">Κωνσταντίων</supplied></w></name> <w><supplied reason="lost"><roleName type="supracivic" subtype="consul">ὑπάτων</roleName></supplied></w>
                 </ab>
             </div>
             <div type="apparatus">

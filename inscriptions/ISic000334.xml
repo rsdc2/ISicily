@@ -191,9 +191,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#MH">
                 <ab>
-                    <lb n="1"/><w>Dis</w> <g ref="#interpunct">·</g> <name><expan><abbr>Manib</abbr><ex>us</ex></expan></name>
-                    <lb n="2"/><name><expan><abbr>C</abbr><ex>ai</ex></expan></name> <g ref="#interpunct">·</g> <name>Auli</name> <g ref="#interpunct">·</g> <name>Gami</name>
-                    <lb n="3"/><w>vixit</w> <g ref="#interpunct">·</g> <w><expan><abbr>ann</abbr><ex>os</ex></expan></w> <g ref="#interpunct">·</g> <num value="10">X</num> <g ref="#interpunct">·</g>
+                    <lb n="1"/><w>Dis</w> <g ref="#interpunct">·</g> <name><w><expan><abbr>Manib</abbr><ex>us</ex></expan></w></name>
+                    <lb n="2"/><name><w><expan><abbr>C</abbr><ex>ai</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w>Auli</w></name> <g ref="#interpunct">·</g> <name><w>Gami</w></name>
+                    <lb n="3"/><w>vixit</w> <g ref="#interpunct">·</g> <w><expan><abbr>ann</abbr><ex>os</ex></expan></w> <g ref="#interpunct">·</g> <num value="10"><w>X</w></num> <g ref="#interpunct">·</g>
                 </ab>
             </div>
             <div type="apparatus">

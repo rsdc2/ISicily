@@ -192,10 +192,10 @@
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
                     <lb n="1"/><w><expan><abbr>d</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>m</abbr><ex>anibus</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>s</abbr><ex>acrum</ex></expan></w>
-                    <lb n="2"/><name><expan><abbr>P</abbr><ex>ublius</ex></expan></name> <g ref="#interpunct">·</g> <name>Phonteius</name> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="3"/><name><expan><abbr>Cl</abbr><ex cert="low">audia</ex></expan></name> <name>Million</name> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="4"/><w><expan><abbr>mens</abbr><ex cert="low">ibus</ex></expan></w> <gap reason="lost" extent="unknown" unit="character"/> <name>Phontei
-                    <lb n="5" break="no"/>a</name> <g ref="#interpunct">·</g> <name>Mercatilla</name> <g ref="#interpunct">·</g> <w><expan><abbr>fil</abbr><ex>io</ex></expan></w>
+                    <lb n="2"/><name><w><expan><abbr>P</abbr><ex>ublius</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w>Phonteius</w></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="3"/><name><w><expan><abbr>Cl</abbr><ex cert="low">audia</ex></expan></w></name> <name><w>Million</w></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="4"/><w><expan><abbr>mens</abbr><ex cert="low">ibus</ex></expan></w> <gap reason="lost" extent="unknown" unit="character"/> <name><w>Phontei
+                    <lb n="5" break="no"/>a</w></name> <g ref="#interpunct">·</g> <name><w>Mercatilla</w></name> <g ref="#interpunct">·</g> <w><expan><abbr>fil</abbr><ex>io</ex></expan></w>
                     <lb n="6"/><w>piissimo</w> <g ref="#interpunct">·</g> <w>fecit</w>
                 </ab>
             </div>

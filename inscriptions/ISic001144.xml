@@ -191,9 +191,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#MH">
                 <ab>
-                    <lb n="1"/><name>Μάξιμος</name>
-                    <lb n="2"/><name>Ἰάσονος</name>
-                    <lb n="3"/><w>ἐτῶν</w> <num value="7">ζ</num>.
+                    <lb n="1"/><name><w>Μάξιμος</w></name>
+                    <lb n="2"/><name><w>Ἰάσονος</w></name>
+                    <lb n="3"/><w>ἐτῶν</w> <num value="7"><w>ζ</w></num>.
                 </ab>
             </div>
             <div type="apparatus">

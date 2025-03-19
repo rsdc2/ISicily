@@ -182,13 +182,13 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <div type="textpart" subtype="section" n="a">
                     <ab>
-                        <lb n="1" rend="spiral-clockwise"/><persName type="attested"><name>Γελο͂ιος</name></persName> <persName type="attested"><name>Ἄκ<supplied reason="lost">α</supplied>ς</name></persName> <w>ἔραται</w>
+                        <lb n="1" rend="spiral-clockwise"/><persName type="attested"><name><w>Γελο͂ιος</w></name></persName> <persName type="attested"><name><w>Ἄκ<supplied reason="lost">α</supplied>ς</w></name></persName> <w>ἔραται</w>
                     </ab>
                 </div>
                 <div type="textpart" subtype="section" n="b">
                     <ab>
                         <lb n="1" style="text-direction:l-to-r"/><w>Γελο͂ιο
-                        <lb n="2" style="text-direction:r-to-l" break="no"/>ς</w> <name>Ἄκας</name>
+                        <lb n="2" style="text-direction:r-to-l" break="no"/>ς</w> <name><w>Ἄκας</w></name>
                         <lb n="3" style="text-direction:l-to-r"/><w>ἔραται</w>
                     </ab>
                 </div>

@@ -186,11 +186,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>Θ</abbr><ex>εοῖς</ex></expan></w> <space unit="character" quantity="3"/><name><expan><abbr>Κ</abbr><ex>αταχθονίοις</ex></expan></name>
-                    <lb n="2"/><name><expan><abbr>Κλ</abbr><ex>ωδία</ex></expan></name> <g ref="#ivy-leaf">❦</g> <name>Ῥωμα<hi rend="ligature">ντ</hi>ίλ
-                    <lb n="3" break="no"/>λα</name> <g ref="#ivy-leaf">❦</g> <w><expan><abbr>ἔζ</abbr><ex>ησεν</ex></expan></w> <g ref="#ivy-leaf">❦</g> <w><expan><abbr>ἔτ</abbr><ex>η</ex></expan></w> <g ref="#ivy-leaf">❦</g> <num value="4">δ</num> <g ref="#ivy-leaf">❦</g> <w><expan><abbr>μ</abbr><ex>ῆνας</ex></expan></w> <g ref="#ivy-leaf">❦</g> <num value="8">η</num>
-                    <lb n="4"/><w><expan><abbr>ἡμ</abbr><ex>έρας</ex></expan></w> <g ref="#ivy-leaf">❦</g> <num value="14">ιδ</num> <g ref="#ivy-leaf">❦</g> <name><expan><abbr>Κλ</abbr><ex>ώδιος</ex></expan></name> <g ref="#ivy-leaf">❦</g> <name>Θησ
-                    <lb n="5" break="no"/>εὺς</name> <g ref="#ivy-leaf">❦</g> <w>π<supplied reason="lost">ατ</supplied><hi rend="ligature">ὴρ</hi></w> <g ref="#ivy-leaf">❦</g> <w><expan><abbr>τέκ</abbr><ex>νῳ</ex></expan></w> <g ref="#ivy-leaf">❦</g> <w><expan><abbr>γλυκυτ</abbr><ex>άτῳ</ex></expan></w>
+                    <lb n="1"/><w><expan><abbr>Θ</abbr><ex>εοῖς</ex></expan></w> <space unit="character" quantity="3"/><name><w><expan><abbr>Κ</abbr><ex>αταχθονίοις</ex></expan></w></name>
+                    <lb n="2"/><name><w><expan><abbr>Κλ</abbr><ex>ωδία</ex></expan></w></name> <g ref="#ivy-leaf">❦</g> <name><w>Ῥωμα<hi rend="ligature">ντ</hi>ίλ
+                    <lb n="3" break="no"/>λα</w></name> <g ref="#ivy-leaf">❦</g> <w><expan><abbr>ἔζ</abbr><ex>ησεν</ex></expan></w> <g ref="#ivy-leaf">❦</g> <w><expan><abbr>ἔτ</abbr><ex>η</ex></expan></w> <g ref="#ivy-leaf">❦</g> <num value="4"><w>δ</w></num> <g ref="#ivy-leaf">❦</g> <w><expan><abbr>μ</abbr><ex>ῆνας</ex></expan></w> <g ref="#ivy-leaf">❦</g> <num value="8"><w>η</w></num>
+                    <lb n="4"/><w><expan><abbr>ἡμ</abbr><ex>έρας</ex></expan></w> <g ref="#ivy-leaf">❦</g> <num value="14"><w>ιδ</w></num> <g ref="#ivy-leaf">❦</g> <name><w><expan><abbr>Κλ</abbr><ex>ώδιος</ex></expan></w></name> <g ref="#ivy-leaf">❦</g> <name><w>Θησ
+                    <lb n="5" break="no"/>εὺς</w></name> <g ref="#ivy-leaf">❦</g> <w>π<supplied reason="lost">ατ</supplied><hi rend="ligature">ὴρ</hi></w> <g ref="#ivy-leaf">❦</g> <w><expan><abbr>τέκ</abbr><ex>νῳ</ex></expan></w> <g ref="#ivy-leaf">❦</g> <w><expan><abbr>γλυκυτ</abbr><ex>άτῳ</ex></expan></w>
                 </ab>
             </div>
             <div type="apparatus">

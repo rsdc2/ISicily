@@ -188,8 +188,8 @@
         <body>
             <div type="edition" xml:space="preserve" subtype="PHI" n="PHI333221">
                 <ab>
-                    <lb n="1"/><w><supplied reason="lost">— —</supplied>απ</w> <name><supplied reason="lost">— —</supplied></name> <w><surplus>²⁷[— —]αγ[— —](?) (Lazzarini)</surplus>²⁷</w>
-                    <lb n="2"/><name><supplied reason="lost">— — — — —</supplied></name>
+                    <lb n="1"/><w><supplied reason="lost">— —</supplied>απ</w> <name><w><supplied reason="lost">— —</supplied></w></name> <w><surplus>²⁷[— —]αγ[— —](?) (Lazzarini)</surplus>²⁷</w>
+                    <lb n="2"/><name><w><supplied reason="lost">— — — — —</supplied></w></name>
                     <lb n="3"/>
                 </ab>
             </div>

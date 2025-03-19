@@ -193,11 +193,11 @@
                 <ab>
                     <milestone unit="section" n="a"/>
                     <lb n="1"/><w>Εὐμοίρει</w>
-                    <lb n="2"/><name>Θεοκτίστην</name> <milestone unit="section" n="b"/>
-                    <lb n="1"/><name>Οὐλπία</name> <w>δέξε</w>
-                    <lb n="2"/><w>τεκοῦσα</w> <name>Θεοκτίστην</name>
+                    <lb n="2"/><name><w>Θεοκτίστην</w></name> <milestone unit="section" n="b"/>
+                    <lb n="1"/><name><w>Οὐλπία</w></name> <w>δέξε</w>
+                    <lb n="2"/><w>τεκοῦσα</w> <name><w>Θεοκτίστην</w></name>
                     <lb n="3"/><w>λαγόνεσ<supplied reason="lost">σι</supplied>ν</w> <milestone unit="section" n="c"/>
-                    <lb n="1"/><name>Εὐμοίρει</name> <name><supplied reason="lost">Οὐλπία</supplied></name>
+                    <lb n="1"/><name><w>Εὐμοίρει</w></name> <name><w><supplied reason="lost">Οὐλπία</supplied></w></name>
                 </ab>
             </div>
             <div type="apparatus">

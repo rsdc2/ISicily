@@ -192,8 +192,8 @@
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#VM">
                 <ab>
                     <lb n="1"/><w>Ex</w> <w><expan><abbr>d</abbr><ex>ecreto</ex></expan></w> <roleName type="civic" subtype="decurio"><w><expan><abbr>d</abbr><ex>ecurionum</ex></expan></w></roleName>
-                    <lb n="2"/><w>in</w> <w><expan><abbr>fro</abbr><ex>nte</ex></expan></w> <w><expan><abbr>p</abbr><ex>edes</ex></expan></w> <num value="25">XXV</num>
-                    <lb n="3"/><w>in</w> <w>agro</w> <w><expan><abbr>p</abbr><ex>edes</ex></expan></w> <num value="16">XVI</num>
+                    <lb n="2"/><w>in</w> <w><expan><abbr>fro</abbr><ex>nte</ex></expan></w> <w><expan><abbr>p</abbr><ex>edes</ex></expan></w> <num value="25"><w>XXV</w></num>
+                    <lb n="3"/><w>in</w> <w>agro</w> <w><expan><abbr>p</abbr><ex>edes</ex></expan></w> <num value="16"><w>XVI</w></num>
                 </ab>
             </div>
             <div type="apparatus">

@@ -175,7 +175,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="xly-Grek">
                 <ab>
-                    <lb n="1" xml:id="UfΤAK"/><persName cert="low" xml:id="UfΤAU"><name xml:id="UfΤAe"><gap reason="lost" extent="unknown" unit="character" xml:id="UfΤAo"/>ΒΟΤΥΛΑΙ</name></persName> <w xml:id="UfΤAy">ΤΥΤΕ</w> <gap reason="lost" extent="unknown" unit="character" xml:id="UfΤAΙ"/>
+                    <lb n="1" xml:id="UfΤAK"/><persName cert="low" xml:id="UfΤAU"><name xml:id="UfΤAe"><w><gap reason="lost" extent="unknown" unit="character" xml:id="UfΤAo"/>ΒΟΤΥΛΑΙ</w></name></persName> <w xml:id="UfΤAy">ΤΥΤΕ</w> <gap reason="lost" extent="unknown" unit="character" xml:id="UfΤAΙ"/>
                 </ab>
             </div>
             <div type="edition" xml:space="preserve" subtype="transliteration" xml:lang="xly-Latn">

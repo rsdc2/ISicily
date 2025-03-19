@@ -191,7 +191,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JH">
                 <ab>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w>curavit</w> <g ref="#interpunct">·</g> <name><expan><abbr>M</abbr><ex>arcus</ex></expan></name> <g ref="#interpunct">·</g> <name>Valerius</name> <g ref="#interpunct">·</g> <name>Briccus</name> <g ref="#interpunct">·</g> <w><expan><abbr>h</abbr><ex>eres</ex></expan></w> <g ref="#interpunct">·</g> <w>ex</w> <g ref="#interpunct">·</g> <w>testamen<supplied reason="lost">to</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w>curavit</w> <g ref="#interpunct">·</g> <name><w><expan><abbr>M</abbr><ex>arcus</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w>Valerius</w></name> <g ref="#interpunct">·</g> <name><w>Briccus</w></name> <g ref="#interpunct">·</g> <w><expan><abbr>h</abbr><ex>eres</ex></expan></w> <g ref="#interpunct">·</g> <w>ex</w> <g ref="#interpunct">·</g> <w>testamen<supplied reason="lost">to</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>
             <div type="apparatus" resp="#JH">

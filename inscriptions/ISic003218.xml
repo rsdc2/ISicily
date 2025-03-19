@@ -194,8 +194,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <name><supplied reason="lost" cert="low"><expan><abbr>M</abbr><ex>anibus</ex></expan></supplied></name> <w><supplied reason="lost" cert="low"><expan><abbr>s</abbr><ex>acrum</ex></expan></supplied></w>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <name>Arria</name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <name><w><supplied reason="lost" cert="low"><expan><abbr>M</abbr><ex>anibus</ex></expan></supplied></w></name> <w><supplied reason="lost" cert="low"><expan><abbr>s</abbr><ex>acrum</ex></expan></supplied></w>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <name><w>Arria</w></name> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <w><unclear>ME</unclear></w> <gap reason="illegible" quantity="1" unit="character"/> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>

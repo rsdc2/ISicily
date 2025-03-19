@@ -187,12 +187,12 @@
         <body>
             <div type="edition" xml:space="preserve" subtype="EDR" n="EDR108314" xml:lang="grc">
                 <ab>
-                    <lb n="1"/><w>Μ(άρκον)</w> <name>Ἰούν(ιον)</name> <name>Φήλι<supplied reason="lost">κα</supplied></name>
-                    <lb n="2"/><roleName type="civic" subtype="bouletes"><w>βουλευτ(ὴν)</w></roleName> <name>Λιλυ<supplied reason="lost">βα</supplied>
-                    <lb n="3" break="no"/>ειτῶν</name> <w>φιλοτει<supplied reason="lost">μη</supplied>
+                    <lb n="1"/><w>Μ(άρκον)</w> <name><w>Ἰούν(ιον)</w></name> <name><w>Φήλι<supplied reason="lost">κα</supplied></w></name>
+                    <lb n="2"/><roleName type="civic" subtype="bouletes"><w>βουλευτ(ὴν)</w></roleName> <name><w>Λιλυ<supplied reason="lost">βα</supplied>
+                    <lb n="3" break="no"/>ειτῶν</w></name> <w>φιλοτει<supplied reason="lost">μη</supplied>
                     <lb n="4" break="no"/>σάμενον</w> <w>περἰ</w> <w>τὴ<supplied reason="lost">ν</supplied></w>
                     <lb n="5"/><w>πατρίδα</w> <w>τὸ</w> <w>κοινὸ<supplied reason="lost">ν</supplied></w>
-                    <lb n="6"/><name>Κινακων</name> <w>ἐκ</w> <w>τῶν</w>
+                    <lb n="6"/><name><w>Κινακων</w></name> <w>ἐκ</w> <w>τῶν</w>
                     <lb n="7"/><w>ἰδίων</w> <roleName type="paracivic" subtype="patronus"><w>πάτρω</w> <w><supplied reason="lost">νι</supplied></w></roleName>
                     <lb n="8"/><w>ἀξίῳ</w>
                     <lb n="9"/><w>δ</w> <w>δ</w> <w>β</w>

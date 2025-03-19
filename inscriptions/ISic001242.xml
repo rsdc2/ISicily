@@ -192,8 +192,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#AL">
                 <ab>
-                    <lb n="1"/><w>Θεοῖς</w> <name>Κατα<supplied reason="lost">χθονίοις</supplied></name>
-                    <lb n="2"/><persName type="attested"><name type="nomen">Φαβία</name> <name type="cognomen"><seg part="I">Μελ</seg><gap reason="lost" extent="unknown" unit="character"/></name></persName>
+                    <lb n="1"/><w>Θεοῖς</w> <name><w>Κατα<supplied reason="lost">χθονίοις</supplied></w></name>
+                    <lb n="2"/><persName type="attested"><name type="nomen"><w>Φαβία</w></name> <name type="cognomen"><w><seg part="I">Μελ</seg><gap reason="lost" extent="unknown" unit="character"/></w></name></persName>
                     <lb n="3"/><w>ἔζησεν</w> <gap reason="illegible" unit="character" quantity="1"/> <w>ἔ<supplied reason="lost">τη</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>

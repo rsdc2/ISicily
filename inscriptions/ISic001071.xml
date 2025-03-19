@@ -188,10 +188,10 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
                     <lb n="1"/><w>ἐκοιμήθη</w>
-                    <lb n="2"/><persName type="attested"><name>Ὑγῖνος</name></persName> <w>μηνὶ</w>
-                    <lb n="3"/><name>Νοβεμβρίῳ,</name> <w>ὅτε</w>
-                    <lb n="4"/><w>ἀπὸ</w> <w><expan><abbr>κα</abbr><ex>λανδῶν</ex></expan></w> <num value="21">κα</num> <g ref="#interpunct">·</g>
-                    <lb n="5"/><w>ἡμέρα</w> <name>Ἑρμοῦ</name>
+                    <lb n="2"/><persName type="attested"><name><w>Ὑγῖνος</w></name></persName> <w>μηνὶ</w>
+                    <lb n="3"/><name><w>Νοβεμβρίῳ,</w></name> <w>ὅτε</w>
+                    <lb n="4"/><w>ἀπὸ</w> <w><expan><abbr>κα</abbr><ex>λανδῶν</ex></expan></w> <num value="21"><w>κα</w></num> <g ref="#interpunct">·</g>
+                    <lb n="5"/><w>ἡμέρα</w> <name><w>Ἑρμοῦ</w></name>
                 </ab>
             </div>
             <div type="apparatus">

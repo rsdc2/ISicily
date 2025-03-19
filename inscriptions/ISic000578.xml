@@ -190,10 +190,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <name><expan><abbr>M</abbr><ex>anibus</ex></expan></name>
-                    <lb n="2"/><name>Cornelius</name>
-                    <lb n="3"/><name>Epa<foreign xml:lang="la-Grek">φ</foreign>ruitus</name>
-                    <lb n="4"/><w><expan><abbr>vix</abbr><ex>it</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>an</abbr><ex>nos</ex></expan></w> <g ref="#interpunct">·</g> <num value="8">VIII</num>
+                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <name><w><expan><abbr>M</abbr><ex>anibus</ex></expan></w></name>
+                    <lb n="2"/><name><w>Cornelius</w></name>
+                    <lb n="3"/><name><w>Epa<foreign xml:lang="la-Grek">φ</foreign>ruitus</w></name>
+                    <lb n="4"/><w><expan><abbr>vix</abbr><ex>it</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>an</abbr><ex>nos</ex></expan></w> <g ref="#interpunct">·</g> <num value="8"><w>VIII</w></num>
                 </ab>
             </div>
             <div type="apparatus">

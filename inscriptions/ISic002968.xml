@@ -192,9 +192,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/><w>Παπινία</w> <name>Ῥ<supplied reason="lost">ου</supplied>
-                    <lb n="2" break="no"/>φίλλα</name> <w><expan><abbr>ἔζη</abbr><ex>σε</ex></expan></w> <w><expan><abbr><unclear>ἔ</unclear></abbr><ex>τη</ex></expan></w>
-                    <lb n="3"/><num value="21">κα</num>
+                    <lb n="1"/><w>Παπινία</w> <name><w>Ῥ<supplied reason="lost">ου</supplied>
+                    <lb n="2" break="no"/>φίλλα</w></name> <w><expan><abbr>ἔζη</abbr><ex>σε</ex></expan></w> <w><expan><abbr><unclear>ἔ</unclear></abbr><ex>τη</ex></expan></w>
+                    <lb n="3"/><num value="21"><w>κα</w></num>
                 </ab>
             </div>
             <div type="apparatus">

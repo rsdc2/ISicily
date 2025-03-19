@@ -193,9 +193,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>D</abbr><ex>ecimus</ex></expan></w> <g ref="#interpunct">·</g> <name>Annius</name> <name>Rufus</name>
-                    <lb n="2"/><w><expan><abbr>vix</abbr><ex>it</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>ann</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <num value="40">XL</num>
-                    <lb n="3"/><name>Numitoria</name> <g ref="#interpunct">·</g> <name>Hagne</name>
+                    <lb n="1"/><w><expan><abbr>D</abbr><ex>ecimus</ex></expan></w> <g ref="#interpunct">·</g> <name><w>Annius</w></name> <name><w>Rufus</w></name>
+                    <lb n="2"/><w><expan><abbr>vix</abbr><ex>it</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>ann</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <num value="40"><w>XL</w></num>
+                    <lb n="3"/><name><w>Numitoria</w></name> <g ref="#interpunct">·</g> <name><w>Hagne</w></name>
                     <lb n="4"/><w><expan><abbr>con</abbr><ex>iugi</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>car</abbr><ex>issimo</ex></expan></w>
                 </ab>
             </div>

@@ -194,12 +194,12 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>P</abbr><ex>ublio</ex></expan></w> <g ref="#interpunct">·</g> <name>Avillio</name> <g ref="#interpunct">·</g> <name><expan><abbr>P</abbr><ex>ubli</ex></expan></name> <g ref="#interpunct">·</g> <w><expan><abbr>f</abbr><ex>ilio</ex></expan></w> <g ref="#interpunct">·</g>
-                    <lb n="2"/><name>Pudentino</name>
-                    <lb n="3"/><w>vixit</w> <g ref="#interpunct">·</g> <w><expan><abbr>a</abbr><ex>nnis</ex></expan></w> <g ref="#interpunct">·</g> <num value="11">XI</num> <g ref="#interpunct">·</g> <w><expan><abbr>m</abbr><ex>ensibus</ex></expan></w> <g ref="#interpunct">·</g> <num value="6">VI</num>
-                    <lb n="4"/><name><expan><abbr>P</abbr><ex>ublius</ex></expan></name> <g ref="#interpunct">·</g> <name>Avillius</name> <g ref="#interpunct">·</g> <name>Zosi
-                    <lb n="5" break="no"/>mus</name> <g ref="#interpunct">·</g> <name><expan><abbr>P</abbr><ex>ublio</ex></expan></name> <name>Avillio</name> <name>Pudenti</name> <g ref="#interpunct">·</g>
-                    <lb n="6"/><name><expan><abbr>Fl</abbr><ex>aviae</ex></expan></name> <g ref="#interpunct">·</g> <name>Meviae</name> <g ref="#interpunct">·</g> <name>Merope</name> <g ref="#interpunct">·</g> <w><expan><abbr>fec</abbr><ex>it</ex></expan></w> <g ref="#interpunct">·</g>
+                    <lb n="1"/><w><expan><abbr>P</abbr><ex>ublio</ex></expan></w> <g ref="#interpunct">·</g> <name><w>Avillio</w></name> <g ref="#interpunct">·</g> <name><w><expan><abbr>P</abbr><ex>ubli</ex></expan></w></name> <g ref="#interpunct">·</g> <w><expan><abbr>f</abbr><ex>ilio</ex></expan></w> <g ref="#interpunct">·</g>
+                    <lb n="2"/><name><w>Pudentino</w></name>
+                    <lb n="3"/><w>vixit</w> <g ref="#interpunct">·</g> <w><expan><abbr>a</abbr><ex>nnis</ex></expan></w> <g ref="#interpunct">·</g> <num value="11"><w>XI</w></num> <g ref="#interpunct">·</g> <w><expan><abbr>m</abbr><ex>ensibus</ex></expan></w> <g ref="#interpunct">·</g> <num value="6"><w>VI</w></num>
+                    <lb n="4"/><name><w><expan><abbr>P</abbr><ex>ublius</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w>Avillius</w></name> <g ref="#interpunct">·</g> <name><w>Zosi
+                    <lb n="5" break="no"/>mus</w></name> <g ref="#interpunct">·</g> <name><w><expan><abbr>P</abbr><ex>ublio</ex></expan></w></name> <name><w>Avillio</w></name> <name><w>Pudenti</w></name> <g ref="#interpunct">·</g>
+                    <lb n="6"/><name><w><expan><abbr>Fl</abbr><ex>aviae</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w>Meviae</w></name> <g ref="#interpunct">·</g> <name><w>Merope</w></name> <g ref="#interpunct">·</g> <w><expan><abbr>fec</abbr><ex>it</ex></expan></w> <g ref="#interpunct">·</g>
                 </ab>
                 <!--The initial file text was drawn from EDR text 033618, via the Europeana EAGLE project, http://www.eagle-network.eu/-->
             </div>

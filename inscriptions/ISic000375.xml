@@ -191,10 +191,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JH">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <name><expan><abbr>M</abbr><ex>anibus</ex></expan></name> <g ref="#interpunct">·</g> <w><expan><abbr>s</abbr><ex>acrum</ex></expan></w>
-                    <lb n="2"/><name>Statia</name> <g ref="#interpunct">·</g> <name>Myrtis</name>
-                    <lb n="3"/><w><expan><abbr>vix</abbr><ex>it</ex></expan></w> <g ref="#ivy-leaf">❦</g> <w><expan><abbr>ann</abbr><ex>is</ex></expan></w> <g ref="#ivy-leaf">❦</g> <num value="45">XLV</num>
-                    <lb n="4"/><name>Sporidas</name> <g ref="#interpunct">·</g> <w><expan><abbr>mar</abbr><ex>itus</ex></expan></w> <g ref="#interpunct">·</g>
+                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <name><w><expan><abbr>M</abbr><ex>anibus</ex></expan></w></name> <g ref="#interpunct">·</g> <w><expan><abbr>s</abbr><ex>acrum</ex></expan></w>
+                    <lb n="2"/><name><w>Statia</w></name> <g ref="#interpunct">·</g> <name><w>Myrtis</w></name>
+                    <lb n="3"/><w><expan><abbr>vix</abbr><ex>it</ex></expan></w> <g ref="#ivy-leaf">❦</g> <w><expan><abbr>ann</abbr><ex>is</ex></expan></w> <g ref="#ivy-leaf">❦</g> <num value="45"><w>XLV</w></num>
+                    <lb n="4"/><name><w>Sporidas</w></name> <g ref="#interpunct">·</g> <w><expan><abbr>mar</abbr><ex>itus</ex></expan></w> <g ref="#interpunct">·</g>
                     <lb n="5"/><w><expan><abbr>coniug</abbr><ex>i</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>cariss</abbr><ex>imae</ex></expan></w>
                 </ab>
             </div>

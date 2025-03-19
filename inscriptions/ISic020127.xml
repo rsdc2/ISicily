@@ -174,7 +174,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="xly-Grek">
                 <ab>
-                    <lb n="1" rend="right-to-left"/><num value="6" cert="low">ΙΠ</num>
+                    <lb n="1" rend="right-to-left"/><num value="6" cert="low"><w>ΙΠ</w></num>
                 </ab>
             </div>
             <div type="edition" xml:space="preserve" subtype="transliteration" xml:lang="xly-Latn">

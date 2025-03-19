@@ -192,8 +192,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#AL">
                 <ab>
-                    <lb n="1"/><w>ἐνθάδ<supplied reason="lost">ε</supplied></w> <w><supplied reason="lost">κεῖται</supplied></w> <persName type="attested"><name type="idionym"><supplied reason="lost">Διο</supplied>
-                    <lb n="2" break="no"/>νυσία</name></persName> <w><supplied reason="lost">χρηστὴ</supplied></w> <w><supplied reason="lost">καὶ</supplied></w>
+                    <lb n="1"/><w>ἐνθάδ<supplied reason="lost">ε</supplied></w> <w><supplied reason="lost">κεῖται</supplied></w> <persName type="attested"><name type="idionym"><w><supplied reason="lost">Διο</supplied>
+                    <lb n="2" break="no"/>νυσία</w></name></persName> <w><supplied reason="lost">χρηστὴ</supplied></w> <w><supplied reason="lost">καὶ</supplied></w>
                     <lb n="3"/><w>ἄμεν<unclear>π</unclear><supplied reason="lost">τε</supplied></w> <w><supplied reason="lost">χαῖρε</supplied></w>
                 </ab>
             </div>

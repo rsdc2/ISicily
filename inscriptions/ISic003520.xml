@@ -197,8 +197,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#DEE">
                 <ab>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <persName><name type="nomen"><seg part="F">io</seg></name> <g ref="#interpunct"/> <name type="cognomen">Demetrio</name></persName>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <persName><name type="cognomen"><supplied reason="lost">Pri</supplied><unclear>m</unclear>igenia</name></persName> <g ref="#interpunct"/> <w>fecit</w>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <persName><name type="nomen"><w><seg part="F">io</seg></w></name> <g ref="#interpunct"/> <name type="cognomen"><w>Demetrio</w></name></persName>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <persName><name type="cognomen"><w><supplied reason="lost">Pri</supplied><unclear>m</unclear>igenia</w></name></persName> <g ref="#interpunct"/> <w>fecit</w>
                 </ab>
             </div>
             <div type="apparatus">

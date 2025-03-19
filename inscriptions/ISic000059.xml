@@ -191,9 +191,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la">
                 <ab>
-                    <lb n="1"/><w>Publicia</w> <g ref="#interpunct">·</g> <name>Agathia</name>
+                    <lb n="1"/><w>Publicia</w> <g ref="#interpunct">·</g> <name><w>Agathia</w></name>
                     <lb n="2"/><w>have</w>
-                    <lb n="3"/><name>Publicius</name> <g ref="#interpunct">·</g> <name>Brutanus</name>
+                    <lb n="3"/><name><w>Publicius</w></name> <g ref="#interpunct">·</g> <name><w>Brutanus</w></name>
                     <lb n="4"/><w><expan><abbr>d</abbr><ex>e</ex></expan></w> <w><expan><abbr>s</abbr><ex>uo</ex></expan></w> <w><expan><abbr>f</abbr><ex>ecit</ex></expan></w>
                 </ab>
             </div>

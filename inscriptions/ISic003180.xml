@@ -189,12 +189,12 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
                     <lb n="1"/><w>ἐνθάδε</w> <w>κεῖ
-                    <lb n="2" break="no"/>ται</w> <name>Θεοδώ<surplus>ι</surplus>ρα</name>
-                    <lb n="3"/><w>ζήσασα</w> <w>ἔτη</w> <num value="30">τρι
-                    <lb n="4" break="no"/>άκοντα</num> <w>τελευ
-                    <lb n="5" break="no"/>τήσασα</w> <w>μηνὶ</w> <name><choice><corr>Ἰ</corr><sic>υ</sic></choice>ου
-                    <lb n="6" break="no"/>λίῳ</name> <w>ταῖς</w> <num value="28">εἴκοσι
-                    <lb n="7"/>ὀκτώ</num> <name>Α</name> <g ref="#christogram">☧</g> <name>Ω</name> <name>Α</name> <g ref="#staurogram">𐆠</g> <name>Ω</name>
+                    <lb n="2" break="no"/>ται</w> <name><w>Θεοδώ<surplus>ι</surplus>ρα</w></name>
+                    <lb n="3"/><w>ζήσασα</w> <w>ἔτη</w> <num value="30"><w>τρι
+                    <lb n="4" break="no"/>άκοντα</w></num> <w>τελευ
+                    <lb n="5" break="no"/>τήσασα</w> <w>μηνὶ</w> <name><w><choice><corr>Ἰ</corr><sic>υ</sic></choice>ου
+                    <lb n="6" break="no"/>λίῳ</w></name> <w>ταῖς</w> <num value="28"><w>εἴκοσι
+                    <lb n="7"/>ὀκτώ</w></num> <name><w>Α</w></name> <g ref="#christogram">☧</g> <name><w>Ω</w></name> <name><w>Α</w></name> <g ref="#staurogram">𐆠</g> <name><w>Ω</w></name>
                 </ab>
             </div>
             <div type="apparatus">

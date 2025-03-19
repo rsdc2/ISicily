@@ -191,10 +191,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JH">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <name><expan><abbr>M</abbr><ex>anibus</ex></expan></name>
-                    <lb n="2"/><name><seg part="I">Vic</seg></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <name><w><expan><abbr>M</abbr><ex>anibus</ex></expan></w></name>
+                    <lb n="2"/><name><w><seg part="I">Vic</seg></w></name> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="3"/><w>ann</w> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="4"/><name><seg part="I">Symp</seg></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="4"/><name><w><seg part="I">Symp</seg></w></name> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="5"/><orig>MN</orig><gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>

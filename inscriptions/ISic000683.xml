@@ -193,7 +193,7 @@
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
                     <lb n="0"/><gap reason="lost" quantity="1" unit="line"/>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost" cert="low">optim</supplied>o</w> <g ref="#interpunct">·</g> <name><expan><abbr>Sex</abbr><ex>ti</ex></expan></name> <name><seg part="I">Se<unclear>l</unclear></seg></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost" cert="low">optim</supplied>o</w> <g ref="#interpunct">·</g> <name><w><expan><abbr>Sex</abbr><ex>ti</ex></expan></w></name> <name><w><seg part="I">Se<unclear>l</unclear></seg></w></name> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">pe</supplied>cunia</w> <g ref="#interpunct">·</g> <w>eius</w> <g ref="#interpunct">·</g> <w><unclear>c</unclear><supplied reason="lost" cert="low">olonis</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost" cert="low">epulum</supplied></w> <w><expan><abbr><supplied reason="lost" cert="low">si</supplied><unclear>ng</unclear></abbr><ex>ulis</ex></expan></w> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>

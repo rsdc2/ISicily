@@ -193,10 +193,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la">
                 <ab>
-                    <lb n="1"/><w><supplied reason="lost"><expan><abbr>D</abbr><ex>is</ex></expan></supplied></w> <name><expan><abbr>M</abbr><ex>anibus</ex></expan></name>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w><expan><abbr><unclear>f</unclear></abbr><ex>iliae</ex></expan></w> <g ref="#interpunct">·</g> <name>Festivae</name>
+                    <lb n="1"/><w><supplied reason="lost"><expan><abbr>D</abbr><ex>is</ex></expan></supplied></w> <name><w><expan><abbr>M</abbr><ex>anibus</ex></expan></w></name>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w><expan><abbr><unclear>f</unclear></abbr><ex>iliae</ex></expan></w> <g ref="#interpunct">·</g> <name><w>Festivae</w></name>
                     <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">e</supplied>t</w> <g ref="#interpunct">·</g> <w>uxori</w> <g ref="#interpunct">·</g> <w><expan><abbr>rariss</abbr><ex>imae</ex></expan></w> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <name>Mercu<unclear>r</unclear><supplied reason="lost">iu</supplied><unclear>s</unclear></name>
+                    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <name><w>Mercu<unclear>r</unclear><supplied reason="lost">iu</supplied><unclear>s</unclear></w></name>
                 </ab>
             </div>
             <div type="apparatus">

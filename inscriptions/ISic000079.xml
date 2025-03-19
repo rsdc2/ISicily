@@ -210,14 +210,14 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
-                    <lb n="1"/><w><g ref="#palm"/>Crispia</w> <g ref="#ivy-leaf">❦</g> <name>Salvia</name>
+                    <lb n="1"/><w><g ref="#palm"/>Crispia</w> <g ref="#ivy-leaf">❦</g> <name><w>Salvia</w></name>
                     <lb n="2"/><w>vixit</w> <w>a<unclear>n</unclear>nos</w>
-                    <lb n="3"/><w>plus</w> <w>mi<unclear>nu</unclear>s</w> <num value="45"><hi rend="supraline">XL<hi rend="small">V</hi></hi></num>
+                    <lb n="3"/><w>plus</w> <w>mi<unclear>nu</unclear>s</w> <num value="45"><w><hi rend="supraline">XL<hi rend="small">V</hi></hi></w></num>
                     <lb n="4"/><w>uxori</w> <w>dulcissi<hi rend="ligature">mae</hi></w>
-                    <lb n="5"/><name>Iulius</name> <name>Demetri
-                    <lb n="6" break="no"/>us</name> <w>maritus</w> <w>q<hi rend="ligature">ua</hi><hi rend="small">e</hi></w>
+                    <lb n="5"/><name><w>Iulius</w></name> <name><w>Demetri
+                    <lb n="6" break="no"/>us</w></name> <w>maritus</w> <w>q<hi rend="ligature">ua</hi><hi rend="small">e</hi></w>
                     <lb n="7"/><w>vixit</w> <w>cum</w> <w>suo</w>
-                    <lb n="8"/><w>marito</w> <w><expan><abbr>ann</abbr><ex>os</ex></expan></w> <num value="15"><hi rend="supraline">X<hi rend="small">V</hi></hi></num>
+                    <lb n="8"/><w>marito</w> <w><expan><abbr>ann</abbr><ex>os</ex></expan></w> <num value="15"><w><hi rend="supraline">X<hi rend="small">V</hi></hi></w></num>
                     <lb n="9"/><w>libenti</w> <w>animo</w>
                 </ab>
             </div>

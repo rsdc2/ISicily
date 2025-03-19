@@ -191,9 +191,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#AA">
                 <ab>
-                    <lb n="1"/><w>ἐνθάδε</w> <w>κῖτε</w> <name>Βικ<supplied reason="lost">τωρεῖ</supplied>
-                    <lb n="2" break="no"/>να</name> <w>ζήσασα</w> <w>ἒτη</w> <num value="30"><hi rend="supraline">λ</hi></num> <w><supplied reason="lost">τελευ</supplied>
-                    <lb n="3" break="no"/>τᾷ</w> <w>τῇ</w> <w>πρὸ</w> <num value="6"><hi rend="supraline">ς</hi></num> <w><expan><abbr>εἰδ</abbr><ex>ῶν</ex></expan></w> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><w>ἐνθάδε</w> <w>κῖτε</w> <name><w>Βικ<supplied reason="lost">τωρεῖ</supplied>
+                    <lb n="2" break="no"/>να</w></name> <w>ζήσασα</w> <w>ἒτη</w> <num value="30"><w><hi rend="supraline">λ</hi></w></num> <w><supplied reason="lost">τελευ</supplied>
+                    <lb n="3" break="no"/>τᾷ</w> <w>τῇ</w> <w>πρὸ</w> <num value="6"><w><hi rend="supraline">ς</hi></w></num> <w><expan><abbr>εἰδ</abbr><ex>ῶν</ex></expan></w> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="4"/><g ref="#alpha">Α</g> <g ref="#staurogram">⳨</g> <g ref="#omega">Ω</g>
                 </ab>
             </div>

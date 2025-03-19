@@ -209,9 +209,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP #AA">
                 <ab>
-                    <lb n="1" xml:id="ASAAK"/><persName type="attested" xml:id="ASAAU"><name xml:id="ASAAe"><expan xml:id="ASAAo"><abbr xml:id="ASAAy">C</abbr><ex xml:id="ASAAΙ">aius</ex></expan></name> <g ref="#interpunct" xml:id="ASAAΤ">·</g> <name xml:id="ASAAε">Haterius</name>
-                    <lb n="2" xml:id="ASAAο"/><persName type="attested" xml:id="ASABA"><name type="libertinatio" xml:id="ASABK"><expan xml:id="ASABU"><abbr xml:id="ASABe">C</abbr><ex xml:id="ASABo">ai</ex></expan></name></persName> <g ref="#interpunct" xml:id="ASABy">·</g> <w xml:id="ASABΙ"><expan xml:id="ASABΤ"><abbr xml:id="ASABε">l</abbr><ex xml:id="ASABο">ibertus</ex></expan></w> <g ref="#interpunct" xml:id="ASACA">·</g>
-                    <lb n="3" xml:id="ASACK"/><name xml:id="ASACU">Agatocles</name></persName>
+                    <lb n="1" xml:id="ASAAK"/><persName type="attested" xml:id="ASAAU"><name xml:id="ASAAe"><w><expan xml:id="ASAAo"><abbr xml:id="ASAAy">C</abbr><ex xml:id="ASAAΙ">aius</ex></expan></w></name> <g ref="#interpunct" xml:id="ASAAΤ">·</g> <name xml:id="ASAAε"><w>Haterius</w></name>
+                    <lb n="2" xml:id="ASAAο"/><persName type="attested" xml:id="ASABA"><name type="libertinatio" xml:id="ASABK"><w><expan xml:id="ASABU"><abbr xml:id="ASABe">C</abbr><ex xml:id="ASABo">ai</ex></expan></w></name></persName> <g ref="#interpunct" xml:id="ASABy">·</g> <w xml:id="ASABΙ"><expan xml:id="ASABΤ"><abbr xml:id="ASABε">l</abbr><ex xml:id="ASABο">ibertus</ex></expan></w> <g ref="#interpunct" xml:id="ASACA">·</g>
+                    <lb n="3" xml:id="ASACK"/><name xml:id="ASACU"><w>Agatocles</w></name></persName>
                 </ab>
             </div>
             <div type="apparatus">

@@ -194,8 +194,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
-                    <lb n="1"/><name>Herennia
-                    <lb n="2" break="no"/>nus</name> <w>verna</w>
+                    <lb n="1"/><name><w>Herennia
+                    <lb n="2" break="no"/>nus</w></name> <w>verna</w>
                     <lb n="3"/><w>patri</w> <g ref="#interpunct">·</g> <w>benem</w> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>

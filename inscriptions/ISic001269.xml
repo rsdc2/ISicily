@@ -194,14 +194,14 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#MB">
                 <ab>
                     <lb n="1"/><w>ἐνθάδε</w> <w>κῖτε</w> <g ref="#staurogram">𐆠</g>
-                    <lb n="2"/><persName type="attested"><name>Ἀγάθων</name></persName> <w>πιστὸς</w>
-                    <lb n="3"/><w>ζήσας</w> <w>ἔτη</w> <num value="7">ζ</num> <w><expan><abbr>μ</abbr><ex>ῆ</ex><hi rend="ligature"><abbr>νας</abbr></hi></expan></w>
-                    <lb n="4"/><num value="7">ζ</num> <w>ἀνεπαύσατο</w>
-                    <lb n="5"/><roleName type="supracivic" subtype="consul"><w><expan><abbr>ὑ<hi rend="ligature">πατ</hi></abbr><ex>ίᾳ</ex></expan></w></roleName> <persName type="attested"><name>Ὀνωρίου</name></persName> <w>τὸ</w> <num value="8">η</num>
-                    <lb n="6"/><w><choice><orig>κὲ</orig><reg>καὶ</reg></choice></w> <persName type="attested"><name>Θεοδοσίου</name></persName> <w>τὸ</w> <num value="3">γ</num> <name><expan><abbr>Σε
-                    <lb n="7" break="no"/>β</abbr><ex>αστῶν</ex></expan></name> <name><expan><abbr>Α<am>α</am>υ<am>ὐ</am>γ<am>γ</am></abbr><ex>ούστων δυοῖν</ex></expan></name> <w>τῇ</w> <w>πρὸ</w> <num value="5"><choice><sic>γ</sic><corr>ε</corr></choice></num> <g ref="#interpunct">·</g>
-                    <lb n="8"/><w>εἰδῶν</w> <name>Ὀκτωβρίων</name>
-                    <lb n="9"/><w>ἡμέρᾳ</w> <name>Σελήνης</name> <g ref="#staurogram">𐆠</g>
+                    <lb n="2"/><persName type="attested"><name><w>Ἀγάθων</w></name></persName> <w>πιστὸς</w>
+                    <lb n="3"/><w>ζήσας</w> <w>ἔτη</w> <num value="7"><w>ζ</w></num> <w><expan><abbr>μ</abbr><ex>ῆ</ex><hi rend="ligature"><abbr>νας</abbr></hi></expan></w>
+                    <lb n="4"/><num value="7"><w>ζ</w></num> <w>ἀνεπαύσατο</w>
+                    <lb n="5"/><roleName type="supracivic" subtype="consul"><w><expan><abbr>ὑ<hi rend="ligature">πατ</hi></abbr><ex>ίᾳ</ex></expan></w></roleName> <persName type="attested"><name><w>Ὀνωρίου</w></name></persName> <w>τὸ</w> <num value="8"><w>η</w></num>
+                    <lb n="6"/><w><choice><orig>κὲ</orig><reg>καὶ</reg></choice></w> <persName type="attested"><name><w>Θεοδοσίου</w></name></persName> <w>τὸ</w> <num value="3"><w>γ</w></num> <name><w><expan><abbr>Σε
+                    <lb n="7" break="no"/>β</abbr><ex>αστῶν</ex></expan></w></name> <name><w><expan><abbr>Α<am>α</am>υ<am>ὐ</am>γ<am>γ</am></abbr><ex>ούστων δυοῖν</ex></expan></w></name> <w>τῇ</w> <w>πρὸ</w> <num value="5"><w><choice><sic>γ</sic><corr>ε</corr></choice></w></num> <g ref="#interpunct">·</g>
+                    <lb n="8"/><w>εἰδῶν</w> <name><w>Ὀκτωβρίων</w></name>
+                    <lb n="9"/><w>ἡμέρᾳ</w> <name><w>Σελήνης</w></name> <g ref="#staurogram">𐆠</g>
                 </ab>
             </div>
             <div type="apparatus">

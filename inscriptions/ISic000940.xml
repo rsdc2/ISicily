@@ -193,10 +193,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/><g ref="#cross_uninterpreted">☩</g> <w>ἐνθάδε</w> <w>κῖτε</w> <name>Θεόδωρος</name>
-                    <lb n="2"/><w>ὁ</w> <w>χριστιανὸς</w> <w>ζήσας</w> <w>ἔτη</w> <num value="2"><hi rend="supraline">β</hi></num>
-                    <lb n="3"/><w>μῆνας</w> <num value="8"><hi rend="supraline">η</hi></num> <w>ἐπ’</w> <w><expan><abbr>ἰνδ</abbr><ex>ικτιῶνος</ex></expan></w> <num value="14">ιδ</num>
-                    <lb n="4"/><w><expan><abbr>πρ</abbr><ex>ὸ</ex></expan></w> <num value="7"><hi rend="supraline">ζ</hi></num> <w><expan><abbr>ἰδ</abbr><ex>ῶν</ex></expan></w> <name><expan><abbr>Ἀπριλ</abbr><ex>ίων</ex></expan></name>
+                    <lb n="1"/><g ref="#cross_uninterpreted">☩</g> <w>ἐνθάδε</w> <w>κῖτε</w> <name><w>Θεόδωρος</w></name>
+                    <lb n="2"/><w>ὁ</w> <w>χριστιανὸς</w> <w>ζήσας</w> <w>ἔτη</w> <num value="2"><w><hi rend="supraline">β</hi></w></num>
+                    <lb n="3"/><w>μῆνας</w> <num value="8"><w><hi rend="supraline">η</hi></w></num> <w>ἐπ’</w> <w><expan><abbr>ἰνδ</abbr><ex>ικτιῶνος</ex></expan></w> <num value="14"><w>ιδ</w></num>
+                    <lb n="4"/><w><expan><abbr>πρ</abbr><ex>ὸ</ex></expan></w> <num value="7"><w><hi rend="supraline">ζ</hi></w></num> <w><expan><abbr>ἰδ</abbr><ex>ῶν</ex></expan></w> <name><w><expan><abbr>Ἀπριλ</abbr><ex>ίων</ex></expan></w></name>
                 </ab>
             </div>
             <div type="apparatus">

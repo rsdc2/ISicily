@@ -197,8 +197,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    <lb n="1"/><w>Εὐχή</w> <name>Πανχα</name> <w><supplied reason="lost">ρίου</supplied></w>
-                    <lb n="2"/><w>καὶ</w> <name>Ἰωάννο</name> <w><supplied reason="lost">υ</supplied></w>
+                    <lb n="1"/><w>Εὐχή</w> <name><w>Πανχα</w></name> <w><supplied reason="lost">ρίου</supplied></w>
+                    <lb n="2"/><w>καὶ</w> <name><w>Ἰωάννο</w></name> <w><supplied reason="lost">υ</supplied></w>
                     <lb n="3"/><w><choice><reg>ἀδελφοί</reg><orig>ἀδελποί</orig></choice></w> <space quantity="2" unit="character"/>
                 </ab>
             </div>

@@ -186,7 +186,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>Θ</abbr><ex>εοῖς</ex></expan></w> <name><supplied reason="lost">Κ(αταχθονίοις)</supplied></name>
+                    <lb n="1"/><w><expan><abbr>Θ</abbr><ex>εοῖς</ex></expan></w> <name><w><supplied reason="lost">Κ(αταχθονίοις)</supplied></w></name>
                     <lb n="2"/><orig>ΞΕ</orig><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="3"/><orig>Π</orig><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="0"/><gap reason="lost" unit="line" extent="unknown"/>

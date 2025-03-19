@@ -196,11 +196,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JH">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <name><expan><abbr>M</abbr><ex>anibus</ex></expan></name> <g ref="#interpunct">·</g> <w><expan><abbr>s</abbr><ex>acrum</ex></expan></w> <g ref="#interpunct">·</g>
-                    <lb n="2"/><name>Valeria</name> <name>Thermitana</name> <g ref="#interpunct">·</g> <w>vixit</w>
-                    <lb n="3"/><w>annos</w> <num value="3">III</num> <w><expan><abbr>mens</abbr><ex>es</ex></expan></w> <num value="4">IIII</num> <w>dies</w> <num value="6">VI</num>
-                    <lb n="4"/><name>Valerius</name> <g ref="#interpunct">·</g> <name>Eutyches</name> <w>et</w> <name>Lysidia</name>
-                    <lb n="5"/><name>Thaumasie</name> <w>parentes</w> <w><expan><abbr>fecerun</abbr><ex>t</ex></expan></w>
+                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <name><w><expan><abbr>M</abbr><ex>anibus</ex></expan></w></name> <g ref="#interpunct">·</g> <w><expan><abbr>s</abbr><ex>acrum</ex></expan></w> <g ref="#interpunct">·</g>
+                    <lb n="2"/><name><w>Valeria</w></name> <name><w>Thermitana</w></name> <g ref="#interpunct">·</g> <w>vixit</w>
+                    <lb n="3"/><w>annos</w> <num value="3"><w>III</w></num> <w><expan><abbr>mens</abbr><ex>es</ex></expan></w> <num value="4"><w>IIII</w></num> <w>dies</w> <num value="6"><w>VI</w></num>
+                    <lb n="4"/><name><w>Valerius</w></name> <g ref="#interpunct">·</g> <name><w>Eutyches</w></name> <w>et</w> <name><w>Lysidia</w></name>
+                    <lb n="5"/><name><w>Thaumasie</w></name> <w>parentes</w> <w><expan><abbr>fecerun</abbr><ex>t</ex></expan></w>
                     <lb n="6"/><w>filiae</w> <g ref="#interpunct">·</g> <w>piissimae</w>
                     <lb n="7"/><w>et</w> <w>sibi</w> <w>et</w> <w>suis</w>
                 </ab>

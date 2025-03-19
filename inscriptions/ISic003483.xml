@@ -198,12 +198,12 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
                     <lb n="0"/><gap reason="lost" extent="unknown" unit="line"/>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w><unclear>κα</unclear>ὶ</w> <name>Εὐβουλ</name> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <name><abbr>Τ</abbr></name> <g ref="#interpunct">·</g> <w><expan><abbr>υ</abbr><ex>ἱὸς</ex></expan></w> <g ref="#interpunct">·</g> <name>Σεουε͂ρ<supplied reason="lost">ος</supplied></name>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w><unclear>κα</unclear>ὶ</w> <name><w>Εὐβουλ</w></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <name><w><abbr>Τ</abbr></w></name> <g ref="#interpunct">·</g> <w><expan><abbr>υ</abbr><ex>ἱὸς</ex></expan></w> <g ref="#interpunct">·</g> <name><w>Σεουε͂ρ<supplied reason="lost">ος</supplied></w></name>
                     <lb n="3"/><w><supplied reason="lost">διδά</supplied>σκαλος</w> <space extent="unknown" unit="character"/>
-                    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <w><expan><abbr>υ</abbr><ex>ἱὸς</ex></expan></w> <g ref="#interpunct">·</g> <name>Σπερκια<supplied reason="lost" cert="low">νὸς</supplied></name>
+                    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <w><expan><abbr>υ</abbr><ex>ἱὸς</ex></expan></w> <g ref="#interpunct">·</g> <name><w>Σπερκια<supplied reason="lost" cert="low">νὸς</supplied></w></name>
                     <lb n="5"/><w><supplied reason="lost">σαλπι</supplied>κτὴς</w> <g ref="#interpunct">·</g> <space extent="unknown" unit="character"/>
-                    <lb n="6"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost"><expan><abbr>υ</abbr><ex>ἱὸς</ex></expan></supplied></w> <name>Ἀφρικ<supplied reason="lost" cert="low">ανὸς</supplied></name>
+                    <lb n="6"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost"><expan><abbr>υ</abbr><ex>ἱὸς</ex></expan></supplied></w> <name><w>Ἀφρικ<supplied reason="lost" cert="low">ανὸς</supplied></w></name>
                     <lb n="7"/><w><supplied reason="lost">κιθαρι</supplied>σ<supplied reason="lost" cert="low">τὴς</supplied></w>
                     <lb n="7a"/><gap reason="lost" extent="unknown" unit="line"/>
                 </ab>

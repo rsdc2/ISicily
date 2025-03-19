@@ -204,7 +204,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1" xml:id="DnKAK"/><w xml:id="DnKAU">Γναΐου</w> <name xml:id="DnKAe">Μοδίου</name>
+                    <lb n="1" xml:id="DnKAK"/><w xml:id="DnKAU">Γναΐου</w> <name xml:id="DnKAe"><w>Μοδίου</w></name>
                 </ab>
             </div>
             <div type="apparatus">

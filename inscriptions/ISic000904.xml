@@ -191,7 +191,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM #JP">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name><supplied reason="lost">Βικ</supplied>τωρῖνος</name></persName>
+                    <lb n="1"/><persName type="attested"><name><w><supplied reason="lost">Βικ</supplied>τωρῖνος</w></name></persName>
                     <lb n="2"/><w><supplied reason="lost">ἐ</supplied>νθάδε</w> <w>κε
                     <lb n="3" break="no"/><supplied reason="lost">ῖτε</supplied></w> <w><supplied reason="lost">τό</supplied>πος</w> <w>εἴδιος</w>
                     <lb n="4"/><g ref="#staurogram">𐆠</g> <g ref="#palm">⸙</g> <g ref="#staurogram">𐆠</g>

@@ -178,7 +178,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
-                    <lb n="1"/><persName type="attested"><roleName type="supracivic" subtype="imperator"><w><expan><abbr>Imp</abbr><ex cert="low">eratori</ex></expan></w></roleName> <g ref="#interpunct">·</g> <name><expan><abbr>M</abbr><ex>arco</ex></expan></name> <g ref="#interpunct">·</g> <name>Aurelio</name> <g ref="#interpunct">·</g> <name>Antonino</name> <g ref="#interpunct">·</g> <name>Aug<supplied reason="lost">usto</supplied></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><persName type="attested"><roleName type="supracivic" subtype="imperator"><w><expan><abbr>Imp</abbr><ex cert="low">eratori</ex></expan></w></roleName> <g ref="#interpunct">·</g> <name><w><expan><abbr>M</abbr><ex>arco</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w>Aurelio</w></name> <g ref="#interpunct">·</g> <name><w>Antonino</w></name> <g ref="#interpunct">·</g> <name><w>Aug<supplied reason="lost">usto</supplied></w></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>
             <div type="apparatus" resp="#JP">

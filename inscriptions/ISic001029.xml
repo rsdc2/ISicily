@@ -193,23 +193,23 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/><w><unclear>ἐ</unclear><supplied reason="lost">π</supplied>ὶ</w> <name>Ἡρακλ<supplied reason="lost">είου</supplied></name> <w><supplied reason="lost">τ</supplied><unclear>ο</unclear>ῦ</w> <name>Ποσεί<unclear>δ</unclear>ιος</name> <name>Ἀφρο<supplied reason="lost">δίται</supplied></name> <cb n="1"/>
+                    <lb n="1"/><w><unclear>ἐ</unclear><supplied reason="lost">π</supplied>ὶ</w> <name><w>Ἡρακλ<supplied reason="lost">είου</supplied></w></name> <w><supplied reason="lost">τ</supplied><unclear>ο</unclear>ῦ</w> <name><w>Ποσεί<unclear>δ</unclear>ιος</w></name> <name><w>Ἀφρο<supplied reason="lost">δίται</supplied></w></name> <cb n="1"/>
                     <lb n="2"/><roleName type="civic" subtype="agoranomos"><w>ἀγορανόμοι</w></roleName>
-                    <lb n="3"/><name>Ἡρακλείδας</name> <name>Ἀπολλοδώρου</name>
-                    <lb n="4"/><name>Ἡράκλειος</name> <name>Ἀγάθωνος</name>
+                    <lb n="3"/><name><w>Ἡρακλείδας</w></name> <name><w>Ἀπολλοδώρου</w></name>
+                    <lb n="4"/><name><w>Ἡράκλειος</w></name> <name><w>Ἀγάθωνος</w></name>
                     <lb n="5"/><roleName type="civic" subtype="triakodarkos"><w>τριακάδαρχοι</w></roleName>
-                    <lb n="6"/><name>Ἀριστόμαχος</name> <name>Διονυσοδώρου</name>
-                    <lb n="7"/><name>Δαμαίνετος</name> <name>Λύκωνος</name>
-                    <lb n="8"/><name>Ξένων</name> <name>Ἀριστέα</name>
-                    <lb n="9"/><name>Νικασίων</name> <name>Φιλίστου</name> <cb n="2"/>
-                    <lb n="10"/><name>Δαικράτης</name> <name>Ἀριστοξένου</name>
-                    <lb n="11"/><name>Νικασίων</name> <name>Ἀρτέμωνος</name>
-                    <lb n="12"/><name>Ε<unclear>ὔ</unclear><supplied reason="lost">φ</supplied>α<supplied reason="lost">μ</supplied>ος</name> <name>Θεο<unclear>φ</unclear>ίλου</name>
+                    <lb n="6"/><name><w>Ἀριστόμαχος</w></name> <name><w>Διονυσοδώρου</w></name>
+                    <lb n="7"/><name><w>Δαμαίνετος</w></name> <name><w>Λύκωνος</w></name>
+                    <lb n="8"/><name><w>Ξένων</w></name> <name><w>Ἀριστέα</w></name>
+                    <lb n="9"/><name><w>Νικασίων</w></name> <name><w>Φιλίστου</w></name> <cb n="2"/>
+                    <lb n="10"/><name><w>Δαικράτης</w></name> <name><w>Ἀριστοξένου</w></name>
+                    <lb n="11"/><name><w>Νικασίων</w></name> <name><w>Ἀρτέμωνος</w></name>
+                    <lb n="12"/><name><w>Ε<unclear>ὔ</unclear><supplied reason="lost">φ</supplied>α<supplied reason="lost">μ</supplied>ος</w></name> <name><w>Θεο<unclear>φ</unclear>ίλου</w></name>
                     <lb n="13"/><roleName type="civic" subtype="grammateus"><w>γραμματεὺς</w></roleName>
-                    <lb n="14"/><name>Παυσανίας</name> <name>Σώσι<unclear>ο</unclear><supplied reason="lost">ς</supplied></name>
+                    <lb n="14"/><name><w>Παυσανίας</w></name> <name><w>Σώσι<unclear>ο</unclear><supplied reason="lost">ς</supplied></w></name>
                     <lb n="15"/><roleName type="civic" subtype="hypographeus"><w>ὑπογραφέες</w></roleName>
-                    <lb n="16"/><name>Ὕβριμος</name> <name>Σώσιος</name>
-                    <lb n="17"/><name>Φιλιστίων</name> <name>Σώσιος</name>
+                    <lb n="16"/><name><w>Ὕβριμος</w></name> <name><w>Σώσιος</w></name>
+                    <lb n="17"/><name><w>Φιλιστίων</w></name> <name><w>Σώσιος</w></name>
                 </ab>
             </div>
             <div type="apparatus">

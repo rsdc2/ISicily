@@ -194,7 +194,7 @@
                 <div type="textpart" subtype="fragment-physical" n="a">
                     <ab>
                         <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <orig>NESTHE</orig><gap reason="lost" extent="unknown" unit="character"/>
-                        <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w>chus</w> <g ref="#interpunct">·</g> <num value="2"><hi rend="supraline">II</hi></num> <g ref="#interpunct">·</g> <gap reason="lost" extent="unknown" unit="character"/>
+                        <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w>chus</w> <g ref="#interpunct">·</g> <num value="2"><w><hi rend="supraline">II</hi></w></num> <g ref="#interpunct">·</g> <gap reason="lost" extent="unknown" unit="character"/>
                     </ab>
                 </div>
                 <div type="textpart" subtype="fragment-physical" n="b">

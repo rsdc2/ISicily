@@ -192,10 +192,10 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#MH">
                 <ab>
                     <lb n="1"/><w><expan><abbr>Θ</abbr><ex>εοῖς</ex></expan></w> <w><expan><abbr>κ</abbr><ex>ατα</ex><abbr>χ</abbr><ex>θονίοις</ex></expan></w>
-                    <lb n="2"/><name>Σειλικία</name>
-                    <lb n="3"/><name>Μέλλουσα</name>
+                    <lb n="2"/><name><w>Σειλικία</w></name>
+                    <lb n="3"/><name><w>Μέλλουσα</w></name>
                     <lb n="4"/><w>ἔζησεν</w>
-                    <lb n="5"/><w>ἔτη</w> <num value="14"><foreign xml:lang="la">XIIII</foreign></num>.
+                    <lb n="5"/><w>ἔτη</w> <num value="14"><w><foreign xml:lang="la">XIIII</foreign></w></num>.
                     <lb n="6"/>
                 </ab>
             </div>

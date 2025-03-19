@@ -192,7 +192,7 @@
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AR">
                 <ab>
                     <lb/><gap reason="lost" extent="unknown" unit="line"/>
-                    <lb n="1"/><w>Valerius</w> <name>Maxumus</name>
+                    <lb n="1"/><w>Valerius</w> <name><w>Maxumus</w></name>
                     <lb/><gap reason="lost" extent="unknown" unit="line"/>
                 </ab>
             </div>

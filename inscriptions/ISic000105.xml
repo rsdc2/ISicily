@@ -229,7 +229,7 @@
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#TA">
                 <ab>
                     <lb n="1" xml:id="AKyAK"/><gap reason="lost" extent="unknown" unit="character" xml:id="AKyAU"/> <orig xml:id="AKyAe">R<unclear xml:id="AKyAo">D</unclear></orig><gap reason="lost" extent="unknown" unit="character" xml:id="AKyAy"/>
-                    <lb n="2" xml:id="AKyAΙ"/><gap reason="lost" extent="unknown" unit="character" xml:id="AKyAΤ"/> <num atLeast="2" xml:id="AKyAε"><unclear xml:id="AKyAο">II</unclear></num> <name xml:id="AKyBA"><g ref="#interpunct" xml:id="AKyBK">·</g>in</name> <w xml:id="AKyBU">pub</w> <gap reason="lost" extent="unknown" unit="character" xml:id="AKyBe"/>
+                    <lb n="2" xml:id="AKyAΙ"/><gap reason="lost" extent="unknown" unit="character" xml:id="AKyAΤ"/> <num atLeast="2" xml:id="AKyAε"><w><unclear xml:id="AKyAο">II</unclear></w></num> <name xml:id="AKyBA"><w><g ref="#interpunct" xml:id="AKyBK">·</g>in</w></name> <w xml:id="AKyBU">pub</w> <gap reason="lost" extent="unknown" unit="character" xml:id="AKyBe"/>
                     <lb n="3" xml:id="AKyBo"/><gap reason="lost" extent="unknown" unit="character" xml:id="AKyBy"/> <w xml:id="AKyBΙ"><unclear xml:id="AKyBΤ">u</unclear>t</w> <w xml:id="AKyBε"><unclear xml:id="AKyBο">e</unclear>x</w> <w xml:id="AKyCA"><unclear xml:id="AKyCK">p</unclear></w> <gap reason="lost" extent="unknown" unit="character" xml:id="AKyCU"/>
                 </ab>
             </div>

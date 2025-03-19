@@ -189,9 +189,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
-                    <lb n="1"/><w>Salvis</w> <g ref="#interpunct">·</g> <name>Plotino</name> <g ref="#interpunct">·</g> <w>et</w> <g ref="#ivy-leaf">❦</g>
-                    <lb n="2"/><name>Rufae</name> <g ref="#interpunct">·</g> <name>Logus</name> <g ref="#interpunct">·</g> <w><expan><abbr>serv</abbr><ex>us</ex></expan></w> <g ref="#interpunct">·</g>
-                    <lb n="3"/><w><expan><abbr>act</abbr><ex>or</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>port</abbr><ex>us</ex></expan></w> <g ref="#interpunct">·</g> <name>Lilybit<supplied reason="omitted">a</supplied>ni</name>
+                    <lb n="1"/><w>Salvis</w> <g ref="#interpunct">·</g> <name><w>Plotino</w></name> <g ref="#interpunct">·</g> <w>et</w> <g ref="#ivy-leaf">❦</g>
+                    <lb n="2"/><name><w>Rufae</w></name> <g ref="#interpunct">·</g> <name><w>Logus</w></name> <g ref="#interpunct">·</g> <w><expan><abbr>serv</abbr><ex>us</ex></expan></w> <g ref="#interpunct">·</g>
+                    <lb n="3"/><w><expan><abbr>act</abbr><ex>or</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>port</abbr><ex>us</ex></expan></w> <g ref="#interpunct">·</g> <name><w>Lilybit<supplied reason="omitted">a</supplied>ni</w></name>
                     <lb n="4"/><w>hoc</w> <w>sacrarium</w>
                     <lb n="5"/><w>ex</w> <w>voto</w> <w>exornavit</w> <g ref="#ivy-leaf">❦</g>
                 </ab>

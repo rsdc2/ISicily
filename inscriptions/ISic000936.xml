@@ -192,7 +192,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/><g ref="#palm">⸙</g> <w><hi rend="ligature"><g ref="#staurogram">𐆠</g>κ</hi>οίμησις</w> <name>Θεοδότου</name>
+                    <lb n="1"/><g ref="#palm">⸙</g> <w><hi rend="ligature"><g ref="#staurogram">𐆠</g>κ</hi>οίμησις</w> <name><w>Θεοδότου</w></name>
                 </ab>
             </div>
             <div type="apparatus">

@@ -196,8 +196,8 @@
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="undefined" evidence="previouseditor">a</supplied>viae</w> <w>av</w> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <name>Ge<hi rend="ligature">me</hi>lius</name> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="undefined" evidence="previouseditor">e</supplied><unclear>t</unclear></w> <gap reason="illegible" quantity="1" unit="character"/> <name>Geme<supplied reason="lost">li</supplied></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <name><w>Ge<hi rend="ligature">me</hi>lius</w></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="undefined" evidence="previouseditor">e</supplied><unclear>t</unclear></w> <gap reason="illegible" quantity="1" unit="character"/> <name><w>Geme<supplied reason="lost">li</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>
             <div type="apparatus">

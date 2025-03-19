@@ -202,11 +202,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#VM">
                 <ab>
-                    <lb n="1"/><w>Secundo</w> <g ref="#interpunct">·</g> <num value="20"><hi rend="supraline">XX</hi></num> <g ref="#interpunct">·</g> <w><expan><abbr>her</abbr><ex>editatium</ex></expan></w> <g ref="#interpunct">·</g>
-                    <lb n="2"/><w><expan><abbr>vil</abbr><ex>ico</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>summar</abbr><ex>um</ex></expan></w> <g ref="#interpunct">·</g> <name>Ur</name> <name><g ref="#interpunct">·</g>
-                    <lb n="3" break="no"/>banae</name> <g ref="#interpunct">·</g> <w>matri</w> <g ref="#interpunct">·</g>
-                    <lb n="4"/><name>Clymene</name> <g ref="#interpunct">·</g> <w><expan><abbr>cog</abbr><ex>natae</ex></expan></w> <g ref="#interpunct">·</g>
-                    <lb n="5"/><name>Primigenius</name> <g ref="#interpunct">·</g> <num value="20"><hi rend="supraline">XX</hi></num> <g ref="#interpunct">·</g> <w><expan><abbr>her</abbr><ex>editatium</ex></expan></w> <g ref="#interpunct">·</g>
+                    <lb n="1"/><w>Secundo</w> <g ref="#interpunct">·</g> <num value="20"><w><hi rend="supraline">XX</hi></w></num> <g ref="#interpunct">·</g> <w><expan><abbr>her</abbr><ex>editatium</ex></expan></w> <g ref="#interpunct">·</g>
+                    <lb n="2"/><w><expan><abbr>vil</abbr><ex>ico</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>summar</abbr><ex>um</ex></expan></w> <g ref="#interpunct">·</g> <name><w>Ur</w></name> <name><w><g ref="#interpunct">·</g>
+                    <lb n="3" break="no"/>banae</w></name> <g ref="#interpunct">·</g> <w>matri</w> <g ref="#interpunct">·</g>
+                    <lb n="4"/><name><w>Clymene</w></name> <g ref="#interpunct">·</g> <w><expan><abbr>cog</abbr><ex>natae</ex></expan></w> <g ref="#interpunct">·</g>
+                    <lb n="5"/><name><w>Primigenius</w></name> <g ref="#interpunct">·</g> <num value="20"><w><hi rend="supraline">XX</hi></w></num> <g ref="#interpunct">·</g> <w><expan><abbr>her</abbr><ex>editatium</ex></expan></w> <g ref="#interpunct">·</g>
                     <lb n="6"/><w>se<supplied reason="lost">rvus</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>

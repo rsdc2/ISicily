@@ -191,11 +191,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#AL">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>Θ</abbr><ex>εοῖς</ex></expan></w> <g ref="#interpunct">·</g> <name><expan><abbr>Κ</abbr><ex>αταχθονίοις</ex></expan></name>
-                    <lb n="2"/><persName type="attested"><name type="nomen">Ῥωσκία</name> <name type="cognomen">Ἑρμι
-                    <lb n="3" break="no"/>όνη</name></persName> <w>ἔζησε</w>
-                    <lb n="4"/><w>ἔτη</w> <g ref="#interpunct">·</g> <num value="30">λ</num> <g ref="#interpunct">·</g> <persName type="attested"><name type="idionym">Ζώσι
-                    <lb n="5" break="no"/>μος</name></persName> <w>εἰδίᾳ</w> <w>συν
+                    <lb n="1"/><w><expan><abbr>Θ</abbr><ex>εοῖς</ex></expan></w> <g ref="#interpunct">·</g> <name><w><expan><abbr>Κ</abbr><ex>αταχθονίοις</ex></expan></w></name>
+                    <lb n="2"/><persName type="attested"><name type="nomen"><w>Ῥωσκία</w></name> <name type="cognomen"><w>Ἑρμι
+                    <lb n="3" break="no"/>όνη</w></name></persName> <w>ἔζησε</w>
+                    <lb n="4"/><w>ἔτη</w> <g ref="#interpunct">·</g> <num value="30"><w>λ</w></num> <g ref="#interpunct">·</g> <persName type="attested"><name type="idionym"><w>Ζώσι
+                    <lb n="5" break="no"/>μος</w></name></persName> <w>εἰδίᾳ</w> <w>συν
                     <lb n="6" break="no"/>βίῳ</w> <w>μνήμης</w>
                     <lb n="7"/><w>χάριν</w>
                 </ab>	       

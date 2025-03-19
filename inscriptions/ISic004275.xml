@@ -185,8 +185,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#DEE">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name type="praenomen"><expan><abbr>C</abbr><ex>ai</ex></expan></name> <name type="nomen">Clodi</name>
-                    <lb n="2"/><name type="cognomen">Capito<hi rend="ligature">ni</hi><hi rend="small">s</hi></name></persName>
+                    <lb n="1"/><persName type="attested"><name type="praenomen"><w><expan><abbr>C</abbr><ex>ai</ex></expan></w></name> <name type="nomen"><w>Clodi</w></name>
+                    <lb n="2"/><name type="cognomen"><w>Capito<hi rend="ligature">ni</hi><hi rend="small">s</hi></w></name></persName>
                 </ab>
             </div>
             <div type="apparatus">

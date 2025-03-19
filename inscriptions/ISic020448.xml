@@ -174,7 +174,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/><w>τᾶς</w> <persName type="attested"><name><choice><reg>Καλλικράτεος</reg><orig>Καλικράτεος</orig></choice></name> <persName type="attested"><name type="patronymic">Μεννάδος</name></persName></persName> <w>ε̄̓μί</w>
+                    <lb n="1"/><w>τᾶς</w> <persName type="attested"><name><w><choice><reg>Καλλικράτεος</reg><orig>Καλικράτεος</orig></choice></w></name> <persName type="attested"><name type="patronymic"><w>Μεννάδος</w></name></persName></persName> <w>ε̄̓μί</w>
                 </ab>
             </div>
             <div type="apparatus">

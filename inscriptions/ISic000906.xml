@@ -191,9 +191,9 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
                     <lb n="1"/><w>ταφὴ</w>
-                    <lb n="2"/><name><expan><abbr>Γεμέλ</abbr><ex>λου</ex></expan></name>
+                    <lb n="2"/><name><w><expan><abbr>Γεμέλ</abbr><ex>λου</ex></expan></w></name>
                     <lb n="3"/><w>τοῦ</w> <w>υἱοῦ</w>
-                    <lb n="4"/><name>Κλωδίας</name>
+                    <lb n="4"/><name><w>Κλωδίας</w></name>
                 </ab>
             </div>
             <div type="apparatus">

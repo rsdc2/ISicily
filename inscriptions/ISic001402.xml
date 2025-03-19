@@ -191,8 +191,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#AL">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name type="cognomen">Σατορν<supplied reason="lost">ῖ</supplied>
-                    <lb n="2" break="no"/>λε</name></persName> <w>χρησ<supplied reason="lost">τὲ</supplied></w>
+                    <lb n="1"/><persName type="attested"><name type="cognomen"><w>Σατορν<supplied reason="lost">ῖ</supplied>
+                    <lb n="2" break="no"/>λε</w></name></persName> <w>χρησ<supplied reason="lost">τὲ</supplied></w>
                     <lb n="3"/><w><supplied reason="lost">χα</supplied>ῖρ<unclear>ε</unclear></w>
                 </ab>
             </div>

@@ -194,7 +194,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1"/><w>Ἀχιλλεὺς</w> <name>Προθύμου</name>
+                    <lb n="1"/><w>Ἀχιλλεὺς</w> <name><w>Προθύμου</w></name>
                     <lb n="2"/><w>χαῖρε</w> <w>καὶ</w> <w>κατὰ</w>
                     <lb n="3"/><w>χθονός</w>
                 </ab>

@@ -209,7 +209,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name>Εὐκαρπί<supplied reason="lost">α</supplied></name></persName>
+                    <lb n="1"/><persName type="attested"><name><w>Εὐκαρπί<supplied reason="lost">α</supplied></w></name></persName>
                     <lb n="2"/><w>χρηστ<supplied reason="lost">ὲ</supplied></w>
                     <lb n="3"/><w>χαῖρ<supplied reason="lost">ε</supplied></w>
                     <lb n="4"/><w>ἔζη<unclear>σ</unclear><supplied reason="lost">εν</supplied></w>

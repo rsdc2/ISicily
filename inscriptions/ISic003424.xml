@@ -202,11 +202,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1"/><w>Λαμνα</w> <g ref="#interpunct">·</g> <name>Κορ
-                    <lb n="2" break="no"/>νηλι</name> <g ref="#interpunct">·</g> <name>Ἀλκίνων</name>
+                    <lb n="1"/><w>Λαμνα</w> <g ref="#interpunct">·</g> <name><w>Κορ
+                    <lb n="2" break="no"/>νηλι</w></name> <g ref="#interpunct">·</g> <name><w>Ἀλκίνων</w></name>
                     <lb n="3"/><w>χρηστὲ</w> <w>χαῖρε</w>
                     <lb n="4"/><w>ἔζησεν</w> <g ref="#interpunct">·</g> <w>ἔτη</w>
-                    <lb n="5"/><g ref="#ivy-leaf">❦</g> <num value="32">λβ</num> <g ref="#ivy-leaf">❦</g>
+                    <lb n="5"/><g ref="#ivy-leaf">❦</g> <num value="32"><w>λβ</w></num> <g ref="#ivy-leaf">❦</g>
                 </ab>
             </div>
             <div type="apparatus">

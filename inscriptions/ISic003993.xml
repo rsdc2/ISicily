@@ -188,7 +188,7 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#AA">
                 <ab>
                     <lb n="1"/><del rend="erasure"><gap reason="lost" extent="unknown" unit="character"/></del>
-                    <lb n="2"/><persName type="attested"><name><unclear>Δ</unclear>ιο<supplied reason="lost">δώ</supplied><unclear>ρ</unclear>ου</name></persName>
+                    <lb n="2"/><persName type="attested"><name><w><unclear>Δ</unclear>ιο<supplied reason="lost">δώ</supplied><unclear>ρ</unclear>ου</w></name></persName>
                 </ab>
             </div>
             <div type="apparatus">

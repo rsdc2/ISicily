@@ -170,7 +170,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name>Στέφα<supplied reason="lost" cert="low">νος</supplied></name></persName>
+                    <lb n="1"/><persName type="attested"><name><w>Στέφα<supplied reason="lost" cert="low">νος</supplied></w></name></persName>
                     <lb n="2"/><w>ἐνθάδε</w> <w><supplied reason="lost">κῖτε</supplied></w>
                 </ab>
             </div>

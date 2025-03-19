@@ -201,7 +201,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w>us</w> <g ref="#interpunct">·</g> <name><expan><abbr>M</abbr><ex>arci</ex></expan></name> <g ref="#interpunct">·</g> <w><expan><abbr>f</abbr><ex>ilius</ex></expan><g ref="#interpunct">·</g><expan><abbr>Ter</abbr><ex>etina tribu</ex></expan></w> <g ref="#interpunct">·</g> <name><space quantity="1" unit="character"/>Pius</name>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w>us</w> <g ref="#interpunct">·</g> <name><w><expan><abbr>M</abbr><ex>arci</ex></expan></w></name> <g ref="#interpunct">·</g> <w><expan><abbr>f</abbr><ex>ilius</ex></expan><g ref="#interpunct">·</g><expan><abbr>Ter</abbr><ex>etina tribu</ex></expan></w> <g ref="#interpunct">·</g> <name><w><space quantity="1" unit="character"/>Pius</w></name>
                     <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <gap reason="illegible" quantity="1" unit="character"/> <w><expan><abbr><unclear>f</unclear></abbr><ex>iliam</ex></expan></w> <g ref="#interpunct">·</g> <w>matrem</w> <g ref="#interpunct">·</g> <w>suam</w> <g ref="#interpunct">·</g>
                 </ab>
             </div>

@@ -199,8 +199,8 @@
                     <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/> <orig>ΠΟΤ</orig><gap reason="lost" extent="unknown" unit="character"/> <orig>ΣΟΙ</orig>
                     <lb n="6"/><orig>Δ</orig><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="7"/><w>ἀγα<supplied reason="lost">λλο</supplied>μέ
-                    <lb n="8" break="no"/>νη</w> <name>Σωφρο
-                    <lb n="9" break="no"/>σύνη</name> <w><supplied reason="lost" cert="low">χρηστή</supplied></w>
+                    <lb n="8" break="no"/>νη</w> <name><w>Σωφρο
+                    <lb n="9" break="no"/>σύνη</w></name> <w><supplied reason="lost" cert="low">χρηστή</supplied></w>
                     <lb n="10"/><w>χαῖρε</w>
                 </ab>
             </div>

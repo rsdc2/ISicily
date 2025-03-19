@@ -193,7 +193,7 @@
                     <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <gap reason="illegible" unit="character" quantity="1"/> <orig>ΕΑ</orig>
                     <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <w><expan><abbr>ἔζησ</abbr><ex>ε</ex></expan></w>
                     <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <gap reason="illegible" unit="character" quantity="1"/> <orig>ΛΗ</orig>
-                    <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/> <w><expan><abbr>μ</abbr><ex>ῆνας</ex></expan></w> <space unit="character" quantity="1"/><num value="5">ε</num>
+                    <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/> <w><expan><abbr>μ</abbr><ex>ῆνας</ex></expan></w> <space unit="character" quantity="1"/><num value="5"><w>ε</w></num>
                 </ab>
             </div>
             <div type="apparatus" resp="#JP">

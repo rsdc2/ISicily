@@ -191,8 +191,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#MH">
                 <ab>
-                    <lb n="1"/><name>Μαρκίων</name>
-                    <lb n="2"/><name>Μαρκίωνος</name>
+                    <lb n="1"/><name><w>Μαρκίων</w></name>
+                    <lb n="2"/><name><w>Μαρκίωνος</w></name>
                     <lb n="3"/><w><unclear>χα</unclear>ῖρε.</w>
                 </ab>
             </div>

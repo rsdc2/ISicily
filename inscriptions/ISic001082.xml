@@ -230,10 +230,10 @@
         <body>
              <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1"/><persName type="divine"><name type="epithet">Πολυστεφάνῳ</name>
-                    <lb n="2"/><name>Σωτείρᾳ</name></persName>
-                    <lb n="3"/><persName><name>Νικομήδης</name> <w>ὁ</w> <w>καὶ</w>
-                    <lb n="4"/><name>Ὄνυς</name></persName> <persName type="divine"><name><choice><orig>Σωτίρᾳ</orig><reg>Σωτείρᾳ</reg></choice></name></persName>
+                    <lb n="1"/><persName type="divine"><name type="epithet"><w>Πολυστεφάνῳ</w></name>
+                    <lb n="2"/><name><w>Σωτείρᾳ</w></name></persName>
+                    <lb n="3"/><persName><name><w>Νικομήδης</w></name> <w>ὁ</w> <w>καὶ</w>
+                    <lb n="4"/><name><w>Ὄνυς</w></name></persName> <persName type="divine"><name><w><choice><orig>Σωτίρᾳ</orig><reg>Σωτείρᾳ</reg></choice></w></name></persName>
                 </ab>
             </div>
             <div type="apparatus">

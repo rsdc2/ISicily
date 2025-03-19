@@ -192,7 +192,7 @@
                     <lb n="0a"/><gap reason="lost" unit="line" quantity="1"/>
                     <lb n="1"/><gap reason="lost" unit="character" quantity="7" precision="medium"/> <gap reason="illegible" unit="character" quantity="1"/> <w>us</w> <space unit="character" quantity="1"/><orig>o</orig><gap reason="lost" unit="character" extent="unknown"/>
                     <lb n="2"/><gap reason="lost" unit="character" quantity="6" precision="medium"/> <roleName type="supracivic" subtype="curator.reipublicae"><w><expan><abbr><unclear>c</unclear>ur</abbr><ex>ator</ex></expan></w></roleName> <g ref="#interpunct">·</g> <w>rei</w> <g ref="#interpunct">·</g> <w>p<supplied reason="lost">ublicae</supplied></w>
-                    <lb n="3"/><placeName type="ethnic"><name>Lip</name> <w><supplied reason="lost">ar</supplied></w> <w>itanoru</w> <w><supplied reason="lost">m</supplied></w></placeName> <gap reason="lost" unit="character" extent="unknown"/>
+                    <lb n="3"/><placeName type="ethnic"><name><w>Lip</w></name> <w><supplied reason="lost">ar</supplied></w> <w>itanoru</w> <w><supplied reason="lost">m</supplied></w></placeName> <gap reason="lost" unit="character" extent="unknown"/>
                     <lb n="4"/><w>in</w> <w>o<unclear>m</unclear>nibus</w> <w>p<unclear>e</unclear></w> <gap reason="lost" unit="character" extent="unknown"/>
                     <lb n="5"/><w>a</w> <w>splendidiss<unclear>i</unclear><supplied reason="lost">mo</supplied></w> <w><supplied reason="lost">ordine</supplied></w>
                     <lb n="6"/><w>muneris</w> <w>su<unclear>i</unclear></w> <gap reason="lost" unit="character" extent="unknown"/>

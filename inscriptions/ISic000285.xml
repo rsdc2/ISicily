@@ -196,9 +196,9 @@
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
                     <lb n="1"/><w>Cura<supplied reason="undefined" evidence="previouseditor">tores</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="2"/><name><expan><abbr>Q</abbr><ex>uintus</ex></expan></name> <name>Mac</name> <w><supplied reason="undefined" evidence="previouseditor">ulnius</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="3"/><name><expan><abbr><unclear>T</unclear></abbr><ex>itus</ex></expan></name> <name>Tr<unclear>u</unclear>t</name> <w><supplied reason="undefined" evidence="previouseditor">tedi</supplied></w> <w><supplied reason="lost">us</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="4"/><name><expan><abbr>A</abbr><ex>ulus</ex></expan></name> <name>Turiu<supplied reason="undefined" evidence="previouseditor">s</supplied></name> <name><expan><abbr><supplied reason="undefined" evidence="previouseditor">A</supplied></abbr><ex>uli</ex></expan></name> <w><supplied reason="undefined" evidence="previouseditor" cert="low">OCHAC</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><name><w><expan><abbr>Q</abbr><ex>uintus</ex></expan></w></name> <name><w>Mac</w></name> <w><supplied reason="undefined" evidence="previouseditor">ulnius</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="3"/><name><w><expan><abbr><unclear>T</unclear></abbr><ex>itus</ex></expan></w></name> <name><w>Tr<unclear>u</unclear>t</w></name> <w><supplied reason="undefined" evidence="previouseditor">tedi</supplied></w> <w><supplied reason="lost">us</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="4"/><name><w><expan><abbr>A</abbr><ex>ulus</ex></expan></w></name> <name><w>Turiu<supplied reason="undefined" evidence="previouseditor">s</supplied></w></name> <name><w><expan><abbr><supplied reason="undefined" evidence="previouseditor">A</supplied></abbr><ex>uli</ex></expan></w></name> <w><supplied reason="undefined" evidence="previouseditor" cert="low">OCHAC</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>
             <div type="apparatus">

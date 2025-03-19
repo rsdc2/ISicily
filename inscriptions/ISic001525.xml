@@ -191,12 +191,12 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/><w>Ἀρτεμισί<choice><corr>α</corr><sic>λ</sic></choice></w> <name>Εὐ
-                    <lb n="2" break="no"/>τύχης</name> <w>ἠγόρ<supplied reason="omitted">ε</supplied>σαι</w>
+                    <lb n="1"/><w>Ἀρτεμισί<choice><corr>α</corr><sic>λ</sic></choice></w> <name><w>Εὐ
+                    <lb n="2" break="no"/>τύχης</w></name> <w>ἠγόρ<supplied reason="omitted">ε</supplied>σαι</w>
                     <lb n="3"/><w>ἰδίᾳ</w> <w>κλητρί</w> <w>τύμ
-                    <lb n="4" break="no"/>βον</w> <measure type="currency" unit="denarius"><num value="720000">ἐβδομ<supplied reason="omitted">ή</supplied>κον
+                    <lb n="4" break="no"/>βον</w> <measure type="currency" unit="denarius"><num value="720000"><w>ἐβδομ<supplied reason="omitted">ή</supplied>κον
                     <lb n="5" break="no"/>τα δύων μυριά
-                    <lb n="6" break="no"/>δων</num></measure> <w>ὁπόθεν</w> <w>αὐ
+                    <lb n="6" break="no"/>δων</w></num></measure> <w>ὁπόθεν</w> <w>αὐ
                     <lb n="7" break="no"/>τὴ</w> <w>κεῖτ<choice><corr>α</corr><sic>λ</sic></choice>ι</w> <w>ὧδαι</w>
                 </ab>
             </div>

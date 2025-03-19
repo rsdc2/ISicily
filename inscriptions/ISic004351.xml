@@ -196,7 +196,7 @@
                     <lb n="0a"/><gap reason="lost" extent="unknown" unit="line"/>
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">Χρη</supplied><unclear>σ</unclear>τὰ</w>
                     <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">ἔζ</supplied>ησεν</w>
-                    <lb n="0b"/><w><supplied reason="lost">ἔτη</supplied></w> <num><gap reason="lost" extent="unknown" unit="character"/></num>
+                    <lb n="0b"/><w><supplied reason="lost">ἔτη</supplied></w> <num><w><gap reason="lost" extent="unknown" unit="character"/></w></num>
                 </ab>
             </div>
             <div type="apparatus">

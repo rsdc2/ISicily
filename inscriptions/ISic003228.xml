@@ -194,7 +194,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
-                    <lb n="1"/><w>Draucus</w> <name>Pie</name>
+                    <lb n="1"/><w>Draucus</w> <name><w>Pie</w></name>
                     <lb n="2"/><w>matri</w> <w>piissime</w>
                     <lb n="3"/><w>fecit</w>
                 </ab>

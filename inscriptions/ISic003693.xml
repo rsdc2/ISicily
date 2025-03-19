@@ -188,11 +188,11 @@
             <div type="edition" xml:space="preserve" subtype="PHI" n="PHI329927">
                 <ab>
                     <lb n="1"/><w>χαῖρε</w>
-                    <lb n="2"/><name><expan><abbr>Π</abbr><ex>ούβλιος</ex></expan></name> <name>Αἴλιος</name> <name>Ἑρμόλαος</name>
-                    <lb n="3"/><name>Περγαμηνὸς</name> <w>κωμῳδὸς</w>
+                    <lb n="2"/><name><w><expan><abbr>Π</abbr><ex>ούβλιος</ex></expan></w></name> <name><w>Αἴλιος</w></name> <name><w>Ἑρμόλαος</w></name>
+                    <lb n="3"/><name><w>Περγαμηνὸς</w></name> <w>κωμῳδὸς</w>
                     <lb n="4"/><w>καὶ</w> <w>λυριστής·</w> <w>ἐβίωσεν</w>
-                    <lb n="5"/><w>ἔτη</w> <name>∶</name> <w>κεʹ</w> <name>⋮</name> <w>ὑγίαινε.</w>
-                    <lb n="6"/><name><expan><abbr>Θ</abbr><ex>εοῖς</ex></expan></name> <name><expan><abbr>Κ</abbr><ex>αταχθονίοις</ex></expan></name> <name>.</name>
+                    <lb n="5"/><w>ἔτη</w> <name><w>∶</w></name> <w>κεʹ</w> <name><w>⋮</w></name> <w>ὑγίαινε.</w>
+                    <lb n="6"/><name><w><expan><abbr>Θ</abbr><ex>εοῖς</ex></expan></w></name> <name><w><expan><abbr>Κ</abbr><ex>αταχθονίοις</ex></expan></w></name> <name><w>.</w></name>
                     <lb n="7"/>
                 </ab>
             </div>

@@ -190,11 +190,11 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
                     <lb n="1"/><w>Ἀνεπαύσατο</w>
-                    <lb n="2"/><w>ἡ</w> <w>μεικρὰ</w> <name>Νικοστράτη</name>
-                    <lb n="3"/><w>τῇ</w> <w>πρὸ</w> <num value="14">ιδ</num> <w><expan><abbr>κα<supplied reason="lost">λαν</supplied></abbr><supplied reason="lost"><ex>δῶν</ex></supplied></expan></w> <name>Ἰουνίων</name>
-                    <lb n="4"/><w>ἡμέρᾳ</w> <name>Ἑρμοῦ</name> <w>ὥραν</w> <w>δεκάτην</w>
-                    <lb n="5"/><w>καὶ</w> <w>κατετέθη</w> <w>τῇ</w> <w>πρὸ</w> <num value="12">ιβ</num> <w><expan><abbr>καλ</abbr><ex>ανδῶν</ex></expan></w> <name>Ἰ<supplied reason="lost">ο</supplied>υνί<supplied reason="lost">ων</supplied></name>
-                    <lb n="6"/><w>ἡμέρᾳ</w> <name>Ἀφροδίτης</name>
+                    <lb n="2"/><w>ἡ</w> <w>μεικρὰ</w> <name><w>Νικοστράτη</w></name>
+                    <lb n="3"/><w>τῇ</w> <w>πρὸ</w> <num value="14"><w>ιδ</w></num> <w><expan><abbr>κα<supplied reason="lost">λαν</supplied></abbr><supplied reason="lost"><ex>δῶν</ex></supplied></expan></w> <name><w>Ἰουνίων</w></name>
+                    <lb n="4"/><w>ἡμέρᾳ</w> <name><w>Ἑρμοῦ</w></name> <w>ὥραν</w> <w>δεκάτην</w>
+                    <lb n="5"/><w>καὶ</w> <w>κατετέθη</w> <w>τῇ</w> <w>πρὸ</w> <num value="12"><w>ιβ</w></num> <w><expan><abbr>καλ</abbr><ex>ανδῶν</ex></expan></w> <name><w>Ἰ<supplied reason="lost">ο</supplied>υνί<supplied reason="lost">ων</supplied></w></name>
+                    <lb n="6"/><w>ἡμέρᾳ</w> <name><w>Ἀφροδίτης</w></name>
                 </ab>
             </div>
             <div type="apparatus">

@@ -191,10 +191,10 @@
         <body>
          <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>Γ</abbr><ex>αΐου</ex></expan></w> <name>Πουβλειλί
-                    <lb n="2" break="no"/>ου</name> <name>Γόργου</name>
-                    <lb n="3"/><name>Κλωδίας</name>
-                    <lb n="4"/><name>Ἱλάρας</name>
+                    <lb n="1"/><w><expan><abbr>Γ</abbr><ex>αΐου</ex></expan></w> <name><w>Πουβλειλί
+                    <lb n="2" break="no"/>ου</w></name> <name><w>Γόργου</w></name>
+                    <lb n="3"/><name><w>Κλωδίας</w></name>
+                    <lb n="4"/><name><w>Ἱλάρας</w></name>
                 </ab>
             </div>
             <div type="apparatus">

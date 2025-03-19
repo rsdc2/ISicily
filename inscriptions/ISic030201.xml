@@ -185,14 +185,14 @@
                 <div type="textpart" subtype="section" n="a">
                     <ab>
                         <milestone unit="face" n="a"/>
-                        <lb n="1"/><handShift new="#h1"/><persName type="attested"><name type="idionym">Ξενοκράτε̄ς</name> <persName type="attested"><name type="patronym"><seg part="I"><unclear>Α</unclear></seg><gap reason="lost" extent="unknown" unit="character"/></name></persName></persName>
+                        <lb n="1"/><handShift new="#h1"/><persName type="attested"><name type="idionym"><w>Ξενοκράτε̄ς</w></name> <persName type="attested"><name type="patronym"><w><seg part="I"><unclear>Α</unclear></seg><gap reason="lost" extent="unknown" unit="character"/></w></name></persName></persName>
                     </ab>
                 </div>
                 <div type="textpart" subtype="section" n="b">
                     <ab>
                         <milestone unit="face" n="b"/>
                         <lb n="1"/><handShift new="#h2"/><orig>ΤΑΚ</orig><gap reason="illegible" quantity="1" unit="character"/> <orig>ΔΟΣ</orig>
-                        <lb n="1"/><handShift new="#h1"/><num value="2">δευτέρας</num> <w>φάτρ<unclear>α</unclear><supplied reason="lost">ς</supplied></w>
+                        <lb n="1"/><handShift new="#h1"/><num value="2"><w>δευτέρας</w></num> <w>φάτρ<unclear>α</unclear><supplied reason="lost">ς</supplied></w>
                     </ab>
                 </div>
             </div>

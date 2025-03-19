@@ -199,8 +199,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1" xml:id="CυyAK"/><w xml:id="CυyAU">Διὸς</w> <name xml:id="CυyAe">Σωτῆ
-                    <lb n="2" break="no" xml:id="CυyAo"/>ρος</name> <name xml:id="CυyAy">Ἱέρωνος</name>
+                    <lb n="1" xml:id="CυyAK"/><w xml:id="CυyAU">Διὸς</w> <name xml:id="CυyAe"><w>Σωτῆ
+                    <lb n="2" break="no" xml:id="CυyAo"/>ρος</w></name> <name xml:id="CυyAy"><w>Ἱέρωνος</w></name>
                 </ab>
             </div>
             <div type="apparatus">

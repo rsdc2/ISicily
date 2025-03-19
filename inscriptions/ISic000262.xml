@@ -193,9 +193,9 @@
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#VM">
                 <ab>
                     <lb n="1"/><w>Aquae</w>
-                    <lb n="2"/><name>Corneliae</name>
+                    <lb n="2"/><name><w>Corneliae</w></name>
                     <lb n="3"/><w>ductus</w>
-                    <lb n="4"/><w><expan><abbr>p</abbr><ex>edes</ex></expan></w> <num value="20">XX</num>
+                    <lb n="4"/><w><expan><abbr>p</abbr><ex>edes</ex></expan></w> <num value="20"><w>XX</w></num>
                 </ab>
             </div>
             <div type="apparatus">

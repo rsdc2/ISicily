@@ -222,9 +222,9 @@
         <body>
        <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name>Κελαδι<hi rend="ligature">αν</hi>ὸς</name></persName>, <persName type="attested"><name>Λάλος</name></persName>, <persName type="attested"><name>Ῥ<hi rend="ligature">οῦ</hi>φος</name></persName>
-                    <lb n="2"/><persName type="attested"><name>Φησεῖνος</name></persName>, <persName type="attested"><name>Εὐσέ<hi rend="ligature">βη</hi>ς</name></persName>
-                    <lb n="3"/><persName type="attested"><name>Παυ<hi rend="ligature">λεῖ</hi>νος</name></persName> <w>εὐφράνθησαν</w>
+                    <lb n="1"/><persName type="attested"><name><w>Κελαδι<hi rend="ligature">αν</hi>ὸς</w></name></persName>, <persName type="attested"><name><w>Λάλος</w></name></persName>, <persName type="attested"><name><w>Ῥ<hi rend="ligature">οῦ</hi>φος</w></name></persName>
+                    <lb n="2"/><persName type="attested"><name><w>Φησεῖνος</w></name></persName>, <persName type="attested"><name><w>Εὐσέ<hi rend="ligature">βη</hi>ς</w></name></persName>
+                    <lb n="3"/><persName type="attested"><name><w>Παυ<hi rend="ligature">λεῖ</hi>νος</w></name></persName> <w>εὐφράνθησαν</w>
                 </ab>
             </div>
             <div type="apparatus">

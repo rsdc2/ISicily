@@ -206,9 +206,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <name><expan><abbr>M</abbr><ex>anibus</ex></expan></name> <g ref="#interpunct">·</g> <w><expan><abbr>s</abbr><ex>acrum</ex></expan></w>
-                    <lb n="2"/><persName type="attested"><name>Tyche</name></persName> <w>vixit</w> <w>annis</w>
-                    <lb n="3"/><num value="14">XIIII</num> <g ref="#interpunct">·</g> <w><expan><abbr>men</abbr><ex>sibus</ex></expan></w> <g ref="#interpunct">·</g> <num value="3">III</num> <g ref="#interpunct">·</g> <w><expan><abbr>dieb</abbr><ex>us</ex></expan></w> <g ref="#interpunct">·</g> <num value="21">XXI</num> <g ref="#interpunct">·</g>
+                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <name><w><expan><abbr>M</abbr><ex>anibus</ex></expan></w></name> <g ref="#interpunct">·</g> <w><expan><abbr>s</abbr><ex>acrum</ex></expan></w>
+                    <lb n="2"/><persName type="attested"><name><w>Tyche</w></name></persName> <w>vixit</w> <w>annis</w>
+                    <lb n="3"/><num value="14"><w>XIIII</w></num> <g ref="#interpunct">·</g> <w><expan><abbr>men</abbr><ex>sibus</ex></expan></w> <g ref="#interpunct">·</g> <num value="3"><w>III</w></num> <g ref="#interpunct">·</g> <w><expan><abbr>dieb</abbr><ex>us</ex></expan></w> <g ref="#interpunct">·</g> <num value="21"><w>XXI</w></num> <g ref="#interpunct">·</g>
                     <lb n="4"/><w>parentes</w> <w>fecerunt</w>
                 </ab>
             </div>

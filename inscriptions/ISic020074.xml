@@ -174,7 +174,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="xly-Grek">
                 <ab>
-                    <lb n="1"/><measure type="currency" unit="drachma"><num value="4">ΙΙΙΙ</num></measure> <measure type="currency" unit="obolos"><num value="1"><g type="val02"/></num></measure><note>uncertain interpretation</note>
+                    <lb n="1"/><measure type="currency" unit="drachma"><num value="4"><w>ΙΙΙΙ</w></num></measure> <measure type="currency" unit="obolos"><num value="1"><w><g type="val02"/></w></num></measure><note>uncertain interpretation</note>
                 </ab>
             </div>
             <div type="edition" xml:space="preserve" subtype="transliteration" xml:lang="xly-Latn">

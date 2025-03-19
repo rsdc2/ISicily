@@ -186,21 +186,21 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#MB">
                 <ab>
                     <cb n="1"/><!-- in the edition the comulns are nunbered with letters, this is A -->
-                    <lb n="1"/><persName type="attested"><name>Πρατοτᾶς</name></persName>
-                    <lb n="2"/><persName type="attested"><name>Ὄλυ<supplied reason="omitted">ν</supplied>πις</name></persName>
-                    <lb n="3"/><persName type="attested"><name>Δεινίας</name></persName>
-                    <lb n="4"/><persName type="attested"><name>Κί<unclear>β</unclear>ον</name></persName> <cb n="2"/><!-- in the edition this is column B -->
-                    <lb n="5"/><persName type="attested"><name>Χάριλος</name></persName>
-                    <lb n="6"/><persName type="attested"><name>Μένυλλος</name></persName>
-                    <lb n="7"/><persName type="attested"><name>Μιτιάδας</name></persName>
-                    <lb n="8"/><persName type="attested"><name>Δεινίας</name></persName>
-                    <lb n="9"/><persName type="attested"><name>Φιλείας</name></persName>
-                    <lb n="10"/><persName type="attested"><name>Τελέτας</name></persName>
-                    <lb n="11"/><persName type="attested"><name>Ηιστίαρχ<supplied reason="omitted">ο</supplied>ς</name></persName> <cb n="3"/><!-- in the edition this is column C -->
-                    <lb n="12"/><persName type="attested"><name>Ἀ<supplied reason="omitted">ν</supplied>δρίσκος</name></persName>
-                    <lb n="13"/><persName type="attested"><name>Φίλαινος</name></persName>
-                    <lb n="14"/><persName type="attested"><name>Δεῖνις</name></persName>
-                    <lb n="15"/><persName type="attested"><name>Ἀτ<gap reason="illegible" quantity="1" unit="character"/><unclear>ο</unclear>φδας</name></persName>
+                    <lb n="1"/><persName type="attested"><name><w>Πρατοτᾶς</w></name></persName>
+                    <lb n="2"/><persName type="attested"><name><w>Ὄλυ<supplied reason="omitted">ν</supplied>πις</w></name></persName>
+                    <lb n="3"/><persName type="attested"><name><w>Δεινίας</w></name></persName>
+                    <lb n="4"/><persName type="attested"><name><w>Κί<unclear>β</unclear>ον</w></name></persName> <cb n="2"/><!-- in the edition this is column B -->
+                    <lb n="5"/><persName type="attested"><name><w>Χάριλος</w></name></persName>
+                    <lb n="6"/><persName type="attested"><name><w>Μένυλλος</w></name></persName>
+                    <lb n="7"/><persName type="attested"><name><w>Μιτιάδας</w></name></persName>
+                    <lb n="8"/><persName type="attested"><name><w>Δεινίας</w></name></persName>
+                    <lb n="9"/><persName type="attested"><name><w>Φιλείας</w></name></persName>
+                    <lb n="10"/><persName type="attested"><name><w>Τελέτας</w></name></persName>
+                    <lb n="11"/><persName type="attested"><name><w>Ηιστίαρχ<supplied reason="omitted">ο</supplied>ς</w></name></persName> <cb n="3"/><!-- in the edition this is column C -->
+                    <lb n="12"/><persName type="attested"><name><w>Ἀ<supplied reason="omitted">ν</supplied>δρίσκος</w></name></persName>
+                    <lb n="13"/><persName type="attested"><name><w>Φίλαινος</w></name></persName>
+                    <lb n="14"/><persName type="attested"><name><w>Δεῖνις</w></name></persName>
+                    <lb n="15"/><persName type="attested"><name><w>Ἀτ<gap reason="illegible" quantity="1" unit="character"/><unclear>ο</unclear>φδας</w></name></persName>
                 </ab>
             </div>
             <div type="apparatus">

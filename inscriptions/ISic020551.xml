@@ -175,7 +175,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/><w>μ</w> <measure type="currency" unit="drachma"><num value="1">𐅂</num></measure> <measure type="currency" unit="obolos"><num value="4">ΙΙΙΙ</num></measure> <w>λε̄κυθίδες</w> <num value="120">ΗΔΔ</num>
+                    <lb n="1"/><w>μ</w> <measure type="currency" unit="drachma"><num value="1"><w>𐅂</w></num></measure> <measure type="currency" unit="obolos"><num value="4"><w>ΙΙΙΙ</w></num></measure> <w>λε̄κυθίδες</w> <num value="120"><w>ΗΔΔ</w></num>
                 </ab>
             </div>
             <div type="apparatus">

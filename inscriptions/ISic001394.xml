@@ -213,8 +213,8 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
                     <lb n="1" xml:id="BnoAK"/><w xml:id="BnoAU">Ἀπόλλωνι</w>
-                    <lb n="2" xml:id="BnoAe"/><name xml:id="BnoAo">Ἡράκ<supplied reason="omitted" xml:id="BnoAy">λ</supplied>ειος</name>
-                    <lb n="3" xml:id="BnoAΙ"/><name xml:id="BnoAΤ">Ἀρισ<unclear xml:id="BnoAε">τ</unclear>οφύλου</name>
+                    <lb n="2" xml:id="BnoAe"/><name xml:id="BnoAo"><w>Ἡράκ<supplied reason="omitted" xml:id="BnoAy">λ</supplied>ειος</w></name>
+                    <lb n="3" xml:id="BnoAΙ"/><name xml:id="BnoAΤ"><w>Ἀρισ<unclear xml:id="BnoAε">τ</unclear>οφύλου</w></name>
                     <lb n="4" xml:id="BnoAο"/><w xml:id="BnoBA">δεκυρεύσας</w>
                     <lb n="5" xml:id="BnoBK"/><w xml:id="BnoBU"><unclear xml:id="BnoBe">ἐ</unclear>κ</w> <w xml:id="BnoBo">τῶν</w> <w xml:id="BnoBy">ἰδίων</w>
                 </ab>

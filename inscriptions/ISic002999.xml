@@ -195,21 +195,21 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/><w>Χαριστήρια</w> <name>Παίδεσσι</name> <w>καὶ</w>
-                    <lb n="2"/><name>Ἄννᾳ</name> <w><unclear>κ</unclear><supplied reason="lost">αὶ</supplied></w> <w><choice><reg><supplied reason="lost">Ἀπ</supplied>όλλωνι</reg><orig><supplied reason="lost">Ἀπ</supplied>όλωνι</orig></choice></w>
-                    <lb n="3"/><w>ἐπὶ</w> <roleName type="civic.religious" subtype="amphipolos"><w>ἀμφιπόλου</w></roleName> <w>ἐ<supplied reason="lost">ν</supplied></w> <name><supplied reason="lost">Συρακούσ</supplied>αις</name> <gap reason="lost" quantity="1" unit="character"/>
-                    <lb n="4"/><name><expan><abbr>Α</abbr><ex>ὖλος</ex></expan></name> <name>Ματίου</name> <name>Σέστου</name> <roleName type="civic.religious" subtype="hiereus"><w>ἱερείας</w></roleName> <w>δὲ</w>
-                    <lb n="5"/><w>τᾶν</w> <name>Παίδων</name> <name>Καικιλίας</name>
-                    <lb n="6"/><w>οἱ</w> <w>παραγενόμενοι</w> <w>ποτὶ</w> <name>Νύ<supplied reason="omitted">μ</supplied>φας</name>
+                    <lb n="1"/><w>Χαριστήρια</w> <name><w>Παίδεσσι</w></name> <w>καὶ</w>
+                    <lb n="2"/><name><w>Ἄννᾳ</w></name> <w><unclear>κ</unclear><supplied reason="lost">αὶ</supplied></w> <w><choice><reg><supplied reason="lost">Ἀπ</supplied>όλλωνι</reg><orig><supplied reason="lost">Ἀπ</supplied>όλωνι</orig></choice></w>
+                    <lb n="3"/><w>ἐπὶ</w> <roleName type="civic.religious" subtype="amphipolos"><w>ἀμφιπόλου</w></roleName> <w>ἐ<supplied reason="lost">ν</supplied></w> <name><w><supplied reason="lost">Συρακούσ</supplied>αις</w></name> <gap reason="lost" quantity="1" unit="character"/>
+                    <lb n="4"/><name><w><expan><abbr>Α</abbr><ex>ὖλος</ex></expan></w></name> <name><w>Ματίου</w></name> <name><w>Σέστου</w></name> <roleName type="civic.religious" subtype="hiereus"><w>ἱερείας</w></roleName> <w>δὲ</w>
+                    <lb n="5"/><w>τᾶν</w> <name><w>Παίδων</w></name> <name><w>Καικιλίας</w></name>
+                    <lb n="6"/><w>οἱ</w> <w>παραγενόμενοι</w> <w>ποτὶ</w> <name><w>Νύ<supplied reason="omitted">μ</supplied>φας</w></name>
                     <lb n="7"/><w>καὶ</w> <w>εὐχαριστήσαντες</w> <w>μηνὸς</w>
-                    <lb n="8"/><name>Ἀπελλαίου</name> <w>τρίτᾳ</w> <name>Σέξτος</name>
-                    <lb n="9"/><name><expan><abbr>Α</abbr><ex>ὖλος</ex></expan></name> <g ref="#interpunct">·</g> <name>Μάρκις</name> <name>Λόν<supplied reason="lost">γος</supplied></name>
-                    <lb n="10"/><name><expan><abbr>Κ</abbr><ex>όϊντος</ex></expan></name> <g ref="#interpunct">·</g> <name>Ὄππις</name> <name>Κάνακις</name>
-                    <lb n="11"/><name><expan><abbr>Κ</abbr><ex>όϊντος</ex></expan></name> <g ref="#interpunct">·</g> <name>Ἄμπιους</name> <name>Κρήσκη<supplied reason="lost">ς</supplied></name>
-                    <lb n="12"/><gap reason="lost" quantity="1" unit="character"/> <name>Αἴλις</name> <name>Σελλά</name> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="13"/><name><expan><abbr>Κ</abbr><ex cert="low">όϊντος</ex></expan></name> <gap reason="lost" quantity="1" unit="character"/> <w>ήσις</w> <gap reason="lost" extent="unknown" unit="character"/> <w><unclear>ω</unclear>τιανός</w>
-                    <lb n="14"/><name><expan><abbr>Γ</abbr><ex>άϊος</ex></expan></name> <gap reason="lost" extent="unknown" unit="character"/> <w>ι<unclear>φ</unclear></w> <gap reason="lost" extent="unknown" unit="character"/> <w><unclear>κ</unclear>ρατος</w>
-                    <lb n="15"/><name><expan><abbr>Γ</abbr><ex>άϊος</ex></expan></name> <gap reason="lost" extent="unknown" unit="character"/> <w>μητος</w>
+                    <lb n="8"/><name><w>Ἀπελλαίου</w></name> <w>τρίτᾳ</w> <name><w>Σέξτος</w></name>
+                    <lb n="9"/><name><w><expan><abbr>Α</abbr><ex>ὖλος</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w>Μάρκις</w></name> <name><w>Λόν<supplied reason="lost">γος</supplied></w></name>
+                    <lb n="10"/><name><w><expan><abbr>Κ</abbr><ex>όϊντος</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w>Ὄππις</w></name> <name><w>Κάνακις</w></name>
+                    <lb n="11"/><name><w><expan><abbr>Κ</abbr><ex>όϊντος</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w>Ἄμπιους</w></name> <name><w>Κρήσκη<supplied reason="lost">ς</supplied></w></name>
+                    <lb n="12"/><gap reason="lost" quantity="1" unit="character"/> <name><w>Αἴλις</w></name> <name><w>Σελλά</w></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="13"/><name><w><expan><abbr>Κ</abbr><ex cert="low">όϊντος</ex></expan></w></name> <gap reason="lost" quantity="1" unit="character"/> <w>ήσις</w> <gap reason="lost" extent="unknown" unit="character"/> <w><unclear>ω</unclear>τιανός</w>
+                    <lb n="14"/><name><w><expan><abbr>Γ</abbr><ex>άϊος</ex></expan></w></name> <gap reason="lost" extent="unknown" unit="character"/> <w>ι<unclear>φ</unclear></w> <gap reason="lost" extent="unknown" unit="character"/> <w><unclear>κ</unclear>ρατος</w>
+                    <lb n="15"/><name><w><expan><abbr>Γ</abbr><ex>άϊος</ex></expan></w></name> <gap reason="lost" extent="unknown" unit="character"/> <w>μητος</w>
                 </ab>
             </div>
             <div type="apparatus">

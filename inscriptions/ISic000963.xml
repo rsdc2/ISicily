@@ -196,13 +196,13 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>Ἄλφ</abbr><ex>ιος</ex></expan></w> <name>Κλῶδις</name> <w>ἐτελεύτησεν</w> <w>πρὸ</w> <num value="8">η</num> <w><expan><abbr>εἰδ</abbr><ex>ῶν</ex></expan></w>
-                    <lb n="2"/><name><expan><abbr>Νοβεμ</abbr><ex>βρίων</ex></expan></name> <w><expan><abbr>ἡμέρ</abbr><ex>ᾳ</ex></expan></w> <name>Ἡλίου</name> <w>υἱὸς</w> <name>Λουκίου</name> <w>καὶ</w>
-                    <lb n="3"/><name>Καικει<supplied reason="omitted">λί</supplied>ας</name> <w>τῶν</w> <w>κειμένων</w> <w>ἰς</w> <w>τὸν</w> <w>πυ<supplied reason="omitted">λῶ</supplied><supplied reason="lost">να</supplied></w>
+                    <lb n="1"/><w><expan><abbr>Ἄλφ</abbr><ex>ιος</ex></expan></w> <name><w>Κλῶδις</w></name> <w>ἐτελεύτησεν</w> <w>πρὸ</w> <num value="8"><w>η</w></num> <w><expan><abbr>εἰδ</abbr><ex>ῶν</ex></expan></w>
+                    <lb n="2"/><name><w><expan><abbr>Νοβεμ</abbr><ex>βρίων</ex></expan></w></name> <w><expan><abbr>ἡμέρ</abbr><ex>ᾳ</ex></expan></w> <name><w>Ἡλίου</w></name> <w>υἱὸς</w> <name><w>Λουκίου</w></name> <w>καὶ</w>
+                    <lb n="3"/><name><w>Καικει<supplied reason="omitted">λί</supplied>ας</w></name> <w>τῶν</w> <w>κειμένων</w> <w>ἰς</w> <w>τὸν</w> <w>πυ<supplied reason="omitted">λῶ</supplied><supplied reason="lost">να</supplied></w>
                     <lb n="4"/><w>ἰσερχομένων</w> <w>ἰς</w> <w>δεξιά</w> <roleName type="civic" subtype="duumvir"><w>ἄρξας</w> <w>τὴν</w> <w>δευτέ
                     <lb n="5" break="no"/>ραν</w> <w>ἀρχὴν</w></roleName> <w>καὶ</w> <w>πρε<supplied reason="omitted">σ</supplied>βίας</w> <w>πρεσβεύ<supplied reason="omitted">σ</supplied>ας</w> <w>πρὸς</w>
-                    <lb n="6"/><roleName type="supracivic" subtype="imperator"><w>βασιλέα</w></roleName> <w>καὶ</w> <num value="3">γ</num> <w>παραπονπε͂ς·</w>
-                    <lb n="7"/><w><expan><abbr>ἔζησ</abbr><ex>εν</ex></expan></w> <w>ἔτη</w> <hi rend="supraline"><num value="31">λα</num></hi><w>μῆνες</w> <num value="10">ι</num> <w><expan><abbr>ἡμέ</abbr><ex>ραι</ex></expan></w> <hi rend="supraline"><num value="21">κα</num></hi>
+                    <lb n="6"/><roleName type="supracivic" subtype="imperator"><w>βασιλέα</w></roleName> <w>καὶ</w> <num value="3"><w>γ</w></num> <w>παραπονπε͂ς·</w>
+                    <lb n="7"/><w><expan><abbr>ἔζησ</abbr><ex>εν</ex></expan></w> <w>ἔτη</w> <hi rend="supraline"><num value="31"><w>λα</w></num></hi><w>μῆνες</w> <num value="10"><w>ι</w></num> <w><expan><abbr>ἡμέ</abbr><ex>ραι</ex></expan></w> <hi rend="supraline"><num value="21"><w>κα</w></num></hi>
                 </ab>
             </div>
             <div type="apparatus">

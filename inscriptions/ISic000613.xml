@@ -189,9 +189,9 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <div type="textpart" subtype="fragment-physical" n="a">
                     <ab>
-                        <lb n="1" xml:id="AΚeAK"/><w xml:id="AΚeAU">Καλλισθένης</w> <name xml:id="AΚeAe">Ὀλύν<supplied reason="lost" xml:id="AΚeAo">θιος</supplied></name>
-                        <lb n="2" xml:id="AΚeAy"/><w xml:id="AΚeAΙ">ἐγένετο</w> <w xml:id="AΚeAΤ">μὲν</w> <w xml:id="AΚeAε">κ<supplied reason="lost" xml:id="AΚeAο">αὶ</supplied></w> <name xml:id="AΚeBA"><supplied reason="lost" xml:id="AΚeBK">Ἀ</supplied>
-                        <lb n="3" break="no" xml:id="AΚeBU"/>λεξάνδρου</name> <w xml:id="AΚeBe">ἐπισ<supplied reason="lost" xml:id="AΚeBo">το</supplied>
+                        <lb n="1" xml:id="AΚeAK"/><w xml:id="AΚeAU">Καλλισθένης</w> <name xml:id="AΚeAe"><w>Ὀλύν<supplied reason="lost" xml:id="AΚeAo">θιος</supplied></w></name>
+                        <lb n="2" xml:id="AΚeAy"/><w xml:id="AΚeAΙ">ἐγένετο</w> <w xml:id="AΚeAΤ">μὲν</w> <w xml:id="AΚeAε">κ<supplied reason="lost" xml:id="AΚeAο">αὶ</supplied></w> <name xml:id="AΚeBA"><w><supplied reason="lost" xml:id="AΚeBK">Ἀ</supplied>
+                        <lb n="3" break="no" xml:id="AΚeBU"/>λεξάνδρου</w></name> <w xml:id="AΚeBe">ἐπισ<supplied reason="lost" xml:id="AΚeBo">το</supplied>
                         <lb n="4" break="no" xml:id="AΚeBy"/>λαγράφος</w> <w xml:id="AΚeBΙ">ἀπ’</w> <w xml:id="AΚeBΤ">οὗ</w> <w xml:id="AΚeBε"><unclear xml:id="AΚeBο">ἠ</unclear><supplied reason="lost" xml:id="AΚeCA">μ</supplied>
                         <lb n="5" break="no" xml:id="AΚeCK"/>πεδεκὼς</w> <w xml:id="AΚeCU">πράξε<supplied reason="lost" xml:id="AΚeCe">ις</supplied></w>
                         <lb n="6" xml:id="AΚeCo"/><w xml:id="AΚeCy">διαγράφειν</w> <w xml:id="AΚeCΙ">τῶν</w> <gap reason="lost" extent="unknown" unit="character" xml:id="AΚeCΤ"/>
@@ -200,7 +200,7 @@
                 </div>
                 <div type="textpart" subtype="fragment-physical" n="b">
                     <ab>
-                        <lb n="1" xml:id="AΚeDe"/><w xml:id="AΚeDo"><supplied reason="lost" cert="low" xml:id="AΚeDy">Φαίδ</supplied>ων</w> <name xml:id="AΚeDΙ">Ἠλεῖος</name>
+                        <lb n="1" xml:id="AΚeDe"/><w xml:id="AΚeDo"><supplied reason="lost" cert="low" xml:id="AΚeDy">Φαίδ</supplied>ων</w> <name xml:id="AΚeDΙ"><w>Ἠλεῖος</w></name>
                         <lb n="2" xml:id="AΚeDΤ"/><gap reason="lost" extent="unknown" unit="character" xml:id="AΚeDε"/> <orig xml:id="AΚeDο">Σ</orig>
                         <lb n="3" xml:id="AΚeEA"/><gap reason="lost" extent="unknown" unit="character" xml:id="AΚeEK"/> <orig xml:id="AΚeEU">ΛΓ</orig><gap reason="lost" extent="unknown" unit="character" xml:id="AΚeEe"/>
                     </ab>
@@ -208,22 +208,22 @@
                 <div type="textpart" subtype="fragment-physical" n="c">
                     <ab>
                         <cb n="1" xml:id="AΚeEo"/>
-                        <lb n="1" xml:id="AΚeEy"/><w xml:id="AΚeEΙ"><supplied reason="lost" xml:id="AΚeEΤ">Κόι</supplied><unclear xml:id="AΚeEε">ν</unclear>τος</w> <name xml:id="AΚeEο">Φά<unclear xml:id="AΚeFA">β</unclear>ι<supplied reason="lost" xml:id="AΚeFK">ο</supplied>ς</name> <w xml:id="AΚeFU">ὁ</w> <name xml:id="AΚeFe">Πι
-                        <lb n="2" break="no" xml:id="AΚeFo"/><supplied reason="lost" xml:id="AΚeFy">κτω</supplied>ρῖνος</name> <w xml:id="AΚeFΙ">ἐπικαλού
-                        <lb n="3" break="no" xml:id="AΚeFΤ"/><supplied reason="lost" xml:id="AΚeFε">μεν</supplied>ος</w> <name xml:id="AΚeFο">Ῥωμαῖος</name> <name xml:id="AΚeGA">Γαΐου</name>
+                        <lb n="1" xml:id="AΚeEy"/><w xml:id="AΚeEΙ"><supplied reason="lost" xml:id="AΚeEΤ">Κόι</supplied><unclear xml:id="AΚeEε">ν</unclear>τος</w> <name xml:id="AΚeEο"><w>Φά<unclear xml:id="AΚeFA">β</unclear>ι<supplied reason="lost" xml:id="AΚeFK">ο</supplied>ς</w></name> <w xml:id="AΚeFU">ὁ</w> <name xml:id="AΚeFe"><w>Πι
+                        <lb n="2" break="no" xml:id="AΚeFo"/><supplied reason="lost" xml:id="AΚeFy">κτω</supplied>ρῖνος</w></name> <w xml:id="AΚeFΙ">ἐπικαλού
+                        <lb n="3" break="no" xml:id="AΚeFΤ"/><supplied reason="lost" xml:id="AΚeFε">μεν</supplied>ος</w> <name xml:id="AΚeFο"><w>Ῥωμαῖος</w></name> <name xml:id="AΚeGA"><w>Γαΐου</w></name>
                         <lb n="4" xml:id="AΚeGK"/><w xml:id="AΚeGU"><supplied reason="lost" xml:id="AΚeGe">υἱό</supplied>ς</w> <space unit="character" quantity="11" xml:id="AΚeGo"/>
                         <lb n="5" xml:id="AΚeGy"/><w xml:id="AΚeGΙ"><supplied reason="lost" xml:id="AΚeGΤ">ὃ</supplied>ς</w> <w xml:id="AΚeGε">ἱστόρηκεν</w> <w xml:id="AΚeGο">τὴν</w>
-                        <lb n="6" xml:id="AΚeHA"/><name xml:id="AΚeHK"><supplied reason="lost" xml:id="AΚeHU">Ἡ</supplied><unclear xml:id="AΚeHe">ρ</unclear>ακλέους</name> <w xml:id="AΚeHo">ἄφιξιν</w>
-                        <lb n="7" xml:id="AΚeHy"/><w xml:id="AΚeHΙ"><supplied reason="lost" xml:id="AΚeHΤ">εἰ</supplied>ς</w> <name xml:id="AΚeHε">Ἰταλίαν</name> <w xml:id="AΚeHο">καὶ</w> <w xml:id="AΚeIA">δ’</w> <w xml:id="AΚeIK">ἔτι</w>
-                        <lb n="8" xml:id="AΚeIU"/><w xml:id="AΚeIe"><supplied reason="lost" xml:id="AΚeIo">νόσ</supplied><unclear xml:id="AΚeIy">τ</unclear>ον</w> <name xml:id="AΚeIΙ">Λανοΐου</name> <w xml:id="AΚeIΤ">συμ
-                        <lb n="9" break="no" xml:id="AΚeIε"/><supplied reason="lost" xml:id="AΚeIο">μάχ</supplied>ου</w> <w xml:id="AΚeJA"><unclear xml:id="AΚeJK">τε</unclear></w> <name xml:id="AΚeJU">Αἰνεία</name> <w xml:id="AΚeJe">καὶ</w>
-                        <lb n="10" xml:id="AΚeJo"/><name xml:id="AΚeJy"><supplied reason="lost" xml:id="AΚeJΙ">Ἀσκα</supplied>νίου</name> <w xml:id="AΚeJΤ">πολὶ</w> <w xml:id="AΚeJε">ὕστε
-                        <lb n="11" break="no" xml:id="AΚeJο"/><supplied reason="lost" xml:id="AΚeKA">ρον</supplied></w> <w xml:id="AΚeKK"><supplied reason="lost" xml:id="AΚeKU">ἐγ</supplied>ένοντο</w> <name xml:id="AΚeKe">Ῥωμύλος</name>
-                        <lb n="12" xml:id="AΚeKo"/><w xml:id="AΚeKy"><supplied reason="lost" xml:id="AΚeKΙ">καὶ</supplied></w> <name xml:id="AΚeKΤ"><supplied reason="lost" xml:id="AΚeKε">Ῥ</supplied>έμος</name> <w xml:id="AΚeKο">καὶ</w> <name xml:id="AΚeLA">Ῥώμης</name>
-                        <lb n="13" xml:id="AΚeLK"/><w xml:id="AΚeLU"><supplied reason="lost" xml:id="AΚeLe">κτίσις</supplied></w> <w xml:id="AΚeLo"><supplied reason="lost" xml:id="AΚeLy">ὑ</supplied>πὸ</w> <name xml:id="AΚeLΙ">Ῥωμύλου<supplied reason="lost" xml:id="AΚeLΤ">ὃς</supplied></name>
+                        <lb n="6" xml:id="AΚeHA"/><name xml:id="AΚeHK"><w><supplied reason="lost" xml:id="AΚeHU">Ἡ</supplied><unclear xml:id="AΚeHe">ρ</unclear>ακλέους</w></name> <w xml:id="AΚeHo">ἄφιξιν</w>
+                        <lb n="7" xml:id="AΚeHy"/><w xml:id="AΚeHΙ"><supplied reason="lost" xml:id="AΚeHΤ">εἰ</supplied>ς</w> <name xml:id="AΚeHε"><w>Ἰταλίαν</w></name> <w xml:id="AΚeHο">καὶ</w> <w xml:id="AΚeIA">δ’</w> <w xml:id="AΚeIK">ἔτι</w>
+                        <lb n="8" xml:id="AΚeIU"/><w xml:id="AΚeIe"><supplied reason="lost" xml:id="AΚeIo">νόσ</supplied><unclear xml:id="AΚeIy">τ</unclear>ον</w> <name xml:id="AΚeIΙ"><w>Λανοΐου</w></name> <w xml:id="AΚeIΤ">συμ
+                        <lb n="9" break="no" xml:id="AΚeIε"/><supplied reason="lost" xml:id="AΚeIο">μάχ</supplied>ου</w> <w xml:id="AΚeJA"><unclear xml:id="AΚeJK">τε</unclear></w> <name xml:id="AΚeJU"><w>Αἰνεία</w></name> <w xml:id="AΚeJe">καὶ</w>
+                        <lb n="10" xml:id="AΚeJo"/><name xml:id="AΚeJy"><w><supplied reason="lost" xml:id="AΚeJΙ">Ἀσκα</supplied>νίου</w></name> <w xml:id="AΚeJΤ">πολὶ</w> <w xml:id="AΚeJε">ὕστε
+                        <lb n="11" break="no" xml:id="AΚeJο"/><supplied reason="lost" xml:id="AΚeKA">ρον</supplied></w> <w xml:id="AΚeKK"><supplied reason="lost" xml:id="AΚeKU">ἐγ</supplied>ένοντο</w> <name xml:id="AΚeKe"><w>Ῥωμύλος</w></name>
+                        <lb n="12" xml:id="AΚeKo"/><w xml:id="AΚeKy"><supplied reason="lost" xml:id="AΚeKΙ">καὶ</supplied></w> <name xml:id="AΚeKΤ"><w><supplied reason="lost" xml:id="AΚeKε">Ῥ</supplied>έμος</w></name> <w xml:id="AΚeKο">καὶ</w> <name xml:id="AΚeLA"><w>Ῥώμης</w></name>
+                        <lb n="13" xml:id="AΚeLK"/><w xml:id="AΚeLU"><supplied reason="lost" xml:id="AΚeLe">κτίσις</supplied></w> <w xml:id="AΚeLo"><supplied reason="lost" xml:id="AΚeLy">ὑ</supplied>πὸ</w> <name xml:id="AΚeLΙ"><w>Ῥωμύλου<supplied reason="lost" xml:id="AΚeLΤ">ὃς</supplied></w></name>
                         <lb n="14" xml:id="AΚeLε"/><w xml:id="AΚeLο"><supplied reason="lost" xml:id="AΚeMA">πρῶτο</supplied><unclear xml:id="AΚeMK">ς</unclear></w> <w xml:id="AΚeMU">βεβασί<supplied reason="lost" xml:id="AΚeMe">λευκεν</supplied></w> <gap reason="lost" extent="unknown" unit="character" xml:id="AΚeMo"/> <cb n="2" xml:id="AΚeMy"/>
-                        <lb n="1" xml:id="AΚeMΙ"/><name xml:id="AΚeMΤ">Φίλιστος</name> <name xml:id="AΚeMε">Συρακόσ<supplied reason="lost" xml:id="AΚeMο">ιος</supplied></name>
-                        <lb n="2" xml:id="AΚeNA"/><w xml:id="AΚeNK">τοῦτον</w> <name xml:id="AΚeNU">Εὐήνου</name> <w xml:id="AΚeNe"><unclear xml:id="AΚeNo">σο</unclear><supplied reason="lost" cert="low" xml:id="AΚeNy">φοῦ</supplied></w>
+                        <lb n="1" xml:id="AΚeMΙ"/><name xml:id="AΚeMΤ"><w>Φίλιστος</w></name> <name xml:id="AΚeMε"><w>Συρακόσ<supplied reason="lost" xml:id="AΚeMο">ιος</supplied></w></name>
+                        <lb n="2" xml:id="AΚeNA"/><w xml:id="AΚeNK">τοῦτον</w> <name xml:id="AΚeNU"><w>Εὐήνου</w></name> <w xml:id="AΚeNe"><unclear xml:id="AΚeNo">σο</unclear><supplied reason="lost" cert="low" xml:id="AΚeNy">φοῦ</supplied></w>
                         <lb n="3" xml:id="AΚeNΙ"/><w xml:id="AΚeNΤ">φασὶ</w> <w xml:id="AΚeNε">γενέσθαι</w> <w xml:id="AΚeNο">μαθη
                         <lb n="4" break="no" xml:id="AΚeOA"/>τὴν</w> <w xml:id="AΚeOK">τοῦ</w> <w xml:id="AΚeOU">τὰς</w> <w xml:id="AΚeOe">ἐλεγείας</w>
                         <lb n="5" xml:id="AΚeOo"/><w xml:id="AΚeOy"><supplied reason="lost" xml:id="AΚeOΙ">γ</supplied>ράψαντος</w> <w xml:id="AΚeOΤ">πρῶτον</w> <w xml:id="AΚeOε">ἄσ
@@ -244,9 +244,9 @@
                 </div>
                 <div type="textpart" subtype="fragment-physical" n="e">
                     <ab>
-                        <lb n="1" xml:id="AΚeTο"/><w xml:id="AΚeUA">Ἀναξίμανδρος</w> <name xml:id="AΚeUK"><unclear xml:id="AΚeUU">Πρ</unclear>αξ<unclear xml:id="AΚeUe">ι</unclear>
-                        <lb n="2" break="no" xml:id="AΚeUo"/><unclear xml:id="AΚeUy">ά</unclear>δου</name> <name xml:id="AΚeUΙ">Μιλήσιος</name> <space unit="character" extent="unknown" xml:id="AΚeUΤ"/>
-                        <lb n="3" xml:id="AΚeUε"/><space unit="character" quantity="1" xml:id="AΚeUο"/><w xml:id="AΚeVA"><unclear xml:id="AΚeVK">ἐ</unclear>γέ<supplied reason="lost" xml:id="AΚeVU">ν</supplied>ε<unclear xml:id="AΚeVe">τ</unclear>ο</w> <w xml:id="AΚeVo">μὲν</w> <name xml:id="AΚeVy">Θ<supplied reason="lost" xml:id="AΚeVΙ">αλ</supplied>έω</name>
+                        <lb n="1" xml:id="AΚeTο"/><w xml:id="AΚeUA">Ἀναξίμανδρος</w> <name xml:id="AΚeUK"><w><unclear xml:id="AΚeUU">Πρ</unclear>αξ<unclear xml:id="AΚeUe">ι</unclear>
+                        <lb n="2" break="no" xml:id="AΚeUo"/><unclear xml:id="AΚeUy">ά</unclear>δου</w></name> <name xml:id="AΚeUΙ"><w>Μιλήσιος</w></name> <space unit="character" extent="unknown" xml:id="AΚeUΤ"/>
+                        <lb n="3" xml:id="AΚeUε"/><space unit="character" quantity="1" xml:id="AΚeUο"/><w xml:id="AΚeVA"><unclear xml:id="AΚeVK">ἐ</unclear>γέ<supplied reason="lost" xml:id="AΚeVU">ν</supplied>ε<unclear xml:id="AΚeVe">τ</unclear>ο</w> <w xml:id="AΚeVo">μὲν</w> <name xml:id="AΚeVy"><w>Θ<supplied reason="lost" xml:id="AΚeVΙ">αλ</supplied>έω</w></name>
                         <lb n="4" xml:id="AΚeVΤ"/><gap reason="lost" unit="character" extent="unknown" xml:id="AΚeVε"/> <orig xml:id="AΚeVο"><unclear xml:id="AΚeWA">Λ</unclear></orig><gap reason="lost" unit="character" extent="unknown" xml:id="AΚeWK"/>
                         <lb n="5" xml:id="AΚeWU"/><orig xml:id="AΚeWe"><unclear xml:id="AΚeWo">Μ</unclear></orig><gap reason="lost" unit="character" extent="unknown" xml:id="AΚeWy"/>
                         <lb n="6" xml:id="AΚeWΙ"/><gap reason="lost" unit="character" extent="unknown" xml:id="AΚeWΤ"/>

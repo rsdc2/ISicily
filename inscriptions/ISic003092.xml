@@ -193,8 +193,8 @@
                 <ab>
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <orig>ΤΩΝ</orig><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <orig>ΗΘΗΗ</orig><gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="3"/><w><supplied reason="lost">τε͂ς</supplied></w> <w><supplied reason="lost">μηνὸς</supplied></w> <w><supplied reason="lost">ἰουλί</supplied>ου</w> <num value="10">δέ<supplied reason="lost">κα</supplied></num> <w><supplied reason="lost">ἐν</supplied></w> <w><supplied reason="lost">τῇ</supplied></w>
-                    <lb n="4"/><roleName type="supracivic" subtype="consul"><w><supplied reason="lost">ὑπατί</supplied></w> <w>ᾳ</w></roleName> <name><expan><abbr>Βα<supplied reason="lost">λεντ</supplied></abbr><ex>ινιανοῦ</ex></expan></name> <w><supplied reason="lost"><expan><abbr>κ</abbr><ex>αὶ</ex></expan></supplied></w> <name><expan><abbr>Βα<supplied reason="lost">λεντ</supplied></abbr><ex>ίου</ex></expan></name>
+                    <lb n="3"/><w><supplied reason="lost">τε͂ς</supplied></w> <w><supplied reason="lost">μηνὸς</supplied></w> <w><supplied reason="lost">ἰουλί</supplied>ου</w> <num value="10"><w>δέ<supplied reason="lost">κα</supplied></w></num> <w><supplied reason="lost">ἐν</supplied></w> <w><supplied reason="lost">τῇ</supplied></w>
+                    <lb n="4"/><roleName type="supracivic" subtype="consul"><w><supplied reason="lost">ὑπατί</supplied></w> <w>ᾳ</w></roleName> <name><w><expan><abbr>Βα<supplied reason="lost">λεντ</supplied></abbr><ex>ινιανοῦ</ex></expan></w></name> <w><supplied reason="lost"><expan><abbr>κ</abbr><ex>αὶ</ex></expan></supplied></w> <name><w><expan><abbr>Βα<supplied reason="lost">λεντ</supplied></abbr><ex>ίου</ex></expan></w></name>
                 </ab>
             </div>
             <div type="apparatus">

@@ -194,13 +194,13 @@
             <div type="edition" xml:space="preserve" xml:lang="la">
                 <ab>
                     <lb n="1"/><g ref="#corona"/>
-                    <lb n="2"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <name><expan><abbr>M</abbr><ex>anibus</ex></expan></name>
-                    <lb n="3"/><name><expan><abbr>Cn</abbr><ex>aeus</ex></expan></name> <g ref="#interpunct">·</g> <name>Iulius</name> <name>Fe
-                    <lb n="4" break="no"/>lix</name> <g ref="#interpunct">·</g> <name><expan><abbr>Cn</abbr><ex>aeo</ex></expan></name> <g ref="#interpunct">·</g> <name>Iulio</name>
-                    <lb n="5"/><name>Felici</name> <w>filio</w>
+                    <lb n="2"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <name><w><expan><abbr>M</abbr><ex>anibus</ex></expan></w></name>
+                    <lb n="3"/><name><w><expan><abbr>Cn</abbr><ex>aeus</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w>Iulius</w></name> <name><w>Fe
+                    <lb n="4" break="no"/>lix</w></name> <g ref="#interpunct">·</g> <name><w><expan><abbr>Cn</abbr><ex>aeo</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w>Iulio</w></name>
+                    <lb n="5"/><name><w>Felici</w></name> <w>filio</w>
                     <lb n="6"/><w>qui</w> <w><expan><abbr>vix</abbr><ex>it</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>ann</abbr><ex>os</ex></expan></w>
-                    <lb n="7"/><num value="2">II</num> <g ref="#interpunct">·</g> <w><expan><abbr>men</abbr><ex>sis</ex></expan></w> <g ref="#interpunct">·</g> <num value="9">VIIII</num>
-                    <lb n="8"/><w><expan><abbr>die</abbr><ex>s</ex></expan></w> <g ref="#interpunct">·</g> <num value="1">uno</num>
+                    <lb n="7"/><num value="2"><w>II</w></num> <g ref="#interpunct">·</g> <w><expan><abbr>men</abbr><ex>sis</ex></expan></w> <g ref="#interpunct">·</g> <num value="9"><w>VIIII</w></num>
+                    <lb n="8"/><w><expan><abbr>die</abbr><ex>s</ex></expan></w> <g ref="#interpunct">·</g> <num value="1"><w>uno</w></num>
                     <lb n="9"/><gap reason="lost" extent="unknown" unit="line"/>
                 </ab>
             </div>

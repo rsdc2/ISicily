@@ -192,10 +192,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#VM">
                 <ab>
-                    <lb n="1"/><w>Pacilia</w> <g ref="#interpunct">·</g> <name><hi rend="ligature">Te</hi><hi rend="ligature">chne</hi></name>
-                    <lb n="2"/><w><expan><abbr>v</abbr><ex>ixit</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>a</abbr><ex>nnis</ex></expan></w> <g ref="#interpunct">·</g> <num value="2">II</num> <g ref="#interpunct">·</g> <w><expan><abbr>m</abbr><ex>ensibus</ex></expan></w> <g ref="#interpunct">·</g> <num value="2">II</num> <w><expan><abbr>d</abbr><ex>iebus</ex></expan></w> <g ref="#interpunct">·</g> <num value="27">XX<hi rend="superscript">VII</hi></num>
-                    <lb n="3"/><name>Veteranus</name> <g ref="#interpunct">·</g> <w>et</w> <g ref="#interpunct">·</g>
-                    <lb n="4"/><name>Apolauste</name> <w><expan><abbr>par</abbr><ex>entes</ex></expan></w> <g ref="#interpunct">·</g>
+                    <lb n="1"/><w>Pacilia</w> <g ref="#interpunct">·</g> <name><w><hi rend="ligature">Te</hi><hi rend="ligature">chne</hi></w></name>
+                    <lb n="2"/><w><expan><abbr>v</abbr><ex>ixit</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>a</abbr><ex>nnis</ex></expan></w> <g ref="#interpunct">·</g> <num value="2"><w>II</w></num> <g ref="#interpunct">·</g> <w><expan><abbr>m</abbr><ex>ensibus</ex></expan></w> <g ref="#interpunct">·</g> <num value="2"><w>II</w></num> <w><expan><abbr>d</abbr><ex>iebus</ex></expan></w> <g ref="#interpunct">·</g> <num value="27"><w>XX<hi rend="superscript">VII</hi></w></num>
+                    <lb n="3"/><name><w>Veteranus</w></name> <g ref="#interpunct">·</g> <w>et</w> <g ref="#interpunct">·</g>
+                    <lb n="4"/><name><w>Apolauste</w></name> <w><expan><abbr>par</abbr><ex>entes</ex></expan></w> <g ref="#interpunct">·</g>
                 </ab>
             </div>
             <div type="apparatus">

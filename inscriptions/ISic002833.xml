@@ -194,14 +194,14 @@
            <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
                     <lb n="1"/><w><supplied reason="lost">ἐν ὀνόματι τοῦ πατρὸς<expan><abbr>κ</abbr><ex>αὶ</ex></expan></supplied></w>
-                    <lb n="2"/><w><unclear>τ</unclear>οῦ</w> <name>Χρ<unclear>ι</unclear><supplied reason="lost">στοῦ</supplied></name> <w><supplied reason="lost"><expan><abbr>κ</abbr><ex>αὶ</ex></expan></supplied></w> <w><supplied reason="lost">τοῦ</supplied></w>
+                    <lb n="2"/><w><unclear>τ</unclear>οῦ</w> <name><w>Χρ<unclear>ι</unclear><supplied reason="lost">στοῦ</supplied></w></name> <w><supplied reason="lost"><expan><abbr>κ</abbr><ex>αὶ</ex></expan></supplied></w> <w><supplied reason="lost">τοῦ</supplied></w>
                     <lb n="3"/><w>ἁγίου</w> <w>πν<supplied reason="lost">εύματος</supplied></w> <w><supplied reason="lost">ἐκοιμή</supplied>
                     <lb n="4" break="no"/>θη</w> <w>ἡ</w> <w>δούλ<supplied reason="lost">η</supplied></w> <w><supplied reason="lost">τοῦ</supplied></w> <w><supplied reason="lost">θεοῦ</supplied></w>
-                    <lb n="5"/><persName type="attested"><name>Ἄσελλα</name></persName> <gap reason="lost" unit="character" extent="unknown"/>
+                    <lb n="5"/><persName type="attested"><name><w>Ἄσελλα</w></name></persName> <gap reason="lost" unit="character" extent="unknown"/>
                     <lb n="6"/><orig>ΚΟΥ</orig><w>τῇ</w> <w>π<unclear>ρ</unclear><supplied reason="lost">ὸ</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="7"/><name><expan><abbr>Νοβεν</abbr><ex>βρίων</ex></expan></name> <w><expan><abbr>ἡ<supplied reason="lost">μ</supplied></abbr><supplied reason="lost"><ex>έρᾳ</ex></supplied></expan></w> <gap reason="lost" unit="character" extent="unknown"/>
-                    <lb n="8"/><w><supplied reason="lost">ἐ</supplied>τῶν</w> <num value="55">ν<unclear>ε</unclear></num> <w><supplied reason="lost"><roleName type="supracivic" subtype="consul">ὑπατίᾳ</roleName></supplied></w> <name><supplied reason="lost">Ὁ
-                    <lb n="9" break="no"/>ν</supplied>ορίου</name> <w><unclear>τ</unclear><supplied reason="lost">ὸ</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="7"/><name><w><expan><abbr>Νοβεν</abbr><ex>βρίων</ex></expan></w></name> <w><expan><abbr>ἡ<supplied reason="lost">μ</supplied></abbr><supplied reason="lost"><ex>έρᾳ</ex></supplied></expan></w> <gap reason="lost" unit="character" extent="unknown"/>
+                    <lb n="8"/><w><supplied reason="lost">ἐ</supplied>τῶν</w> <num value="55"><w>ν<unclear>ε</unclear></w></num> <w><supplied reason="lost"><roleName type="supracivic" subtype="consul">ὑπατίᾳ</roleName></supplied></w> <name><w><supplied reason="lost">Ὁ
+                    <lb n="9" break="no"/>ν</supplied>ορίου</w></name> <w><unclear>τ</unclear><supplied reason="lost">ὸ</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>
             <div type="apparatus" resp="#JP">

@@ -194,8 +194,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/><w>Θεόδοτα</w> <name>Κέλτα</name>
-                    <lb n="2"/><name>Ἐπαφρόδειτε</name>
+                    <lb n="1"/><w>Θεόδοτα</w> <name><w>Κέλτα</w></name>
+                    <lb n="2"/><name><w>Ἐπαφρόδειτε</w></name>
                     <lb n="3"/><w>χαῖρε</w>
                 </ab>
             </div>

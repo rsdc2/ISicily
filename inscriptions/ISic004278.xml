@@ -196,11 +196,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#DEE">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name type="praenomen"><expan><abbr>A</abbr><ex>uli</ex></expan></name> <g ref="#interpunct">·</g> <name type="nomen">Hirti</name>
-                    <lb n="2"/><name type="cognomen">Iuniani</name></persName>
+                    <lb n="1"/><persName type="attested"><name type="praenomen"><w><expan><abbr>A</abbr><ex>uli</ex></expan></w></name> <g ref="#interpunct">·</g> <name type="nomen"><w>Hirti</w></name>
+                    <lb n="2"/><name type="cognomen"><w>Iuniani</w></name></persName>
                     <lb n="3"/><w>et</w>
-                    <lb n="4"/><persName type="attested"><name type="nomen">Tucuriae</name>
-                    <lb n="5"/><name type="cognomen">Alcimillae</name></persName>
+                    <lb n="4"/><persName type="attested"><name type="nomen"><w>Tucuriae</w></name>
+                    <lb n="5"/><name type="cognomen"><w>Alcimillae</w></name></persName>
                 </ab>
             </div>
             <div type="apparatus">

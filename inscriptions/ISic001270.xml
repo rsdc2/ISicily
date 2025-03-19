@@ -193,7 +193,7 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#MB">
                 <ab>
                     <lb n="1"/><g ref="#christogram">☧</g>
-                    <lb n="2"/><persName type="attested"><name>Ἄπονος</name></persName> <w><supplied reason="lost">κῖτε</supplied></w>
+                    <lb n="2"/><persName type="attested"><name><w>Ἄπονος</w></name></persName> <w><supplied reason="lost">κῖτε</supplied></w>
                     <lb n="3"/><w>ἐνθά<supplied reason="lost">δε</supplied></w>
                 </ab>
             </div>

@@ -177,9 +177,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#FP">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name>Φαύστου</name>
-                    <lb n="2"/><w>τόπος</w> <placeName type="ethnic"><name>Νησ
-                    <lb n="3" break="no"/>σιώτου</name></placeName></persName>
+                    <lb n="1"/><persName type="attested"><name><w>Φαύστου</w></name>
+                    <lb n="2"/><w>τόπος</w> <placeName type="ethnic"><name><w>Νησ
+                    <lb n="3" break="no"/>σιώτου</w></name></placeName></persName>
                 </ab>
             </div>
             <div type="apparatus">

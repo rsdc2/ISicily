@@ -196,8 +196,8 @@
             <div type="edition" xml:space="preserve" xml:lang="la">
                 <ab>
                     <lb n="1"/><w><expan><abbr>d</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>m</abbr><ex>anibus</ex></expan></w> <w><supplied reason="lost"><expan><abbr>s</abbr><ex>acrum</ex></expan></supplied></w>
-                    <lb n="2"/><name><expan><abbr>T</abbr><ex>itus</ex></expan></name> <g ref="#interpunct">·</g> <name>Clod<supplied reason="lost">ius</supplied></name>
-                    <lb n="3"/><name>Atili<supplied reason="lost">anus</supplied></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><name><w><expan><abbr>T</abbr><ex>itus</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w>Clod<supplied reason="lost">ius</supplied></w></name>
+                    <lb n="3"/><name><w>Atili<supplied reason="lost">anus</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="4"/><w><expan><abbr><unclear>v</unclear><supplied reason="lost">ix</supplied></abbr><ex>it</ex></expan></w> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="5"/><gap reason="lost" extent="unknown" unit="line"/>
                 </ab>

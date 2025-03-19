@@ -178,11 +178,11 @@
         <body>
             <div type="edition" xml:space="preserve" subtype="PHI" n="PHI334872">
                 <ab>
-                    <lb n="1"/><w><unclear>C</unclear>assi</w> <w><unclear>a</unclear></w> <name><supplied reason="lost">— — — —</supplied></name>
-                    <lb n="2"/><name>M</name> <g ref="#interpunct">∙</g> <name>Dom</name> <name><supplied reason="lost">— — —</supplied></name>
-                    <lb n="3"/><w><supplied reason="lost">․</supplied>GENV</w> <name><supplied reason="lost">— — —</supplied></name>
-                    <lb n="4"/><w><supplied reason="lost">․</supplied>#⁷#⁷#⁷E</w> <name><supplied reason="lost">— — —</supplied></name>
-                    <lb n="5"/><name><supplied reason="lost">— — — — — — —</supplied></name>
+                    <lb n="1"/><w><unclear>C</unclear>assi</w> <w><unclear>a</unclear></w> <name><w><supplied reason="lost">— — — —</supplied></w></name>
+                    <lb n="2"/><name><w>M</w></name> <g ref="#interpunct">∙</g> <name><w>Dom</w></name> <name><w><supplied reason="lost">— — —</supplied></w></name>
+                    <lb n="3"/><w><supplied reason="lost">․</supplied>GENV</w> <name><w><supplied reason="lost">— — —</supplied></w></name>
+                    <lb n="4"/><w><supplied reason="lost">․</supplied>#⁷#⁷#⁷E</w> <name><w><supplied reason="lost">— — —</supplied></w></name>
+                    <lb n="5"/><name><w><supplied reason="lost">— — — — — — —</supplied></w></name>
                     <lb n="6"/>
                 </ab>
             </div>

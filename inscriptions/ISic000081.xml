@@ -187,8 +187,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
-                    <lb n="1"/><w><supplied reason="lost">Di</supplied>s</w> <name>Ma
-                    <lb n="2" break="no"/><unclear>n</unclear>ibus</name>
+                    <lb n="1"/><w><supplied reason="lost">Di</supplied>s</w> <name><w>Ma
+                    <lb n="2" break="no"/><unclear>n</unclear>ibus</w></name>
                     <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <w><unclear>i</unclear>l<unclear>l</unclear>ae</w>
                     <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <w>ae</w>
                     <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/> <w>m</w>

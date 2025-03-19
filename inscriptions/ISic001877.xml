@@ -169,8 +169,8 @@
             <div type="edition" xml:space="preserve" xml:lang="la" resp="=#JP">
                 <ab>
                     <lb n="0"/><gap reason="lost" extent="unknown" unit="line"/>
-                    <lb n="1"/><w><expan><abbr>p</abbr><ex>ontifici</ex></expan></w> <w><expan><abbr>m</abbr><ex>aximo</ex></expan></w> <w>res</w> <w>publica</w> <placeName type="ethnic"><name>Tindari
-                    <lb n="2" break="no"/>tanorum</name></placeName> <w>devota</w> <w>numini</w>
+                    <lb n="1"/><w><expan><abbr>p</abbr><ex>ontifici</ex></expan></w> <w><expan><abbr>m</abbr><ex>aximo</ex></expan></w> <w>res</w> <w>publica</w> <placeName type="ethnic"><name><w>Tindari
+                    <lb n="2" break="no"/>tanorum</w></name></placeName> <w>devota</w> <w>numini</w>
                     <lb n="3"/><w>maiestatique</w> <w>eius</w>
                 </ab>
             </div>

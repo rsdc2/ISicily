@@ -198,15 +198,15 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
                     <lb n="0"/><gap reason="lost" extent="unknown" unit="line"/>
-                    <lb n="1"/><w><supplied reason="lost">Π</supplied>αίδε<supplied reason="lost" cert="low">σσι</supplied></w> <w><supplied reason="lost">καὶ</supplied></w> <name><supplied reason="lost">Ἄννᾳ</supplied></name>
-                    <lb n="2"/><w>καὶ</w> <name>Ἀπ<supplied reason="lost" cert="low">όλλωνι</supplied></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><w><supplied reason="lost">Π</supplied>αίδε<supplied reason="lost" cert="low">σσι</supplied></w> <w><supplied reason="lost">καὶ</supplied></w> <name><w><supplied reason="lost">Ἄννᾳ</supplied></w></name>
+                    <lb n="2"/><w>καὶ</w> <name><w>Ἀπ<supplied reason="lost" cert="low">όλλωνι</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="3"/><w>παρεγέ<supplied reason="lost" cert="low">νοντο</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="4"/><w>μετὰ</w> <orig>Π</orig><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="5"/><w><supplied reason="lost" cert="low">θυ</supplied>γατ</w> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="6"/><gap reason="lost" extent="unknown" unit="character"/> <w>καὶ</w> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="7"/><gap reason="lost" extent="unknown" unit="character"/> <w>τῇ</w> <w>τριακά<supplied reason="lost">δι</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="8"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">ε</supplied>ὐχαρι<supplied reason="lost" cert="low">στοῦντες</supplied></w> <name><supplied reason="lost">Παίδε</supplied>σσι</name> <w><supplied reason="lost">καὶ</supplied></w> <name><supplied reason="lost">Ἀπόλλ</supplied>
-                    <lb n="9" break="no"/>ωνι</name> <w>καὶ</w> <name>Ἄννᾳ</name>
+                    <lb n="8"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">ε</supplied>ὐχαρι<supplied reason="lost" cert="low">στοῦντες</supplied></w> <name><w><supplied reason="lost">Παίδε</supplied>σσι</w></name> <w><supplied reason="lost">καὶ</supplied></w> <name><w><supplied reason="lost">Ἀπόλλ</supplied>
+                    <lb n="9" break="no"/>ωνι</w></name> <w>καὶ</w> <name><w>Ἄννᾳ</w></name>
                 </ab>
             </div>
             <div type="apparatus">

@@ -195,8 +195,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>M</abbr><ex>arcus</ex></expan></w> <name>Paconius</name> <name><expan><abbr>L</abbr><ex>uci</ex></expan></name> <w><expan><abbr>f</abbr><ex>ilius</ex></expan></w> <name><expan><abbr>Pomp</abbr><ex>tina tribu</ex></expan></name> <name>Vipsanus</name> <name>Pr<supplied reason="lost">o</supplied>culus</name>
-                    <lb n="2"/><roleName type="civic" subtype="aedilis"><w><expan><abbr>aed</abbr><ex>ilis</ex></expan></w></roleName> <w><expan><abbr>aed</abbr><ex>em</ex></expan></w> <name>Genio</name> <name><expan><abbr>Col</abbr><ex>oniae</ex></expan></name> <name><expan><abbr>Aug</abbr><ex>ustae</ex></expan></name> <name><expan><abbr>Lilybit</abbr><ex>anorum</ex></expan></name> <w><expan><abbr>s</abbr><ex>ua</ex></expan></w> <w><expan><abbr>p</abbr><ex>ecunia</ex></expan></w> <w><expan><abbr>f</abbr><ex>ecit</ex></expan></w>
+                    <lb n="1"/><w><expan><abbr>M</abbr><ex>arcus</ex></expan></w> <name><w>Paconius</w></name> <name><w><expan><abbr>L</abbr><ex>uci</ex></expan></w></name> <w><expan><abbr>f</abbr><ex>ilius</ex></expan></w> <name><w><expan><abbr>Pomp</abbr><ex>tina tribu</ex></expan></w></name> <name><w>Vipsanus</w></name> <name><w>Pr<supplied reason="lost">o</supplied>culus</w></name>
+                    <lb n="2"/><roleName type="civic" subtype="aedilis"><w><expan><abbr>aed</abbr><ex>ilis</ex></expan></w></roleName> <w><expan><abbr>aed</abbr><ex>em</ex></expan></w> <name><w>Genio</w></name> <name><w><expan><abbr>Col</abbr><ex>oniae</ex></expan></w></name> <name><w><expan><abbr>Aug</abbr><ex>ustae</ex></expan></w></name> <name><w><expan><abbr>Lilybit</abbr><ex>anorum</ex></expan></w></name> <w><expan><abbr>s</abbr><ex>ua</ex></expan></w> <w><expan><abbr>p</abbr><ex>ecunia</ex></expan></w> <w><expan><abbr>f</abbr><ex>ecit</ex></expan></w>
                 </ab>
             </div>
             <div type="apparatus">

@@ -181,7 +181,7 @@
                 </div>
                 <div type="textpart" subtype="section" n="b">
                     <ab>
-                        <lb n="1"/><w><abbr cert="low"><hi rend="ligature">Ν<num cert="low" value="3"></num></hi></abbr></w>
+                        <lb n="1"/><w><abbr cert="low"><hi rend="ligature">Ν<num cert="low" value="3"><w></w></num></hi></abbr></w>
                     </ab>
                 </div>
             </div>

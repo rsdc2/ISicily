@@ -187,15 +187,15 @@
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
                     <lb n="1"/><g ref="#cross_latin">†</g> <w>hic</w> <w>requies
-                    <lb n="2" break="no"/>cit</w> <w>in</w> <w>pace</w> <persName type="attested"><name>Libe
-                    <lb n="3" break="no"/>rata</name></persName> <w><expan><abbr>q</abbr><ex>uae</ex></expan></w> <w>vixit</w> <w><expan><abbr>a<hi rend="supraline">n</hi></abbr><ex>nis</ex></expan></w>
-                    <lb n="4"/><num value="17">XVII</num> <w><expan><abbr>dep</abbr><ex>osita</ex></expan></w> <w>sub</w> <w><expan><abbr>d</abbr><ex>ie</ex></expan></w> <num value="10">X</num> <w><expan><abbr>kal</abbr><ex>endas</ex></expan></w>
-                    <lb n="5"/><name>Iunias</name> <w><expan><abbr>in<hi rend="supraline">dic</hi></abbr><ex>tione</ex></expan></w> <num value="10">X</num>
+                    <lb n="2" break="no"/>cit</w> <w>in</w> <w>pace</w> <persName type="attested"><name><w>Libe
+                    <lb n="3" break="no"/>rata</w></name></persName> <w><expan><abbr>q</abbr><ex>uae</ex></expan></w> <w>vixit</w> <w><expan><abbr>a<hi rend="supraline">n</hi></abbr><ex>nis</ex></expan></w>
+                    <lb n="4"/><num value="17"><w>XVII</w></num> <w><expan><abbr>dep</abbr><ex>osita</ex></expan></w> <w>sub</w> <w><expan><abbr>d</abbr><ex>ie</ex></expan></w> <num value="10"><w>X</w></num> <w><expan><abbr>kal</abbr><ex>endas</ex></expan></w>
+                    <lb n="5"/><name><w>Iunias</w></name> <w><expan><abbr>in<hi rend="supraline">dic</hi></abbr><ex>tione</ex></expan></w> <num value="10"><w>X</w></num>
                     <lb n="6"/><g ref="#cross_latin">†</g> <w>requievit</w> <w>in</w>
-                    <lb n="7"/><w>pace</w> <persName type="attested"><name>Victori
-                    <lb n="8" break="no"/>a</name></persName> <w><expan><abbr>q</abbr><ex>uae</ex></expan></w> <w>vixit</w> <w><expan><abbr><hi rend="supraline">an</hi></abbr><ex>nis</ex></expan></w>
-                    <lb n="9"/><num value="19">XVIIII</num> <w><expan><abbr>d</abbr><ex>e</ex><abbr>p</abbr><ex>osita</ex></expan></w> <num value="4">IIII</num> <w><expan><abbr>id</abbr><ex>as</ex></expan></w>
-                    <lb n="10"/><name>Maias</name> <w><expan><abbr><hi rend="supraline">ind</hi></abbr><ex>ictione</ex></expan></w> <num value="10">X</num>
+                    <lb n="7"/><w>pace</w> <persName type="attested"><name><w>Victori
+                    <lb n="8" break="no"/>a</w></name></persName> <w><expan><abbr>q</abbr><ex>uae</ex></expan></w> <w>vixit</w> <w><expan><abbr><hi rend="supraline">an</hi></abbr><ex>nis</ex></expan></w>
+                    <lb n="9"/><num value="19"><w>XVIIII</w></num> <w><expan><abbr>d</abbr><ex>e</ex><abbr>p</abbr><ex>osita</ex></expan></w> <num value="4"><w>IIII</w></num> <w><expan><abbr>id</abbr><ex>as</ex></expan></w>
+                    <lb n="10"/><name><w>Maias</w></name> <w><expan><abbr><hi rend="supraline">ind</hi></abbr><ex>ictione</ex></expan></w> <num value="10"><w>X</w></num>
                 </ab>
             </div>
             <div type="apparatus">

@@ -197,7 +197,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JH">
                 <ab>
-                    <lb n="1"/><persName type="attested"><supplied reason="lost" cert="low"><roleName type="supracivic" subtype="imperator"><w><expan><abbr>Imp</abbr><ex>eratori</ex></expan></w></roleName></supplied> <supplied reason="lost" cert="low"><name><expan><abbr>Caes</abbr><ex>ari</ex></expan></name></supplied> <supplied reason="lost" cert="low"><name type="praenomen"><expan><abbr>M</abbr><ex>arco</ex></expan></name></supplied> <name type="nomen"><orig>Ulp</orig><supplied reason="lost" unit="character">io</supplied></name> <supplied reason="lost" cert="low"><name>Traiano</name></supplied></persName> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><persName type="attested"><supplied reason="lost" cert="low"><roleName type="supracivic" subtype="imperator"><w><expan><abbr>Imp</abbr><ex>eratori</ex></expan></w></roleName></supplied> <supplied reason="lost" cert="low"><name><w><expan><abbr>Caes</abbr><ex>ari</ex></expan></w></name></supplied> <supplied reason="lost" cert="low"><name type="praenomen"><w><expan><abbr>M</abbr><ex>arco</ex></expan></w></name></supplied> <name type="nomen"><w><orig>Ulp</orig><supplied reason="lost" unit="character">io</supplied></w></name> <supplied reason="lost" cert="low"><name><w>Traiano</w></name></supplied></persName> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>
             <div type="apparatus" resp="#JH">

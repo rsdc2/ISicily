@@ -196,11 +196,11 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#martaf #AA">
                 <ab>
                     <lb n="1"/><w>Ἐνθάδε</w> <w>κεῖτε</w>
-                    <lb n="1"/><persName type="attested"><name>Βάσσος</name></persName> <w>ἰατρός</w>
+                    <lb n="1"/><persName type="attested"><name><w>Βάσσος</w></name></persName> <w>ἰατρός</w>
                     <lb n="3"/><w>ἔζησεν</w> <w>ἔτη</w>
-                    <lb n="4"/><num value="50">ν</num> <g ref="#christogram">☧</g>
+                    <lb n="4"/><num value="50"><w>ν</w></num> <g ref="#christogram">☧</g>
                     <lb n="5"/><w>ἐτελεύτησεν</w>
-                    <lb n="6"/><w>τῇ</w> <w>πρὸ</w> <num value="15">ιε</num> <g ref="#dipunct">:</g> <name><expan><abbr>Κα</abbr><ex>λανδῶν</ex></expan></name> <name><expan><abbr>Μαρ</abbr><ex>τίων</ex></expan></name>
+                    <lb n="6"/><w>τῇ</w> <w>πρὸ</w> <num value="15"><w>ιε</w></num> <g ref="#dipunct">:</g> <name><w><expan><abbr>Κα</abbr><ex>λανδῶν</ex></expan></w></name> <name><w><expan><abbr>Μαρ</abbr><ex>τίων</ex></expan></w></name>
                 </ab>
             </div>
             <div type="apparatus" resp="#martaf">

@@ -205,8 +205,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA #JP">
                 <ab>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <name><expan><abbr>A</abbr><ex>uli</ex></expan></name> <g ref="#interpunct">·</g> <w><expan><abbr>f</abbr><ex>ilio</ex></expan></w> <g ref="#interpunct">·</g> <name><expan><abbr>Q<unclear>u</unclear><supplied reason="lost">ir</supplied></abbr><ex>ina</ex></expan></name> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <name><supplied reason="lost" cert="low">Euc</supplied>arpia</name> <g ref="#interpunct">·</g> <w>ux<supplied reason="lost">or</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <name><w><expan><abbr>A</abbr><ex>uli</ex></expan></w></name> <g ref="#interpunct">·</g> <w><expan><abbr>f</abbr><ex>ilio</ex></expan></w> <g ref="#interpunct">·</g> <name><w><expan><abbr>Q<unclear>u</unclear><supplied reason="lost">ir</supplied></abbr><ex>ina</ex></expan></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <name><w><supplied reason="lost" cert="low">Euc</supplied>arpia</w></name> <g ref="#interpunct">·</g> <w>ux<supplied reason="lost">or</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>
             <div type="apparatus">

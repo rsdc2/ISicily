@@ -170,8 +170,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name><supplied reason="lost" cert="low">Ἰε</supplied><unclear>ν</unclear>άρις</name></persName> <g ref="#staurogram">𐆠</g>
-                    <lb n="2"/><w><supplied reason="lost">ἔζ</supplied>ησεν</w> <w>ἔτη</w> <num value="2"><hi rend="supraline">β</hi></num>
+                    <lb n="1"/><persName type="attested"><name><w><supplied reason="lost" cert="low">Ἰε</supplied><unclear>ν</unclear>άρις</w></name></persName> <g ref="#staurogram">𐆠</g>
+                    <lb n="2"/><w><supplied reason="lost">ἔζ</supplied>ησεν</w> <w>ἔτη</w> <num value="2"><w><hi rend="supraline">β</hi></w></num>
                 </ab>
             </div>
             <div type="apparatus" resp="#JP">

@@ -190,7 +190,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/><w>ἀπὸ</w> <w>τ<supplied reason="omitted">ο</supplied>ῦ</w> <w>πρετωρίου</w> <w>κατά<supplied reason="lost">θεσις</supplied></w> <space extent="unknown" unit="character"/><name><supplied reason="lost">Ἀπρι</supplied><unclear>λ</unclear>ίων</name>
+                    <lb n="1"/><w>ἀπὸ</w> <w>τ<supplied reason="omitted">ο</supplied>ῦ</w> <w>πρετωρίου</w> <w>κατά<supplied reason="lost">θεσις</supplied></w> <space extent="unknown" unit="character"/><name><w><supplied reason="lost">Ἀπρι</supplied><unclear>λ</unclear>ίων</w></name>
                     <lb n="2"/><gap reason="lost" extent="unknown" unit="line"/> <orig>ΝΙΛΑ</orig><gap reason="lost" extent="unknown" unit="line"/>
                     <lb n="3"/><gap reason="lost" extent="unknown" unit="line"/> <orig>ΛΑΣ</orig><gap reason="lost" extent="unknown" unit="line"/>
                 </ab>

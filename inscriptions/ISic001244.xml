@@ -187,8 +187,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1"/><w>Πίδοσσα</w> <name>Πάρωνος</name>
-                    <lb n="2"/><w>τοῦ</w> <name>Ἐπιάνακτος</name>
+                    <lb n="1"/><w>Πίδοσσα</w> <name><w>Πάρωνος</w></name>
+                    <lb n="2"/><w>τοῦ</w> <name><w>Ἐπιάνακτος</w></name>
                 </ab>
             </div>
             <div type="apparatus">

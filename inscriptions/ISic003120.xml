@@ -193,7 +193,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#AA">
                 <ab>
-                    <lb n="1"/><w>Φαΰλλου</w> <name>Ἐλεάτα</name>
+                    <lb n="1"/><w>Φαΰλλου</w> <name><w>Ἐλεάτα</w></name>
                 </ab>
             </div>
             <div type="apparatus">

@@ -187,9 +187,9 @@
         <body>
             <div type="edition" xml:space="preserve" subtype="PHI" n="PHI178086">
                 <ab>
-                    <lb n="1"/><w><supplied reason="lost">— — —</supplied>Ϲ</w> <name><supplied reason="lost">— — — — —</supplied></name>
-                    <lb n="2"/><name><supplied reason="lost">— —</supplied>δ</name> <w><unclear>ω</unclear></w> <name><supplied reason="lost">․․</supplied>εβ</name> <w><unclear>ο</unclear></w> <name><supplied reason="lost">— —</supplied></name>
-                    <lb n="3"/><name><supplied reason="lost">— — — — — — — — —</supplied></name>
+                    <lb n="1"/><w><supplied reason="lost">— — —</supplied>Ϲ</w> <name><w><supplied reason="lost">— — — — —</supplied></w></name>
+                    <lb n="2"/><name><w><supplied reason="lost">— —</supplied>δ</w></name> <w><unclear>ω</unclear></w> <name><w><supplied reason="lost">․․</supplied>εβ</w></name> <w><unclear>ο</unclear></w> <name><w><supplied reason="lost">— —</supplied></w></name>
+                    <lb n="3"/><name><w><supplied reason="lost">— — — — — — — — —</supplied></w></name>
                     <lb n="4"/>
                 </ab>
             </div>

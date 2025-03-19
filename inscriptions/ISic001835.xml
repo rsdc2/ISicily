@@ -195,7 +195,7 @@
         <body>
             <div type="edition" xml:space="preserve" resp="#MB #JP" xml:lang="grc">
                 <ab>
-                    <lb n="1" xml:id="BθyAK"/><persName type="attested" xml:id="BθyAU"><name xml:id="BθyAe">Φιλιστοῦς</name></persName> <name xml:id="BθyAo">Δ</name> <gap reason="illegible" unit="character" quantity="1" xml:id="BθyAy"/>
+                    <lb n="1" xml:id="BθyAK"/><persName type="attested" xml:id="BθyAU"><name xml:id="BθyAe"><w>Φιλιστοῦς</w></name></persName> <name xml:id="BθyAo"><w>Δ</w></name> <gap reason="illegible" unit="character" quantity="1" xml:id="BθyAy"/>
                 </ab>
             </div>
             <div type="apparatus" resp="#JP">

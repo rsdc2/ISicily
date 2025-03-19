@@ -183,12 +183,12 @@
             <div type="edition" xml:space="preserve" subtype="PHI" n="PHI140913">
                 <ab>
                     <lb n="1"/><w><supplied reason="lost">— —</supplied></w> <w>χρη-</w>
-                    <lb n="2"/><w><supplied reason="lost">στὲ ἔ</supplied>ζη</w> <name><supplied reason="lost">—</supplied></name>
-                    <lb n="3"/><w><supplied reason="lost">— —</supplied>Ι∙ΤΥΧ</w> <name><supplied reason="lost">— —</supplied></name>
-                    <lb n="4"/><w><supplied reason="lost">— —</supplied>ΟΛΛ․</w> <name><supplied reason="lost">— —</supplied></name>
-                    <lb n="5"/><name><supplied reason="lost">— —</supplied>․#⁷․</name> <name><supplied reason="lost">— — — —</supplied></name>
-                    <lb n="6"/><name><supplied reason="lost">— —</supplied></name> <g ref="#interpunct">❦</g> <w>χα</w> <w><supplied reason="lost">ῖρε — —</supplied></w>
-                    <lb n="7"/><name><supplied reason="lost">— —</supplied></name> <w>ἔζησ</w> <name><supplied reason="lost">— — — —</supplied></name>
+                    <lb n="2"/><w><supplied reason="lost">στὲ ἔ</supplied>ζη</w> <name><w><supplied reason="lost">—</supplied></w></name>
+                    <lb n="3"/><w><supplied reason="lost">— —</supplied>Ι∙ΤΥΧ</w> <name><w><supplied reason="lost">— —</supplied></w></name>
+                    <lb n="4"/><w><supplied reason="lost">— —</supplied>ΟΛΛ․</w> <name><w><supplied reason="lost">— —</supplied></w></name>
+                    <lb n="5"/><name><w><supplied reason="lost">— —</supplied>․#⁷․</w></name> <name><w><supplied reason="lost">— — — —</supplied></w></name>
+                    <lb n="6"/><name><w><supplied reason="lost">— —</supplied></w></name> <g ref="#interpunct">❦</g> <w>χα</w> <w><supplied reason="lost">ῖρε — —</supplied></w>
+                    <lb n="7"/><name><w><supplied reason="lost">— —</supplied></w></name> <w>ἔζησ</w> <name><w><supplied reason="lost">— — — —</supplied></w></name>
                     <lb n="8"/>
                 </ab>
             </div>

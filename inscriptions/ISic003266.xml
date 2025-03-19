@@ -196,7 +196,7 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#martaf #AA">
                 <ab>
                     <lb n="0"/><gap reason="lost" extent="unknown" unit="character" cert="low"/>
-                    <lb n="1"/><persName type="attested"><name><gap reason="lost" extent="unknown" unit="character"/><unclear>η</unclear>ς</name></persName> <g ref="#interpunct">·</g> <w><abbr>ἀδελφ</abbr></w>
+                    <lb n="1"/><persName type="attested"><name><w><gap reason="lost" extent="unknown" unit="character"/><unclear>η</unclear>ς</w></name></persName> <g ref="#interpunct">·</g> <w><abbr>ἀδελφ</abbr></w>
                 </ab>
             </div>
             <div type="apparatus" resp="#martaf">

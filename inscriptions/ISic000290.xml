@@ -192,11 +192,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#TNS">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <name><expan><abbr>M</abbr><ex>anibus</ex></expan></name> <g ref="#interpunct">·</g> <w><expan><abbr>s</abbr><ex>acrum</ex></expan></w>
-                    <lb n="2"/><supplied reason="lost"><name><expan><abbr>T</abbr><ex>ito</ex></expan></name></supplied> <g ref="#interpunct">·</g> <name>Ae<supplied reason="lost">li</supplied>o</name> <g ref="#interpunct">·</g> <w>pio</w> <g ref="#interpunct">·</g> <w>filio</w>
-                    <lb n="3"/><name><supplied reason="lost">E</supplied>u<supplied reason="lost">t</supplied>ych<supplied reason="lost">e</supplied>s</name> <g ref="#interpunct">·</g> <w><supplied reason="lost">et</supplied></w> <g ref="#interpunct">·</g> <name>Coe
-                    <lb n="4" break="no"/><supplied reason="lost">t</supplied>onis</name> <g ref="#interpunct">·</g> <w>par<supplied reason="lost">e</supplied>n<supplied reason="lost">t</supplied>es</w>
-                    <lb n="5"/><w><expan><abbr>vix</abbr><ex>it</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>an</abbr><ex>nis</ex></expan></w> <g ref="#interpunct">·</g> <num value="17">XVII</num> <name><g ref="#interpunct">·</g><expan><abbr>m</abbr><ex>ensibus</ex></expan><g ref="#interpunct">·</g></name> <num value="17">VII</num> <name><g ref="#interpunct">·</g><expan><abbr>d</abbr><ex>iebus</ex></expan><g ref="#interpunct">·</g></name> <num value="20">XX</num>
+                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <name><w><expan><abbr>M</abbr><ex>anibus</ex></expan></w></name> <g ref="#interpunct">·</g> <w><expan><abbr>s</abbr><ex>acrum</ex></expan></w>
+                    <lb n="2"/><supplied reason="lost"><name><w><expan><abbr>T</abbr><ex>ito</ex></expan></w></name></supplied> <g ref="#interpunct">·</g> <name><w>Ae<supplied reason="lost">li</supplied>o</w></name> <g ref="#interpunct">·</g> <w>pio</w> <g ref="#interpunct">·</g> <w>filio</w>
+                    <lb n="3"/><name><w><supplied reason="lost">E</supplied>u<supplied reason="lost">t</supplied>ych<supplied reason="lost">e</supplied>s</w></name> <g ref="#interpunct">·</g> <w><supplied reason="lost">et</supplied></w> <g ref="#interpunct">·</g> <name><w>Coe
+                    <lb n="4" break="no"/><supplied reason="lost">t</supplied>onis</w></name> <g ref="#interpunct">·</g> <w>par<supplied reason="lost">e</supplied>n<supplied reason="lost">t</supplied>es</w>
+                    <lb n="5"/><w><expan><abbr>vix</abbr><ex>it</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>an</abbr><ex>nis</ex></expan></w> <g ref="#interpunct">·</g> <num value="17"><w>XVII</w></num> <name><w><g ref="#interpunct">·</g><expan><abbr>m</abbr><ex>ensibus</ex></expan><g ref="#interpunct">·</g></w></name> <num value="17"><w>VII</w></num> <name><w><g ref="#interpunct">·</g><expan><abbr>d</abbr><ex>iebus</ex></expan><g ref="#interpunct">·</g></w></name> <num value="20"><w>XX</w></num>
                 </ab>
            </div>
             <div type="apparatus">

@@ -177,8 +177,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    <lb n="1"/><w><supplied reason="lost">ὁ</supplied></w> <w><supplied reason="lost">δᾶμος</supplied></w> <w>τῶν</w> <name>Ἐγεστα<supplied reason="lost">ίων</supplied></name>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"><desc>personal name</desc></gap> <name><supplied reason="lost">Ἀ</supplied>ρτέμωνος</name> <name><seg part="I">Ν</seg><gap reason="lost" extent="unknown" unit="character"><desc>personal name</desc></gap></name>
+                    <lb n="1"/><w><supplied reason="lost">ὁ</supplied></w> <w><supplied reason="lost">δᾶμος</supplied></w> <w>τῶν</w> <name><w>Ἐγεστα<supplied reason="lost">ίων</supplied></w></name>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"><desc>personal name</desc></gap> <name><w><supplied reason="lost">Ἀ</supplied>ρτέμωνος</w></name> <name><w><seg part="I">Ν</seg><gap reason="lost" extent="unknown" unit="character"><desc>personal name</desc></gap></w></name>
                     <lb n="3"/><w><supplied reason="lost">πρεσ</supplied><unclear>β</unclear>ύτερον</w> <w>ἀρετᾶ<supplied reason="lost">ς</supplied></w> <w><supplied reason="lost">ἕνεκα</supplied></w>
                 </ab>
             </div>

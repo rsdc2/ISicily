@@ -178,8 +178,8 @@
         <body>
             <div type="edition" xml:space="preserve" subtype="PHI" n="PHI334816">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>Λ</abbr><ex>ουκίου</ex></expan></w> <name>Μαρκίο</name> <w><supplied reason="lost">υ</supplied></w>
-                    <lb n="2"/><name>Ζωΐππο</name> <w><supplied reason="lost">υ</supplied></w> <w><surplus>²⁷Λ(ούκιος) Μάρκιο[ς] | Ζώϊππο[ς]</surplus>²⁷.</w>
+                    <lb n="1"/><w><expan><abbr>Λ</abbr><ex>ουκίου</ex></expan></w> <name><w>Μαρκίο</w></name> <w><supplied reason="lost">υ</supplied></w>
+                    <lb n="2"/><name><w>Ζωΐππο</w></name> <w><supplied reason="lost">υ</supplied></w> <w><surplus>²⁷Λ(ούκιος) Μάρκιο[ς] | Ζώϊππο[ς]</surplus>²⁷.</w>
                     <lb n="3"/>
                 </ab>
             </div>

@@ -192,8 +192,8 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
                     <lb n="0"/><gap reason="lost" extent="unknown" unit="line"/>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <roleName type="supracivic" subtype="consul"><w><expan><abbr><unclear>ὑπ</unclear></abbr><ex>ατίᾳ</ex></expan></w></roleName> <name><unclear>Πα</unclear><supplied reason="lost">υλίνου</supplied></name>
-                    <lb n="2"/><w><supplied reason="lost">μηνὶ</supplied></w> <name>Ὀκτωβ<unclear>ρ</unclear><supplied reason="lost">ίῳ</supplied></name> <w><supplied reason="lost">ταῖς</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <roleName type="supracivic" subtype="consul"><w><expan><abbr><unclear>ὑπ</unclear></abbr><ex>ατίᾳ</ex></expan></w></roleName> <name><w><unclear>Πα</unclear><supplied reason="lost">υλίνου</supplied></w></name>
+                    <lb n="2"/><w><supplied reason="lost">μηνὶ</supplied></w> <name><w>Ὀκτωβ<unclear>ρ</unclear><supplied reason="lost">ίῳ</supplied></w></name> <w><supplied reason="lost">ταῖς</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>
             <div type="apparatus">

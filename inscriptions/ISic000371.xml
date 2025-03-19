@@ -198,11 +198,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#DM">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <name><expan><abbr>M</abbr><ex>anibus</ex></expan></name> <w><expan><abbr>s</abbr><ex>acrum</ex></expan></w>
-                    <lb n="2"/><name><supplied reason="lost" cert="low"><expan><abbr>P</abbr><ex>ubli</ex></expan></supplied></name> <name>Sextili</name> <name>Severi</name>
-                    <lb n="3"/><name><expan><abbr>P</abbr><ex>ublius</ex></expan></name> <name>Sextilius</name> <name>Stephanio</name>
+                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <name><w><expan><abbr>M</abbr><ex>anibus</ex></expan></w></name> <w><expan><abbr>s</abbr><ex>acrum</ex></expan></w>
+                    <lb n="2"/><name><w><supplied reason="lost" cert="low"><expan><abbr>P</abbr><ex>ubli</ex></expan></supplied></w></name> <name><w>Sextili</w></name> <name><w>Severi</w></name>
+                    <lb n="3"/><name><w><expan><abbr>P</abbr><ex>ublius</ex></expan></w></name> <name><w>Sextilius</w></name> <name><w>Stephanio</w></name>
                     <lb n="4"/><w>patri</w> <w>piissimo</w>
-                    <lb n="5"/><w>vixit</w> <w>annos</w> <num value="60">LX</num>
+                    <lb n="5"/><w>vixit</w> <w>annos</w> <num value="60"><w>LX</w></num>
                 </ab>
                 <!--text originally derived from EDR text 139160 via the Europeana EAGLE project, http://www.eagle-network.eu/-->
             </div>

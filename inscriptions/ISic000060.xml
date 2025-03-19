@@ -193,7 +193,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la">
                 <ab>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w>nia</w> <g ref="#interpunct">·</g> <name><expan><abbr>Secund</abbr><ex>a</ex></expan></name> <g ref="#interpunct">·</g>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w>nia</w> <g ref="#interpunct">·</g> <name><w><expan><abbr>Secund</abbr><ex>a</ex></expan></w></name> <g ref="#interpunct">·</g>
                 </ab>
             </div>
             <div type="apparatus">

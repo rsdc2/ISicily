@@ -192,7 +192,7 @@
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
                     <lb n="1"/><w><supplied reason="lost">Hic</supplied></w> <w><supplied reason="lost">requies</supplied>ci<unclear>t</unclear></w>
-                    <lb n="2"/><w><supplied reason="lost">in</supplied></w> <w><supplied reason="lost">pace</supplied></w> <w><supplied reason="lost">fam</supplied>ulus</w> <name><hi rend="supraline"><expan><abbr>D</abbr><ex>e</ex><abbr>i</abbr></expan></hi></name>
+                    <lb n="2"/><w><supplied reason="lost">in</supplied></w> <w><supplied reason="lost">pace</supplied></w> <w><supplied reason="lost">fam</supplied>ulus</w> <name><w><hi rend="supraline"><expan><abbr>D</abbr><ex>e</ex><abbr>i</abbr></expan></hi></w></name>
                     <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">a</supplied>bba<supplied reason="lost">s</supplied></w>
                     <lb n="4"/><w><supplied reason="lost">qui</supplied></w> <w><supplied reason="lost">vixit</supplied></w> <w><supplied reason="lost"><expan><abbr>an</abbr><ex>nos</ex></expan></supplied></w> <w><expan><abbr><hi rend="supraline"><unclear>pl</unclear></hi></abbr><ex>us</ex></expan></w> <w><supplied reason="lost"><expan><abbr>m</abbr><ex>inus</ex></expan></supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>

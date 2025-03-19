@@ -195,12 +195,12 @@
                     <ab>
                         <cb n="1"/>
                         <lb n="1"/><w><supplied reason="lost">ἀνά</supplied>θημ<unclear>α</unclear></w>
-                        <lb n="2"/><name><supplied reason="lost">Αὐ</supplied><unclear>λ</unclear>ίδος</name>
-                        <lb n="3"/><name>Νεμε</name> <space extent="unknown" unit="character"/>
-                        <lb n="4"/><name>Μενε</name> <space extent="unknown" unit="character"/>
-                        <lb n="5"/><name>Πεδαι</name> <space extent="unknown" unit="character"/>
-                        <lb n="6"/><name>Ἄλφις</name> <name>Λού
-                        <lb n="7" break="no"/>κις</name> <w>ἔγραψε</w>
+                        <lb n="2"/><name><w><supplied reason="lost">Αὐ</supplied><unclear>λ</unclear>ίδος</w></name>
+                        <lb n="3"/><name><w>Νεμε</w></name> <space extent="unknown" unit="character"/>
+                        <lb n="4"/><name><w>Μενε</w></name> <space extent="unknown" unit="character"/>
+                        <lb n="5"/><name><w>Πεδαι</w></name> <space extent="unknown" unit="character"/>
+                        <lb n="6"/><name><w>Ἄλφις</w></name> <name><w>Λού
+                        <lb n="7" break="no"/>κις</w></name> <w>ἔγραψε</w>
                         <lb n="8"/><space extent="unknown" unit="character"/>
                     </ab>
                 </div>

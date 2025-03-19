@@ -182,15 +182,15 @@
                 <div type="textpart" subtype="section" n="a">
                     <ab>
                         <milestone unit="face" n="1"/>
-                        <lb n="1"/><w>Βαλερίαν</w> <name>Ἀρσινόην</name> <w>τὴν</w> <w>σκύ
+                        <lb n="1"/><w>Βαλερίαν</w> <name><w>Ἀρσινόην</w></name> <w>τὴν</w> <w>σκύ
                         <lb n="2" break="no"/>ζαιν</w> <w>σκ<unclear>ύ</unclear>λιμηκες</w> <w>τὴν</w> <w>ἁμαρ
-                        <lb n="3" break="no"/>τωλὸν</w> <name>Ἀρ<space unit="character" quantity="2"/>σινόην</name> <w><expan><abbr>κ</abbr><ex>αὶ</ex></expan></w> <w>μελέαν</w>
+                        <lb n="3" break="no"/>τωλὸν</w> <name><w>Ἀρ<space unit="character" quantity="2"/>σινόην</w></name> <w><expan><abbr>κ</abbr><ex>αὶ</ex></expan></w> <w>μελέαν</w>
                     </ab>
                 </div>
                 <div type="textpart" subtype="section" n="b">
                     <ab>
                         <milestone unit="face" n="2"/>
-                        <lb n="1"/><w>Βαλερίαν</w> <name>Ἀρσινόην</name> <w>τὴν</w> <w>ἁμαρ
+                        <lb n="1"/><w>Βαλερίαν</w> <name><w>Ἀρσινόην</w></name> <w>τὴν</w> <w>ἁμαρ
                         <lb n="2" break="no"/>τωλὸν</w> <w>νόσος</w> <w>τὴν</w> <w>σκύζαν</w> <w><surplus>αν</surplus></w> <w>σῆ
                         <lb n="3" break="no"/>ψις</w>
                     </ab>

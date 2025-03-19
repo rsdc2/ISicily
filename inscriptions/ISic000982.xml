@@ -199,8 +199,8 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
                     <lb n="1"/><w>τόπος</w>
-                    <lb n="2"/><persName type="attested"><name>Πειθα
-                    <lb n="3" break="no"/>νῆς</name></persName>
+                    <lb n="2"/><persName type="attested"><name><w>Πειθα
+                    <lb n="3" break="no"/>νῆς</w></name></persName>
                     <lb n="4"/><g ref="#figure_zoomorphic"/> <g ref="#staurogram">𐆠</g> <g ref="#figure_zoomorphic"/>
                 </ab>
             </div>

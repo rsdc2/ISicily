@@ -176,7 +176,7 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#AJ">
                 <ab>
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <orig>ΜΟΙΛ</orig><gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="attested"><name>Ἰούλιος</name></persName>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="attested"><name><w>Ἰούλιος</w></name></persName>
                     <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <orig>ΑΤΑΙ</orig><gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>

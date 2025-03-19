@@ -193,8 +193,8 @@
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
                     <lb n="1"/><w><expan><abbr>d</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>m</abbr><ex>anibus</ex></expan></w> <g ref="#interpunct">·</g>
-                    <lb n="2"/><name>Herenniae</name>
-                    <lb n="3"/><name>Mauricae</name>
+                    <lb n="2"/><name><w>Herenniae</w></name>
+                    <lb n="3"/><name><w>Mauricae</w></name>
                 </ab>
             </div>
             <div type="apparatus">

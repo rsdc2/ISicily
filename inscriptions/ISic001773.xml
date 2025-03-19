@@ -170,7 +170,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name><gap reason="lost" extent="unknown" unit="character"/><unclear>α</unclear>κλα</name></persName> <w>ἐνθάδε</w>
+                    <lb n="1"/><persName type="attested"><name><w><gap reason="lost" extent="unknown" unit="character"/><unclear>α</unclear>κλα</w></name></persName> <w>ἐνθάδε</w>
                     <lb n="2"/><w><supplied reason="lost">κεῖτα</supplied>ι</w> <w>δεσποτική</w>
                 </ab>
             </div>

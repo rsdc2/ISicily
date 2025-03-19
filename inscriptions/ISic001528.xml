@@ -193,13 +193,13 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/><w>Ἐνθάδε</w> <w>κῖτε</w> <name>Πολυχ
-                    <lb n="2" break="no"/>ρόνιος</name> <w>καὶ</w> <name>Σεραπία</name>
-                    <lb n="3"/><name>Ἠγόρασεν</name> <w>τῷ</w> <w>τότ
-                    <lb n="4" break="no"/>ε</w> <w>καιρῷ</w> <name>Πολυχρονίου</name>
-                    <lb n="5"/><w>αἱ</w> <name>Σεραπία</name> <w>ἐπὶ</w> <w>τῷ</w> <w>κυρί
-                    <lb n="6" break="no"/>ῳ</w> <w>μου</w> <roleName type="paracivic.religious" subtype="episkopos"><w>ἐπισκόπῳ</w></roleName> <name>Συρα
-                    <lb n="7" break="no"/>κοσίῳ</name>
+                    <lb n="1"/><w>Ἐνθάδε</w> <w>κῖτε</w> <name><w>Πολυχ
+                    <lb n="2" break="no"/>ρόνιος</w></name> <w>καὶ</w> <name><w>Σεραπία</w></name>
+                    <lb n="3"/><name><w>Ἠγόρασεν</w></name> <w>τῷ</w> <w>τότ
+                    <lb n="4" break="no"/>ε</w> <w>καιρῷ</w> <name><w>Πολυχρονίου</w></name>
+                    <lb n="5"/><w>αἱ</w> <name><w>Σεραπία</w></name> <w>ἐπὶ</w> <w>τῷ</w> <w>κυρί
+                    <lb n="6" break="no"/>ῳ</w> <w>μου</w> <roleName type="paracivic.religious" subtype="episkopos"><w>ἐπισκόπῳ</w></roleName> <name><w>Συρα
+                    <lb n="7" break="no"/>κοσίῳ</w></name>
                 </ab>
             </div>
             <div type="apparatus">

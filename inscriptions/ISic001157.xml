@@ -191,12 +191,12 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#MH">
                 <ab>
-                    <lb n="1"/><w>θεοῖς</w> <name>Κατ<supplied reason="lost">αχ</supplied>
-                    <lb n="2" break="no"/>θονίοις.</name>
-                    <lb n="3"/><orig>ΜΗΚΑΛΙ</orig><name>Σουλ
-                    <lb n="4" break="no"/>πίκιος</name> <name>Ἀνί
-                    <lb n="5" break="no"/>κητος</name> <w>ἔζη
-                    <lb n="6" break="no"/>σεν</w> <w>ἔτη</w> <num value="40"><foreign xml:lang="la">XXXX</foreign></num>.
+                    <lb n="1"/><w>θεοῖς</w> <name><w>Κατ<supplied reason="lost">αχ</supplied>
+                    <lb n="2" break="no"/>θονίοις.</w></name>
+                    <lb n="3"/><orig>ΜΗΚΑΛΙ</orig><name><w>Σουλ
+                    <lb n="4" break="no"/>πίκιος</w></name> <name><w>Ἀνί
+                    <lb n="5" break="no"/>κητος</w></name> <w>ἔζη
+                    <lb n="6" break="no"/>σεν</w> <w>ἔτη</w> <num value="40"><w><foreign xml:lang="la">XXXX</foreign></w></num>.
                 </ab>
             </div>
             <div type="apparatus">

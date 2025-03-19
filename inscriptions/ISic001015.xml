@@ -201,7 +201,7 @@
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <orig>ΟϹΘΕ</orig><g ref="#decoration.figure.bird.dove"/>
                     <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w>ἔτη</w> <num value="55"><w><hi rend="supraline">νε</hi></w></num>
                     <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <w>ὑπόμν<supplied reason="lost">ημα</supplied>
-                    <lb n="4" break="no"/></w> <gap reason="lost" extent="unknown" unit="character"/> <w part="F">ου</w> <w>καὶ</w> <name><name>Πέτρ<hi rend="stacked">ο</hi>υ</name></name>
+                    <lb n="4" break="no"/></w> <gap reason="lost" extent="unknown" unit="character"/> <w part="F">ου</w> <w>καὶ</w> <name><w><name><w>Πέτρ<hi rend="stacked">ο</hi>υ</w></name></w></name>
                 </ab>
             </div>
             <div type="apparatus">

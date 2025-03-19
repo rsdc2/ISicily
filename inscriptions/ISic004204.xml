@@ -178,8 +178,8 @@
         <body>
             <div type="edition" xml:space="preserve" subtype="PHI" n="PHI334762">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>Μ</abbr><ex>άρκου</ex></expan></w> <g ref="#interpunct">∙</g> <name>Ἀλλιήνου</name> <name>Ὄρου</name>
-                    <lb n="2"/><name>Ἀλλιήνας</name> <w>ΕΥ․Η<unclear>Θ</unclear>ΟϹ.</w>
+                    <lb n="1"/><w><expan><abbr>Μ</abbr><ex>άρκου</ex></expan></w> <g ref="#interpunct">∙</g> <name><w>Ἀλλιήνου</w></name> <name><w>Ὄρου</w></name>
+                    <lb n="2"/><name><w>Ἀλλιήνας</w></name> <w>ΕΥ․Η<unclear>Θ</unclear>ΟϹ.</w>
                     <lb n="3"/>
                 </ab>
             </div>

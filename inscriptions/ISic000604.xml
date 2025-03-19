@@ -188,9 +188,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
-                    <lb n="1"/><w>Cornelio</w> <name>Masu<supplied reason="omitted">e</supplied>to</name>
-                    <lb n="2"/><roleName type="supracivic" subtype="procurator"><w><expan><abbr>procurat</abbr><ex>ori</ex></expan></w></roleName> <name><expan><abbr>Ti</abbr><ex>berii</ex></expan></name> <name><expan><abbr>Caesar</abbr><ex>is</ex></expan></name>
-                    <lb n="3"/><name><expan><abbr>Aug</abbr><ex>usti</ex></expan></name> <w>et</w> <name>Iuliae</name> <name><expan><abbr>August</abbr><ex>ae</ex></expan></name>
+                    <lb n="1"/><w>Cornelio</w> <name><w>Masu<supplied reason="omitted">e</supplied>to</w></name>
+                    <lb n="2"/><roleName type="supracivic" subtype="procurator"><w><expan><abbr>procurat</abbr><ex>ori</ex></expan></w></roleName> <name><w><expan><abbr>Ti</abbr><ex>berii</ex></expan></w></name> <name><w><expan><abbr>Caesar</abbr><ex>is</ex></expan></w></name>
+                    <lb n="3"/><name><w><expan><abbr>Aug</abbr><ex>usti</ex></expan></w></name> <w>et</w> <name><w>Iuliae</w></name> <name><w><expan><abbr>August</abbr><ex>ae</ex></expan></w></name>
                     <lb n="4"/><w>ex</w> <roleName type="civic" subtype="decurio"><w><expan><abbr>d</abbr><ex>ecurionum</ex></expan></w></roleName> <w><expan><abbr>d</abbr><ex>ecreto</ex></expan></w> <w><expan><abbr>p</abbr><ex>ecunia</ex></expan></w> <w><expan><abbr>p</abbr><ex>ublica</ex></expan></w>
                 </ab>
             </div>

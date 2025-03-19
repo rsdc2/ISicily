@@ -192,8 +192,8 @@
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
                     <lb n="1"/><w><supplied reason="lost"><expan><abbr>d</abbr><ex>is</ex></expan></supplied></w> <supplied reason="lost"><g ref="#interpunct">·</g></supplied> <w><expan><abbr>m</abbr><ex>anibus</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>s</abbr><ex>acrum</ex></expan></w> <g ref="#interpunct">·</g>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <name><seg part="F">us</seg></name> <g ref="#interpunct">·</g> <name>Saturio</name>
-                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <w><expan><abbr>vix</abbr><ex>it</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>ann</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <num value="7">VII</num>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <name><w><seg part="F">us</seg></w></name> <g ref="#interpunct">·</g> <name><w>Saturio</w></name>
+                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <w><expan><abbr>vix</abbr><ex>it</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>ann</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <num value="7"><w>VII</w></num>
                 </ab>
             </div>
             <div type="apparatus">

@@ -177,8 +177,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name>Πακύας</name> <name>Ποντίας</name></persName>
-                    <lb n="2"/><w>ἐ<unclear>τ</unclear>έων</w> <num value="86">ϝπ</num>
+                    <lb n="1"/><persName type="attested"><name><w>Πακύας</w></name> <name><w>Ποντίας</w></name></persName>
+                    <lb n="2"/><w>ἐ<unclear>τ</unclear>έων</w> <num value="86"><w>ϝπ</w></num>
                 </ab>
             </div>
             <div type="apparatus" resp="#JP">

@@ -189,9 +189,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
-                    <lb n="1"/><name>Oppius</name> <g ref="#interpunct">·</g> <name><abbr>Valen</abbr></name> <g ref="#interpunct">·</g> <roleName type="civic.religious" subtype="augustalis"><name><expan><abbr>Aug</abbr><ex cert="medium">ustalis</ex></expan></name></roleName> <g ref="#interpunct">·</g> <num value="3">III</num>
-                    <lb n="2"/><w>et</w> <name>Indie</name> <name>Optata</name>
-                    <lb n="3"/><name>Panio</name> <name>Atimeto</name>
+                    <lb n="1"/><name><w>Oppius</w></name> <g ref="#interpunct">·</g> <name><w><abbr>Valen</abbr></w></name> <g ref="#interpunct">·</g> <roleName type="civic.religious" subtype="augustalis"><name><w><expan><abbr>Aug</abbr><ex cert="medium">ustalis</ex></expan></w></name></roleName> <g ref="#interpunct">·</g> <num value="3"><w>III</w></num>
+                    <lb n="2"/><w>et</w> <name><w>Indie</w></name> <name><w>Optata</w></name>
+                    <lb n="3"/><name><w>Panio</w></name> <name><w>Atimeto</w></name>
                 </ab>
             </div>
             <div type="apparatus">

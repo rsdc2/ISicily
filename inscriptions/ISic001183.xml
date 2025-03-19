@@ -192,9 +192,9 @@
         <body>
             <div type="edition" xml:lang="grc" resp="#MH">
                 <ab>
-                    <lb n="1"/><name>Χαρίτων</name> <w>ἐπο<supplied reason="lost">ίησε</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><name><w>Χαρίτων</w></name> <w>ἐπο<supplied reason="lost">ίησε</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="2"/><orig>ΠΟΝ</orig><w>τὸν</w> <w>καλο<supplied reason="lost" cert="low">κοίμητον</supplied></w>
-                    <lb n="3"/><name>Ὀρφιτιανὸν</name> <orig>ΙΕ</orig><gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="3"/><name><w>Ὀρφιτιανὸν</w></name> <orig>ΙΕ</orig><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="4"/><orig>ΔΟΥΛΟ</orig><w>ἐν</w> <w><supplied reason="omitted">θ</supplied>εῷ</w> <w>τε<supplied reason="lost">λευτήσαντα</supplied></w>
                 </ab>
             </div>

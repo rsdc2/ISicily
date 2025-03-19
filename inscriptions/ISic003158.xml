@@ -197,7 +197,7 @@
                 <ab>
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <orig>DIAMV</orig><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w>ia</w> <orig>S</orig><gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <orig>B</orig><g ref="#interpunct">·</g> <name><expan><abbr><orig><unclear>L</unclear></orig></abbr><ex>uci</ex></expan></name> <name>Ru<unclear>b</unclear><supplied reason="lost" cert="low">ri</supplied></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <orig>B</orig><g ref="#interpunct">·</g> <name><w><expan><abbr><orig><unclear>L</unclear></orig></abbr><ex>uci</ex></expan></w></name> <name><w>Ru<unclear>b</unclear><supplied reason="lost" cert="low">ri</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>
             <div type="apparatus">

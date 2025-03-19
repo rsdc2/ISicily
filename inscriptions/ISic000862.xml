@@ -284,11 +284,11 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM #JP">
                 <ab>
                     <lb n="1"/><w><supplied reason="undefined" evidence="previouseditor">Βου</supplied><unclear>λ</unclear>κακία</w>
-                    <lb n="2"/><name><supplied reason="undefined" evidence="previouseditor">Τερεν</supplied>τ<unclear>ία</unclear></name> <g ref="#interpunct">·</g>
+                    <lb n="2"/><name><w><supplied reason="undefined" evidence="previouseditor">Τερεν</supplied>τ<unclear>ία</unclear></w></name> <g ref="#interpunct">·</g>
                     <lb n="3"/><w>εὐσεβ<supplied reason="undefined" evidence="previouseditor">ὴς</supplied></w>
                     <lb n="4"/><w>καὶ</w> <g ref="#interpunct">·</g> <w>ἀγαθ<unclear>ὴ</unclear></w>
                     <lb n="5"/><w><supplied reason="undefined" evidence="previouseditor">ἔ</supplied>ζησεν</w> <w>ἔ<supplied reason="undefined" evidence="previouseditor">τη</supplied></w>
-                    <lb n="6"/><supplied reason="undefined" evidence="previouseditor"><g ref="#interpunct">·</g></supplied> <num value="40">μ</num> <supplied reason="undefined" evidence="previouseditor"><g ref="#interpunct">·</g></supplied>
+                    <lb n="6"/><supplied reason="undefined" evidence="previouseditor"><g ref="#interpunct">·</g></supplied> <num value="40"><w>μ</w></num> <supplied reason="undefined" evidence="previouseditor"><g ref="#interpunct">·</g></supplied>
                 </ab>
             </div>
             <div type="apparatus">

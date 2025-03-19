@@ -191,9 +191,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#AL">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name type="idionym">Ἐπαφρᾶ<supplied reason="lost">ς</supplied></name> <persName type="attested"><name type="patronymic"><supplied reason="lost">Ἐπα</supplied>
-                    <lb n="2" break="no"/>φρᾶ</name></persName> <placeName type="ethnic"><name>Κρὴ</name> <w><supplied reason="lost">ς</supplied></w></placeName> <placeName type="ethnic"><name><supplied reason="lost">Πολυρ</supplied>
-                    <lb n="3" break="no"/>ρήνιος</name></placeName></persName>
+                    <lb n="1"/><persName type="attested"><name type="idionym"><w>Ἐπαφρᾶ<supplied reason="lost">ς</supplied></w></name> <persName type="attested"><name type="patronymic"><w><supplied reason="lost">Ἐπα</supplied>
+                    <lb n="2" break="no"/>φρᾶ</w></name></persName> <placeName type="ethnic"><name><w>Κρὴ</w></name> <w><supplied reason="lost">ς</supplied></w></placeName> <placeName type="ethnic"><name><w><supplied reason="lost">Πολυρ</supplied>
+                    <lb n="3" break="no"/>ρήνιος</w></name></placeName></persName>
                 </ab>
             </div>
             <div type="apparatus">

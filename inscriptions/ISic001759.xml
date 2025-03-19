@@ -176,11 +176,11 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#FP">
                 <ab>
                     <lb n="1"/><w>Ἐνθαδε</w> <w>κῖτε</w>
-                    <lb n="2"/><persName type="attested"><name>Βενίγνα</name></persName> <w>ζησάσα</w>
+                    <lb n="2"/><persName type="attested"><name><w>Βενίγνα</w></name></persName> <w>ζησάσα</w>
                     <lb n="3"/><w>καλῶς</w> <g ref="#staurogram">𐆠</g> <w>τελεύ
-                    <lb n="4" break="no"/>τα</w> <w>δὲ</w> <w>πρὸ</w> <w><expan><abbr>νών</abbr><ex>ας</ex><abbr><am>s</am></abbr></expan></w> <name><expan><abbr>Φεβ</abbr><ex>ρουαρί</ex><abbr>α</abbr><ex>ς</ex><abbr><am>s</am></abbr></expan></name>
-                    <lb n="5"/><w>ὑπατίᾳ</w> <persName type="attested"><name>Ταύρου</name></persName> <w>κὲ</w>
-                    <lb n="6"/><persName type="attested"><name>Φήλικος</name></persName> <w>τῶν</w> <w><expan><abbr><hi rend="ligature small">λα</hi><hi rend="small">μ</hi></abbr><ex>πρότατων</ex></expan></w>
+                    <lb n="4" break="no"/>τα</w> <w>δὲ</w> <w>πρὸ</w> <w><expan><abbr>νών</abbr><ex>ας</ex><abbr><am>s</am></abbr></expan></w> <name><w><expan><abbr>Φεβ</abbr><ex>ρουαρί</ex><abbr>α</abbr><ex>ς</ex><abbr><am>s</am></abbr></expan></w></name>
+                    <lb n="5"/><w>ὑπατίᾳ</w> <persName type="attested"><name><w>Ταύρου</w></name></persName> <w>κὲ</w>
+                    <lb n="6"/><persName type="attested"><name><w>Φήλικος</w></name></persName> <w>τῶν</w> <w><expan><abbr><hi rend="ligature small">λα</hi><hi rend="small">μ</hi></abbr><ex>πρότατων</ex></expan></w>
                 </ab>
             </div>
             <div type="apparatus">

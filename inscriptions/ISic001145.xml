@@ -192,11 +192,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#MH">
                 <ab>
-                    <lb n="1"/><name>Μαρκία</name>
-                    <lb n="2"/><name>Ἑρμαὶς</name>
+                    <lb n="1"/><name><w>Μαρκία</w></name>
+                    <lb n="2"/><name><w>Ἑρμαὶς</w></name>
                     <lb n="3"/><w><expan><abbr>ἔζ</abbr><ex>ησεν</ex></expan></w> <g ref="#ivy-leaf">❦</g> <w><expan><abbr>ἔτ</abbr><ex>η</ex></expan></w> <g ref="#ivy-leaf">❦</g>
-                    <lb n="4"/><num value="22">κβ</num>, <g ref="#ivy-leaf">❦</g> <w><expan><abbr>μῆ</abbr><ex>να</ex></expan></w> <g ref="#interpunct">·</g>
-                    <lb n="5"/><g ref="#interpunct">·</g> <num value="1">α</num> <g ref="#interpunct">·</g>
+                    <lb n="4"/><num value="22"><w>κβ</w></num>, <g ref="#ivy-leaf">❦</g> <w><expan><abbr>μῆ</abbr><ex>να</ex></expan></w> <g ref="#interpunct">·</g>
+                    <lb n="5"/><g ref="#interpunct">·</g> <num value="1"><w>α</w></num> <g ref="#interpunct">·</g>
                     <lb n="6"/>
                 </ab>
             </div>

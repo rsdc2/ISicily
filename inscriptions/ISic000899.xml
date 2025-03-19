@@ -192,12 +192,12 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
                     <lb n="1"/><w>ἐνθάδε</w> <w>κῖτε</w>
-                    <lb n="2"/><name>Ἀχιλλέους</name>
-                    <lb n="3"/><w><expan><hi rend="ligature"><abbr>ζή</abbr></hi><ex>σας</ex></expan></w> <w>ἔτη</w> <num value="18">ιη</num> <w>ἡμέρες</w>
-                    <lb n="4"/><num value="13">ιγ</num>· <w>τελ<choice><corr>ε</corr><sic>θ</sic></choice>τᾷ</w> <w>τῇ</w>
-                    <lb n="5"/><w><expan><hi rend="ligature"><abbr>πρ</abbr></hi><ex>ὸ</ex></expan></w> <num value="7">ζ</num> <w>εἰδῶν</w> <name>Ὀκτω
-                    <lb n="6" break="no"/>βρίον</name> <w>ἡμέρᾳ</w> <name>Κρό
-                    <lb n="7" break="no"/>νου</name>
+                    <lb n="2"/><name><w>Ἀχιλλέους</w></name>
+                    <lb n="3"/><w><expan><hi rend="ligature"><abbr>ζή</abbr></hi><ex>σας</ex></expan></w> <w>ἔτη</w> <num value="18"><w>ιη</w></num> <w>ἡμέρες</w>
+                    <lb n="4"/><num value="13"><w>ιγ</w></num>· <w>τελ<choice><corr>ε</corr><sic>θ</sic></choice>τᾷ</w> <w>τῇ</w>
+                    <lb n="5"/><w><expan><hi rend="ligature"><abbr>πρ</abbr></hi><ex>ὸ</ex></expan></w> <num value="7"><w>ζ</w></num> <w>εἰδῶν</w> <name><w>Ὀκτω
+                    <lb n="6" break="no"/>βρίον</w></name> <w>ἡμέρᾳ</w> <name><w>Κρό
+                    <lb n="7" break="no"/>νου</w></name>
                 </ab>
             </div>
             <div type="apparatus">

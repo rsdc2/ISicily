@@ -192,10 +192,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>Θ</abbr><ex>εοῖς</ex></expan></w> <name><expan><abbr>Κ</abbr><ex>αταχθονίοις</ex></expan></name>
-                    <lb n="2"/><name>Ἄρριος</name> <g ref="#interpunct">·</g> <name>Κοίρ
-                    <lb n="3" break="no"/>ανος</name> <w><expan><abbr>ἔζ</abbr><ex>ησεν</ex></expan></w> <g ref="#interpunct">·</g> <w>ἔ<hi rend="ligature">τη</hi></w> <num value="4">δ</num> <g ref="#interpunct">·</g>
-                    <lb n="4"/><name><abbr>Κ</abbr></name> <g ref="#interpunct">·</g> <name>Σ<hi rend="ligature">τρ</hi>ίμφακ<unclear>ο</unclear><supplied reason="omitted">ς</supplied></name> <w>θρε
+                    <lb n="1"/><w><expan><abbr>Θ</abbr><ex>εοῖς</ex></expan></w> <name><w><expan><abbr>Κ</abbr><ex>αταχθονίοις</ex></expan></w></name>
+                    <lb n="2"/><name><w>Ἄρριος</w></name> <g ref="#interpunct">·</g> <name><w>Κοίρ
+                    <lb n="3" break="no"/>ανος</w></name> <w><expan><abbr>ἔζ</abbr><ex>ησεν</ex></expan></w> <g ref="#interpunct">·</g> <w>ἔ<hi rend="ligature">τη</hi></w> <num value="4"><w>δ</w></num> <g ref="#interpunct">·</g>
+                    <lb n="4"/><name><w><abbr>Κ</abbr></w></name> <g ref="#interpunct">·</g> <name><w>Σ<hi rend="ligature">τρ</hi>ίμφακ<unclear>ο</unclear><supplied reason="omitted">ς</supplied></w></name> <w>θρε
                     <lb n="5" break="no"/>πτός</w>
                 </ab>
             </div>

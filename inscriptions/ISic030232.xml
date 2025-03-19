@@ -177,7 +177,7 @@
                 <ab>
                     <milestone unit="face" n="a"/>
                     <lb n="1"/><space extent="unknown" unit="character"/><milestone unit="face" n="b"/>
-                    <lb n="2"/><num value="4">τε<supplied reason="lost">τάρ</supplied>τα</num>
+                    <lb n="2"/><num value="4"><w>τε<supplied reason="lost">τάρ</supplied>τα</w></num>
                 </ab>
             </div>
             <div type="apparatus">

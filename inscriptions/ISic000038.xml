@@ -193,7 +193,7 @@
             <div type="edition" xml:space="preserve" xml:lang="la">
                 <ab>
                     <lb n="1"/><w>hic</w> <w>est</w> <w>posita</w>
-                    <lb n="2"/><name>Maurica</name> <w>quae</w>
+                    <lb n="2"/><name><w>Maurica</w></name> <w>quae</w>
                     <lb n="3"/><w><expan><abbr>v</abbr><ex>i</ex><abbr>xit</abbr></expan></w> <w><expan><abbr>an</abbr><ex>nos</ex></expan></w> <w><expan><abbr>pl</abbr><ex>us</ex></expan></w> <w><expan><abbr>m</abbr><ex>inus</ex></expan></w>
                     <lb n="4"/><w>et</w> <w>menses</w> <w><expan><abbr>septe</abbr><ex>m</ex></expan></w>
                 </ab>

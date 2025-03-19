@@ -194,8 +194,8 @@
                     <lb n="0"/><gap reason="lost" quantity="1" unit="line"/>
                     <lb n="2"/><roleName type="supracivic" subtype="quaestor.pro.praetore"><w><supplied reason="lost"><expan><abbr>q</abbr><ex>uaestor</ex></expan></supplied></w> <w>pro</w> <g ref="#interpunct">·</g> <w><expan><abbr>pr</abbr><ex>aetore</ex></expan></w></roleName>
                     <lb n="3"/><roleName type="military" subtype="miles"><w><supplied reason="lost">mi</supplied></w> <w>lites</w></roleName>que <g ref="#interpunct">·</g> <w>in</w> <g ref="#interpunct">·</g> <w>monte</w>
-                    <lb n="4"/><name>Eruco</name> <g ref="#interpunct">·</g> <w>fecerunt</w>
-                    <lb n="5"/><roleName type="military" subtype="tribunus.militum"><w><expan><abbr>tr</abbr><ex>ibunus</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>mil</abbr><ex>itum</ex></expan></w></roleName> <g ref="#interpunct">·</g> <gap reason="lost" extent="unknown" unit="character"/> <w>eus</w> <name>Pr</name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="4"/><name><w>Eruco</w></name> <g ref="#interpunct">·</g> <w>fecerunt</w>
+                    <lb n="5"/><roleName type="military" subtype="tribunus.militum"><w><expan><abbr>tr</abbr><ex>ibunus</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>mil</abbr><ex>itum</ex></expan></w></roleName> <g ref="#interpunct">·</g> <gap reason="lost" extent="unknown" unit="character"/> <w>eus</w> <name><w>Pr</w></name> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>
             <div type="apparatus">

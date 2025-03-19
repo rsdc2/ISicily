@@ -197,8 +197,8 @@
                     <lb n="2"/><w>pro</w> <w>meritis</w> <w>eximiae</w> <w>lenitatis</w>
                     <lb n="3"/><w>et</w> <w>benignae</w> <w>administrationis</w>
                     <lb n="4"/><w><supplied reason="lost">s</supplied>trenuo</w> <w><unclear>a</unclear>c</w> <w>praedicabili</w> <roleName type="civic" subtype="iudex"><w>iudici</w></roleName>
-                    <lb n="5"/><name>Domitio</name> <g ref="#interpunct">·</g> <name>Zenofilo</name>
-                    <lb n="6"/><w><expan><abbr>v</abbr><ex>iro</ex></expan></w> <roleName type="supracivic" subtype="clarissimus"><w><expan><abbr>c</abbr><ex>larissimo</ex></expan></w></roleName> <w><supplied reason="lost"><roleName type="supracivic" subtype="corrector"><expan><abbr>corr</abbr><ex>ectori</ex></expan></roleName></supplied></w> <w><expan><abbr>prov</abbr><ex>inciae</ex></expan></w> <name><expan><abbr>Sicil</abbr><ex>iae</ex></expan></name>
+                    <lb n="5"/><name><w>Domitio</w></name> <g ref="#interpunct">·</g> <name><w>Zenofilo</w></name>
+                    <lb n="6"/><w><expan><abbr>v</abbr><ex>iro</ex></expan></w> <roleName type="supracivic" subtype="clarissimus"><w><expan><abbr>c</abbr><ex>larissimo</ex></expan></w></roleName> <w><supplied reason="lost"><roleName type="supracivic" subtype="corrector"><expan><abbr>corr</abbr><ex>ectori</ex></expan></roleName></supplied></w> <w><expan><abbr>prov</abbr><ex>inciae</ex></expan></w> <name><w><expan><abbr>Sicil</abbr><ex>iae</ex></expan></w></name>
                 </ab>
             </div>
             <div type="apparatus">

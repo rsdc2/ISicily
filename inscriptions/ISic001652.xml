@@ -187,18 +187,18 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
                     <lb n="1"/><w><supplied reason="lost">ἐνθάδε</supplied></w> <w><supplied reason="lost">κῖτε</supplied></w> <w><supplied reason="lost">ἡ</supplied></w> <w><supplied reason="lost">μακαρία</supplied></w>
-                    <lb n="2"/><persName type="attested"><name>Ἄπρα</name></persName> <persName type="attested"><name><supplied reason="lost">Κε</supplied>ντιανοῦ</name></persName> <w>θυγάτηρ</w>
-                    <lb n="3"/><w>καὶ</w> <persName type="attested"><name>Ἀσκληπιαδότ<supplied reason="lost">ης</supplied></name></persName> <w><supplied reason="lost">δούλη</supplied></w>
-                    <lb n="4"/><persName type="divine"><name><expan><abbr><hi rend="supraline">Χ</hi></abbr><ex>ριστο</ex><abbr><hi rend="supraline">ῦ</hi></abbr></expan></name></persName> <w>ἀγαθή</w> <w>δένδρο<supplied reason="lost">ν</supplied></w> <w><supplied reason="lost">καλῶς</supplied></w>
+                    <lb n="2"/><persName type="attested"><name><w>Ἄπρα</w></name></persName> <persName type="attested"><name><w><supplied reason="lost">Κε</supplied>ντιανοῦ</w></name></persName> <w>θυγάτηρ</w>
+                    <lb n="3"/><w>καὶ</w> <persName type="attested"><name><w>Ἀσκληπιαδότ<supplied reason="lost">ης</supplied></w></name></persName> <w><supplied reason="lost">δούλη</supplied></w>
+                    <lb n="4"/><persName type="divine"><name><w><expan><abbr><hi rend="supraline">Χ</hi></abbr><ex>ριστο</ex><abbr><hi rend="supraline">ῦ</hi></abbr></expan></w></name></persName> <w>ἀγαθή</w> <w>δένδρο<supplied reason="lost">ν</supplied></w> <w><supplied reason="lost">καλῶς</supplied></w>
                     <lb n="5"/><w>ἐν</w> <w>πίστι</w> <w>ἐφυτευμ<supplied reason="lost">ένον</supplied>
                     <lb n="6" break="no"/>τῇ</w> <w>ὀλυγοχρονίᾳ</w> <w><supplied reason="lost">ἀποχω</supplied></w>
                     <lb n="7"/><w>ριθῖσα</w> <w>καὶ</w> <w>τῆς</w> <w>τοῦ</w> <w><supplied reason="lost">κόσμου</supplied></w>
                     <lb n="8"/><w>ἀγάπης</w> <w>λύπην</w> <w>κατ<supplied reason="lost">αλιποῦ</supplied>
-                    <lb n="9" break="no"/>σα</w> <w>τοῖς</w> <w>ἰδίοις.</w> <name>Ἐπλήρ<supplied reason="lost">ωσε</supplied></name> <w><supplied reason="lost">τὸ</supplied></w>
+                    <lb n="9" break="no"/>σα</w> <w>τοῖς</w> <w>ἰδίοις.</w> <name><w>Ἐπλήρ<supplied reason="lost">ωσε</supplied></w></name> <w><supplied reason="lost">τὸ</supplied></w>
                     <lb n="10"/><w>τῆς</w> <w>ψυχῆς</w> <w>δάνος</w> <w>τελε<supplied reason="lost">υτῶσα</supplied></w>
-                    <lb n="11"/><w><expan><abbr>καλ</abbr><ex>ένδαις</ex></expan></w> <name>Ἀπριλίων</name> <roleName type="supracivic" subtype="consul"><w>ὑπατ</w> <w><supplied reason="lost">ία</supplied></w> <w>ͅ</w></roleName> <persName type="attested"><name><supplied reason="lost">Θεοδο</supplied>
-                    <lb n="12" break="no"/>σίου</name></persName> <w>τὸ</w> <num value="15">ει</num> <w><expan><abbr>κ</abbr><ex>αὶ</ex></expan></w> <persName type="attested"><name>Βαλεντινιά<supplied reason="lost">νου</supplied></name></persName> <w><supplied reason="lost">τὸ</supplied></w>
-                    <lb n="13"/><num value="4">δ</num>
+                    <lb n="11"/><w><expan><abbr>καλ</abbr><ex>ένδαις</ex></expan></w> <name><w>Ἀπριλίων</w></name> <roleName type="supracivic" subtype="consul"><w>ὑπατ</w> <w><supplied reason="lost">ία</supplied></w> <w>ͅ</w></roleName> <persName type="attested"><name><w><supplied reason="lost">Θεοδο</supplied>
+                    <lb n="12" break="no"/>σίου</w></name></persName> <w>τὸ</w> <num value="15"><w>ει</w></num> <w><expan><abbr>κ</abbr><ex>αὶ</ex></expan></w> <persName type="attested"><name><w>Βαλεντινιά<supplied reason="lost">νου</supplied></w></name></persName> <w><supplied reason="lost">τὸ</supplied></w>
+                    <lb n="13"/><num value="4"><w>δ</w></num>
                 </ab>
             </div>
             <div type="apparatus">

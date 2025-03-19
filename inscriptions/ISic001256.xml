@@ -196,8 +196,8 @@
                     <lb n="2"/><w>ἁγναῖς</w>
                     <lb n="3"/><w>χαριστή
                     <lb n="4" break="no"/>ριον</w>
-                    <lb n="5"/><name><expan><abbr>Λ</abbr><ex>ούκιος</ex></expan></name> <g ref="#interpunct">·</g> <name>Μάλιος</name>
-                    <lb n="6"/><name>Ἑρμῆς</name>
+                    <lb n="5"/><name><w><expan><abbr>Λ</abbr><ex>ούκιος</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w>Μάλιος</w></name>
+                    <lb n="6"/><name><w>Ἑρμῆς</w></name>
                     <lb n="7"/><w>ῥέκτας</w>
                 </ab>
             </div>

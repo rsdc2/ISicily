@@ -174,13 +174,13 @@
                 <ab>
                     <lb n="1"/><gap reason="lost" atLeast="7" atMost="9" unit="character"/> <w><supplied reason="lost">τ</supplied>ὰ</w> <w>ἑπόμενα</w> <w>π<supplied reason="lost">άντα</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="2"/><w><supplied reason="lost">ἐ</supplied>πὶ</w> <w>λύσει</w> <w>λύσασθαι</w> <w>δ’</w> <w>ἐνι<supplied reason="lost">αυτῶι</supplied></w> <w><supplied reason="lost">ἢ</supplied></w> <w><supplied reason="lost">τῶι</supplied></w> <w><supplied reason="lost">ἕξαν</supplied></w>
-                    <lb n="3"/><w><supplied reason="lost">ἑ</supplied>ξαμήνωι</w> <name>Δίωνος</name> <w>εἶμ<supplied reason="lost">εν</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="4"/><name>Ἄμποχοι</name> <name>Αἰσχρίων</name> <name>Στρατίου</name> <g ref="#dash">–</g> <name>Στρά
-                    <lb n="5" break="no"/>τιος</name> <g ref="#dash">–</g> <name>Αἰσχρίωνος</name> <g ref="#dash">–</g> <name>Φίλων</name> <name>Ἀριστάρχ<supplied reason="lost">ου</supplied></name> <w><supplied reason="lost">τοῦ</supplied></w>
-                    <lb n="6"/><name>Φιλιστίωνος</name> <space extent="unknown" unit="character"/>
-                    <lb n="7"/><name>Ἄμποχοι</name> <name>Αἰσχρίων</name> <name>Στρατίου</name> <g ref="#dash">–</g> <space extent="unknown" unit="character"/>
-                    <lb n="8"/><w><expan><abbr><am><g type="monogram"/></am></abbr><ex>ΣΧ</ex></expan></w> <name>Αἰσχρίων</name> <name>Ὄλτου</name> <name>Φίλων</name> <name>Ἀριστα<supplied reason="lost" cert="low">ίου</supplied></name> <w><supplied reason="lost">τοῦ</supplied></w>
-                    <lb n="9"/><name>Φιλιστίωνος</name> <space extent="unknown" unit="character"/>
+                    <lb n="3"/><w><supplied reason="lost">ἑ</supplied>ξαμήνωι</w> <name><w>Δίωνος</w></name> <w>εἶμ<supplied reason="lost">εν</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="4"/><name><w>Ἄμποχοι</w></name> <name><w>Αἰσχρίων</w></name> <name><w>Στρατίου</w></name> <g ref="#dash">–</g> <name><w>Στρά
+                    <lb n="5" break="no"/>τιος</w></name> <g ref="#dash">–</g> <name><w>Αἰσχρίωνος</w></name> <g ref="#dash">–</g> <name><w>Φίλων</w></name> <name><w>Ἀριστάρχ<supplied reason="lost">ου</supplied></w></name> <w><supplied reason="lost">τοῦ</supplied></w>
+                    <lb n="6"/><name><w>Φιλιστίωνος</w></name> <space extent="unknown" unit="character"/>
+                    <lb n="7"/><name><w>Ἄμποχοι</w></name> <name><w>Αἰσχρίων</w></name> <name><w>Στρατίου</w></name> <g ref="#dash">–</g> <space extent="unknown" unit="character"/>
+                    <lb n="8"/><w><expan><abbr><am><g type="monogram"/></am></abbr><ex>ΣΧ</ex></expan></w> <name><w>Αἰσχρίων</w></name> <name><w>Ὄλτου</w></name> <name><w>Φίλων</w></name> <name><w>Ἀριστα<supplied reason="lost" cert="low">ίου</supplied></w></name> <w><supplied reason="lost">τοῦ</supplied></w>
+                    <lb n="9"/><name><w>Φιλιστίωνος</w></name> <space extent="unknown" unit="character"/>
                 </ab>
          </div>
          <div type="apparatus" resp="#RDS">

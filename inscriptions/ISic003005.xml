@@ -216,7 +216,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name><expan><abbr>T</abbr><ex>ito</ex></expan></name> <g ref="#interpunct">·</g> <name>Flavio</name> <name>Ionio</name></persName>
+                    <lb n="1"/><persName type="attested"><name><w><expan><abbr>T</abbr><ex>ito</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w>Flavio</w></name> <name><w>Ionio</w></name></persName>
                 </ab>
             </div>
             <div type="apparatus">

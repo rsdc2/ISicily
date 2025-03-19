@@ -205,11 +205,11 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM #JP">
                 <ab>
                     <lb n="1"/><w>ἐνθάδε</w> <w>κῖτε</w>
-                    <lb n="2"/><persName type="attested"><name>Παῦλα</name></persName> <w>ζήσασ<supplied reason="omitted">α</supplied></w>
-                    <lb n="3"/><w>ἔτη</w> <num value="25">κε</num> <w>ἀνέλυσε</w>
-                    <lb n="4"/><w>δὲ</w> <w>τὸν</w> <w>βίον</w> <w>πρὸ</w> <num value="8">η</num> <w>καλα<supplied reason="lost">ν</supplied>
-                    <lb n="5" break="no"/>δῶν</w> <name>Δεκενβρίων</name> <roleName type="supracivic" subtype="consul"><w>ὑπατίᾳ</w></roleName>
-                    <lb n="6"/><persName type="attested"><name>Ἱερίου</name></persName> <w>καὶ</w> <persName type="attested"><name>Ἀρταβουρίου</name></persName> <w>τῶ<unclear>ν</unclear></w>
+                    <lb n="2"/><persName type="attested"><name><w>Παῦλα</w></name></persName> <w>ζήσασ<supplied reason="omitted">α</supplied></w>
+                    <lb n="3"/><w>ἔτη</w> <num value="25"><w>κε</w></num> <w>ἀνέλυσε</w>
+                    <lb n="4"/><w>δὲ</w> <w>τὸν</w> <w>βίον</w> <w>πρὸ</w> <num value="8"><w>η</w></num> <w>καλα<supplied reason="lost">ν</supplied>
+                    <lb n="5" break="no"/>δῶν</w> <name><w>Δεκενβρίων</w></name> <roleName type="supracivic" subtype="consul"><w>ὑπατίᾳ</w></roleName>
+                    <lb n="6"/><persName type="attested"><name><w>Ἱερίου</w></name></persName> <w>καὶ</w> <persName type="attested"><name><w>Ἀρταβουρίου</w></name></persName> <w>τῶ<unclear>ν</unclear></w>
                     <lb n="7"/><roleName type="supracivic" subtype="clarissimus"><w>λανπροτάτων</w></roleName>
                 </ab>
             </div>

@@ -221,8 +221,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name><expan><abbr>Cn</abbr><ex>aie</ex></expan></name> <g ref="#interpunct">·</g> <name>Marci</name>
-                    <lb n="2"/><persName type="attested"><name><expan><abbr>Cn</abbr><ex>aii</ex></expan></name></persName> <g ref="#interpunct">·</g> <w><expan><abbr>f</abbr><ex>ilie</ex></expan></w></persName> <g ref="#interpunct">·</g> <w>salve</w>
+                    <lb n="1"/><persName type="attested"><name><w><expan><abbr>Cn</abbr><ex>aie</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w>Marci</w></name>
+                    <lb n="2"/><persName type="attested"><name><w><expan><abbr>Cn</abbr><ex>aii</ex></expan></w></name></persName> <g ref="#interpunct">·</g> <w><expan><abbr>f</abbr><ex>ilie</ex></expan></w></persName> <g ref="#interpunct">·</g> <w>salve</w>
                 </ab>
             </div>
             <div type="apparatus">

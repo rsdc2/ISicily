@@ -194,8 +194,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#FP">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name type="nomen">Σ<hi rend="tall">τ</hi>ά<hi rend="tall">τ</hi>ια</name> <g ref="#ivy-leaf">❦</g>
-                    <lb n="2"/><name type="cognomen">Ἄνθη</name></persName> <g ref="#ivy-leaf">❦</g>
+                    <lb n="1"/><persName type="attested"><name type="nomen"><w>Σ<hi rend="tall">τ</hi>ά<hi rend="tall">τ</hi>ια</w></name> <g ref="#ivy-leaf">❦</g>
+                    <lb n="2"/><name type="cognomen"><w>Ἄνθη</w></name></persName> <g ref="#ivy-leaf">❦</g>
                     <lb n="3"/><w>χρη<supplied reason="lost">στά</supplied></w> <w>χαῖ
                     <lb n="4" break="no"/><supplied reason="lost">ρ</supplied><unclear>ε</unclear></w> <g ref="#ivy-leaf">❦</g> <w><supplied reason="lost">ἔζησ</supplied><unclear>ε</unclear>ν</w>
                     <lb n="5"/><w><supplied reason="lost">ἔτη</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>

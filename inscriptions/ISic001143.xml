@@ -189,8 +189,8 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
                     <lb n="1"/><w>Μάξιμος</w>
-                    <lb n="2"/><name>Διδύμου</name> <w>υἱὸς</w>
-                    <lb n="3"/><w>ἔζησεν</w> <w>ἔτη</w> <num value="23">κγ</num>
+                    <lb n="2"/><name><w>Διδύμου</w></name> <w>υἱὸς</w>
+                    <lb n="3"/><w>ἔζησεν</w> <w>ἔτη</w> <num value="23"><w>κγ</w></num>
                 </ab>
             </div>
             <div type="apparatus">

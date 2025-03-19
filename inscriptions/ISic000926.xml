@@ -192,8 +192,8 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">ἔζη</supplied>
-                    <lb n="2" break="no"/>σεν</w> <w>ὁ</w> <w>ἐτ<choice><corr>ῶ</corr><sic>ο</sic></choice>ν</w> <num value="10">ι</num>
-                    <lb n="3"/><name>Εὔνο<unclear>μ</unclear>ος</name>
+                    <lb n="2" break="no"/>σεν</w> <w>ὁ</w> <w>ἐτ<choice><corr>ῶ</corr><sic>ο</sic></choice>ν</w> <num value="10"><w>ι</w></num>
+                    <lb n="3"/><name><w>Εὔνο<unclear>μ</unclear>ος</w></name>
                 </ab>
             </div>
             <div type="apparatus">

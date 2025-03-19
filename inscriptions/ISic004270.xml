@@ -185,9 +185,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#DEE">
                 <ab>
-                    <lb n="1"/><w><choice><orig>Des</orig><reg>Dis</reg></choice></w> <name><expan><abbr>Manib</abbr><ex>us</ex></expan></name>
-                    <lb n="2"/><persName type="attested"><name type="nomen"><expan><abbr>An</abbr><ex>nius</ex></expan></name> <name type="cognomen">Antonienus</name>
-                    <lb n="3"/><w>servi</w> <persName type="attested"><name type="patronym">Fabiani</name></persName></persName>
+                    <lb n="1"/><w><choice><orig>Des</orig><reg>Dis</reg></choice></w> <name><w><expan><abbr>Manib</abbr><ex>us</ex></expan></w></name>
+                    <lb n="2"/><persName type="attested"><name type="nomen"><w><expan><abbr>An</abbr><ex>nius</ex></expan></w></name> <name type="cognomen"><w>Antonienus</w></name>
+                    <lb n="3"/><w>servi</w> <persName type="attested"><name type="patronym"><w>Fabiani</w></name></persName></persName>
                     <lb n="4"/><w>patri</w> <w><expan><abbr>opt</abbr><ex>imo</ex></expan></w> <w>feci<supplied reason="lost">t</supplied></w>
                 </ab>
             </div>

@@ -175,7 +175,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JMP">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name>Εἰρ<hi rend="ligature" xml:id="h1">ήνη</hi></name></persName> <w><hi rend="ligature" xml:id="h2">ἐ</hi>ν</w> <w><link target="#h1 #h2"/>
+                    <lb n="1"/><persName type="attested"><name><w>Εἰρ<hi rend="ligature" xml:id="h1">ήνη</hi></w></name></persName> <w><hi rend="ligature" xml:id="h2">ἐ</hi>ν</w> <w><link target="#h1 #h2"/>
                     <lb n="2" break="no"/>θάδε</w> <w>κεῖ<hi rend="ligature">τε</hi></w>
                 </ab>
             </div>

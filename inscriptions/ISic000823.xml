@@ -190,8 +190,8 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
                     <lb n="1" xml:id="AηeAK"/><roleName type="supracivic" subtype="basileus" xml:id="AηeAU"><w xml:id="AηeAe">Βασιλέος</w></roleName> <roleName type="supracivic" subtype="hegemon" xml:id="AηeAo"><w xml:id="AηeAy">ἁγε</w> <w xml:id="AηeAΙ"><supplied reason="lost" xml:id="AηeAΤ">μόνος</supplied></w></roleName>
-                    <lb n="2" xml:id="AηeAε"/><w xml:id="AηeAο">̒Ιέρωνος</w> <name xml:id="AηeBA">Ἱεροκλέος</name>
-                    <lb n="3" xml:id="AηeBK"/><name xml:id="AηeBU">Συρακόσιοι</name> <w xml:id="AηeBe">θεοῖς</w> <w xml:id="AηeBo">πᾶσι</w>
+                    <lb n="2" xml:id="AηeAε"/><w xml:id="AηeAο">̒Ιέρωνος</w> <name xml:id="AηeBA"><w>Ἱεροκλέος</w></name>
+                    <lb n="3" xml:id="AηeBK"/><name xml:id="AηeBU"><w>Συρακόσιοι</w></name> <w xml:id="AηeBe">θεοῖς</w> <w xml:id="AηeBo">πᾶσι</w>
                 </ab>
             </div>
             <div type="apparatus">

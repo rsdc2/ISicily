@@ -187,7 +187,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1"/><supplied reason="lost"><g ref="#cross_greek">🞣</g></supplied> <w><supplied reason="lost">Κύριε</supplied></w> <w><supplied reason="lost">βοήθ</supplied>ησων</w> <w>τῷ</w> <w>δούλῳ</w> <w>σου</w> <persName type="attested"><name>Ἰουανακίῳ</name></persName>
+                    <lb n="1"/><supplied reason="lost"><g ref="#cross_greek">🞣</g></supplied> <w><supplied reason="lost">Κύριε</supplied></w> <w><supplied reason="lost">βοήθ</supplied>ησων</w> <w>τῷ</w> <w>δούλῳ</w> <w>σου</w> <persName type="attested"><name><w>Ἰουανακίῳ</w></name></persName>
                 </ab>
             </div>
             <div type="apparatus">

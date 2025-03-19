@@ -180,14 +180,14 @@
                 <div type="textpart" subtype="section" n="a">
                     <ab>
                         <milestone unit="face" n="a"/>
-                        <lb n="1"/><persName type="attested"><name type="idionym"><supplied reason="lost">Εὔθειρο</supplied>ς</name> <persName type="attested"><name type="patronym">Εὔθοινος</name></persName></persName>
-                        <lb n="2"/><num value="9">τετάρτα</num> <w><choice><orig>ἀιπὸ</orig><corr>ἀπὸ</corr></choice></w> <w>νεάτας</w>
+                        <lb n="1"/><persName type="attested"><name type="idionym"><w><supplied reason="lost">Εὔθειρο</supplied>ς</w></name> <persName type="attested"><name type="patronym"><w>Εὔθοινος</w></name></persName></persName>
+                        <lb n="2"/><num value="9"><w>τετάρτα</w></num> <w><choice><orig>ἀιπὸ</orig><corr>ἀπὸ</corr></choice></w> <w>νεάτας</w>
                     </ab>
                 </div>
                 <div type="textpart" subtype="section" n="b">
                     <ab>
                         <milestone unit="face" n="b"/>
-                        <lb n="1"/><persName type="attested"><name type="idionym">Εὔθειρος</name></persName>
+                        <lb n="1"/><persName type="attested"><name type="idionym"><w>Εὔθειρος</w></name></persName>
                     </ab>
                 </div>
             </div>

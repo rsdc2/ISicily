@@ -195,7 +195,7 @@
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w>hia</w>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <name><unclear>M</unclear></name>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <name><w><unclear>M</unclear></w></name>
                 </ab>
             </div>
             <div type="apparatus">

@@ -212,8 +212,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#TA #AA">
                 <ab>
-                    <lb n="1" xml:id="APUAK"/><persName type="attested" xml:id="APUAU"><name xml:id="APUAe">Claud<gap reason="lost" extent="unknown" unit="character" xml:id="APUAo"/></name>
-                    <lb n="2" xml:id="APUAy"/><name xml:id="APUAΙ">Fort<unclear xml:id="APUAΤ">u</unclear><gap reason="lost" extent="unknown" unit="character" xml:id="APUAε"/></name></persName>
+                    <lb n="1" xml:id="APUAK"/><persName type="attested" xml:id="APUAU"><name xml:id="APUAe"><w>Claud<gap reason="lost" extent="unknown" unit="character" xml:id="APUAo"/></w></name>
+                    <lb n="2" xml:id="APUAy"/><name xml:id="APUAΙ"><w>Fort<unclear xml:id="APUAΤ">u</unclear><gap reason="lost" extent="unknown" unit="character" xml:id="APUAε"/></w></name></persName>
                     <lb n="3" xml:id="APUAο"/><w xml:id="APUBA"><expan xml:id="APUBK"><abbr xml:id="APUBU">vix</abbr><ex xml:id="APUBe">it</ex></expan></w> <w xml:id="APUBo"><supplied reason="lost" xml:id="APUBy"><expan xml:id="APUBΙ"><abbr xml:id="APUBΤ">an</abbr><ex xml:id="APUBε">nis</ex></expan></supplied></w> <gap reason="lost" extent="unknown" unit="character" xml:id="APUBο"/>
                 </ab>
             </div>

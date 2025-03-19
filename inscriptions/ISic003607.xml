@@ -192,10 +192,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/><w>ἐ<supplied reason="lost">τ</supplied>ελεύτησεν</w> <name>Σωτη
-                    <lb n="2" break="no"/>ρ<supplied reason="lost">ὶ</supplied>ς</name> <w>ἡ</w> <w>μ<supplied reason="lost">ακ</supplied>α<supplied reason="lost">ρί</supplied>ας</w> <w>μνή
-                    <lb n="3" break="no"/>μης</w> <w>ζ<supplied reason="lost">ήσασα</supplied></w> <w>ἔτη</w> <num value="13">ιγ</num> <w>τ<supplied reason="omitted">ῇ</supplied></w> <w>πρὸ</w>
-                    <lb n="4"/><num value="8">η</num> <w><expan><abbr><supplied reason="lost">καλ</supplied>α</abbr><ex>νδῶν</ex></expan></w> <name>Ὀκτωβρίων</name>
+                    <lb n="1"/><w>ἐ<supplied reason="lost">τ</supplied>ελεύτησεν</w> <name><w>Σωτη
+                    <lb n="2" break="no"/>ρ<supplied reason="lost">ὶ</supplied>ς</w></name> <w>ἡ</w> <w>μ<supplied reason="lost">ακ</supplied>α<supplied reason="lost">ρί</supplied>ας</w> <w>μνή
+                    <lb n="3" break="no"/>μης</w> <w>ζ<supplied reason="lost">ήσασα</supplied></w> <w>ἔτη</w> <num value="13"><w>ιγ</w></num> <w>τ<supplied reason="omitted">ῇ</supplied></w> <w>πρὸ</w>
+                    <lb n="4"/><num value="8"><w>η</w></num> <w><expan><abbr><supplied reason="lost">καλ</supplied>α</abbr><ex>νδῶν</ex></expan></w> <name><w>Ὀκτωβρίων</w></name>
                 </ab>
             </div>
             <div type="apparatus">

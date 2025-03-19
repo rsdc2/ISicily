@@ -208,9 +208,9 @@
              <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
                     <lb n="1" xml:id="BRyAK"/><w xml:id="BRyAU"><supplied reason="lost" xml:id="BRyAe">θ</supplied><unclear xml:id="BRyAo">ε</unclear>οῖς</w> <w xml:id="BRyAy">πᾶσι</w>
-                    <lb n="2" xml:id="BRyAΙ"/><w xml:id="BRyAΤ"><supplied reason="lost" xml:id="BRyAε">ὁ</supplied></w> <w xml:id="BRyAο">δᾶμος</w> <w xml:id="BRyBA">τῶν</w> <name xml:id="BRyBK">Ἀλαισίνων</name>
-                    <lb n="3" xml:id="BRyBU"/><name xml:id="BRyBe"><supplied reason="lost" xml:id="BRyBo">Δι</supplied>ογένην</name> <name xml:id="BRyBy">Διογένεος</name>
-                    <lb n="4" xml:id="BRyBΙ"/><name xml:id="BRyBΤ">Λαπίρωνα</name>
+                    <lb n="2" xml:id="BRyAΙ"/><w xml:id="BRyAΤ"><supplied reason="lost" xml:id="BRyAε">ὁ</supplied></w> <w xml:id="BRyAο">δᾶμος</w> <w xml:id="BRyBA">τῶν</w> <name xml:id="BRyBK"><w>Ἀλαισίνων</w></name>
+                    <lb n="3" xml:id="BRyBU"/><name xml:id="BRyBe"><w><supplied reason="lost" xml:id="BRyBo">Δι</supplied>ογένην</w></name> <name xml:id="BRyBy"><w>Διογένεος</w></name>
+                    <lb n="4" xml:id="BRyBΙ"/><name xml:id="BRyBΤ"><w>Λαπίρωνα</w></name>
                     <lb n="5" xml:id="BRyBε"/><w xml:id="BRyBο"><supplied reason="lost" xml:id="BRyCA">εὐ</supplied>εργεσίας</w> <w xml:id="BRyCK">ἕνεκεν</w>
                 </ab>
             </div>

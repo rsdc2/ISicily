@@ -205,10 +205,10 @@
             <div type="edition" xml:space="preserve" xml:lang="la">
                 <ab>
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w>potianus</w>
-                    <lb n="2"/><w>vixit</w> <w><expan><abbr>an</abbr><ex>nis</ex></expan></w> <g ref="#interpunct">·</g> <num value="72">LXXII</num> <g ref="#interpunct">·</g> <w><expan><abbr>m</abbr><ex>ensibus</ex></expan></w> <g ref="#interpunct">·</g> <num value="3">III</num>
+                    <lb n="2"/><w>vixit</w> <w><expan><abbr>an</abbr><ex>nis</ex></expan></w> <g ref="#interpunct">·</g> <num value="72"><w>LXXII</w></num> <g ref="#interpunct">·</g> <w><expan><abbr>m</abbr><ex>ensibus</ex></expan></w> <g ref="#interpunct">·</g> <num value="3"><w>III</w></num>
                     <lb n="3"/><w>qui</w> <w>omnibus</w> <w>munici
                     <lb n="4" break="no"/>palibus</w> <w>h<supplied reason="lost">onori</supplied>bus</w> <w>functus</w>
-                    <lb n="5"/><name><expan><abbr>Q</abbr><ex>uintus</ex></expan></name> <g ref="#interpunct">·</g> <name>Ru</name> <gap reason="lost" extent="unknown" unit="character"/> <w>tri</w> <g ref="#interpunct">·</g> <w>piissimo</w>
+                    <lb n="5"/><name><w><expan><abbr>Q</abbr><ex>uintus</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w>Ru</w></name> <gap reason="lost" extent="unknown" unit="character"/> <w>tri</w> <g ref="#interpunct">·</g> <w>piissimo</w>
                 </ab>
                 <!--final checking against autopsy notes needed-->
             </div>

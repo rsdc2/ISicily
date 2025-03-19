@@ -195,15 +195,15 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/><w>ἐπὶ</w> <roleName type="civic.religious" subtype="amphipolos"><w>ἀμφιπόλου</w></roleName> <w>ἐν</w> <name>Συρακούσαις</name>
-                    <lb n="2"/><name>Ἄπρου</name> <name>Σεξστίου</name> <name>Αὐγουρείνου</name>
-                    <lb n="3"/><roleName type="civic.religious" subtype="hiereus"><w>ἱερείας</w></roleName> <w>δὲ</w> <w>παρὰ</w> <name>Παίδεσσι</name> <w>καὶ</w> <name>Ἄννᾳ</name>
-                    <lb n="4"/><name>Μαιῶρος</name> <name>Καικιλίας</name> <name>Ἀρτεμιτίου</name> <num value="15">ει</num>
-                    <lb n="5"/><name><expan><abbr>Λ</abbr><ex>ούκιος</ex></expan></name> <name>Κορνήλιος</name> <name>Ἀκυίλας</name> <w>ὑπὲρ</w> <w><choice><reg>ἑαυτοῦ</reg><orig>ἑατοῦ</orig></choice></w> <w>καὶ</w>
-                    <lb n="6"/><name>Ποίλλας</name> <name>Κορνηλίας</name> <w>τᾶς</w> <w>ματρὸς</w> <w>καὶ</w>
-                    <lb n="7"/><w>ὑπὲρ</w> <name>Μουστίας</name> <name>Οὐολουμνίλλας</name> <w>τᾶς</w>
-                    <lb n="8"/><w>ἰδίας</w> <w>γυναικός</w> <name>Ἀπόλλωνι</name> <w>καὶ</w>
-                    <lb n="9"/><name>Παίδοις</name> <w>καὶ</w> <name>Ἄννᾳ</name> <space quantity="1" unit="character"/><w>ἔνυπτρον</w> <w>ἀνέθηκε</w>
+                    <lb n="1"/><w>ἐπὶ</w> <roleName type="civic.religious" subtype="amphipolos"><w>ἀμφιπόλου</w></roleName> <w>ἐν</w> <name><w>Συρακούσαις</w></name>
+                    <lb n="2"/><name><w>Ἄπρου</w></name> <name><w>Σεξστίου</w></name> <name><w>Αὐγουρείνου</w></name>
+                    <lb n="3"/><roleName type="civic.religious" subtype="hiereus"><w>ἱερείας</w></roleName> <w>δὲ</w> <w>παρὰ</w> <name><w>Παίδεσσι</w></name> <w>καὶ</w> <name><w>Ἄννᾳ</w></name>
+                    <lb n="4"/><name><w>Μαιῶρος</w></name> <name><w>Καικιλίας</w></name> <name><w>Ἀρτεμιτίου</w></name> <num value="15"><w>ει</w></num>
+                    <lb n="5"/><name><w><expan><abbr>Λ</abbr><ex>ούκιος</ex></expan></w></name> <name><w>Κορνήλιος</w></name> <name><w>Ἀκυίλας</w></name> <w>ὑπὲρ</w> <w><choice><reg>ἑαυτοῦ</reg><orig>ἑατοῦ</orig></choice></w> <w>καὶ</w>
+                    <lb n="6"/><name><w>Ποίλλας</w></name> <name><w>Κορνηλίας</w></name> <w>τᾶς</w> <w>ματρὸς</w> <w>καὶ</w>
+                    <lb n="7"/><w>ὑπὲρ</w> <name><w>Μουστίας</w></name> <name><w>Οὐολουμνίλλας</w></name> <w>τᾶς</w>
+                    <lb n="8"/><w>ἰδίας</w> <w>γυναικός</w> <name><w>Ἀπόλλωνι</w></name> <w>καὶ</w>
+                    <lb n="9"/><name><w>Παίδοις</w></name> <w>καὶ</w> <name><w>Ἄννᾳ</w></name> <space quantity="1" unit="character"/><w>ἔνυπτρον</w> <w>ἀνέθηκε</w>
                 </ab>
             </div>
             <div type="apparatus">

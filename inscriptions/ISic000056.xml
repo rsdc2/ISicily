@@ -213,9 +213,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#MR">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name type="nomen"><expan><abbr>Claud</abbr><ex>ius</ex></expan></name> <g ref="#ivy-leaf">❦</g>
-                    <lb n="2"/><name type="cognomen">Maximus</name></persName> <g ref="#ivy-leaf">❦</g>
-                    <lb n="3"/><w><expan><abbr>vix</abbr><ex>it</ex></expan></w> <g ref="#ivy-leaf">❦</g> <w><expan><abbr>an</abbr><ex>nis</ex></expan></w> <unclear><g ref="#ivy-leaf">❦</g></unclear> <num value="17">XVII</num> <g ref="#ivy-leaf">❦</g>
+                    <lb n="1"/><persName type="attested"><name type="nomen"><w><expan><abbr>Claud</abbr><ex>ius</ex></expan></w></name> <g ref="#ivy-leaf">❦</g>
+                    <lb n="2"/><name type="cognomen"><w>Maximus</w></name></persName> <g ref="#ivy-leaf">❦</g>
+                    <lb n="3"/><w><expan><abbr>vix</abbr><ex>it</ex></expan></w> <g ref="#ivy-leaf">❦</g> <w><expan><abbr>an</abbr><ex>nis</ex></expan></w> <unclear><g ref="#ivy-leaf">❦</g></unclear> <num value="17"><w>XVII</w></num> <g ref="#ivy-leaf">❦</g>
                 </ab>
             </div>
             <div type="apparatus">

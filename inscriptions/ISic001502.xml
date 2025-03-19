@@ -196,10 +196,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#AL">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>Θ</abbr><ex>εοῖς</ex></expan></w> <name><expan><abbr>Ἐ</abbr><ex cert="low">πιτυμβίοις</ex></expan></name>
-                    <lb n="2"/><persName type="attested"><name>Νεαρχίας</name> <name>Λειβέρας</name></persName>
-                    <lb n="3"/><w>ἐπόησε</w> <persName type="attested"><name>Νεαρχία</name>
-                    <lb n="4"/><name>Γνωστὴ</name></persName> <w>ἀδελφῇ</w>
+                    <lb n="1"/><w><expan><abbr>Θ</abbr><ex>εοῖς</ex></expan></w> <name><w><expan><abbr>Ἐ</abbr><ex cert="low">πιτυμβίοις</ex></expan></w></name>
+                    <lb n="2"/><persName type="attested"><name><w>Νεαρχίας</w></name> <name><w>Λειβέρας</w></name></persName>
+                    <lb n="3"/><w>ἐπόησε</w> <persName type="attested"><name><w>Νεαρχία</w></name>
+                    <lb n="4"/><name><w>Γνωστὴ</w></name></persName> <w>ἀδελφῇ</w>
                 </ab>
             </div>
             <div type="apparatus">

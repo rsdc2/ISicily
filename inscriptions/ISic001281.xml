@@ -191,7 +191,7 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#AR">
                 <ab>
                     <lb n="1"/><w><supplied reason="lost">Θε</supplied>οις</w> <w>χθο<supplied reason="lost">νίοις</supplied></w>
-                    <lb n="2"/><name>Ἀγαθη</name> <w>χ<supplied reason="lost">αῖρε</supplied></w>
+                    <lb n="2"/><name><w>Ἀγαθη</w></name> <w>χ<supplied reason="lost">αῖρε</supplied></w>
                     <lb n="3"/><w><supplied reason="lost">ἔ</supplied>ζησεν</w> <w><supplied reason="lost">ἔτη</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>

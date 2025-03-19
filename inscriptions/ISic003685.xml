@@ -189,7 +189,7 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <orig>ΟΤΟΚΟ<unclear>Μ</unclear></orig>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w>ὑπὸ</w> <name>Κονστάτου</name>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w>ὑπὸ</w> <name><w>Κονστάτου</w></name>
                     <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">ἐ</supplied><hi rend="ligature">πί</hi>σκο<hi rend="ligature">πο</hi>υ</w> <w>τῆς</w>
                     <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">ἀρετ</supplied>ῆς</w> <w>ἔκλῃσ<surplus>η</surplus>ας</w>
                     <lb n="5"/><space extent="unknown" unit="character"/><orig>ΛΣ</orig>

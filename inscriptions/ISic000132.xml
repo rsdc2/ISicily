@@ -217,9 +217,9 @@
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#TA">
                 <ab>
                     <lb n="1" xml:id="ANUAK"/><w xml:id="ANUAU">d<hi rend="tall" xml:id="ANUAe">i</hi>s</w> <w xml:id="ANUAo"><expan xml:id="ANUAy"><abbr xml:id="ANUAΙ">m</abbr><ex xml:id="ANUAΤ">anibus</ex></expan></w> <g ref="#interpunct" xml:id="ANUAε">·</g>
-                    <lb n="2" xml:id="ANUAο"/><persName type="attested" xml:id="ANUBA"><name xml:id="ANUBK">Aquillius</name> <g ref="#interpunct" xml:id="ANUBU">·</g>
-                    <lb n="3" xml:id="ANUBe"/><name xml:id="ANUBo">Agathon</name></persName> <g ref="#interpunct" xml:id="ANUBy">·</g>
-                    <lb n="4" xml:id="ANUBΙ"/><w xml:id="ANUBΤ"><expan xml:id="ANUBε"><abbr xml:id="ANUBο">vix</abbr><ex xml:id="ANUCA">it</ex></expan></w> <g ref="#interpunct" xml:id="ANUCK">·</g> <w xml:id="ANUCU"><expan xml:id="ANUCe"><abbr xml:id="ANUCo">a</abbr><ex xml:id="ANUCy">nnis</ex></expan></w> <g ref="#interpunct" xml:id="ANUCΙ">·</g> <num value="50" xml:id="ANUCΤ">L</num> <g ref="#interpunct" xml:id="ANUCε">·</g>
+                    <lb n="2" xml:id="ANUAο"/><persName type="attested" xml:id="ANUBA"><name xml:id="ANUBK"><w>Aquillius</w></name> <g ref="#interpunct" xml:id="ANUBU">·</g>
+                    <lb n="3" xml:id="ANUBe"/><name xml:id="ANUBo"><w>Agathon</w></name></persName> <g ref="#interpunct" xml:id="ANUBy">·</g>
+                    <lb n="4" xml:id="ANUBΙ"/><w xml:id="ANUBΤ"><expan xml:id="ANUBε"><abbr xml:id="ANUBο">vix</abbr><ex xml:id="ANUCA">it</ex></expan></w> <g ref="#interpunct" xml:id="ANUCK">·</g> <w xml:id="ANUCU"><expan xml:id="ANUCe"><abbr xml:id="ANUCo">a</abbr><ex xml:id="ANUCy">nnis</ex></expan></w> <g ref="#interpunct" xml:id="ANUCΙ">·</g> <num value="50" xml:id="ANUCΤ"><w>L</w></num> <g ref="#interpunct" xml:id="ANUCε">·</g>
                 </ab>
             </div>
             <div type="apparatus">

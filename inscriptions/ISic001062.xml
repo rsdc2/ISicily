@@ -196,15 +196,15 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/><w><supplied reason="lost">Ἀ</supplied>ττειλία</w> <name>Δόμ
-                    <lb n="2" break="no"/><supplied reason="lost">ν</supplied>α</name> <name>Ἰουλίῳ</name> <name>Πα<supplied reason="lost">ύλ</supplied>
-                    <lb n="3" break="no"/>λῳ</name> <w>συμβίῳ</w> <w>γλ<supplied reason="lost">υ</supplied>
+                    <lb n="1"/><w><supplied reason="lost">Ἀ</supplied>ττειλία</w> <name><w>Δόμ
+                    <lb n="2" break="no"/><supplied reason="lost">ν</supplied>α</w></name> <name><w>Ἰουλίῳ</w></name> <name><w>Πα<supplied reason="lost">ύλ</supplied>
+                    <lb n="3" break="no"/>λῳ</w></name> <w>συμβίῳ</w> <w>γλ<supplied reason="lost">υ</supplied>
                     <lb n="4" break="no"/>κυτάτῳ</w> <w>μνία<supplied reason="lost">ς</supplied></w>
                     <lb n="5"/><w>χάριν</w> <space quantity="1" unit="character"/><w>καί</w>
-                    <lb n="6"/><name>Παύλλῃ</name> <w>θυγατρ<supplied reason="lost">ί</supplied></w>
+                    <lb n="6"/><name><w>Παύλλῃ</w></name> <w>θυγατρ<supplied reason="lost">ί</supplied></w>
                     <lb n="7"/><w>ζησάσῃ</w> <w>ἀμέμ
-                    <lb n="8" break="no"/>πτως</w> <w>ἐν</w> <name><expan><abbr>Θ</abbr><ex>εῷ</ex></expan></name> <w>ἔτε
-                    <lb n="9" break="no"/>σιν</w> <hi rend="supraline"><num value="11">ια</num></hi><w>ἡμέραις</w> <hi rend="supraline"><num value="30">λ</num></hi>
+                    <lb n="8" break="no"/>πτως</w> <w>ἐν</w> <name><w><expan><abbr>Θ</abbr><ex>εῷ</ex></expan></w></name> <w>ἔτε
+                    <lb n="9" break="no"/>σιν</w> <hi rend="supraline"><num value="11"><w>ια</w></num></hi><w>ἡμέραις</w> <hi rend="supraline"><num value="30"><w>λ</w></num></hi>
                 </ab>
             </div>
             <div type="apparatus">

@@ -202,9 +202,9 @@
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AR">
                 <ab>
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">pio</supplied></w>
-                    <lb n="2"/><w><expan><abbr><supplied reason="lost">f</supplied>el</abbr><ex>ici</ex></expan></w> <g ref="#interpunct">·</g> <name><expan><abbr>Aug</abbr><ex>usto</ex></expan></name>
-                    <lb n="3"/><w>res</w> <g ref="#interpunct">·</g> <w><expan><abbr>p</abbr><ex>ublica</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>co<unclear>l</unclear></abbr><ex>olonia</ex></expan></w> <g ref="#interpunct">·</g> <name><expan><abbr>Hel</abbr><ex>via</ex></expan></name>
-                    <lb n="4"/><name><expan><abbr>Aug</abbr><ex>usta</ex></expan></name> <g ref="#interpunct">·</g> <orgName><name><expan><abbr>Lilybit</abbr><ex>anorum</ex></expan></name></orgName>
+                    <lb n="2"/><w><expan><abbr><supplied reason="lost">f</supplied>el</abbr><ex>ici</ex></expan></w> <g ref="#interpunct">·</g> <name><w><expan><abbr>Aug</abbr><ex>usto</ex></expan></w></name>
+                    <lb n="3"/><w>res</w> <g ref="#interpunct">·</g> <w><expan><abbr>p</abbr><ex>ublica</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>co<unclear>l</unclear></abbr><ex>olonia</ex></expan></w> <g ref="#interpunct">·</g> <name><w><expan><abbr>Hel</abbr><ex>via</ex></expan></w></name>
+                    <lb n="4"/><name><w><expan><abbr>Aug</abbr><ex>usta</ex></expan></w></name> <g ref="#interpunct">·</g> <orgName><name><w><expan><abbr>Lilybit</abbr><ex>anorum</ex></expan></w></name></orgName>
                     <lb n="5"/><w>devota</w> <g ref="#interpunct">·</g> <w>numini</w>
                     <lb n="6"/><w>eorum</w>
                 </ab>

@@ -174,9 +174,9 @@
          <div type="edition" xml:space="preserve" xml:lang="grc" resp="#RDS">
                 <ab>
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w>δα</w> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w>ος</w> <gap reason="lost" atLeast="1" atMost="2" unit="character"/> <name>Ἄμ<supplied reason="lost">ποχοι</supplied></name> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <w><unclear>α</unclear></w> <name>Φ<choice><reg>ι</reg><orig>υ</orig></choice>λάγρο</name> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <name><supplied reason="lost">Ἐ</supplied>πα<choice><reg>ί</reg><orig>υ</orig></choice>νετο<unclear>υ</unclear></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w>ος</w> <gap reason="lost" atLeast="1" atMost="2" unit="character"/> <name><w>Ἄμ<supplied reason="lost">ποχοι</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <w><unclear>α</unclear></w> <name><w>Φ<choice><reg>ι</reg><orig>υ</orig></choice>λάγρο</w></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <name><w><supplied reason="lost">Ἐ</supplied>πα<choice><reg>ί</reg><orig>υ</orig></choice>νετο<unclear>υ</unclear></w></name> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/> <w><unclear>θ</unclear></w> <gap reason="illegible" extent="1" unit="character"/> <w>νικα</w> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
          </div>

@@ -189,18 +189,18 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
-                    <lb n="1"/><w><expan><abbr><unclear>C</unclear></abbr><ex>aium</ex></expan></w> <g ref="#interpunct">·</g> <name><expan><abbr>Val</abbr><ex>erium</ex></expan></name> <g ref="#interpunct">·</g> <name>Apollina<unclear>rem</unclear></name>
-                    <lb n="2"/><w><expan><abbr>v</abbr><ex>irum</ex></expan></w> <w><expan><abbr>p</abbr><ex>erfectissimum</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>corr</abbr><ex>ectorem</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>prov</abbr><ex>inciae</ex></expan></w> <g ref="#interpunct">·</g> <name><expan><abbr><unclear>Si</unclear>c</abbr><ex>iliae</ex></expan></name>
+                    <lb n="1"/><w><expan><abbr><unclear>C</unclear></abbr><ex>aium</ex></expan></w> <g ref="#interpunct">·</g> <name><w><expan><abbr>Val</abbr><ex>erium</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w>Apollina<unclear>rem</unclear></w></name>
+                    <lb n="2"/><w><expan><abbr>v</abbr><ex>irum</ex></expan></w> <w><expan><abbr>p</abbr><ex>erfectissimum</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>corr</abbr><ex>ectorem</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>prov</abbr><ex>inciae</ex></expan></w> <g ref="#interpunct">·</g> <name><w><expan><abbr><unclear>Si</unclear>c</abbr><ex>iliae</ex></expan></w></name>
                     <lb n="3"/><w><unclear>e</unclear>xemplum</w> <w>unicu<unclear>m</unclear></w>
                     <lb n="4"/><w><unclear>a</unclear>bstinentiae</w> <w>inte
                     <lb n="5" break="no"/><unclear>g</unclear>ritatis</w> <w>e<unclear>t</unclear></w> <w>innocen
                     <lb n="6" break="no"/>tiae</w> <w>iudicem</w> <w>sine</w> <w>u<unclear>l</unclear>
                     <lb n="7" break="no"/>la</w> <w>gratia</w> <w>lancis</w>
                     <lb n="8"/><w>aequae</w>
-                    <lb n="9"/><name><expan><abbr><unclear>C</unclear></abbr><ex>aius</ex></expan></name> <g ref="#interpunct">·</g> <name><expan><abbr>Val</abbr><ex>erius</ex></expan></name> <g ref="#interpunct">·</g> <name>Pompeianus</name> <g ref="#interpunct">·</g> <w><expan><abbr>v</abbr><ex>ir</ex></expan></w> <w><expan><abbr><unclear>p</unclear></abbr><ex>erfectissimus</ex></expan></w>
-                    <lb n="10"/><w><expan><abbr>cur</abbr><ex>ator</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>r</abbr><ex>ei</ex></expan></w> <w><expan><abbr>p</abbr><ex>ublicae</ex></expan></w> <g ref="#interpunct">·</g> <name><expan><abbr>Lilyb</abbr><ex>itanorum</ex></expan></name> <g ref="#interpunct">·</g> <w>patr<unclear>o</unclear>
+                    <lb n="9"/><name><w><expan><abbr><unclear>C</unclear></abbr><ex>aius</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w><expan><abbr>Val</abbr><ex>erius</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w>Pompeianus</w></name> <g ref="#interpunct">·</g> <w><expan><abbr>v</abbr><ex>ir</ex></expan></w> <w><expan><abbr><unclear>p</unclear></abbr><ex>erfectissimus</ex></expan></w>
+                    <lb n="10"/><w><expan><abbr>cur</abbr><ex>ator</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>r</abbr><ex>ei</ex></expan></w> <w><expan><abbr>p</abbr><ex>ublicae</ex></expan></w> <g ref="#interpunct">·</g> <name><w><expan><abbr>Lilyb</abbr><ex>itanorum</ex></expan></w></name> <g ref="#interpunct">·</g> <w>patr<unclear>o</unclear>
                     <lb n="11" break="no"/>num</w> <w>semper</w> <w>suu<unclear>m</unclear></w>
-                    <lb n="12"/><name>Pancrati</name> <w>dii</w> <w>te</w>
+                    <lb n="12"/><name><w>Pancrati</w></name> <w>dii</w> <w>te</w>
                     <lb n="13"/><w>servent</w>
                 </ab>
             </div>

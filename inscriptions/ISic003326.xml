@@ -196,13 +196,13 @@
                     <lb n="1"/><w>numini</w>
                     <lb n="2"/><w>praesen
                     <lb n="3" break="no"/>tissimo</w>
-                    <lb n="4"/><name><supplied reason="lost">A</supplied>esculapio</name>
-                    <lb n="5"/><name><supplied reason="lost">R</supplied>oscius</name> <name>Ae
-                    <lb n="6" break="no"/><supplied reason="lost">li</supplied>anus</name> <name>Salviu<supplied reason="lost">s</supplied></name>
+                    <lb n="4"/><name><w><supplied reason="lost">A</supplied>esculapio</w></name>
+                    <lb n="5"/><name><w><supplied reason="lost">R</supplied>oscius</w></name> <name><w>Ae
+                    <lb n="6" break="no"/><supplied reason="lost">li</supplied>anus</w></name> <name><w>Salviu<supplied reason="lost">s</supplied></w></name>
                     <lb n="7"/><w><expan><abbr>u</abbr><ex>t</ex></expan></w> <w><expan><abbr>v</abbr><ex>overat</ex></expan></w> <w><expan><abbr>r</abbr><ex>estituta</ex></expan></w> <w><expan><abbr>s</abbr><ex>alute</ex></expan></w>
                     <lb n="8"/><w><supplied reason="lost">li</supplied>bens</w> <w><expan><abbr>d</abbr><ex>onum</ex></expan></w> <w><expan><abbr>d</abbr><ex>edit</ex></expan></w>
-                    <lb n="9"/><name>Nonis</name> <name><expan><abbr>Mart</abbr><ex>iis</ex></expan></name>
-                    <lb n="10"/><name><supplied reason="lost">Al</supplied>bino</name> <w>et</w> <name>M<supplied reason="lost">aximo</supplied></name>
+                    <lb n="9"/><name><w>Nonis</w></name> <name><w><expan><abbr>Mart</abbr><ex>iis</ex></expan></w></name>
+                    <lb n="10"/><name><w><supplied reason="lost">Al</supplied>bino</w></name> <w>et</w> <name><w>M<supplied reason="lost">aximo</supplied></w></name>
                     <lb n="11"/><roleName type="supracivic" subtype="consul"><w><expan><abbr>co</abbr><ex>n</ex><supplied reason="lost"><abbr>s<am>s</am></abbr><ex>ulibus</ex></supplied></expan></w></roleName>
                 </ab>
     </div>

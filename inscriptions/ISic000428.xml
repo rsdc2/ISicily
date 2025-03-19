@@ -196,8 +196,8 @@
             <div type="edition" xml:space="preserve" xml:lang="la">
                 <ab>
                     <lb n="1"/><g ref="#ivy-leaf"/>
-                    <lb n="2"/><w><supplied reason="lost">Co</supplied>rneli</w> <g ref="#interpunct">·</g> <name>Herm</name> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="3"/><name><supplied reason="lost">Co</supplied>rnelia</name> <g ref="#interpunct">·</g> <name>Epinice</name> <g ref="#interpunct">·</g> <w>con<supplied reason="lost">iugi</supplied></w>
+                    <lb n="2"/><w><supplied reason="lost">Co</supplied>rneli</w> <g ref="#interpunct">·</g> <name><w>Herm</w></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="3"/><name><w><supplied reason="lost">Co</supplied>rnelia</w></name> <g ref="#interpunct">·</g> <name><w>Epinice</w></name> <g ref="#interpunct">·</g> <w>con<supplied reason="lost">iugi</supplied></w>
                     <lb n="4"/><w>cum</w> <w>quo</w> <w>vixit</w> <w>ann</w> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="5"/><w>et</w> <w>liberi</w> <w>utrorumqu<supplied reason="lost">e</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>

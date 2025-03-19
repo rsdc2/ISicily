@@ -199,7 +199,7 @@
                 <ab>
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <orig><supplied reason="undefined" evidence="previouseditor">ETE</supplied>N</orig><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">co</supplied>nsec<supplied reason="lost" cert="low">ravit</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="attested"><name><gap reason="lost" extent="unknown" unit="character"/><seg part="F">illio</seg></name></persName> <g ref="#interpunct">·</g> <orig>N</orig><gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="attested"><name><w><gap reason="lost" extent="unknown" unit="character"/><seg part="F">illio</seg></w></name></persName> <g ref="#interpunct">·</g> <orig>N</orig><gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>
             <div type="apparatus">

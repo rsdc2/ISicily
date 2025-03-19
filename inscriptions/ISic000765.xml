@@ -187,9 +187,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>Imp</abbr><ex>eratori</ex></expan></w> <name>C<supplied reason="lost">aesari</supplied></name> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="2"/><name>Vero</name> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="3"/><name>Pio</name> <name>F<supplied reason="lost">elici</supplied></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><w><expan><abbr>Imp</abbr><ex>eratori</ex></expan></w> <name><w>C<supplied reason="lost">aesari</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><name><w>Vero</w></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="3"/><name><w>Pio</w></name> <name><w>F<supplied reason="lost">elici</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>
             <div type="apparatus">

@@ -195,12 +195,12 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <name><expan><abbr>M</abbr><ex>anibus</ex></expan></name> <g ref="#interpunct">·</g> <w><expan><abbr>s</abbr><ex>acrum</ex></expan></w>
-                    <lb n="2"/><name>Refrius</name>
-                    <lb n="3"/><name>Restitutus</name>
+                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <name><w><expan><abbr>M</abbr><ex>anibus</ex></expan></w></name> <g ref="#interpunct">·</g> <w><expan><abbr>s</abbr><ex>acrum</ex></expan></w>
+                    <lb n="2"/><name><w>Refrius</w></name>
+                    <lb n="3"/><name><w>Restitutus</w></name>
                     <lb n="4"/><w>vixit</w> <w><expan><abbr>ann</abbr><ex>is</ex></expan></w>
-                    <lb n="5"/><hi rend="supraline"><num value="60">LX</num></hi>
-                    <lb n="6"/><name>Rest<supplied reason="lost">it</supplied>utus</name>
+                    <lb n="5"/><hi rend="supraline"><num value="60"><w>LX</w></num></hi>
+                    <lb n="6"/><name><w>Rest<supplied reason="lost">it</supplied>utus</w></name>
                     <lb n="7"/><w>pio</w> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>

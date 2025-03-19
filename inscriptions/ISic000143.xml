@@ -192,7 +192,7 @@
                 <ab>
                     <lb n="1"/><w>ces</w> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="2"/><w>estu</w> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="3"/><num atLeast="15">XV</num> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="3"/><num atLeast="15"><w>XV</w></num> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>
             <div type="apparatus">

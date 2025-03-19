@@ -189,8 +189,8 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#IG">
                 <ab>
                     <lb n="1"/><g ref="#christogram">☧</g>
-                    <lb n="2"/><persName type="attested"><choice><reg><name>Petrus</name></reg><orig><name>Peterus</name></orig></choice></persName>
-                    <lb n="3"/><w>et</w> <persName type="attested"><name>Paula</name></persName> <w><choice><reg>hic</reg><orig>inc</orig></choice></w>
+                    <lb n="2"/><persName type="attested"><choice><reg><name><w>Petrus</w></name></reg><orig><name><w>Peterus</w></name></orig></choice></persName>
+                    <lb n="3"/><w>et</w> <persName type="attested"><name><w>Paula</w></name></persName> <w><choice><reg>hic</reg><orig>inc</orig></choice></w>
                     <lb n="4"/><w>positi</w> <w><choice><reg>sunt</reg><orig>son</orig></choice></w>
                 </ab>
             </div>

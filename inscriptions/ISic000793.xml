@@ -196,10 +196,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VB">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <name><expan><abbr>M</abbr><ex>anibus</ex></expan></name> <g ref="#interpunct">∙</g>
-                    <lb n="2"/><name><expan><abbr>L</abbr><ex>uci</ex></expan></name> <g ref="#interpunct">∙</g> <name>Ostri</name> <g ref="#interpunct">∙</g> <name>Veso<hi rend="ligature">n<hi rend="tall">i</hi></hi><hi rend="ligature">an<hi rend="tall">i</hi></hi></name>
-                    <lb n="3"/><w><expan><abbr>vix</abbr><ex>it</ex></expan></w> <g ref="#interpunct">∙</g> <w><expan><abbr>an</abbr><ex>nis</ex></expan></w> <g ref="#interpunct">∙</g> <num value="36">XXXVI</num> <g ref="#interpunct">∙</g>
-                    <lb n="4"/><w><expan><abbr>me</abbr><ex>n</ex><abbr>s</abbr><ex>ibus</ex></expan></w> <g ref="#interpunct">∙</g> <num value="3">III</num> <g ref="#interpunct">∙</g> <w><expan><abbr>dieb</abbr><ex>us</ex></expan></w> <g ref="#interpunct">∙</g> <num value="15"> XV</num> <g ref="#interpunct">∙</g>
+                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <name><w><expan><abbr>M</abbr><ex>anibus</ex></expan></w></name> <g ref="#interpunct">∙</g>
+                    <lb n="2"/><name><w><expan><abbr>L</abbr><ex>uci</ex></expan></w></name> <g ref="#interpunct">∙</g> <name><w>Ostri</w></name> <g ref="#interpunct">∙</g> <name><w>Veso<hi rend="ligature">n<hi rend="tall">i</hi></hi><hi rend="ligature">an<hi rend="tall">i</hi></hi></w></name>
+                    <lb n="3"/><w><expan><abbr>vix</abbr><ex>it</ex></expan></w> <g ref="#interpunct">∙</g> <w><expan><abbr>an</abbr><ex>nis</ex></expan></w> <g ref="#interpunct">∙</g> <num value="36"><w>XXXVI</w></num> <g ref="#interpunct">∙</g>
+                    <lb n="4"/><w><expan><abbr>me</abbr><ex>n</ex><abbr>s</abbr><ex>ibus</ex></expan></w> <g ref="#interpunct">∙</g> <num value="3"><w>III</w></num> <g ref="#interpunct">∙</g> <w><expan><abbr>dieb</abbr><ex>us</ex></expan></w> <g ref="#interpunct">∙</g> <num value="15"><w> XV</w></num> <g ref="#interpunct">∙</g>
                 </ab>
             </div>
             <div type="apparatus">

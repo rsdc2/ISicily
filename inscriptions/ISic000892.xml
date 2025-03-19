@@ -191,8 +191,8 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
                     <lb n="1"/><w>ἐνθάδε</w>
-                    <lb n="2"/><w>κῖτε</w> <name>Ἀντ
-                    <lb n="3" break="no"/>ωνῖνος</name>
+                    <lb n="2"/><w>κῖτε</w> <name><w>Ἀντ
+                    <lb n="3" break="no"/>ωνῖνος</w></name>
                     <lb n="4"/><w>ἔτ<subst><del rend="corrected">η</del><add place="overstrike">ῶν</add></subst></w> <w>τριά
                     <lb n="5" break="no"/><supplied reason="lost">κο</supplied>ντα</w>
                     <lb n="6"/><orig>Κ</orig><gap reason="lost" quantity="1" unit="character"/> <orig>ΠΔΕΙ</orig>

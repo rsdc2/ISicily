@@ -196,9 +196,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/><w>ἐπὶ</w> <name>Ἀριστοδάμου</name>
-                    <lb n="2"/><w>τοῦ</w> <name>Σωσιβίου</name>
-                    <lb n="3"/><name>Νυμφ<supplied reason="omitted">ὼ</supplied>ι</name> <name>Ἱέρωνος</name>
+                    <lb n="1"/><w>ἐπὶ</w> <name><w>Ἀριστοδάμου</w></name>
+                    <lb n="2"/><w>τοῦ</w> <name><w>Σωσιβίου</w></name>
+                    <lb n="3"/><name><w>Νυμφ<supplied reason="omitted">ὼ</supplied>ι</w></name> <name><w>Ἱέρωνος</w></name>
                     <lb n="4"/><w>μναμονεύσασ<unclear>α</unclear></w>
                     <lb n="5"/><w>ἁγναῖς</w> <w>θεαῖς</w>
                 </ab>

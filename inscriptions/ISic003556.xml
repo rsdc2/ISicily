@@ -187,7 +187,7 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
                     <lb n="1"/><w>συνβί</w> <gap reason="lost" unit="character" quantity="3"/> <w>καὶ</w> <w>ματρὶ</w> <w><choice><reg>Ἰχνατία</reg><orig>Ἰχνδτι</orig></choice></w>
-                    <lb n="2"/><name>Ζαχαρίας</name> <gap reason="lost" unit="character" quantity="3"/> <w>καὶ</w> <name>Κούϊντος</name>
+                    <lb n="2"/><name><w>Ζαχαρίας</w></name> <gap reason="lost" unit="character" quantity="3"/> <w>καὶ</w> <name><w>Κούϊντος</w></name>
                     <lb n="3"/><w>υἱὸς</w> <w><choice><reg>Πριμιγένεως</reg><orig>Πριμιγνίτως</orig></choice></w>
                     <lb n="4"/><w>μνήμης</w> <w>χάριν</w>
                     <lb n="5"/><w>ἐποίησαν</w>

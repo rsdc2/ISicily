@@ -184,7 +184,7 @@
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
                     <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <w><supplied reason="lost"><expan><abbr>m</abbr><ex>anibus</ex></expan></supplied></w>
-                    <lb n="2"/><persName type="attested"><name>Besa<supplied reason="lost">s</supplied></name></persName> <w><supplied reason="lost">qui</supplied></w> <w><supplied reason="lost">vi</supplied>
+                    <lb n="2"/><persName type="attested"><name><w>Besa<supplied reason="lost">s</supplied></w></name></persName> <w><supplied reason="lost">qui</supplied></w> <w><supplied reason="lost">vi</supplied>
                     <lb n="3" break="no"/>xit</w> <w><supplied reason="lost">annis</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="4"/><w><expan><abbr>f</abbr><ex>ecit</ex></expan></w> <w>m<supplied reason="lost">ater</supplied></w>
                 </ab>

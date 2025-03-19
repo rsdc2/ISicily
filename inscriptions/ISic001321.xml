@@ -192,10 +192,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#AL">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>Θ</abbr><ex>εοῖς</ex></expan></w> <g ref="#interpunct">·</g> <name><expan><abbr>Κ</abbr><ex>αταχθονίοις</ex></expan></name> <g ref="#interpunct">·</g>
-                    <lb n="2"/><persName type="attested"><name type="nomen">Ῥωσκία</name>
-                    <lb n="3"/><name type="cognomen">Ἰουκοῦν
-                    <lb n="4" break="no"/>δα</name></persName> <g ref="#interpunct">·</g> <w>εὐσεβ<supplied reason="lost">ής</supplied></w>
+                    <lb n="1"/><w><expan><abbr>Θ</abbr><ex>εοῖς</ex></expan></w> <g ref="#interpunct">·</g> <name><w><expan><abbr>Κ</abbr><ex>αταχθονίοις</ex></expan></w></name> <g ref="#interpunct">·</g>
+                    <lb n="2"/><persName type="attested"><name type="nomen"><w>Ῥωσκία</w></name>
+                    <lb n="3"/><name type="cognomen"><w>Ἰουκοῦν
+                    <lb n="4" break="no"/>δα</w></name></persName> <g ref="#interpunct">·</g> <w>εὐσεβ<supplied reason="lost">ής</supplied></w>
                     <lb n="5"/><w>ἔζησ<supplied reason="omitted">ε</supplied></w> <w><choice><reg>ἔτη</reg><orig>ἔτε</orig></choice></w> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>

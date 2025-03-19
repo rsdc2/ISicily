@@ -175,7 +175,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="xly-Grek">
                 <ab>
-                    <lb n="1" xml:id="UgAAK"/><persName cert="low" xml:id="UgAAU"><name xml:id="UgAAe"><unclear xml:id="UgAAo">Δ</unclear>Ο<unclear xml:id="UgAAy">Ϝ</unclear>ΕΝΑ</name> <name xml:id="UgAAΙ">ΜΥΤΑΑΙ</name></persName>
+                    <lb n="1" xml:id="UgAAK"/><persName cert="low" xml:id="UgAAU"><name xml:id="UgAAe"><w><unclear xml:id="UgAAo">Δ</unclear>Ο<unclear xml:id="UgAAy">Ϝ</unclear>ΕΝΑ</w></name> <name xml:id="UgAAΙ"><w>ΜΥΤΑΑΙ</w></name></persName>
                 </ab>
             </div>
             <div type="edition" xml:space="preserve" subtype="transliteration" xml:lang="xly-Latn">

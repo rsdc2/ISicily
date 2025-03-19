@@ -195,7 +195,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#EK">
                 <ab>
-                    <lb n="1"/><persName><name><gap reason="lost" extent="unknown" unit="character"/><seg part="F">θρα</seg></name></persName>
+                    <lb n="1"/><persName><name><w><gap reason="lost" extent="unknown" unit="character"/><seg part="F">θρα</seg></w></name></persName>
                 </ab>
             </div>
             <div type="apparatus">

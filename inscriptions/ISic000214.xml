@@ -212,10 +212,10 @@
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#VM #AA">
                 <ab>
                     <lb n="1"/><w><supplied reason="lost">Ex</supplied></w> <w><expan><abbr>d</abbr><ex>ecreto</ex></expan></w> <roleName type="civic" subtype="decurio"><w><expan><abbr>d</abbr><ex>ecurionum</ex></expan></w></roleName>
-                    <lb n="2"/><persName type="attested"><name><supplied reason="lost" cert="low"><expan><abbr>L</abbr><ex>ucio</ex></expan></supplied></name> <name>Rufeio</name> <persName type="attested"><name type="patronym"><expan><abbr>L</abbr><ex>uci</ex></expan></name></persName> <w><expan><abbr><unclear>f</unclear></abbr><ex>ilio</ex></expan></w> <orgName type="tribus"><name><expan><abbr><hi rend="ligature">Qui</hi></abbr><ex>rina tribu</ex></expan></name></orgName>
-                    <lb n="3"/><name>Laeto</name></persName>
-                    <lb n="4"/><w>in</w> <w><expan><abbr>front</abbr><ex>e</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>p</abbr><ex>edes</ex></expan></w> <g ref="#interpunct">·</g> <num value="25">XXV</num>
-                    <lb n="5"/><w>in</w> <w><expan><abbr>agr</abbr><ex>o</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>p</abbr><ex>edes</ex></expan></w> <g ref="#interpunct">·</g> <num value="30">XXX</num>
+                    <lb n="2"/><persName type="attested"><name><w><supplied reason="lost" cert="low"><expan><abbr>L</abbr><ex>ucio</ex></expan></supplied></w></name> <name><w>Rufeio</w></name> <persName type="attested"><name type="patronym"><w><expan><abbr>L</abbr><ex>uci</ex></expan></w></name></persName> <w><expan><abbr><unclear>f</unclear></abbr><ex>ilio</ex></expan></w> <orgName type="tribus"><name><w><expan><abbr><hi rend="ligature">Qui</hi></abbr><ex>rina tribu</ex></expan></w></name></orgName>
+                    <lb n="3"/><name><w>Laeto</w></name></persName>
+                    <lb n="4"/><w>in</w> <w><expan><abbr>front</abbr><ex>e</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>p</abbr><ex>edes</ex></expan></w> <g ref="#interpunct">·</g> <num value="25"><w>XXV</w></num>
+                    <lb n="5"/><w>in</w> <w><expan><abbr>agr</abbr><ex>o</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>p</abbr><ex>edes</ex></expan></w> <g ref="#interpunct">·</g> <num value="30"><w>XXX</w></num>
                 </ab>
             </div>
             <div type="apparatus">

@@ -198,7 +198,7 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#AA">
                 <ab>
                     <lb n="1" xml:id="DDKAK"/><w xml:id="DDKAU">Μάτερις</w>
-                    <lb n="2" xml:id="DDKAe"/><w xml:id="DDKAo">ὁ</w> <name xml:id="DDKAy">Πεισάνδρο̅</name>
+                    <lb n="2" xml:id="DDKAe"/><w xml:id="DDKAo">ὁ</w> <name xml:id="DDKAy"><w>Πεισάνδρο̅</w></name>
                 </ab>
             </div>
             <div type="apparatus">

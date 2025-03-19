@@ -174,7 +174,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/><g ref="#sign_uninterpreted"/> <num value="5">Λ</num> <space quantity="1" unit="character"/><num value="1">Ι</num> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><g ref="#sign_uninterpreted"/> <num value="5"><w>Λ</w></num> <space quantity="1" unit="character"/><num value="1"><w>Ι</w></num> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>
             <div type="edition" xml:space="preserve" subtype="transliteration" xml:lang="xly-Latn">

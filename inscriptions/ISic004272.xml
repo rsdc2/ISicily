@@ -189,8 +189,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#DEE">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name>Canace</name></persName>
-                    <lb n="2"/><persName type="attested"><name>Saturnino</name></persName>
+                    <lb n="1"/><persName type="attested"><name><w>Canace</w></name></persName>
+                    <lb n="2"/><persName type="attested"><name><w>Saturnino</w></name></persName>
                 </ab>
             </div>
             <div type="apparatus">

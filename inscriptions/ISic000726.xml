@@ -212,8 +212,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#TA #JP">
                 <ab>
-                    <lb n="1"/><roleName type="supracivic" subtype="imperator"><w><expan><abbr>Imp</abbr><ex>eratori</ex></expan></w></roleName> <name><expan><abbr>Caes</abbr><ex>ari</ex></expan></name> <w><supplied reason="lost" cert="low">divi</supplied></w> <name><supplied reason="lost" cert="low">Nervae</supplied></name> <w><supplied reason="lost" cert="low"><expan><abbr>f</abbr><ex>ilio</ex></expan></supplied></w> <name><supplied reason="lost" cert="low">Nervae</supplied></name> <name><supplied reason="lost" cert="low">Traiano</supplied></name> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="2"/><name>Germa<supplied reason="lost">nico</supplied></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><roleName type="supracivic" subtype="imperator"><w><expan><abbr>Imp</abbr><ex>eratori</ex></expan></w></roleName> <name><w><expan><abbr>Caes</abbr><ex>ari</ex></expan></w></name> <w><supplied reason="lost" cert="low">divi</supplied></w> <name><w><supplied reason="lost" cert="low">Nervae</supplied></w></name> <w><supplied reason="lost" cert="low"><expan><abbr>f</abbr><ex>ilio</ex></expan></supplied></w> <name><w><supplied reason="lost" cert="low">Nervae</supplied></w></name> <name><w><supplied reason="lost" cert="low">Traiano</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><name><w>Germa<supplied reason="lost">nico</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="3"/><roleName type="supracivic" subtype="proconsul"><w><expan><abbr>proco</abbr><ex>n</ex><supplied reason="lost"><abbr>s</abbr><ex>uli</ex></supplied></expan></w></roleName> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>

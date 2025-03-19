@@ -202,10 +202,10 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#martaf">
                 <ab>
                     <lb n="1"/><g ref="#christogram">☧</g>
-                    <lb n="2"/><w>Ἐνθάδε</w> <w>κεῖτε</w> <persName type="attested"><name>Δόξα</name></persName>
-                    <lb n="3"/><w>ζήσασα</w> <w>ἔτη</w> <num value="28"><hi rend="supraline">κη</hi></num>
+                    <lb n="2"/><w>Ἐνθάδε</w> <w>κεῖτε</w> <persName type="attested"><name><w>Δόξα</w></name></persName>
+                    <lb n="3"/><w>ζήσασα</w> <w>ἔτη</w> <num value="28"><w><hi rend="supraline">κη</hi></w></num>
                     <lb n="4"/><w>τελευτᾷ</w> <w>τῇ</w> <w>πρὸ</w> <gap reason="lost" unit="character" quantity="1"/>
-                    <lb n="5"/><w><expan><abbr>καλ</abbr><ex>ανδῶν</ex></expan></w> <name><expan><abbr>Ὀκτωβ<supplied reason="lost">ρ</supplied></abbr><supplied reason="lost"><ex>ίων</ex></supplied></expan></name>
+                    <lb n="5"/><w><expan><abbr>καλ</abbr><ex>ανδῶν</ex></expan></w> <name><w><expan><abbr>Ὀκτωβ<supplied reason="lost">ρ</supplied></abbr><supplied reason="lost"><ex>ίων</ex></supplied></expan></w></name>
                     <lb n="6"/><orig><unclear>ΛΣ</unclear></orig><orig>ΣΑ</orig><gap reason="illegible" unit="character" quantity="1"/> <orig>Λ</orig><orig><unclear>ΤΗΗ</unclear></orig><gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>

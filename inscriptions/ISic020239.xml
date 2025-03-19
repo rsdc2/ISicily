@@ -175,7 +175,7 @@
             <div type="edition" xml:space="preserve" xml:lang="xly-Grek">
                 <ab>
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w>ΝΑ</w>
-                    <lb n="2"/><name><unclear>Ο</unclear></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><name><w><unclear>Ο</unclear></w></name> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>
             <div type="edition" xml:space="preserve" subtype="transliteration" xml:lang="xly-Latn">

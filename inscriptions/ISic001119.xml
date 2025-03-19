@@ -194,12 +194,12 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
                     <lb n="1"/><w>Ἰγνάτιος</w>
-                    <lb n="2"/><name>Μαριανὸς</name>
+                    <lb n="2"/><name><w>Μαριανὸς</w></name>
                     <lb n="3"/><w><del rend="erasure">χρηστὸς</del></w>
                     <lb n="4"/><w>καὶ</w> <w>ἄμεν<hi rend="ligature">πτ</hi>ος</w>
                     <lb n="5"/><w>ἔζησεν</w> <w>ἔτη</w>
-                    <lb n="6"/><g ref="#interpunct">·</g> <num value="50">ν</num> <g ref="#interpunct">·</g>
-                    <lb n="7"/><w>ἡμέρας</w> <g ref="#interpunct">·</g> <num value="7">ζ</num> <g ref="#interpunct">·</g>
+                    <lb n="6"/><g ref="#interpunct">·</g> <num value="50"><w>ν</w></num> <g ref="#interpunct">·</g>
+                    <lb n="7"/><w>ἡμέρας</w> <g ref="#interpunct">·</g> <num value="7"><w>ζ</w></num> <g ref="#interpunct">·</g>
                 </ab>
             </div>
             <div type="apparatus">

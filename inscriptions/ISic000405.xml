@@ -190,7 +190,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la">
                 <ab>
-                    <lb n="1"/><w>Neratius</w> <name>Palmatus</name> <w><expan><abbr>v</abbr><ex>ir</ex></expan></w> <w><supplied reason="lost"><roleName type="supracivic" subtype="clarissimus"><expan><abbr>c</abbr><ex>larissimus</ex></expan></roleName></supplied></w> <w><supplied reason="lost"><roleName type="supracivic" subtype="consularis"><expan><abbr>cons</abbr><ex>ularis</ex></expan></roleName></supplied></w>
+                    <lb n="1"/><w>Neratius</w> <name><w>Palmatus</w></name> <w><expan><abbr>v</abbr><ex>ir</ex></expan></w> <w><supplied reason="lost"><roleName type="supracivic" subtype="clarissimus"><expan><abbr>c</abbr><ex>larissimus</ex></expan></roleName></supplied></w> <w><supplied reason="lost"><roleName type="supracivic" subtype="consularis"><expan><abbr>cons</abbr><ex>ularis</ex></expan></roleName></supplied></w>
                     <lb n="2"/><w>etiam</w> <w>frontem</w> <w>scaenae</w> <orig>O</orig><gap reason="lost" unit="character" extent="unknown"/>
                 </ab>
             </div>

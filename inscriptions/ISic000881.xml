@@ -191,9 +191,9 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
                     <lb n="1"/><w>ἐνθάδε</w> <w>κῖτε</w> <w><expan><abbr>θ</abbr><ex>εο</ex><abbr>ῦ</abbr></expan></w>
-                    <lb n="2"/><w>δοῦλος</w> <name>Ἀγάπιος</name>
-                    <lb n="3"/><w>τελευτήσας</w> <w>τῇ</w> <w>πρὸ</w> <num value="9">θ</num>
-                    <lb n="4"/><w><expan><abbr>καλ</abbr><ex>ανδῶν</ex></expan></w> <g ref="#interpunct">·</g> <name><expan><abbr>Σεπτεμβ</abbr><ex>ρίων</ex></expan></name>
+                    <lb n="2"/><w>δοῦλος</w> <name><w>Ἀγάπιος</w></name>
+                    <lb n="3"/><w>τελευτήσας</w> <w>τῇ</w> <w>πρὸ</w> <num value="9"><w>θ</w></num>
+                    <lb n="4"/><w><expan><abbr>καλ</abbr><ex>ανδῶν</ex></expan></w> <g ref="#interpunct">·</g> <name><w><expan><abbr>Σεπτεμβ</abbr><ex>ρίων</ex></expan></w></name>
                 </ab>
             </div>
             <div type="apparatus">

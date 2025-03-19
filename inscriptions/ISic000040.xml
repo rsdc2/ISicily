@@ -211,10 +211,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name>Quintus</name>
-                    <lb n="2"/><name>C<unclear>aec</unclear><supplied reason="lost">ilius</supplied></name> <name>Pul
-                    <lb n="3"/>ch<unclear>e</unclear><supplied reason="lost">r</supplied></name></persName> <w><supplied reason="lost">vix</supplied>it</w>
-                    <lb n="4"/><w>an<unclear>nis</unclear></w> <num value="18"><unclear>XVI</unclear>II</num>
+                    <lb n="1"/><persName type="attested"><name><w>Quintus</w></name>
+                    <lb n="2"/><name><w>C<unclear>aec</unclear><supplied reason="lost">ilius</supplied></w></name> <name><w>Pul
+                    <lb n="3"/>ch<unclear>e</unclear><supplied reason="lost">r</supplied></w></name></persName> <w><supplied reason="lost">vix</supplied>it</w>
+                    <lb n="4"/><w>an<unclear>nis</unclear></w> <num value="18"><w><unclear>XVI</unclear>II</w></num>
                 </ab>
             </div>
             <div type="apparatus" resp="#JP">

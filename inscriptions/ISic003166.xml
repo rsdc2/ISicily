@@ -189,9 +189,9 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
                     <lb n="1"/><w>Χρηστὸς</w> <w>ἔζη
-                    <lb n="2" break="no"/>σεν</w> <w>ἔτη</w> <num value="27">κζ</num> <g ref="#ivy-leaf">❦</g> <w>καὶ</w>
+                    <lb n="2" break="no"/>σεν</w> <w>ἔτη</w> <num value="27"><w>κζ</w></num> <g ref="#ivy-leaf">❦</g> <w>καὶ</w>
                     <lb n="3"/><w>ἐτελεύτα</w> <w><expan><abbr>καλ</abbr><ex>άνδαις</ex></expan></w>
-                    <lb n="4"/><name><expan><abbr>Νοβ</abbr><ex>εμβρίαις</ex></expan></name> <g ref="#ivy-leaf">❦</g> <name>Νύμφιος</name>
+                    <lb n="4"/><name><w><expan><abbr>Νοβ</abbr><ex>εμβρίαις</ex></expan></w></name> <g ref="#ivy-leaf">❦</g> <name><w>Νύμφιος</w></name>
                 </ab>
             </div>
             <div type="apparatus">

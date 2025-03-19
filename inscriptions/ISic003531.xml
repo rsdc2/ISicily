@@ -198,10 +198,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#VB">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <g ref="#interpunct">❦</g> <name><expan><abbr>M</abbr><ex>anibus</ex></expan></name> <g ref="#interpunct">❦</g>
-                    <lb n="2"/><name><expan><abbr>P</abbr><ex>ublio</ex></expan></name> <g ref="#interpunct">∙</g> <name>Licinio</name> <g ref="#interpunct">∙</g> <name>Liciniano</name>
-                    <lb n="3"/><w>vixit</w> <g ref="#interpunct">∙</g> <w>annis</w> <g ref="#interpunct">∙</g> <num value="35">XXXV</num>
-                    <lb n="4"/><name>Didia</name> <g ref="#interpunct">∙</g> <name>Pistis</name> <g ref="#interpunct">∙</g>
+                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <g ref="#interpunct">❦</g> <name><w><expan><abbr>M</abbr><ex>anibus</ex></expan></w></name> <g ref="#interpunct">❦</g>
+                    <lb n="2"/><name><w><expan><abbr>P</abbr><ex>ublio</ex></expan></w></name> <g ref="#interpunct">∙</g> <name><w>Licinio</w></name> <g ref="#interpunct">∙</g> <name><w>Liciniano</w></name>
+                    <lb n="3"/><w>vixit</w> <g ref="#interpunct">∙</g> <w>annis</w> <g ref="#interpunct">∙</g> <num value="35"><w>XXXV</w></num>
+                    <lb n="4"/><name><w>Didia</w></name> <g ref="#interpunct">∙</g> <name><w>Pistis</w></name> <g ref="#interpunct">∙</g>
                     <lb n="5"/><w>coniugi</w> <g ref="#interpunct">∙</g> <w>benemere<hi rend="ligature">nt<hi rend="tall">t</hi></hi>i</w>
                 </ab>
                 <!-- source text in the original generation of the file was EDR078346, via the EAGLE project -->

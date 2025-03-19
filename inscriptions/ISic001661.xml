@@ -186,7 +186,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="xpu">
                 <ab>
-                    <lb n="1" style="text-direction:r-to-l"/><w>š</w> <persName type="attested"><name>mgn</name></persName>
+                    <lb n="1" style="text-direction:r-to-l"/><w>š</w> <persName type="attested"><name><w>mgn</w></name></persName>
                 </ab>
             </div>
             <div type="apparatus">

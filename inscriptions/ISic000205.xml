@@ -194,8 +194,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#VM">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>Cn</abbr><ex>aeus</ex></expan></w> <g ref="#interpunct">·</g> <name>Patulcius</name> <g ref="#interpunct">·</g> <name>Phileros</name>
-                    <lb n="2"/><name>Patulciae</name> <g ref="#interpunct">·</g> <name>Auge</name>
+                    <lb n="1"/><w><expan><abbr>Cn</abbr><ex>aeus</ex></expan></w> <g ref="#interpunct">·</g> <name><w>Patulcius</w></name> <g ref="#interpunct">·</g> <name><w>Phileros</w></name>
+                    <lb n="2"/><name><w>Patulciae</w></name> <g ref="#interpunct">·</g> <name><w>Auge</w></name>
                 </ab>
             </div>
             <div type="apparatus">

@@ -190,7 +190,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JH">
                 <ab>
-                    <lb n="1"/><w>Di<hi rend="tall">i</hi>s</w> <name>Manibus</name> <w><supplied reason="lost" cert="low">sacrum</supplied></w>
+                    <lb n="1"/><w>Di<hi rend="tall">i</hi>s</w> <name><w>Manibus</w></name> <w><supplied reason="lost" cert="low">sacrum</supplied></w>
                     <lb n="2"/><w>amicae</w> <w>carissi<supplied reason="lost">mae sepulcrum et mo</supplied>
                     <lb n="3" break="no"/>nimentum</w> <w>fe<supplied reason="lost">ci</supplied></w> <gap reason="lost" extent="unknown" unit="character"><desc>personal name</desc></gap>
                     <lb n="4"/><w>quae</w> <w>a</w> <w>pluribus</w> <w><supplied reason="lost">heredibus non haben</supplied>

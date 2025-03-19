@@ -184,22 +184,22 @@
         <body>
             <div type="edition" xml:space="preserve" subtype="PHI" n="PHI336721">
                 <ab>
-                    <lb n="1"/><w>Μ</w> <name><surplus>²plough</surplus>²</name>
+                    <lb n="1"/><w>Μ</w> <name><w><surplus>²plough</surplus>²</w></name>
                     <lb n="2"/>
-                    <lb n="3"/><name>Η</name>
-                    <lb n="4"/><name><surplus>²jar</surplus>²</name>
-                    <lb n="5"/><w>ΝΙΑ</w> <name><surplus>²retrograde</surplus>²</name>
+                    <lb n="3"/><name><w>Η</w></name>
+                    <lb n="4"/><name><w><surplus>²jar</surplus>²</w></name>
+                    <lb n="5"/><w>ΝΙΑ</w> <name><w><surplus>²retrograde</surplus>²</w></name>
                     <lb n="6"/>
-                    <lb n="7"/><name>Μ|η|νία.</name>
+                    <lb n="7"/><name><w>Μ|η|νία.</w></name>
                     <lb n="8"/>
                     <lb n="9"/><w>εὖ</w>
-                    <lb n="10"/><name><surplus>²amphora</surplus>²</name>
+                    <lb n="10"/><name><w><surplus>²amphora</surplus>²</w></name>
                     <lb n="11"/>
-                    <lb n="12"/><name><surplus>²dolphin</surplus>²</name>
+                    <lb n="12"/><name><w><surplus>²dolphin</surplus>²</w></name>
                     <lb n="13"/>
-                    <lb n="14"/><name><surplus>²swastika</surplus>²</name>
+                    <lb n="14"/><name><w><surplus>²swastika</surplus>²</w></name>
                     <lb n="15"/>
-                    <lb n="16"/><name><surplus>²monogram:</surplus>²</name> <name>Ἡρέα.</name>
+                    <lb n="16"/><name><w><surplus>²monogram:</surplus>²</w></name> <name><w>Ἡρέα.</w></name>
                     <lb n="17"/>
                 </ab>
             </div>

@@ -204,14 +204,14 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <name><expan><abbr>M</abbr><ex>anibus</ex></expan></name> <g ref="#interpunct">·</g> <name><expan><abbr>S</abbr><ex>acrum</ex></expan></name> <g ref="#interpunct">·</g>
-                    <lb n="2"/><persName type="attested"><name type="praenomen"><expan><abbr>M</abbr><ex>arcus</ex></expan></name> <g ref="#interpunct">·</g> <name type="nomen">Avianius</name> <name type="cognomen">Pistianus</name></persName>
-                    <lb n="3"/><w>et</w> <g ref="#interpunct">·</g> <persName type="attested"><name type="nomen">Maria</name> <name type="cognomen">Eupraxia</name></persName> <w>vi
+                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <name><w><expan><abbr>M</abbr><ex>anibus</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w><expan><abbr>S</abbr><ex>acrum</ex></expan></w></name> <g ref="#interpunct">·</g>
+                    <lb n="2"/><persName type="attested"><name type="praenomen"><w><expan><abbr>M</abbr><ex>arcus</ex></expan></w></name> <g ref="#interpunct">·</g> <name type="nomen"><w>Avianius</w></name> <name type="cognomen"><w>Pistianus</w></name></persName>
+                    <lb n="3"/><w>et</w> <g ref="#interpunct">·</g> <persName type="attested"><name type="nomen"><w>Maria</w></name> <name type="cognomen"><w>Eupraxia</w></name></persName> <w>vi
                     <lb n="4" break="no"/>vi</w> <g ref="#interpunct">·</g> <w>sibi</w> <g ref="#interpunct">·</g> <w>et</w> <g ref="#interpunct">·</g> <w>suis</w> <g ref="#interpunct">·</g> <w>fece<hi rend="ligature">ru</hi><hi rend="ligature">nt</hi></w>
-                    <lb n="5"/><w>et</w> <g ref="#interpunct">·</g> <persName type="attested"><name type="nomen">Mario</name> <name type="cognomen">Eutychiano</name></persName> <g ref="#interpunct">·</g> <w><hi rend="tall">f</hi>ili
+                    <lb n="5"/><w>et</w> <g ref="#interpunct">·</g> <persName type="attested"><name type="nomen"><w>Mario</w></name> <name type="cognomen"><w>Eutychiano</w></name></persName> <g ref="#interpunct">·</g> <w><hi rend="tall">f</hi>ili
                     <lb n="6" break="no"/><hi rend="small">o</hi></w> <w>suo</w> <w>pi<hi rend="tall">i</hi>ssimo</w> <g ref="#interpunct">·</g> <w>non</w> <w>digno</w>
-                    <lb n="7"/><w>priori</w> <w>qu<hi rend="tall">i</hi></w> <w><expan><abbr>vix</abbr><ex>it</ex></expan></w> <w><expan><abbr>ann</abbr><ex>is</ex></expan></w> <num value="17">XVII</num>
-                    <lb n="8"/><w><expan><abbr>mens</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <num value="11">XI</num> <w><expan><abbr>dieb</abbr><ex>us</ex></expan></w> <num value="16">XVI</num>
+                    <lb n="7"/><w>priori</w> <w>qu<hi rend="tall">i</hi></w> <w><expan><abbr>vix</abbr><ex>it</ex></expan></w> <w><expan><abbr>ann</abbr><ex>is</ex></expan></w> <num value="17"><w>XVII</w></num>
+                    <lb n="8"/><w><expan><abbr>mens</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <num value="11"><w>XI</w></num> <w><expan><abbr>dieb</abbr><ex>us</ex></expan></w> <num value="16"><w>XVI</w></num>
                 </ab>
             </div>
             <div type="apparatus" resp="#JP">

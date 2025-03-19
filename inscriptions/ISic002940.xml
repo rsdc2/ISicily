@@ -190,8 +190,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    <lb n="1"/><name><supplied reason="lost">Ἀρτε</supplied><unclear>μ</unclear>ιδώρα</name> <name>Νύμφωνος</name> <w>τὸν</w> <w>αὐτάστα</w> <w>πατέρ<unclear>α</unclear></w>
-                    <lb n="2"/><name><supplied reason="lost">Ἀρτέ</supplied>μωνα</name> <name>Ἀλείδα</name> <roleName type="civic" subtype="gymnasiarchos"><w>γυμνασιαρχήσαντα</w></roleName>
+                    <lb n="1"/><name><w><supplied reason="lost">Ἀρτε</supplied><unclear>μ</unclear>ιδώρα</w></name> <name><w>Νύμφωνος</w></name> <w>τὸν</w> <w>αὐτάστα</w> <w>πατέρ<unclear>α</unclear></w>
+                    <lb n="2"/><name><w><supplied reason="lost">Ἀρτέ</supplied>μωνα</w></name> <name><w>Ἀλείδα</w></name> <roleName type="civic" subtype="gymnasiarchos"><w>γυμνασιαρχήσαντα</w></roleName>
                     <lb n="3"/><w><supplied reason="lost">ἀνέθ</supplied>ηκε</w> <w>κατὰ</w> <w>διαθήκαν</w>
                 </ab>
             </div>

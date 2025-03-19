@@ -205,9 +205,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#AL">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name>Ἄσκλαπος</name> <persName type="attested"><name type="patronym">Διοδώρου</name></persName> <name type="secondName">Ταυρέας</name></persName>
+                    <lb n="1"/><persName type="attested"><name><w>Ἄσκλαπος</w></name> <persName type="attested"><name type="patronym"><w>Διοδώρου</w></name></persName> <name type="secondName"><w>Ταυρέας</w></name></persName>
                     <lb n="2"/><roleName type="civic" subtype="epistates"><w>ἐπιστάτας</w></roleName>
-                    <lb n="3"/><persName type="attested"><name>Βίβακος</name> <persName type="attested"><name type="patronym">Τιττέλου</name></persName> <name type="secondName">Ποσθαῖος</name></persName>
+                    <lb n="3"/><persName type="attested"><name><w>Βίβακος</w></name> <persName type="attested"><name type="patronym"><w>Τιττέλου</w></name></persName> <name type="secondName"><w>Ποσθαῖος</w></name></persName>
                     <lb n="4"/><w>ἀρχιτεκτόνησε</w>
                 </ab>
             </div>

@@ -186,11 +186,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name>Crescentiae</name></persName> <w>bene</w> <w>m<supplied reason="lost">e</supplied>renti</w>
+                    <lb n="1"/><persName type="attested"><name><w>Crescentiae</w></name></persName> <w>bene</w> <w>m<supplied reason="lost">e</supplied>renti</w>
                     <lb n="2"/><w>in</w> <w>pace</w> <w><choice><sic>que</sic><corr>quae</corr></choice></w> <w>vixit</w> <w><expan><abbr>ann</abbr><ex>is</ex></expan></w>
-                    <lb n="3"/><w><expan><abbr>p</abbr><ex>lus</ex></expan></w> <w><expan><abbr>m</abbr><ex>i</ex><abbr>n</abbr><ex>us</ex></expan></w> <num value="50">L</num> <w><expan><abbr>deposit</abbr><ex>a</ex></expan></w> <num value="3">III</num> <name><expan><abbr>Kal</abbr><ex>endas</ex></expan></name>
-                    <lb n="4"/><name><expan><abbr>Decemb</abbr><ex>res</ex></expan></name> <name><expan><abbr><unclear>Fl</unclear></abbr><ex>avio</ex></expan></name> <name><unclear>Stilico</unclear>
-                    <lb n="5" break="no"/>ne</name> <roleName type="supracivic" subtype="consul"><w><expan><abbr>cons</abbr><ex>ule</ex></expan></w></roleName> <w>se</w> <w>vivi</w> <w>conpa<supplied reason="lost">ra</supplied>
+                    <lb n="3"/><w><expan><abbr>p</abbr><ex>lus</ex></expan></w> <w><expan><abbr>m</abbr><ex>i</ex><abbr>n</abbr><ex>us</ex></expan></w> <num value="50"><w>L</w></num> <w><expan><abbr>deposit</abbr><ex>a</ex></expan></w> <num value="3"><w>III</w></num> <name><w><expan><abbr>Kal</abbr><ex>endas</ex></expan></w></name>
+                    <lb n="4"/><name><w><expan><abbr>Decemb</abbr><ex>res</ex></expan></w></name> <name><w><expan><abbr><unclear>Fl</unclear></abbr><ex>avio</ex></expan></w></name> <name><w><unclear>Stilico</unclear>
+                    <lb n="5" break="no"/>ne</w></name> <roleName type="supracivic" subtype="consul"><w><expan><abbr>cons</abbr><ex>ule</ex></expan></w></roleName> <w>se</w> <w>vivi</w> <w>conpa<supplied reason="lost">ra</supplied>
                     <lb n="6" break="no"/><supplied reason="lost">v</supplied>er<supplied reason="lost">u</supplied>n<supplied reason="lost">t</supplied></w>
                 </ab>
             </div>

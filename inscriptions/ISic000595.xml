@@ -193,10 +193,10 @@
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
                     <lb n="0a"/><gap reason="lost" extent="unknown" unit="line"/>
-                    <lb n="1"/><w><supplied reason="lost">divi Antonin</supplied>i</w> <name>Pi</name> <g ref="#interpunct">·</g> <w><expan><abbr>pro<supplied reason="lost">nep</supplied></abbr><ex>oti</ex></expan></w>
+                    <lb n="1"/><w><supplied reason="lost">divi Antonin</supplied>i</w> <name><w>Pi</w></name> <g ref="#interpunct">·</g> <w><expan><abbr>pro<supplied reason="lost">nep</supplied></abbr><ex>oti</ex></expan></w>
                     <lb n="2"/><w><supplied reason="lost">divi Hadriani</supplied></w> <w>abnepo<supplied reason="lost">ti</supplied></w>
-                    <lb n="3"/><w><supplied reason="lost">divi Traiani Parthic</supplied>i</w> <w>et</w> <w><choice><orig><hi rend="ligature">bi</hi>vi</orig><reg>divi</reg></choice></w> <name><supplied reason="lost">Ner</supplied>
-                    <lb n="4" break="no"/><supplied reason="lost">vae adnepoti</supplied></name>
+                    <lb n="3"/><w><supplied reason="lost">divi Traiani Parthic</supplied>i</w> <w>et</w> <w><choice><orig><hi rend="ligature">bi</hi>vi</orig><reg>divi</reg></choice></w> <name><w><supplied reason="lost">Ner</supplied>
+                    <lb n="4" break="no"/><supplied reason="lost">vae adnepoti</supplied></w></name>
                     <lb n="0b"/><gap reason="lost" extent="unknown" unit="line"/>
                 </ab>
             </div>

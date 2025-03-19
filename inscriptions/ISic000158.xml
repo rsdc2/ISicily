@@ -192,9 +192,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#TA #JP">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name>Coponiae</name> <g ref="#interpunct">·</g> <name><expan><abbr>Chimenn</abbr><ex>ae</ex></expan></name></persName>
+                    <lb n="1"/><persName type="attested"><name><w>Coponiae</w></name> <g ref="#interpunct">·</g> <name><w><expan><abbr>Chimenn</abbr><ex>ae</ex></expan></w></name></persName>
                     <lb n="2"/><w>piae</w>
-                    <lb n="3"/><name><expan><abbr>T</abbr><ex>iti</ex></expan></name> <g ref="#interpunct">·</g> <name>Coccei</name> <g ref="#interpunct">·</g> <w><expan><abbr>vix</abbr><ex>it</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>an</abbr><ex>nis</ex></expan></w> <g ref="#interpunct">·</g> <num value="38">XXXIIX</num>
+                    <lb n="3"/><name><w><expan><abbr>T</abbr><ex>iti</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w>Coccei</w></name> <g ref="#interpunct">·</g> <w><expan><abbr>vix</abbr><ex>it</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>an</abbr><ex>nis</ex></expan></w> <g ref="#interpunct">·</g> <num value="38"><w>XXXIIX</w></num>
                 </ab>
             </div>
             <div type="apparatus">

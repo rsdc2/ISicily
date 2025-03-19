@@ -196,8 +196,8 @@
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
                     <lb n="1"/><gap reason="illegible" quantity="2" unit="character"/> <w><unclear>AM</unclear></w> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="2"/><w>cius</w> <g ref="#interpunct">·</g> <name>F</name> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="3"/><name>Faust<unclear>i</unclear></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><w>cius</w> <g ref="#interpunct">·</g> <name><w>F</w></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="3"/><name><w>Faust<unclear>i</unclear></w></name> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>
             <div type="apparatus">

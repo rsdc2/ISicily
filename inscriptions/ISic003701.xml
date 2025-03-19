@@ -187,7 +187,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1"/><w>ἔζησεν</w> <name>Μαρτίριος</name> <w>ἔτη</w> <w>εἴκοσι</w> <w>δύω</w>
+                    <lb n="1"/><w>ἔζησεν</w> <name><w>Μαρτίριος</w></name> <w>ἔτη</w> <w>εἴκοσι</w> <w>δύω</w>
                     <lb n="2"/><w>εἰρήνη</w> <w>σοι</w> <w><expan><abbr><am><g ref="#christogram">☧</g></am></abbr><ex>Χριστό</ex><abbr>ς</abbr></expan></w>
                 </ab>
             </div>

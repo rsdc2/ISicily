@@ -189,9 +189,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/><w>Καστεῖνα</w> <name>Ῥωμαία</name>
+                    <lb n="1"/><w>Καστεῖνα</w> <name><w>Ῥωμαία</w></name>
                     <lb n="2"/><w>ἀγαθὸν</w> <gap reason="illegible" extent="unknown" unit="character"/>
-                    <lb n="3"/><name>Καστεῖνα</name> <w>ἐτῶν</w> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="3"/><name><w>Καστεῖνα</w></name> <w>ἐτῶν</w> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>
             <div type="apparatus">

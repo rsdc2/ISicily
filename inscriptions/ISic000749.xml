@@ -195,7 +195,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#VM">
                 <ab>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w>Teles<hi rend="ligature">phor</hi>iani</w> <g ref="#ivy-leaf">❦</g> <name>Yacin<supplied reason="lost">thi</supplied></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w>Teles<hi rend="ligature">phor</hi>iani</w> <g ref="#ivy-leaf">❦</g> <name><w>Yacin<supplied reason="lost">thi</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>
             <div type="apparatus">

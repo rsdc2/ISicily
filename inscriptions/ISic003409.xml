@@ -190,7 +190,7 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
                     <lb n="1"/><w>Εὐσεβ<supplied reason="lost">ὴς</supplied></w>
-                    <lb n="2"/><w>καὶ</w> <name>Ἀγάθη</name>
+                    <lb n="2"/><w>καὶ</w> <name><w>Ἀγάθη</w></name>
                     <lb n="3"/><w><supplied reason="lost">ἔ</supplied>ζησεν</w> <w>ἔ<supplied reason="lost">τη</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <orig>Μ</orig><gap reason="lost" extent="unknown" unit="character"/>
                 </ab>

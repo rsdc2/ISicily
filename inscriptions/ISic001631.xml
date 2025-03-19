@@ -196,7 +196,7 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
                     <lb n="1"/><w>Ἰανουάριος</w> <w>ἐνθάδε</w> <w>κῖτε</w> <w>ζήσας</w> <w>χρηστῶς</w> <w>καὶ</w> <w>ἀμένπ<unclear>τ</unclear>ως</w> <w>ἔτ<supplied reason="lost">η</supplied></w> <gap reason="lost" unit="character" extent="unknown"/>
-                    <lb n="2"/><w>καὶ</w> <w>ἐν</w> <name>Λογαριανοῖς</name> <w>πρεσβύτερος</w> <w>ἔτη</w> <num value="44">μ καὶ δ</num>
+                    <lb n="2"/><w>καὶ</w> <w>ἐν</w> <name><w>Λογαριανοῖς</w></name> <w>πρεσβύτερος</w> <w>ἔτη</w> <num value="44"><w>μ καὶ δ</w></num>
                 </ab>
             </div>
             <div type="apparatus">

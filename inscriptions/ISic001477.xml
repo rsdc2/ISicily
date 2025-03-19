@@ -188,8 +188,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1" xml:id="BvΤAK"/><persName type="attested" xml:id="BvΤAU"><name xml:id="BvΤAe">Ἀγέμαχος</name> <space unit="character" quantity="1" xml:id="BvΤAo"/><persName type="attested" xml:id="BvΤAy"><name type="patronym" xml:id="BvΤAΙ">Πολυάρχου</name></persName></persName>
-                    <lb n="2" xml:id="BvΤAΤ"/><persName type="divine" xml:id="BvΤAε"><name xml:id="BvΤAο">Ἐλώρωι</name></persName> <w xml:id="BvΤBA">καὶ</w> <space unit="character" quantity="1" xml:id="BvΤBK"/><persName type="divine" xml:id="BvΤBU"><name xml:id="BvΤBe">Τιμάσσαι</name></persName>
+                    <lb n="1" xml:id="BvΤAK"/><persName type="attested" xml:id="BvΤAU"><name xml:id="BvΤAe"><w>Ἀγέμαχος</w></name> <space unit="character" quantity="1" xml:id="BvΤAo"/><persName type="attested" xml:id="BvΤAy"><name type="patronym" xml:id="BvΤAΙ"><w>Πολυάρχου</w></name></persName></persName>
+                    <lb n="2" xml:id="BvΤAΤ"/><persName type="divine" xml:id="BvΤAε"><name xml:id="BvΤAο"><w>Ἐλώρωι</w></name></persName> <w xml:id="BvΤBA">καὶ</w> <space unit="character" quantity="1" xml:id="BvΤBK"/><persName type="divine" xml:id="BvΤBU"><name xml:id="BvΤBe"><w>Τιμάσσαι</w></name></persName>
                 </ab>
             </div>
             <div type="apparatus">

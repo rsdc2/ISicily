@@ -188,8 +188,8 @@
                 <ab>
                     <lb n="1"/><w>Πετρονία</w> <gap reason="lost" unit="character" quantity="7"/>
                     <lb n="2"/><w>ἔζησεν</w> <w>ἀμέμπτως</w> <w>καὶ</w> <w>σεμνῶς</w>
-                    <lb n="3"/><w>ἔτη</w> <num value="12"><hi rend="supraline">ιβ</hi></num> <w>μῆνας</w> <num value="4"><hi rend="supraline">δ</hi></num> <w>ἱμέρας</w> <num value="4"><hi rend="supraline">δ</hi></num>
-                    <lb n="4"/><name><expan><abbr>Γ</abbr><ex>άϊος</ex></expan></name> <g ref="#interpunct">·</g> <name>Κορνήλιος</name> <w>πατὴρ</w>
+                    <lb n="3"/><w>ἔτη</w> <num value="12"><w><hi rend="supraline">ιβ</hi></w></num> <w>μῆνας</w> <num value="4"><w><hi rend="supraline">δ</hi></w></num> <w>ἱμέρας</w> <num value="4"><w><hi rend="supraline">δ</hi></w></num>
+                    <lb n="4"/><name><w><expan><abbr>Γ</abbr><ex>άϊος</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w>Κορνήλιος</w></name> <w>πατὴρ</w>
                     <lb n="5"/><w>εἰδίᾳ</w> <w>εἰδίᾳ</w> <gap reason="lost" unit="character" quantity="5"/>
                 </ab>
             </div>

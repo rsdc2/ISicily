@@ -180,8 +180,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name>Νικασίων</name>
-                    <lb n="2"/><persName type="attested"><name type="patronym">Ἀριστίωνος</name></persName></persName>
+                    <lb n="1"/><persName type="attested"><name><w>Νικασίων</w></name>
+                    <lb n="2"/><persName type="attested"><name type="patronym"><w>Ἀριστίωνος</w></name></persName></persName>
                     <lb n="3"/><w>χαῖρε</w>
                 </ab>
             </div>

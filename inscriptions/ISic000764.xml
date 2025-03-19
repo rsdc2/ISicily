@@ -188,11 +188,11 @@
                 <ab>
                     <lb n="1"/><w><supplied reason="lost">Hic requiescit</supplied></w>
                     <lb n="2"/><w><supplied reason="lost">i</supplied>n</w> <w>so<unclear>m</unclear><supplied reason="lost">n</supplied>
-                    <lb n="3" break="no"/>o</w> <w>pacis</w> <name>B<supplied reason="lost">o</supplied>
-                    <lb n="4" break="no"/>nosus</name> <w><expan><abbr>q</abbr><ex>ui</ex></expan></w> <w>v<supplied reason="lost">i</supplied>
+                    <lb n="3" break="no"/>o</w> <w>pacis</w> <name><w>B<supplied reason="lost">o</supplied>
+                    <lb n="4" break="no"/>nosus</w></name> <w><expan><abbr>q</abbr><ex>ui</ex></expan></w> <w>v<supplied reason="lost">i</supplied>
                     <lb n="5" break="no"/><unclear>x</unclear>it</w> <w><expan><abbr>pl</abbr><ex>us minus</ex></expan></w> <w><expan><abbr>a<supplied reason="lost">n</supplied></abbr><supplied reason="lost"><ex>nis</ex></supplied></expan></w> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="6"/><w>et</w> <w><expan><abbr>d</abbr><ex>e</ex><abbr>p</abbr><ex>ositus</ex></expan></w> <w>s<supplied reason="lost">ub</supplied></w> <w><supplied reason="lost"><expan><abbr>d</abbr><ex>ie</ex></expan></supplied></w>
-                    <lb n="7"/><num value="4">IIII</num> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="7"/><num value="4"><w>IIII</w></num> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>
             <div type="apparatus">

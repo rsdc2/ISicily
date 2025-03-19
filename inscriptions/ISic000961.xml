@@ -197,9 +197,9 @@
                     <lb n="1"/><w>Στέφανος</w> <w>ὁ</w> <w>μακα<supplied reason="lost">ρία</supplied>ς</w>
                     <lb n="2"/><w>μνήμης</w> <roleName type="paracivic.religious" subtype="diakonos"><w>διάκονος</w></roleName>
                     <lb n="3"/><w>ἐνθάδε</w> <w>κῖτε</w> <w>ἀναπαυσάμενος</w>
-                    <lb n="4"/><w>τῇ</w> <hi rend="supraline"><num value="14">δι</num></hi><w>μηνὶ</w> <name>Ἰουνίου</name>
-                    <lb n="5"/><roleName type="supracivic" subtype="consul"><w>ὑπατίᾳ</w></roleName> <name>Μοναξίου</name>
-                    <lb n="6"/><g ref="#christogram">☧</g> <w>καὶ</w> <name>Πλίνθα</name> <g ref="#christogram">☧</g>
+                    <lb n="4"/><w>τῇ</w> <hi rend="supraline"><num value="14"><w>δι</w></num></hi><w>μηνὶ</w> <name><w>Ἰουνίου</w></name>
+                    <lb n="5"/><roleName type="supracivic" subtype="consul"><w>ὑπατίᾳ</w></roleName> <name><w>Μοναξίου</w></name>
+                    <lb n="6"/><g ref="#christogram">☧</g> <w>καὶ</w> <name><w>Πλίνθα</w></name> <g ref="#christogram">☧</g>
                 </ab>
             </div>
             <div type="apparatus">

@@ -188,13 +188,13 @@
         <body>
             <div type="edition" xml:space="preserve" subtype="PHI" n="PHI334562">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>Θ</abbr><ex>εοῖς</ex></expan></w> <name><expan><abbr>Κ</abbr><ex>αταχθονίοις</ex></expan></name> <name>.</name>
-                    <lb n="2"/><name>Μυρτίδι</name> <name>Θε-</name>
+                    <lb n="1"/><w><expan><abbr>Θ</abbr><ex>εοῖς</ex></expan></w> <name><w><expan><abbr>Κ</abbr><ex>αταχθονίοις</ex></expan></w></name> <name><w>.</w></name>
+                    <lb n="2"/><name><w>Μυρτίδι</w></name> <name><w>Θε-</w></name>
                     <lb n="3"/><w>οδώρου</w>
                     <lb n="4"/><w>ἀ<unclear>π</unclear>ελευ-</w>
                     <lb n="5"/><w>θέρᾳ</w> <w>ζησά</w> <w><supplied reason="omitted">σῃ</supplied></w>
                     <lb n="6"/><w>ἔτη</w> <w><unclear>λ</unclear>εʹ</w> <w>#⁷Α<unclear>Τ</unclear>Ε</w>
-                    <lb n="7"/><w>#⁷#⁷#⁷<unclear>Α</unclear>ΜΗΤ#⁷</w> <name><unclear>Ι</unclear></name>
+                    <lb n="7"/><w>#⁷#⁷#⁷<unclear>Α</unclear>ΜΗΤ#⁷</w> <name><w><unclear>Ι</unclear></w></name>
                     <lb n="8"/>
                 </ab>
             </div>

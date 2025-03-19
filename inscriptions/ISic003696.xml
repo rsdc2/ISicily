@@ -192,7 +192,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/><w>Ἀ<unclear>γαθ</unclear>άρχο̄</w> <w>το͂</w> <name>Πολ<unclear>ι</unclear></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><w>Ἀ<unclear>γαθ</unclear>άρχο̄</w> <w>το͂</w> <name><w>Πολ<unclear>ι</unclear></w></name> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <orig>Α</orig>
                 </ab>
             </div>

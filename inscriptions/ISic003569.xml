@@ -188,8 +188,8 @@
         <body>
             <div type="edition" xml:space="preserve" subtype="PHI" n="PHI337416">
                 <ab>
-                    <lb n="1"/><w>ΠΡΥΜΝΑ</w> <w>ΑΜΦΟ</w> <name><surplus>²crack in the rock</surplus>²</name> <w>ΠΡΕ</w>
-                    <lb n="2"/><name>Χ</name> <w>ΙΙΡ.</w>
+                    <lb n="1"/><w>ΠΡΥΜΝΑ</w> <w>ΑΜΦΟ</w> <name><w><surplus>²crack in the rock</surplus>²</w></name> <w>ΠΡΕ</w>
+                    <lb n="2"/><name><w>Χ</w></name> <w>ΙΙΡ.</w>
                     <lb n="3"/>
                 </ab>
             </div>

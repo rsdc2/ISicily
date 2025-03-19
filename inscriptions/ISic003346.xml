@@ -189,11 +189,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#VM">
                 <ab>
-                    <lb n="1"/><w>Dis</w> <name>Manibus</name>
-                    <lb n="2"/><name><abbr>T</abbr></name> <name>Flavio</name> <name>Gannamali</name> <name><abbr>F</abbr></name>
-                    <lb n="3"/><name>Ganamioni</name>
+                    <lb n="1"/><w>Dis</w> <name><w>Manibus</w></name>
+                    <lb n="2"/><name><w><abbr>T</abbr></w></name> <name><w>Flavio</w></name> <name><w>Gannamali</w></name> <name><w><abbr>F</abbr></w></name>
+                    <lb n="3"/><name><w>Ganamioni</w></name>
                     <lb n="4"/><w>allina</w> <w>uxor</w> <w>viro</w> <w>bene</w>
-                    <lb n="5"/><w>merenti</w> <name><expan><abbr>S</abbr><ex>oror</ex></expan></name> <name><expan><abbr>P</abbr><ex>ia</ex></expan></name> <name><expan><abbr>F</abbr><ex>ecit</ex></expan></name>
+                    <lb n="5"/><w>merenti</w> <name><w><expan><abbr>S</abbr><ex>oror</ex></expan></w></name> <name><w><expan><abbr>P</abbr><ex>ia</ex></expan></w></name> <name><w><expan><abbr>F</abbr><ex>ecit</ex></expan></w></name>
                 </ab>
             </div>
             <div type="apparatus">

@@ -186,11 +186,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>T</abbr><ex>itus</ex></expan></w> <g ref="#interpunct">·</g> <name>Ani</name> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="2"/><name><expan><abbr>T</abbr><ex>itus</ex></expan></name> <g ref="#interpunct">·</g> <name>Aelius</name> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="3"/><name><expan><abbr>C</abbr><ex>aius</ex></expan></name> <g ref="#interpunct">·</g> <name>Iulius</name> <g ref="#interpunct">·</g> <name>Dio</name> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="4"/><name><expan><abbr>Ti</abbr><ex>berius</ex></expan></name> <g ref="#interpunct">·</g> <name>Claudius</name> <g ref="#interpunct">·</g> <name>Ce</name> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="5"/><name><expan><abbr>C</abbr><ex>aius</ex></expan></name> <g ref="#interpunct">·</g> <name>Iulius</name> <g ref="#interpunct">·</g> <name>Pr</name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><w><expan><abbr>T</abbr><ex>itus</ex></expan></w> <g ref="#interpunct">·</g> <name><w>Ani</w></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><name><w><expan><abbr>T</abbr><ex>itus</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w>Aelius</w></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="3"/><name><w><expan><abbr>C</abbr><ex>aius</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w>Iulius</w></name> <g ref="#interpunct">·</g> <name><w>Dio</w></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="4"/><name><w><expan><abbr>Ti</abbr><ex>berius</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w>Claudius</w></name> <g ref="#interpunct">·</g> <name><w>Ce</w></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="5"/><name><w><expan><abbr>C</abbr><ex>aius</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w>Iulius</w></name> <g ref="#interpunct">·</g> <name><w>Pr</w></name> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="6"/><orig>PAISV</orig><gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
                 </div>

@@ -192,10 +192,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#AL">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name type="nomen">Κλαῦ
-                    <lb n="2" break="no"/>δις</name> <name type="cognomen">Σύ
+                    <lb n="1"/><persName type="attested"><name type="nomen"><w>Κλαῦ
+                    <lb n="2" break="no"/>δις</w></name> <name type="cognomen"><w>Σύ
                     <lb n="3" break="no"/>ντρο
-                    <lb n="4" break="no"/>φος</name></persName>
+                    <lb n="4" break="no"/>φος</w></name></persName>
                 </ab>
             </div>
             <div type="apparatus">

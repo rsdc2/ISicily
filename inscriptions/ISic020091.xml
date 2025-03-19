@@ -175,7 +175,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="xly-Grek">
                 <ab>
-                    <lb n="1"/><num cert="low" value="1">Ι</num> <w>ΔΧΙ</w> <num cert="low" value="11">ΔΙ</num>
+                    <lb n="1"/><num cert="low" value="1"><w>Ι</w></num> <w>ΔΧΙ</w> <num cert="low" value="11"><w>ΔΙ</w></num>
                 </ab>
             </div>
             <div type="edition" xml:space="preserve" subtype="transliteration" xml:lang="xly-Latn">

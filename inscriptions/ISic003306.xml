@@ -197,7 +197,7 @@
                 <ab>
                     <lb n="0"/><gap reason="lost" extent="unknown" unit="line"/>
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <gap reason="illegible" quantity="1" unit="character"/> <orig><unclear>A</unclear></orig><gap reason="illegible" quantity="1" unit="character"/> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w>πρὸ</w> <name><expan><abbr>Κ</abbr><ex>αλανδῶν</ex></expan></name> <g ref="#interpunct">·</g> <name>Ν<supplied reason="lost" cert="low">οεμβρίων</supplied></name>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w>πρὸ</w> <name><w><expan><abbr>Κ</abbr><ex>αλανδῶν</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w>Ν<supplied reason="lost" cert="low">οεμβρίων</supplied></w></name>
                     <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <gap reason="illegible" quantity="2" unit="character"/> <orig>Ε</orig><gap reason="lost" extent="unknown" unit="character"/>
                     <lb/><gap reason="lost" extent="unknown" unit="line" cert="low"/>
                 </ab>

@@ -193,11 +193,11 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM #JP">
                 <ab>
                     <lb n="1"/><w>ἐνθάδε</w> <w>κεῖ
-                    <lb n="2" break="no"/>τε</w> <persName type="attested"><name>Ἀγάθη</name></persName> <w>τε
+                    <lb n="2" break="no"/>τε</w> <persName type="attested"><name><w>Ἀγάθη</w></name></persName> <w>τε
                     <lb n="3" break="no"/>λετᾷ</w> <w>τ<choice><reg>ῇ</reg><orig>ι</orig></choice></w> <w><hi rend="ligature">πρὸ</hi></w> <g ref="#interpunct">·</g> <w>δέ
                     <lb n="4" break="no"/>κα</w> <w><hi rend="ligature">με</hi>ιᾶς</w> <w><choice><orig>κα
-                    <lb n="5" break="no"/>λαδῶν</orig><reg>καλανδῶν</reg></choice></w> <name><hi rend="diaeresis">Ἰ</hi>ε
-                    <lb n="6" break="no"/>ναρίων</name>
+                    <lb n="5" break="no"/>λαδῶν</orig><reg>καλανδῶν</reg></choice></w> <name><w><hi rend="diaeresis">Ἰ</hi>ε
+                    <lb n="6" break="no"/>ναρίων</w></name>
                     <lb n="7"/><g ref="#staurogram">𐆠</g>
                 </ab>
             </div>

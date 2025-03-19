@@ -188,7 +188,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1"/><w>ἐπὶ</w> <roleName type="civic.religious" subtype="hierapolos"><w>ἱεραπόλου</w></roleName> <persName><name><seg part="I">Τελίνε</seg></name></persName> <gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">τ</supplied>ο<supplied reason="lost">ῦ</supplied></w> <orig>Α</orig><gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><w>ἐπὶ</w> <roleName type="civic.religious" subtype="hierapolos"><w>ἱεραπόλου</w></roleName> <persName><name><w><seg part="I">Τελίνε</seg></w></name></persName> <gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">τ</supplied>ο<supplied reason="lost">ῦ</supplied></w> <orig>Α</orig><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="2"/><orig>Γ</orig><gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>

@@ -207,13 +207,13 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <name><expan><abbr>M</abbr><ex>anibus</ex></expan></name> <g ref="#interpunct">·</g> <w><expan><abbr>s</abbr><ex>acrum</ex></expan></w> <g ref="#interpunct">·</g>
-                    <lb n="2"/><name><expan><abbr>L</abbr><ex>ucius</ex></expan></name> <g ref="#interpunct">·</g> <name>Cassius</name>
-                    <lb n="3"/><name>Hermes</name> <g ref="#interpunct">·</g>
+                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <name><w><expan><abbr>M</abbr><ex>anibus</ex></expan></w></name> <g ref="#interpunct">·</g> <w><expan><abbr>s</abbr><ex>acrum</ex></expan></w> <g ref="#interpunct">·</g>
+                    <lb n="2"/><name><w><expan><abbr>L</abbr><ex>ucius</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w>Cassius</w></name>
+                    <lb n="3"/><name><w>Hermes</w></name> <g ref="#interpunct">·</g>
                     <lb n="4"/><w>optimus</w> <g ref="#interpunct">·</g>
                     <lb n="5"/><w>virorum</w> <g ref="#interpunct">·</g>
-                    <lb n="6"/><w><expan><abbr>vix</abbr><ex>it</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>ann</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <num value="60">LX</num>
-                    <lb n="7"/><num value="4">IIII</num> <g ref="#interpunct">·</g> <w><expan><abbr>f</abbr><ex>ilii</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>p</abbr><ex>osuerunt</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>p</abbr><ex>atri</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>m</abbr><ex>erenti</ex></expan></w> <g ref="#interpunct">·</g>
+                    <lb n="6"/><w><expan><abbr>vix</abbr><ex>it</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>ann</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <num value="60"><w>LX</w></num>
+                    <lb n="7"/><num value="4"><w>IIII</w></num> <g ref="#interpunct">·</g> <w><expan><abbr>f</abbr><ex>ilii</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>p</abbr><ex>osuerunt</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>p</abbr><ex>atri</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>m</abbr><ex>erenti</ex></expan></w> <g ref="#interpunct">·</g>
                 </ab>
             </div>
             <div type="apparatus">

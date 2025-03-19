@@ -189,13 +189,13 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#SS">
                 <ab>
-                    <lb n="1"/><g ref="#cross_uninterpreted"/> <w>Μνήστητη</w> <name><expan><hi rend="supraline"><abbr>Κ</abbr></hi><ex>ύρι</ex><hi rend="supraline"><abbr>ε</abbr></hi></expan></name>
-                    <lb n="2"/><w>τοῦ</w> <w>δούλου</w> <w>σου</w> <name>Ν
-                    <lb n="3" break="no"/>ικολάου</name> <w>κὲ</w> <name>Θεοδ
-                    <lb n="4" break="no"/>οσίας</name> <w>τῆς</w> <w>συμβίου</w> <w>αυτοῦ</w><note>uncertain restoration</note>
+                    <lb n="1"/><g ref="#cross_uninterpreted"/> <w>Μνήστητη</w> <name><w><expan><hi rend="supraline"><abbr>Κ</abbr></hi><ex>ύρι</ex><hi rend="supraline"><abbr>ε</abbr></hi></expan></w></name>
+                    <lb n="2"/><w>τοῦ</w> <w>δούλου</w> <w>σου</w> <name><w>Ν
+                    <lb n="3" break="no"/>ικολάου</w></name> <w>κὲ</w> <name><w>Θεοδ
+                    <lb n="4" break="no"/>οσίας</w></name> <w>τῆς</w> <w>συμβίου</w> <w>αυτοῦ</w><note>uncertain restoration</note>
                     <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/> <name>Α
-                    <lb n="6" break="no"/>ρκαδίου</name> <gap reason="illegible" extent="unknown" unit="character"/>
+                    <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/> <name><w>Α
+                    <lb n="6" break="no"/>ρκαδίου</w></name> <gap reason="illegible" extent="unknown" unit="character"/>
                     <lb n="7"/><gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>

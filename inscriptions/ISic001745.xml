@@ -175,7 +175,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#FC">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name>Ε<hi rend="ligature">ὐτυ</hi>χίων</name></persName> <w>ὧδε</w>
+                    <lb n="1"/><persName type="attested"><name><w>Ε<hi rend="ligature">ὐτυ</hi>χίων</w></name></persName> <w>ὧδε</w>
                     <lb n="2"/><w>κεῖται</w>
                 </ab>
             </div>

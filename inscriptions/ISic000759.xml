@@ -192,8 +192,8 @@
                     <lb n="3"/><w>bene</w> <w>merenti</w>
                     <lb n="4"/><w>fecit</w> <w>coniunx</w>
                     <lb n="5"/><w>sua</w> <space quantity="3" unit="character"/><w>vixit</w>
-                    <lb n="6"/><w><expan><abbr>ann</abbr><ex>is</ex></expan></w> <num value="38">XXXVIII</num>
-                    <lb n="7"/><w><expan><abbr>mens</abbr><ex>ibus</ex></expan></w> <num value="7">VII</num> <w><expan><abbr>d</abbr><ex>iebus</ex></expan></w> <num value="11">XI</num>
+                    <lb n="6"/><w><expan><abbr>ann</abbr><ex>is</ex></expan></w> <num value="38"><w>XXXVIII</w></num>
+                    <lb n="7"/><w><expan><abbr>mens</abbr><ex>ibus</ex></expan></w> <num value="7"><w>VII</w></num> <w><expan><abbr>d</abbr><ex>iebus</ex></expan></w> <num value="11"><w>XI</w></num>
                 </ab>
             </div>
             <div type="apparatus" resp="#JP">

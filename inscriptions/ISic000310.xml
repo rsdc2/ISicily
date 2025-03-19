@@ -191,11 +191,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#TNS">
                 <ab>
-                    <lb n="1"/><name><expan><abbr>Q</abbr><ex>uintus</ex></expan></name> <g ref="#interpunct">·</g> <name>Lutati<supplied reason="lost">us</supplied></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><name><w><expan><abbr>Q</abbr><ex>uintus</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w>Lutati<supplied reason="lost">us</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="2"/><roleName type="civic" subtype="quaestor"><w><expan><abbr><hi rend="supraline">q</hi></abbr><ex>uaestor</ex></expan></w></roleName> <g ref="#interpunct">·</g> <w><expan><abbr>d</abbr><ex>ecreto</ex></expan></w> <g ref="#interpunct">·</g> <roleName type="civic" subtype="decurio"><w><expan><abbr>d</abbr><ex>ecurionum</ex></expan></w></roleName> <roleName type="civic" subtype="aedilis"><w>aedil</w> <w><supplied reason="lost">is</supplied></w></roleName> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="3"/><w>pro</w> <w>hono<supplied reason="lost">re</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="4"/><orig>ICHINO</orig><name><unclear>C</unclear></name>
-                    <lb n="5"/><orig>I</orig><orig>SVS</orig><name><unclear>I</unclear></name>
+                    <lb n="4"/><orig>ICHINO</orig><name><w><unclear>C</unclear></w></name>
+                    <lb n="5"/><orig>I</orig><orig>SVS</orig><name><w><unclear>I</unclear></w></name>
                 </ab>
               
             </div>

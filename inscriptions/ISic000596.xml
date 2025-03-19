@@ -194,7 +194,7 @@
                 <div type="textpart" subtype="fragment-physical" n="a">
                     <ab>
                         <lb n="1"/><orig>V</orig><gap reason="lost" extent="unknown" unit="character"/>
-                        <lb n="2"/><name><expan><abbr>C</abbr><ex>aius</ex></expan></name> <name>Ann</name> <gap reason="lost" extent="unknown" unit="character"/>
+                        <lb n="2"/><name><w><expan><abbr>C</abbr><ex>aius</ex></expan></w></name> <name><w>Ann</w></name> <gap reason="lost" extent="unknown" unit="character"/>
                     </ab>
                 </div>
                 <div type="textpart" subtype="fragment-physical" n="b">

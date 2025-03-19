@@ -200,10 +200,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <name><expan><abbr>M</abbr><ex>anibus</ex></expan></name> <w><expan><abbr>s</abbr><ex>acrum</ex></expan></w>
-                    <lb n="2"/><persName type="attested"><name>Publicius</name> <name>Nicon</name></persName>
-                    <lb n="3"/><w><expan><abbr>vix</abbr><ex>it</ex></expan></w> <w><expan><abbr>ann</abbr><ex>is</ex></expan></w> <num value="55">LV</num>
-                    <lb n="4"/><persName type="attested"><name>Pompeia</name> <name>Epictesis</name></persName> <w><expan><abbr>f</abbr><ex>ecit</ex></expan></w>
+                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <name><w><expan><abbr>M</abbr><ex>anibus</ex></expan></w></name> <w><expan><abbr>s</abbr><ex>acrum</ex></expan></w>
+                    <lb n="2"/><persName type="attested"><name><w>Publicius</w></name> <name><w>Nicon</w></name></persName>
+                    <lb n="3"/><w><expan><abbr>vix</abbr><ex>it</ex></expan></w> <w><expan><abbr>ann</abbr><ex>is</ex></expan></w> <num value="55"><w>LV</w></num>
+                    <lb n="4"/><persName type="attested"><name><w>Pompeia</w></name> <name><w>Epictesis</w></name></persName> <w><expan><abbr>f</abbr><ex>ecit</ex></expan></w>
                 </ab>
             </div>
             <div type="apparatus">

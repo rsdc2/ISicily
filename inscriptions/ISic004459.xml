@@ -193,9 +193,9 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#IG">
                 <ab>
                     <lb n="1"/><w>Ἐτελεύτ<choice><corr>η</corr><sic>π</sic></choice>
-                    <lb n="2" break="no"/>σεν</w> <w><expan><abbr><am><g ref="#christogram">☧</g></am></abbr><ex>Χρίστο</ex><abbr>ς</abbr></expan></w> <name>Κρισ
-                    <lb n="3" break="no"/>πῖνος</name> <w><choice><reg>ἐτῶν</reg><orig>ἐτέ
-                    <lb n="4" break="no"/>ων</orig></choice></w> <w><expan><abbr><am><g ref="#christogram">☧</g></am></abbr><ex>Χρίστο</ex><abbr>ς</abbr></expan></w> <num value="18">ιη</num>
+                    <lb n="2" break="no"/>σεν</w> <w><expan><abbr><am><g ref="#christogram">☧</g></am></abbr><ex>Χρίστο</ex><abbr>ς</abbr></expan></w> <name><w>Κρισ
+                    <lb n="3" break="no"/>πῖνος</w></name> <w><choice><reg>ἐτῶν</reg><orig>ἐτέ
+                    <lb n="4" break="no"/>ων</orig></choice></w> <w><expan><abbr><am><g ref="#christogram">☧</g></am></abbr><ex>Χρίστο</ex><abbr>ς</abbr></expan></w> <num value="18"><w>ιη</w></num>
                 </ab>
                </div>
             <div type="apparatus">

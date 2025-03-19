@@ -224,8 +224,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
-                    <lb n="1"/><w>Genio</w> <g ref="#interpunct">·</g> <name>Augusti</name> <g ref="#interpunct">·</g> <w>et</w> <g ref="#interpunct">·</g> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="2"/><name><expan><abbr>L</abbr><ex>ucius</ex></expan></name> <g ref="#interpunct">·</g> <name>Cornelius</name> <g ref="#interpunct">·</g> <name><expan><abbr><am>Ͻ</am></abbr><ex>mulieris</ex></expan></name> <g ref="#interpunct">·</g> <w><expan><abbr>l</abbr><ex>ibertus</ex></expan></w> <g ref="#interpunct">·</g> <name>Eup<unclear>l</unclear></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><w>Genio</w> <g ref="#interpunct">·</g> <name><w>Augusti</w></name> <g ref="#interpunct">·</g> <w>et</w> <g ref="#interpunct">·</g> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><name><w><expan><abbr>L</abbr><ex>ucius</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w>Cornelius</w></name> <g ref="#interpunct">·</g> <name><w><expan><abbr><am>Ͻ</am></abbr><ex>mulieris</ex></expan></w></name> <g ref="#interpunct">·</g> <w><expan><abbr>l</abbr><ex>ibertus</ex></expan></w> <g ref="#interpunct">·</g> <name><w>Eup<unclear>l</unclear></w></name> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>
             <div type="apparatus">

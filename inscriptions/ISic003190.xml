@@ -190,11 +190,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/><w>Πιστάρα</w> <w>κ<choice><reg>αὶ</reg><orig>ὲ</orig></choice></w> <name>Νίκη</name> <w>κ<choice><reg>αὶ</reg><orig>ὲ</orig></choice></w> <name>Συρακόσις</name> <w>κ<choice><reg>αὶ</reg><orig>ὲ</orig></choice></w> <name>Πραυλίς</name> <w>κ<choice><reg>αὶ</reg><orig>ὲ</orig></choice></w>
-                    <lb n="2"/><name>Μο
+                    <lb n="1"/><w>Πιστάρα</w> <w>κ<choice><reg>αὶ</reg><orig>ὲ</orig></choice></w> <name><w>Νίκη</w></name> <w>κ<choice><reg>αὶ</reg><orig>ὲ</orig></choice></w> <name><w>Συρακόσις</w></name> <w>κ<choice><reg>αὶ</reg><orig>ὲ</orig></choice></w> <name><w>Πραυλίς</w></name> <w>κ<choice><reg>αὶ</reg><orig>ὲ</orig></choice></w>
+                    <lb n="2"/><name><w>Μο
                     <lb n="3" break="no"/>νέ
-                    <lb n="4" break="no"/>ρις</name>
-                    <lb n="5"/><w>ἀπὸ</w> <name>Νήσου</name>
+                    <lb n="4" break="no"/>ρις</w></name>
+                    <lb n="5"/><w>ἀπὸ</w> <name><w>Νήσου</w></name>
                     <lb n="5a"/><g ref="#christogram">☧</g> <orig>Χ</orig>
                 </ab>
             </div>

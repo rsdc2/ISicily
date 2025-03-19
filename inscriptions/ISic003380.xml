@@ -211,11 +211,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>Κ</abbr><ex>ουίντε</ex></expan></w> <g ref="#interpunct">·</g> <name>Πομπῆι</name> <name>Ἔλπιστε</name>
+                    <lb n="1"/><w><expan><abbr>Κ</abbr><ex>ουίντε</ex></expan></w> <g ref="#interpunct">·</g> <name><w>Πομπῆι</w></name> <name><w>Ἔλπιστε</w></name>
                     <lb n="2"/><w>χρηστὲ</w> <w>καὶ</w> <w>ἄμεμπτε</w>
                     <lb n="3"/><w>χαῖρε</w>
-                    <lb n="4"/><w>ἔζησεν</w> <w>ἔτη</w> <num value="24">κδ</num> <w>μῆνες</w>
-                    <lb n="5"/><num value="4">δ</num> <w>ἡμέρας</w> <num value="4">δ</num>
+                    <lb n="4"/><w>ἔζησεν</w> <w>ἔτη</w> <num value="24"><w>κδ</w></num> <w>μῆνες</w>
+                    <lb n="5"/><num value="4"><w>δ</w></num> <w>ἡμέρας</w> <num value="4"><w>δ</w></num>
                 </ab>
             </div>
             <div type="apparatus">

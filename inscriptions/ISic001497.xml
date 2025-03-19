@@ -194,11 +194,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#ME">
                 <ab>
-                    <lb n="1"/><w><supplied reason="undefined" evidence="previouseditor"><expan><abbr>C</abbr><ex>aio</ex></expan></supplied></w> <supplied reason="undefined" evidence="previouseditor"><g ref="#interpunct">·</g></supplied> <name>Terentio</name> <g ref="#interpunct">·</g> <name>Symphoro</name>
-                    <lb n="2"/><name><expan><abbr>C</abbr><ex>ai</ex></expan></name> <g ref="#interpunct">·</g> <name>Terenti</name> <g ref="#interpunct">·</g> <name>Syntro<hi rend="ligature">phi</hi></name> <g ref="#interpunct">·</g> <w><expan><abbr>lib</abbr><ex>erto</ex></expan></w>
+                    <lb n="1"/><w><supplied reason="undefined" evidence="previouseditor"><expan><abbr>C</abbr><ex>aio</ex></expan></supplied></w> <supplied reason="undefined" evidence="previouseditor"><g ref="#interpunct">·</g></supplied> <name><w>Terentio</w></name> <g ref="#interpunct">·</g> <name><w>Symphoro</w></name>
+                    <lb n="2"/><name><w><expan><abbr>C</abbr><ex>ai</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w>Terenti</w></name> <g ref="#interpunct">·</g> <name><w>Syntro<hi rend="ligature">phi</hi></w></name> <g ref="#interpunct">·</g> <w><expan><abbr>lib</abbr><ex>erto</ex></expan></w>
                     <lb n="3"/><roleName type="military" subtype="medicus.chirurgus.cohortis"><w>medico</w> <w><expan><abbr>chir</abbr><ex>urgo</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>coh</abbr><ex>ortis</ex></expan></w></roleName> <g ref="#interpunct">·</g> <w><hi rend="supraline">IIII</hi></w>
-                    <lb n="4"/><w><expan><abbr>praet</abbr><ex>oriae</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>ann</abbr><ex>orum</ex></expan></w> <g ref="#interpunct">·</g> <hi rend="supraline"><num value="28">XXIIX</num></hi><g ref="#interpunct">·</g> <w>huius</w>
-                    <lb n="5"/><w><expan><abbr>cura</abbr><ex>m</ex></expan></w> <g ref="#interpunct">·</g> <w>egit</w> <g ref="#interpunct">·</g> <name>Atticus</name> <g ref="#ivy-leaf"/>
+                    <lb n="4"/><w><expan><abbr>praet</abbr><ex>oriae</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>ann</abbr><ex>orum</ex></expan></w> <g ref="#interpunct">·</g> <hi rend="supraline"><num value="28"><w>XXIIX</w></num></hi><g ref="#interpunct">·</g> <w>huius</w>
+                    <lb n="5"/><w><expan><abbr>cura</abbr><ex>m</ex></expan></w> <g ref="#interpunct">·</g> <w>egit</w> <g ref="#interpunct">·</g> <name><w>Atticus</w></name> <g ref="#ivy-leaf"/>
                 </ab>
             </div>
             <div type="apparatus">

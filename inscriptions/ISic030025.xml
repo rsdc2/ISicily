@@ -194,14 +194,14 @@
                     <milestone unit="face" n="a"/>
                 <div type="textpart" subtype="section" n="a">
                     <ab>
-                        <lb n="1"/><persName type="attested"><name type="idionym">Σίμε̄</name></persName> <g ref="#dipunct">:</g> <persName type="attested"><name type="idionym">Πρατομακες</name></persName> <g ref="#dipunct">:</g>
-                        <lb n="2"/><persName type="attested"><name type="idionym">Λεπτίνας</name></persName> <g ref="#dipunct">:</g> <persName type="attested"><name type="idionym">Πραξίας</name></persName>
+                        <lb n="1"/><persName type="attested"><name type="idionym"><w>Σίμε̄</w></name></persName> <g ref="#dipunct">:</g> <persName type="attested"><name type="idionym"><w>Πρατομακες</w></name></persName> <g ref="#dipunct">:</g>
+                        <lb n="2"/><persName type="attested"><name type="idionym"><w>Λεπτίνας</w></name></persName> <g ref="#dipunct">:</g> <persName type="attested"><name type="idionym"><w>Πραξίας</w></name></persName>
                         <lb n="3"/><orig>Ρ<unclear>Λ</unclear>Τ</orig><gap reason="illegible" quantity="3" unit="character"/> <orig>ΟΚΥΚΥΙΕΣ</orig><g ref="#dipunct">:</g>
                     </ab>
                 </div>
                 <div type="textpart" subtype="section" n="b">
                     <ab>
-                        <lb n="1"/><persName type="attested"><name type="idionym">Αραοτε̄ς</name></persName> <g ref="#dipunct">:</g> <w>πυριν</w> <g ref="#dipunct">:</g> <w>πεσ</w> <gap reason="illegible" unit="character" quantity="1"/> <gap reason="lost" extent="unknown" unit="character"/>
+                        <lb n="1"/><persName type="attested"><name type="idionym"><w>Αραοτε̄ς</w></name></persName> <g ref="#dipunct">:</g> <w>πυριν</w> <g ref="#dipunct">:</g> <w>πεσ</w> <gap reason="illegible" unit="character" quantity="1"/> <gap reason="lost" extent="unknown" unit="character"/>
                         <lb n="2"/><gap reason="illegible" quantity="1" unit="character"/> <w>τιλλαμ</w> <g ref="#dipunct">:</g> <w>πέδαν</w> <g ref="#dipunct">:</g> <gap reason="illegible" unit="character" quantity="2"/> <gap reason="lost" extent="unknown" unit="character"/>
                         <lb n="3"/><w>τε</w> <w>πεσα</w>
                         <lb n="4"/><orig>ΡE</orig>

@@ -254,9 +254,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name><expan><abbr>C</abbr><ex>aius</ex></expan></name> <g ref="#interpunct">·</g> <name>Roscius</name></persName> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><persName type="attested"><name><w><expan><abbr>C</abbr><ex>aius</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w>Roscius</w></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="2"/><roleName type="supracivic" subtype="proconsul"><w><expan><abbr>proco</abbr><ex>n</ex><abbr><unclear>s</unclear></abbr><ex>ul</ex></expan></w></roleName> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="3"/><persName type="attested"><name>Sextia</name> <g ref="#interpunct">·</g> <name><name part="I">M</name></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="3"/><persName type="attested"><name><w>Sextia</w></name> <g ref="#interpunct">·</g> <name><w><name part="I"><w>M</w></name></w></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="4"/><w>fecerun<supplied reason="lost">t</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>

@@ -186,7 +186,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"><desc>personal name</desc></gap> <w><supplied reason="lost">ἐπι</supplied><unclear>κα</unclear>λεῖ</w> <name>Τακιμα</name> <w>γυναῖκα</w>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"><desc>personal name</desc></gap> <w><supplied reason="lost">ἐπι</supplied><unclear>κα</unclear>λεῖ</w> <name><w>Τακιμα</w></name> <w>γυναῖκα</w>
                 </ab>
             </div>
             <div type="apparatus">

@@ -191,12 +191,12 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#GC">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <name><expan><abbr>M</abbr><ex>anibus</ex></expan></name> <g ref="#interpunct">·</g> <name><expan><abbr>S</abbr><ex>acrum</ex></expan></name>
-                    <lb n="2"/><name><expan><abbr>L</abbr><ex>ucio</ex></expan></name> <g ref="#interpunct">·</g> <name>Cornelio</name>
-                    <lb n="3"/><name>Campestro</name>
+                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <name><w><expan><abbr>M</abbr><ex>anibus</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w><expan><abbr>S</abbr><ex>acrum</ex></expan></w></name>
+                    <lb n="2"/><name><w><expan><abbr>L</abbr><ex>ucio</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w>Cornelio</w></name>
+                    <lb n="3"/><name><w>Campestro</w></name>
                     <lb n="4"/><w>cupario</w>
-                    <lb n="5"/><name>Clau<supplied reason="lost">d</supplied>ia</name> <g ref="#interpunct">·</g> <name>Paezusa</name> <g ref="#interpunct">·</g> <w>uxor</w>
-                    <lb n="6"/><w><expan><abbr>vi<supplied reason="lost">x</supplied></abbr><ex>it</ex></expan></w> <gap reason="lost" extent="unknown" unit="character"/> <num atLeast="25">XXV</num>
+                    <lb n="5"/><name><w>Clau<supplied reason="lost">d</supplied>ia</w></name> <g ref="#interpunct">·</g> <name><w>Paezusa</w></name> <g ref="#interpunct">·</g> <w>uxor</w>
+                    <lb n="6"/><w><expan><abbr>vi<supplied reason="lost">x</supplied></abbr><ex>it</ex></expan></w> <gap reason="lost" extent="unknown" unit="character"/> <num atLeast="25"><w>XXV</w></num>
                 </ab>
             </div>
             <div type="apparatus">

@@ -189,8 +189,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name>Κλωδι<supplied reason="lost">αν</supplied>ὸς</name></persName>
-                    <lb n="2"/><w><choice><orig>κὲ</orig><reg>καὶ</reg></choice></w> <persName type="attested"><name>Μοῦσα</name></persName>
+                    <lb n="1"/><persName type="attested"><name><w>Κλωδι<supplied reason="lost">αν</supplied>ὸς</w></name></persName>
+                    <lb n="2"/><w><choice><orig>κὲ</orig><reg>καὶ</reg></choice></w> <persName type="attested"><name><w>Μοῦσα</w></name></persName>
                     <lb n="3"/><w>σὺν</w> <w>πεδί<unclear>ο</unclear><supplied reason="lost">ις</supplied></w>
                     <lb n="4"/><w>ὑπὲρ</w> <w>εὐχῆς</w>
                     <lb n="5"/><w>ἐπ<supplied reason="lost">οίησ</supplied>αν</w>

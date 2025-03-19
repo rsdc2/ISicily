@@ -176,7 +176,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="scx-Grek" resp="#VM"><!--On the same object should be a second inscription (MMA 44.b) (?). -->
                 <ab>
-                    <lb n="1"/><persName type="attested"><name>πυρρια</name></persName>
+                    <lb n="1"/><persName type="attested"><name><w>πυρρια</w></name></persName>
                 </ab>          
             </div>
             <div type="edition" xml:space="preserve" subtype="transliteration" xml:lang="scx-Latn">                 

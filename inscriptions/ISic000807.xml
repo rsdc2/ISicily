@@ -219,13 +219,13 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
                     <lb n="1"/><w>Σέξτου</w>
-                    <lb n="2"/><name>Πομπηίου</name>
-                    <lb n="3"/><name>Ἄπρου</name>
-                    <lb n="4"/><name>Παλάκου</name>
-                    <lb n="5"/><name>Πομπείας</name>
+                    <lb n="2"/><name><w>Πομπηίου</w></name>
+                    <lb n="3"/><name><w>Ἄπρου</w></name>
+                    <lb n="4"/><name><w>Παλάκου</w></name>
+                    <lb n="5"/><name><w>Πομπείας</w></name>
                     <lb n="6"/><gap reason="lost" unit="character" quantity="1"/> <w><unclear>ο</unclear></w> <gap reason="lost" unit="character" quantity="2"/> <w><unclear>τ</unclear>ου</w>
                     <lb n="7"/><gap reason="lost" unit="character" extent="unknown"/>
-                    <lb n="8"/><name>Παλάκου</name>
+                    <lb n="8"/><name><w>Παλάκου</w></name>
                 </ab>
             </div>
             <div type="apparatus">

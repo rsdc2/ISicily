@@ -175,8 +175,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1" rend="spiral-clockwise"/><w>τοῦτον</w> <w>τὸν</w> <w>σϙύφον</w> <persName type="attested"><name>Πόρϙος</name></persName> <w>ἀποδίδο̄τι</w> <w>ἐς</w> <w>τὸν</w> <w>θίασον</w> <w>το͂ν</w> <w>π<supplied reason="lost">οτᾶ</supplied>ν</w>
-                    <lb n="2" rend="spiral-clockwise"/><w>αἰ</w> <w>δὲ</w> <w>φίλε̄</w> <persName type="attested"><name>Φρύνᾱν</name></persName> <w>οὐκ</w> <w>ἄλλος</w> <w>κ’</w> <w>ἄγε̄</w>
+                    <lb n="1" rend="spiral-clockwise"/><w>τοῦτον</w> <w>τὸν</w> <w>σϙύφον</w> <persName type="attested"><name><w>Πόρϙος</w></name></persName> <w>ἀποδίδο̄τι</w> <w>ἐς</w> <w>τὸν</w> <w>θίασον</w> <w>το͂ν</w> <w>π<supplied reason="lost">οτᾶ</supplied>ν</w>
+                    <lb n="2" rend="spiral-clockwise"/><w>αἰ</w> <w>δὲ</w> <w>φίλε̄</w> <persName type="attested"><name><w>Φρύνᾱν</w></name></persName> <w>οὐκ</w> <w>ἄλλος</w> <w>κ’</w> <w>ἄγε̄</w>
                     <lb n="3" rend="spiral-clockwise"/><w>hο</w> <w>δὲ</w> <w>γράπσας</w> <w>τὸν</w> <w>ἀννέμο<supplied reason="omitted">ν</supplied>τα</w> <w>πυγιξεῖ</w>
                 </ab>
             </div>

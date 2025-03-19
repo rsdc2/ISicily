@@ -200,12 +200,12 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/><w><supplied reason="lost">Ἐπ</supplied>ὶ</w> <name>Ἡρα<supplied reason="lost">κλείου</supplied></name> <w><supplied reason="lost">τοῦ</supplied></w> <w><supplied reason="lost">δεῖνα</supplied></w>
-                    <lb n="2"/><name>Ἀρτέ<supplied reason="lost">μιτι</supplied></name> <w><supplied reason="lost">καί</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><w><supplied reason="lost">Ἐπ</supplied>ὶ</w> <name><w>Ἡρα<supplied reason="lost">κλείου</supplied></w></name> <w><supplied reason="lost">τοῦ</supplied></w> <w><supplied reason="lost">δεῖνα</supplied></w>
+                    <lb n="2"/><name><w>Ἀρτέ<supplied reason="lost">μιτι</supplied></w></name> <w><supplied reason="lost">καί</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="3"/><roleName type="civic" subtype="gymnasiarchos"><w>γυμνα</w> <w><unclear>σ</unclear></w> <w><supplied reason="lost">ίαρχοι</supplied></w></roleName> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="4"/><name>Ἀρχέδ<unclear>α</unclear><supplied reason="lost">μος</supplied></name> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="5"/><name>Νυμφ<unclear>ο</unclear><supplied reason="lost" cert="low">δώρου</supplied></name> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="6"/><name><supplied reason="lost">Π</supplied><unclear>ο</unclear>λύκ<unclear>λ</unclear><supplied reason="lost">ειτος</supplied></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="4"/><name><w>Ἀρχέδ<unclear>α</unclear><supplied reason="lost">μος</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="5"/><name><w>Νυμφ<unclear>ο</unclear><supplied reason="lost" cert="low">δώρου</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="6"/><name><w><supplied reason="lost">Π</supplied><unclear>ο</unclear>λύκ<unclear>λ</unclear><supplied reason="lost">ειτος</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="7"/><w><supplied reason="lost">τοῦ</supplied></w> <w><supplied reason="lost">δεῖνα</supplied></w>
                 </ab>
             </div>

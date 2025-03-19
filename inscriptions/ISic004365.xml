@@ -206,10 +206,10 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
                     <lb n="1"/><g ref="#interpunct">·</g> <w><expan><abbr>θ</abbr><ex>εοῖς</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>κ</abbr><ex>αταχθονίοις</ex></expan></w> <g ref="#interpunct">·</g>
-                    <lb n="2"/><persName type="attested"><name>Σεκοῦνδα</name></persName> <g ref="#interpunct">·</g>
+                    <lb n="2"/><persName type="attested"><name><w>Σεκοῦνδα</w></name></persName> <g ref="#interpunct">·</g>
                     <lb n="3"/><w>χρηστὰ</w> <w>χαῖ
                     <lb n="4" break="no"/>ρε</w> <g ref="#interpunct">·</g> <w>ἔζησες</w>
-                    <lb n="5"/><w>ἔτη</w> <num value="75">οε</num> <g ref="#interpunct">·</g>
+                    <lb n="5"/><w>ἔτη</w> <num value="75"><w>οε</w></num> <g ref="#interpunct">·</g>
                 </ab>
             </div>
             <div type="apparatus" resp="#JP">

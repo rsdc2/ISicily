@@ -195,10 +195,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1" xml:id="BKKAK"/><w xml:id="BKKAU"><unclear xml:id="BKKAe">ἐ</unclear>πὶ</w> <roleName type="supracivic" subtype="quaestor" xml:id="BKKAo"><w xml:id="BKKAy">ταμία</w></roleName> <name xml:id="BKKAΙ">Λευκίου</name> <name xml:id="BKKAΤ">Καικιλίου</name>
-                    <lb n="2" xml:id="BKKAε"/><w xml:id="BKKAο"><choice xml:id="BKKBA"><corr xml:id="BKKBK">Λ</corr><sic xml:id="BKKBU">Δ</sic></choice>ευκίου</w> <w xml:id="BKKBe">υἱοῦ</w> <name xml:id="BKKBo">Μετέλλου<space unit="character" quantity="3" xml:id="BKKBy"/></name>
-                    <lb n="3" xml:id="BKKBΙ"/><name xml:id="BKKBΤ">Πασίων</name> <name xml:id="BKKBε">Δεκκίου</name> <name xml:id="BKKBο">Σ<unclear xml:id="BKKCA">ε</unclear>ισυρίων</name>
-                    <lb n="4" xml:id="BKKCK"/><name xml:id="BKKCU">Ἐγεσταῖος</name> <roleName type="military" subtype="chiliarch" xml:id="BKKCe"><w xml:id="BKKCo">χιλιαρχήσας</w></roleName>
+                    <lb n="1" xml:id="BKKAK"/><w xml:id="BKKAU"><unclear xml:id="BKKAe">ἐ</unclear>πὶ</w> <roleName type="supracivic" subtype="quaestor" xml:id="BKKAo"><w xml:id="BKKAy">ταμία</w></roleName> <name xml:id="BKKAΙ"><w>Λευκίου</w></name> <name xml:id="BKKAΤ"><w>Καικιλίου</w></name>
+                    <lb n="2" xml:id="BKKAε"/><w xml:id="BKKAο"><choice xml:id="BKKBA"><corr xml:id="BKKBK">Λ</corr><sic xml:id="BKKBU">Δ</sic></choice>ευκίου</w> <w xml:id="BKKBe">υἱοῦ</w> <name xml:id="BKKBo"><w>Μετέλλου<space unit="character" quantity="3" xml:id="BKKBy"/></w></name>
+                    <lb n="3" xml:id="BKKBΙ"/><name xml:id="BKKBΤ"><w>Πασίων</w></name> <name xml:id="BKKBε"><w>Δεκκίου</w></name> <name xml:id="BKKBο"><w>Σ<unclear xml:id="BKKCA">ε</unclear>ισυρίων</w></name>
+                    <lb n="4" xml:id="BKKCK"/><name xml:id="BKKCU"><w>Ἐγεσταῖος</w></name> <roleName type="military" subtype="chiliarch" xml:id="BKKCe"><w xml:id="BKKCo">χιλιαρχήσας</w></roleName>
                 </ab>
             </div>
             <div type="apparatus">

@@ -170,7 +170,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name><gap reason="lost" extent="unknown" unit="character"/>ίνα</name></persName> <w>ἐν<g ref="#staurogram">𐆠</g>
+                    <lb n="1"/><persName type="attested"><name><w><gap reason="lost" extent="unknown" unit="character"/>ίνα</w></name></persName> <w>ἐν<g ref="#staurogram">𐆠</g>
                     <lb n="2" break="no"/><supplied reason="lost">θά</supplied>δε</w> <w>κῖτα<supplied reason="lost">ι</supplied></w>
                     <lb n="3"/><w><choice><orig><supplied reason="lost">ἐτ</supplied>έων</orig><reg>ἐτῶν</reg></choice></w> <orig>πεν</orig><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">ἡ</supplied>με<supplied reason="lost">ρῶν</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>

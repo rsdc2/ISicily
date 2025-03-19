@@ -191,11 +191,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#MH">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>Θε</abbr><ex>οῖς</ex></expan></w> <g ref="#interpunct">·</g> <name><expan><abbr>Κα</abbr><ex>ταχθονίοις</ex></expan>.</name>
-                    <lb n="2"/><name>Πονπωνία</name>
-                    <lb n="3"/><name>Μάξιμα</name>
-                    <lb n="4"/><w><expan><abbr>ἔζ</abbr><ex>ησεν</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>ἔτ</abbr><ex>η</ex></expan></w> <g ref="#interpunct">·</g> <num value="40">μ</num>.
-                    <lb n="5"/><name><expan><abbr>Κλ</abbr><ex>αύδιος</ex></expan></name> <name>Μέλισσος</name>
+                    <lb n="1"/><w><expan><abbr>Θε</abbr><ex>οῖς</ex></expan></w> <g ref="#interpunct">·</g> <name><w><expan><abbr>Κα</abbr><ex>ταχθονίοις</ex></expan>.</w></name>
+                    <lb n="2"/><name><w>Πονπωνία</w></name>
+                    <lb n="3"/><name><w>Μάξιμα</w></name>
+                    <lb n="4"/><w><expan><abbr>ἔζ</abbr><ex>ησεν</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>ἔτ</abbr><ex>η</ex></expan></w> <g ref="#interpunct">·</g> <num value="40"><w>μ</w></num>.
+                    <lb n="5"/><name><w><expan><abbr>Κλ</abbr><ex>αύδιος</ex></expan></w></name> <name><w>Μέλισσος</w></name>
                     <lb n="6"/><w>τῇ</w> <w>ἰδίᾳ</w>
                     <lb n="7"/><w>συ<supplied reason="lost">μ</supplied><unclear>β</unclear>ίῳ.</w>
                 </ab>

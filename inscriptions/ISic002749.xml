@@ -186,11 +186,11 @@
         <body>
             <div type="edition" xml:space="preserve" subtype="PHI" n="PHI330706">
                 <ab>
-                    <lb n="1"/><w><supplied reason="lost">— — — ἐγένο</supplied>ντο</w> <name><supplied reason="lost">— — — — — — — — —</supplied></name>
-                    <lb n="2"/><name><supplied reason="lost">— — — — μ</supplied>ογεῖν</name> <w>δα</w> <w><supplied reason="lost">ίμονος(?) — — — —</supplied></w>
-                    <lb n="3"/><name><supplied reason="lost">— — θάνα</supplied></name> <w><expan><abbr>τον</abbr><ex>?</ex></expan></w> <w>καμάτ</w> <w><supplied reason="lost">ων τέλος(?) — —</supplied></w>
-                    <lb n="4"/><name><supplied reason="lost">— — — — — — μ</supplied>οι</name> <w>δῶ[μα</w> <name><surplus>²⁷δῶ[ρον]</surplus>²⁷</name> <name>—</name> <name>—]</name>
-                    <lb n="5"/><name><supplied reason="lost">— — — — — — — —</supplied>λω</name> <name><supplied reason="lost">— — — — — — —</supplied></name>
+                    <lb n="1"/><w><supplied reason="lost">— — — ἐγένο</supplied>ντο</w> <name><w><supplied reason="lost">— — — — — — — — —</supplied></w></name>
+                    <lb n="2"/><name><w><supplied reason="lost">— — — — μ</supplied>ογεῖν</w></name> <w>δα</w> <w><supplied reason="lost">ίμονος(?) — — — —</supplied></w>
+                    <lb n="3"/><name><w><supplied reason="lost">— — θάνα</supplied></w></name> <w><expan><abbr>τον</abbr><ex>?</ex></expan></w> <w>καμάτ</w> <w><supplied reason="lost">ων τέλος(?) — —</supplied></w>
+                    <lb n="4"/><name><w><supplied reason="lost">— — — — — — μ</supplied>οι</w></name> <w>δῶ[μα</w> <name><w><surplus>²⁷δῶ[ρον]</surplus>²⁷</w></name> <name><w>—</w></name> <name><w>—]</w></name>
+                    <lb n="5"/><name><w><supplied reason="lost">— — — — — — — —</supplied>λω</w></name> <name><w><supplied reason="lost">— — — — — — —</supplied></w></name>
                     <lb n="6"/>
                 </ab>
             </div>

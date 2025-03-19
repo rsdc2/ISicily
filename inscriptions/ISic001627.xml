@@ -187,11 +187,11 @@
                 <ab>
                     <lb n="1"/><w><expan><abbr><am><g ref="#christogram">☧</g></am></abbr><ex>χριστό</ex><abbr>ς</abbr></expan></w>
                     <lb n="2"/><w>ἐνθάδε</w> <w>κῖτε</w>
-                    <lb n="3"/><persName type="attested"><name>Ἁγνὴ</name></persName> <w>πιστὴ</w> <w>με
+                    <lb n="3"/><persName type="attested"><name><w>Ἁγνὴ</w></name></persName> <w>πιστὴ</w> <w>με
                     <lb n="4" break="no"/>τὰ</w> <w>ἀδελφοῦ</w> <w>ἑαυ</w>
-                    <lb n="5"/><w>τῆς</w> <persName type="attested"><name>Δεξτράνου</name></persName>
-                    <lb n="6"/><w><supplied reason="lost">ζ</supplied>ήσασα</w> <w>ἔτη</w> <num value="3">τρία</num>
-                    <lb n="7"/><w><supplied reason="lost">μῆ</supplied>νες</w> <g ref="#interpunct">·</g> <num value="7"><hi rend="supraline">ζ</hi></num> <g ref="#interpunct">·</g> <w><expan><abbr>ἡμέρ</abbr><ex>ας</ex></expan></w> <num value="9"><hi rend="supraline">θ</hi></num>
+                    <lb n="5"/><w>τῆς</w> <persName type="attested"><name><w>Δεξτράνου</w></name></persName>
+                    <lb n="6"/><w><supplied reason="lost">ζ</supplied>ήσασα</w> <w>ἔτη</w> <num value="3"><w>τρία</w></num>
+                    <lb n="7"/><w><supplied reason="lost">μῆ</supplied>νες</w> <g ref="#interpunct">·</g> <num value="7"><w><hi rend="supraline">ζ</hi></w></num> <g ref="#interpunct">·</g> <w><expan><abbr>ἡμέρ</abbr><ex>ας</ex></expan></w> <num value="9"><w><hi rend="supraline">θ</hi></w></num>
                 </ab>
             </div>
             <div type="apparatus" resp="#JP">

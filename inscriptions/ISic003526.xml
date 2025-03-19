@@ -191,8 +191,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="AL">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name type="nomen">Nem<supplied reason="lost">onius</supplied></name>
-                    <lb n="2"/><name type="cognomen"><hi rend="ligature">Ma</hi>mer<supplied reason="lost">tinus</supplied></name></persName>
+                    <lb n="1"/><persName type="attested"><name type="nomen"><w>Nem<supplied reason="lost">onius</supplied></w></name>
+                    <lb n="2"/><name type="cognomen"><w><hi rend="ligature">Ma</hi>mer<supplied reason="lost">tinus</supplied></w></name></persName>
                     <lb n="3"/><gap reason="illegible" quantity="3" unit="character" precision="low"/>
                 </ab>
             </div>

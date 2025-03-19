@@ -188,9 +188,9 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
                     <lb n="1"/><w>ἀπέθανεν</w>
-                    <lb n="2"/><name><expan><abbr>Τερτυλλαν</abbr><ex>ὸς</ex></expan></name>
+                    <lb n="2"/><name><w><expan><abbr>Τερτυλλαν</abbr><ex>ὸς</ex></expan></w></name>
                     <lb n="3"/><roleName type="paracivic.religious" subtype="diakonos.kandelaros"><w><expan><abbr>διάκ</abbr><ex>ονος</ex></expan></w> <w>κανδελ
-                    <lb n="4" break="no"/>αύρου</w></roleName> <w><expan><abbr>ἐτ</abbr><ex>ῶν</ex></expan></w> <num value="81">απ</num>
+                    <lb n="4" break="no"/>αύρου</w></roleName> <w><expan><abbr>ἐτ</abbr><ex>ῶν</ex></expan></w> <num value="81"><w>απ</w></num>
                 </ab>
             </div>
             <div type="apparatus">

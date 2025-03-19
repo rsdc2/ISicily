@@ -186,7 +186,7 @@
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <g ref="#ivy-leaf">❦</g> <w><choice><reg>χρηστὲ</reg><orig>χρησ<hi rend="ligature">τή</hi></orig></choice></w>
                     <lb n="2"/><w><supplied reason="lost">καὶ ἄ</supplied><unclear>μ</unclear>εμπτε</w>
                     <lb n="3"/><w><supplied reason="lost">χαῖρε</supplied></w> <g ref="#ivy-leaf">❦</g> <w>ἔζησες</w>
-                    <lb n="4"/><w><supplied reason="lost" cert="low">ἡμέρας</supplied></w> <num value="108">ρη</num>
+                    <lb n="4"/><w><supplied reason="lost" cert="low">ἡμέρας</supplied></w> <num value="108"><w>ρη</w></num>
                 </ab>
                </div>
             <div type="apparatus">

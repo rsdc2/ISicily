@@ -189,7 +189,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la"><!-- needs checking against the ILPalermo edition -->
                 <ab>
-                    <lb n="1"/><w><supplied reason="lost"><expan><abbr>D</abbr><ex>is</ex></expan></supplied></w> <name><supplied reason="lost"><expan><abbr>M</abbr><ex>anibus</ex></expan></supplied></name> <w><expan><abbr>s</abbr><ex>acrum</ex></expan></w>
+                    <lb n="1"/><w><supplied reason="lost"><expan><abbr>D</abbr><ex>is</ex></expan></supplied></w> <name><w><supplied reason="lost"><expan><abbr>M</abbr><ex>anibus</ex></expan></supplied></w></name> <w><expan><abbr>s</abbr><ex>acrum</ex></expan></w>
                     <lb n="2"/><gap reason="lost" unit="character" extent="unknown"/> <w>anthe</w>
                     <lb n="3"/><w><supplied reason="lost">vixit</supplied></w> <w><supplied reason="lost">a</supplied>nnos</w> <w><hi rend="supraline">VII</hi></w>
                     <lb n="4"/><gap reason="lost" unit="character" extent="unknown"/> <w>nepoti</w>

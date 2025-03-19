@@ -195,12 +195,12 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
-                    <lb n="1"/><g ref="#interpunct">·</g> <w><expan><abbr>D</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <name><expan><abbr>M</abbr><ex>anibus</ex></expan></name> <g ref="#interpunct">·</g> <w><expan><abbr><unclear>s</unclear></abbr><ex>acrum</ex></expan></w>
-                    <lb n="2"/><name><expan><abbr>L</abbr><ex>ucius</ex></expan></name> <g ref="#interpunct">·</g> <name><expan><abbr><hi rend="ligature">Vi</hi>b</abbr><ex>ius</ex></expan></name> <g ref="#interpunct">·</g> <name>Sot<unclear>e</unclear><supplied reason="lost" cert="low">r</supplied></name>
-                    <lb n="3"/><w><expan><abbr>vix</abbr><ex>it</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>ann</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <hi rend="supraline"><num>XLI<gap reason="lost" extent="unknown" unit="character"/></num></hi>
-                    <lb n="4"/><name><expan><abbr><hi rend="ligature">Vi</hi>b</abbr><ex>ia</ex></expan></name> <name>Lecata</name> <w><expan><abbr>vix</abbr><ex>it</ex></expan></w>
-                    <lb n="5"/><w><expan><abbr>ann</abbr><ex>is</ex></expan></w> <hi rend="supraline"><num value="36">XXXVI</num></hi><name><expan><abbr>L</abbr><ex>ucius</ex></expan></name> <name><expan><abbr><hi rend="ligature">Vi</hi>b</abbr><ex>ius</ex></expan></name>
-                    <lb n="6"/><name>Niceros</name> <g ref="#interpunct">·</g> <w><expan><abbr>f</abbr><ex>ecit</ex></expan></w> <w>filius</w>
+                    <lb n="1"/><g ref="#interpunct">·</g> <w><expan><abbr>D</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <name><w><expan><abbr>M</abbr><ex>anibus</ex></expan></w></name> <g ref="#interpunct">·</g> <w><expan><abbr><unclear>s</unclear></abbr><ex>acrum</ex></expan></w>
+                    <lb n="2"/><name><w><expan><abbr>L</abbr><ex>ucius</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w><expan><abbr><hi rend="ligature">Vi</hi>b</abbr><ex>ius</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w>Sot<unclear>e</unclear><supplied reason="lost" cert="low">r</supplied></w></name>
+                    <lb n="3"/><w><expan><abbr>vix</abbr><ex>it</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>ann</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <hi rend="supraline"><num><w>XLI<gap reason="lost" extent="unknown" unit="character"/></w></num></hi>
+                    <lb n="4"/><name><w><expan><abbr><hi rend="ligature">Vi</hi>b</abbr><ex>ia</ex></expan></w></name> <name><w>Lecata</w></name> <w><expan><abbr>vix</abbr><ex>it</ex></expan></w>
+                    <lb n="5"/><w><expan><abbr>ann</abbr><ex>is</ex></expan></w> <hi rend="supraline"><num value="36"><w>XXXVI</w></num></hi><name><w><expan><abbr>L</abbr><ex>ucius</ex></expan></w></name> <name><w><expan><abbr><hi rend="ligature">Vi</hi>b</abbr><ex>ius</ex></expan></w></name>
+                    <lb n="6"/><name><w>Niceros</w></name> <g ref="#interpunct">·</g> <w><expan><abbr>f</abbr><ex>ecit</ex></expan></w> <w>filius</w>
                 </ab>
             </div>
             <div type="apparatus">

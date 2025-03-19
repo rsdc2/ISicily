@@ -191,9 +191,9 @@
                 <div type="textpart" subtype="section" n="a"> <!-- tympanum -->
                     <ab>
                         <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w>ἐπὶ</w> <w>πα<supplied reason="lost" cert="low">ρὰ</supplied></w>
-                        <lb n="2"/><name>Παιδέσσι</name> <w>καὶ<supplied reason="lost" cert="low">Ἄννᾳ</supplied></w>
+                        <lb n="2"/><name><w>Παιδέσσι</w></name> <w>καὶ<supplied reason="lost" cert="low">Ἄννᾳ</supplied></w>
                         <lb n="3"/><w>ἀμ<supplied reason="lost">φ</supplied>ιπόλου</w> <gap reason="lost" extent="unknown" unit="character"/>
-                        <lb n="4"/><w>ἐπὶ</w> <name>Ἀνία</name> <w>τοῦ</w> <gap reason="lost" extent="unknown" unit="character"/>
+                        <lb n="4"/><w>ἐπὶ</w> <name><w>Ἀνία</w></name> <w>τοῦ</w> <gap reason="lost" extent="unknown" unit="character"/>
                     </ab>
                 </div>
                 <div type="textpart" subtype="section" n="b"> <!-- cornice -->
@@ -204,9 +204,9 @@
                 <div type="textpart" subtype="section" n="c"> <!-- specchio -->
                     <ab>
                         <lb n="6"/><w>ἱερίας</w> <w>δὲ</w> <orig>ΤΣΥ</orig><gap reason="lost" quantity="2" unit="character"/> <orig>ΛΑΣ</orig>
-                        <lb n="7"/><gap reason="lost" extent="unknown" unit="character"/> <name>Μ</name> <gap reason="lost" extent="unknown" unit="character"/>
+                        <lb n="7"/><gap reason="lost" extent="unknown" unit="character"/> <name><w>Μ</w></name> <gap reason="lost" extent="unknown" unit="character"/>
                         <lb n="8"/><w><supplied reason="lost">οἱ</supplied></w> <w><supplied reason="lost">παραγενόμ</supplied>ενοι</w>
-                        <lb n="9"/><w><supplied reason="lost">ποτὶ</supplied></w> <name><supplied reason="lost" cert="low">Νύμφας</supplied></name> <w><supplied reason="lost">μ</supplied>ηνὸς</w>
+                        <lb n="9"/><w><supplied reason="lost">ποτὶ</supplied></w> <name><w><supplied reason="lost" cert="low">Νύμφας</supplied></w></name> <w><supplied reason="lost">μ</supplied>ηνὸς</w>
                         <lb n="10"/><gap reason="lost" quantity="1" unit="line"/>
                     </ab>
                 </div>

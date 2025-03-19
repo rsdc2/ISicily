@@ -170,9 +170,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1"/><w>ἔνθα</w> <w>κῖτ<supplied reason="lost">ε</supplied></w> <persName><name><supplied reason="lost">Ἰάκ</supplied>
-                    <lb n="2"/>ωβος</name> <persName type="attested"><name type="patronymic">Ἀ<unclear>ν</unclear><supplied reason="lost">δρέ</supplied>
-                    <lb n="3"/>ου</name></persName> <placeName type="ethnic"><name>Σύρο</name> <w><supplied reason="lost">ς</supplied></w></placeName></persName> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><w>ἔνθα</w> <w>κῖτ<supplied reason="lost">ε</supplied></w> <persName><name><w><supplied reason="lost">Ἰάκ</supplied>
+                    <lb n="2"/>ωβος</w></name> <persName type="attested"><name type="patronymic"><w>Ἀ<unclear>ν</unclear><supplied reason="lost">δρέ</supplied>
+                    <lb n="3"/>ου</w></name></persName> <placeName type="ethnic"><name><w>Σύρο</w></name> <w><supplied reason="lost">ς</supplied></w></placeName></persName> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>
             <div type="apparatus" resp="#JP">

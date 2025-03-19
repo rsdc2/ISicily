@@ -193,8 +193,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>Q</abbr><ex>uinto</ex></expan></w> <g ref="#interpunct">·</g> <name>Pompeio</name> <name><expan><abbr>Sex</abbr><ex>ti</ex></expan></name> <g ref="#interpunct">·</g> <w><expan><abbr>f</abbr><ex>ilio</ex></expan></w> <g ref="#interpunct">·</g>
-                    <lb n="2"/><name><expan><abbr>Quir</abbr><ex>ina</ex></expan></name> <space unit="character" quantity="3"/><name>Pr<unclear>i</unclear><supplied reason="lost">s</supplied><unclear>c</unclear>o</name>
+                    <lb n="1"/><w><expan><abbr>Q</abbr><ex>uinto</ex></expan></w> <g ref="#interpunct">·</g> <name><w>Pompeio</w></name> <name><w><expan><abbr>Sex</abbr><ex>ti</ex></expan></w></name> <g ref="#interpunct">·</g> <w><expan><abbr>f</abbr><ex>ilio</ex></expan></w> <g ref="#interpunct">·</g>
+                    <lb n="2"/><name><w><expan><abbr>Quir</abbr><ex>ina</ex></expan></w></name> <space unit="character" quantity="3"/><name><w>Pr<unclear>i</unclear><supplied reason="lost">s</supplied><unclear>c</unclear>o</w></name>
                     <lb n="3"/><w>Sosiu<unclear>s</unclear><supplied reason="lost">Pr</supplied>iscus</w> <w>pa<supplied reason="lost">truo</supplied></w>
                 </ab>
             </div>

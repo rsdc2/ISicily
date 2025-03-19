@@ -178,8 +178,8 @@
         <body>
             <div type="edition" xml:space="preserve" subtype="PHI" n="PHI334640">
                 <ab>
-                    <lb n="1"/><w><supplied reason="lost">— — —</supplied>ΚΑϹ</w> <name><supplied reason="lost">— — —</supplied></name>
-                    <lb n="2"/><name><supplied reason="lost">— — — χ</supplied>αῖρε.</name>
+                    <lb n="1"/><w><supplied reason="lost">— — —</supplied>ΚΑϹ</w> <name><w><supplied reason="lost">— — —</supplied></w></name>
+                    <lb n="2"/><name><w><supplied reason="lost">— — — χ</supplied>αῖρε.</w></name>
                     <lb n="3"/>
                 </ab>
             </div>

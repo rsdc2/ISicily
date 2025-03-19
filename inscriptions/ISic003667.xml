@@ -190,12 +190,12 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <name><expan><abbr>M</abbr><ex>anibus</ex></expan></name> <g ref="#interpunct">·</g>
-                    <lb n="2"/><name>Arescusa</name> <w>ma
-                    <lb n="3" break="no"/>ter</w> <g ref="#interpunct">·</g> <name>Soteridi</name>
+                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <name><w><expan><abbr>M</abbr><ex>anibus</ex></expan></w></name> <g ref="#interpunct">·</g>
+                    <lb n="2"/><name><w>Arescusa</w></name> <w>ma
+                    <lb n="3" break="no"/>ter</w> <g ref="#interpunct">·</g> <name><w>Soteridi</w></name>
                     <lb n="4"/><w>filiae</w> <g ref="#interpunct">·</g> <w><expan><abbr>b</abbr><ex>ene</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>m</abbr><ex>erenti</ex></expan></w>
                     <lb n="5"/><w>vixit</w> <w>annis</w>
-                    <lb n="6"/><w><hi rend="supraline"><expan><abbr>n</abbr><ex>umero</ex></expan></hi></w> <num value="24">XX<supplied reason="undefined" evidence="previouseditor">I</supplied>III</num>
+                    <lb n="6"/><w><hi rend="supraline"><expan><abbr>n</abbr><ex>umero</ex></expan></hi></w> <num value="24"><w>XX<supplied reason="undefined" evidence="previouseditor">I</supplied>III</w></num>
                 </ab>
             </div>
             <div type="apparatus">

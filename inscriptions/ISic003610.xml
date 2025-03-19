@@ -185,12 +185,12 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name>Καρδάμαν</name></persName> <w><choice><orig>χρεσ
+                    <lb n="1"/><persName type="attested"><name><w>Καρδάμαν</w></name></persName> <w><choice><orig>χρεσ
                     <lb n="2" break="no"/>τὸς</orig><reg>χρηστὸς</reg></choice></w> <w>καὶ</w> <w><choice><orig>ἄμετος</orig><reg>ἄμεμπτος</reg></choice></w>
-                    <lb n="3"/><w><choice><orig>ἠτο͂ν</orig><reg>ἐτῶν</reg></choice></w> <num value="80"><choice><orig>ὀκτο
-                    <lb n="4" break="no"/>μέκοντα</orig><reg>ὀγδοήκοντα</reg></choice></num>
-                    <lb n="5"/><w><choice><orig>με͂νας</orig><reg>μῆνας</reg></choice></w> <num value="10">δέ<g ref="#ivy-leaf">❦</g>
-                    <lb n="6" break="no"/><supplied reason="lost">κα</supplied></num>
+                    <lb n="3"/><w><choice><orig>ἠτο͂ν</orig><reg>ἐτῶν</reg></choice></w> <num value="80"><w><choice><orig>ὀκτο
+                    <lb n="4" break="no"/>μέκοντα</orig><reg>ὀγδοήκοντα</reg></choice></w></num>
+                    <lb n="5"/><w><choice><orig>με͂νας</orig><reg>μῆνας</reg></choice></w> <num value="10"><w>δέ<g ref="#ivy-leaf">❦</g>
+                    <lb n="6" break="no"/><supplied reason="lost">κα</supplied></w></num>
                 </ab>
             </div>
             <div type="apparatus">

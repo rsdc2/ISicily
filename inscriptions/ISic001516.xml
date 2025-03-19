@@ -190,11 +190,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM #JP">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name>Εὐσκία</name></persName> <w>ἡ</w> <w>ἄ<hi rend="ligature">με</hi><hi rend="ligature">ντ</hi>ος</w> <w><expan><abbr>ζ<hi rend="ligature">ήσ</hi>α</abbr><ex>σα</ex></expan></w>
+                    <lb n="1"/><persName type="attested"><name><w>Εὐσκία</w></name></persName> <w>ἡ</w> <w>ἄ<hi rend="ligature">με</hi><hi rend="ligature">ντ</hi>ος</w> <w><expan><abbr>ζ<hi rend="ligature">ήσ</hi>α</abbr><ex>σα</ex></expan></w>
                     <lb n="2"/><w>χρηστῶς</w> <w>καὶ</w> <w>σε<hi rend="ligature">μνῶς</hi></w> <w>ἔτη</w>
-                    <lb n="3"/><w><expan><abbr>πλῖο</abbr><ex>ν</ex></expan></w> <w>ἔλαττον</w> <num value="25">κε</num> <w>ἀ<hi rend="ligature">νε</hi>
+                    <lb n="3"/><w><expan><abbr>πλῖο</abbr><ex>ν</ex></expan></w> <w>ἔλαττον</w> <num value="25"><w>κε</w></num> <w>ἀ<hi rend="ligature">νε</hi>
                     <lb n="4" break="no"/>παύσετο</w> <w><hi rend="ligature" xml:id="l1">τῇ</hi></w> <w><hi rend="ligature" xml:id="l2">ἑ</hi>ορ<hi rend="ligature">τῇ</hi></w> <w><hi rend="ligature">τῆς</hi></w> <w>κυ<link target="#l1 #l2"/>
-                    <lb n="5" break="no"/>ρίας</w> <w>μου</w> <persName type="attested"><name>Λουκίας</name></persName> <w>εἰς</w> <w><hi rend="ligature">ἢν</hi></w>
+                    <lb n="5" break="no"/>ρίας</w> <w>μου</w> <persName type="attested"><name><w>Λουκίας</w></name></persName> <w>εἰς</w> <w><hi rend="ligature">ἢν</hi></w>
                     <lb n="6"/><w>οὔκ</w> <w>ἐστι<hi rend="ligature" xml:id="l3">ν</hi></w> <w><hi rend="ligature" xml:id="l4">ἐ</hi><hi rend="ligature">νκ</hi>ώ<hi rend="ligature">με</hi>ιον<link target="#l3 #l4"/></w>
                     <lb n="7"/><w>εἰ<hi rend="ligature">πε</hi>ῖν</w> <w>χρηστειανή</w> <w>π<hi rend="ligature">ισ</hi>
                     <lb n="8" break="no"/>τή</w> <w>τέλιος</w> <w>οὖσα</w> <w>εὐχα

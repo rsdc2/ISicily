@@ -191,9 +191,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#TA">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>T</abbr><ex>itus</ex></expan></w> <name>Cesti<supplied reason="lost">us</supplied></name> <name><supplied reason="lost">Ru</supplied>
-                    <lb n="2" break="no"/>fus</name> <w><expan><abbr>v<supplied reason="lost">ix</supplied></abbr><ex>it</ex></expan></w> <w><supplied reason="lost"><expan><abbr>an</abbr><ex>nis</ex></expan></supplied></w>
-                    <lb n="3"/><num value="8">VIII</num>
+                    <lb n="1"/><w><expan><abbr>T</abbr><ex>itus</ex></expan></w> <name><w>Cesti<supplied reason="lost">us</supplied></w></name> <name><w><supplied reason="lost">Ru</supplied>
+                    <lb n="2" break="no"/>fus</w></name> <w><expan><abbr>v<supplied reason="lost">ix</supplied></abbr><ex>it</ex></expan></w> <w><supplied reason="lost"><expan><abbr>an</abbr><ex>nis</ex></expan></supplied></w>
+                    <lb n="3"/><num value="8"><w>VIII</w></num>
                 </ab>
             </div>
             <div type="apparatus">

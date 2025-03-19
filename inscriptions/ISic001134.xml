@@ -202,10 +202,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/><w><supplied reason="lost">Πόπλιος</supplied></w> <name><supplied reason="lost">Κορνή</supplied><unclear>λ</unclear>ιος</name> <name>Ποπλίου</name> <w>υἱὸς</w>
-                    <lb n="2"/><name><supplied reason="lost">Σκιπίων</supplied></name> <name><supplied reason="lost">Ἀφρικαν</supplied>ὸς</name> <roleName type="supracivic" subtype="consul"><w>ὕπατος</w></roleName> <space unit="character" quantity="1"/><w>ἑλῶν</w>
-                    <lb n="3"/><name><supplied reason="lost">Καρχηδόνα</supplied></name> <w><supplied reason="lost">κατά</supplied></w> <w>κράτος</w> <w>τοὺς</w> <space unit="character" quantity="1"/><w>ἐξ</w>
-                    <lb n="4"/><name><supplied reason="lost">Ἱμέρας</supplied></name> <w><supplied reason="lost">ἀνδριάν</supplied><unclear>τα</unclear>ς</w> <name>Ἱμέραίοις</name> <gap reason="lost" quantity="1" unit="line"/>
+                    <lb n="1"/><w><supplied reason="lost">Πόπλιος</supplied></w> <name><w><supplied reason="lost">Κορνή</supplied><unclear>λ</unclear>ιος</w></name> <name><w>Ποπλίου</w></name> <w>υἱὸς</w>
+                    <lb n="2"/><name><w><supplied reason="lost">Σκιπίων</supplied></w></name> <name><w><supplied reason="lost">Ἀφρικαν</supplied>ὸς</w></name> <roleName type="supracivic" subtype="consul"><w>ὕπατος</w></roleName> <space unit="character" quantity="1"/><w>ἑλῶν</w>
+                    <lb n="3"/><name><w><supplied reason="lost">Καρχηδόνα</supplied></w></name> <w><supplied reason="lost">κατά</supplied></w> <w>κράτος</w> <w>τοὺς</w> <space unit="character" quantity="1"/><w>ἐξ</w>
+                    <lb n="4"/><name><w><supplied reason="lost">Ἱμέρας</supplied></w></name> <w><supplied reason="lost">ἀνδριάν</supplied><unclear>τα</unclear>ς</w> <name><w>Ἱμέραίοις</w></name> <gap reason="lost" quantity="1" unit="line"/>
                 </ab>
             </div>
             <div type="apparatus">

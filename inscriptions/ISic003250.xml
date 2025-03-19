@@ -194,12 +194,12 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <name><expan><abbr>M</abbr><ex>anibus</ex></expan></name> <w><expan><abbr>s</abbr><ex>acrum</ex></expan></w>
-                    <lb n="2"/><name>Pomponiae</name> <g ref="#interpunct">·</g> <name>Castae</name>
-                    <lb n="3"/><name>Nomius</name> <name>Domiiiae</name>
-                    <lb n="4"/><name>Domitiani</name> <w><expan><abbr>ser</abbr><ex>vus</ex></expan></w>
+                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <name><w><expan><abbr>M</abbr><ex>anibus</ex></expan></w></name> <w><expan><abbr>s</abbr><ex>acrum</ex></expan></w>
+                    <lb n="2"/><name><w>Pomponiae</w></name> <g ref="#interpunct">·</g> <name><w>Castae</w></name>
+                    <lb n="3"/><name><w>Nomius</w></name> <name><w>Domiiiae</w></name>
+                    <lb n="4"/><name><w>Domitiani</w></name> <w><expan><abbr>ser</abbr><ex>vus</ex></expan></w>
                     <lb n="5"/><w>piae</w> <w>coniugi</w> <g ref="#interpunct">·</g> <w><expan><abbr><choice><corr>f</corr><orig>e</orig></choice></abbr><ex>ecit</ex></expan></w> <g ref="#interpunct">·</g>
-                    <lb n="6"/><w><expan><abbr>v</abbr><ex>ixit</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>a</abbr><ex>nnis</ex></expan></w> <g ref="#interpunct">·</g> <num value="25">XXV</num> <w><expan><abbr>d</abbr><ex>iebus</ex></expan></w> <num value="20">XX</num>
+                    <lb n="6"/><w><expan><abbr>v</abbr><ex>ixit</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>a</abbr><ex>nnis</ex></expan></w> <g ref="#interpunct">·</g> <num value="25"><w>XXV</w></num> <w><expan><abbr>d</abbr><ex>iebus</ex></expan></w> <num value="20"><w>XX</w></num>
                 </ab>
             </div>
             <div type="apparatus">

@@ -194,8 +194,8 @@
                     <lb n="1"/><w>Κυρακὴ</w>
                     <lb n="2"/><w>ἐνθάδε</w> <w>κεῖ
                     <lb n="3" break="no"/>τε</w> <w>ἔζ<hi rend="ligature">ησ</hi>ε</w> <w>ἔ<hi rend="ligature">τη</hi></w>
-                    <lb n="4"/><num value="32"><hi rend="supraline">β</hi>λ</num> <w>ἐτάφη</w> <w>ἔ<choice><corr>ξ</corr><sic>σκ</sic></choice></w>
-                    <lb n="5"/><w>τοῦ</w> <name><expan><abbr>Ὀκτωβ</abbr><ex>ρίου</ex></expan></name>
+                    <lb n="4"/><num value="32"><w><hi rend="supraline">β</hi>λ</w></num> <w>ἐτάφη</w> <w>ἔ<choice><corr>ξ</corr><sic>σκ</sic></choice></w>
+                    <lb n="5"/><w>τοῦ</w> <name><w><expan><abbr>Ὀκτωβ</abbr><ex>ρίου</ex></expan></w></name>
                 </ab>
             </div>
             <div type="apparatus">

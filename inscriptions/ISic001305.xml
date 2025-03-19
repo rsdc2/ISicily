@@ -192,9 +192,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#AL">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name type="praenomen">Λούκιε</name> <g ref="#ivy-leaf">❦</g>
-                    <lb n="2"/><name type="nomen">Καίλιε</name> <g ref="#ivy-leaf">❦</g>
-                    <lb n="3"/><name type="cognomen">Φῆλιξ</name></persName> <g ref="#ivy-leaf">❦</g>
+                    <lb n="1"/><persName type="attested"><name type="praenomen"><w>Λούκιε</w></name> <g ref="#ivy-leaf">❦</g>
+                    <lb n="2"/><name type="nomen"><w>Καίλιε</w></name> <g ref="#ivy-leaf">❦</g>
+                    <lb n="3"/><name type="cognomen"><w>Φῆλιξ</w></name></persName> <g ref="#ivy-leaf">❦</g>
                     <lb n="4"/><w>χρηστὲ</w>
                     <lb n="5"/><w>χαῖρε</w> <g ref="#ivy-leaf">❦</g>
                 </ab>

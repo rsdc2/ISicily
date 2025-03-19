@@ -188,15 +188,15 @@
                 <div type="textpart" subtype="section" n="a">
                     <ab>
                         <milestone unit="face" subtype="recto"/>
-                        <lb n="1a"/><persName type="attested"><name type="idionym">Ἔν
-                        <lb n="1aa" break="no"/>ορμος</name></persName> <w>καὶ</w> <w>hα</w> <gap reason="lost" extent="unknown" unit="character"/>
+                        <lb n="1a"/><persName type="attested"><name type="idionym"><w>Ἔν
+                        <lb n="1aa" break="no"/>ορμος</w></name></persName> <w>καὶ</w> <w>hα</w> <gap reason="lost" extent="unknown" unit="character"/>
                         <lb n="1b"/><gap reason="lost" extent="unknown" unit="character"/> <w>ο̄</w> <w><choice><orig>γλο͂<supplied reason="lost">σα</supplied></orig><reg>γλο͂<supplied reason="lost">σσα</supplied></reg></choice></w> <gap reason="lost" extent="unknown" unit="character"/>
                         <lb n="2a"/><gap reason="lost" extent="unknown" unit="character"/> <w><choice><orig><supplied reason="lost">ἀ</supplied>πεστραμένα</orig><reg><supplied reason="lost">ἀ</supplied>πεστραμμένα</reg></choice></w> <gap reason="lost" extent="unknown" unit="character"/>
                         <lb n="2b"/><gap reason="lost" extent="unknown" unit="character"/> <orig>ΥΣ</orig><gap reason="lost" extent="unknown" unit="character"/> <w>καὶ</w> <w>hα</w> <orig>Δ</orig><gap reason="lost" extent="unknown" unit="character"/>
                         <lb n="3a"/><gap reason="lost" extent="unknown" unit="character"/> <w>σίο̄</w> <w><choice><orig>γλο͂σα</orig><reg>γλο͂σσα</reg></choice></w> <w>ἀπεσ<supplied reason="lost">τ</supplied><unclear>ρ</unclear></w> <gap reason="lost" extent="unknown" unit="character"/>
                         <lb n="3b"/><gap reason="lost" extent="unknown" unit="character"/> <w><choice><orig>μένα</orig><reg>μμένα</reg></choice></w> <space extent="unknown" unit="character"/>
-                        <lb n="4a"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="attested"><name type="idionym">Δάμαρχος</name></persName> <w>καὶ</w>
-                        <lb n="4b"/><w>hα</w> <persName type="attested"><name type="idionym">Δαμάρχο̄</name></persName>
+                        <lb n="4a"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="attested"><name type="idionym"><w>Δάμαρχος</w></name></persName> <w>καὶ</w>
+                        <lb n="4b"/><w>hα</w> <persName type="attested"><name type="idionym"><w>Δαμάρχο̄</w></name></persName>
                         <lb n="5"/><w><choice><orig>γλο͂σα</orig><reg>γλο͂σσα</reg></choice></w> <w><choice><orig>ἀπ<unclear>ε</unclear>στ<supplied reason="lost">ραμένα</supplied></orig><reg>ἀπ<unclear>ε</unclear>στ<supplied reason="lost">ραμμένα</supplied></reg></choice></w>
                     </ab>
                 </div>

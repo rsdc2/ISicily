@@ -193,11 +193,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la">
                 <ab>
-                    <lb n="1"/><w><supplied reason="lost"><expan><abbr>D</abbr><ex>is</ex></expan></supplied></w> <name><expan><abbr>M</abbr><ex>anibus</ex></expan></name> <w><expan><abbr>s</abbr><ex>acrum</ex></expan></w>
-                    <lb n="2"/><name>Burniae</name> <g ref="#interpunct">·</g> <name><expan><abbr>L</abbr><ex>uci</ex></expan></name> <g ref="#interpunct">·</g> <w><expan><abbr>f</abbr><ex>iliae</ex></expan></w>
-                    <lb n="3"/><name>Primulae</name>
-                    <lb n="4"/><name><supplied reason="lost">E</supplied>paphroditu<supplied reason="lost">s</supplied></name>
-                    <lb n="5"/><name>Augustoru<supplied reason="lost">m</supplied></name>
+                    <lb n="1"/><w><supplied reason="lost"><expan><abbr>D</abbr><ex>is</ex></expan></supplied></w> <name><w><expan><abbr>M</abbr><ex>anibus</ex></expan></w></name> <w><expan><abbr>s</abbr><ex>acrum</ex></expan></w>
+                    <lb n="2"/><name><w>Burniae</w></name> <g ref="#interpunct">·</g> <name><w><expan><abbr>L</abbr><ex>uci</ex></expan></w></name> <g ref="#interpunct">·</g> <w><expan><abbr>f</abbr><ex>iliae</ex></expan></w>
+                    <lb n="3"/><name><w>Primulae</w></name>
+                    <lb n="4"/><name><w><supplied reason="lost">E</supplied>paphroditu<supplied reason="lost">s</supplied></w></name>
+                    <lb n="5"/><name><w>Augustoru<supplied reason="lost">m</supplied></w></name>
                     <lb n="6"/><w><expan><abbr><supplied reason="lost">li</supplied>b</abbr><ex>ertus</ex></expan></w> <w><expan><abbr>v</abbr><ex>ixit</ex></expan></w> <w><expan><abbr>a</abbr><ex>nnos</ex></expan></w> <gap reason="lost" quantity="2" unit="character" precision="low"/>
                 </ab>
             </div>

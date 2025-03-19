@@ -209,8 +209,8 @@
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
                     <lb n="1"/><w><supplied reason="lost" evidence="parallel"><expan><abbr>L</abbr><ex>ucius</ex></expan>Caelius<expan><abbr>L</abbr><ex>uci</ex></expan><expan><abbr>f</abbr><ex>ilius</ex></expan></supplied></w>
-                    <lb n="2"/><name><expan><abbr>C<unclear>l</unclear><supplied reason="lost" evidence="parallel">a</supplied></abbr><ex>udia</ex></expan></name> <name><supplied reason="lost" evidence="parallel">Macer</supplied></name>
-                    <lb n="3"/><roleName type="civic" subtype="duumvir"><num value="2"> <hi rend="supraline">II</hi></num> <g ref="#interpunct">·</g> <w>v</w> <w><supplied reason="lost">ir</supplied></w></roleName> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><name><w><expan><abbr>C<unclear>l</unclear><supplied reason="lost" evidence="parallel">a</supplied></abbr><ex>udia</ex></expan></w></name> <name><w><supplied reason="lost" evidence="parallel">Macer</supplied></w></name>
+                    <lb n="3"/><roleName type="civic" subtype="duumvir"><num value="2"><w> <hi rend="supraline">II</hi></w></num> <g ref="#interpunct">·</g> <w>v</w> <w><supplied reason="lost">ir</supplied></w></roleName> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="4"/><gap reason="lost" extent="unknown" unit="line"/>
                 </ab>
             </div>

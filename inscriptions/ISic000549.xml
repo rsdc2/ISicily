@@ -199,11 +199,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
-                    <lb n="1"/><name>Ulpio</name> <g ref="#interpunct">·</g> <name>Severo</name>
-                    <lb n="2"/><name>Nar<supplied reason="lost">is</supplied>tus</name>
-                    <lb n="3"/><roleName type="military" subtype="eques.singularis"><w><expan><abbr>eq</abbr><ex>ues</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>sing</abbr><ex>ularis</ex></expan></w></roleName> <g ref="#interpunct">·</g> <name><expan><abbr>Aug</abbr><ex>usti</ex></expan></name> <g ref="#interpunct">·</g> <w><expan><abbr>tur</abbr><ex>ma</ex></expan></w>
-                    <lb n="4"/><name>Busturonis</name> <g ref="#interpunct">·</g> <w><expan><abbr>vix</abbr><ex>it</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>an</abbr><ex>nos</ex></expan></w> <g ref="#interpunct">·</g> <num value="38">XXXVIII</num> <g ref="#interpunct">·</g> <name>D</name> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="5"/><name>Mansuetus</name> <g ref="#interpunct">·</g> <w>et</w> <g ref="#interpunct">·</g> <name>Titus</name>
+                    <lb n="1"/><name><w>Ulpio</w></name> <g ref="#interpunct">·</g> <name><w>Severo</w></name>
+                    <lb n="2"/><name><w>Nar<supplied reason="lost">is</supplied>tus</w></name>
+                    <lb n="3"/><roleName type="military" subtype="eques.singularis"><w><expan><abbr>eq</abbr><ex>ues</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>sing</abbr><ex>ularis</ex></expan></w></roleName> <g ref="#interpunct">·</g> <name><w><expan><abbr>Aug</abbr><ex>usti</ex></expan></w></name> <g ref="#interpunct">·</g> <w><expan><abbr>tur</abbr><ex>ma</ex></expan></w>
+                    <lb n="4"/><name><w>Busturonis</w></name> <g ref="#interpunct">·</g> <w><expan><abbr>vix</abbr><ex>it</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>an</abbr><ex>nos</ex></expan></w> <g ref="#interpunct">·</g> <num value="38"><w>XXXVIII</w></num> <g ref="#interpunct">·</g> <name><w>D</w></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="5"/><name><w>Mansuetus</w></name> <g ref="#interpunct">·</g> <w>et</w> <g ref="#interpunct">·</g> <name><w>Titus</w></name>
                     <lb n="6"/><w><expan><abbr>h</abbr><ex>eredes</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>b</abbr><ex>ene</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>m</abbr><ex>erenti</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>f</abbr><ex>ecerunt</ex></expan></w>
                 </ab>
             </div>

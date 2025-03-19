@@ -196,8 +196,8 @@
     <div type="edition" xml:space="preserve" xml:lang="la" resp="#ME">
                 <ab>
                     <lb n="1"/><w>Cerriniae</w> <g ref="#interpunct">·</g>
-                    <lb n="2"/><name><expan><abbr>L</abbr><ex>uci</ex></expan></name> <g ref="#interpunct">·</g> <w><expan><abbr>f</abbr><ex>iliae</ex></expan></w> <g ref="#interpunct">·</g> <name>Cottiae</name>
-                    <lb n="3"/><name>Cottia</name> <g ref="#interpunct">·</g> <name>Euphrosyne</name>
+                    <lb n="2"/><name><w><expan><abbr>L</abbr><ex>uci</ex></expan></w></name> <g ref="#interpunct">·</g> <w><expan><abbr>f</abbr><ex>iliae</ex></expan></w> <g ref="#interpunct">·</g> <name><w>Cottiae</w></name>
+                    <lb n="3"/><name><w>Cottia</w></name> <g ref="#interpunct">·</g> <name><w>Euphrosyne</w></name>
                     <lb n="4"/><w>filiae</w> <w>piissimae</w>
                     <lb n="5"/><w><expan><abbr>s</abbr><ex>ua</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>p</abbr><ex>ecunia</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>p</abbr><ex>osuit</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>l</abbr><ex>oco</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>d</abbr><ex>ato</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>d</abbr><ex>ecreto</ex></expan></w> <g ref="#interpunct">·</g> <roleName type="civic" subtype="decurio"><w><expan><abbr>d</abbr><ex>ecurionum</ex></expan></w></roleName> <g ref="#interpunct">·</g>
                     <lb n="6"/><w><supplied reason="lost">et</supplied></w> <w><supplied reason="lost">ob</supplied></w> <w>dedicationem</w> <w>earum</w>

@@ -187,10 +187,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>Θ</abbr><ex>εοῖς</ex></expan></w> <name><expan><abbr>Κ<unclear>α</unclear></abbr><ex>ταχθονίοις</ex></expan></name>
-                    <lb n="2"/><name>Βειψάνιο<supplied reason="lost">ς</supplied></name>
-                    <lb n="3"/><name>Ζώτικος</name> <w><supplied reason="lost">ἔζησεν</supplied></w>
-                    <lb n="4"/><w>ἔτη</w> <g ref="#interpunct">·</g> <num value="30">λ</num> <g ref="#interpunct">·</g> <name>Ἡρακλ<supplied reason="lost">εία</supplied></name>
+                    <lb n="1"/><w><expan><abbr>Θ</abbr><ex>εοῖς</ex></expan></w> <name><w><expan><abbr>Κ<unclear>α</unclear></abbr><ex>ταχθονίοις</ex></expan></w></name>
+                    <lb n="2"/><name><w>Βειψάνιο<supplied reason="lost">ς</supplied></w></name>
+                    <lb n="3"/><name><w>Ζώτικος</w></name> <w><supplied reason="lost">ἔζησεν</supplied></w>
+                    <lb n="4"/><w>ἔτη</w> <g ref="#interpunct">·</g> <num value="30"><w>λ</w></num> <g ref="#interpunct">·</g> <name><w>Ἡρακλ<supplied reason="lost">εία</supplied></w></name>
                     <lb n="5"/><w>ἀνδρὶ</w> <w>εὐσεβ<supplied reason="lost">εστάτῳ</supplied></w>
                 </ab>
             </div>

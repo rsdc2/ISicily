@@ -192,12 +192,12 @@
             <div type="edition" xml:space="preserve" xml:lang="scx-Grek" resp="#VM">
                 <div type="textpart" subtype="section" n="1">
                     <ab>
-                        <lb n="1"/><handShift new="#h1"/><persName type="attested"><name>ρατορα</name></persName>
+                        <lb n="1"/><handShift new="#h1"/><persName type="attested"><name><w>ρατορα</w></name></persName>
                     </ab>
                 </div>
                 <div type="textpart" subtype="section" n="2">
                     <ab>
-                        <lb n="1"/><handShift new="#h2"/><persName type="attested"><name>αρα</name> <name>κακα</name></persName>μι
+                        <lb n="1"/><handShift new="#h2"/><persName type="attested"><name><w>αρα</w></name> <name><w>κακα</w></name></persName>μι
                     </ab>
                 </div>
             </div>

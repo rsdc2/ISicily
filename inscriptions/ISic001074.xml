@@ -195,9 +195,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/><w>Λανθάνου<hi rend="reversed">σ</hi>α</w> <g ref="#interpunct">·</g> <w><supplied reason="omitted">ἡ</supplied></w> <w>καὶ</w> <name>Ἀγάθη</name> <w>χρη
+                    <lb n="1"/><w>Λανθάνου<hi rend="reversed">σ</hi>α</w> <g ref="#interpunct">·</g> <w><supplied reason="omitted">ἡ</supplied></w> <w>καὶ</w> <name><w>Ἀγάθη</w></name> <w>χρη
                     <lb n="2" break="no"/><hi rend="reversed">σ</hi>τὴ</w> <w>καὶ</w> <w>ἄμεμπτο<hi rend="reversed">ς</hi></w> <g ref="#interpunct">·</g> <w>ἔζη<hi rend="reversed">σ</hi>εν</w> <g ref="#ivy-leaf">❦</g>
-                    <lb n="3"/><w>ἔτη</w> <num value="72"><hi rend="supraline">ο</hi>β</num> <w>μῆνε<hi rend="reversed">ς</hi></w> <num value="4">δ</num> <w>ἔτι</w> <w>καὶ</w> <num value="3">γ</num> <g ref="#interpunct">·</g> <w>ἐποί<supplied reason="omitted">η</supplied>
+                    <lb n="3"/><w>ἔτη</w> <num value="72"><w><hi rend="supraline">ο</hi>β</w></num> <w>μῆνε<hi rend="reversed">ς</hi></w> <num value="4"><w>δ</w></num> <w>ἔτι</w> <w>καὶ</w> <num value="3"><w>γ</w></num> <g ref="#interpunct">·</g> <w>ἐποί<supplied reason="omitted">η</supplied>
                     <lb n="4" break="no"/><hi rend="reversed">σ</hi>ε</w> <w>δὲ</w> <w>θυγάτηρ</w> <w>ἰδίᾳ</w> <w>μετρὶ</w> <w>εὐ<hi rend="reversed">σ</hi>εβή<supplied reason="omitted">ς</supplied></w>
                     <lb n="5"/><w>εἴ</w> <w>τι<hi rend="reversed">ς</hi></w> <w>δὲ</w> <w>ταύτην</w> <w>ἠδίκη<hi rend="reversed">σ</hi>εν</w> <w>καὶ</w> <w>ἐμὲ</w>
                     <lb n="6"/><w>ἐλύπη<hi rend="reversed">σ</hi>εν</w> <w>μὴ</w> <w>λάθοιτο</w> <w>τὸν</w> <w>θεόν</w>

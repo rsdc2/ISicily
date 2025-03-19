@@ -189,11 +189,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <name><expan><abbr>M</abbr><ex>anibus</ex></expan></name>
-                    <lb n="2"/><name>Munatiae</name>
-                    <lb n="3"/><name>Paullae</name>
-                    <lb n="4"/><name>Laternina</name>
-                    <lb n="5"/><name>Quinta</name> <w>matri</w>
+                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <name><w><expan><abbr>M</abbr><ex>anibus</ex></expan></w></name>
+                    <lb n="2"/><name><w>Munatiae</w></name>
+                    <lb n="3"/><name><w>Paullae</w></name>
+                    <lb n="4"/><name><w>Laternina</w></name>
+                    <lb n="5"/><name><w>Quinta</w></name> <w>matri</w>
                     <lb n="6"/><w>piissimae</w>
                 </ab>
             </div>

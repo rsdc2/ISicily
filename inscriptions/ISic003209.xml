@@ -197,7 +197,7 @@
                 <ab>
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w><unclear>r</unclear>tu</w> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">q</supplied><unclear>u</unclear>inqu</w> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <gap reason="illegible" quantity="1" unit="character"/> <name><unclear>R</unclear>·</name> <name>I</name> <g ref="#interpunct">·</g> <name><unclear>C</unclear></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <gap reason="illegible" quantity="1" unit="character"/> <name><w><unclear>R</unclear>·</w></name> <name><w>I</w></name> <g ref="#interpunct">·</g> <name><w><unclear>C</unclear></w></name> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>
             <div type="apparatus">

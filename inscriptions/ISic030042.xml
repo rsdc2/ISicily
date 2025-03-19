@@ -172,7 +172,7 @@
                         <lb n="2" style="text-direction:l-to-r"/><gap reason="lost" extent="unknown" unit="character"/> <w>μενφε</w> <gap reason="lost" extent="unknown" unit="character"/>
                         <lb n="3" style="text-direction:r-to-l"/><gap reason="lost" extent="unknown" unit="character"/> <w>ται</w> <w>τε͂ς</w> <orig>ΕΙ</orig><gap reason="lost" extent="unknown" unit="character"/>
                         <lb n="4" style="text-direction:l-to-r"/><gap reason="lost" extent="unknown" unit="character"/> <w>τετραϙο</w> <gap reason="lost" extent="unknown" unit="character"/>
-                        <lb n="5" style="text-direction:r-to-l"/><gap reason="lost" extent="unknown" unit="character"/> <name>:</name> <w>ἰὰν</w> <w>δὲ</w> <gap reason="lost" extent="unknown" unit="character"/>
+                        <lb n="5" style="text-direction:r-to-l"/><gap reason="lost" extent="unknown" unit="character"/> <name><w>:</w></name> <w>ἰὰν</w> <w>δὲ</w> <gap reason="lost" extent="unknown" unit="character"/>
                         <lb n="6" style="text-direction:l-to-r"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">τ</supplied><unclear>α</unclear>ῦτα</w> <w>ͱο</w> <gap reason="lost" extent="unknown" unit="character"/>
                         <lb n="7"/><gap reason="lost" extent="unknown" unit="character"/> <orig>ΤΕ</orig><gap reason="lost" extent="unknown" unit="character"/>
                     </ab>
@@ -183,7 +183,7 @@
                         <lb n="2" break="no" style="text-direction:r-to-l"/>ϝο</w> <w>τάλα<unclear>ν</unclear><supplied reason="lost">τα</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
                         <lb n="3" style="text-direction:l-to-r"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">ͱι</supplied>ερὰ</w> <w>ἐ͂να
                         <lb n="4" break="no" style="text-direction:r-to-l"/></w> <orig>Ι</orig><w>ͱόστις</w> <w>ἂ<supplied reason="lost">ν</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
-                        <lb n="5" style="text-direction:l-to-r"/><gap reason="lost" extent="unknown" unit="character"/> <name><supplied reason="lost">Ͱε̄ρα</supplied><unclear>κ</unclear>λείδ<unclear>α</unclear></name> <gap reason="lost" extent="unknown" unit="character"/>
+                        <lb n="5" style="text-direction:l-to-r"/><gap reason="lost" extent="unknown" unit="character"/> <name><w><supplied reason="lost">Ͱε̄ρα</supplied><unclear>κ</unclear>λείδ<unclear>α</unclear></w></name> <gap reason="lost" extent="unknown" unit="character"/>
                         <lb n="6" style="text-direction:r-to-l"/><gap reason="lost" extent="unknown" unit="character"/> <orig>ΙΟ<unclear>Σ</unclear></orig><gap reason="lost" extent="unknown" unit="character"/>
                     </ab>
                 </div>

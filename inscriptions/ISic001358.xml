@@ -193,10 +193,10 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#AA">
                 <ab>
                     <lb n="1"/><w>ἐτελεύτησεν</w>
-                    <lb n="2"/><name>Ἰουλιανὸς</name>
-                    <lb n="3"/><w>τῇ</w> <w>πρὸ</w> <num value="15"><hi rend="supraline">ιε</hi></num> <w><expan><abbr>κ<hi rend="supraline">αλ</hi></abbr><ex>ανδῶν</ex></expan></w>
-                    <lb n="4"/><name>Ἀπριλίων</name> <w>ζή
-                    <lb n="5" break="no"/>σας</w> <w>ἔτη</w> <num value="50">ν</num>
+                    <lb n="2"/><name><w>Ἰουλιανὸς</w></name>
+                    <lb n="3"/><w>τῇ</w> <w>πρὸ</w> <num value="15"><w><hi rend="supraline">ιε</hi></w></num> <w><expan><abbr>κ<hi rend="supraline">αλ</hi></abbr><ex>ανδῶν</ex></expan></w>
+                    <lb n="4"/><name><w>Ἀπριλίων</w></name> <w>ζή
+                    <lb n="5" break="no"/>σας</w> <w>ἔτη</w> <num value="50"><w>ν</w></num>
                     <lb n="6"/><g ref="#alpha">Α</g> <g ref="#staurogram">⳨</g> <g ref="#omega">Ω</g>
                 </ab>
             </div>

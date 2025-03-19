@@ -193,9 +193,9 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#AL">
                 <ab>
                     <lb n="1"/><w>ὁ</w> <w>δᾶμος</w>
-                    <lb n="2"/><w>τῶν</w> <placeName type="ethnic"><name>Λιλυβαιιτᾶν</name></placeName>
-                    <lb n="3"/><persName type="attested"><name>Διόγνητον</name>
-                    <lb n="4"/><persName type="attested"><name type="patronym">Δαματρίου</name></persName> <name type="secondName">Μήγα<supplied reason="lost">ν</supplied></name></persName>
+                    <lb n="2"/><w>τῶν</w> <placeName type="ethnic"><name><w>Λιλυβαιιτᾶν</w></name></placeName>
+                    <lb n="3"/><persName type="attested"><name><w>Διόγνητον</w></name>
+                    <lb n="4"/><persName type="attested"><name type="patronym"><w>Δαματρίου</w></name></persName> <name type="secondName"><w>Μήγα<supplied reason="lost">ν</supplied></w></name></persName>
                     <lb n="5"/><roleName type="paracivic" subtype="euergetes"><w><unclear>εὐεργέταν</unclear></w></roleName>
                 </ab>
             </div>

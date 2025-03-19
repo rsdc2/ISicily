@@ -211,8 +211,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name>Δαμάτρι<supplied reason="lost">ος</supplied></name>
-                    <lb n="2"/><persName type="attested"><name type="patronym">Ποπλείο<supplied reason="lost" cert="low">υ</supplied></name></persName></persName>
+                    <lb n="1"/><persName type="attested"><name><w>Δαμάτρι<supplied reason="lost">ος</supplied></w></name>
+                    <lb n="2"/><persName type="attested"><name type="patronym"><w>Ποπλείο<supplied reason="lost" cert="low">υ</supplied></w></name></persName></persName>
                     <lb n="3"/><w>μακαρῖτα</w>
                     <lb n="4"/><w><choice><orig>χαῖρη</orig><reg>χαῖρε</reg></choice></w>
                 </ab>

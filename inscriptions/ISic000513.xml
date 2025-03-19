@@ -196,13 +196,13 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>C</abbr><ex>aio</ex></expan></w> <g ref="#interpunct">·</g> <name>Bultio</name> <g ref="#interpunct">·</g> <name>Gemini<unclear>o</unclear></name>
-                    <lb n="2"/><name>Titiano</name> <g ref="#interpunct">·</g> <roleName type="supracivic" subtype="proconsul"><w><expan><abbr>proco</abbr><ex>n</ex><abbr>s</abbr><ex>uli</ex></expan></w></roleName>
-                    <lb n="3"/><w><expan><abbr>prov</abbr><ex>inciae</ex></expan></w> <name><expan><abbr>Sicil</abbr><ex>iae</ex></expan></name> <g ref="#interpunct">·</g> <roleName type="supracivic" subtype="consul"><w><expan><abbr>co</abbr><ex>n</ex><abbr>s</abbr><ex>uli</ex></expan></w></roleName> <g ref="#interpunct">·</g> <roleName type="supracivic" subtype="clarissimus"><w><expan><abbr>c</abbr><ex>larissimo</ex></expan></w></roleName> <w><expan><abbr><unclear>v</unclear></abbr><ex>iro</ex></expan></w> <g ref="#interpunct">·</g>
+                    <lb n="1"/><w><expan><abbr>C</abbr><ex>aio</ex></expan></w> <g ref="#interpunct">·</g> <name><w>Bultio</w></name> <g ref="#interpunct">·</g> <name><w>Gemini<unclear>o</unclear></w></name>
+                    <lb n="2"/><name><w>Titiano</w></name> <g ref="#interpunct">·</g> <roleName type="supracivic" subtype="proconsul"><w><expan><abbr>proco</abbr><ex>n</ex><abbr>s</abbr><ex>uli</ex></expan></w></roleName>
+                    <lb n="3"/><w><expan><abbr>prov</abbr><ex>inciae</ex></expan></w> <name><w><expan><abbr>Sicil</abbr><ex>iae</ex></expan></w></name> <g ref="#interpunct">·</g> <roleName type="supracivic" subtype="consul"><w><expan><abbr>co</abbr><ex>n</ex><abbr>s</abbr><ex>uli</ex></expan></w></roleName> <g ref="#interpunct">·</g> <roleName type="supracivic" subtype="clarissimus"><w><expan><abbr>c</abbr><ex>larissimo</ex></expan></w></roleName> <w><expan><abbr><unclear>v</unclear></abbr><ex>iro</ex></expan></w> <g ref="#interpunct">·</g>
                     <lb n="4"/><w>ob</w> <g ref="#interpunct">·</g> <w>insignem</w> <g ref="#interpunct">·</g> <w>eius</w>
                     <lb n="5"/><w><choice><orig>benivolentiam</orig><reg>benevolentiam</reg></choice></w>
                     <lb n="6"/><w>erga</w> <w>ordinem</w> <w>et</w>
-                    <lb n="7"/><w>patriam</w> <g ref="#interpunct">·</g> <hi rend="supraline"><num value="12">XII</num></hi><g ref="#interpunct">·</g> <w><expan><abbr>trib</abbr><ex>us</ex></expan></w> <g ref="#interpunct">·</g>
+                    <lb n="7"/><w>patriam</w> <g ref="#interpunct">·</g> <hi rend="supraline"><num value="12"><w>XII</w></num></hi><g ref="#interpunct">·</g> <w><expan><abbr>trib</abbr><ex>us</ex></expan></w> <g ref="#interpunct">·</g>
                     <lb n="8"/><roleName type="paracivic" subtype="patronus"><w>patrono</w></roleName> <g ref="#interpunct">·</g> <w>merenti</w> <g ref="#interpunct">·</g>
                 </ab>
             </div>

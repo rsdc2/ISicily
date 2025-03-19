@@ -195,11 +195,11 @@
                 <ab>
                     <lb n="0a"/><gap reason="lost" extent="unknown" unit="line"/>
                     <lb n="0b"/><w><supplied reason="lost">vixit</supplied></w>
-                    <lb n="1"/><w><expan><abbr>ann</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <num value="20">XX</num>
+                    <lb n="1"/><w><expan><abbr>ann</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <num value="20"><w>XX</w></num>
                     <lb n="2"/><w>posuit</w>
                     <lb n="3"/><w><expan><abbr>carissi</abbr><ex>mae</ex></expan></w>
-                    <lb n="4"/><w>svae</w> <g ref="#interpunct">·</g> <persName type="attested"><name>Cr
-                    <lb n="5" break="no"/>escens</name></persName>
+                    <lb n="4"/><w>svae</w> <g ref="#interpunct">·</g> <persName type="attested"><name><w>Cr
+                    <lb n="5" break="no"/>escens</w></name></persName>
                     <lb n="6"/><w><expan><abbr>s</abbr><ex>it</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>t</abbr><ex>ibi</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>t</abbr><ex>erra</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>l</abbr><ex>evis</ex></expan></w> <g ref="#interpunct">·</g>
                 </ab>
             </div>

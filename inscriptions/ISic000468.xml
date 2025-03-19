@@ -193,8 +193,8 @@
                 <ab>
                     <lb n="1"/><w><expan><abbr>Caesarib</abbr><ex>us</ex></expan></w>
                     <lb n="2"/><w>sacrum</w>
-                    <lb n="3"/><persName type="attested"><name><expan><abbr>L</abbr><ex>ucius</ex></expan></name> <name>Caelius</name> <persName type="attested"><name><expan><abbr>M</abbr><ex>arci</ex></expan></name> <w><expan><abbr>f</abbr><ex>ilius</ex></expan></w></persName>
-                    <lb n="4"/><name>Quadratus</name></persName>
+                    <lb n="3"/><persName type="attested"><name><w><expan><abbr>L</abbr><ex>ucius</ex></expan></w></name> <name><w>Caelius</w></name> <persName type="attested"><name><w><expan><abbr>M</abbr><ex>arci</ex></expan></w></name> <w><expan><abbr>f</abbr><ex>ilius</ex></expan></w></persName>
+                    <lb n="4"/><name><w>Quadratus</w></name></persName>
                     <lb n="5"/><w><expan><abbr>d</abbr><ex>e</ex></expan></w> <w><expan><abbr>s</abbr><ex>ua</ex></expan></w> <w><expan><abbr>p</abbr><ex>ecunia</ex></expan></w>
                 </ab>
             </div>

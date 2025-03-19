@@ -193,11 +193,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#TA">
                 <ab>
-                    <lb n="1"/><w>Dis</w> <g ref="#interpunct">·</g> <name>Manibus</name> <g ref="#interpunct">·</g> <w><expan><abbr>sac</abbr><ex>rum</ex></expan></w>
-                    <lb n="2"/><name>Callis<choice><corr>t</corr><sic>i</sic></choice>o</name> <g ref="#interpunct">·</g> <w><choice><corr>t</corr><sic>i</sic></choice>raeci</w> <g ref="#interpunct">·</g> <name><expan><abbr>Treb</abbr><ex cert="low">oni</ex></expan></name> <g ref="#interpunct">·</g>
-                    <lb n="3"/><w>fecit</w> <g ref="#interpunct">·</g> <name>Spec<supplied reason="omitted" cert="low">i</supplied></name> <g ref="#interpunct">·</g> <w>eques</w>
+                    <lb n="1"/><w>Dis</w> <g ref="#interpunct">·</g> <name><w>Manibus</w></name> <g ref="#interpunct">·</g> <w><expan><abbr>sac</abbr><ex>rum</ex></expan></w>
+                    <lb n="2"/><name><w>Callis<choice><corr>t</corr><sic>i</sic></choice>o</w></name> <g ref="#interpunct">·</g> <w><choice><corr>t</corr><sic>i</sic></choice>raeci</w> <g ref="#interpunct">·</g> <name><w><expan><abbr>Treb</abbr><ex cert="low">oni</ex></expan></w></name> <g ref="#interpunct">·</g>
+                    <lb n="3"/><w>fecit</w> <g ref="#interpunct">·</g> <name><w>Spec<supplied reason="omitted" cert="low">i</supplied></w></name> <g ref="#interpunct">·</g> <w>eques</w>
                     <lb n="4"/><w><expan><abbr>cons</abbr><ex>ervo</ex></expan></w> <g ref="#interpunct">·</g> <w>bene</w> <w>merenti</w>
-                    <lb n="5"/><w><expan><abbr>v</abbr><ex cert="low">ixit</ex></expan></w> <g ref="#interpunct">·</g> <num value="20">XX</num>
+                    <lb n="5"/><w><expan><abbr>v</abbr><ex cert="low">ixit</ex></expan></w> <g ref="#interpunct">·</g> <num value="20"><w>XX</w></num>
                 </ab>
             </div>
             <div type="apparatus">

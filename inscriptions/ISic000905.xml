@@ -192,12 +192,12 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
                     <lb n="1"/><w>ἐνθάδε</w> <w>κῖ
-                    <lb n="2" break="no"/>ται</w> <name>Βονι
-                    <lb n="3" break="no"/>φάτις</name> <w>παῖς</w>
-                    <lb n="4"/><name>Εὐσεβίου</name> <w>τοῦ</w>
+                    <lb n="2" break="no"/>ται</w> <name><w>Βονι
+                    <lb n="3" break="no"/>φάτις</w></name> <w>παῖς</w>
+                    <lb n="4"/><name><w>Εὐσεβίου</w></name> <w>τοῦ</w>
                     <lb n="5"/><w><expan><abbr>τραπεζ</abbr><ex>ίτου</ex></expan></w> <w>κοιμ<unclear>η</unclear>
-                    <lb n="6" break="no"/>θεὶ<choice><corr>ς</corr><sic>ε</sic></choice></w> <w><surplus>ε</surplus></w> <w><expan><hi rend="ligature"><abbr>πρ</abbr></hi><ex>ὸ</ex></expan></w> <num value="1"><hi rend="supraline">α</hi></num> <w><expan><abbr>ἰδ</abbr><ex>ῶν</ex></expan></w>
-                    <lb n="7"/><name><expan><abbr>Νοβενβρί</abbr><ex>ων</ex></expan></name>
+                    <lb n="6" break="no"/>θεὶ<choice><corr>ς</corr><sic>ε</sic></choice></w> <w><surplus>ε</surplus></w> <w><expan><hi rend="ligature"><abbr>πρ</abbr></hi><ex>ὸ</ex></expan></w> <num value="1"><w><hi rend="supraline">α</hi></w></num> <w><expan><abbr>ἰδ</abbr><ex>ῶν</ex></expan></w>
+                    <lb n="7"/><name><w><expan><abbr>Νοβενβρί</abbr><ex>ων</ex></expan></w></name>
                     <lb n="7a"/><g ref="#christogram">☧</g>
                 </ab>
             </div>

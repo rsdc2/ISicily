@@ -185,7 +185,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#DEE">
                 <ab>
-                    <lb n="1"/><w><expan><abbr><unclear>D</unclear></abbr><ex cert="low">ivo</ex></expan></w> <persName type="attested" subtype="imperial"><name type="cognomen">August<hi rend="small">o</hi></name></persName>
+                    <lb n="1"/><w><expan><abbr><unclear>D</unclear></abbr><ex cert="low">ivo</ex></expan></w> <persName type="attested" subtype="imperial"><name type="cognomen"><w>August<hi rend="small">o</hi></w></name></persName>
                 </ab>
             </div>
             <div type="apparatus">

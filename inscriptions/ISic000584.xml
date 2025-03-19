@@ -216,9 +216,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name type="praenomen"><expan><abbr>M</abbr><ex>arcus</ex></expan></name> <g ref="#interpunct">·</g> <name type="nomen">Limbricius</name> <g ref="#interpunct">·</g> <persName type="attested"><name type="patronym"><expan><abbr>M</abbr><ex>arci</ex></expan></name></persName> <g ref="#interpunct">·</g> <w><expan><abbr>f</abbr><ex>ilius</ex></expan></w> <g ref="#interpunct">·</g>
-                    <lb n="2"/><orgName><name><expan><abbr>Fal</abbr><ex>erna tribu</ex></expan></name></orgName> <g ref="#interpunct">·</g> <name type="cognomen">Rufus</name></persName> <g ref="#interpunct">·</g>
-                    <lb n="3"/><w><expan><abbr>v</abbr><ex>ivens</ex></expan></w> <g ref="#interpunct">·</g> <w>sibi</w> <g ref="#interpunct">·</g> <w>et</w> <g ref="#interpunct">·</g> <persName type="attested"><name type="nomen">Helviae</name> <g ref="#interpunct">·</g> <name type="cognomen">Arurae</name></persName>
+                    <lb n="1"/><persName type="attested"><name type="praenomen"><w><expan><abbr>M</abbr><ex>arcus</ex></expan></w></name> <g ref="#interpunct">·</g> <name type="nomen"><w>Limbricius</w></name> <g ref="#interpunct">·</g> <persName type="attested"><name type="patronym"><w><expan><abbr>M</abbr><ex>arci</ex></expan></w></name></persName> <g ref="#interpunct">·</g> <w><expan><abbr>f</abbr><ex>ilius</ex></expan></w> <g ref="#interpunct">·</g>
+                    <lb n="2"/><orgName><name><w><expan><abbr>Fal</abbr><ex>erna tribu</ex></expan></w></name></orgName> <g ref="#interpunct">·</g> <name type="cognomen"><w>Rufus</w></name></persName> <g ref="#interpunct">·</g>
+                    <lb n="3"/><w><expan><abbr>v</abbr><ex>ivens</ex></expan></w> <g ref="#interpunct">·</g> <w>sibi</w> <g ref="#interpunct">·</g> <w>et</w> <g ref="#interpunct">·</g> <persName type="attested"><name type="nomen"><w>Helviae</w></name> <g ref="#interpunct">·</g> <name type="cognomen"><w>Arurae</w></name></persName>
                     <lb n="4"/><w>uxori</w> <g ref="#interpunct">·</g> <w>suae</w> <g ref="#interpunct">·</g>
                 </ab>
             </div>

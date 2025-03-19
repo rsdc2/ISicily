@@ -186,17 +186,17 @@
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
                     <lb n="1"/><g ref="#palm">⸙</g> <w>Pompeianis</w> <g ref="#interpunct">·</g> <w>vita</w> <g ref="#palm">⸙</g>
-                    <lb n="2"/><name>Ob</name> <w>insignem</w> <w>iustitiam</w>
+                    <lb n="2"/><name><w>Ob</w></name> <w>insignem</w> <w>iustitiam</w>
                     <lb n="3"/><w>et</w> <w>merita</w> <w>litterarum</w> <w>et</w> <w>amorem</w>
                     <lb n="4"/><w>quem</w> <w>non</w> <w>solum</w> <w>circa</w> <w>patriam</w>
                     <lb n="5"/><w>sed</w> <w>per</w> <w>omnem</w> <w>provinci<hi rend="ligature">am</hi></w> <w>c<hi rend="small">o</hi>nl<hi rend="small">o</hi>cavit</w>
-                    <lb n="6"/><name><expan><abbr>Iul</abbr><ex>io</ex></expan></name> <g ref="#interpunct">·</g> <name><expan><abbr>Cl</abbr><ex>audio</ex></expan></name> <g ref="#interpunct">·</g> <name>Peristerio</name> <space extent="unknown" unit="character"/>
-                    <lb n="7"/><name>Pompeiano</name> <w><expan><abbr>v</abbr><ex>iro</ex></expan></w> <g ref="#interpunct">·</g> <roleName type="supracivic" subtype="clarissimus"><w><expan><abbr>c</abbr><ex>larissimo</ex></expan></w></roleName> <w>ex</w> <roleName type="supracivic" subtype="consularis"><w><expan><abbr>cons</abbr><ex>ulari</ex></expan></w></roleName> <g ref="#interpunct">·</g> <w><expan><abbr>p</abbr><ex>rovinciae</ex></expan></w> <g ref="#interpunct">·</g> <name><expan><abbr>S</abbr><ex>iciliae</ex></expan></name> <g ref="#interpunct">·</g>
+                    <lb n="6"/><name><w><expan><abbr>Iul</abbr><ex>io</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w><expan><abbr>Cl</abbr><ex>audio</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w>Peristerio</w></name> <space extent="unknown" unit="character"/>
+                    <lb n="7"/><name><w>Pompeiano</w></name> <w><expan><abbr>v</abbr><ex>iro</ex></expan></w> <g ref="#interpunct">·</g> <roleName type="supracivic" subtype="clarissimus"><w><expan><abbr>c</abbr><ex>larissimo</ex></expan></w></roleName> <w>ex</w> <roleName type="supracivic" subtype="consularis"><w><expan><abbr>cons</abbr><ex>ulari</ex></expan></w></roleName> <g ref="#interpunct">·</g> <w><expan><abbr>p</abbr><ex>rovinciae</ex></expan></w> <g ref="#interpunct">·</g> <name><w><expan><abbr>S</abbr><ex>iciliae</ex></expan></w></name> <g ref="#interpunct">·</g>
                     <lb n="8"/><w>universa</w> <w>curia</w> <w>in</w> <w>c<hi rend="small">o</hi>etu</w> <w><choice><sic>splendidu</sic><corr>splendido</corr></choice></w> <g ref="#interpunct">·</g> <w>suo</w>
                     <lb n="9"/><roleName type="paracivic" subtype="patronus"><w>patrono</w></roleName> <w>digno</w> <w>et</w> <w><choice><orig>prestantissimo</orig><reg>praestantissimo</reg></choice></w>
                     <lb n="10"/><w>statuam</w> <w>conlocavit</w>
                     <lb/><space unit="line" quantity="1"/>
-                    <lb n="11"/><g ref="#palm">⸙</g> <name>Amazoniis</name> <w>vita</w> <g ref="#palm">⸙</g>
+                    <lb n="11"/><g ref="#palm">⸙</g> <name><w>Amazoniis</w></name> <w>vita</w> <g ref="#palm">⸙</g>
                 </ab>
             </div>
             <div type="apparatus" resp="#JP">

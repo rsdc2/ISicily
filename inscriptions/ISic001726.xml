@@ -175,11 +175,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JH">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name>Μανγάνης</name></persName>
+                    <lb n="1"/><persName type="attested"><name><w>Μανγάνης</w></name></persName>
                     <lb n="2"/><w>τελευτῆσας</w>
-                    <lb n="3"/><w>μη<unclear>ν</unclear>ὶ</w> <name>Νοβε<supplied reason="omitted">μ</supplied>βρί
-                    <lb n="4" break="no"/>ῳ</name> <w><choice><orig>ἥρων</orig><reg>ἐτῶν</reg></choice></w> <num value="10">δέχε
-                    <lb n="5" break="no"/>μ</num> <num value="9">ἐ<g ref="#christogram">☧</g>νέα</num>
+                    <lb n="3"/><w>μη<unclear>ν</unclear>ὶ</w> <name><w>Νοβε<supplied reason="omitted">μ</supplied>βρί
+                    <lb n="4" break="no"/>ῳ</w></name> <w><choice><orig>ἥρων</orig><reg>ἐτῶν</reg></choice></w> <num value="10"><w>δέχε
+                    <lb n="5" break="no"/>μ</w></num> <num value="9"><w>ἐ<g ref="#christogram">☧</g>νέα</w></num>
                 </ab>
             </div>
             <div type="apparatus" xml:lang="grc" resp="#JH">

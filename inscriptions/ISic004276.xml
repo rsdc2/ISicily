@@ -191,10 +191,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#DEE">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <name><expan><abbr>M</abbr><ex>anibus</ex></expan></name>
-                    <lb n="2"/><persName type="attested"><name type="praenomen"><expan><abbr>C</abbr><ex>aia</ex></expan></name> <g ref="#interpunct">·</g> <name type="cognomen">Copril
-                    <lb n="3" break="no"/>la</name></persName> <g ref="#interpunct">·</g> <w><expan><abbr>v</abbr><ex>ixit</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>an</abbr><ex>nis</ex></expan></w>
-                    <lb n="4"/><num value="42">XXXXII</num>
+                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <name><w><expan><abbr>M</abbr><ex>anibus</ex></expan></w></name>
+                    <lb n="2"/><persName type="attested"><name type="praenomen"><w><expan><abbr>C</abbr><ex>aia</ex></expan></w></name> <g ref="#interpunct">·</g> <name type="cognomen"><w>Copril
+                    <lb n="3" break="no"/>la</w></name></persName> <g ref="#interpunct">·</g> <w><expan><abbr>v</abbr><ex>ixit</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>an</abbr><ex>nis</ex></expan></w>
+                    <lb n="4"/><num value="42"><w>XXXXII</w></num>
                     <lb n="5"/><del rend="erasure"><gap reason="lost" quantity="1" unit="line"/></del>
                 </ab>
             </div>

@@ -179,12 +179,12 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
                     <lb n="1"/><w>Εὐμ</w> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="2"/><name>Πισθ</name> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="3"/><name>Αλλο</name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><name><w>Πισθ</w></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="3"/><name><w>Αλλο</w></name> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="4"/><w>ραιον</w> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="5"/><name>Νικάτας</name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="5"/><name><w>Νικάτας</w></name> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="6"/><w>κουν</w> <gap reason="illegible" unit="character" quantity="1"/> <w>ς</w> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="7"/><w>καὶ</w> <name>Εὐε<unclear>ι</unclear></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="7"/><w>καὶ</w> <name><w>Εὐε<unclear>ι</unclear></w></name> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>
             <div type="apparatus" resp="#JP">

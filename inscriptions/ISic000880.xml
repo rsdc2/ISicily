@@ -190,14 +190,14 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/><w>αἶψα</w> <w>θανὼν</w> <w>μετὰ</w> <w>κῆρα</w> <name>Νικοστράτου</name>
+                    <lb n="1"/><w>αἶψα</w> <w>θανὼν</w> <w>μετὰ</w> <w>κῆρα</w> <name><w>Νικοστράτου</w></name>
                     <lb n="2"/><w>ἐνθάδε</w> <w>κεῖμαι</w>
                     <lb n="3"/><w>αἰαῖ</w> <w>ἀπολλύμενος</w> <w>δεσπότου</w> <w>ἀμφ’</w> <w>ὀδύνῃ·</w>
                     <lb n="4"/><w>αὐτοῦ</w> <w>γὰρ</w> <w>γενόμην</w> <w>καὶ</w> <w>ἐπίτροπος</w> <w>οὔνομα</w> <w>δ’</w> <w>ἦν</w> <w>μοι</w>
-                    <lb n="5"/><w>δείλαιος</w> <name>Ἀγάθων</name> <w>δακρυόεις</w> <w>ὁ</w> <w>βίος</w>
-                    <lb n="6"/><w>τῇ</w> <w>πρὸ</w> <num value="1">α</num> <w>νωνῶν</w> <name>Φεβρουαρίων</name>
-                    <lb n="7"/><w>μετὰ</w> <w>τὴν</w> <roleName type="supracivic" subtype="consul"><w>ὑπατίαν</w></roleName> <name>Ὁνορίου</name> <w>τὸ</w> <num value="8">η</num> <w>καὶ</w>
-                    <lb n="8"/><name>Θεοδοσίου</name> <w>τὸ</w> <num value="3">γ</num> <name><expan><abbr>Σεβ<am>β</am></abbr><ex>αστῶν</ex></expan></name>
+                    <lb n="5"/><w>δείλαιος</w> <name><w>Ἀγάθων</w></name> <w>δακρυόεις</w> <w>ὁ</w> <w>βίος</w>
+                    <lb n="6"/><w>τῇ</w> <w>πρὸ</w> <num value="1"><w>α</w></num> <w>νωνῶν</w> <name><w>Φεβρουαρίων</w></name>
+                    <lb n="7"/><w>μετὰ</w> <w>τὴν</w> <roleName type="supracivic" subtype="consul"><w>ὑπατίαν</w></roleName> <name><w>Ὁνορίου</w></name> <w>τὸ</w> <num value="8"><w>η</w></num> <w>καὶ</w>
+                    <lb n="8"/><name><w>Θεοδοσίου</w></name> <w>τὸ</w> <num value="3"><w>γ</w></num> <name><w><expan><abbr>Σεβ<am>β</am></abbr><ex>αστῶν</ex></expan></w></name>
                 </ab>
             </div>
             <div type="apparatus">

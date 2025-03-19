@@ -197,7 +197,7 @@
                 <ab>
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <orig>A</orig><gap reason="illegible" unit="character" quantity="1"/> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w part="F">sicae</w> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <name>Dalma<supplied reason="lost">tiae</supplied></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <name><w>Dalma<supplied reason="lost">tiae</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <w part="F">ni</w> <g ref="#ivy-leaf">❦</g> <w part="I">duc</w> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>

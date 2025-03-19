@@ -201,8 +201,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w><unclear>r</unclear>egila</w> <g ref="#interpunct">·</g> <name>V</name> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <gap reason="illegible" quantity="1" unit="character"/> <w><unclear>IE</unclear></w> <name>M</name> <gap reason="illegible" quantity="3" unit="character"/> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w><unclear>r</unclear>egila</w> <g ref="#interpunct">·</g> <name><w>V</w></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <gap reason="illegible" quantity="1" unit="character"/> <w><unclear>IE</unclear></w> <name><w>M</w></name> <gap reason="illegible" quantity="3" unit="character"/> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>
             <div type="apparatus">

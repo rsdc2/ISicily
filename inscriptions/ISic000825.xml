@@ -199,10 +199,10 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
                     <lb n="1"/><w>Ἀριστοβούλα</w>
-                    <lb n="2"/><name>Θεοδώρου</name>
+                    <lb n="2"/><name><w>Θεοδώρου</w></name>
                     <lb n="3"/><w>τὰ</w> <w>τρίκλειν<supplied reason="lost">α</supplied></w>
                     <lb n="4"/><w>καὶ</w> <w>τὸν</w> <w>βωμὸν</w>
-                    <lb n="5"/><name>Νύμφαις</name>
+                    <lb n="5"/><name><w>Νύμφαις</w></name>
                 </ab>
             </div>
             <div type="apparatus">

@@ -197,7 +197,7 @@
                 <ab>
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="line"/> <w>icio</w> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w>ERE</w> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="3"/><gap reason="illegible" quantity="1" unit="character"/> <name><unclear>E</unclear></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="3"/><gap reason="illegible" quantity="1" unit="character"/> <name><w><unclear>E</unclear></w></name> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>
             <div type="apparatus">

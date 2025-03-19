@@ -192,10 +192,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#TNS">
                 <ab>
-                    <lb n="1"/><name><expan><abbr>P</abbr><ex>ublius</ex></expan></name> <g ref="#interpunct">·</g> <name>Cor<unclear>n</unclear><supplied reason="lost">elius</supplied></name> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="2"/><name>Au<gap reason="lost" extent="unknown" unit="character"/></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><name><w><expan><abbr>P</abbr><ex>ublius</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w>Cor<unclear>n</unclear><supplied reason="lost">elius</supplied></w></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><name><w>Au<gap reason="lost" extent="unknown" unit="character"/></w></name> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="3"/><w><expan><abbr>vix</abbr><ex>it</ex></expan></w> <g ref="#interpunct">·</g> <w>an<supplied reason="lost">nis</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="4"/><w><expan><abbr>dieb</abbr><ex>us</ex></expan></w> <g ref="#interpunct">·</g> <num atLeast="25" atMost="29">XXV<gap reason="lost" extent="unknown" unit="character"/></num> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="4"/><w><expan><abbr>dieb</abbr><ex>us</ex></expan></w> <g ref="#interpunct">·</g> <num atLeast="25" atMost="29"><w>XXV<gap reason="lost" extent="unknown" unit="character"/></w></num> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>
             <div type="apparatus">

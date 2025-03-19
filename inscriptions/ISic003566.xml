@@ -187,8 +187,8 @@
         <body>
             <div type="edition" xml:space="preserve" subtype="PHI" n="PHI337361">
                 <ab>
-                    <lb n="1"/><w>κοιμητήρην</w> <name><surplus>²⁶κοιμητήρι(ο)ν</surplus>²⁶</name> <name>Βαλερείου</name>
-                    <lb n="2"/><w><expan><abbr>κ</abbr><ex>αὶ</ex></expan></w> <name>Εὐκαρπεία<supplied reason="lost">ς — —</supplied>.</name>
+                    <lb n="1"/><w>κοιμητήρην</w> <name><w><surplus>²⁶κοιμητήρι(ο)ν</surplus>²⁶</w></name> <name><w>Βαλερείου</w></name>
+                    <lb n="2"/><w><expan><abbr>κ</abbr><ex>αὶ</ex></expan></w> <name><w>Εὐκαρπεία<supplied reason="lost">ς — —</supplied>.</w></name>
                     <lb n="3"/>
                 </ab>
             </div>

@@ -192,9 +192,9 @@
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
                     <lb n="1"/><w><expan><abbr>d</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>m</abbr><ex>anibus</ex></expan></w>
-                    <lb n="2"/><name><expan><abbr>L</abbr><ex>ucio</ex></expan></name> <g ref="#interpunct">·</g> <name>Titieno</name>
-                    <lb n="3"/><w><expan><abbr>vix</abbr><ex>it</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>an</abbr><ex>nos</ex></expan></w> <g ref="#interpunct">·</g> <num value="36">XXXVI</num>
-                    <lb n="4"/><name><expan><abbr>Aur</abbr><ex>elia</ex></expan></name> <g ref="#interpunct">·</g> <name>Titia</name>
+                    <lb n="2"/><name><w><expan><abbr>L</abbr><ex>ucio</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w>Titieno</w></name>
+                    <lb n="3"/><w><expan><abbr>vix</abbr><ex>it</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>an</abbr><ex>nos</ex></expan></w> <g ref="#interpunct">·</g> <num value="36"><w>XXXVI</w></num>
+                    <lb n="4"/><name><w><expan><abbr>Aur</abbr><ex>elia</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w>Titia</w></name>
                     <lb n="5"/><w>fratri</w> <g ref="#interpunct">·</g> <w><expan><abbr>b</abbr><ex>ene</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>m</abbr><ex>erenti</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>f</abbr><ex>ecit</ex></expan></w> <g ref="#interpunct">·</g>
                 </ab>
             </div>

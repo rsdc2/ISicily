@@ -192,11 +192,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#AA">
                 <ab>
-                    <lb n="1"/><w><supplied reason="lost">ἀγορασία</supplied></w> <name><supplied reason="lost">Π</supplied>αλλαδίου</name> <w>τοῦ</w>
-                    <lb n="2"/><w><supplied reason="lost">συμβίου</supplied></w> <w><supplied reason="lost">τ</supplied>ῆς</w> <name>Πελαγίας</name> <w>ἐ<supplied reason="lost">γέ</supplied>
-                    <lb n="3" break="no"/><supplied reason="lost">νετο</supplied></w> <supplied reason="lost"><name>Πελαγία</name></supplied> <w>τῇ</w> <w><hi rend="ligature">πρ</hi>ὸ</w> <num value="11">ια</num> <w>καλ<supplied reason="lost">ανδων</supplied></w>
+                    <lb n="1"/><w><supplied reason="lost">ἀγορασία</supplied></w> <name><w><supplied reason="lost">Π</supplied>αλλαδίου</w></name> <w>τοῦ</w>
+                    <lb n="2"/><w><supplied reason="lost">συμβίου</supplied></w> <w><supplied reason="lost">τ</supplied>ῆς</w> <name><w>Πελαγίας</w></name> <w>ἐ<supplied reason="lost">γέ</supplied>
+                    <lb n="3" break="no"/><supplied reason="lost">νετο</supplied></w> <supplied reason="lost"><name><w>Πελαγία</w></name></supplied> <w>τῇ</w> <w><hi rend="ligature">πρ</hi>ὸ</w> <num value="11"><w>ια</w></num> <w>καλ<supplied reason="lost">ανδων</supplied></w>
                     <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">τελε</supplied>υτᾶ</w> <w>δ<supplied reason="lost">ὲ</supplied></w>
-                    <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/> <name><supplied reason="lost">Σε</supplied>πτεμβρίων</name>
+                    <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/> <name><w><supplied reason="lost">Σε</supplied>πτεμβρίων</w></name>
                     <lb n="6"/><w><supplied reason="lost">ἐνθάδε</supplied></w> <w><supplied reason="lost">κῖτ</supplied>ε</w> <w>μόνανδρο<supplied reason="lost">ς</supplied></w>
                 </ab>
             </div>

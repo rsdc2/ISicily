@@ -247,15 +247,15 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
-                    <lb n="1"/><w>Dis</w> <name>Manibus</name>
-                    <lb n="2"/><w>memoriam</w> <name>Ce</name>
-                    <lb n="3"/><w>serni</w> <name>Marce
-                    <lb n="4" break="no"/>li</name> <w>posuit</w> <w><choice><orig>ux
+                    <lb n="1"/><w>Dis</w> <name><w>Manibus</w></name>
+                    <lb n="2"/><w>memoriam</w> <name><w>Ce</w></name>
+                    <lb n="3"/><w>serni</w> <name><w>Marce
+                    <lb n="4" break="no"/>li</w></name> <w>posuit</w> <w><choice><orig>ux
                     <lb n="5" break="no"/>xor</orig><reg>uxor</reg></choice></w> <w>sua</w> <w>et</w> <w>fili</w>
                     <lb n="6"/><w>su<supplied reason="lost">i</supplied></w> <w><unclear>b</unclear><unclear>e</unclear>n<unclear>e</unclear></w> <w>m<unclear>e</unclear></w>
                     <lb n="7"/><w>re<unclear>n</unclear><supplied reason="lost">ti</supplied></w> <w>qui</w> <w><choice><orig>vix
                     <lb n="8" break="no"/>xi<unclear>t</unclear></orig><reg>vixit</reg></choice></w> <w><supplied reason="lost">a</supplied><unclear>n</unclear>nis</w> <space unit="character" quantity="2"/>
-                    <lb n="9"/><num atLeast="33" atMost="53"><supplied reason="undefined" evidence="previouseditor">X</supplied><gap reason="lost" unit="character" atLeast="1" atMost="2"/><unclear>X</unclear>XIII</num> <space unit="character" quantity="1"/>
+                    <lb n="9"/><num atLeast="33" atMost="53"><w><supplied reason="undefined" evidence="previouseditor">X</supplied><gap reason="lost" unit="character" atLeast="1" atMost="2"/><unclear>X</unclear>XIII</w></num> <space unit="character" quantity="1"/>
                     <lb n="10"/><supplied reason="undefined" evidence="previouseditor"><orig>SFV</orig></supplied> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>

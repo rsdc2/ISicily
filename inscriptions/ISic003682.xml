@@ -202,14 +202,14 @@
                     <ab>
                         <cb n="1"/>
                         <lb n="1"/><handShift new="#h1"/><w>Μεγαλλίδος</w>
-                        <lb n="2"/><name>Σωσιστράτου</name>
+                        <lb n="2"/><name><w>Σωσιστράτου</w></name>
                     </ab>
                 </div>
                 <div type="textpart" subtype="section" n="b">
                     <ab>
                         <cb n="2"/>
                         <lb n="1"/><handShift new="#h2"/><w>Χρυσίου</w>
-                        <lb n="2"/><name>Φιλίσκου</name>
+                        <lb n="2"/><name><w>Φιλίσκου</w></name>
                     </ab>
                 </div>
             </div>

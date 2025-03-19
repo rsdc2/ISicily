@@ -193,7 +193,7 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#MB">
                 <ab>
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <orig>Α</orig><w>ἔζη</w>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <orig>Ι</orig><g ref="#leaf">❧</g> <num value="30"><foreign xml:lang="la">XXX</foreign></num>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <orig>Ι</orig><g ref="#leaf">❧</g> <num value="30"><w><foreign xml:lang="la">XXX</foreign></w></num>
                     <lb n="3"/><w><supplied reason="lost">χαῖρε καὶ</supplied></w> <w><unclear>σ</unclear>ύ</w>
                 </ab>
             </div>

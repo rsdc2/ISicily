@@ -215,9 +215,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#TA #JP">
                 <ab>
-                    <lb n="1" xml:id="AOAAK"/><g ref="#ivy-leaf" xml:id="AOAAU">❦</g> <w xml:id="AOAAe"><expan xml:id="AOAAo"><abbr xml:id="AOAAy"><unclear xml:id="AOAAΙ">D</unclear></abbr><ex xml:id="AOAAΤ">is</ex></expan></w> <name xml:id="AOAAε"><supplied reason="lost" xml:id="AOAAο"><expan xml:id="AOABA"><abbr xml:id="AOABK">M</abbr><ex xml:id="AOABU">anibus</ex></expan></supplied></name>
-                    <lb n="2" xml:id="AOABe"/><persName type="attested" xml:id="AOABo"><name xml:id="AOABy">Can<supplied reason="lost" xml:id="AOABΙ">inia</supplied></name>
-                    <lb n="3" xml:id="AOABΤ"/><name xml:id="AOABε">Do<unclear xml:id="AOABο">m</unclear><gap reason="lost" extent="unknown" unit="character" xml:id="AOACA"/></name></persName>
+                    <lb n="1" xml:id="AOAAK"/><g ref="#ivy-leaf" xml:id="AOAAU">❦</g> <w xml:id="AOAAe"><expan xml:id="AOAAo"><abbr xml:id="AOAAy"><unclear xml:id="AOAAΙ">D</unclear></abbr><ex xml:id="AOAAΤ">is</ex></expan></w> <name xml:id="AOAAε"><w><supplied reason="lost" xml:id="AOAAο"><expan xml:id="AOABA"><abbr xml:id="AOABK">M</abbr><ex xml:id="AOABU">anibus</ex></expan></supplied></w></name>
+                    <lb n="2" xml:id="AOABe"/><persName type="attested" xml:id="AOABo"><name xml:id="AOABy"><w>Can<supplied reason="lost" xml:id="AOABΙ">inia</supplied></w></name>
+                    <lb n="3" xml:id="AOABΤ"/><name xml:id="AOABε"><w>Do<unclear xml:id="AOABο">m</unclear><gap reason="lost" extent="unknown" unit="character" xml:id="AOACA"/></w></name></persName>
                     <lb n="4" xml:id="AOACK"/><w xml:id="AOACU"><expan xml:id="AOACe"><abbr xml:id="AOACo">vix</abbr><ex xml:id="AOACy">it</ex></expan></w> <w xml:id="AOACΙ"><supplied reason="lost" xml:id="AOACΤ"><expan xml:id="AOACε"><abbr xml:id="AOACο">an</abbr><ex xml:id="AOADA">nis</ex></expan></supplied></w> <gap reason="lost" extent="unknown" unit="character" xml:id="AOADK"/>
                 </ab>
             </div>

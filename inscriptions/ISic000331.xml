@@ -191,12 +191,12 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <name><expan><abbr>M</abbr><ex>anibus</ex></expan></name> <w><expan><abbr>s</abbr><ex>acrum</ex></expan></w>
-                    <lb n="2"/><name><expan><abbr>L</abbr><ex>ucius</ex></expan></name> <g ref="#interpunct">·</g> <name><expan><abbr>Arr</abbr><ex>ius</ex></expan></name> <g ref="#interpunct">·</g> <name><choice><reg>Logismus</reg><orig>Locismus</orig></choice></name> <g ref="#interpunct">·</g> <w>fecit</w> <g ref="#interpunct">·</g> <w>filiae</w>
+                    <lb n="1"/><w><expan><abbr>D</abbr><ex>is</ex></expan></w> <name><w><expan><abbr>M</abbr><ex>anibus</ex></expan></w></name> <w><expan><abbr>s</abbr><ex>acrum</ex></expan></w>
+                    <lb n="2"/><name><w><expan><abbr>L</abbr><ex>ucius</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w><expan><abbr>Arr</abbr><ex>ius</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w><choice><reg>Logismus</reg><orig>Locismus</orig></choice></w></name> <g ref="#interpunct">·</g> <w>fecit</w> <g ref="#interpunct">·</g> <w>filiae</w>
                     <lb n="3"/><gap reason="lost" quantity="1" unit="line"/>
-                    <lb n="4"/><w><expan><abbr>men</abbr><ex>ses</ex></expan></w> <g ref="#interpunct">·</g> <num value="8">VIII</num> <g ref="#interpunct">·</g> <w><expan><abbr>d</abbr><ex>ies</ex></expan></w> <g ref="#interpunct">·</g> <num value="18">XVIII</num> <g ref="#interpunct">·</g> <w>et</w> <g ref="#interpunct">·</g> <name><expan><abbr>Arr</abbr><ex>io</ex></expan></name>
-                    <lb n="5"/><name>Protioni</name> <g ref="#interpunct">·</g> <w>amico</w> <g ref="#interpunct">·</g> <w><expan><abbr>vix</abbr><ex>it</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>ann</abbr><ex>os</ex></expan></w>
-                    <lb n="6"/><num value="25">XXV</num>
+                    <lb n="4"/><w><expan><abbr>men</abbr><ex>ses</ex></expan></w> <g ref="#interpunct">·</g> <num value="8"><w>VIII</w></num> <g ref="#interpunct">·</g> <w><expan><abbr>d</abbr><ex>ies</ex></expan></w> <g ref="#interpunct">·</g> <num value="18"><w>XVIII</w></num> <g ref="#interpunct">·</g> <w>et</w> <g ref="#interpunct">·</g> <name><w><expan><abbr>Arr</abbr><ex>io</ex></expan></w></name>
+                    <lb n="5"/><name><w>Protioni</w></name> <g ref="#interpunct">·</g> <w>amico</w> <g ref="#interpunct">·</g> <w><expan><abbr>vix</abbr><ex>it</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>ann</abbr><ex>os</ex></expan></w>
+                    <lb n="6"/><num value="25"><w>XXV</w></num>
                 </ab>
             </div>
             <div type="apparatus">

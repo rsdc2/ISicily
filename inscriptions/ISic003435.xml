@@ -191,7 +191,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#MB">
                 <ab>
-                    <lb n="1"/><milestone unit="block" n="1"/><gap reason="lost" extent="unknown" unit="character"/> <persName><name><supplied reason="lost">Αἰ</supplied>σχρίωνα</name></persName> <w>καὶ</w> <persName><name type="patronym">Νυ<milestone unit="block" n="2"/>μφόδωρο<supplied reason="lost">ν</supplied></name> <milestone unit="block" n="4"/><persName><name>Βομβυλίνου</name></persName></persName>
+                    <lb n="1"/><milestone unit="block" n="1"/><gap reason="lost" extent="unknown" unit="character"/> <persName><name><w><supplied reason="lost">Αἰ</supplied>σχρίωνα</w></name></persName> <w>καὶ</w> <persName><name type="patronym"><w>Νυ<milestone unit="block" n="2"/>μφόδωρο<supplied reason="lost">ν</supplied></w></name> <milestone unit="block" n="4"/><persName><name><w>Βομβυλίνου</w></name></persName></persName>
                 </ab>
             </div>
             <div type="apparatus">

@@ -187,18 +187,18 @@
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <div type="textpart" subtype="section" n="a">
                     <ab>
-                        <lb n="1"/><persName type="attested"><name>Σόσιος</name> <name>Βαχχύλος</name></persName>
+                        <lb n="1"/><persName type="attested"><name><w>Σόσιος</w></name> <name><w>Βαχχύλος</w></name></persName>
                         <lb n="2"/><roleName type="paracivic.religious" subtype="diakonos"><w>διάκων</w></roleName> <w>ἐνθάδε</w>
                         <lb n="3"/><w>κῖτε</w> <w><unclear>ἀ</unclear>νεπαύσετο</w>
-                        <lb n="4"/><w>μηνὶ</w> <name>Νοβενβρίῳ</name>
-                        <lb n="5"/><w>ἀπὸ</w> <w><expan><abbr>καλανδῶ</abbr><ex>ν</ex></expan></w> <g ref="#interpunct">·</g> <num value="13">ιγ</num> <g ref="#interpunct">·</g>
+                        <lb n="4"/><w>μηνὶ</w> <name><w>Νοβενβρίῳ</w></name>
+                        <lb n="5"/><w>ἀπὸ</w> <w><expan><abbr>καλανδῶ</abbr><ex>ν</ex></expan></w> <g ref="#interpunct">·</g> <num value="13"><w>ιγ</w></num> <g ref="#interpunct">·</g>
                     </ab>
                 </div>
                 <div type="textpart" subtype="section" n="b">
                     <ab>
-                        <lb n="1"/><persName type="attested"><name><expan><abbr>Ἀντ</abbr><ex>ωνεία</ex></expan></name> <name>Εὐφ<unclear>ροσ</unclear><supplied reason="lost">ύ</supplied>
-                        <lb n="2" break="no"/>νη</name></persName> <w><expan><abbr>ἀνεπαύ<supplied reason="lost">σα</supplied>τ</abbr><ex>ο</ex></expan></w>
-                        <lb n="3"/><w>τῇ</w> <w>πρὸ</w> <num value="11">ια</num> <w><expan><abbr>κ</abbr><ex>αλανδῶν</ex></expan></w> <name><expan><abbr>Δεκεμβρ</abbr><ex>ίων</ex></expan></name>
+                        <lb n="1"/><persName type="attested"><name><w><expan><abbr>Ἀντ</abbr><ex>ωνεία</ex></expan></w></name> <name><w>Εὐφ<unclear>ροσ</unclear><supplied reason="lost">ύ</supplied>
+                        <lb n="2" break="no"/>νη</w></name></persName> <w><expan><abbr>ἀνεπαύ<supplied reason="lost">σα</supplied>τ</abbr><ex>ο</ex></expan></w>
+                        <lb n="3"/><w>τῇ</w> <w>πρὸ</w> <num value="11"><w>ια</w></num> <w><expan><abbr>κ</abbr><ex>αλανδῶν</ex></expan></w> <name><w><expan><abbr>Δεκεμβρ</abbr><ex>ίων</ex></expan></w></name>
                     </ab>
                 </div>
             </div>

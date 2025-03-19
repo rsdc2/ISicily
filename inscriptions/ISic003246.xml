@@ -231,10 +231,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#martaf #AA">
                 <ab>
-                    <lb n="1"/><w><expan><abbr>Θ</abbr><ex>εοῖς</ex></expan></w> <name><expan><abbr>Κ</abbr><ex>αταχθονίοις</ex></expan></name>
-                    <lb n="2"/><persName type="attested"><name>Μερκουριάλης</name></persName>
+                    <lb n="1"/><w><expan><abbr>Θ</abbr><ex>εοῖς</ex></expan></w> <name><w><expan><abbr>Κ</abbr><ex>αταχθονίοις</ex></expan></w></name>
+                    <lb n="2"/><persName type="attested"><name><w>Μερκουριάλης</w></name></persName>
                     <lb n="3"/><w><supplied reason="undefined" evidence="previouseditor">ἔζ</supplied>ησεν</w> <g ref="#interpunct">·</g> <w>ἔτη</w>
-                    <lb n="4"/><num value="42">μβ</num> <g ref="#interpunct">·</g>
+                    <lb n="4"/><num value="42"><w>μβ</w></num> <g ref="#interpunct">·</g>
                     <lb n="5"/><w><supplied reason="undefined" evidence="previouseditor">γυν</supplied>ὴ</w> <g ref="#interpunct">·</g> <w>ἔποισε</w>
                 </ab>
             </div>

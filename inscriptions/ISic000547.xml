@@ -198,11 +198,11 @@
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#NCash">
                 <ab>
                     <lb n="1"/><w><expan><abbr>d</abbr><ex>is</ex></expan></w> <w><expan><abbr>m</abbr><ex>anibus</ex></expan></w>
-                    <lb n="2"/><name><expan><abbr><supplied reason="lost">A</supplied>ur</abbr><ex>elio</ex></expan></name> <g ref="#interpunct">·</g> <name>Rustico</name> <g ref="#interpunct">·</g> <w><expan><abbr>mil</abbr><ex>itavit</ex></expan></w>
-                    <lb n="3"/><w><expan><abbr>ann</abbr><ex>os</ex></expan></w> <g ref="#interpunct">·</g> <num value="8">VIII</num> <w><expan><abbr>tr</abbr><ex>iere</ex></expan></w> <w><expan><abbr><am><g ref="#centuria"/></am></abbr><ex>centuria</ex></expan></w> <name>Zeno
-                    <lb n="4" break="no"/>nis</name> <g ref="#interpunct">·</g> <name><expan><abbr>Mar</abbr><ex>cus</ex></expan></name> <g ref="#interpunct">·</g> <name>Germanici
-                    <lb n="5" break="no"/>anus</name> <g ref="#interpunct">·</g> <w><expan><abbr>mil</abbr><ex>itavit</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>ann</abbr><ex>os</ex></expan></w> <g ref="#interpunct">·</g> <num value="10">X</num>
-                    <lb n="6"/><name><expan><abbr>Valer</abbr><ex>ius</ex></expan></name> <g ref="#interpunct">·</g> <name>Victorinus</name>
+                    <lb n="2"/><name><w><expan><abbr><supplied reason="lost">A</supplied>ur</abbr><ex>elio</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w>Rustico</w></name> <g ref="#interpunct">·</g> <w><expan><abbr>mil</abbr><ex>itavit</ex></expan></w>
+                    <lb n="3"/><w><expan><abbr>ann</abbr><ex>os</ex></expan></w> <g ref="#interpunct">·</g> <num value="8"><w>VIII</w></num> <w><expan><abbr>tr</abbr><ex>iere</ex></expan></w> <w><expan><abbr><am><g ref="#centuria"/></am></abbr><ex>centuria</ex></expan></w> <name><w>Zeno
+                    <lb n="4" break="no"/>nis</w></name> <g ref="#interpunct">·</g> <name><w><expan><abbr>Mar</abbr><ex>cus</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w>Germanici
+                    <lb n="5" break="no"/>anus</w></name> <g ref="#interpunct">·</g> <w><expan><abbr>mil</abbr><ex>itavit</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>ann</abbr><ex>os</ex></expan></w> <g ref="#interpunct">·</g> <num value="10"><w>X</w></num>
+                    <lb n="6"/><name><w><expan><abbr>Valer</abbr><ex>ius</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w>Victorinus</w></name>
                     <lb n="7"/><w><expan><abbr>her</abbr><ex>es</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>b</abbr><ex>ene</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>m</abbr><ex>erenti</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>f</abbr><ex>ecit</ex></expan></w>
                 </ab>
             </div>

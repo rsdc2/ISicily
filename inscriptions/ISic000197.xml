@@ -192,8 +192,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#VM">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name><expan><abbr>C</abbr><ex cert="low">ai</ex></expan></name> <name>Metel<gap reason="lost" extent="unknown" unit="character"/></name>
-                    <lb n="2"/><name>Cla<gap reason="lost" extent="unknown" unit="character"/></name></persName>
+                    <lb n="1"/><persName type="attested"><name><w><expan><abbr>C</abbr><ex cert="low">ai</ex></expan></w></name> <name><w>Metel<gap reason="lost" extent="unknown" unit="character"/></w></name>
+                    <lb n="2"/><name><w>Cla<gap reason="lost" extent="unknown" unit="character"/></w></name></persName>
                 </ab>
             </div>
             <div type="apparatus">

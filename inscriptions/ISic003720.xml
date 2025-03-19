@@ -194,7 +194,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#AA">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name>Αἰνησῶς</name></persName>
+                    <lb n="1"/><persName type="attested"><name><w>Αἰνησῶς</w></name></persName>
                 </ab>
             </div>
             <div type="apparatus">

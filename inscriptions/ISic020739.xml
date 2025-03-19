@@ -175,7 +175,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="scx-Grek" resp="#VM">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name>μαρες</name> <name>κακα</name></persName>αρ
+                    <lb n="1"/><persName type="attested"><name><w>μαρες</w></name> <name><w>κακα</w></name></persName>αρ
                 </ab>
             </div>             
             <div type="edition" xml:space="preserve" subtype="transliteration" xml:lang="scx-Latn">                 

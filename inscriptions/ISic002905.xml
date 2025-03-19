@@ -185,10 +185,10 @@
         <body>
             <div type="edition" xml:space="preserve" subtype="PHI" n="PHI330707">
                 <ab>
-                    <lb n="1"/><w><supplied reason="lost">— — — — — —</supplied>#⁷</w> <name><supplied reason="lost">— — — —</supplied></name>
-                    <lb n="2"/><w><supplied reason="lost">— — — — —</supplied>ΕΤΗΘ</w> <name><supplied reason="lost">— — — —</supplied></name>
-                    <lb n="3"/><w><supplied reason="lost">— — —</supplied>ΚΟΝΤΟΣ</w> <name>#⁵⁶</name> <w>ΩΡ</w> <name><supplied reason="lost">— —</supplied></name>
-                    <lb n="4"/><name><supplied reason="lost">— — στ</supplied></name> <w><expan><abbr>οργὴ</abbr><ex>?</ex></expan></w> <w>ΕΠ</w> <name><unclear>Ο</unclear></name> <name><supplied reason="lost">— —</supplied></name>
+                    <lb n="1"/><w><supplied reason="lost">— — — — — —</supplied>#⁷</w> <name><w><supplied reason="lost">— — — —</supplied></w></name>
+                    <lb n="2"/><w><supplied reason="lost">— — — — —</supplied>ΕΤΗΘ</w> <name><w><supplied reason="lost">— — — —</supplied></w></name>
+                    <lb n="3"/><w><supplied reason="lost">— — —</supplied>ΚΟΝΤΟΣ</w> <name><w>#⁵⁶</w></name> <w>ΩΡ</w> <name><w><supplied reason="lost">— —</supplied></w></name>
+                    <lb n="4"/><name><w><supplied reason="lost">— — στ</supplied></w></name> <w><expan><abbr>οργὴ</abbr><ex>?</ex></expan></w> <w>ΕΠ</w> <name><w><unclear>Ο</unclear></w></name> <name><w><supplied reason="lost">— —</supplied></w></name>
                     <lb n="5"/>
                 </ab>
             </div>

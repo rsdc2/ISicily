@@ -193,11 +193,11 @@
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#NCash">
                 <ab>
                     <lb n="1"/><w><expan><abbr>d</abbr><ex>is</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>m</abbr><ex>anibus</ex></expan></w>
-                    <lb n="2"/><name>Fortis</name> <g ref="#interpunct">·</g> <name><expan><abbr>Caesar</abbr><ex>is</ex></expan></name> <g ref="#interpunct">·</g> <w><expan><abbr>ser</abbr><ex>vus</ex></expan></w>
-                    <lb n="3"/><w>sibi</w> <g ref="#interpunct">·</g> <w>et</w> <g ref="#interpunct">·</g> <name>Charidi</name>
+                    <lb n="2"/><name><w>Fortis</w></name> <g ref="#interpunct">·</g> <name><w><expan><abbr>Caesar</abbr><ex>is</ex></expan></w></name> <g ref="#interpunct">·</g> <w><expan><abbr>ser</abbr><ex>vus</ex></expan></w>
+                    <lb n="3"/><w>sibi</w> <g ref="#interpunct">·</g> <w>et</w> <g ref="#interpunct">·</g> <name><w>Charidi</w></name>
                     <lb n="4"/><w>coniugi</w> <g ref="#interpunct">·</g> <w>bene</w>
-                    <lb n="5"/><w>merenti</w> <g ref="#interpunct">·</g> <w>et</w> <g ref="#interpunct">·</g> <name><expan><abbr>P</abbr><ex>ublio</ex></expan></name> <g ref="#interpunct">·</g> <name>Aelio</name>
-                    <lb n="6"/><name><expan><abbr>Aug</abbr><ex>usti</ex></expan></name> <g ref="#interpunct">·</g> <w><expan><abbr>lib</abbr><ex>erto</ex></expan></w> <g ref="#interpunct">·</g> <w>felici</w> <g ref="#interpunct">·</g> <w>poste
+                    <lb n="5"/><w>merenti</w> <g ref="#interpunct">·</g> <w>et</w> <g ref="#interpunct">·</g> <name><w><expan><abbr>P</abbr><ex>ublio</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w>Aelio</w></name>
+                    <lb n="6"/><name><w><expan><abbr>Aug</abbr><ex>usti</ex></expan></w></name> <g ref="#interpunct">·</g> <w><expan><abbr>lib</abbr><ex>erto</ex></expan></w> <g ref="#interpunct">·</g> <w>felici</w> <g ref="#interpunct">·</g> <w>poste
                     <lb n="7" break="no"/><expan><abbr>risq</abbr><ex>ue</ex></expan></w> <g ref="#interpunct">·</g> <w>suorum</w> <g ref="#interpunct">·</g> <w>fecit</w>
                 </ab>
             </div>

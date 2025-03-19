@@ -192,10 +192,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la">
                 <ab>
-                    <lb n="1"/><roleName type="supracivic" subtype="dominus"><w><expan><abbr>D</abbr><ex>omino</ex></expan></w></roleName> <g ref="#interpunct">·</g> <w><expan><abbr>n</abbr><ex>ostro</ex></expan></w> <g ref="#interpunct">·</g> <name>Galerio</name> <g ref="#interpunct">·</g> <name><expan><abbr>Val</abbr><ex>erio</ex></expan></name>
-                    <lb n="2"/><name>Maximino</name> <g ref="#interpunct">·</g> <w>nobi
-                    <lb n="3" break="no"/>lissimo</w> <g ref="#interpunct">·</g> <name><expan><abbr>Caes</abbr><ex>ari</ex></expan></name>
-                    <lb n="4"/><w>res</w> <w><expan><abbr>p</abbr><ex>ublica</ex></expan></w> <g ref="#interpunct">·</g> <name><expan><abbr>Panhorm</abbr><ex>itanorum</ex></expan></name>
+                    <lb n="1"/><roleName type="supracivic" subtype="dominus"><w><expan><abbr>D</abbr><ex>omino</ex></expan></w></roleName> <g ref="#interpunct">·</g> <w><expan><abbr>n</abbr><ex>ostro</ex></expan></w> <g ref="#interpunct">·</g> <name><w>Galerio</w></name> <g ref="#interpunct">·</g> <name><w><expan><abbr>Val</abbr><ex>erio</ex></expan></w></name>
+                    <lb n="2"/><name><w>Maximino</w></name> <g ref="#interpunct">·</g> <w>nobi
+                    <lb n="3" break="no"/>lissimo</w> <g ref="#interpunct">·</g> <name><w><expan><abbr>Caes</abbr><ex>ari</ex></expan></w></name>
+                    <lb n="4"/><w>res</w> <w><expan><abbr>p</abbr><ex>ublica</ex></expan></w> <g ref="#interpunct">·</g> <name><w><expan><abbr>Panhorm</abbr><ex>itanorum</ex></expan></w></name>
                     <lb n="5"/><w><expan><abbr>d</abbr><ex>evota</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>n</abbr><ex>umini</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>m</abbr><ex>aiestati</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>q</abbr><ex>ue</ex></expan></w> <g ref="#interpunct">·</g> <w>eius</w>
                 </ab>
             </div>

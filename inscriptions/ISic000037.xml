@@ -193,7 +193,7 @@
             <div type="edition" xml:space="preserve" xml:lang="la">
                 <ab>
                     <lb n="1"/><w>Augusta</w>
-                    <lb n="2"/><name><expan><abbr>Fl</abbr><ex>avia</ex></expan></name> <g ref="#interpunct">·</g> <name>Ubilis</name>
+                    <lb n="2"/><name><w><expan><abbr>Fl</abbr><ex>avia</ex></expan></w></name> <g ref="#interpunct">·</g> <name><w>Ubilis</w></name>
                     <lb n="3"/><g ref="#palm"/> <g ref="#palm"/> <g ref="#palm"/> <g ref="#palm"/>
                 </ab>
             </div>

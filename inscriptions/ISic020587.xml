@@ -175,8 +175,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#VM">
                 <ab>
-                    <lb n="1"/><persName type="divine"><name>Ζε̄νὸς</name></persName> <w>ἐριγδού<unclear>π</unclear>οιο</w> <w><unclear>κ</unclear>όρε̄ι</w> <w>γλαυκο̄́πῑ</w> <persName type="divine"><name><hi rend="ligature">Ἀθ</hi>ε̄́νε̄ι</name></persName>
-                    <lb n="2"/><persName type="attested"><name>Θ<hi rend="subscript">ρί</hi>πυλος</name></persName> <w>εὐξάμε<unclear>ν</unclear>ος</w> <w>τε̄́νδ’</w> <w>ἀνέθε̄κ<unclear>ε</unclear></w> <w>θεᾶι</w>
+                    <lb n="1"/><persName type="divine"><name><w>Ζε̄νὸς</w></name></persName> <w>ἐριγδού<unclear>π</unclear>οιο</w> <w><unclear>κ</unclear>όρε̄ι</w> <w>γλαυκο̄́πῑ</w> <persName type="divine"><name><w><hi rend="ligature">Ἀθ</hi>ε̄́νε̄ι</w></name></persName>
+                    <lb n="2"/><persName type="attested"><name><w>Θ<hi rend="subscript">ρί</hi>πυλος</w></name></persName> <w>εὐξάμε<unclear>ν</unclear>ος</w> <w>τε̄́νδ’</w> <w>ἀνέθε̄κ<unclear>ε</unclear></w> <w>θεᾶι</w>
                 </ab>
             </div>
             <div type="apparatus">

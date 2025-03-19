@@ -194,10 +194,10 @@
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#VM">
                 <ab>
                     <lb n="1"/><w>Memori
-                    <lb n="2" break="no"/>a</w> <name>Zodoris</name>
+                    <lb n="2" break="no"/>a</w> <name><w>Zodoris</w></name>
                     <lb n="3"/><w>f<unclear>u</unclear><supplied reason="lost">lo</supplied>nis</w> <w>qu
                     <lb n="4" break="no"/><supplied reason="lost">i</supplied></w> <w><supplied reason="lost">vixi</supplied>t</w> <w><hi rend="ligature">an</hi>nis</w>
-                    <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/> <num value="10">X</num>
+                    <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/> <num value="10"><w>X</w></num>
                 </ab>
             </div>
             <div type="apparatus">

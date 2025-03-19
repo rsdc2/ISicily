@@ -189,9 +189,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc" resp="#TNS">
                 <ab>
-                    <lb n="1"/><name>Ἡρόδωρος</name>
+                    <lb n="1"/><name><w>Ἡρόδωρος</w></name>
                     <lb n="2"/><w>χρηστὸς</w> <w>ἔζησε</w>
-                    <lb n="3"/><w><supplied reason="lost">ἔτ</supplied>η</w> <num value="3">Γ</num> <gap reason="lost" extent="unknown" unit="character"/> <orig>ΓΙΛΚΕ<unclear>Φ</unclear></orig>
+                    <lb n="3"/><w><supplied reason="lost">ἔτ</supplied>η</w> <num value="3"><w>Γ</w></num> <gap reason="lost" extent="unknown" unit="character"/> <orig>ΓΙΛΚΕ<unclear>Φ</unclear></orig>
                     <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <orig>ΛΙ<unclear>Υ</unclear>Α</orig>
                 </ab>
             </div>
