@@ -211,33 +211,12 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
-                    <lb n="1"/>
-                    <supplied reason="lost">Fl</supplied>
-                    <unclear>a</unclear>mm<unclear>i</unclear>fugas fratr
-                    <unclear>e</unclear>
-                    <supplied reason="lost">s</supplied>
-                    <lb n="2"/>
-                    · <unclear>p</unclear>ietatis maxima dona
-                    <lb n="3"/>
-                    · quos tulit hostilit
-                    <supplied reason="lost">as</supplied>
-                    <lb n="4"/>
-                    · reddid<unclear>i</unclear>t hos Merulus ·
-                    <expan>
-                        <abbr>
-                            <unclear>v</unclear>
-                        </abbr>
-                        <ex>ir</ex>
-                    </expan>
-                    <supplied reason="lost">
-                        <roleName type="supracivic" subtype="clarissimus"><expan>
-                            <abbr>c</abbr><ex>larissimus</ex>
-                        </expan></roleName>
-                    </supplied>
-                    <lb n="5"/>
-                    · et spectabilis · <roleName type="supracivic" subtype="consularis">consul<supplied reason="lost">aris</supplied></roleName>
-                    <lb n="6"/>
-                    <unclear>p</unclear>rovinciae Sicilia<unclear>e</unclear>
+                    <lb n="1"/><supplied reason="lost">Fl</supplied><unclear>a</unclear>mm<unclear>i</unclear>fugas fratr<unclear>e</unclear><supplied reason="lost">s</supplied>
+                    <lb n="2"/>· <unclear>p</unclear>ietatis maxima dona
+                    <lb n="3"/>· quos tulit hostilit<supplied reason="lost">as</supplied>
+                    <lb n="4"/>· reddid<unclear>i</unclear>t hos Merulus · <expan><abbr><unclear>v</unclear></abbr><ex>ir</ex></expan> <supplied reason="lost"><roleName type="supracivic" subtype="clarissimus"><expan><abbr>c</abbr><ex>larissimus</ex></expan></roleName></supplied>
+                    <lb n="5"/>· et spectabilis · <roleName type="supracivic" subtype="consularis">consul<supplied reason="lost">aris</supplied></roleName>
+                    <lb n="6"/><unclear>p</unclear>rovinciae Sicilia<unclear>e</unclear>
                 </ab>
             </div>
             <div type="apparatus">
